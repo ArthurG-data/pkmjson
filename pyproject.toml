@@ -1,0 +1,16 @@
+[project]
+name = "pkmjson"
+version = "0.1.0"
+description = "An open dataset of sealed Pokémon TCG products and their contents"
+requires-python = ">=3.11"
+dependencies = ["jsonschema[format]>=4.21"]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["tools"]
+testpaths = ["tests"]
+
+[tool.uv]
+package = false

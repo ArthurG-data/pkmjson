@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/pkmjson/schema/product.schema.json",
+  "title": "pkmjson product family",
+  "description": "One sealed Pokémon TCG product and its contents, released in one or more languages.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "region", "set", "category", "name", "contentsStatus", "contents", "releases"],
+  "properties": {
+    "id": {
+      "description": "Stable pkmjson id of the product family, without language. Never reused.",
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9.-]*[a-z0-9]$"
+    },
+    "region": {
+      "description": "Which TCGdex tree the set belongs to. Japanese and other Asian products are separate families.",
+      "enum": ["international", "asia"]
+    },
+    "set": {"description": "TCGdex set id, for example sv08 or SV8.", "type": "string", "minLength": 1},
+    "category": {
+      "enum": ["booster_pack", "sleeved_booster_pack", "booster_bundle", "booster_box", "half_booster_box",
+               "elite_trainer_box", "build_and_battle_box", "blister", "collection_box", "premium_collection",
+               "tin", "theme_deck", "battle_deck", "case", "other"]
+    },
+    "name": {"description": "The product's English name, for people browsing the files.", "type": "string"},
+    "contentsStatus": {
+      "description": "complete: every item in the box is listed. partial: some contents are missing, for example the random cards of a booster pack.",
+      "enum": ["complete", "partial"]
+    },
+    "contents": {"$ref": "#/$defs/contents"},
+    "notes": {"type": "string"},
+    "releases": {
+      "description": "One entry per language the product was sold in.",
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/release"}
+    }
+  },
+  "$defs": {
+    "contents": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sealed": {"type": "array", "items": {"$ref": "#/$defs/sealedItem"}},
+        "cards": {"type": "array", "items": {"$ref": "#/$defs/cardItem"}},
+        "other": {"type": "array", "items": {"$ref": "#/$defs/otherItem"}}
+      }
+    },
+    "sealedItem": {
+      "description": "Another pkmjson product inside this one. It resolves to the same language as the release that holds it.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["product", "count"],
+      "properties": {
+        "product": {"type": "string"},
+        "count": {"type": "integer", "minimum": 1}
+      }
+    },
+    "cardItem": {
+      "description": "One printing, pinned by TCGdex card id and variant id. variantId is the same in every language; a release resolves the card in its own language. tcgplayerProductId is TCGplayer's single-card product for that printing, which TCGplayer lists in English only.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tcgdexCardId", "tcgdexVariantId", "count", "role"],
+      "properties": {
+        "tcgdexCardId": {"type": "string"},
+        "tcgdexVariantId": {"type": "string"},
+        "tcgplayerProductId": {"type": "integer"},
+        "cardmarketProductId": {"type": "integer"},
+        "count": {"type": "integer", "minimum": 1},
+        "role": {"enum": ["main", "promo", "bonus"]}
+      }
+    },
+    "otherItem": {
+      "description": "Anything that is not a card or a product: sleeves, dice, code cards, Energy cards.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "count"],
+      "properties": {
+        "name": {"type": "string"},
+        "count": {"type": "integer", "minimum": 1}
+      }
+    },
+    "release": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["language", "name", "sources"],
+      "properties": {
+        "language": {"enum": ["en", "fr", "de", "it", "es", "pt", "nl", "pl", "ja", "ko", "zh-tw", "zh-cn", "th", "id"]},
+        "name": {"description": "The product's name as sold in this language.", "type": "string"},
+        "releaseDate": {"type": "string", "format": "date"},
+        "identifiers": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "tcgplayerProductIds": {"type": "array", "items": {"type": "integer"}, "minItems": 1, "uniqueItems": true},
+            "cardmarketProductId": {"type": "integer"}
+          }
+        },
+        "contents": {
+          "description": "Replaces the family's contents for this language only, when this release differs.",
+          "$ref": "#/$defs/contents"
+        },
+        "sources": {
+          "description": "Pages that state this release's contents or name.",
+          "type": "array",
+          "minItems": 1,
+          "items": {"type": "string", "format": "uri"}
+        }
+      }
+    }
+  }
+}

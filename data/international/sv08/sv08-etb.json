@@ -1,0 +1,47 @@
+{
+  "id": "sv08-etb",
+  "region": "international",
+  "set": "sv08",
+  "category": "elite_trainer_box",
+  "name": "Surging Sparks Elite Trainer Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [{"product": "sv08-booster", "count": 9}],
+    "cards": [
+      {"tcgdexCardId": "svp-159", "tcgdexVariantId": "jr7oetx1mqug9", "tcgplayerProductId": 594386,
+       "cardmarketProductId": 796935, "count": 1, "role": "promo"}
+    ],
+    "other": [
+      {"name": "Card sleeves", "count": 65},
+      {"name": "Basic Energy cards", "count": 45},
+      {"name": "Player's guide", "count": 1},
+      {"name": "Damage-counter dice", "count": 6},
+      {"name": "Coin-flip die", "count": 1},
+      {"name": "Condition markers", "count": 2},
+      {"name": "Collector's box with dividers", "count": 1},
+      {"name": "Pokémon TCG Live code card", "count": 1}
+    ]
+  },
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Elite Trainer Box",
+      "releaseDate": "2024-11-08",
+      "identifiers": {"tcgplayerProductIds": [565630]},
+      "sources": [
+        "https://www.tcgplayer.com/product/565630/pokemon-sv08-surging-sparks-surging-sparks-elite-trainer-box",
+        "https://www.codedyellow.com/surging-sparks-elite-trainer-box/",
+        "https://bulbapedia.bulbagarden.net/wiki/Magneton_(SVP_Promo_159)"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'Élite Écarlate et Violet – Étincelles Déferlantes",
+      "releaseDate": "2024-11-08",
+      "sources": [
+        "https://www.chocobonplan.com/bons-plans/cartes-a-jouer/cartes-pokemon/coffret-dresseur-delite-etincelles-deferlantes-ev08",
+        "https://www.pkmcards.fr/products/elite-trainer/coffret-dresseur-elite-etincelles-deferlantes-pikachu-teracristal-stellaire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sv08-etb-pokemon-center",
+  "region": "international",
+  "set": "sv08",
+  "category": "elite_trainer_box",
+  "name": "Surging Sparks Pokémon Center Elite Trainer Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [{"product": "sv08-booster", "count": 11}],
+    "cards": [
+      {"tcgdexCardId": "svp-159", "tcgdexVariantId": "jr7oetx1mqug9", "tcgplayerProductId": 594386,
+       "cardmarketProductId": 796935, "count": 1, "role": "promo"},
+      {"tcgdexCardId": "svp-159", "tcgdexVariantId": "23hmnvtwdrrnjw8wxr5005pugcpk", "tcgplayerProductId": 594468,
+       "cardmarketProductId": 799710, "count": 1, "role": "promo"}
+    ],
+    "other": [
+      {"name": "Card sleeves", "count": 65},
+      {"name": "Basic Energy cards", "count": 45},
+      {"name": "Player's guide", "count": 1},
+      {"name": "Damage-counter dice", "count": 6},
+      {"name": "Coin-flip die", "count": 1},
+      {"name": "Condition markers", "count": 2},
+      {"name": "Collector's box with dividers", "count": 1},
+      {"name": "Pokémon TCG Live code card", "count": 1}
+    ]
+  },
+  "notes": "The second Magneton carries the Pokémon Center stamp above its Retreat Cost.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Pokémon Center Elite Trainer Box",
+      "releaseDate": "2024-11-08",
+      "identifiers": {"tcgplayerProductIds": [565632]},
+      "sources": [
+        "https://www.tcgplayer.com/product/565632/pokemon-sv08-surging-sparks-surging-sparks-pokemon-center-elite-trainer-box-exclusive",
+        "https://www.nobleknight.com/P/2148470588/Surging-Sparks-Pokemon-Center-Exclusive-Elite-Trainer-Box",
+        "https://bulbapedia.bulbagarden.net/wiki/Magneton_(SVP_Promo_159)"
+      ]
+    }
+  ]
+}

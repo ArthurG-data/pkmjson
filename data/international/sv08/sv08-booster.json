@@ -1,0 +1,25 @@
+{
+  "id": "sv08-booster",
+  "region": "international",
+  "set": "sv08",
+  "category": "booster_pack",
+  "name": "Surging Sparks Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Booster pack cards are random. Which cards a pack can hold is out of scope for this dataset.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Booster Pack",
+      "releaseDate": "2024-11-08",
+      "identifiers": {"tcgplayerProductIds": [565604]},
+      "sources": ["https://www.tcgplayer.com/product/565604/pokemon-sv08-surging-sparks-surging-sparks-booster-pack"]
+    },
+    {
+      "language": "fr",
+      "name": "Booster Écarlate et Violet – Étincelles Déferlantes",
+      "releaseDate": "2024-11-08",
+      "sources": ["https://www.pkmcards.fr/products/boosters/booster-etincelles-deferlantes-pikachu-teracristal-stellaire"]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sv08-booster-box-case",
+  "region": "international",
+  "set": "sv08",
+  "category": "case",
+  "name": "Surging Sparks Booster Box Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [{"product": "sv08-booster-box", "count": 6}]
+  },
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Booster Box Case",
+      "releaseDate": "2024-11-08",
+      "identifiers": {"tcgplayerProductIds": [580708]},
+      "sources": ["https://www.pokeboxusa.com/products/surging-sparks-booster-box-case"]
+    }
+  ]
+}

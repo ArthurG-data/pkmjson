@@ -1,0 +1,23 @@
+{
+  "id": "sv08-booster-box",
+  "region": "international",
+  "set": "sv08",
+  "category": "booster_box",
+  "name": "Surging Sparks Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [{"product": "sv08-booster", "count": 36}]
+  },
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Booster Box",
+      "releaseDate": "2024-11-08",
+      "identifiers": {"tcgplayerProductIds": [565606]},
+      "sources": [
+        "https://www.tcgplayer.com/product/565606/pokemon-sv08-surging-sparks-surging-sparks-booster-box",
+        "https://topshelfco.ca/products/pokemon-surging-sparks-booster-box"
+      ]
+    }
+  ]
+}
