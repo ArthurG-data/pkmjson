@@ -5,15 +5,8 @@
   "category": "blister",
   "name": "Arceus Blister Pack (Happiny & Lopunny)",
   "contentsStatus": "partial",
-  "contents": {
-    "other": [
-      {
-        "name": "Happiny & Lopunny promos",
-        "count": 1
-      }
-    ]
-  },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 10 randomly inserted game cards; 1 3 card promo pack.",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 randomly inserted game cards; 1 3 card promo pack; Happiny & Lopunny promos.",
   "releases": [
     {
       "language": "en",

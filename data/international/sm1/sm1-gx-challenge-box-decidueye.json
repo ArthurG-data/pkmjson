@@ -15,15 +15,9 @@
         "count": 1,
         "role": "promo"
       }
-    ],
-    "other": [
-      {
-        "name": "Ready-to-play theme deck",
-        "count": 1
-      }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Sun & Moon booster packs; 1 Decidueye GX.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play theme deck; 2 Sun & Moon booster packs; 1 Decidueye GX.",
   "releases": [
     {
       "language": "en",

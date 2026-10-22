@@ -8,15 +8,8 @@
     "cardmarketProductId": 271942
   },
   "contentsStatus": "partial",
-  "contents": {
-    "other": [
-      {
-        "name": "All-new Mega Evolution Pokémon",
-        "count": 2
-      }
-    ]
-  },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 6 new Pokémon-EX, Pokémon TCG Online code cards.",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 all-new Mega Evolution Pokémon; 6 new Pokémon-EX, Pokémon TCG Online code cards.",
   "releases": [
     {
       "language": "en",

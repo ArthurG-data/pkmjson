@@ -4,9 +4,16 @@
   "set": "gym1",
   "category": "booster_box",
   "name": "Gym Heroes Booster Box [Unlimited Edition]",
-  "contentsStatus": "partial",
-  "contents": {},
-  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs.",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "gym1-booster-pack-unlimited-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
   "releases": [
     {
       "language": "en",

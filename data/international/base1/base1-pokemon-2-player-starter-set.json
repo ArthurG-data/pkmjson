@@ -2,15 +2,11 @@
   "id": "base1-pokemon-2-player-starter-set",
   "region": "international",
   "set": "base1",
-  "category": "other",
+  "category": "battle_deck",
   "name": "Pokemon 2-Player Starter Set",
   "contentsStatus": "partial",
   "contents": {
     "other": [
-      {
-        "name": "30-Card theme decks",
-        "count": 2
-      },
       {
         "name": "Damage Counters",
         "count": 10
@@ -24,72 +20,12 @@
         "count": 1
       },
       {
-        "name": "Diglett",
-        "count": 3
-      },
-      {
-        "name": "Machop",
-        "count": 4
-      },
-      {
-        "name": "Machoke",
-        "count": 2
-      },
-      {
-        "name": "Machamp",
-        "count": 1
-      },
-      {
-        "name": "Ponyta",
-        "count": 4
-      },
-      {
-        "name": "Charmander",
-        "count": 4
-      },
-      {
-        "name": "Charmeleon",
-        "count": 2
-      },
-      {
-        "name": "Growlithe",
-        "count": 1
-      },
-      {
-        "name": "Rattata",
-        "count": 2
-      },
-      {
-        "name": "Dratini",
-        "count": 1
-      },
-      {
-        "name": "Bill",
-        "count": 1
-      },
-      {
         "name": "Energy Removal",
         "count": 1
       },
       {
         "name": "Energy Retrieval",
         "count": 1
-      },
-      {
-        "name": "Gust of Wind",
-        "count": 1
-      },
-      {
-        "name": "Pokédex",
-        "count": 1
-      },
-      {
-        "name": "Potion",
-        "count": 2
-      },
-      {
-        "name": "Switch",
-        "count": 2
       },
       {
         "name": "Fighting Energy",
@@ -101,7 +37,7 @@
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Holographic card.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: Two 30-Card theme decks; 1 Holographic card; 3 Diglett; 4 Machop; 2 Machoke; 1 Machamp; 4 Ponyta; 4 Charmander; 2 Charmeleon; 1 Growlithe; 2 Rattata; 1 Dratini; 1 Bill; 1 Gust of Wind; 1 Pokédex; 2 Potion; 2 Switch; deck list.",
   "releases": [
     {
       "language": "en",

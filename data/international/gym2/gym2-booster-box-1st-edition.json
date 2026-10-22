@@ -4,9 +4,16 @@
   "set": "gym2",
   "category": "booster_box",
   "name": "Gym Challenge Booster Box [1st Edition]",
-  "contentsStatus": "partial",
-  "contents": {},
-  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs.",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "gym2-booster-pack-1st-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
   "releases": [
     {
       "language": "en",

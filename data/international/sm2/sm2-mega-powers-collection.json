@@ -12,16 +12,12 @@
         "count": 1
       },
       {
-        "name": "Lucario Spirit Link",
-        "count": 1
-      },
-      {
         "name": "Pokemon TCG Online code card",
         "count": 1
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Full Art Promo of M Lucario EX; 1 Full Art Promo of M Manectric EX; 1 Full Art Promo of Jolteon EX; 1 Full Art Promo of Zygarde EX; 8 Pokémon TCG booster packs.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Full Art Promo of M Lucario EX; 1 Full Art Promo of M Manectric EX; 1 Full Art Promo of Jolteon EX; 1 Full Art Promo of Zygarde EX; 1 Lucario Spirit Link; 8 Pokémon TCG booster packs.",
   "releases": [
     {
       "language": "en",

@@ -5,15 +5,8 @@
   "category": "collection_box",
   "name": "Sun & Moon GX Challenge Box [Primarina]",
   "contentsStatus": "partial",
-  "contents": {
-    "other": [
-      {
-        "name": "Ready-to-play theme deck",
-        "count": 1
-      }
-    ]
-  },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Sun & Moon booster packs; 1 water web holo of Primarina; 1 Primarina GX.",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play theme deck; 2 Sun & Moon booster packs; 1 water web holo of Primarina; 1 Primarina GX.",
   "releases": [
     {
       "language": "en",

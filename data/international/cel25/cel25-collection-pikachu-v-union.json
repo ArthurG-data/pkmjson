@@ -6,18 +6,16 @@
   "name": "Celebrations Collection [Pikachu V-UNION]",
   "contentsStatus": "partial",
   "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 4
+      }
+    ],
     "other": [
       {
         "name": "Oversize card featuring Pikachu V-UNION",
         "count": 1
-      },
-      {
-        "name": "Pokémon TCG: Celebrations 4-card boosters",
-        "count": 4
-      },
-      {
-        "name": "Additional Pokémon TCG boosters",
-        "count": 2
       },
       {
         "name": "Code card for the Pokémon Trading Card Game Online",
@@ -25,7 +23,7 @@
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 4 foil promo cards that make up a single Pikachu V-UNION; 1 helpful Supporter card featuring Professor Burnet.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 foil promo cards that make up a single Pikachu V-UNION; 1 helpful Supporter card featuring Professor Burnet; 2 additional Pokémon TCG boosters.",
   "releases": [
     {
       "language": "en",

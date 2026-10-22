@@ -8,7 +8,11 @@ fully resolved is written as `partial`, and what was left over goes to review/tc
 A file this tool wrote cites only the TCGplayer product page, and a re-run rewrites it. A file with any other
 source was written by hand and is never touched; its TCGplayer ids still anchor nested products.
 
-    uv run python tools/import_tcgplayer.py [--group 23651] [--dry-run]
+TCGplayer lists Japanese products in their own category (85), with the contents in a Description entry instead of
+CardText. `--category 85` writes those as `asia` families with a Japanese release. TCGplayer names that release in
+English; import_pokemon_card_jp.py replaces the name with the one sold in Japan, and a re-run keeps it.
+
+    uv run python tools/import_tcgplayer.py [--category 85] [--group 23651] [--dry-run]
 """
 from __future__ import annotations
 
@@ -31,9 +35,6 @@ from pkmjson import ROOT, Family, load, validate
 
 TCGCSV = "https://tcgcsv.com/tcgplayer"
 TCGDEX_API = "https://api.tcgdex.net/v2"
-CATEGORY = 3  # Pokémon, English. Japanese (85) has no contents text.
-REGION = "international"
-LANGUAGE = "en"
 USER_AGENT = "pkmjson/0.1 (+https://github.com/ArthurG-data/pkmjson)"
 PROMO_WINDOW_DAYS = 45
 PACKS = ("booster_pack", "sleeved_booster_pack")  # random cards: never complete
@@ -42,6 +43,20 @@ SERIES_PREFIX = r"^(?:xy|sm|sun moon|swsh|sword shield|sv|scarlet violet|bw|blac
 NUMBER_WORDS = {"a": 1, "an": 1, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
                 "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12, "eighteen": 18, "thirty-six": 36}
 COUNT = r"(\d+|" + "|".join(sorted(NUMBER_WORDS, key=len, reverse=True)) + r")"
+
+
+@dataclass(frozen=True)
+class Edition:
+    """A TCGplayer category, the TCGdex tree and language its products belong to, and where its text is."""
+    category: int
+    region: str
+    language: str
+    text_field: str
+
+
+EDITIONS = {3: Edition(3, "international", "en", "CardText"),
+            85: Edition(85, "asia", "ja", "Description")}
+ENGLISH = EDITIONS[3]
 
 # (category, name pattern), first match wins. Order matters: a case before the box it holds.
 CATEGORY_RULES = [
@@ -56,6 +71,7 @@ CATEGORY_RULES = [
     ("blister", r"blister|checklane"),
     ("booster_pack", r"booster pack|\bbooster\b$"),
     ("tin", r"\btin\b"),
+    ("battle_deck", r"\bstart(?:er)? (?:set|deck)\b"),   # before "collection": "Start Deck 100 Battle Collection"
     ("premium_collection", r"premium collection|ultra[- ]premium"),
     ("collection_box", r"collection|\bbox\b"),
     ("theme_deck", r"theme deck"),
@@ -168,8 +184,8 @@ def is_sealed(product: dict) -> bool:
     return not names & {"Number", "Rarity"} and not fold(product.get("name", "")).startswith("code card")
 
 
-def card_text(product: dict) -> str:
-    return next((e.get("value") or "" for e in product.get("extendedData") or [] if e.get("name") == "CardText"), "")
+def card_text(product: dict, text_field: str = "CardText") -> str:
+    return next((e.get("value") or "" for e in product.get("extendedData") or [] if e.get("name") == text_field), "")
 
 
 def release_date(product: dict) -> str | None:
@@ -197,6 +213,7 @@ class Draft:
     group: Group
     family_id: str
     category: str
+    edition: Edition = ENGLISH
     sealed: list[dict] = field(default_factory=list)
     cards: list[dict] = field(default_factory=list)
     other: list[dict] = field(default_factory=list)
@@ -258,8 +275,8 @@ def promo_listing(product: dict, group: Group) -> PromoListing | None:
 class PromoResolver:
     """Pins 'N foil promo card featuring X' to a TCGdex card and variant through TCGplayer's promo listings."""
 
-    def __init__(self, fetcher: Fetcher, promo_groups: list[Group]):
-        self.fetcher = fetcher
+    def __init__(self, fetcher: Fetcher, promo_groups: list[Group], language: str = "en"):
+        self.fetcher, self.language = fetcher, language
         self.by_name: dict[str, list[PromoListing]] = defaultdict(list)
         for group in promo_groups:
             for product in group.products:
@@ -279,7 +296,7 @@ class PromoResolver:
 
     def tcgdex_card(self, listing: PromoListing) -> dict | None:
         """The TCGdex card item for a TCGplayer promo listing, or None when TCGdex has no variant for it."""
-        tcgdex_set = self.fetcher.get(f"{TCGDEX_API}/en/sets/{listing.group.set_id}")
+        tcgdex_set = self.fetcher.get(f"{TCGDEX_API}/{self.language}/sets/{listing.group.set_id}")
         if not tcgdex_set:
             return None
         number = fold(listing.number).replace(" ", "")
@@ -287,7 +304,7 @@ class PromoResolver:
             local = fold(str(brief.get("localId", ""))).replace(" ", "")
             if local.lstrip("0") != number.lstrip("0") and local != number:
                 continue
-            card = self.fetcher.get(f"{TCGDEX_API}/en/cards/{brief['id']}")
+            card = self.fetcher.get(f"{TCGDEX_API}/{self.language}/cards/{brief['id']}")
             for variant in (card or {}).get("variants_detailed") or []:
                 third = variant.get("thirdParty") or {}
                 if third.get("tcgplayer") == listing.product_id and variant.get("variantId"):
@@ -305,9 +322,12 @@ class PromoResolver:
 
 # --- parsing contents -------------------------------------------------------------------------------------------
 
-# "36 Packs" in a box counts packs too; a "3 Pack Blister" is a product, not packs.
-PACK_RE = re.compile(COUNT + r"\s+(?:sealed\s+)?(?:(?P<what>[^.;|]*?)\s+)?(?:booster\s+)?packs?\b(?!\s*-?\s*blister)"
+# "36 Packs" in a box counts packs too; a "3 Pack Blister" is a product, not packs. "10 Mega Brave Boosters" are packs.
+PACK_RE = re.compile(COUNT + r"\s+(?:sealed\s+)?(?:(?P<what>[^.;|]*?)\s+)?"
+                     r"(?:(?:booster\s+)?packs?|boosters?(?!\s+(?:box|bundle|case|display)))\b(?!\s*-?\s*blister)"
                      r"(?P<rest>[^.;|]*)", re.I)
+# "1 Japanese Matchless Fighters booster box" inside a set.
+BOX_RE = re.compile(COUNT + r"\s+(?:sealed\s+)?(?P<what>[^.;|]*?)\s*\bbooster\s+box(?:es)?\b", re.I)
 PROMO_RE = re.compile(COUNT + r"\s+(?P<kind>[^.;|]*?)\b(?:(?:promo(?:tional)?\s+)?(?:cards?|holofoil|holo)|"
                       r"promo(?:tional)?)\s+(?:featuring|of)\s+(?P<who>.+)$", re.I)
 # "a promotional foil Meltan"
@@ -316,7 +336,9 @@ SET_FEATURE_RE = re.compile(r"\b(?:over \d+ (?:new )?cards|\d+ (?:new )?cards in
                             r"secret rare|ultra rare|ace spec|shiny vault|radiant pok)", re.I)
 # An item that is cards we cannot name: the product is not complete.
 UNNAMED_CARDS_RE = re.compile(r"\b(?:\d+-card|card)\s+(?:ready-to-play\s+|preconstructed\s+|pre-constructed\s+)?decks?\b|"
-                              r"\bevolution line\b|\b(?:holo|holofoil|foil|rare|full art)\b.*\bcards?\b", re.I)
+                              r"\bevolution line\b|\b(?:holo|holofoil|foil|rare|full art)\b.*\bcards?\b|"
+                              # "172 cards (51 types in total) 13 Pokemon cards / 59 Trainers cards / ..."
+                              r"\bpok[eé]mon cards\b|\btrainers?'?s? cards\b|\(\d+ types\b", re.I)
 # A card mechanic named in an item ("2 powerful Pokémon ... Dragonite EX and Pidgeot EX"): cards. Case matters.
 MECHANIC_RE = re.compile(r"\b(?:EX|GX|V|VMAX|VSTAR|V-UNION|BREAK|LV\.X)\b|\bex\b")
 ACCESSORY_RE = re.compile(r"\b(?:sleeves?|markers?|coins?|pins?|box|binder|playmat|mat|dice|die|oversize|jumbo|"
@@ -325,6 +347,19 @@ ACCESSORY_RE = re.compile(r"\b(?:sleeves?|markers?|coins?|pins?|box|binder|playm
 # "3 Cards", "11 randomly inserted game cards": cards, unless they are Energy, code, art, rules or reference cards.
 PLAIN_CARDS_RE = re.compile(r"^\s*\S+\s+(?!.*\b(?:energy|code|art|reference|rules?|checklist|tip|strategy|guide)\b)"
                             r"(?:[\w-]+\s+){0,3}cards?\b", re.I)
+# What an `other` item may be. An item naming none of these ("Raichu", "Mew") is most likely a card, and is reported.
+OTHER_RE = re.compile(r"\b(?:sleeves?|markers?|coins?|pins?|box(?:es)?|deckbox|binder|playmats?|plamat|mat|dice|die|"
+                      r"stickers?|posters?|postcards?|figures?|figurine|tin|dangler|portfolio|magnet|counters?|guides?|"
+                      r"rulebook|booklet|dividers?|code|energy|album|case|bag|pouch|lanyard|keychain|patch|badge|charm|"
+                      r"statue|tracker|tokens?|stand|frame|holder|wallet|notepad|notebook|pencils?|file|folder|checklist|"
+                      r"reference|rules?|sheets?|protector|bracelets?|pages|acrylic|metal|oversize|jumbo|art)\b", re.I)
+# Boosters and decks are products or cards, never an `other` item; a deck box, a deck's code card or a deck-building
+# tip sheet is.
+NOT_OTHER_RE = re.compile(r"\bboosters?\b|\bdecks?\b", re.I)
+DECK_ACCESSORY_RE = re.compile(r"\b(?:box(?:es)?|cases?|shields?|sleeves?|code|guides?|tip|holders?|building)\b",
+                               re.I)
+# "Assortment of popular Pokémon, Trainer, Energy cards": game cards, though the item also names Energy.
+GAME_CARDS_RE = re.compile(r"\bpok[eé]mon,\s*trainers?\b|\b(?:assortment|selection) of\b.*\bcards\b", re.I)
 EACH_PACK_RE = re.compile(r"\beach\s+(?:\w+\s+){0,4}?(?:booster\s+)?pack\s+(?:contains|includes|has)\b", re.I)
 LEAD_RE = re.compile(r"^" + COUNT + r"\b\s*", re.I)
 # "Each blister comes with 3 X booster packs and a promotional card of Y."
@@ -362,7 +397,9 @@ def cut_each_pack(text: str) -> str:
     return EACH_CLAUSE_RE.split(text, maxsplit=1)[0]
 
 
-CASE_GENERIC_WORDS = {"case", "display", "booster", "boxes", "box", "pack", "packs", "ct", "count", "sealed"}
+CASE_GENERIC_WORDS = {"case", "display", "booster", "boxes", "box", "pack", "packs", "ct", "count", "sealed", "half"}
+# Words in a booster box's name that make its packs another product than the set's plain pack.
+PACK_QUALIFIERS = {"deluxe", "1st", "first", "unlimited", "shadowless"}
 
 
 class Parser:
@@ -373,9 +410,10 @@ class Parser:
         self.families = families           # (group id, category) -> [(family id, folded name)]
         self.promos = promos
 
-    def pack_family(self, phrase: str, draft: Draft) -> str | None:
+    def pack_family(self, phrase: str, draft: Draft, category: str = "booster_pack") -> str | None:
         """The booster pack family a pack phrase names: an expansion it names, else the product's own set when the
-        product is a single-set container (box, bundle, ETB, ...)."""
+        product is a single-set container (box, bundle, ETB, ...). With another category (a booster box inside a
+        set), only a named expansion counts."""
         folded = re.sub(r"\s+", " ", re.sub(r"\b(?:booster|sealed|additional)\b", " ", fold(phrase))).strip()
         if re.search(r"\brandom\b", folded):
             return None   # "1 random XY booster pack": any set of the series
@@ -384,7 +422,7 @@ class Parser:
         if re.search(r"\bor\b", folded) and len({n[3].group_id for n in named}) > 1:
             # "Black Bolt or White Flare booster packs, respectively": the product's own set, if it is one of them.
             own = [n for n in named if n[3].group_id == draft.group.group_id]
-            return self.child_of.get((draft.group.group_id, "booster_pack")) if own else None
+            return self.child_of.get((draft.group.group_id, category)) if own else None
         # "Prismatic Evolutions" also contains "Evolutions": a match inside a longer one is not the expansion.
         named = [n for n in named
                  if not any(o[0] <= n[0] and n[1] <= o[1] and o[1] - o[0] > n[1] - n[0] for o in named)]
@@ -395,16 +433,22 @@ class Parser:
             (bool(named) and not real)
         if real and not series_only:
             group = max(real, key=lambda t: (t[1] - t[0], t[0]))[3]
-            return self.child_of.get((group.group_id, "booster_pack"))
+            return self.child_of.get((group.group_id, category))
+        if category != "booster_pack":
+            return None
         generic = folded in ("", "pokemon tcg", "pokemon")
         own_set = ("booster_box", "half_booster_box", "booster_bundle", "case")
         # "3 XY booster packs" in a BREAKthrough blister names the series, not the XY base set.
         if (generic and draft.category in own_set) or (series_only and draft.category in (*own_set, "blister")):
+            if draft.category in ("booster_box", "half_booster_box") and \
+                    PACK_QUALIFIERS & set(fold(draft.product["name"]).split()):
+                # A Deluxe or 1st Edition booster box holds that pack, not the set's plain one.
+                return self.case_child(draft, "booster_pack")
             return self.child_of.get((draft.group.group_id, "booster_pack"))
         return None
 
     def parse(self, draft: Draft) -> None:
-        parts = text_parts(card_text(draft.product))
+        parts = text_parts(card_text(draft.product, draft.edition.text_field))
         released = release_date(draft.product)
         if draft.category == "case":
             # A case's text is usually its inner product's: only a stated unit count describes the case.
@@ -430,7 +474,8 @@ class Parser:
             if (per := re.search(rf"\b{COUNT}\s+(?:booster\s+)?packs?\s+(?:per|in each|in every|in a)\s+"
                                  r"(?:display|box)\b", text)):
                 child = self.child_of.get((draft.group.group_id, "booster_pack"))
-                draft.unresolved = [u for u in draft.unresolved if "pack" not in fold(u.get("line", ""))]
+                draft.unresolved = [u for u in draft.unresolved
+                                    if not re.search(r"\b(?:packs?|displays?)\b", fold(u.get("line", "")))]
                 draft.other = [o for o in draft.other if not re.search(r"\b(?:packs?|displays?)\b", fold(o["name"]))]
                 self.add_sealed(draft, child, count_of(per.group(1)), per.group(0), "text")
                 draft.listed = True
@@ -533,6 +578,10 @@ class Parser:
                 self.parse_line(draft, item, released, where)
             return
         folded = fold(line)
+        if (box := BOX_RE.match(line)) and draft.category != "case":
+            child = self.pack_family(box.group("what"), draft, "booster_box")
+            self.add_sealed(draft, child, count_of(box.group(1)), line, where)
+            return
         if (pack := PACK_RE.match(line)) and "code" not in folded:
             phrase = pack.group("what") or ""
             if not phrase and (after := re.search(r"\bfrom\s+(.+)$", pack.group("rest") or "", re.I)):
@@ -547,13 +596,14 @@ class Parser:
             return
         # Cards never go to `other` (it is for everything that is not a card): a card we cannot name is reported
         # and makes the product partial.
-        if re.search(r"\bpromo(?:tional)?\b", folded) and "code card" not in folded:
+        if re.search(r"\bpromo(?:s|tional)?\b", folded) and "code card" not in folded:
             # "a promotional card", or a deck "including 1 of 4 unique foil promo cards".
             draft.unresolved.append({"line": line, "where": where, "reason": "promo set not pinned to one card"})
-        elif re.search(r"\brandom\b", folded):
+        elif re.search(r"\brandom(?:ly)?\b", folded):
             draft.unresolved.append({"line": line, "where": where, "reason": "random cards"})
-        elif (UNNAMED_CARDS_RE.search(line) or MECHANIC_RE.search(line) or PLAIN_CARDS_RE.search(line)) \
-                and not ACCESSORY_RE.search(line):
+        elif GAME_CARDS_RE.search(line) or (
+                (UNNAMED_CARDS_RE.search(line) or MECHANIC_RE.search(line) or PLAIN_CARDS_RE.search(line))
+                and not ACCESSORY_RE.search(line)):
             # An oversize card is a display piece no card dataset lists, so it stays an `other` item.
             draft.unresolved.append({"line": line, "where": where, "reason": "cards not named"})
         else:
@@ -561,8 +611,11 @@ class Parser:
             count = count_of(lead.group(1)) if lead else 1
             # Keep the item, drop the marketing after it: "art card ... —you can collect and combine all 5!"
             name = re.split(r"\s*(?:—|!|\(suitable)", line[lead.end():] if lead else line)[0].strip(" ,.;:")
-            if name:
+            if name and OTHER_RE.search(name) and not (NOT_OTHER_RE.search(name) and not DECK_ACCESSORY_RE.search(name)):
                 draft.other.append({"name": name[:1].upper() + name[1:], "count": count})
+            elif name and (lead or len(name.split()) < 5):
+                draft.unresolved.append({"line": line, "where": where, "reason": "item not identified"})
+            # else: an uncounted sentence ("Expand your collection with this booster bundle") is marketing.
 
     def add_promo(self, draft: Draft, line: str, count: int, who: str, released: str | None, where: str) -> None:
         who = re.sub(r"\s+with\s+(?:a|the)\s+.*$", "", who).strip(" .")
@@ -601,13 +654,13 @@ class Parser:
 
 
 def family_file(draft: Draft, cardmarket: dict[int, int]) -> dict:
-    product = draft.product
-    release = {"language": LANGUAGE, "name": product["name"]}
+    product, edition = draft.product, draft.edition
+    release = {"language": edition.language, "name": product["name"]}
     if (day := release_date(product)):
         release["releaseDate"] = day
     release["identifiers"] = {"tcgplayerProductIds": [product["productId"]]}
     release["sources"] = [product["url"]]
-    data = {"id": draft.family_id, "region": REGION, "set": draft.group.set_id, "category": draft.category,
+    data = {"id": draft.family_id, "region": edition.region, "set": draft.group.set_id, "category": draft.category,
             "name": product["name"]}
     if product["productId"] in cardmarket:
         data["identifiers"] = {"cardmarketProductId": cardmarket[product["productId"]]}
@@ -626,39 +679,56 @@ def family_file(draft: Draft, cardmarket: dict[int, int]) -> dict:
     return data
 
 
-def is_generated(family: Family) -> bool:
-    """Written by this tool: its notes say so and its English release cites only the TCGplayer page. Releases in
-    other languages come from other tools and do not make the family hand-written."""
-    english = [r for r in family.data.get("releases") or [] if r.get("language") == LANGUAGE]
-    return len(english) == 1 and len(english[0].get("sources") or []) == 1 and \
-        "tcgplayer.com/product/" in english[0]["sources"][0] and \
+def is_generated(family: Family, language: str = "en") -> bool:
+    """Written by this tool: its notes say so and its release in the edition's language cites the TCGplayer page
+    first. Other releases, and sources another tool added after that page, do not make the family hand-written."""
+    own = [r for r in family.data.get("releases") or [] if r.get("language") == language]
+    return len(own) == 1 and "tcgplayer.com/product/" in (own[0].get("sources") or [""])[0] and \
         str(family.data.get("notes", "")).startswith("Generated from TCGplayer")
+
+
+def merge_release(release: dict, previous: dict | None) -> dict:
+    """Keep what another tool added to this release: its sources after TCGplayer's page, and the name and release
+    date those sources state."""
+    extra = [s for s in (previous or {}).get("sources", [])[1:] if s not in release["sources"]]
+    if not extra:
+        return release
+    merged = {**release, "name": previous["name"], "sources": release["sources"] + extra}
+    if previous.get("releaseDate"):
+        merged["releaseDate"] = previous["releaseDate"]
+    return {k: merged[k] for k in ("language", "name", "releaseDate", "identifiers", "sources") if k in merged}
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--data", default=ROOT / "data", type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
+    parser.add_argument("--category", type=int, choices=sorted(EDITIONS), default=3,
+                        help="TCGplayer category: 3 English, 85 Japanese")
     parser.add_argument("--group", type=int, action="append", help="only these TCGplayer group ids")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
     fetcher = Fetcher(args.cache)
+    edition = EDITIONS[args.category]
+    tcgdex = f"{TCGDEX_API}/{edition.language}"
 
     mapping = {m["groupId"]: m for m in json.loads((ROOT / "mappings" / "tcgplayer_groups.json").read_text())
-               if m["region"] == REGION}
+               if m["region"] == edition.region}
     cardmarket = {m["tcgplayerProductId"]: m["cardmarketProductId"]
                   for m in json.loads((ROOT / "mappings" / "cardmarket_sealed.json").read_text())}
-    tcgdex_sets = {s["id"]: s for s in fetcher.get(f"{TCGDEX_API}/en/sets") or []}
+    tcgdex_sets = {s["id"]: s for s in fetcher.get(f"{tcgdex}/sets") or []}
 
     groups: list[Group] = []
-    for g in _results(fetcher.get(f"{TCGCSV}/{CATEGORY}/groups")):
+    for g in _results(fetcher.get(f"{TCGCSV}/{edition.category}/groups")):
         if g["groupId"] in mapping:
             group = Group(g["groupId"], mapping[g["groupId"]]["set"], g["name"], expansion_of(g["name"]),
                           g.get("publishedOn"))
-            group.serie = ((fetcher.get(f"{TCGDEX_API}/en/sets/{group.set_id}") or {}).get("serie") or {}).get("id")
-            group.products = _results(fetcher.get(f"{TCGCSV}/{CATEGORY}/{g['groupId']}/products"))
+            group.serie = ((fetcher.get(f"{tcgdex}/sets/{group.set_id}") or {}).get("serie") or {}).get("id")
+            group.products = _results(fetcher.get(f"{TCGCSV}/{edition.category}/{g['groupId']}/products"))
             groups.append(group)
-    promo_groups = [g for g in groups if "promo" in fold(tcgdex_sets.get(g.set_id, {}).get("name", g.name))]
+    # TCGdex names Japanese sets in Japanese: "スカーレット&バイオレット プロモカード".
+    set_names = {g.group_id: tcgdex_sets.get(g.set_id, {}).get("name", g.name) for g in groups}
+    promo_groups = [g for g in groups if "promo" in fold(set_names[g.group_id]) or "プロモ" in set_names[g.group_id]]
     product_groups = [g for g in groups if g not in promo_groups]
 
     existing = load(args.data)
@@ -681,12 +751,13 @@ def main(argv: list[str] | None = None) -> int:
             category = classify(product["name"])
             if (family := by_tcgplayer.get(product["productId"])):
                 family_id = family.data["id"]
-                curated = not is_generated(family)
+                curated = not is_generated(family, edition.language)
             else:
                 stem = re.sub(rf"\b{re.escape(group.expansion)}\b", "", fold(product["name"])).strip()
                 # "XY BREAKthrough Booster Pack" leaves "xy booster pack": the series is already in the set id.
                 stem = re.sub(SERIES_PREFIX, "", stem).strip() or stem or category
-                family_id = f"{group.set_id.lower()}-{slug(stem)}"
+                # Japanese set ids can hold a "+" ("SM1+"), which a family id may not.
+                family_id = f"{group.set_id.lower().replace('+', 'plus')}-{slug(stem)}"
                 if family_id in taken:
                     family_id = f"{family_id}-{product['productId']}"
                 taken.add(family_id)
@@ -694,7 +765,7 @@ def main(argv: list[str] | None = None) -> int:
             kinds[(group.group_id, category)].append(family_id)
             names[family_id] = fold(product["name"])
             if not curated and (not args.group or group.group_id in args.group):
-                drafts.append(Draft(product, group, family_id, category))
+                drafts.append(Draft(product, group, family_id, category, edition))
     # The set's own pack or box is the one named "<expansion> booster pack|booster|booster box".
     canonical = {"booster_pack": ("booster pack", "booster"), "booster_box": ("booster box",)}
     for (group_id, category), ids in kinds.items():
@@ -703,7 +774,7 @@ def main(argv: list[str] | None = None) -> int:
         if len(plain) == 1 or len(ids) == 1:
             child_of[(group_id, category)] = (plain or ids)[0]
 
-    resolver = PromoResolver(fetcher, promo_groups)
+    resolver = PromoResolver(fetcher, promo_groups, edition.language)
     by_expansion = {g.expansion: g for g in product_groups}
     families = {key: [(fid, names[fid]) for fid in ids] for key, ids in kinds.items()}
     content_parser = Parser(by_expansion, child_of, families, resolver)
@@ -721,14 +792,16 @@ def main(argv: list[str] | None = None) -> int:
     if args.dry_run:
         return 0
     for family_id, (draft, data) in files.items():
-        path = args.data / REGION / draft.group.set_id / f"{family_id}.json"
+        path = args.data / edition.region / draft.group.set_id / f"{family_id}.json"
         path.parent.mkdir(parents=True, exist_ok=True)
         if path.exists():
-            # Other tools add the other languages' releases: keep them.
+            # Other tools add the other languages' releases, and the local name of this one: keep them.
             previous = json.loads(path.read_text(encoding="utf-8"))
-            data["releases"] += [r for r in previous.get("releases", []) if r.get("language") != LANGUAGE]
+            own = next((r for r in previous.get("releases", []) if r.get("language") == edition.language), None)
+            data["releases"] = [merge_release(data["releases"][0], own)] + \
+                [r for r in previous.get("releases", []) if r.get("language") != edition.language]
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    review_path = ROOT / "review" / f"tcgplayer-{CATEGORY}.json"
+    review_path = ROOT / "review" / f"tcgplayer-{edition.category}.json"
     review_path.parent.mkdir(parents=True, exist_ok=True)
     review_path.write_text(json.dumps(review, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     errors = validate(load(args.data), args.data)

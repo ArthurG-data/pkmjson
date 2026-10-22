@@ -4,9 +4,16 @@
   "set": "base5",
   "category": "booster_box",
   "name": "Team Rocket Booster Box [Unlimited Edition]",
-  "contentsStatus": "partial",
-  "contents": {},
-  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs of Unlimited Edition Team Rocket.",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "base5-booster-pack-unlimited-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
   "releases": [
     {
       "language": "en",

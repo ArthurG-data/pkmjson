@@ -1017,6 +1017,32 @@
   ]
  },
  {
+  "family": "me04-premium-checklane-blister-pawmot-line",
+  "tcgplayerProductId": 684459,
+  "name": "Chaos Rising Premium Checklane Blister [Pawmot Line]",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 coin, features cards from an evolutionary line. (Pokémon TCG booster packs and contents vary by product)",
+    "where": "line[2]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "me04-premium-checklane-blister-flygon-line",
+  "tcgplayerProductId": 684460,
+  "name": "Chaos Rising Premium Checklane Blister [Flygon Line]",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 coin, features cards from an evolutionary line. (Pokémon TCG booster packs and contents vary by product)",
+    "where": "line[2]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
   "family": "me04-booster-bundle-case",
   "tcgplayerProductId": 688949,
   "name": "Chaos Rising Booster Bundle Case",
@@ -1470,6 +1496,11 @@
     "line": "1 foil promo card featuring Mega Lucario ex or Mega Gardevoir ex",
     "where": "line[3]",
     "reason": "promo is one of several"
+   },
+   {
+    "line": "26.875 × 39",
+    "where": "line[4]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -1483,6 +1514,11 @@
     "line": "1 foil promo card featuring Mega Lucario ex or Mega Gardevoir ex",
     "where": "line[3]",
     "reason": "promo is one of several"
+   },
+   {
+    "line": "26.875 × 39",
+    "where": "line[4]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -5702,6 +5738,34 @@
   ]
  },
  {
+  "family": "sv03.5-sam-s-club-151-4-mini-tins-4-promo-cards-bundle",
+  "tcgplayerProductId": 662302,
+  "name": "Sam's Club 151 (4 Mini Tins + 4 Promo Cards Bundle)",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Raichu",
+    "where": "line[3]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Machamp",
+    "where": "line[4]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Gengar",
+    "where": "line[5]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Dragonite",
+    "where": "line[6]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
   "family": "sv03.5-151-mini-tin-display-case",
   "tcgplayerProductId": 668357,
   "name": "151 Mini Tin Display Case",
@@ -6247,7 +6311,7 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[1]",
-    "reason": "cards not named"
+    "reason": "random cards"
    },
    {
     "line": "random cards",
@@ -8228,6 +8292,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "5 Pokemon Go Mini Tins designs",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
+   {
     "line": "set of products",
     "reason": "set of several products"
    }
@@ -8251,6 +8320,11 @@
   "name": "Pokemon GO Special Collection [Set of 3]",
   "listed": true,
   "unresolved": [
+   {
+    "line": "1 of each Special Collection",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
    {
     "line": "set of products",
     "reason": "set of several products"
@@ -9642,6 +9716,11 @@
      247299,
      247300
     ]
+   },
+   {
+    "line": "2 additional Pokémon TCG boosters",
+    "where": "line[5]",
+    "reason": "booster pack set not identified"
    }
   ]
  },
@@ -9726,6 +9805,19 @@
   ]
  },
  {
+  "family": "cel25-special-collection-v-memories",
+  "tcgplayerProductId": 247470,
+  "name": "Celebrations Special Collection - V Memories",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "2 additional Pokémon TCG boosters",
+    "where": "line[4]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
   "family": "cel25-booster-pack",
   "tcgplayerProductId": 248577,
   "name": "Celebrations Booster Pack",
@@ -9773,6 +9865,11 @@
      247299,
      247300
     ]
+   },
+   {
+    "line": "3 additional Pokémon TCG boosters",
+    "where": "line[6]",
+    "reason": "booster pack set not identified"
    }
   ]
  },
@@ -9851,6 +9948,11 @@
     "where": "line[3]",
     "reason": "no promo listing",
     "candidates": []
+   },
+   {
+    "line": "A Pokémon 25 logo Collector Chest with a dozen additional treasures",
+    "where": "line[4]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -9860,6 +9962,11 @@
   "name": "Pokemon Celebrations International Tin [Set of 2]",
   "listed": true,
   "unresolved": [
+   {
+    "line": "a set of 2 Pokemon Celebrations International Tins",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
    {
     "line": "set of products",
     "reason": "set of several products"
@@ -9872,6 +9979,11 @@
   "name": "Pokemon Celebrations Tin [Set of 2]",
   "listed": true,
   "unresolved": [
+   {
+    "line": "a set of 2 Pokemon Celebrations Tins",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
    {
     "line": "set of products",
     "reason": "set of several products"
@@ -13538,6 +13650,11 @@
     "where": "line[1]",
     "reason": "no promo listing",
     "candidates": []
+   },
+   {
+    "line": "A Great Ball big enough to hold a stack of Pokemon TCG cards",
+    "where": "line[3]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -13552,6 +13669,11 @@
     "where": "line[1]",
     "reason": "no promo listing",
     "candidates": []
+   },
+   {
+    "line": "An Ultra Ball big enough to hold a stack of Pokemon TCG cards",
+    "where": "line[3]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -14397,6 +14519,19 @@
   ]
  },
  {
+  "family": "sm9-towering-splash-gx-box",
+  "tcgplayerProductId": 181693,
+  "name": "Towering Splash GX Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "four Pokemon TCG boosters",
+    "where": "line[0]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
   "family": "sm9-booster-pack",
   "tcgplayerProductId": 181699,
   "name": "Team Up Booster Pack",
@@ -14959,6 +15094,19 @@
   ]
  },
  {
+  "family": "sm8-launch-kit",
+  "tcgplayerProductId": 229391,
+  "name": "Lost Thunder Launch Kit",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "8 Sun & Moon – Lost Thunder theme decks",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
   "family": "sm8-booster-pack-art-bundle-set-of-4",
   "tcgplayerProductId": 267043,
   "name": "Lost Thunder Booster Pack Art Bundle [Set of 4]",
@@ -15106,6 +15254,11 @@
   "name": "Celestial Storm Booster Pack",
   "listed": true,
   "unresolved": [
+   {
+    "line": "6 displays",
+    "where": "line[3]",
+    "reason": "item not identified"
+   },
    {
     "line": "random cards",
     "reason": "booster pack cards are random"
@@ -15592,6 +15745,11 @@
   "name": "Forbidden Light Prerelease Kit",
   "listed": true,
   "unresolved": [
+   {
+    "line": "23-card Evolution pack",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
    {
     "line": "Four 10-card booster packs",
     "where": "line[2]",
@@ -16354,6 +16512,11 @@
      148424,
      148425
     ]
+   },
+   {
+    "line": "3 holofoil promos featuring Shining Lugia, Shining Celebi, Pikachu",
+    "where": "line[3]",
+    "reason": "promo set not pinned to one card"
    }
   ]
  },
@@ -16795,6 +16958,11 @@
     "line": "2 Pokemon TCG booster packs",
     "where": "line[5]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "1 complete Pokemon TCG Theme Deck, ready to play",
+    "where": "line[6]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -16808,6 +16976,11 @@
     "line": "2 Pokemon TCG booster packs",
     "where": "line[5]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "1 complete Pokemon TCG Theme Deck, ready to play",
+    "where": "line[6]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -16861,7 +17034,7 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[3]",
-    "reason": "cards not named"
+    "reason": "random cards"
    }
   ]
  },
@@ -16874,7 +17047,7 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[2]",
-    "reason": "cards not named"
+    "reason": "random cards"
    },
    {
     "line": "random cards",
@@ -16958,6 +17131,11 @@
     "where": "line[5]",
     "reason": "no promo listing",
     "candidates": []
+   },
+   {
+    "line": "1 Lucario Spirit Link",
+    "where": "line[7]",
+    "reason": "item not identified"
    },
    {
     "line": "8 Pokémon TCG booster packs",
@@ -17274,6 +17452,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "a Steel Sun Theme Deck",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
+   {
     "line": "2 Pokemon TCG booster packs",
     "where": "line[0]",
     "reason": "booster pack set not identified"
@@ -17282,6 +17465,11 @@
     "line": "a copy of Solgaleo-GX from Sun & Moon",
     "where": "line[0]",
     "reason": "cards not named"
+   },
+   {
+    "line": "a Water Web Holofoil variant of Solgaleo from Guardians Rising",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -17292,6 +17480,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "a Hidden Moon Theme Deck",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
+   {
     "line": "2 Pokemon TCG booster packs",
     "where": "line[0]",
     "reason": "booster pack set not identified"
@@ -17300,6 +17493,11 @@
     "line": "a copy of Lunala-GX from Sun & Moon",
     "where": "line[0]",
     "reason": "cards not named"
+   },
+   {
+    "line": "a Water Web Holofoil variant of Lunala from Guardians Rising",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -17602,6 +17800,11 @@
     "line": "Steelix EX from XY Steam Siege",
     "where": "line[3]",
     "reason": "cards not named"
+   },
+   {
+    "line": "5 Cosmo Holofoil promos of Bellossom, Blissey, Crobat, Politoed and Slowking",
+    "where": "line[4]",
+    "reason": "promo set not pinned to one card"
    }
   ]
  },
@@ -17630,6 +17833,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "1 complete Roaring Heat theme deck—play it right away",
+    "where": "line[3]",
+    "reason": "item not identified"
+   },
+   {
     "line": "2 Pokémon TCG: Sun & Moon booster packs",
     "where": "line[6]",
     "reason": "booster pack set not identified"
@@ -17642,6 +17850,11 @@
   "name": "Decidueye GX Challenge Box",
   "listed": true,
   "unresolved": [
+   {
+    "line": "1 complete Forest Shadow theme deck—play it right away",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
    {
     "line": "2 Pokémon TCG: Sun & Moon booster packs",
     "where": "line[5]",
@@ -17712,6 +17925,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "1 ready-to-play theme deck",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
+   {
     "line": "2 Sun & Moon booster packs",
     "where": "line[0]",
     "reason": "booster pack set not identified"
@@ -17735,6 +17953,11 @@
   "name": "Sun & Moon GX Challenge Box [Decidueye]",
   "listed": true,
   "unresolved": [
+   {
+    "line": "1 ready-to-play theme deck",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
    {
     "line": "2 Sun & Moon booster packs",
     "where": "line[0]",
@@ -17849,6 +18072,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "1 complete Bright Tide theme deck—play it right away",
+    "where": "line[3]",
+    "reason": "item not identified"
+   },
+   {
     "line": "2 Pokémon TCG: Sun & Moon booster packs",
     "where": "line[6]",
     "reason": "booster pack set not identified"
@@ -17861,6 +18089,11 @@
   "name": "Sun & Moon GX Challenge Box [Primarina]",
   "listed": true,
   "unresolved": [
+   {
+    "line": "1 ready-to-play theme deck",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
    {
     "line": "2 Sun & Moon booster packs",
     "where": "line[0]",
@@ -18546,6 +18779,11 @@
   "name": "Hoopa EX Challenge Box",
   "listed": true,
   "unresolved": [
+   {
+    "line": "1 complete Ring of Lightning theme deck—play it right away",
+    "where": "line[3]",
+    "reason": "item not identified"
+   },
    {
     "line": "1 foil promo card featuring Hoopa-EX",
     "where": "line[4]",
@@ -20857,6 +21095,11 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "2 pre-constructed half decks- Sylveon (Fairy) and Noivern (Darkness and Psychic)",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
+   {
     "line": "deck list",
     "reason": "deck list not listed"
    }
@@ -20881,6 +21124,11 @@
   "name": "XY Booster Box",
   "listed": true,
   "unresolved": [
+   {
+    "line": "2 all-new Mega Evolution Pokémon",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
    {
     "line": "6 new Pokémon-EX, Pokémon TCG Online code cards",
     "where": "line[0]",
@@ -21044,6 +21292,11 @@
     "line": "a collectible figure and XY Black Star Promo card featuring Xerneas, as well as 4 booster packs (3 from XY expansion",
     "where": "line[0]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "1 from Legendary Treasures)",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -21057,6 +21310,11 @@
     "line": "a collectible figure and XY Black Star Promo card featuring Yveltal, as well as 4 booster packs (3 from XY expansion",
     "where": "line[0]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "1 from Legendary Treasures)",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -21101,6 +21359,11 @@
     "line": "4 booster packs (3 XY",
     "where": "line[0]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "1 Black & White)",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -22261,7 +22524,7 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[3]",
-    "reason": "cards not named"
+    "reason": "random cards"
    }
   ]
  },
@@ -22274,7 +22537,7 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[2]",
-    "reason": "cards not named"
+    "reason": "random cards"
    },
    {
     "line": "random cards",
@@ -22292,6 +22555,11 @@
     "line": "A specially selected foil Arceus LV.X card",
     "where": "line[5]",
     "reason": "cards not named"
+   },
+   {
+    "line": "A great window design for displaying your favorite card",
+    "where": "line[6]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -22305,6 +22573,11 @@
     "line": "A specially selected foil Arceus LV.X card",
     "where": "line[5]",
     "reason": "cards not named"
+   },
+   {
+    "line": "A great window design for displaying your favorite card",
+    "where": "line[6]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -22317,7 +22590,7 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[2]",
-    "reason": "cards not named"
+    "reason": "random cards"
    }
   ]
  },
@@ -22330,12 +22603,17 @@
    {
     "line": "10 randomly inserted game cards",
     "where": "line[2]",
-    "reason": "cards not named"
+    "reason": "random cards"
    },
    {
     "line": "1 3 card promo pack",
     "where": "line[3]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "Happiny & Lopunny promos",
+    "where": "line[4]",
+    "reason": "promo set not pinned to one card"
    }
   ]
  },
@@ -22539,6 +22817,11 @@
     "line": "four booster packs: two from Platinum",
     "where": "line[0]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "two from the Diamond & Pearl Series",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -22557,6 +22840,11 @@
     "line": "four booster packs: two from Platinum",
     "where": "line[0]",
     "reason": "booster pack set not identified"
+   },
+   {
+    "line": "two from the Diamond & Pearl Series",
+    "where": "line[0]",
+    "reason": "item not identified"
    }
   ]
  },
@@ -22640,6 +22928,11 @@
   "name": "Legends Awakened Theme Deck - Metal Surge",
   "listed": true,
   "unresolved": [
+   {
+    "line": "an exclusive cosmos holo version of Heatran)",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
    {
     "line": "1x Legends Awakened card list",
     "where": "line[5]",
@@ -23778,32 +24071,6 @@
   ]
  },
  {
-  "family": "neo4-booster-box-1st-edition",
-  "tcgplayerProductId": 563754,
-  "name": "Neo Destiny Booster Box [1st Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs (",
-    "where": "line[3]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
-  "family": "neo4-booster-box-unlimited-edition",
-  "tcgplayerProductId": 563755,
-  "name": "Neo Destiny Booster Box [Unlimited Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs (",
-    "where": "line[3]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
   "family": "neo3-booster-pack-1st-edition",
   "tcgplayerProductId": 138145,
   "name": "Neo Revelation Booster Pack [1st Edition]",
@@ -23838,24 +24105,16 @@
   ]
  },
  {
-  "family": "neo3-booster-box-1st-edition",
-  "tcgplayerProductId": 634445,
-  "name": "Neo Revelation Booster Box [1st Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs, each with 11 game cards",
-    "where": "line[3]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
   "family": "si1-collection",
   "tcgplayerProductId": 610709,
   "name": "Southern Islands Collection",
   "listed": true,
   "unresolved": [
+   {
+    "line": "18 unique Southern Islands Collection cards",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
    {
     "line": "3 randomized booster packs",
     "where": "line[3]",
@@ -24058,19 +24317,6 @@
   ]
  },
  {
-  "family": "gym2-booster-box-1st-edition",
-  "tcgplayerProductId": 276588,
-  "name": "Gym Challenge Booster Box [1st Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs",
-    "where": "line[0]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
   "family": "gym2-theme-deck-blaine",
   "tcgplayerProductId": 277112,
   "name": "Gym Challenge Theme Deck - \"Blaine\"",
@@ -24149,19 +24395,6 @@
   ]
  },
  {
-  "family": "gym2-booster-box-unlimited-edition",
-  "tcgplayerProductId": 285314,
-  "name": "Gym Challenge Booster Box [Unlimited Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs",
-    "where": "line[0]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
   "family": "gym1-booster-pack-1st-edition",
   "tcgplayerProductId": 138137,
   "name": "Gym Heroes Booster Pack [1st Edition]",
@@ -24192,32 +24425,6 @@
    {
     "line": "random cards",
     "reason": "booster pack cards are random"
-   }
-  ]
- },
- {
-  "family": "gym1-booster-box-1st-edition",
-  "tcgplayerProductId": 208707,
-  "name": "Gym Heroes Booster Box [1st Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs",
-    "where": "line[0]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
-  "family": "gym1-booster-box-unlimited-edition",
-  "tcgplayerProductId": 208708,
-  "name": "Gym Heroes Booster Box [Unlimited Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs",
-    "where": "line[0]",
-    "reason": "booster pack set not identified"
    }
   ]
  },
@@ -24328,37 +24535,16 @@
   ]
  },
  {
-  "family": "base5-booster-box-1st-edition",
-  "tcgplayerProductId": 209436,
-  "name": "Team Rocket Booster Box [1st Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs of 1st Edition Team Rocket",
-    "where": "line[0]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
-  "family": "base5-booster-box-unlimited-edition",
-  "tcgplayerProductId": 209437,
-  "name": "Team Rocket Booster Box [Unlimited Edition]",
-  "listed": true,
-  "unresolved": [
-   {
-    "line": "36 booster packs of Unlimited Edition Team Rocket",
-    "where": "line[0]",
-    "reason": "booster pack set not identified"
-   }
-  ]
- },
- {
   "family": "base4-2-player-cd-rom-starter-set",
   "tcgplayerProductId": 107609,
   "name": "Base Set 2 - 2-Player CD-ROM Starter Set",
   "listed": false,
-  "unresolved": []
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
  },
  {
   "family": "base4-booster-box",
@@ -24584,7 +24770,12 @@
   "tcgplayerProductId": 136400,
   "name": "Pokemon 2-Player Starter Set (Revised Base Set Reprint Run)",
   "listed": false,
-  "unresolved": []
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
  },
  {
   "family": "base1-theme-deck-blackout-revised-reprint-run",
@@ -24662,7 +24853,7 @@
    {
     "line": "11 randomly inserted game cards",
     "where": "line[5]",
-    "reason": "cards not named"
+    "reason": "random cards"
    }
   ]
  },
@@ -24680,9 +24871,93 @@
   "listed": true,
   "unresolved": [
    {
+    "line": "Two 30-Card theme decks",
+    "where": "line[5]",
+    "reason": "item not identified"
+   },
+   {
     "line": "1 Holographic card",
     "where": "line[6]",
     "reason": "cards not named"
+   },
+   {
+    "line": "3 Diglett",
+    "where": "line[12]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "4 Machop",
+    "where": "line[13]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "2 Machoke",
+    "where": "line[14]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Machamp",
+    "where": "line[15]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "4 Ponyta",
+    "where": "line[16]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "4 Charmander",
+    "where": "line[17]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "2 Charmeleon",
+    "where": "line[18]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Growlithe",
+    "where": "line[19]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "2 Rattata",
+    "where": "line[20]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Dratini",
+    "where": "line[21]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Bill",
+    "where": "line[23]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Gust of Wind",
+    "where": "line[26]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Pokédex",
+    "where": "line[27]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "2 Potion",
+    "where": "line[28]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "2 Switch",
+    "where": "line[29]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
    }
   ]
  },

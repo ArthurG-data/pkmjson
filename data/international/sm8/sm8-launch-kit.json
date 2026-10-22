@@ -4,7 +4,7 @@
   "set": "sm8",
   "category": "other",
   "name": "Lost Thunder Launch Kit",
-  "contentsStatus": "complete",
+  "contentsStatus": "partial",
   "contents": {
     "sealed": [
       {
@@ -14,16 +14,12 @@
     ],
     "other": [
       {
-        "name": "Sun & Moon – Lost Thunder theme decks",
-        "count": 8
-      },
-      {
         "name": "Slapband bracelets with a Poké Ball design",
         "count": 10
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sun & Moon – Lost Thunder theme decks.",
   "releases": [
     {
       "language": "en",

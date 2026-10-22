@@ -8,18 +8,7 @@
     "cardmarketProductId": 357064
   },
   "contentsStatus": "partial",
-  "contents": {
-    "other": [
-      {
-        "name": "There are 36 packs per display",
-        "count": 1
-      },
-      {
-        "name": "Displays",
-        "count": 6
-      }
-    ]
-  },
+  "contents": {},
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

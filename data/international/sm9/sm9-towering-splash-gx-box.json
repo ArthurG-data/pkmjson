@@ -4,20 +4,16 @@
   "set": "sm9",
   "category": "collection_box",
   "name": "Towering Splash GX Box",
-  "contentsStatus": "complete",
+  "contentsStatus": "partial",
   "contents": {
     "other": [
-      {
-        "name": "Pokemon TCG boosters",
-        "count": 4
-      },
       {
         "name": "Code card for the online game",
         "count": 1
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: four Pokemon TCG boosters.",
   "releases": [
     {
       "language": "en",

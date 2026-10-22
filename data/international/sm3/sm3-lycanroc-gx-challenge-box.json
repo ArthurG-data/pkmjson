@@ -26,16 +26,12 @@
     ],
     "other": [
       {
-        "name": "Complete Pokemon TCG Theme Deck, ready to play",
-        "count": 1
-      },
-      {
         "name": "Code card for the Pokemon Trading Card Game Online",
         "count": 1
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs; 1 complete Pokemon TCG Theme Deck, ready to play.",
   "releases": [
     {
       "language": "en",

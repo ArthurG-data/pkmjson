@@ -14,16 +14,12 @@
     ],
     "other": [
       {
-        "name": "Great Ball big enough to hold a stack of Pokemon TCG cards",
-        "count": 1
-      },
-      {
         "name": "Code card for the Pokémon Trading Card Game Online",
         "count": 1
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil cards featuring Shiny Zoroark GX.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil cards featuring Shiny Zoroark GX; A Great Ball big enough to hold a stack of Pokemon TCG cards.",
   "releases": [
     {
       "language": "en",

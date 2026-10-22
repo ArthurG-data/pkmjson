@@ -27,10 +27,6 @@
     ],
     "other": [
       {
-        "name": "Pokémon 25 logo Collector Chest with a dozen additional treasures",
-        "count": 1
-      },
-      {
         "name": "Cool Pokémon coin",
         "count": 1
       },
@@ -56,7 +52,7 @@
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 2 additional Pokémon TCG booster packs (Packs and contents may vary.); 1 promo card featuring Mimikyu  Delta Species ; 1 promo card featuring Dragapult  Prime; 1 promo card featuring Hydreigon C.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 additional Pokémon TCG booster packs (Packs and contents may vary.); 1 promo card featuring Mimikyu  Delta Species ; 1 promo card featuring Dragapult  Prime; 1 promo card featuring Hydreigon C; A Pokémon 25 logo Collector Chest with a dozen additional treasures.",
   "releases": [
     {
       "language": "en",

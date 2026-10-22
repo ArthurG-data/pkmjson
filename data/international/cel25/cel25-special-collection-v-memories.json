@@ -4,8 +4,14 @@
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Special Collection - V Memories",
-  "contentsStatus": "complete",
+  "contentsStatus": "partial",
   "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 6
+      }
+    ],
     "cards": [
       {
         "tcgdexCardId": "swshp-SWSH133",
@@ -25,14 +31,6 @@
       }
     ],
     "other": [
-      {
-        "name": "Pokémon TCG: Celebrations 4-card boosters",
-        "count": 6
-      },
-      {
-        "name": "Additional Pokémon TCG boosters",
-        "count": 2
-      },
       {
         "name": "Collector's pin featuring Sylveon",
         "count": 1
@@ -55,7 +53,7 @@
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 additional Pokémon TCG boosters.",
   "releases": [
     {
       "language": "en",

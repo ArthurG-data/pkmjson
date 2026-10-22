@@ -1,5 +1,6 @@
 """Regressions from the import audits: each test is a product text the generator once got wrong."""
-from import_tcgplayer import Draft, Group, Parser, PromoResolver, classify, expansion_of, fold, list_items
+from import_tcgplayer import (EDITIONS, Draft, Group, Parser, PromoResolver, classify, expansion_of, fold, list_items,
+                              merge_release)
 
 
 class NoPromos(PromoResolver):
@@ -17,15 +18,18 @@ SV10_5W = _group(3, "sv10.5w", "SV: White Flare")
 XY12 = _group(4, "xy12", "XY - Evolutions")
 SV08_5 = _group(5, "sv08.5", "SV: Prismatic Evolutions")
 XY1 = _group(6, "xy1", "XY Base Set")
-GROUPS = [SV01, SV10_5B, SV10_5W, XY12, SV08_5, XY1]
+M1L = _group(7, "M1L", "M1L: Mega Brave")
+S5A = _group(8, "S5a", "S5a: Matchless Fighters")
+GROUPS = [SV01, SV10_5B, SV10_5W, XY12, SV08_5, XY1, M1L, S5A]
 CHILD = {(g.group_id, "booster_pack"): f"{g.set_id}-booster-pack" for g in GROUPS}
 CHILD[(SV08_5.group_id, "booster_box")] = "sv08.5-booster-box"
+CHILD[(S5A.group_id, "booster_box")] = "s5a-booster-box"
 
 
-def _parse(group, name, text, category=None):
+def _parse(group, name, text, category=None, edition=EDITIONS[3]):
     parser = Parser({g.expansion: g for g in GROUPS}, CHILD, {}, NoPromos())
-    product = {"productId": 1, "name": name, "extendedData": [{"name": "CardText", "value": text}]}
-    draft = Draft(product, group, "x", category or classify(name))
+    product = {"productId": 1, "name": name, "extendedData": [{"name": edition.text_field, "value": text}]}
+    draft = Draft(product, group, "x", category or classify(name), edition)
     parser.parse(draft)
     return draft
 
@@ -93,3 +97,55 @@ def test_a_set_of_several_products_lists_nothing():
 def test_a_pokemon_center_product_with_the_standard_text_is_not_trusted():
     etb = _parse(SV01, "Scarlet & Violet Pokemon Center Elite Trainer Box", "• 9 Scarlet & Violet booster packs")
     assert not etb.complete
+
+
+def test_a_japanese_product_reads_its_description():
+    box = _parse(M1L, "Mega Brave Booster Box",
+                 "Each sealed <em>Japanese</em> Mega Brave Booster Box contains 30 booster packs containing 5 random "
+                 "cards each.", edition=EDITIONS[85])
+    assert box.sealed == [{"product": "M1L-booster-pack", "count": 30}] and box.complete
+
+
+def test_boosters_are_packs_and_a_named_booster_box_is_a_product():
+    trainer_box = _parse(M1L, "Premium Trainer Box MEGA Brave", "• 10 Mega Brave Boosters\n• 1 Card Box")
+    assert trainer_box.sealed == [{"product": "M1L-booster-pack", "count": 10}]
+    assert trainer_box.other == [{"name": "Card Box", "count": 1}]
+    bundle = _parse(S5A, "Matchless Fighters Klara and Avery Set",
+                    "• 1 Japanese Matchless Fighters booster box\n• 2 Set of sleeves featuring Klara and Avery")
+    assert bundle.sealed == [{"product": "s5a-booster-box", "count": 1}]
+
+
+def test_an_item_that_names_no_accessory_is_not_other():
+    bundle = _parse(SV01, "Sam's Club Bundle", "• 1 coin\n• Raichu\n• Machamp")
+    assert [o["name"] for o in bundle.other] == ["Coin"]
+    assert [u["line"] for u in bundle.unresolved] == ["Raichu", "Machamp"]
+    trainer_box = _parse(SV01, "Premium Trainer Box ex",
+                         "• Assortment of popular Pokémon, Trainer, Energy cards\n• 1 coin\n• 1 Pokémon TCG Energy cards")
+    assert [o["name"] for o in trainer_box.other] == ["Coin", "Pokémon TCG Energy cards"]
+    assert not trainer_box.complete
+
+
+def test_a_deck_is_not_other_but_its_code_card_is():
+    box = _parse(SV01, "GX Challenge Box", "• 1 Ready-to-play theme deck\n• 1 Code card to play this deck online")
+    assert [o["name"] for o in box.other] == ["Code card to play this deck online"]
+    assert not box.complete
+
+
+def test_random_and_promos_are_never_other():
+    file_set = _parse(SV01, "Collection File Set", "• Cards are randomly included in 5 pieces each\n• 3 Promos")
+    assert file_set.other == [] and len(file_set.unresolved) == 2
+
+
+def test_a_starter_set_is_a_deck():
+    assert classify("ex Starter Set Pikachu ex & Pawmot") == "battle_deck"
+    assert classify("Start Deck 100 Battle Collection") == "battle_deck"
+
+
+def test_a_rerun_keeps_the_name_and_date_another_tool_gave_the_release():
+    generated = {"language": "ja", "name": "Pokemon Card 151 Booster Pack", "identifiers": {"tcgplayerProductIds": [1]},
+                 "sources": ["https://www.tcgplayer.com/product/1"]}
+    named = {**generated, "name": "強化拡張パック「ポケモンカード151」", "releaseDate": "2023-06-16",
+             "sources": generated["sources"] + ["https://www.pokemon-card.com/products/index.html?keyword=151"]}
+    assert merge_release(generated, named) == {k: named[k] for k in
+                                               ("language", "name", "releaseDate", "identifiers", "sources")}
+    assert merge_release(generated, generated) == generated

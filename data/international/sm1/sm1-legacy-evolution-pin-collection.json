@@ -14,14 +14,10 @@
       {
         "name": "Pokemon Trading Card Game Online code card",
         "count": 1
-      },
-      {
-        "name": "Cosmo Holofoil promos of Bellossom, Blissey, Crobat, Politoed and Slowking",
-        "count": 5
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text. Not resolved: 5 booster packs; Steelix EX from XY Steam Siege.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 booster packs; Steelix EX from XY Steam Siege; 5 Cosmo Holofoil promos of Bellossom, Blissey, Crobat, Politoed and Slowking.",
   "releases": [
     {
       "language": "en",

@@ -4,28 +4,9 @@
   "set": "sv03.5",
   "category": "other",
   "name": "Sam's Club 151 (4 Mini Tins + 4 Promo Cards Bundle)",
-  "contentsStatus": "complete",
-  "contents": {
-    "other": [
-      {
-        "name": "Raichu",
-        "count": 1
-      },
-      {
-        "name": "Machamp",
-        "count": 1
-      },
-      {
-        "name": "Gengar",
-        "count": 1
-      },
-      {
-        "name": "Dragonite",
-        "count": 1
-      }
-    ]
-  },
-  "notes": "Generated from TCGplayer's product text.",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Raichu; Machamp; Gengar; Dragonite.",
   "releases": [
     {
       "language": "en",
