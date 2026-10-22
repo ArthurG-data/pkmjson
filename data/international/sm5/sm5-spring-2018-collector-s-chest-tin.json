@@ -1,0 +1,51 @@
+{
+  "id": "sm5-spring-2018-collector-s-chest-tin",
+  "region": "international",
+  "set": "sm5",
+  "category": "tin",
+  "name": "Spring 2018 Collector's Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible coin",
+        "count": 1
+      },
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Mini portfolio",
+        "count": 1
+      },
+      {
+        "name": "Notepad",
+        "count": 1
+      },
+      {
+        "name": "Pencils",
+        "count": 4
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon booster packs; 1 promo card featuring Dusk Man Necrozma; 1 promo card featuring Dawn Wings Necrozma; 1 promo card featuring Lycanroc  Dusk Form.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Spring 2018 Collector's Chest Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          162044
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/162044/pokemon-sm-ultra-prism-spring-2018-collectors-chest-tin"
+      ]
+    }
+  ]
+}

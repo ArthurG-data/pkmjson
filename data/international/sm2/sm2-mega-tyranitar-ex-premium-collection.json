@@ -1,0 +1,51 @@
+{
+  "id": "sm2-mega-tyranitar-ex-premium-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "premium_collection",
+  "name": "Mega Tyranitar EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Mega Tyranitar collector's pin",
+        "count": 1
+      },
+      {
+        "name": "Foil oversize Mega Tyranitar-EX card",
+        "count": 1
+      },
+      {
+        "name": "Mega Tyranitar collectible coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for PTCGO",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Mega Tyranitar EX; 1 foil card featuring Tyranitar-EX; 1 Spirit Link card to get this Mega Evolution Pokémon into play fast; 6 Pokémon TCG booster packs to mega-expand your collection.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Tyranitar EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133808
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133808/pokemon-sm-guardians-rising-mega-tyranitar-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Tyranocif",
+      "releaseDate": "2017-09-29",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Tyranocif-EX"
+      ]
+    }
+  ]
+}

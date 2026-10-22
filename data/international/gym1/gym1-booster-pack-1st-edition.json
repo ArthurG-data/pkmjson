@@ -1,0 +1,24 @@
+{
+  "id": "gym1-booster-pack-1st-edition",
+  "region": "international",
+  "set": "gym1",
+  "category": "booster_pack",
+  "name": "Gym Heroes Booster Pack [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Heroes Booster Pack [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          138137
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/138137/pokemon-gym-heroes-gym-heroes-booster-pack-1st-edition"
+      ]
+    }
+  ]
+}

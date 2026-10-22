@@ -1,0 +1,39 @@
+{
+  "id": "s6a-gym-box",
+  "region": "asia",
+  "set": "S6a",
+  "category": "collection_box",
+  "name": "Eevee Heroes Gym Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck Shield (64 sleeves)",
+        "count": 1
+      },
+      {
+        "name": "Deck Case",
+        "count": 1
+      },
+      {
+        "name": "Cardboard Box",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 random cards each pack); Espeon VMAX promo card.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Eevee Heroes Gym Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          608794
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/608794/pokemon-japan-s6a-eevee-heroes-eevee-heroes-gym-box"
+      ]
+    }
+  ]
+}

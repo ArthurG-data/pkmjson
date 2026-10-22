@@ -1,0 +1,35 @@
+{
+  "id": "xy11-mega-gyarados-collection-box",
+  "region": "international",
+  "set": "xy11",
+  "category": "collection_box",
+  "name": "Mega Gyarados Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special Sculpted Figure of Mega Gyarados",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Mega Gyarados EX Foil Promo Card; 4 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Gyarados Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177529
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177529/pokemon-xy-steam-siege-mega-gyarados-collection-box"
+      ]
+    }
+  ]
+}

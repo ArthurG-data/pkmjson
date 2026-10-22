@@ -1,0 +1,41 @@
+{
+  "id": "xy7-collector-pin-3-pack-blister-mega-tyranitar-pin",
+  "region": "international",
+  "set": "xy7",
+  "category": "blister",
+  "name": "Ancient Origins Collector Pin 3 Pack Blister [Mega Tyranitar Pin]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy7-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of Mega Tyranitar",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ancient Origins Collector Pin 3 Pack Blister [Mega Tyranitar Pin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          104381
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/104381/pokemon-xy-ancient-origins-ancient-origins-collector-pin-3-pack-blister-mega-tyranitar-pin"
+      ]
+    }
+  ]
+}

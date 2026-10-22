@@ -1,0 +1,25 @@
+{
+  "id": "det1-case-file",
+  "region": "international",
+  "set": "det1",
+  "category": "case",
+  "name": "Detective Pikachu Case File",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu Case File",
+      "releaseDate": "2019-04-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185245
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185245/pokemon-detective-pikachu-detective-pikachu-case-file"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "xy1-collector-pin-3-pack-blisters-yveltal",
+  "region": "international",
+  "set": "xy1",
+  "category": "blister",
+  "name": "XY Collector Pin 3 Pack Blisters [Yveltal]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Exclusive Yveltal Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs for the XY series.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Collector Pin 3 Pack Blisters [Yveltal]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97723
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97723/pokemon-xy-base-set-xy-collector-pin-3-pack-blisters-yveltal"
+      ]
+    }
+  ]
+}

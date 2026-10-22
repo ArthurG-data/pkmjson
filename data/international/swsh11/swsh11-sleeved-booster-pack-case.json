@@ -1,0 +1,27 @@
+{
+  "id": "swsh11-sleeved-booster-pack-case",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Lost Origin Sleeved Booster Pack Case",
+  "identifiers": {
+    "cardmarketProductId": 674700
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Sleeved Booster Pack Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496131
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496131/pokemon-swsh11-lost-origin-lost-origin-sleeved-booster-pack-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "swshp-league-battle-deck-inteleon-vmax",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Inteleon VMAX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock the strategies within",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck, including 2 Pokémon V; 2 Pokémon VMAX; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Inteleon VMAX]",
+      "releaseDate": "2021-05-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236379
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236379/pokemon-miscellaneous-cards-and-products-league-battle-deck-inteleon-vmax"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Baraja Combate de Liga de Inteleon VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-inteleon-vmax"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte di Lega Inteleon-VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-inteleon-vmax"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdeck Intelleon-VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-intelleon-vmax"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat de Ligue – Lézargus-VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-lezargus-vmax"
+      ]
+    }
+  ]
+}

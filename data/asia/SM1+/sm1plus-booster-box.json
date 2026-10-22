@@ -1,0 +1,31 @@
+{
+  "id": "sm1plus-booster-box",
+  "region": "asia",
+  "set": "SM1+",
+  "category": "booster_box",
+  "name": "Sun & Moon Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm1plus-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Sun & Moon Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576921
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576921/pokemon-japan-sm1plus-sun-and-moon-sun-and-moon-booster-box"
+      ]
+    }
+  ]
+}

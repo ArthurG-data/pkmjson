@@ -1,0 +1,24 @@
+{
+  "id": "base3-pokemon-1st-edition-booster-box",
+  "region": "international",
+  "set": "base3",
+  "category": "booster_box",
+  "name": "Pokemon Fossil [1st Edition] Booster Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Fossil [1st Edition] Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107601
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107601/pokemon-fossil-pokemon-fossil-1st-edition-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sv08.5-booster-bundle-case",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "case",
+  "name": "Prismatic Evolutions Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each Booster Bundle Case contains 25 Booster Bundles..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Booster Bundle Case",
+      "releaseDate": "2025-03-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          615027
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/615027/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-bundle-case"
+      ]
+    }
+  ]
+}

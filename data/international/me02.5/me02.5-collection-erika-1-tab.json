@@ -1,0 +1,37 @@
+{
+  "id": "me02.5-collection-erika-1-tab",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Mega Evolution: Ascended Heroes Collection - Erika (1-Tab)",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokémon coin featuring Erika",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Erika’s Tangela.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution: Ascended Heroes Collection - Erika (1-Tab)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709095
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709095/pokemon-me-ascended-heroes-mega-evolution-ascended-heroes-collection-erika-1-tab"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swsh12.5-morpeko-v-union-premium-treasures-collection-case",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Morpeko V-UNION Premium Treasures Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Morpeko V-UNION Premium Treasures Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693210
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693210/pokemon-swsh-crown-zenith-morpeko-v-union-premium-treasures-collection-case"
+      ]
+    }
+  ]
+}

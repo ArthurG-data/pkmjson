@@ -1,0 +1,94 @@
+{
+  "id": "swsh10.5-elite-trainer-box",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "elite_trainer_box",
+  "name": "Pokemon GO Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 653700
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Mewtwo",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Pokémon GO expansion",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mewtwo V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Elite Trainer Box",
+      "releaseDate": "2022-07-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270708
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270708/pokemon-pokemon-go-pokemon-go-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Pokémon GO",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Pok%C3%A9mon_GO"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-pokemon-go"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-pokemon-go"
+      ]
+    }
+  ]
+}

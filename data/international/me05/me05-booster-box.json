@@ -1,0 +1,35 @@
+{
+  "id": "me05-booster-box",
+  "region": "international",
+  "set": "me05",
+  "category": "booster_box",
+  "name": "Pitch Black Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 885545
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me05-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Booster Box",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692939
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692939/pokemon-me05-pitch-black-pitch-black-booster-box"
+      ]
+    }
+  ]
+}

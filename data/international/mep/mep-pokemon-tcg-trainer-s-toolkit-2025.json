@@ -1,0 +1,80 @@
+{
+  "id": "mep-pokemon-tcg-trainer-s-toolkit-2025",
+  "region": "international",
+  "set": "mep",
+  "category": "other",
+  "name": "Pokemon TCG: Trainer's Toolkit (2025)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Strategy guide",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: More than 50 useful cards to power up your decks: dozens of Trainer cards,; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Trainer's Toolkit (2025)",
+      "releaseDate": "2025-10-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653203
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653203/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2025"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Inventario dell’Allenatore del GCC Pokémon 2025",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/inventario-dellallenatore-2025"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Trainer-Toolkit (2025)",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainers-toolkit-2025"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Nécessaire du Dresseur (2025)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/necessaire-du-dresseur-2025"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Herramientas de Entrenador de JCC Pokémon (2025)",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/herramientas-de-entrenador-2025"
+      ]
+    }
+  ]
+}

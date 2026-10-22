@@ -1,0 +1,24 @@
+{
+  "id": "swsh1-theme-deck-display",
+  "region": "international",
+  "set": "swsh1",
+  "category": "case",
+  "name": "Sword & Shield Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Theme Deck Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206034
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206034/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-theme-deck-display"
+      ]
+    }
+  ]
+}

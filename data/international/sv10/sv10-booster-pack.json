@@ -1,0 +1,61 @@
+{
+  "id": "sv10-booster-pack",
+  "region": "international",
+  "set": "sv10",
+  "category": "booster_pack",
+  "name": "Destined Rivals Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 818570
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet—Destined Rivals",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624683
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624683/pokemon-sv10-destined-rivals-destined-rivals-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-destined-rivals"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Écarlate et Violet – Rivalités Destinées",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEtier_Strat%C3%A9gies_et_Combats_%C3%89carlate_et_Violet_Rivalit%C3%A9s_Destin%C3%A9es",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-rivalites-destinees"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scarlatto e Violetto - Rivali Predestinati",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-rivali-predestinati",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-rivali-predestinati"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Karmesin & Purpur – Ewige Rivalen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-ewige-rivalen",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-ewige-rivalen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Escarlata y Púrpura-Rivales Predestinados",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-rivales-predestinados",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-rivales-predestinados"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "me05-booster-box-case",
+  "region": "international",
+  "set": "me05",
+  "category": "case",
+  "name": "Pitch Black Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 885528
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Booster Box Case",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692941
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692941/pokemon-me05-pitch-black-pitch-black-booster-box-case"
+      ]
+    }
+  ]
+}

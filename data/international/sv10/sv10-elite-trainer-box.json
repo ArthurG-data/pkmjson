@@ -1,0 +1,107 @@
+{
+  "id": "sv10-elite-trainer-box",
+  "region": "international",
+  "set": "sv10",
+  "category": "elite_trainer_box",
+  "name": "Destined Rivals Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 818585
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 9
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-203",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 635467,
+        "cardmarketProductId": 826852,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624676
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624676/pokemon-sv10-destined-rivals-destined-rivals-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Écarlate et Violet Rivalités Destinées",
+      "releaseDate": "2025-05-30",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Rivalit%C3%A9s_Destin%C3%A9es"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Rivali Predestinati",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-rivali-predestinati"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Karmesin & Purpur – Ewige Rivalen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-ewige-rivalen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Rivales Predestinados",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-rivales-predestinados"
+      ]
+    }
+  ]
+}

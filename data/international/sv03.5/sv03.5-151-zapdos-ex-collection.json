@@ -1,0 +1,83 @@
+{
+  "id": "sv03.5-151-zapdos-ex-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "collection_box",
+  "name": "151: Zapdos ex Collection",
+  "identifiers": {
+    "cardmarketProductId": 719700
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-049",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 518869,
+        "cardmarketProductId": 720392,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Zapdos ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Electabuzz.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151: Zapdos ex Collection",
+      "releaseDate": "2023-10-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502007
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502007/pokemon-sv-scarlet-and-violet-151-151-zapdos-ex-collection"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Zapdos ex de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-zapdos-ex-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Karmesin & Purpur – 151: Zapdos‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-zapdos-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Électhor-ex Écarlate et Violet – 151",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-electhor-ex-ecarlate-et-violet-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Zapdos-ex dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-zapdos-ex-dellespansione-scarlatto-e-violetto-151"
+      ]
+    }
+  ]
+}

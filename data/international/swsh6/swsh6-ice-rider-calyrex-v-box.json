@@ -1,0 +1,52 @@
+{
+  "id": "swsh6-ice-rider-calyrex-v-box",
+  "region": "international",
+  "set": "swsh6",
+  "category": "collection_box",
+  "name": "Ice Rider Calyrex V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Of 2 foil oversize cards featuring Ice Rider Calyrex V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 2 promo cards featuring Ice Rider Calyrex V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ice Rider Calyrex V Box",
+      "releaseDate": "2021-08-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          240975
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/240975/pokemon-swsh06-chilling-reign-ice-rider-calyrex-v-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Sylveroy Cavalier du Froid",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Sylveroy_Cavalier_du_Froid-V"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Schimmelreiter-Coronospa-V und",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-schimmelreiter-coronospa-v-und-pokemon-sammelkartenspiel-kollektion-rappenreiter-coronospa-v"
+      ]
+    }
+  ]
+}

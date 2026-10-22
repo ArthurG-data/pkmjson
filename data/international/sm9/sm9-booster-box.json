@@ -1,0 +1,35 @@
+{
+  "id": "sm9-booster-box",
+  "region": "international",
+  "set": "sm9",
+  "category": "booster_box",
+  "name": "Team Up Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 366886
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm9-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Booster Box",
+      "releaseDate": "2019-02-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181698
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181698/pokemon-sm-team-up-team-up-booster-box"
+      ]
+    }
+  ]
+}

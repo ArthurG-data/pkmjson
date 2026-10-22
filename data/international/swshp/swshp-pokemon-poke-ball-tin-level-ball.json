@@ -1,0 +1,32 @@
+{
+  "id": "swshp-pokemon-poke-ball-tin-level-ball",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Level Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Level Ball",
+      "releaseDate": "2021-03-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231292
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231292/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-level-ball"
+      ]
+    }
+  ]
+}

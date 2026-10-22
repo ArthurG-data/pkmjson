@@ -1,0 +1,40 @@
+{
+  "id": "swshp-shaymin-vstar-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Shaymin VSTAR Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Shaymin VSTAR",
+        "count": 1
+      },
+      {
+        "name": "VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card usable in either the Pokémon TCG Online or Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Shaymin VSTAR; 1 foil card featuring Shaymin V; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shaymin VSTAR Premium Collection",
+      "releaseDate": "2022-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          286619
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/286619/pokemon-miscellaneous-cards-and-products-shaymin-vstar-premium-collection"
+      ]
+    }
+  ]
+}

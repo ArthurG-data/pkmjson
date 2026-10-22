@@ -1,0 +1,25 @@
+{
+  "id": "swshp-first-partner-pack-kanto",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "First Partner Pack (Kanto)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: three oversize promo cards featuring the first partner Pokeémon of the Kanto region—Bulbasaur, Charmander, Squirtle—plus two regular Pokémon TCG boosters.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Pack (Kanto)",
+      "releaseDate": "2021-10-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231306
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231306/pokemon-first-partner-pack-first-partner-pack-kanto"
+      ]
+    }
+  ]
+}

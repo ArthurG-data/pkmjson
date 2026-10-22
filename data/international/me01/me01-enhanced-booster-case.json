@@ -1,0 +1,32 @@
+{
+  "id": "me01-enhanced-booster-case",
+  "region": "international",
+  "set": "me01",
+  "category": "case",
+  "name": "Mega Evolution Enhanced Booster Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me01-enhanced-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Enhanced Booster Case",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          646173
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/646173/pokemon-me01-mega-evolution-mega-evolution-enhanced-booster-case"
+      ]
+    }
+  ]
+}

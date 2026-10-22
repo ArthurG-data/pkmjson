@@ -1,0 +1,84 @@
+{
+  "id": "svp-deluxe-battle-deck-meowscarada-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "Deluxe Battle Deck [Meowscarada ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Single-player playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Deluxe Battle Deck [Meowscarada ex]",
+      "releaseDate": "2023-09-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          504250
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/504250/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-meowscarada-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte Deluxe Meowscarada-ex o Quaquaval-ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-deluxe-meowscarada-ex-o-quaquaval-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Deluxe-Kampfdeck Maskagato‑ex und Deluxe-Kampfdeck Bailonda‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/deluxe-kampfdeck-maskagato-ex-und-deluxe-kampfdeck-bailonda-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Baraja Combate Deluxe de Meowscarada ex y baraja Combate Deluxe de Quaquaval ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-deluxe-de-meowscarada-ex-y-baraja-combate-deluxe-de-quaquaval-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat Deluxe – Miascarade-ex et Deck Combat Deluxe – Palmaval-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-deluxe-miascarade-ex-et-deck-combat-deluxe-palmaval-ex"
+      ]
+    }
+  ]
+}

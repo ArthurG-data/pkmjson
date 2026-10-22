@@ -1,0 +1,28 @@
+{
+  "id": "sm3-elite-trainer-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "elite_trainer_box",
+  "name": "Burning Shadows Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 298775
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Elite Trainer Box",
+      "releaseDate": "2017-08-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133776
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133776/pokemon-sm-burning-shadows-burning-shadows-elite-trainer-box"
+      ]
+    }
+  ]
+}

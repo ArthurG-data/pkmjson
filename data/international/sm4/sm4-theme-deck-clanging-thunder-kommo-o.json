@@ -1,0 +1,38 @@
+{
+  "id": "sm4-theme-deck-clanging-thunder-kommo-o",
+  "region": "international",
+  "set": "sm4",
+  "category": "theme_deck",
+  "name": "Crimson Invasion Theme Deck - \"Clanging Thunder\" [Kommo-o]",
+  "identifiers": {
+    "cardmarketProductId": 301981
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crimson Invasion Theme Deck - \"Clanging Thunder\" [Kommo-o]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          149379
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/149379/pokemon-sm-crimson-invasion-crimson-invasion-theme-deck-clanging-thunder-kommo-o"
+      ]
+    }
+  ]
+}

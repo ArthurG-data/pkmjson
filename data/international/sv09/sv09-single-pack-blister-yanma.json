@@ -1,0 +1,40 @@
+{
+  "id": "sv09-single-pack-blister-yanma",
+  "region": "international",
+  "set": "sv09",
+  "category": "blister",
+  "name": "Journey Together Single Pack Blister [Yanma]",
+  "identifiers": {
+    "cardmarketProductId": 805587
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Yanma.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Single Pack Blister [Yanma]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610950
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610950/pokemon-sv09-journey-together-journey-together-single-pack-blister-yanma"
+      ]
+    }
+  ]
+}

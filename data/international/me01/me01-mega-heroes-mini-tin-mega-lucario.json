@@ -1,0 +1,39 @@
+{
+  "id": "me01-mega-heroes-mini-tin-mega-lucario",
+  "region": "international",
+  "set": "me01",
+  "category": "tin",
+  "name": "Mega Heroes Mini Tin [Mega Lucario]",
+  "identifiers": {
+    "cardmarketProductId": 834808
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Heroes Mini Tin [Mega Lucario]",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649400
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649400/pokemon-me01-mega-evolution-mega-heroes-mini-tin-mega-lucario"
+      ]
+    }
+  ]
+}

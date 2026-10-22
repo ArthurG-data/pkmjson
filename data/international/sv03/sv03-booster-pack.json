@@ -1,0 +1,61 @@
+{
+  "id": "sv03-booster-pack",
+  "region": "international",
+  "set": "sv03",
+  "category": "booster_pack",
+  "name": "Obsidian Flames Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 715466
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet—Obsidian Flames",
+      "releaseDate": "2023-08-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501256
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501256/pokemon-sv03-obsidian-flames-obsidian-flames-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-obsidian-flames"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Écarlate et Violet – Flammes Obsidiennes",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Flammes_Obsidiennes",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-flammes-obsidiennes"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Escarlata y Púrpura-Llamas Obsidianas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-llamas-obsidianas",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-llamas-obsidianas"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scarlatto e Violetto - Ossidiana Infuocata",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-ossidiana-infuocata",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-ossidiana-infuocata"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Karmesin & Purpur – Obsidianflammen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-obsidianflammen",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-obsidianflammen"
+      ]
+    }
+  ]
+}

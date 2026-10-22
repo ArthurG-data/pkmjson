@@ -1,0 +1,38 @@
+{
+  "id": "ex9-emerald-theme-deck-hydrobloom-milotic",
+  "region": "international",
+  "set": "ex9",
+  "category": "theme_deck",
+  "name": "Emerald Theme Deck - \"Hydrobloom\" [Milotic]",
+  "identifiers": {
+    "cardmarketProductId": 286629
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Emerald Theme Deck - \"Hydrobloom\" [Milotic]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232874
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232874/pokemon-ex-emerald-emerald-theme-deck-hydrobloom-milotic"
+      ]
+    }
+  ]
+}

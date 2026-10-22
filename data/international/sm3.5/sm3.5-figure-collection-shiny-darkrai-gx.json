@@ -1,0 +1,74 @@
+{
+  "id": "sm3.5-figure-collection-shiny-darkrai-gx",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Figure Collection: Shiny Darkrai GX",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Darkrai figure",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo card featuring Darkrai GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Figure Collection: Shiny Darkrai GX",
+      "releaseDate": "2018-03-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          161257
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/161257/pokemon-shining-legends-shining-legends-figure-collection-shiny-darkrai-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Légendes Brillantes Darkrai chromatique",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_L%C3%A9gendes_Brillantes_Darkrai-GX_chromatique"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Schillerndes Darkrai-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-schillerndes-darkrai-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Darkrai-GX variocolor de Leyendas Luminosas",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-darkrai-gx-variocolor-de-leyendas-luminosas"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Darkrai-GX cromatico dell’espansione Leggende Iridescenti",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-darkrai-gx-cromatico-dellespansione-leggende-iridescenti"
+      ]
+    }
+  ]
+}

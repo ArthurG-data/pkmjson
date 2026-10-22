@@ -1,0 +1,27 @@
+{
+  "id": "sv04.5-booster-bundle-display",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "case",
+  "name": "Paldean Fates Booster Bundle Display",
+  "identifiers": {
+    "cardmarketProductId": 794901
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Booster Bundle Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          530704
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/530704/pokemon-sv-paldean-fates-paldean-fates-booster-bundle-display"
+      ]
+    }
+  ]
+}

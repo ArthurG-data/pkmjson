@@ -1,0 +1,35 @@
+{
+  "id": "sv10.5w-booster-bundle",
+  "region": "international",
+  "set": "sv10.5w",
+  "category": "booster_bundle",
+  "name": "White Flare Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 824108
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5w-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "White Flare Booster Bundle",
+      "releaseDate": "2025-08-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630696
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630696/pokemon-sv-white-flare-white-flare-booster-bundle"
+      ]
+    }
+  ]
+}

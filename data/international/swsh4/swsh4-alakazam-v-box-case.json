@@ -1,0 +1,24 @@
+{
+  "id": "swsh4-alakazam-v-box-case",
+  "region": "international",
+  "set": "swsh4",
+  "category": "case",
+  "name": "Alakazam V Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alakazam V Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          683003
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/683003/pokemon-swsh04-vivid-voltage-alakazam-v-box-case"
+      ]
+    }
+  ]
+}

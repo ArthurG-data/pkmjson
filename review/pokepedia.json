@@ -1,0 +1,3732 @@
+[
+ {
+  "page": "Pokébox Lucario NIV.X",
+  "nomen": "Collector's Tin Lucario LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Tripack NB08 Pharamp",
+  "nomen": "Plasma Storm Three Pack Blister Ampharos",
+  "set": "bw8",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Tripack COL01 Tygnon",
+  "nomen": "Call of Legends Three Pack Blister Hitmonchan",
+  "set": "col1",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Duopack NB05 Lucario",
+  "nomen": "Dark Explorers Two Pack Blister Lucario",
+  "set": "bw5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Coffret Kyurem",
+  "nomen": "Kyurem Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Team Plasma",
+  "nomen": "Team Plasma Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "HS Kit du Dresseur",
+  "nomen": "HS Trainer Kit",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Diamant & Perle Kit Dresseur",
+  "nomen": "Diamond & Pearl Trainer Kit",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "EX Kit Dresseur 2",
+  "nomen": "EX Trainer Kit 2",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "EX Kit Dresseur",
+  "nomen": "EX Trainer Kit",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Boîte Collector Raikou",
+  "nomen": "Collector's Tin Raikou",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Tripack NB10 Lucario",
+  "nomen": "Plasma Blast Three Pack Blister Lucario",
+  "set": "bw10",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Boîte Collector Entei",
+  "nomen": "Collector's Tin Entei",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Légendes de Kalos Xerneas-EX",
+  "nomen": "Legends of Kalos Tin Xerneas",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Xerneas",
+  "nomen": "Xerneas Jumbo Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Yveltal",
+  "nomen": "Yveltal Jumbo Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Méga-Dracaufeu",
+  "nomen": "Mega Charizard Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Démétéros (Carrefour)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Némélios (Carrefour)",
+  "family": "xy2-pyroar-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "XY Étincelles",
+    1
+   ],
+   [
+    "XY Poings Furieux",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Coffret spécial Noël 2014",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Carchacrok-EX + Deck",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Carchacrok-EX série limitée",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection Alola",
+  "nomen": "Alola Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "Tripack SL01 Flamiaou",
+  "nomen": "Sun & Moon Three Pack Blister Litten",
+  "set": "sm1",
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack SL01 Togedemaru",
+  "nomen": "Sun & Moon Three Pack Blister Togedemaru",
+  "set": "sm1",
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack SL02 Boumata",
+  "family": "sm2-3-pack-blister-turtonator",
+  "reason": "French packs differ",
+  "stated": 3,
+  "ours": 3,
+  "french": [
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    2
+   ],
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    3
+   ]
+  ]
+ },
+ {
+  "page": "Tripack SL02 Lucanon",
+  "family": "sm2-3-pack-blister-vikavolt",
+  "reason": "French packs differ",
+  "stated": 3,
+  "ours": 3,
+  "french": [
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    2
+   ],
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    3
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Mimiqui",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Tokorico",
+  "family": "sm2-tapu-koko-figure-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Ombres Ardentes",
+    2
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Duopack SL03 Cosmog",
+  "family": "sm3-3-pack-blister-cosmog",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Duopack SL03 Miaouss d'Alola",
+  "family": "sm3-3-pack-blister-alolan-meowth",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Coffret Sucreine",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Volcanion et Magearna",
+  "nomen": "Volcanion Mythical Collection & Magearna Mythical Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Collection Premium Dracaufeu-GX",
+  "nomen": "Charizard Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Tripack Giratina",
+  "nomen": "Giratina Three Pack Blister",
+  "set": "sm1",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Tokopiyon",
+  "reason": "no English name"
+ },
+ {
+  "page": "Boîte Légendes de Kalos Yveltal-EX",
+  "nomen": "Legends of Kalos Tin Yveltal",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Pouvoirs Premium Légendes Brillantes",
+  "family": "sm3.5-super-premium-collection-ho-oh-gx",
+  "reason": "French packs differ",
+  "stated": 8,
+  "ours": 10,
+  "french": []
+ },
+ {
+  "page": "Coffret Méga-Ectoplasma-EX chromatique",
+  "nomen": "Collector Chest 2016",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Coffret Mewtwo-EX",
+  "family": "xy12-mewtwo-ex-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "XY Évolutions",
+    2
+   ],
+   [
+    "XY Offensive Vapeur",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Cœurs de Champions",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Démétéros (JouéClub)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Dracolosse-EX",
+  "family": "swsh8-dragonite-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "XY Évolutions",
+    2
+   ],
+   [
+    "XY Offensive Vapeur",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Ectoplasma-EX",
+  "family": "xy12-gengar-ex-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "XY Évolutions",
+    2
+   ],
+   [
+    "XY Offensive Vapeur",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Kangourex-EX",
+  "family": "xy12-kangaskhan-ex-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "XY Évolutions",
+    2
+   ],
+   [
+    "XY Offensive Vapeur",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Dracaufeu-EX",
+  "nomen": "Charizard Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "Duopack XY12 Smogogo",
+  "family": "xy12-single-pack-blister-weezing",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 1,
+  "french": []
+ },
+ {
+  "page": "Coffret Zygarde",
+  "nomen": "Zygarde BoxZygarde Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Duopack XY11 Rayquaza",
+  "family": "xy11-3-pack-blister-rayquaza",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Duopack XY11 Créfadet",
+  "family": "xy11-3-pack-blister-azelf",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Coffret Lucario",
+  "nomen": "Steam Siege Single Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Coffret Flamajou",
+  "nomen": "Fates Collide Single Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Duopack XY03 Desséliande",
+  "family": "xy3-3-pack-blister-trevenant",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Duopack XY03 Cupcanaille",
+  "family": "xy3-3-pack-blister-slurpuff",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Duopack XY07 Mewtwo",
+  "nomen": "Mega Mewtwo BoxMega Mewtwo X CollectionMega Mewtwo Y Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Tripack XY09 Némélios",
+  "nomen": "BREAKpoint Three Pack Blisters",
+  "set": "xy9",
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Tripack XY09 Rayquaza",
+  "nomen": "Mega Rayquaza Collection",
+  "set": "xy9",
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Tripack XY09 Latios",
+  "nomen": "Mega Latios Collection",
+  "set": "xy9",
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Tripack XY09 Tranchodon",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Pikachu",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Jirachi",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Rayquaza",
+  "nomen": "Rayquaza BoxMega Rayquaza Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Necrozma Prisme Necrozma Ailes de l'Aurore-GX",
+  "family": "sm5-necrozma-prism-tin-dawn-wings-necrozma-gx",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    1
+   ],
+   [
+    "Soleil et Lune Ombres Ardentes",
+    2
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Boîte Necrozma Prisme Necrozma Crinière du Couchant-GX",
+  "family": "sm5-necrozma-prism-tin-dusk-mane-necrozma-gx",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    1
+   ],
+   [
+    "Soleil et Lune Ombres Ardentes",
+    2
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Tripack SL05 Goupix d'Alola",
+  "nomen": "Ultra Prism Three Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack SL05 Porygon-Z",
+  "nomen": "Ultra Prism Three Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Duopack XY07 Sepiatroce",
+  "family": "xy7-3-pack-blister-malamar",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Duopack XY07 Drattak",
+  "family": "xy7-3-pack-blister-salamence",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 3,
+  "french": []
+ },
+ {
+  "page": "Coffret Rapasdepic",
+  "nomen": "Ancient Origins Single Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Valisette Iguolta",
+  "nomen": "Roaring Skies Single Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Valisette Mistigrix",
+  "nomen": "Roaring Skies Single Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Lucario-GX",
+  "family": "sm5-lucario-gx-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "XY Évolutions",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Valisette Muplodocus",
+  "nomen": "Goodra Mini Album Blister Pack Opening",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Boîte Légendes de Hoenn Groudon-EX",
+  "nomen": "Legends of Hoenn Tin Groudon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Légendes de Hoenn Kyogre-EX",
+  "nomen": "Legends of Hoenn Tin Kyogre",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack XY05 Couafarel",
+  "nomen": "Primal Clash Three Pack Blisters",
+  "set": "xy5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Collection Hoenn Primo-Kyogre",
+  "nomen": "Hoenn Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Hoenn Primo-Groudon",
+  "nomen": "Hoenn Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Coffre de collection 2018",
+  "family": "sm5-spring-2018-collector-s-chest-tin",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Ultra-Prisme",
+    2
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "XY Évolutions",
+    1
+   ],
+   [
+    "XY Impulsion TURBO",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Tripack SL06 Miasmax",
+  "nomen": "Forbidden Light Three Pack Blisters",
+  "set": "sm6",
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack SL06 Regigigas",
+  "nomen": "Forbidden Light Three Pack Blisters",
+  "set": "sm6",
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Soleil et Lune Kit du Dresseur: Sablaireau d'Alola et Feunard d'Alola",
+  "nomen": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffret Zygarde-GX chromatique",
+  "nomen": "Shiny Zygarde Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Légendes de Johto GX",
+  "family": "sm5-legends-of-johto-gx-premium-collection-box",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "XY Offensive Vapeur",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "Soleil et Lune Ombres Ardentes",
+    1
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Calendrier Compte à Rebours",
+  "nomen": "Pokémon Countdown Calendar",
+  "set": null,
+  "reason": "no family",
+  "score": 0.0
+ },
+ {
+  "page": "Tripack NB10 Genesect",
+  "nomen": "Plasma Blast Three Pack Blister Genesect",
+  "set": "bw10",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Tripack NB08 Feunard",
+  "nomen": "Plasma Storm Three Pack Blister Ninetales",
+  "set": "bw8",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Boîte Puissance EX Keldeo-EX",
+  "nomen": "EX Power Tin Keldeo",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack NB07 Pingoléon",
+  "nomen": "Boundaries Crossed Three Pack Blister Empoleon",
+  "set": "bw7",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Tripack NB07 Tranchodon",
+  "nomen": "Boundaries Crossed Three Pack Blister Haxorus",
+  "set": "bw7",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffret Fulguris-GX",
+  "nomen": "Forces of Nature Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Coffret Boréas-GX",
+  "nomen": "Forces of Nature Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Collection Majesté des Dragons Légendes d'Unys GX",
+  "nomen": "Dragon Majesty Legends of Unova Premium Collection",
+  "set": "sm7.5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tempête (Coffret cadeau)",
+  "nomen": "Thunderstorm Gift Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Mini-boîte Amitiés de Kanto",
+  "nomen": "Kanto Friends Mini Tins",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Mini-boîte Puissance de Kanto",
+  "nomen": "Kanto Power Mini Tins",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Mini-boîte Les Amis de Galar",
+  "nomen": "Galar Pals Mini Tins",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Galar Ouistempo",
+  "nomen": "Grookey Galar Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Galar Flambino",
+  "nomen": "Scorbunny Galar Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Galar Larméléon",
+  "nomen": "Sobble Galar Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection spéciale Miaouss-VMAX",
+  "nomen": "Meowth Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Académie de Combat",
+  "nomen": "Battle Academy",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Collection Pouvoirs Premium Majesté des Dragons",
+  "family": "sm7.5-super-premium-collection",
+  "reason": "French packs differ",
+  "stated": 8,
+  "ours": 10,
+  "french": []
+ },
+ {
+  "page": "Coffret Mimiqui-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Évoli-GX (2020)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Brindibou et Noadkoko d'Alola-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Gardevoir et Nymphali-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Méga-Ténéfix et Tyranocif-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Ramoloss et Pyskokwak-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noctali et Darkrai-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Mentali et Deoxys-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Mégapagos-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Mini-boîte Puissance de Galar",
+  "nomen": "Galar Power Mini Tins",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Nécessaire du Dresseur (2020)",
+  "nomen": "Trainer's Toolkit",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Coffre de collection (Automne 2019)",
+  "nomen": "Fall 2019 Collector Chest",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Coffre de collection (Automne 2018)",
+  "family": "sm8-fall-2018-collector-chest",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Tonnerre Perdu",
+    2
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "XY Évolutions",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffre de collection Détective Pikachu",
+  "family": "det1-collector-chest",
+  "reason": "French packs differ",
+  "stated": 9,
+  "ours": 7,
+  "french": []
+ },
+ {
+  "page": "Coffret Sablaireau d'Alola-GX",
+  "nomen": "Alolan Sandslash Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Coffret Kangourex-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Ossatueur d'Alola-GX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Évoli-GX (2019)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Lune Pâle-GX",
+  "family": "sm11-pale-moon-gx-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Harmonie des Esprits",
+    2
+   ],
+   [
+    "Soleil et Lune Tonnerre Perdu",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Premium Générations ESCOUADE",
+  "nomen": "TAG TEAM Generations Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Collection avec figurine Épée et Bouclier",
+  "nomen": "Sword & Shield Figure Collection",
+  "set": "swsh1",
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Collection spéciale Pikachu-GX et Évoli-GX",
+  "family": "sm12-pikachu-gx-eevee-gx-special-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Éclipse Cosmique",
+    2
+   ],
+   [
+    "Soleil et Lune Duo de Choc",
+    1
+   ],
+   [
+    "XY Évolutions",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Premium Acier Trempé",
+  "nomen": "True Steel Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Coffret Éclaboussure Imposante-GX",
+  "family": "sm9-towering-splash-gx-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Tonnerre Perdu",
+    2
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ],
+   [
+    "XY Évolutions",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Premium Tortank-GX",
+  "family": "sm10-blastoise-gx-premium-collection",
+  "reason": "French packs differ",
+  "stated": 6,
+  "ours": 0,
+  "french": [
+   [
+    "XY Évolutions",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ],
+   [
+    "Soleil et Lune Tempête Céleste",
+    1
+   ],
+   [
+    "Soleil et Lune Tonnerre Perdu",
+    1
+   ],
+   [
+    "Soleil et Lune Alliance Infaillible",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Melmetal-GX (Février 2019)",
+  "family": "sm9-melmetal-gx-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Duo de Choc",
+    2
+   ],
+   [
+    "Soleil et Lune Lumière Interdite",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Melmetal-GX (Juin 2019)",
+  "family": "sm9-melmetal-gx-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Alliance Infaillible",
+    2
+   ],
+   [
+    "Soleil et Lune Tonnerre Perdu",
+    1
+   ],
+   [
+    "XY Évolutions",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection avec figurine Détective Pikachu En pleine enquête",
+  "family": "det1-on-the-case-figure-collection",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Détective Pikachu",
+    3
+   ],
+   [
+    "Soleil et Lune Invasion Carmin",
+    1
+   ],
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Majesté des Dragons Ultra-Necrozma-GX",
+  "nomen": "Dragon Majesty Collection Ultra Necrozmax20px|-GXDragon Majesty Figure Collection Ultra Necrozma",
+  "set": "sm7.5",
+  "reason": "no family",
+  "score": 0.6153846153846154
+ },
+ {
+  "page": "Coffret 6 Boosters (2020)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret 6 Boosters (2019 Film)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret 6 Boosters (2018)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection Gardiens des îles GX",
+  "nomen": "Island Guardians CollectionIsland Guardians Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "Collection Poké Ball Pikachu et Évoli",
+  "nomen": "Pikachu & Eevee Poké Ball Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Dossier Détective Pikachu",
+  "family": "det1-case-file",
+  "reason": "French packs differ",
+  "stated": 3,
+  "ours": 0,
+  "french": [
+   [
+    "Détective Pikachu",
+    2
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Dossier Spécial Détective Pikachu",
+  "nomen": "Detective Pikachu Special Case File",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Dossier Détective Pikachu Dracaufeu-GX",
+  "nomen": "Detective Pikachu Charizard-GX Case File",
+  "set": "det1",
+  "reason": "no family",
+  "score": 1.0
+ },
+ {
+  "page": "Dossier Détective Pikachu Amphinobi-GX",
+  "family": "det1-greninja-gx-case-file",
+  "reason": "French packs differ",
+  "stated": 7,
+  "ours": 0,
+  "french": [
+   [
+    "Détective Pikachu",
+    5
+   ],
+   [
+    "Soleil et Lune Ombres Ardentes",
+    1
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Dossier Détective Pikachu Mewtwo-GX",
+  "family": "det1-mewtwo-gx-case-file",
+  "reason": "French packs differ",
+  "stated": 6,
+  "ours": 0,
+  "french": [
+   [
+    "Détective Pikachu",
+    4
+   ],
+   [
+    "Soleil et Lune Invasion Carmin",
+    1
+   ],
+   [
+    "Soleil et Lune Gardiens Ascendants",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection avec pin's Entei",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection avec pin's Suicune",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection avec pin's Raikou",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection spéciale La Voie du Maître Rosemary",
+  "nomen": "Champion's Path Special Collection—Marnie",
+  "set": "swsh3.5",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "Let's Play Pokémon (Kit du Dresseur)",
+  "nomen": "Let's Play Pokémon Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Coffret Astronelle-V",
+  "family": "swsh4-orbeetle-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Voltage Éclatant",
+    2
+   ],
+   [
+    "Épée et Bouclier Clash des Rebelles",
+    1
+   ],
+   [
+    "Soleil et Lune",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Dresseur d'élite Soleil et Lune Ultra-Prisme",
+  "nomen": "Sun & Moon—Ultra Prism Elite Trainer Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7692307692307693
+ },
+ {
+  "page": "Coffret Dresseur d'élite Destinées Occultes",
+  "nomen": "Hidden Fates Elite Trainer Box",
+  "set": "sm3.5",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffret Dresseur d'élite Épée et Bouclier",
+  "nomen": "Sword & Shield Elite Trainer Box",
+  "set": "swsh1",
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Méga Pack 8 Boosters Black Friday",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Explorateurs Obscurs Démétéros (Série Limitée)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Explorateurs Obscurs Démétéros",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Pokémon Noël - Latias",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Destinées Futures Démétéros",
+  "reason": "no English name"
+ },
+ {
+  "page": "Colossal Box Regigigas",
+  "nomen": "Regigigas Colossal Box",
+  "set": "pl1",
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Coffret Démétéros (Casino)",
+  "reason": "no English name"
+ },
+ {
+  "page": "La boîte découverte",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Alakazam-V",
+  "family": "swsh4-alakazam-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Voltage Éclatant",
+    2
+   ],
+   [
+    "Épée et Bouclier Clash des Rebelles",
+    1
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Deck Combat-V Florizarre vs Tortank",
+  "nomen": "V Battle Deck—Venusaur vs. Blastoise",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffret Dresseur d'élite Épée et Bouclier Styles de Combat",
+  "nomen": "Battle Styles Elite Trainer Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.9090909090909091
+ },
+ {
+  "page": "Coffret Combat Florizarre-VMAX",
+  "nomen": "Venusaur Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Combat Tortank-VMAX",
+  "nomen": "Blastoise Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffre de collection (Printemps 2021)",
+  "family": "swsh5-spring-2021-collector-s-chest-tin",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ],
+   [
+    "Épée et Bouclier Voltage Éclatant",
+    1
+   ],
+   [
+    "Soleil et Lune Éclipse Cosmique",
+    1
+   ],
+   [
+    "Soleil et Lune Lumière Interdite",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Maxi Pack 4 Starter Pack Pokémon Soleil & Lune",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret 6 Boosters (2021)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret 6 Boosters (2019 Auchan)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Deck Combat-V Victini vs Gardevoir",
+  "nomen": "V Battle Deck—Gardevoir vs Victini",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Nécessaire du Dresseur (2021)",
+  "nomen": "Trainer's Toolkit 2021",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Collection Célébrations Lanssorien Prime",
+  "family": "cel25-collection-dragapult-prime",
+  "reason": "French packs differ",
+  "stated": 3,
+  "ours": 2,
+  "french": [
+   [
+    "Célébrations",
+    2
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Dresseur d'élite Célébrations",
+  "family": "cel25-elite-trainer-box",
+  "reason": "French packs differ",
+  "stated": 15,
+  "ours": 10,
+  "french": [
+   [
+    "Célébrations",
+    10
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    2
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    3
+   ]
+  ]
+ },
+ {
+  "page": "Deck Combat-V Lougaroc vs Corvaillus",
+  "nomen": "V Battle Deck—Lycanroc vs Corviknight",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Premium Aquali-VMAX",
+  "nomen": "Vaporeon VMAX Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Collection Premium Pyroli-VMAX",
+  "nomen": "Flareon VMAX Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Collection Premium Voltali-VMAX",
+  "nomen": "Jolteon VMAX Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Collection avec figurine Arceus-V",
+  "family": "swsh9-arceus-v-figure-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Voltage Éclatant",
+    1
+   ],
+   [
+    "Épée et Bouclier Poing de Fusion",
+    1
+   ],
+   [
+    "Épée et Bouclier Stars Étincelantes",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Hoopa-V",
+  "family": "swsh8-hoopa-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Clash des Rebelles",
+    1
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    1
+   ],
+   [
+    "Épée et Bouclier Poing de Fusion",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Boîte Légende EX Mewtwo-EX",
+  "nomen": "Legendary EX Tin Mewtwo",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Légende EX Rayquaza-EX",
+  "nomen": "Legendary EX Tin Rayquaza",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Légende EX Darkrai-EX",
+  "nomen": "Legendary EX Tin Darkrai",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Collector Suicune",
+  "nomen": "Collector's Tin Suicune",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Collector Typhlosion",
+  "nomen": "Collector's Tin Typhlosion",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Collector Meganium",
+  "nomen": "Collector's Tin Meganium",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Collector Aligatueur",
+  "nomen": "Collector's Tin Feraligatr",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Collector Zénith Giratina NIV.X",
+  "nomen": "2009 Spring Collector's Tin Giratina LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Collection Célébrations Dracaufeu-V de Peter",
+  "family": "cel25-collection-lance-s-charizard-v",
+  "reason": "French packs differ",
+  "stated": 6,
+  "ours": 4,
+  "french": [
+   [
+    "Célébrations",
+    4
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Collection Célébrations Nymphali obscur-V",
+  "family": "cel25-collection-dark-sylveon-v",
+  "reason": "French packs differ",
+  "stated": 6,
+  "ours": 4,
+  "french": [
+   [
+    "Célébrations",
+    4
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Dracolosse-V",
+  "family": "swsh8-dragonite-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Éclipse Cosmique",
+    1
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    1
+   ],
+   [
+    "Épée et Bouclier Évolution Céleste",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Pokébox Pingoléon NIV.X",
+  "nomen": "Diamond & Pearl Collector's Tin Empoleon LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Pokébox Simiabraz NIV.X",
+  "nomen": "Diamond & Pearl Collector's Tin Infernape LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Pokébox Torterra NIV.X",
+  "nomen": "Diamond & Pearl Collector's Tin Torterra LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Pikachu-V",
+  "nomen": "Pikachu Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Tripack HGSS04 Porygon",
+  "nomen": "Triumphant Three Pack Blisters Porygon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5454545454545454
+ },
+ {
+  "page": "Tripack HGSS04 Porygon2",
+  "nomen": "Triumphant Three Pack Blister Porygon2",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Palkia NIV.X",
+  "nomen": "2008 Spring Collector's Tin Palkia LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Darkrai NIV.X",
+  "nomen": "2008 Spring Collector's Tin Darkrai LV.X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Spéciale Givrali-VSTAR",
+  "family": "swsh9-glaceon-vstar-special-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Ténèbres Embrasées",
+    1
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    1
+   ],
+   [
+    "Épée et Bouclier Poing de Fusion",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Collection Spéciale Phyllali-VSTAR",
+  "family": "swsh9-leafeon-vstar-special-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Ténèbres Embrasées",
+    1
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    1
+   ],
+   [
+    "Épée et Bouclier Poing de Fusion",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Galopa de Galar-V",
+  "family": "swsh5-galarian-rapidash-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Soleil et Lune Lumière Interdite",
+    1
+   ],
+   [
+    "Épée et Bouclier Clash des Rebelles",
+    1
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Fulgudog-V",
+  "nomen": "Boltund Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Premium avec figurine Célébrations Pikachu-VMAX",
+  "family": "cel25-premium-figure-collection-pikachu-vmax",
+  "reason": "French packs differ",
+  "stated": 11,
+  "ours": 8,
+  "french": [
+   [
+    "Célébrations",
+    8
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    1
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Boîtier Stratégies et Combats Écarlate et Violet",
+  "nomen": "Scarlet & Violet Build & Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 1.0
+ },
+ {
+  "page": "Mon premier combat",
+  "nomen": "My First Battle",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Collection spéciale Célébrations Pikachu-V-UNION",
+  "nomen": "Celebrations Special Collection—Pikachu",
+  "set": "cel25",
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Collection avec pin's Deluxe Célébrations",
+  "nomen": "Celebrations Deluxe Pin Collection",
+  "set": "cel25",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "Collection Premium avec tapis de jeu Célébrations Pikachu-V-UNION",
+  "family": "cel25-premium-playmat-collection-pikachu-v-union",
+  "reason": "French packs differ",
+  "stated": 9,
+  "ours": 0,
+  "french": [
+   [
+    "Célébrations",
+    6
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    3
+   ]
+  ]
+ },
+ {
+  "page": "Coffre de collection Célébrations",
+  "family": "cel25-collector-chest",
+  "reason": "French packs differ",
+  "stated": 8,
+  "ours": 6,
+  "french": [
+   [
+    "Célébrations",
+    6
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    1
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Tripack EV02 Forgerette",
+  "nomen": "Three Pack Blisters EV02 Tinkatink",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5454545454545454
+ },
+ {
+  "page": "Tripack EV02 Vrombi",
+  "nomen": "Three Pack Blisters EV02 Varoom",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5454545454545454
+ },
+ {
+  "page": "Boîte Légendes de Paldea Miraidon-ex",
+  "nomen": "Paldea Legends Tin Miraidon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Illustration Écarlate et Violet Fable Nébuleuse Scalpereur",
+  "nomen": "Shrouded Fable Kingambit Illustration Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Boîte Puissances-V Éthernatos-V",
+  "nomen": "V Powers Tin Eternatus",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Puissances-V Évoli-V",
+  "nomen": "V Powers Tin Eevee",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Puissances-V Pikachu-V",
+  "nomen": "V Powers Tin Pikachu",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Partenaires de Galar Ouistempo",
+  "nomen": "Galar Partners Tin Grookey",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Boîte Partenaires de Galar Flambino",
+  "nomen": "Galar Partners Tin Scorbunny",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Boîte Partenaires de Galar Larméléon",
+  "nomen": "Galar Partners Tin Sobble",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Boîte Légendes de Paldea Koraidon-ex",
+  "nomen": "Paldea Legends Tin Koraidon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Forces-V Lucario-V",
+  "nomen": "V Forces Tin Lucario",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Forces-V Flagadoss de Galar-V",
+  "nomen": "V Forces Tin Galarian Slowbro",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Boîte Forces-V Mew-V",
+  "nomen": "V Forces Tin Mew",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Destinées Radieuses Blancoton-V",
+  "family": "swsh4.5-v-tin-eldegoss-v",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 6,
+  "french": []
+ },
+ {
+  "page": "Boîte Destinées Radieuses Fulgudog-V",
+  "family": "swsh4.5-v-tin-boltund-v",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 6,
+  "french": []
+ },
+ {
+  "page": "Boîte Destinées Radieuses Nigosier-V",
+  "family": "swsh4.5-v-tin-cramorant-v",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 6,
+  "french": []
+ },
+ {
+  "page": "Boîte Attaquants-V Pingoléon-V",
+  "family": "swsh5-v-strikers-tin-empoleon-v",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ],
+   [
+    "Épée et Bouclier Ténèbres Embrasées",
+    1
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Boîte Attaquants-V Tyranocif-V",
+  "family": "swsh5-v-strikers-tin-tyranitar-v",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ],
+   [
+    "Épée et Bouclier Ténèbres Embrasées",
+    1
+   ],
+   [
+    "Soleil et Lune Ultra-Prisme",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Boîte Évolutions d'Évoli Pyroli-V",
+  "nomen": "Eevee Evolutions Tin Flareon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Évolutions d'Évoli Aquali-V",
+  "nomen": "Eevee Evolutions Tin Vaporeon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Évolutions d'Évoli Voltali-V",
+  "nomen": "Eevee Evolutions Tin Jolteon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Héros-V Mentali-V",
+  "nomen": "V Heroes Tin Espeon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Héros-V Nymphali-V",
+  "nomen": "V Heroes Tin Sylveon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Boîte Héros-V Noctali-V",
+  "nomen": "V Heroes Tin Umbreon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Duopack avec gomme Pokémon 2024 - Ampibidou",
+  "nomen": "2024 Back to School Eraser Blisters Bellibolt",
+  "set": null,
+  "reason": "no family",
+  "score": 0.16666666666666666
+ },
+ {
+  "page": "Duopack avec gomme Pokémon 2024 - Ectoplasma",
+  "nomen": "2024 Back to School Eraser Blisters Gengar",
+  "set": null,
+  "reason": "no family",
+  "score": 0.2
+ },
+ {
+  "page": "Duopack avec gomme Pokémon 2023 - Gourmelet",
+  "nomen": "2023 Back to School Eraser Blisters Lechonk",
+  "set": null,
+  "reason": "no family",
+  "score": 0.16666666666666666
+ },
+ {
+  "page": "Duopack avec gomme Pokémon 2023 - Olivini",
+  "nomen": "2023 Back to School Eraser Blisters Smoliv",
+  "set": null,
+  "reason": "no family",
+  "score": 0.16666666666666666
+ },
+ {
+  "page": "Collection Premium Lucario-VSTAR",
+  "family": "me02.5-premium-poster-collection-mega-lucario",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 10,
+  "french": [
+   [
+    "Épée et Bouclier Stars Étincelantes",
+    2
+   ],
+   [
+    "Épée et Bouclier Voltage Éclatant",
+    2
+   ],
+   [
+    "Épée et Bouclier Poing de Fusion",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Paldea Poussacha",
+  "nomen": "Paldea Collection Sprigatito",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Collection Paldea Chochodile",
+  "nomen": "Paldea Collection Fuecoco",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Collection Paldea Coiffeton",
+  "nomen": "Paldea Collection Quaxly",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Collection Premium Palkia Originel-VSTAR",
+  "family": "swsh11-origin-forme-palkia-vstar-premium-collection",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Origine Perdue",
+    2
+   ],
+   [
+    "Épée et Bouclier Astres Radieux",
+    2
+   ],
+   [
+    "Épée et Bouclier Évolution Céleste",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Premium Dialga Originel-VSTAR",
+  "family": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Origine Perdue",
+    2
+   ],
+   [
+    "Épée et Bouclier Astres Radieux",
+    2
+   ],
+   [
+    "Épée et Bouclier Évolution Céleste",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection spéciale Mewtwo-V-UNION",
+  "nomen": "Mewtwo Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Collection spéciale Amphinobi-V-UNION",
+  "family": "swsh7-greninja-v-union-special-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Évolution Céleste",
+    2
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    1
+   ],
+   [
+    "Soleil et Lune Alliance Infaillible",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection spéciale Zacian-V-UNION",
+  "family": "swsh7-zacian-v-union-special-collection",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Évolution Céleste",
+    2
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    1
+   ],
+   [
+    "Soleil et Lune Alliance Infaillible",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Mimiqui-ex",
+  "nomen": "Mimikyu Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Tripack EV01 Arcanin",
+  "nomen": "Three Pack Blisters EV01 Arcanine",
+  "set": "sv01",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Tripack EV01 Oyacata",
+  "nomen": "Three Pack Blisters EV01 Dondozo",
+  "set": "sv01",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Motorizard-ex",
+  "nomen": "Cyclizar Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Super-Premium Dracaufeu-ex",
+  "nomen": "Charizard Super-Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Calendrier des fêtes JCC (2023)",
+  "nomen": "Holiday Calendar 2023",
+  "set": null,
+  "reason": "no family",
+  "score": 0.25
+ },
+ {
+  "page": "Calendrier des fêtes JCC (2024)",
+  "nomen": "Holiday Calendar 2024",
+  "set": null,
+  "reason": "no family",
+  "score": 0.25
+ },
+ {
+  "page": "Island Guardians Collector's Pin Blister",
+  "nomen": "Island Guardians Collector's Pin Blister",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffret Courrousinge-ex",
+  "nomen": "Annihilape Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Premium Sucreine-ex",
+  "nomen": "Tsareena Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Ultra-Premium Terapagos-ex",
+  "nomen": "Terapagos Ultra-Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Coffret Archéduc-ex",
+  "nomen": "Decidueye Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Duopack Latios, Zekrom et Palkia",
+  "nomen": "Enhanced Two Pack Blister: Latios, Zekrom & Palkia",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Tomberro-ex",
+  "nomen": "Houndstone Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Premium Carmadura-ex",
+  "nomen": "Armarouge Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Premium Écarlate et Violet Destinées de Paldea Miascarade-ex",
+  "nomen": "Paldean Fates Premium Collections Meowscarada",
+  "set": "sv04.5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Collection Premium Écarlate et Violet Destinées de Paldea Flâmigator-ex",
+  "nomen": "Paldean Fates Premium Collections Skeledirge",
+  "set": "sv04.5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Collection Premium Écarlate et Violet Destinées de Paldea Palmaval-ex",
+  "nomen": "Paldean Fates Premium Collections Quaquaval",
+  "set": "sv04.5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV06 Ronflex",
+  "nomen": "Twilight Masquerade Three Pack Blisters Snorlax",
+  "set": "sv06",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV06 Vrombotor",
+  "nomen": "Twilight Masquerade Three Pack Blisters Revavroom",
+  "set": "sv06",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Collection Premium Sagesse Paradoxe",
+  "nomen": "Paradox Wisdom Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Garde-de-Fer-ex",
+  "nomen": "Iron Valiant Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffret Rugit-Lune-ex",
+  "nomen": "Roaring Moon Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Duopack Superdofin, Glaivodo et Gigansel",
+  "nomen": "Enhanced Two Pack Blister: Palafin, Baxcalibur & Garganacl",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Superdofin-ex",
+  "nomen": "Palafin Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Tag-Tag-ex",
+  "nomen": "Grafaiai Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Tripack EV06.5 Pêchaminus",
+  "nomen": "Shrouded Fable Three Pack Blisters Pecharunt",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV05 Mélo",
+  "nomen": "Temporal Forces Three Pack Blisters Cleffa",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV05 Motorizard",
+  "nomen": "Temporal Forces Three Pack Blisters Cyclizar",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV04 Balbalèze",
+  "nomen": "Paradox Rift Three Pack Blisters Cetitan",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV04 Cryodo",
+  "nomen": "Paradox Rift Three Pack Blisters Arctibax",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV03 Évoli",
+  "nomen": "Obsidian Flames Three Pack Blisters Eevee",
+  "set": "sv03",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV03 Tomberro",
+  "nomen": "Obsidian Flames Three Pack Blisters Houndstone",
+  "set": "sv03",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Coffret Dogrino-ex",
+  "nomen": "Mabosstiff Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Dresseur d'élite Écarlate et Violet Faille Paradoxe",
+  "nomen": "Scarlet & Violet Paradox Rift Elite Trainer Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.9090909090909091
+ },
+ {
+  "page": "Coffret Dresseur d'élite Écarlate et Violet",
+  "nomen": "Scarlet & Violet Elite Trainer Box",
+  "set": "sv01",
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Coffret Dresseur d'élite Écarlate et Violet Forces Temporelles",
+  "nomen": "Scarlet & Violet Temporal Forces Elite Trainer Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.9090909090909091
+ },
+ {
+  "page": "Coffret Combat Zeraora-VMAX et VSTAR",
+  "nomen": "Zeraora & Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Combat Deoxys-VMAX et VSTAR",
+  "nomen": "Deoxys & Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Simiabraz-V",
+  "nomen": "Infernape Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Ronflex-V",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Ursaking Lune Vermeille-ex",
+  "nomen": "Bloodmoon Ursaluna Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Coffret Viridium-V",
+  "nomen": "Virizion Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Dresseur d'élite Épée et Bouclier Règne de Glace",
+  "nomen": "Chilling Reign Elite Trainer Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.9090909090909091
+ },
+ {
+  "page": "Coffret Dresseur d'élite Épée et Bouclier Évolution Céleste",
+  "nomen": "Evolving Skies Elite Trainer Box",
+  "set": "swsh7",
+  "reason": "no family",
+  "score": 0.9090909090909091
+ },
+ {
+  "page": "Duopack Artikodin, Électhor et Sulfura",
+  "nomen": "Enhanced Two Pack Blister: Articuno, Zapdos & Moltres",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Duopack Cléopsytra",
+  "family": "sv01-single-pack-blister-espathra",
+  "reason": "French packs differ",
+  "stated": 2,
+  "ours": 1,
+  "french": [
+   [
+    "Épée et Bouclier Origine Perdue",
+    1
+   ],
+   [
+    "Épée et Bouclier Stars Étincelantes",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Collection Premium Combattants Téracristal",
+  "nomen": "Tera Brawlers Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Premium Fureur Paradoxe",
+  "nomen": "Paradox Fury Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Légendes Azur Kyogre-ex",
+  "nomen": "Azure Legends Tin Kyogre",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Légendes Azur Xerneas-ex",
+  "nomen": "Azure Legends Tin Xerneas",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Légendes Azur Dialga-ex",
+  "nomen": "Azure Legends Tin Dialga",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Destinée Paradoxe Feu-Perçant-ex",
+  "nomen": "Paradox Destinies Tin Gouging Fire",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Destinée Paradoxe Ire-Foudre-ex",
+  "nomen": "Paradox Destinies Tin Raging Bolt",
+  "set": null,
+  "reason": "no family",
+  "score": 0.25
+ },
+ {
+  "page": "Boîte Destinée Paradoxe Chef-de-Fer-ex",
+  "nomen": "Paradox Destinies Tin Iron Crown",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Boîte Destinée Paradoxe Roc-de-Fer-ex",
+  "nomen": "Paradox Destinies Tin Iron Boulder",
+  "set": null,
+  "reason": "no family",
+  "score": 0.36363636363636365
+ },
+ {
+  "page": "Boîte Choc Paradoxe Serpente-Eau-ex",
+  "nomen": "Paradox Clash Tin Walking Wake",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Boîte Choc Paradoxe Vert-de-Fer-ex",
+  "nomen": "Paradox Clash Tin Iron Leaves",
+  "set": null,
+  "reason": "no family",
+  "score": 0.36363636363636365
+ },
+ {
+  "page": "Nécessaire du Dresseur (2024)",
+  "nomen": "Trainer's Toolkit 2024",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Collection Premium Ogerpon-ex",
+  "nomen": "Ogerpon Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Mini-boîte Écarlate et Violet Évolutions Prismatiques",
+  "nomen": "Scarlet & Violet—Prismatic Evolutions Mini Tin",
+  "set": "sv08.5",
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Tripack EV09 Yanmega",
+  "nomen": "Journey Together Three Pack Blisters Yanmega",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV09 Baggaïd",
+  "nomen": "Journey Together Three Pack Blisters Scrafty",
+  "set": null,
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Coffret Zacian-ex de Nabil",
+  "nomen": "Hop's Zacian Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Tournoi Premium Mashynn",
+  "nomen": "Iono Premium Tournament Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Premium Ampibidou-ex de Mashynn",
+  "nomen": "Iono's Bellibolt Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Tournoi Premium Lilie",
+  "nomen": "Lillie Premium Tournament Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection spéciale Dracaufeu-ex",
+  "nomen": "Charizard Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Ultra-Premium Amphinobi-ex",
+  "nomen": "Greninja Ultra-Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "Tripack EV10 Zéblitz",
+  "nomen": "Destined Rivals Three Pack Blisters Zebstrika",
+  "set": "sv10",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack EV10 Kangourex",
+  "nomen": "Destined Rivals Three Pack Blisters Kangashka",
+  "set": "sv10",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Boîte Légendes Tranchantes Koraidon-ex",
+  "nomen": "Slashing Legends Tin Koraidon",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Checklane Blister EV10 Zarude",
+  "reason": "no English name"
+ },
+ {
+  "page": "Checklane Blister EV10 Eevee",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Mewtwo-ex de la Team Rocket",
+  "nomen": "Team Rocket's Mewtwo Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Mini-boîte Écarlate et Violet Destinées de Paldea",
+  "nomen": "Scarlet & Violet—Paldean Fates Mini Tin",
+  "set": "sv04.5",
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Tripack EB06 Évoli",
+  "nomen": "Three Pack Blisters EB06 Eevee",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5454545454545454
+ },
+ {
+  "page": "Tripack EB06 Ronflex",
+  "nomen": "Three Pack Blisters EB06 Snorlax",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5454545454545454
+ },
+ {
+  "page": "Pokémon Trading Card Game Classic",
+  "reason": "no English name"
+ },
+ {
+  "page": "Duopack NB05 Persian",
+  "nomen": "Dark Explorers Two Pack Blister Persian",
+  "set": "bw5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Collection Premium Carchacrok-ex de Cynthia",
+  "nomen": "Cynthia's Garchomp Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack COL01 Kicklee",
+  "nomen": "Call of Legends Three Pack Blister Hitmonlee",
+  "set": "col1",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Coffre aventure à Paldea",
+  "nomen": "Paldea Adventure Chest",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "Monopack EV01 Filentrappe",
+  "nomen": "Checklane Blister SV01 Spidops",
+  "set": "sv01",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Monopack EV01 Cléopsytra",
+  "nomen": "Checklane Blister SV01 Espathra",
+  "set": "sv01",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Calendrier des fêtes JCC (2025)",
+  "nomen": "Holiday Calendar 2025",
+  "set": null,
+  "reason": "no family",
+  "score": 0.0
+ },
+ {
+  "page": "Mini-boîte Écarlate et Violet Fable Nébuleuse",
+  "nomen": "Scarlet & Violet—Shrouded Fable Mini Tin",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8888888888888888
+ },
+ {
+  "page": "Mini-boîte Amis de Paldea",
+  "nomen": "Paldea’s Friends Mini Tin",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection spéciale Lugia-ex",
+  "nomen": "Lugia Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection spéciale Braségali-ex",
+  "nomen": "Blaziken Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Coffret Melmetal-ex",
+  "family": "sm9-melmetal-gx-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Écarlate et Violet Flammes Obsidiennes",
+    1
+   ],
+   [
+    "Écarlate et Violet Faille Paradoxe",
+    1
+   ],
+   [
+    "Écarlate et Violet Rivalités Destinées",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Collection Tournoi Premium Rosemary",
+  "nomen": "Marnie Premium Tournament Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Kyurem Noir-ex",
+  "nomen": "Black Kyurem Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Team Rocket Mewtwo-ex de la Team Rocket",
+  "nomen": "Team Rocket Tin Team Rocket's Mewtwo",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Team Rocket Nidoking-ex de la Team Rocket",
+  "nomen": "Team Rocket Tin Team Rocket's Nidoking",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Team Rocket Persian-ex de la Team Rocket",
+  "nomen": "Team Rocket Tin Team Rocket's Persian",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Partenaires de Paldea Miascarade-ex",
+  "nomen": "Paldea Partners Tin Meowscarada",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Partenaires de Paldea Flâmigator-ex",
+  "nomen": "Paldea Partners Tin Skeledirge",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Boîte Partenaires de Paldea Palmaval-ex",
+  "nomen": "Paldea Partners Tin Quaquaval",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Dresseur d'élite Méga-Évolution",
+  "nomen": "Mega Evolution Elite Trainer Box",
+  "set": "me01",
+  "reason": "no family",
+  "score": 0.9090909090909091
+ },
+ {
+  "page": "Tripack ME01 Psykokwak",
+  "nomen": "Mega Evolution Three Pack Blisters Psyduck",
+  "set": "me01",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack ME01 Akwakwak",
+  "nomen": "Mega Evolution Three Pack Blisters Golduck",
+  "set": "me01",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Checklane Blister ME01 Drifloon",
+  "reason": "no English name"
+ },
+ {
+  "page": "Checklane Blister ME01 Drifblim",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Dresseur d'élite Méga-Évolution Flammes Fantasmagoriques",
+  "nomen": "Mega Evolution Phantasmal Flames Elite Trainer Box",
+  "set": "me02",
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Collection classeur Écarlate et Violet Foudre Noire",
+  "nomen": "Scarlet and Violet Black Lightning Binder Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection classeur Écarlate et Violet Flamme Blanche",
+  "nomen": "Scarlet and Violet White Flame Binder Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Tripack ME02 Farfuret",
+  "nomen": "Phantasmal Flames Three Pack Blisters Sneasel",
+  "set": "me02",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Tripack ME02 Dimoret",
+  "nomen": "Phantasmal Flames Three Pack Blisters Weavile",
+  "set": "me02",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Coffret Méga-Latias-ex",
+  "nomen": "Mega Latias Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection avec figurine Méga-Lucario-ex",
+  "family": "xy3-mega-lucario-collection",
+  "reason": "French packs differ",
+  "stated": 5,
+  "ours": 0,
+  "french": [
+   [
+    "Écarlate et Violet Mascarade Crépusculaire",
+    1
+   ],
+   [
+    "Écarlate et Violet Aventures Ensemble",
+    1
+   ],
+   [
+    "Méga-Évolution",
+    3
+   ]
+  ]
+ },
+ {
+  "page": "Collection Premium Méga-Florizarre-ex",
+  "nomen": "Mega Venusaur Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Premium Florizarre-ex et Tortank-ex",
+  "family": "sm10-blastoise-gx-premium-collection",
+  "reason": "French packs differ",
+  "stated": 10,
+  "ours": 0,
+  "french": [
+   [
+    "Écarlate et Violet",
+    4
+   ],
+   [
+    "Écarlate et Violet Faille Paradoxe",
+    4
+   ],
+   [
+    "Écarlate et Violet Rivalités Destinées",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Collection spéciale Félinferno-ex et Torterra-ex",
+  "nomen": "Incineroar & Torterra Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Pondralugon-ex",
+  "nomen": "Archaludon Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection spéciale Amphinobi-ex et Hyporoi-ex",
+  "family": "swsh7-greninja-v-union-special-collection",
+  "reason": "French packs differ",
+  "stated": 8,
+  "ours": 0,
+  "french": [
+   [
+    "Écarlate et Violet",
+    2
+   ],
+   [
+    "Écarlate et Violet Faille Paradoxe",
+    4
+   ],
+   [
+    "Écarlate et Violet Rivalités Destinées",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Collection spéciale Ronflex-ex et Leuphorie-ex",
+  "nomen": "Snorlax & Blissey Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection spéciale Latias-ex",
+  "nomen": "Latias Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Ultra-Premium Méga-Dracaufeu X-ex",
+  "family": "swsh11-ultra-premium-collection-charizard",
+  "reason": "French packs differ",
+  "stated": 18,
+  "ours": 0,
+  "french": [
+   [
+    "Écarlate et Violet Évolutions à Paldea",
+    4
+   ],
+   [
+    "Écarlate et Violet Flammes Obsidiennes",
+    4
+   ],
+   [
+    "Écarlate et Violet Aventures Ensemble",
+    2
+   ],
+   [
+    "Méga-Évolution",
+    4
+   ],
+   [
+    "Méga-Évolution Flammes Fantasmagoriques",
+    4
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Méga-Kangourex-ex",
+  "nomen": "Mega Kangaskhan Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Ultra-Premium Sulfura-ex de la Team Rocket",
+  "nomen": "Team Rocket's Moltres Ultra-Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Checklane Blister ME02 Cottonee",
+  "reason": "no English name"
+ },
+ {
+  "page": "Checklane Blister ME02 Whimsicott",
+  "reason": "no English name"
+ },
+ {
+  "page": "Duopack Pondralugon",
+  "nomen": "Archaludon Two Pack Blister",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Méga-Évolution Héros Transcendants Méga-Méganium-ex",
+  "family": "me02.5-mega-meganium-ex-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 1,
+  "french": []
+ },
+ {
+  "page": "Duopack Raikou",
+  "nomen": "Raikou Two Pack Blister",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Journée Pokémon 2026",
+  "nomen": "Pokémon Day 2026 Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Collection Méga-Évolution Héros Transcendants Erika",
+  "nomen": "Mega Evolution Ascended Heroes Collection Erika",
+  "set": "me02.5",
+  "reason": "no family",
+  "score": 0.9230769230769231
+ },
+ {
+  "page": "Collection Méga-Évolution Héros Transcendants Okuba",
+  "nomen": "Mega Evolution Ascended Heroes Collection Larry",
+  "set": "me02.5",
+  "reason": "no family",
+  "score": 0.9230769230769231
+ },
+ {
+  "page": "Collection Illustration Premiers Partenaires Série 1",
+  "nomen": "First Partner Illustration Collection Series 1",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Tripack ME03 Germignon",
+  "nomen": "Perfect Order Three Pack Blisters Chikorita",
+  "set": "me03",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Boîte Méga-Dracaufeu Méga-Dracaufeu X-ex",
+  "nomen": "Mega Charizard Tins Mega Charizard X",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Boîte Méga-Dracaufeu Méga-Dracaufeu Y-ex",
+  "nomen": "Mega Charizard Tins Mega Charizard Y",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Dresseur d'élite Méga-Évolution Héros Transcendants",
+  "nomen": "Mega Evolution Ascended Heroes Elite Trainer Box",
+  "set": "me02.5",
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Mini-boîte Méga-Évolution Héros Transcendants",
+  "nomen": "Mega Evolution-Ascended Heroes Mini Tin",
+  "set": "me02.5",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Boîtier Stratégies et Combats Méga-Évolution Équilibre Parfait",
+  "nomen": "Mega Evolution Perfect Order Build & Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Boîtier Stratégies et Combats Méga-Évolution Flammes Fantasmagoriques",
+  "nomen": "Mega Evolution Phantasmal Flames Build & Battle Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Coffret Dresseur d'élite Méga-Évolution Équilibre Parfait",
+  "nomen": "Mega Evolution Perfect Order Elite Trainer Box",
+  "set": "me03",
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Checklane Blister ME03 Makuhita",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection avec pin's Deluxe Premiers Partenaires Méga-Évolution Héros Transcendants",
+  "nomen": "Mega Evolution Ascended Heroes First Partners Deluxe Pin Collection",
+  "set": "me02.5",
+  "reason": "no family",
+  "score": 0.875
+ },
+ {
+  "page": "Duopack Mystherbe, Ortide et Rafflesia",
+  "nomen": "Oddish, Gloom & Vileplume Two Pack Blister",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5454545454545454
+ },
+ {
+  "page": "Mini-boîte Unys",
+  "nomen": "Unova Mini Tins",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection spéciale Morpeko-V-UNION",
+  "nomen": "Morpeko Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection spéciale Zénith Suprême Pikachu-VMAX",
+  "nomen": "Crown Zenith Special Collection Pikachu VMAX",
+  "set": "swsh12.5",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "Collection Premium Méga-Zygarde-ex",
+  "nomen": "Mega Zygarde Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Collector",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Feuillajou",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Démétéros (Intermarché)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Démétéros (E.Leclerc)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Duopack Félicanis, Fortusimia et Favianos",
+  "reason": "no English name"
+ },
+ {
+  "page": "Duopack Carmadura, Vrombotor et Tomberro",
+  "nomen": "Enhanced Two Pack Blister: Armarouge, Revavroom & Houndstone",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Duopack Boréas, Fulguris et Démétéros",
+  "nomen": "Enhanced Two Pack Blister: Tornadus, Thundurus & Landorus",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Duopack Ronflex, Morpeko et Verpom",
+  "nomen": "Enhanced Two Pack Blister: Snorlax, Morpeko & Applin",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Tripack ME04 Reptincel",
+  "nomen": "Chaos Rising Three Pack Blisters Charmeleon",
+  "set": "me04",
+  "reason": "no family",
+  "score": 0.7272727272727273
+ },
+ {
+  "page": "Boîte Méga Clair de Lune Méga-Mélodelfe-ex",
+  "nomen": "Mega Moonlit Tin Mega Clefable",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Duopack Pokémon d'Alola",
+  "nomen": "Burning Shadows Two Pack Blisters",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Duopack Regice, Registeel et Regirock",
+  "nomen": "Celestial Storm Enhanced Two Pack Blister",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6153846153846154
+ },
+ {
+  "page": "Boîte Méga Clair de Lune Méga-Ectoplasma-ex",
+  "nomen": "Mega Moonlit Tin Mega Gengar",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Coffret Démétéros (La Grande Récré)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Fragroin-ex",
+  "nomen": "Oinkologne Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffret Électrode de Hisui-V",
+  "family": "swsh8-hisuian-electrode-v-box",
+  "reason": "French packs differ",
+  "stated": 4,
+  "ours": 0,
+  "french": [
+   [
+    "Épée et Bouclier Origine Perdue",
+    2
+   ],
+   [
+    "Épée et Bouclier Stars Étincelantes",
+    1
+   ],
+   [
+    "Épée et Bouclier Poing de Fusion",
+    1
+   ]
+  ]
+ },
+ {
+  "page": "Coffret Jirachi-V",
+  "nomen": "Jirachi Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Noir & Blanc Frontières Franchies",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection Premium Hachécateur-VSTAR",
+  "nomen": "Kleavor Premium CollectionKleavor Special Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Collection Ultra-Premium Célébrations",
+  "family": "cel25-ultra-premium-collection",
+  "reason": "French packs differ",
+  "stated": 25,
+  "ours": 17,
+  "french": [
+   [
+    "Célébrations",
+    17
+   ],
+   [
+    "Épée et Bouclier Règne de Glace",
+    6
+   ],
+   [
+    "Épée et Bouclier Styles de Combat",
+    2
+   ]
+  ]
+ },
+ {
+  "page": "Collection Tournoi Premium Sophora",
+  "nomen": "Klara Premium Tournament Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Tournoi Premium Hélio",
+  "nomen": "Cyrus Premium Tournament Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Collection Tournoi Premium Professeure Keteleeria",
+  "nomen": "Professor Juniper Premium Tournament Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Nécessaire du Dresseur (2022)",
+  "nomen": "Trainer's Toolkit 2022",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Nécessaire du Dresseur (2023)",
+  "nomen": "Trainer's Toolkit 2023",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Nécessaire du Dresseur (2025)",
+  "nomen": "Trainer's Toolkit 2025",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Collection Illustration Premiers Partenaires Série 2",
+  "nomen": "First Partner Illustration Collection Series 2",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Coffret Noir & Blanc Dragons Exaltés Métalosse",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Dragons Exaltés Typhlosion",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Série Limitée",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Démétéros (Auchan)",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Explorateurs Obscurs Promo EX",
+  "reason": "no English name"
+ },
+ {
+  "page": "Valisette Latios",
+  "reason": "no English name"
+ },
+ {
+  "page": "Collection avec pin’s Évolution d’un Héritage",
+  "reason": "no English name"
+ },
+ {
+  "page": "Duopack Sarmuraï",
+  "reason": "no English name"
+ },
+ {
+  "page": "Duopack Silvallié",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Glaciation Plasma",
+  "reason": "no English name"
+ },
+ {
+  "page": "Coffret Noir & Blanc Explorateurs Obscurs",
+  "reason": "no English name"
+ },
+ {
+  "page": "Boîte Premium Darkrai",
+  "nomen": "Darkrai Premium Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Duopack Pokémon de Galar",
+  "reason": "no English name"
+ },
+ {
+  "page": "Mini-boîte Stars de Sinnoh",
+  "nomen": "Sinnoh Stars Mini Tins",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Mini-boîte Célébrations",
+  "nomen": "Célébrations Mini Tin",
+  "set": "cel25",
+  "reason": "no family",
+  "score": 0.8571428571428571
+ },
+ {
+  "page": "Coffret Dresseur d'élite Méga-Évolution Chaos Ascendant",
+  "nomen": "Mega Evolution Chaos Rising Elite Trainer Box",
+  "set": "me04",
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Coffret Dresseur d'élite Méga-Évolution Nuit Noire",
+  "nomen": "Mega Evolution Pitch Black Elite Trainer Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.8333333333333334
+ },
+ {
+  "page": "Tripack ME05 Opermine",
+  "nomen": "Mega Evolution Pitch Black Three Pack Blisters Binacle",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Collection Illustration Premiers Partenaires Série 3",
+  "nomen": "First Partner Illustration Collection Series 3",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5714285714285714
+ },
+ {
+  "page": "Duopack Zarude",
+  "nomen": "Zarude Two Pack Blister",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Collection Premium Méga-Amphinobi-ex",
+  "nomen": "Mega Greninja Premium Collection",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Coffret Exagide-ex",
+  "nomen": "Aegislash Box",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Coffre de collection (Été 2023)",
+  "nomen": "Summer 2023 Collector Chest",
+  "set": null,
+  "reason": "no family",
+  "score": 0.6666666666666666
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 7",
+  "nomen": "Play! Pokémon Prize Pack Series Seven",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 6",
+  "nomen": "Play! Pokémon Prize Pack Series Six",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 5",
+  "nomen": "Play! Pokémon Prize Pack Series Five",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 4",
+  "nomen": "Play! Pokémon Prize Pack Series Four",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 3",
+  "nomen": "Play! Pokémon Prize Pack Series Three",
+  "set": null,
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 2",
+  "nomen": "Play! Pokémon Prize Pack Series Two",
+  "set": null,
+  "reason": "no family",
+  "score": 0.4444444444444444
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 1",
+  "nomen": "Play! Pokémon Prize Pack Series One",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 8",
+  "nomen": "Play! Pokémon Prize Pack Series Eight",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Pack Récompense Play! Pokémon Série 9",
+  "nomen": "Play! Pokémon Prize Pack Series Nine",
+  "set": null,
+  "reason": "no family",
+  "score": 0.3333333333333333
+ },
+ {
+  "page": "Duopack ME05.5 Évoli",
+  "nomen": "30th Celebration Two Pack Blisters Eevee",
+  "set": "30th",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "Mini-boîte 30e Anniversaire",
+  "nomen": "30th Celebration Mini Tin",
+  "set": "30th",
+  "reason": "no family",
+  "score": 0.8888888888888888
+ }
+]

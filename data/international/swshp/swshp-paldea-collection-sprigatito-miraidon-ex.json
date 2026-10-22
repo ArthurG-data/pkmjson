@@ -1,0 +1,40 @@
+{
+  "id": "swshp-paldea-collection-sprigatito-miraidon-ex",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Paldea Collection [Sprigatito/Miraidon ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Foil oversize card featuring Koraidon ex or Miraidon ex",
+        "count": 1
+      },
+      {
+        "name": "Collector’s pin featuring Sprigatito, Fuecoco, or Quaxly",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Sprigatito; 1 promo card featuring Fuecoco; 1 promo card featuring Quaxly; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Collection [Sprigatito/Miraidon ex]",
+      "releaseDate": "2023-01-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451118
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451118/pokemon-miscellaneous-cards-and-products-paldea-collection-sprigatito-miraidon-ex"
+      ]
+    }
+  ]
+}

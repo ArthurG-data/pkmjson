@@ -1,0 +1,35 @@
+{
+  "id": "s5a-matchless-fighters-klara-and-avery-set",
+  "region": "asia",
+  "set": "S5a",
+  "category": "other",
+  "name": "Matchless Fighters Klara and Avery Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Set of sleeves featuring Klara and Avery",
+        "count": 2
+      },
+      {
+        "name": "Deck box Featuring Klara and Avery",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Japanese Matchless Fighters booster box.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Matchless Fighters Klara and Avery Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          638076
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/638076/pokemon-japan-s5a-peerless-fighters-matchless-fighters-klara-and-avery-set"
+      ]
+    }
+  ]
+}

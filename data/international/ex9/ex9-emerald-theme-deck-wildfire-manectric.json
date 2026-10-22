@@ -1,0 +1,38 @@
+{
+  "id": "ex9-emerald-theme-deck-wildfire-manectric",
+  "region": "international",
+  "set": "ex9",
+  "category": "theme_deck",
+  "name": "Emerald Theme Deck - \"Wildfire\" [Manectric]",
+  "identifiers": {
+    "cardmarketProductId": 286630
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Emerald Theme Deck - \"Wildfire\" [Manectric]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232875
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232875/pokemon-ex-emerald-emerald-theme-deck-wildfire-manectric"
+      ]
+    }
+  ]
+}

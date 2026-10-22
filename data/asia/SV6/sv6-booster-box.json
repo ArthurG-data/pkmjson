@@ -1,0 +1,31 @@
+{
+  "id": "sv6-booster-box",
+  "region": "asia",
+  "set": "SV6",
+  "category": "booster_box",
+  "name": "Transformation Mask Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv6-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Transformation Mask Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565221
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565221/pokemon-japan-sv6-transformation-mask-transformation-mask-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "m3-mega-special-card-set-mega-gallade-ex",
+  "region": "asia",
+  "set": "M3",
+  "category": "other",
+  "name": "Mega Special Card Set: Mega Gallade ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon Coin...1",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card Mega Gallade; 2 Promo card Power Protein; 1 Promo card Ralts; 1 Promo card Kirlia; 8 Expansion pack Nihil Zero.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Mega Special Card Set: Mega Gallade ex",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          674457
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/674457/pokemon-japan-m3-nihil-zero-mega-special-card-set-mega-gallade-ex"
+      ]
+    }
+  ]
+}

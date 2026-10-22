@@ -1,0 +1,41 @@
+{
+  "id": "svp-azure-legends-tin-kyogre-ex-international-version",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Azure Legends Tin [Kyogre ex] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-178",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 619580,
+        "cardmarketProductId": 810393,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Azure Legends Tin [Kyogre ex] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          633082
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/633082/pokemon-miscellaneous-cards-and-products-azure-legends-tin-kyogre-ex-international-version"
+      ]
+    }
+  ]
+}

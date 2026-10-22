@@ -1,0 +1,24 @@
+{
+  "id": "xy1-sleeved-booster-pack-art-bundle-set-of-4",
+  "region": "international",
+  "set": "xy1",
+  "category": "other",
+  "name": "XY Sleeved Booster Pack Art Bundle [Set of 4]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Sleeved Booster Pack Art Bundle [Set of 4]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          276589
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/276589/pokemon-xy-base-set-xy-sleeved-booster-pack-art-bundle-set-of-4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "svp-retail-exclusive-pokemon-paldean-fates-mini-tins-poke-ball-tin",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Retail Exclusive Pokemon Paldean Fates Mini Tins + Poke Ball Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Retail Exclusive Pokemon Paldean Fates Mini Tins + Poke Ball Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616737
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616737/pokemon-miscellaneous-cards-and-products-retail-exclusive-pokemon-paldean-fates-mini-tins-plus-poke-ball-tin"
+      ]
+    }
+  ]
+}

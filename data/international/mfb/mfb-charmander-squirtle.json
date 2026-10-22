@@ -1,0 +1,55 @@
+{
+  "id": "mfb-charmander-squirtle",
+  "region": "international",
+  "set": "mfb",
+  "category": "other",
+  "name": "My First Battle [Charmander & Squirtle]",
+  "identifiers": {
+    "cardmarketProductId": 721853
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "My First Battle [Charmander & Squirtle]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          520782
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/520782/pokemon-my-first-battle-my-first-battle-charmander-and-squirtle"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Prima Lotta",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/prima-lotta"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mon premier combat",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mon-premier-combat"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Mein erstes Spiel",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Mi Primer Combate",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/mi-primer-combate"
+      ]
+    }
+  ]
+}

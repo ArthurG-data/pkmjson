@@ -1,0 +1,25 @@
+{
+  "id": "swsh3.5-pin-collection-display-turffield-hulbury-motostoke-gyms",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "case",
+  "name": "Champion's Path Pin Collection Display: Turffield, Hulbury, & Motostoke Gyms",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Pin Collection Display: Turffield, Hulbury, & Motostoke Gyms",
+      "releaseDate": "2020-09-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218792
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218792/pokemon-champions-path-champions-path-pin-collection-display-turffield-hulbury-and-motostoke-gyms"
+      ]
+    }
+  ]
+}

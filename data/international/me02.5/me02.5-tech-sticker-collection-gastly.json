@@ -1,0 +1,49 @@
+{
+  "id": "me02.5-tech-sticker-collection-gastly",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Gastly",
+  "identifiers": {
+    "cardmarketProductId": 860566
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker sheet (featuring Gastly and Mega Gengar)",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Gastly.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Gastly",
+      "releaseDate": "2026-01-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666909
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666909/pokemon-me-ascended-heroes-mega-evolution-ascended-heroes-tech-sticker-collection-gastly"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection autocollant réajustable Méga-Évolution Héros Transcendants Fantominus",
+      "releaseDate": "2026-01-30",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_autocollant_r%C3%A9ajustable_M%C3%A9ga-%C3%89volution_H%C3%A9ros_Transcendants_Fantominus"
+      ]
+    }
+  ]
+}

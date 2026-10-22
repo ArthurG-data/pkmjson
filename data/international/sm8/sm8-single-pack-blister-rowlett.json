@@ -1,0 +1,38 @@
+{
+  "id": "sm8-single-pack-blister-rowlett",
+  "region": "international",
+  "set": "sm8",
+  "category": "blister",
+  "name": "Lost Thunder Single Pack Blister [Rowlett]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Rowlett.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Single Pack Blister [Rowlett]",
+      "releaseDate": "2018-11-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177907
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177907/pokemon-sm-lost-thunder-lost-thunder-single-pack-blister-rowlett"
+      ]
+    }
+  ]
+}

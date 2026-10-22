@@ -1,0 +1,36 @@
+{
+  "id": "mep-mega-latias-ex-box",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Mega Latias ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "mep-011",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 657846,
+        "cardmarketProductId": 851063,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 oversize lenticular promo card featuring Mega Latias ex; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Latias ex Box",
+      "releaseDate": "2025-10-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654188
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654188/pokemon-miscellaneous-cards-and-products-mega-latias-ex-box"
+      ]
+    }
+  ]
+}

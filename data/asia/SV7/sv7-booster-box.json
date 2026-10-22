@@ -1,0 +1,34 @@
+{
+  "id": "sv7-booster-box",
+  "region": "asia",
+  "set": "SV7",
+  "category": "booster_box",
+  "name": "Stellar Miracle Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 773318
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv7-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Stellar Miracle Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565217
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565217/pokemon-japan-sv7-stellar-miracle-stellar-miracle-booster-box"
+      ]
+    }
+  ]
+}

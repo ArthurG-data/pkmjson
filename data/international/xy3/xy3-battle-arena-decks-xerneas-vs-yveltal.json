@@ -1,0 +1,24 @@
+{
+  "id": "xy3-battle-arena-decks-xerneas-vs-yveltal",
+  "region": "international",
+  "set": "xy3",
+  "category": "battle_deck",
+  "name": "Battle Arena Decks: Xerneas vs Yveltal",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Arena Decks: Xerneas vs Yveltal",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97779
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97779/pokemon-xy-furious-fists-battle-arena-decks-xerneas-vs-yveltal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sm12-3-pack-blister-victini",
+  "region": "international",
+  "set": "sm12",
+  "category": "blister",
+  "name": "Cosmic Eclipse 3 Pack Blister [Victini]",
+  "identifiers": {
+    "cardmarketProductId": 585904
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a cosmos holofoil of Victini.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse 3 Pack Blister [Victini]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199766
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199766/pokemon-sm-cosmic-eclipse-cosmic-eclipse-3-pack-blister-victini"
+      ]
+    }
+  ]
+}

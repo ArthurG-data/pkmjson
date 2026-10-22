@@ -1,0 +1,24 @@
+{
+  "id": "swsh1-elite-trainer-box-set-of-2",
+  "region": "international",
+  "set": "swsh1",
+  "category": "other",
+  "name": "Sword & Shield Elite Trainer Box [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Pokemon TCG: Sword & Shield booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Elite Trainer Box [Set of 2]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          244411
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/244411/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-elite-trainer-box-set-of-2"
+      ]
+    }
+  ]
+}

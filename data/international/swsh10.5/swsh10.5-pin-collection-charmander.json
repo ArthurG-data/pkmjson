@@ -1,0 +1,67 @@
+{
+  "id": "swsh10.5-pin-collection-charmander",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "collection_box",
+  "name": "Pokemon GO Pin Collection [Charmander]",
+  "identifiers": {
+    "cardmarketProductId": 664334
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring Charmander",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Charmander.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Pin Collection [Charmander]",
+      "releaseDate": "2022-09-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          275826
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/275826/pokemon-pokemon-go-pokemon-go-pin-collection-charmander"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Pokémon GO Salamèche",
+      "releaseDate": "2022-10-28",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Pok%C3%A9mon_GO_Salam%C3%A8che"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Pokémon GO Pin Collection",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-pokemon-go"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con pin de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-pin-de-pokemon-go"
+      ]
+    }
+  ]
+}

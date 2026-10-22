@@ -1,0 +1,45 @@
+{
+  "id": "sv06.5-booster-bundle",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "booster_bundle",
+  "name": "Shrouded Fable Booster Bundle",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06.5-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable Booster Bundle",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553031
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553031/pokemon-sv-shrouded-fable-shrouded-fable-booster-bundle"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Confezione di buste dell’espansione Scarlatto e Violetto - Segreto Fiabesco",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/confezione-di-buste-dellespansione-scarlatto-e-violetto-segreto-fiabesco"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "lot de boosters Écarlate et Violet – Fable Nébuleuse",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/lot-de-boosters-ecarlate-et-violet-fable-nebuleuse"
+      ]
+    }
+  ]
+}

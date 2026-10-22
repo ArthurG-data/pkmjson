@@ -1,0 +1,46 @@
+{
+  "id": "swshp-jirachi-gx-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Jirachi GX Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH186",
+        "tcgdexVariantId": "555jb0efopmyclvkikic41",
+        "tcgplayerProductId": 264278,
+        "cardmarketProductId": 606600,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coins",
+        "count": 2
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art Jirachi-GX card; 1 promo card featuring Decidueye; 10 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jirachi GX Collection",
+      "releaseDate": "2020-11-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          226133
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/226133/pokemon-miscellaneous-cards-and-products-jirachi-gx-collection"
+      ]
+    }
+  ]
+}

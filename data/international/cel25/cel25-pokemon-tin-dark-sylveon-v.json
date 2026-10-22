@@ -1,0 +1,27 @@
+{
+  "id": "cel25-pokemon-tin-dark-sylveon-v",
+  "region": "international",
+  "set": "cel25",
+  "category": "tin",
+  "name": "Pokemon Celebrations Tin [Dark Sylveon V]",
+  "identifiers": {
+    "cardmarketProductId": 574579
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Celebrations Tin [Dark Sylveon V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251989
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251989/pokemon-celebrations-pokemon-celebrations-tin-dark-sylveon-v"
+      ]
+    }
+  ]
+}

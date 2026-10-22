@@ -1,0 +1,48 @@
+{
+  "id": "swsh11-arceus-vstar-ultra-premium-collection",
+  "region": "international",
+  "set": "swsh11",
+  "category": "premium_collection",
+  "name": "Arceus VSTAR Ultra-Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Playmat featuring Arceus",
+        "count": 1
+      },
+      {
+        "name": "Metal coin featuring Arceus",
+        "count": 1
+      },
+      {
+        "name": "Metal damage counter dice",
+        "count": 6
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 15 Pokémon TCG booster packs; 1 metal card featuring Arceus V; 1 metal card featuring Arceus VSTAR.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus VSTAR Ultra-Premium Collection",
+      "releaseDate": "2022-11-12",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285674
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285674/pokemon-swsh11-lost-origin-arceus-vstar-ultra-premium-collection"
+      ]
+    }
+  ]
+}

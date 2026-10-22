@@ -1,0 +1,43 @@
+{
+  "id": "smp-trainer-kit-alolan-sandslash-alolan-ninetales",
+  "region": "international",
+  "set": "smp",
+  "category": "other",
+  "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Two-player game mat with tips and rules on the back, damage counters and special condition markers",
+        "count": 1
+      },
+      {
+        "name": "Game coin",
+        "count": 1
+      },
+      {
+        "name": "Illustrated deck box",
+        "count": 1
+      },
+      {
+        "name": "Code for the online game",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two pre-constructed decks ready to play; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          162111
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/162111/pokemon-sm-trainer-kit-alolan-sandslash-and-alolan-ninetales-sun-and-moon-trainer-kit-alolan-sandslash-and-alolan-ninetales"
+      ]
+    }
+  ]
+}

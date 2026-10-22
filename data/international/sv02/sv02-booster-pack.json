@@ -1,0 +1,60 @@
+{
+  "id": "sv02-booster-pack",
+  "region": "international",
+  "set": "sv02",
+  "category": "booster_pack",
+  "name": "Paldea Evolved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 703155
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet—Paldea Evolved",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493976
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493976/pokemon-sv02-paldea-evolved-paldea-evolved-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-paldea-evolved"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Écarlate et Violet – Évolutions à Paldea",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_%C3%89volutions_%C3%A0_Paldea",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-evolutions-a-paldea"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Karmesin & Purpur – Entwicklungen in Paldea",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-entwicklungen-in-paldea",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-entwicklungen-in-paldea"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Escarlata y Púrpura-Evoluciones en Paldea",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-evoluciones-en-paldea",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-evoluciones-en-paldea"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scarlatto e Violetto - Evoluzioni a Paldea",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-evoluzioni-a-paldea",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-evoluzioni-a-paldea"
+      ]
+    }
+  ]
+}

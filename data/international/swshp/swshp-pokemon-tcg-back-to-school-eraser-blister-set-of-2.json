@@ -1,0 +1,25 @@
+{
+  "id": "swshp-pokemon-tcg-back-to-school-eraser-blister-set-of-2",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pokemon TCG: Back to School Eraser Blister [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 2 favorite Pokémon erasers featuring Pikachu or Eevee; 2 Pokémon TCG booster packs to expand your collection (Packs and contents may vary by product); set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Back to School Eraser Blister [Set of 2]",
+      "releaseDate": "2022-07-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          273610
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/273610/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-set-of-2"
+      ]
+    }
+  ]
+}

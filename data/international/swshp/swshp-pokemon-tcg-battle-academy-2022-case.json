@@ -1,0 +1,24 @@
+{
+  "id": "swshp-pokemon-tcg-battle-academy-2022-case",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Pokemon TCG: Battle Academy 2022 Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Battle Academy 2022 Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          688727
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/688727/pokemon-battle-academy-2022-pokemon-tcg-battle-academy-2022-case"
+      ]
+    }
+  ]
+}

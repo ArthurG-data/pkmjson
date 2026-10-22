@@ -1,0 +1,62 @@
+{
+  "id": "swsh2-legends-of-galar-tin-zacian-v",
+  "region": "international",
+  "set": "swsh2",
+  "category": "tin",
+  "name": "Legends of Galar Tin [Zacian V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Zacian V; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Galar Tin [Zacian V]",
+      "releaseDate": "2020-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214230
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214230/pokemon-swsh02-rebel-clash-legends-of-galar-tin-zacian-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Légendes de Galar Zacian",
+      "releaseDate": "2020-05-22",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "swsh1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_L%C3%A9gendes_de_Galar_Zacian-V"
+      ]
+    }
+  ]
+}

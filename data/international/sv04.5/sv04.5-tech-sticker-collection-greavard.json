@@ -1,0 +1,53 @@
+{
+  "id": "sv04.5-tech-sticker-collection-greavard",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "collection_box",
+  "name": "Paldean Fates Tech Sticker Collection [Greavard]",
+  "identifiers": {
+    "cardmarketProductId": 745547
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker featuring Shiny Greavard",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Shiny Greavard.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Tech Sticker Collection [Greavard]",
+      "releaseDate": "2024-01-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528045
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528045/pokemon-sv-paldean-fates-paldean-fates-tech-sticker-collection-greavard"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection autocollant réajustable Écarlate et Violet Destinées de Paldea Toutombe",
+      "releaseDate": "2024-01-26",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_autocollant_r%C3%A9ajustable_%C3%89carlate_et_Violet_Destin%C3%A9es_de_Paldea_Toutombe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "30th-greninja-ex-box",
+  "region": "international",
+  "set": "30th",
+  "category": "collection_box",
+  "name": "30th Celebration Greninja ex Box",
+  "identifiers": {
+    "cardmarketProductId": 895558
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Greninja ex",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Greninja ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Greninja ex Box",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704168
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704168/pokemon-me-30th-celebration-30th-celebration-greninja-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret 30e Anniversaire Amphinobi",
+      "releaseDate": "2026-09-16",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_30e_Anniversaire_Amphinobi-ex"
+      ]
+    }
+  ]
+}

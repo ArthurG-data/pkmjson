@@ -1,0 +1,32 @@
+{
+  "id": "g1-red-blue-collection-charizard-ex",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Red & Blue Collection [Charizard EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Red & Blue Collection [Charizard EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          115598
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/115598/pokemon-generations-red-and-blue-collection-charizard-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Rouge & Bleu Dracaufeu",
+      "releaseDate": "2016-06-18",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Rouge_%26_Bleu_Dracaufeu-EX"
+      ]
+    }
+  ]
+}

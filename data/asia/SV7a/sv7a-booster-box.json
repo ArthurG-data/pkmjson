@@ -1,0 +1,34 @@
+{
+  "id": "sv7a-booster-box",
+  "region": "asia",
+  "set": "SV7a",
+  "category": "booster_box",
+  "name": "Paradise Dragona Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 781844
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv7a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Paradise Dragona Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          580709
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/580709/pokemon-japan-sv7a-paradise-dragona-paradise-dragona-booster-box"
+      ]
+    }
+  ]
+}

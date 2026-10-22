@@ -1,0 +1,32 @@
+{
+  "id": "swshp-galar-power-mini-tin-galarian-sirfetch-d",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Galar Power Mini Tin [Galarian Sirfetch'd]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokemon coin, featured Pokemon art card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Power Mini Tin [Galarian Sirfetch'd]",
+      "releaseDate": "2020-10-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218855
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218855/pokemon-miscellaneous-cards-and-products-galar-power-mini-tin-galarian-sirfetchd"
+      ]
+    }
+  ]
+}

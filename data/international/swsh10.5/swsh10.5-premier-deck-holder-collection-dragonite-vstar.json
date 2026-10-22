@@ -1,0 +1,53 @@
+{
+  "id": "swsh10.5-premier-deck-holder-collection-dragonite-vstar",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "collection_box",
+  "name": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
+  "identifiers": {
+    "cardmarketProductId": 664332
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 9
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck holder shaped like a Premier Ball",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Dragonite VSTAR; 1 foil promo card featuring Dragonite V; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
+      "releaseDate": "2022-09-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          275842
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/275842/pokemon-pokemon-go-pokemon-go-premier-deck-holder-collection-dragonite-vstar"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Range-deck Honor Pokémon GO Dracolosse-VSTAR",
+      "releaseDate": "2022-10-14",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Range-deck_Honor_Pok%C3%A9mon_GO_Dracolosse-VSTAR"
+      ]
+    }
+  ]
+}

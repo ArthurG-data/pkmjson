@@ -1,0 +1,31 @@
+{
+  "id": "xy1-kalos-starter-figure-box-fennekin-box",
+  "region": "international",
+  "set": "xy1",
+  "category": "collection_box",
+  "name": "Kalos Starter Figure Box [Fennekin Box]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Commemorative figure",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a Sheen Holofoil XY02 Promo featuring Fennekin; 3 Black & White Series Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Starter Figure Box [Fennekin Box]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97714
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97714/pokemon-xy-base-set-kalos-starter-figure-box-fennekin-box"
+      ]
+    }
+  ]
+}

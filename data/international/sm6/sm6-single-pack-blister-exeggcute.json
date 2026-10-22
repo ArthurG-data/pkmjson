@@ -1,0 +1,44 @@
+{
+  "id": "sm6-single-pack-blister-exeggcute",
+  "region": "international",
+  "set": "sm6",
+  "category": "blister",
+  "name": "Forbidden Light Single Pack Blister [Exeggcute]",
+  "identifiers": {
+    "cardmarketProductId": 585976
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM119",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 168026,
+        "cardmarketProductId": 321168,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Single Pack Blister [Exeggcute]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164301
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164301/pokemon-sm-forbidden-light-forbidden-light-single-pack-blister-exeggcute"
+      ]
+    }
+  ]
+}

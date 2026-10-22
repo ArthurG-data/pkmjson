@@ -1,0 +1,48 @@
+{
+  "id": "sm10-kangaskhan-gx-box",
+  "region": "international",
+  "set": "sm10",
+  "category": "collection_box",
+  "name": "Kangaskhan GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kangaskhan GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          192083
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/192083/pokemon-sm-unbroken-bonds-kangaskhan-gx-box"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Kangaskhan-GX",
+      "releaseDate": "2019-06-07",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-kangaskhan-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Kangaskhan-GX",
+      "releaseDate": "2019-06-07",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-kangaskhan-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Kangama-GX",
+      "releaseDate": "2019-06-07",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-kangama-gx"
+      ]
+    }
+  ]
+}

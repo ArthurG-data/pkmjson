@@ -1,0 +1,25 @@
+{
+  "id": "svp-ex-battle-deck-set-of-2",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "ex Battle Deck [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "ex Battle Deck [Set of 2]",
+      "releaseDate": "2023-05-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          484384
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/484384/pokemon-miscellaneous-cards-and-products-ex-battle-deck-set-of-2"
+      ]
+    }
+  ]
+}

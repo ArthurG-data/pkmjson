@@ -1,0 +1,45 @@
+{
+  "id": "swsh4.5-premium-collection-shiny-crobat",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "premium_collection",
+  "name": "Shining Fates Premium Collection [Shiny Crobat]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 7
+      }
+    ],
+    "other": [
+      {
+        "name": "Corresponding metallic coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one foil promo card featuring either Shiny Crobat V or Shiny Dragapult V; one foil promo card; one foil oversize promo card featuring either Shiny Crobat VMAX or Shiny Dragapult VMAX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Premium Collection [Shiny Crobat]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230391
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230391/pokemon-shining-fates-shining-fates-premium-collection-shiny-crobat"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Destinées Radieuses Nostenfer-VMAX chromatique",
+      "releaseDate": "2021-03-05",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_Destin%C3%A9es_Radieuses_Nostenfer-VMAX_chromatique"
+      ]
+    }
+  ]
+}

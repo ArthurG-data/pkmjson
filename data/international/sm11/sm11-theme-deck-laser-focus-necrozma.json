@@ -1,0 +1,39 @@
+{
+  "id": "sm11-theme-deck-laser-focus-necrozma",
+  "region": "international",
+  "set": "sm11",
+  "category": "theme_deck",
+  "name": "Unified Minds Theme Deck - \"Laser Focus\" [Necrozma]",
+  "identifiers": {
+    "cardmarketProductId": 377481
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Theme Deck - \"Laser Focus\" [Necrozma]",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191889
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191889/pokemon-sm-unified-minds-unified-minds-theme-deck-laser-focus-necrozma"
+      ]
+    }
+  ]
+}

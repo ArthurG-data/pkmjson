@@ -1,0 +1,35 @@
+{
+  "id": "si-battle-deck",
+  "region": "asia",
+  "set": "SI",
+  "category": "battle_deck",
+  "name": "Start Deck 100",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Basic rules QR code card",
+        "count": 1
+      },
+      {
+        "name": "Sheet of damage counters and status markers",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 deck at random of a possible 101 different complete decks (100 standard; 1 secret); deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Start Deck 100",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644827
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644827/pokemon-japan-si-start-deck-100-start-deck-100"
+      ]
+    }
+  ]
+}

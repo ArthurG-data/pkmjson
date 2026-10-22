@@ -1,0 +1,27 @@
+{
+  "id": "xy3-booster-box",
+  "region": "international",
+  "set": "xy3",
+  "category": "booster_box",
+  "name": "Furious Fists Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271944
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          92168
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/92168/pokemon-xy-furious-fists-furious-fists-booster-box"
+      ]
+    }
+  ]
+}

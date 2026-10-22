@@ -1,0 +1,90 @@
+{
+  "id": "sv04.5-elite-trainer-box",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "elite_trainer_box",
+  "name": "Paldean Fates Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 745548
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04.5-booster-pack",
+        "count": 9
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Shiny Mimikyu",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Shiny Mimikyu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528040
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528040/pokemon-sv-paldean-fates-paldean-fates-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Écarlate et Violet Destinées de Paldea",
+      "releaseDate": "2024-01-26",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Destin%C3%A9es_de_Paldea"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Destino di Paldea",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-destino-di-paldea"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Karmesin & Purpur – Paldeas Schicksale",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-paldeas-schicksale"
+      ]
+    }
+  ]
+}

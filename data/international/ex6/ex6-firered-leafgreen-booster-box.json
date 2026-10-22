@@ -1,0 +1,27 @@
+{
+  "id": "ex6-firered-leafgreen-booster-box",
+  "region": "international",
+  "set": "ex6",
+  "category": "booster_box",
+  "name": "FireRed & LeafGreen Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271913
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "FireRed & LeafGreen Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98945
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98945/pokemon-ex-firered-and-leafgreen-firered-and-leafgreen-booster-box"
+      ]
+    }
+  ]
+}

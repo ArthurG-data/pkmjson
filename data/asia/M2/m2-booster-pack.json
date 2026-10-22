@@ -1,0 +1,29 @@
+{
+  "id": "m2-booster-pack",
+  "region": "asia",
+  "set": "M2",
+  "category": "booster_pack",
+  "name": "Inferno X Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 845911
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック 「インフェルノX」",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          655970
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/655970/pokemon-japan-m2-inferno-x-inferno-x-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8EX"
+      ]
+    }
+  ]
+}

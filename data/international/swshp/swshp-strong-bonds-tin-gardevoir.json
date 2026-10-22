@@ -1,0 +1,31 @@
+{
+  "id": "swshp-strong-bonds-tin-gardevoir",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Strong Bonds Tin [Gardevoir]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 2 foil cards featuring Gardevoir or Blissey; 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Strong Bonds Tin [Gardevoir]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229747
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229747/pokemon-miscellaneous-cards-and-products-strong-bonds-tin-gardevoir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "me05-build-battle-box-display",
+  "region": "international",
+  "set": "me05",
+  "category": "case",
+  "name": "Pitch Black Build & Battle Box Display",
+  "identifiers": {
+    "cardmarketProductId": 885541
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Build & Battle Box Display",
+      "releaseDate": "2026-07-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693586
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693586/pokemon-me05-pitch-black-pitch-black-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

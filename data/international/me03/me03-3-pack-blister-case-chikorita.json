@@ -1,0 +1,24 @@
+{
+  "id": "me03-3-pack-blister-case-chikorita",
+  "region": "international",
+  "set": "me03",
+  "category": "case",
+  "name": "Perfect Order 3 Pack Blister Case [Chikorita]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order 3 Pack Blister Case [Chikorita]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          706309
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/706309/pokemon-me03-perfect-order-perfect-order-3-pack-blister-case-chikorita"
+      ]
+    }
+  ]
+}

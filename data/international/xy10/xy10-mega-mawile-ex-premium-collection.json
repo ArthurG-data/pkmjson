@@ -1,0 +1,48 @@
+{
+  "id": "xy10-mega-mawile-ex-premium-collection",
+  "region": "international",
+  "set": "xy10",
+  "category": "premium_collection",
+  "name": "Mega Mawile EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Mawile EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118335
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118335/pokemon-xy-fates-collide-mega-mawile-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Méga-Mysdibule",
+      "releaseDate": "2016-10-12",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy9-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Mysdibule-EX"
+      ]
+    }
+  ]
+}

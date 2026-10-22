@@ -1,0 +1,26 @@
+{
+  "id": "pmcg2-booster-pack-291-yen",
+  "region": "asia",
+  "set": "PMCG2",
+  "category": "booster_pack",
+  "name": "Pokemon Jungle Booster Pack (291 Yen)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "第2弾 拡張パック「ポケモンジャングル」",
+      "releaseDate": "1997-03-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          677751
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/677751/pokemon-japan-pokemon-jungle-pokemon-jungle-booster-pack-291-yen",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB"
+      ]
+    }
+  ]
+}

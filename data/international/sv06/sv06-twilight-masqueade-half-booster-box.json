@@ -1,0 +1,31 @@
+{
+  "id": "sv06-twilight-masqueade-half-booster-box",
+  "region": "international",
+  "set": "sv06",
+  "category": "half_booster_box",
+  "name": "Twilight Masqueade Half Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masqueade Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649421
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649421/pokemon-sv06-twilight-masquerade-twilight-masqueade-half-booster-box"
+      ]
+    }
+  ]
+}

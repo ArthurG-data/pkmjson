@@ -1,0 +1,24 @@
+{
+  "id": "swsh7-build-battle-box-display",
+  "region": "international",
+  "set": "swsh7",
+  "category": "case",
+  "name": "Evolving Skies Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242450
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242450/pokemon-swsh07-evolving-skies-evolving-skies-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

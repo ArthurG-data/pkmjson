@@ -1,0 +1,27 @@
+{
+  "id": "xy5-elite-trainer-box-kyogre",
+  "region": "international",
+  "set": "xy5",
+  "category": "elite_trainer_box",
+  "name": "Elite Trainer Box [Kyogre]",
+  "identifiers": {
+    "cardmarketProductId": 286954
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Elite Trainer Box [Kyogre]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97763
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97763/pokemon-xy-primal-clash-elite-trainer-box-kyogre"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ecard1-theme-deck-echo",
+  "region": "international",
+  "set": "ecard1",
+  "category": "theme_deck",
+  "name": "Expedition Theme Deck - \"Echo\"",
+  "identifiers": {
+    "cardmarketProductId": 286572
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Expedition Theme Deck - \"Echo\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451096
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451096/pokemon-expedition-expedition-theme-deck-echo"
+      ]
+    }
+  ]
+}

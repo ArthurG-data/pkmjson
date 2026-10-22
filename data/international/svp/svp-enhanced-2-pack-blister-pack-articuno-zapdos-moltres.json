@@ -1,0 +1,35 @@
+{
+  "id": "svp-enhanced-2-pack-blister-pack-articuno-zapdos-moltres",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Enhanced 2-Pack Blister Pack [Articuno, Zapdos, & Moltres]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Enhanced 2-Pack Blister Pack [Articuno, Zapdos, & Moltres]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          489343
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/489343/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-articuno-zapdos-and-moltres"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sm9-premium-checklane-blister-gyarados",
+  "region": "international",
+  "set": "sm9",
+  "category": "blister",
+  "name": "Team Up Premium Checklane Blister [Gyarados]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm9-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Premium Checklane Blister [Gyarados]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624521
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624521/pokemon-sm-team-up-team-up-premium-checklane-blister-gyarados"
+      ]
+    }
+  ]
+}

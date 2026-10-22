@@ -1,0 +1,26 @@
+{
+  "id": "sv6-booster-pack",
+  "region": "asia",
+  "set": "SV6",
+  "category": "booster_pack",
+  "name": "Transformation Mask Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック 「変幻の仮面」",
+      "releaseDate": "2024-04-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565220
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565220/pokemon-japan-sv6-transformation-mask-transformation-mask-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E5%A4%89%E5%B9%BB%E3%81%AE%E4%BB%AE%E9%9D%A2"
+      ]
+    }
+  ]
+}

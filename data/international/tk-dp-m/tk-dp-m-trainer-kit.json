@@ -1,0 +1,24 @@
+{
+  "id": "tk-dp-m-trainer-kit",
+  "region": "international",
+  "set": "tk-dp-m",
+  "category": "other",
+  "name": "DP Trainer Kit [Manaphy & Lucario]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "DP Trainer Kit [Manaphy & Lucario]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98949
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98949/pokemon-dp-trainer-kit-manaphy-and-lucario-dp-trainer-kit-manaphy-and-lucario"
+      ]
+    }
+  ]
+}

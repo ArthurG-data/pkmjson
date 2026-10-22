@@ -1,0 +1,31 @@
+{
+  "id": "me02-sleeved-booster-case-48-ct",
+  "region": "international",
+  "set": "me02",
+  "category": "case",
+  "name": "Phantasmal Flames Sleeved Booster Case (48 ct)",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-sleeved-booster-pack",
+        "count": 48
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Sleeved Booster Case (48 ct)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          688345
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/688345/pokemon-me02-phantasmal-flames-phantasmal-flames-sleeved-booster-case-48-ct"
+      ]
+    }
+  ]
+}

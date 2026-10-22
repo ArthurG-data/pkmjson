@@ -1,0 +1,32 @@
+{
+  "id": "me05-half-booster-boxes",
+  "region": "international",
+  "set": "me05",
+  "category": "half_booster_box",
+  "name": "Pitch Black Half Booster Boxes",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me05-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Half Booster Boxes",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692940
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692940/pokemon-me05-pitch-black-pitch-black-half-booster-boxes"
+      ]
+    }
+  ]
+}

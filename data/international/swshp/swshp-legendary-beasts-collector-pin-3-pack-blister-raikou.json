@@ -1,0 +1,35 @@
+{
+  "id": "swshp-legendary-beasts-collector-pin-3-pack-blister-raikou",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Legendary Beasts Collector Pin 3 Pack Blister [Raikou]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of Raikou",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Beasts Collector Pin 3 Pack Blister [Raikou]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265943
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265943/pokemon-miscellaneous-cards-and-products-legendary-beasts-collector-pin-3-pack-blister-raikou"
+      ]
+    }
+  ]
+}

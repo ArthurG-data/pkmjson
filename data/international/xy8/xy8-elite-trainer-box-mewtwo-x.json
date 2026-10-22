@@ -1,0 +1,24 @@
+{
+  "id": "xy8-elite-trainer-box-mewtwo-x",
+  "region": "international",
+  "set": "xy8",
+  "category": "elite_trainer_box",
+  "name": "Elite Trainer Box [Mewtwo X]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Elite Trainer Box [Mewtwo X]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107106
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107106/pokemon-xy-breakthrough-elite-trainer-box-mewtwo-x"
+      ]
+    }
+  ]
+}

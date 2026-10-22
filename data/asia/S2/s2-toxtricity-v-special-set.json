@@ -1,0 +1,39 @@
+{
+  "id": "s2-toxtricity-v-special-set",
+  "region": "asia",
+  "set": "S2",
+  "category": "other",
+  "name": "Toxtricity V Special Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special Art Tin case",
+        "count": 1
+      },
+      {
+        "name": "Special Energy Card x1",
+        "count": 1
+      },
+      {
+        "name": "Basic Lightning Energy Card x14",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Promo Card \"Toxtricity V\" x1.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Toxtricity V Special Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          626514
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/626514/pokemon-japan-s2-rebellion-crash-toxtricity-v-special-set"
+      ]
+    }
+  ]
+}

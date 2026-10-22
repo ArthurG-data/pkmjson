@@ -1,0 +1,25 @@
+{
+  "id": "svp-poke-ball-tin-display-q4-2024",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Poke Ball Tin Display (Q4 2024)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Poke Ball Tin Display (Q4 2024)",
+      "releaseDate": "2024-10-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          564280
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/564280/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q4-2024"
+      ]
+    }
+  ]
+}

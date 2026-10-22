@@ -1,0 +1,41 @@
+{
+  "id": "bw2-starter-figure-boxes-terrific-tepig-box",
+  "region": "international",
+  "set": "bw2",
+  "category": "collection_box",
+  "name": "Starter Figure Boxes: Terrific Tepig Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "bw2-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tepig figure",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a jumbo promo card of ________'s Tepig; a cosmo holofoil of Tepig.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Starter Figure Boxes: Terrific Tepig Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177531
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177531/pokemon-emerging-powers-starter-figure-boxes-terrific-tepig-box"
+      ]
+    }
+  ]
+}

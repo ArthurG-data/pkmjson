@@ -1,0 +1,35 @@
+{
+  "id": "me02-3-pack-blister-weavile",
+  "region": "international",
+  "set": "me02",
+  "category": "blister",
+  "name": "Phantasmal Flames 3 Pack Blister [Weavile]",
+  "identifiers": {
+    "cardmarketProductId": 846740
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Yanmega.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames 3 Pack Blister [Weavile]",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654156
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654156/pokemon-me02-phantasmal-flames-phantasmal-flames-3-pack-blister-weavile"
+      ]
+    }
+  ]
+}

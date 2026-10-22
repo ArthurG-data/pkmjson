@@ -1,0 +1,69 @@
+{
+  "id": "sv08.5-binder-collection",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Binder Collection",
+  "identifiers": {
+    "cardmarketProductId": 798945
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Binder with 21 9-pocket pages",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Binder Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593356
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593356/pokemon-sv-prismatic-evolutions-prismatic-evolutions-binder-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection classeur Écarlate et Violet Évolutions Prismatiques",
+      "releaseDate": "2025-01-17",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_classeur_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con raccoglitore dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Ordner-Kollektion Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ordner-kollektion-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Álbum para colecciones de Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
+    }
+  ]
+}

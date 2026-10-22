@@ -1,0 +1,27 @@
+{
+  "id": "xy7-booster-box",
+  "region": "international",
+  "set": "xy7",
+  "category": "booster_box",
+  "name": "XY Ancient Origins Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 283943
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Ancient Origins Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100489
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100489/pokemon-xy-ancient-origins-xy-ancient-origins-booster-box"
+      ]
+    }
+  ]
+}

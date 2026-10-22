@@ -1,0 +1,27 @@
+{
+  "id": "xy11-elite-trainer-box",
+  "region": "international",
+  "set": "xy11",
+  "category": "elite_trainer_box",
+  "name": "Steam Siege Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 290089
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120697
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120697/pokemon-xy-steam-siege-steam-siege-elite-trainer-box"
+      ]
+    }
+  ]
+}

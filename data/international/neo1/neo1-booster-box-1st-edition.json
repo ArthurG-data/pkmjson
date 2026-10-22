@@ -1,0 +1,24 @@
+{
+  "id": "neo1-booster-box-1st-edition",
+  "region": "international",
+  "set": "neo1",
+  "category": "booster_box",
+  "name": "Neo Genesis Booster Box [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 1st Edition Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Genesis Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193334
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193334/pokemon-neo-genesis-neo-genesis-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

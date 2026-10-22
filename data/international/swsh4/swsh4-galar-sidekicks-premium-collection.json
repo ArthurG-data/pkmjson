@@ -1,0 +1,65 @@
+{
+  "id": "swsh4-galar-sidekicks-premium-collection",
+  "region": "international",
+  "set": "swsh4",
+  "category": "premium_collection",
+  "name": "Galar Sidekicks Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH014",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 206421,
+        "cardmarketProductId": 450673,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH015",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 206419,
+        "cardmarketProductId": 450578,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH016",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 206418,
+        "cardmarketProductId": 450618,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sidekick dangler featuring Grookey, Scorbunny, Sobble",
+        "count": 1
+      },
+      {
+        "name": "Oversize coin featuring Grookey, Scorbunny, Sobble",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 11 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Sidekicks Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228978
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228978/pokemon-swsh04-vivid-voltage-galar-sidekicks-premium-collection"
+      ]
+    }
+  ]
+}

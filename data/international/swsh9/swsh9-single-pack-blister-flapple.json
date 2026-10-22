@@ -1,0 +1,51 @@
+{
+  "id": "swsh9-single-pack-blister-flapple",
+  "region": "international",
+  "set": "swsh9",
+  "category": "blister",
+  "name": "Brilliant Stars Single Pack Blister [Flapple]",
+  "identifiers": {
+    "cardmarketProductId": 606762
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH189",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 264282,
+        "cardmarketProductId": 609463,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Single Pack Blister [Flapple]",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256128
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256128/pokemon-swsh09-brilliant-stars-brilliant-stars-single-pack-blister-flapple"
+      ]
+    }
+  ]
+}

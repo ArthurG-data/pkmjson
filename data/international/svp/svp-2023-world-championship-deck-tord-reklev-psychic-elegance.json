@@ -1,0 +1,51 @@
+{
+  "id": "svp-2023-world-championship-deck-tord-reklev-psychic-elegance",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "2023 World Championship Deck: Tord Reklev (Psychic Elegance)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "World Championships booklet",
+        "count": 2023
+      },
+      {
+        "name": "Special 2023 World Championships pin",
+        "count": 1
+      },
+      {
+        "name": "World Championships coin",
+        "count": 2023
+      },
+      {
+        "name": "World Championships deck box",
+        "count": 2023
+      },
+      {
+        "name": "Playmat and poster",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-card World Championships Deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2023 World Championship Deck: Tord Reklev (Psychic Elegance)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532030
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532030/pokemon-world-championship-decks-2023-world-championship-deck-tord-reklev-psychic-elegance"
+      ]
+    }
+  ]
+}

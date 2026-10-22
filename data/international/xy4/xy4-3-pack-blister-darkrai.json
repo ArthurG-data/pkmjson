@@ -1,0 +1,66 @@
+{
+  "id": "xy4-3-pack-blister-darkrai",
+  "region": "international",
+  "set": "xy4",
+  "category": "blister",
+  "name": "Phantom Forces 3 Pack Blister [Darkrai]",
+  "identifiers": {
+    "cardmarketProductId": 586399
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy4-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Darkrai.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces 3 Pack Blister [Darkrai]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97785
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97785/pokemon-xy-phantom-forces-phantom-forces-3-pack-blister-darkrai"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY04 Darkrai",
+      "releaseDate": "2014-11-08",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy4-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY04_Darkrai"
+      ]
+    }
+  ]
+}

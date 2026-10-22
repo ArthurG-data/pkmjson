@@ -1,0 +1,32 @@
+{
+  "id": "svp-combined-powers-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Combined Powers Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Foil oversize card featuring Lugia ex",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Lugia ex; 1 promo card featuring Ho-Oh ex; 1 promo card featuring and Suicune ex; 1 foil card featuring Mr. Mime; 3 foil Pokémon Tool cards; 11 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Combined Powers Premium Collection",
+      "releaseDate": "2024-02-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532385
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532385/pokemon-miscellaneous-cards-and-products-combined-powers-premium-collection"
+      ]
+    }
+  ]
+}

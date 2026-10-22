@@ -1,0 +1,50 @@
+{
+  "id": "sm4-single-pack-blister-dhelmise",
+  "region": "international",
+  "set": "sm4",
+  "category": "blister",
+  "name": "Crimson Invasion Single Pack Blister [Dhelmise]",
+  "identifiers": {
+    "cardmarketProductId": 585985
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm4-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM53",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 162607,
+        "cardmarketProductId": 302137,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crimson Invasion Single Pack Blister [Dhelmise]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177875
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177875/pokemon-sm-crimson-invasion-crimson-invasion-single-pack-blister-dhelmise"
+      ]
+    }
+  ]
+}

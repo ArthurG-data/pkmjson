@@ -1,0 +1,31 @@
+{
+  "id": "sv09-enhanced-booster-box-case",
+  "region": "international",
+  "set": "sv09",
+  "category": "case",
+  "name": "Journey Together Enhanced Booster Box Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-enhanced-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Enhanced Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625583
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625583/pokemon-sv09-journey-together-journey-together-enhanced-booster-box-case"
+      ]
+    }
+  ]
+}

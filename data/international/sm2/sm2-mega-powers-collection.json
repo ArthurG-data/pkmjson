@@ -1,0 +1,35 @@
+{
+  "id": "sm2-mega-powers-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "collection_box",
+  "name": "Mega Powers Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Full Art Jumbo of Mega Lucario EX",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Full Art Promo of M Lucario EX; 1 Full Art Promo of M Manectric EX; 1 Full Art Promo of Jolteon EX; 1 Full Art Promo of Zygarde EX; 1 Lucario Spirit Link; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Powers Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131693
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131693/pokemon-sm-guardians-rising-mega-powers-collection"
+      ]
+    }
+  ]
+}

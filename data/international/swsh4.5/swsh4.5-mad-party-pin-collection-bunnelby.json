@@ -1,0 +1,57 @@
+{
+  "id": "swsh4.5-mad-party-pin-collection-bunnelby",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "collection_box",
+  "name": "Shining Fates Mad Party Pin Collection [Bunnelby]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH082",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 232461,
+        "cardmarketProductId": 540636,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mad Party Pin Collection [Bunnelby]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228826
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228826/pokemon-shining-fates-shining-fates-mad-party-pin-collection-bunnelby"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Folle Aventure avec pin's Destinées Radieuses Sapereau",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Folle_Aventure_avec_pin%27s_Destin%C3%A9es_Radieuses_Sapereau"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Pokémon-Sammelkartenspiel-Pin-Kollektionen Verrückte Party der Erweiterung Glänzendes Schicksal",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektionen-verrueckte-party-der-erweiterung-glaenzendes-schicksal"
+      ]
+    }
+  ]
+}

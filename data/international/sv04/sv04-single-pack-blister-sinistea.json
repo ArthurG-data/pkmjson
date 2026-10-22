@@ -1,0 +1,50 @@
+{
+  "id": "sv04-single-pack-blister-sinistea",
+  "region": "international",
+  "set": "sv04",
+  "category": "blister",
+  "name": "Paradox Rift Single Pack Blister [Sinistea]",
+  "identifiers": {
+    "cardmarketProductId": 728735
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-062",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 526638,
+        "cardmarketProductId": 729206,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Single Pack Blister [Sinistea]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514223
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514223/pokemon-sv04-paradox-rift-paradox-rift-single-pack-blister-sinistea"
+      ]
+    }
+  ]
+}

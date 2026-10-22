@@ -1,0 +1,27 @@
+{
+  "id": "sv01-booster-box-case",
+  "region": "international",
+  "set": "sv01",
+  "category": "case",
+  "name": "Scarlet & Violet Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 692095
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          476453
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/476453/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-box-case"
+      ]
+    }
+  ]
+}

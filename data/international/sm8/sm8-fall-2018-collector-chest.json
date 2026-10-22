@@ -1,0 +1,109 @@
+{
+  "id": "sm8-fall-2018-collector-chest",
+  "region": "international",
+  "set": "sm8",
+  "category": "other",
+  "name": "Fall 2018 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM144",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 180520,
+        "cardmarketProductId": 366051,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "smp-SM145",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 180521,
+        "cardmarketProductId": 366052,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "smp-SM143",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 180519,
+        "cardmarketProductId": 366048,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Mini portfolio",
+        "count": 1
+      },
+      {
+        "name": "Notepad",
+        "count": 1
+      },
+      {
+        "name": "Pencils",
+        "count": 4
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2018 Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          180518
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/180518/pokemon-sm-lost-thunder-fall-2018-collector-chest"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2018)",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2018"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2018)",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/maletin-de-coleccionistas-de-jcc-pokemon-otono-2018"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (Automne 2018)",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2018"
+      ]
+    }
+  ]
+}

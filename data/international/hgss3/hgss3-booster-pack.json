@@ -1,0 +1,28 @@
+{
+  "id": "hgss3-booster-pack",
+  "region": "international",
+  "set": "hgss3",
+  "category": "booster_pack",
+  "name": "Undaunted Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271875
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "HS—Undaunted",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98586
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98586/pokemon-undaunted-undaunted-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/hs-undaunted"
+      ]
+    }
+  ]
+}

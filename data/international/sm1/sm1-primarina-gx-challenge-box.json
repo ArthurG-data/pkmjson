@@ -1,0 +1,48 @@
+{
+  "id": "sm1-primarina-gx-challenge-box",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Primarina GX Challenge Box",
+  "identifiers": {
+    "cardmarketProductId": 653289
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM39",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 133820,
+        "cardmarketProductId": 298917,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Primarina-GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 complete Bright Tide theme deck—play it right away; 2 Pokémon TCG: Sun & Moon booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Primarina GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656924
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656924/pokemon-sm-base-set-primarina-gx-challenge-box"
+      ]
+    }
+  ]
+}

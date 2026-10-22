@@ -1,0 +1,35 @@
+{
+  "id": "svp-enhanced-2-pack-blister-pack-latios-zekrom-palkia",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Enhanced 2-Pack Blister Pack [Latios, Zekrom & Palkia]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Foil cards featuring Latios, Zekrom, and Palkia.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Enhanced 2-Pack Blister Pack [Latios, Zekrom & Palkia]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616951
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616951/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-latios-zekrom-and-palkia"
+      ]
+    }
+  ]
+}

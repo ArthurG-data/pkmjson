@@ -1,0 +1,42 @@
+{
+  "id": "svp-paradox-clash-tin-iron-leaves-ex-international",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Paradox Clash Tin [Iron Leaves ex] (International)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-128",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 554299,
+        "cardmarketProductId": 769426,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Clash Tin [Iron Leaves ex] (International)",
+      "releaseDate": "2024-05-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          549432
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/549432/pokemon-miscellaneous-cards-and-products-paradox-clash-tin-iron-leaves-ex-international"
+      ]
+    }
+  ]
+}

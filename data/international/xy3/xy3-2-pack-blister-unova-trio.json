@@ -1,0 +1,37 @@
+{
+  "id": "xy3-2-pack-blister-unova-trio",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "Furious Fists 2 Pack Blister [Unova Trio]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy3-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three promotional cards: Emboar, Serperior, Samurott.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists 2 Pack Blister [Unova Trio]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97772
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97772/pokemon-xy-furious-fists-furious-fists-2-pack-blister-unova-trio"
+      ]
+    }
+  ]
+}

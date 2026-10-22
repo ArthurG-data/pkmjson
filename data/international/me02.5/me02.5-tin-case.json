@@ -1,0 +1,25 @@
+{
+  "id": "me02.5-tin-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Ascended Heroes Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Tin Case",
+      "releaseDate": "2026-08-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          702501
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/702501/pokemon-me-ascended-heroes-ascended-heroes-tin-case"
+      ]
+    }
+  ]
+}

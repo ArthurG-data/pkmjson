@@ -1,0 +1,37 @@
+{
+  "id": "sv-p-generations-start-deck-pikachu-ex-snorlax-ex",
+  "region": "asia",
+  "set": "SV-P",
+  "category": "battle_deck",
+  "name": "Generations Start Deck - Pikachu ex & Snorlax ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counter",
+        "count": 1
+      },
+      {
+        "name": "Paper playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60 cards; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スタートデッキGenerations ピカチュウex・カビゴンex",
+      "releaseDate": "2024-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          643132
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/643132/pokemon-japan-svm-generations-start-decks-generations-start-deck-pikachu-ex-and-snorlax-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADGenerations+%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6ex%E3%83%BB%E3%82%AB%E3%83%93%E3%82%B4%E3%83%B3ex"
+      ]
+    }
+  ]
+}

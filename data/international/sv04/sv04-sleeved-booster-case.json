@@ -1,0 +1,34 @@
+{
+  "id": "sv04-sleeved-booster-case",
+  "region": "international",
+  "set": "sv04",
+  "category": "case",
+  "name": "Paradox Rift Sleeved Booster Case",
+  "identifiers": {
+    "cardmarketProductId": 729188
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Sleeved Booster Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          641808
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/641808/pokemon-sv04-paradox-rift-paradox-rift-sleeved-booster-case"
+      ]
+    }
+  ]
+}

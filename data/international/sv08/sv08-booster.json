@@ -4,22 +4,59 @@
   "set": "sv08",
   "category": "booster_pack",
   "name": "Surging Sparks Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 784945
+  },
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Booster pack cards are random. Which cards a pack can hold is out of scope for this dataset.",
   "releases": [
     {
       "language": "en",
-      "name": "Surging Sparks Booster Pack",
+      "name": "Scarlet & Violet—Surging Sparks",
       "releaseDate": "2024-11-08",
-      "identifiers": {"tcgplayerProductIds": [565604]},
-      "sources": ["https://www.tcgplayer.com/product/565604/pokemon-sv08-surging-sparks-surging-sparks-booster-pack"]
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565604
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565604/pokemon-sv08-surging-sparks-surging-sparks-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-surging-sparks"
+      ]
     },
     {
       "language": "fr",
-      "name": "Booster Écarlate et Violet – Étincelles Déferlantes",
+      "name": "Écarlate et Violet – Étincelles Déferlantes",
       "releaseDate": "2024-11-08",
-      "sources": ["https://www.pkmcards.fr/products/boosters/booster-etincelles-deferlantes-pikachu-teracristal-stellaire"]
+      "sources": [
+        "https://www.pkmcards.fr/products/boosters/booster-etincelles-deferlantes-pikachu-teracristal-stellaire",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-etincelles-deferlantes"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scarlatto e Violetto - Scintille Folgoranti",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-scintille-folgoranti",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-scintille-folgoranti"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Escarlata y Púrpura-Chispas Fulgurantes",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-chispas-fulgurantes",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-chispas-fulgurantes"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Karmesin & Purpur – Stürmische Funken",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-stuermische-funken",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-stuermische-funken"
+      ]
     }
   ]
 }

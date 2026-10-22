@@ -1,0 +1,61 @@
+{
+  "id": "sv03.5-151-binder-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "collection_box",
+  "name": "151 Binder Collection",
+  "identifiers": {
+    "cardmarketProductId": 719697
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Binder with 20 9-pocket pages",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Binder Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502004
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502004/pokemon-sv-scarlet-and-violet-151-151-binder-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection classeur Écarlate et Violet – 151",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-classeur-ecarlate-et-violet-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con raccoglitore dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Álbum para colecciones de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-151"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "swsh12.5-mini-tin-leon-charizard",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "tin",
+  "name": "Crown Zenith Mini Tin [Leon & Charizard]",
+  "identifiers": {
+    "cardmarketProductId": 683012
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Mini Tin [Leon & Charizard]",
+      "releaseDate": "2023-02-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453489
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453489/pokemon-swsh-crown-zenith-crown-zenith-mini-tin-leon-and-charizard"
+      ]
+    }
+  ]
+}

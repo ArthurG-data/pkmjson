@@ -1,0 +1,31 @@
+{
+  "id": "swshp-salamence-dragons-tin",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Salamence Dragons Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Salamence; 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Salamence Dragons Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218438
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218438/pokemon-miscellaneous-cards-and-products-salamence-dragons-tin"
+      ]
+    }
+  ]
+}

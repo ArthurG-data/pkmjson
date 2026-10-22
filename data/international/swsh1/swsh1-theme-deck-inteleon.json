@@ -1,0 +1,27 @@
+{
+  "id": "swsh1-theme-deck-inteleon",
+  "region": "international",
+  "set": "swsh1",
+  "category": "theme_deck",
+  "name": "Sword & Shield Theme Deck [Inteleon]",
+  "identifiers": {
+    "cardmarketProductId": 427121
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Theme Deck [Inteleon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206036
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206036/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-theme-deck-inteleon"
+      ]
+    }
+  ]
+}

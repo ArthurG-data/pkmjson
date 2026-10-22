@@ -1,0 +1,40 @@
+{
+  "id": "xy8-single-pack-blister-jirachi",
+  "region": "international",
+  "set": "xy8",
+  "category": "blister",
+  "name": "BREAKthrough Single Pack Blister [Jirachi]",
+  "identifiers": {
+    "cardmarketProductId": 586368
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy8-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Jirachi.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKthrough Single Pack Blister [Jirachi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          108637
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/108637/pokemon-xy-breakthrough-breakthrough-single-pack-blister-jirachi"
+      ]
+    }
+  ]
+}

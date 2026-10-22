@@ -1,0 +1,70 @@
+{
+  "id": "smp-alolan-sandslash-gx-box",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Alolan Sandslash GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM236",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 207496,
+        "cardmarketProductId": 450568,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Alolan Sandslash-GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alolan Sandslash GX Box",
+      "releaseDate": "2020-01-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          205384
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/205384/pokemon-miscellaneous-cards-and-products-alolan-sandslash-gx-box"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Sandslash di Alola-GX",
+      "releaseDate": "2020-01-24",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-sandslash-di-alola-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Alola-Sandamer-GX",
+      "releaseDate": "2020-01-24",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-alola-sandamer-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Sablaireau d’Alola-GX",
+      "releaseDate": "2020-03-13",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-sablaireau-dalola-gx"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sm11-booster-box-576917",
+  "region": "asia",
+  "set": "SM11",
+  "category": "booster_box",
+  "name": "Miracle Twin Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550381
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack-576916",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Miracle Twin Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576917
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576917/pokemon-japan-sm11-miracle-twin-miracle-twin-booster-box"
+      ]
+    }
+  ]
+}

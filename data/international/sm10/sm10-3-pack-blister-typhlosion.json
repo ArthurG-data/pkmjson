@@ -1,0 +1,51 @@
+{
+  "id": "sm10-3-pack-blister-typhlosion",
+  "region": "international",
+  "set": "sm10",
+  "category": "blister",
+  "name": "Unbroken Bonds 3 Pack Blister [Typhlosion]",
+  "identifiers": {
+    "cardmarketProductId": 585915
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM185",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 189758,
+        "cardmarketProductId": 370820,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds 3 Pack Blister [Typhlosion]",
+      "releaseDate": "2019-05-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          188411
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/188411/pokemon-sm-unbroken-bonds-unbroken-bonds-3-pack-blister-typhlosion"
+      ]
+    }
+  ]
+}

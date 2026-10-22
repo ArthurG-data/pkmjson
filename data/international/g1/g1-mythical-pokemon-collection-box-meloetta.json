@@ -1,0 +1,24 @@
+{
+  "id": "g1-mythical-pokemon-collection-box-meloetta",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Mythical Pokemon Collection Box [Meloetta]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Pokemon Collection Box [Meloetta]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          126568
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/126568/pokemon-generations-mythical-pokemon-collection-box-meloetta"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "xy8-single-pack-blister-hawlucha",
+  "region": "international",
+  "set": "xy8",
+  "category": "blister",
+  "name": "BREAKthrough Single Pack Blister [Hawlucha]",
+  "identifiers": {
+    "cardmarketProductId": 586367
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy8-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Hawlucha.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKthrough Single Pack Blister [Hawlucha]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          108638
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/108638/pokemon-xy-breakthrough-breakthrough-single-pack-blister-hawlucha"
+      ]
+    }
+  ]
+}

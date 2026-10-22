@@ -1,0 +1,34 @@
+{
+  "id": "sm2k-booster-box",
+  "region": "asia",
+  "set": "SM2K",
+  "category": "booster_box",
+  "name": "Islands Await You Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551846
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2k-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Islands Await You Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576859
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576859/pokemon-japan-sm2k-islands-await-you-islands-await-you-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sv06.5-greninja-ex-special-illustration-collection",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "collection_box",
+  "name": "Greninja ex Special Illustration Collection",
+  "identifiers": {
+    "cardmarketProductId": 770969
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Kingdra ex or Greninja ex; 2 foil cards featuring either Horsea and Seadra, or Froakie and Frogadier.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Greninja ex Special Illustration Collection",
+      "releaseDate": "2024-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553002
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553002/pokemon-sv-shrouded-fable-greninja-ex-special-illustration-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sv04-build-battle-box",
+  "region": "international",
+  "set": "sv04",
+  "category": "build_and_battle_box",
+  "name": "Paradox Rift Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 728724
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514068
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514068/pokemon-sv04-paradox-rift-paradox-rift-build-and-battle-box"
+      ]
+    }
+  ]
+}

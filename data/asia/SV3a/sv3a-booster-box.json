@@ -1,0 +1,34 @@
+{
+  "id": "sv3a-booster-box",
+  "region": "asia",
+  "set": "SV3a",
+  "category": "booster_box",
+  "name": "Raging Surf Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 726556
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv3a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Raging Surf Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565235
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565235/pokemon-japan-sv3a-raging-surf-raging-surf-booster-box"
+      ]
+    }
+  ]
+}

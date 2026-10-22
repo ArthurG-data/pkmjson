@@ -1,0 +1,27 @@
+{
+  "id": "xy1-3-pack-blister-gallade",
+  "region": "international",
+  "set": "xy1",
+  "category": "blister",
+  "name": "XY 3 Pack Blister [Gallade]",
+  "identifiers": {
+    "cardmarketProductId": 586421
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY 3 Pack Blister [Gallade]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97734
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97734/pokemon-xy-base-set-xy-3-pack-blister-gallade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv07-build-battle-box",
+  "region": "international",
+  "set": "sv07",
+  "category": "build_and_battle_box",
+  "name": "Stellar Crown Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 776335
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards; 4 Pokémon TCG: Scarlet & Violet booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557330
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557330/pokemon-sv07-stellar-crown-stellar-crown-build-and-battle-box"
+      ]
+    }
+  ]
+}

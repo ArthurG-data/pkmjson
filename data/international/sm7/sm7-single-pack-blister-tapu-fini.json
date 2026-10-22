@@ -1,0 +1,50 @@
+{
+  "id": "sm7-single-pack-blister-tapu-fini",
+  "region": "international",
+  "set": "sm7",
+  "category": "blister",
+  "name": "Celestial Storm Single Pack Blister [Tapu Fini]",
+  "identifiers": {
+    "cardmarketProductId": 585931
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM92",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 173383,
+        "cardmarketProductId": 359747,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Single Pack Blister [Tapu Fini]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177899
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177899/pokemon-sm-celestial-storm-celestial-storm-single-pack-blister-tapu-fini"
+      ]
+    }
+  ]
+}

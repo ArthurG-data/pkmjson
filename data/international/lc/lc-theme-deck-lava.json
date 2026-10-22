@@ -1,0 +1,27 @@
+{
+  "id": "lc-theme-deck-lava",
+  "region": "international",
+  "set": "lc",
+  "category": "collection_box",
+  "name": "Legendary Collection Theme Deck - \"Lava\"",
+  "identifiers": {
+    "cardmarketProductId": 286571
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Collection Theme Deck - \"Lava\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          450748
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/450748/pokemon-legendary-collection-legendary-collection-theme-deck-lava"
+      ]
+    }
+  ]
+}

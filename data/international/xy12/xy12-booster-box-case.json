@@ -1,0 +1,31 @@
+{
+  "id": "xy12-booster-box-case",
+  "region": "international",
+  "set": "xy12",
+  "category": "case",
+  "name": "XY Evolutions Booster Box Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy12-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Evolutions Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          226363
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/226363/pokemon-xy-evolutions-xy-evolutions-booster-box-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv2p-booster-box",
+  "region": "asia",
+  "set": "SV2P",
+  "category": "booster_box",
+  "name": "Snow Hazard Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 702932
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv2p-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Snow Hazard Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565239
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565239/pokemon-japan-sv2p-snow-hazard-snow-hazard-booster-box"
+      ]
+    }
+  ]
+}

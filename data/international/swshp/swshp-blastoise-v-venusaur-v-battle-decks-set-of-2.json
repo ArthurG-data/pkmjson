@@ -1,0 +1,24 @@
+{
+  "id": "swshp-blastoise-v-venusaur-v-battle-decks-set-of-2",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Blastoise V/Venusaur V Battle Decks [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Blastoise V/Venusaur V Battle Decks [Set of 2]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          239237
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/239237/pokemon-miscellaneous-cards-and-products-blastoise-v-venusaur-v-battle-decks-set-of-2"
+      ]
+    }
+  ]
+}

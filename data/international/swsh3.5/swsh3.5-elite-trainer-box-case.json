@@ -1,0 +1,27 @@
+{
+  "id": "swsh3.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "case",
+  "name": "Champion's Path Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 690876
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247385
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247385/pokemon-champions-path-champions-path-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

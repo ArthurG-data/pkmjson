@@ -1,0 +1,68 @@
+{
+  "id": "swshp-pikachu-v-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Pikachu V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH136",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 251092,
+        "cardmarketProductId": 576735,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Pikachu V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pikachu V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu V Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          260709
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/260709/pokemon-miscellaneous-cards-and-products-pikachu-v-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Pikachu-V",
+      "releaseDate": "2022-03-25",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-pikachu-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Pikachu V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-pikachu-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Pikachu-V",
+      "releaseDate": "2022-03-25",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-pikachu-v"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s3a-booster-pack",
+  "region": "asia",
+  "set": "S3a",
+  "category": "booster_pack",
+  "name": "Legendary Heartbeat Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 480109
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「伝説の鼓動」",
+      "releaseDate": "2020-07-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571834
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571834/pokemon-japan-s3a-legendary-heartbeat-legendary-heartbeat-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E4%BC%9D%E8%AA%AC%E3%81%AE%E9%BC%93%E5%8B%95"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "svp-2-pack-blister-tornadus-thundurus-landorus",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "2 Pack Blister [Tornadus, Thundurus & Landorus]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Code Card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Cards (Tornadus, Thundurus & Landorus).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2 Pack Blister [Tornadus, Thundurus & Landorus]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          634329
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/634329/pokemon-miscellaneous-cards-and-products-2-pack-blister-tornadus-thundurus-and-landorus"
+      ]
+    }
+  ]
+}

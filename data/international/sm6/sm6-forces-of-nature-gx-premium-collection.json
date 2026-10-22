@@ -1,0 +1,40 @@
+{
+  "id": "sm6-forces-of-nature-gx-premium-collection",
+  "region": "international",
+  "set": "sm6",
+  "category": "premium_collection",
+  "name": "Forces of Nature GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collector’s pin and coin featuring Landorus",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card will all three Legendary Pokemon pictured",
+        "count": 1
+      },
+      {
+        "name": "Code card for the online trading card game",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Never-before-seen foil promo card featuring Tornadus-GX,; Never-before seen foil promo card of Thundurus-GX,; 6 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forces of Nature GX Premium Collection",
+      "releaseDate": "2018-07-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          169414
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/169414/pokemon-sm-forbidden-light-forces-of-nature-gx-premium-collection"
+      ]
+    }
+  ]
+}

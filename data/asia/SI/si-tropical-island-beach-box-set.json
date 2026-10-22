@@ -1,0 +1,24 @@
+{
+  "id": "si-tropical-island-beach-box-set",
+  "region": "asia",
+  "set": "SI",
+  "category": "collection_box",
+  "name": "Tropical Island Beach Box Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Exeggutor; Slowking; Wartortle.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Tropical Island Beach Box Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701539
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701539/pokemon-japan-southern-island-tropical-island-beach-box-set"
+      ]
+    }
+  ]
+}

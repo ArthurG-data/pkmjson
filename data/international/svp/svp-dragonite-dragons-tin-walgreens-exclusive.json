@@ -1,0 +1,31 @@
+{
+  "id": "svp-dragonite-dragons-tin-walgreens-exclusive",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Dragonite Dragons Tin (Walgreens Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code Card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1x cosmos holofoil promo of Dragonite.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragonite Dragons Tin (Walgreens Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594414
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594414/pokemon-miscellaneous-cards-and-products-dragonite-dragons-tin-walgreens-exclusive"
+      ]
+    }
+  ]
+}

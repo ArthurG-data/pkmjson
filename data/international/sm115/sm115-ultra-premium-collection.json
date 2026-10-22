@@ -1,0 +1,45 @@
+{
+  "id": "sm115-ultra-premium-collection",
+  "region": "international",
+  "set": "sm115",
+  "category": "premium_collection",
+  "name": "Hidden Fates Ultra-Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 412289
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 15
+      }
+    ],
+    "other": [
+      {
+        "name": "Full-size Pokemon TCG playmat for your next game",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 full-art foil cards: Shiny Rayquaza GX plus special gold versions of Solgaleo GX and Lunala GX; 1 card holder featuring Shiny Rayquaza, to show off your favorite Pokemon TCG card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Ultra-Premium Collection",
+      "releaseDate": "2019-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199466
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199466/pokemon-hidden-fates-hidden-fates-ultra-premium-collection"
+      ]
+    }
+  ]
+}

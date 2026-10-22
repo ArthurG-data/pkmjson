@@ -1,0 +1,68 @@
+{
+  "id": "svp-fall-2024-collector-chest",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Fall 2024 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-123",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 552785,
+        "cardmarketProductId": 765994,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokémon coin featuring Terapagos",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 Pokémon TCG booster packs; 1 promo card featuring Pikachu; 1 promo card featuring Dipplin.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2024 Collector Chest",
+      "releaseDate": "2024-11-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575706/pokemon-miscellaneous-cards-and-products-fall-2024-collector-chest"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (automne 2024)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2024"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (autunno 2024)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-autunno-2024"
+      ]
+    }
+  ]
+}

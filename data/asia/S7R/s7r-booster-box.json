@@ -1,0 +1,34 @@
+{
+  "id": "s7r-booster-box",
+  "region": "asia",
+  "set": "S7R",
+  "category": "booster_box",
+  "name": "Blue Sky Stream Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 568813
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s7r-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Blue Sky Stream Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565343
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565343/pokemon-japan-s7r-blue-sky-stream-blue-sky-stream-booster-box"
+      ]
+    }
+  ]
+}

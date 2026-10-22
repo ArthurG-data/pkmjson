@@ -1,0 +1,50 @@
+{
+  "id": "sm6-theme-deck-tropical-takedown-alolan-exeggutor",
+  "region": "international",
+  "set": "sm6",
+  "category": "theme_deck",
+  "name": "Forbidden Light Theme Deck - \"Tropical Takedown\" [Alolan Exeggutor]",
+  "identifiers": {
+    "cardmarketProductId": 320015
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Playmat/rulesheet",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck, card checklist; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Theme Deck - \"Tropical Takedown\" [Alolan Exeggutor]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164305
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164305/pokemon-sm-forbidden-light-forbidden-light-theme-deck-tropical-takedown-alolan-exeggutor"
+      ]
+    }
+  ]
+}

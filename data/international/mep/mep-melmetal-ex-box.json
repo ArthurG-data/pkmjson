@@ -1,0 +1,35 @@
+{
+  "id": "mep-melmetal-ex-box",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Melmetal ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Melmetal ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Melmetal ex; 1 foil promo card featuring Meltan; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Melmetal ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          662750
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/662750/pokemon-miscellaneous-cards-and-products-melmetal-ex-box"
+      ]
+    }
+  ]
+}

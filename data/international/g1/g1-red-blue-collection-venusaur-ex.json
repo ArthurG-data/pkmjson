@@ -1,0 +1,32 @@
+{
+  "id": "g1-red-blue-collection-venusaur-ex",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Red & Blue Collection [Venusaur EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Red & Blue Collection [Venusaur EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120700
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120700/pokemon-generations-red-and-blue-collection-venusaur-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Rouge & Bleu Florizarre",
+      "releaseDate": "2016-09-17",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Rouge_%26_Bleu_Florizarre-EX"
+      ]
+    }
+  ]
+}

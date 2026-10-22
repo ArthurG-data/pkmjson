@@ -1,0 +1,32 @@
+{
+  "id": "xy4-mega-diancie-ex-premium-collection",
+  "region": "international",
+  "set": "xy4",
+  "category": "premium_collection",
+  "name": "Mega Diancie EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Diancie EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97793
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97793/pokemon-xy-phantom-forces-mega-diancie-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Diancie",
+      "releaseDate": "2016-10-01",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Diancie-EX"
+      ]
+    }
+  ]
+}

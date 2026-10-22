@@ -1,0 +1,24 @@
+{
+  "id": "base1-theme-deck-zap-revised-reprint-run",
+  "region": "international",
+  "set": "base1",
+  "category": "theme_deck",
+  "name": "Base Set Theme Deck - \"Zap!\" (Revised Base Set Reprint Run)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set Theme Deck - \"Zap!\" (Revised Base Set Reprint Run)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          136402
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/136402/pokemon-base-set-base-set-theme-deck-zap-revised-base-set-reprint-run"
+      ]
+    }
+  ]
+}

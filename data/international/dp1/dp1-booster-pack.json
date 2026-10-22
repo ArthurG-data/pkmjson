@@ -1,0 +1,28 @@
+{
+  "id": "dp1-booster-pack",
+  "region": "international",
+  "set": "dp1",
+  "category": "booster_pack",
+  "name": "Diamond and Pearl Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271833
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Diamond & Pearl",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98525
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98525/pokemon-diamond-and-pearl-diamond-and-pearl-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/diamond-amp-pearl"
+      ]
+    }
+  ]
+}

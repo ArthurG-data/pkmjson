@@ -1,0 +1,40 @@
+{
+  "id": "xy11-3-pack-blister-azelf",
+  "region": "international",
+  "set": "xy11",
+  "category": "blister",
+  "name": "Steam Siege 3 Pack Blister [Azelf]",
+  "identifiers": {
+    "cardmarketProductId": 586339
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy11-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Azelf.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege 3 Pack Blister [Azelf]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120704
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120704/pokemon-xy-steam-siege-steam-siege-3-pack-blister-azelf"
+      ]
+    }
+  ]
+}

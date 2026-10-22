@@ -1,0 +1,24 @@
+{
+  "id": "swsh11-pokemon-center-elite-trainer-box-case-exclusive",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Lost Origin Pokemon Center Elite Trainer Box Case (Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Pokemon Center Elite Trainer Box Case (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          652759
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/652759/pokemon-swsh11-lost-origin-lost-origin-pokemon-center-elite-trainer-box-case-exclusive"
+      ]
+    }
+  ]
+}

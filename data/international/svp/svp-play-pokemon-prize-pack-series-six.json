@@ -1,0 +1,24 @@
+{
+  "id": "svp-play-pokemon-prize-pack-series-six",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Play! Pokemon Prize Pack Series Six",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Play! Pokemon Prize Pack Series Six",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          639713
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/639713/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-six"
+      ]
+    }
+  ]
+}

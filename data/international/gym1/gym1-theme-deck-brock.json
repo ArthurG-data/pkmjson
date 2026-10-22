@@ -1,0 +1,27 @@
+{
+  "id": "gym1-theme-deck-brock",
+  "region": "international",
+  "set": "gym1",
+  "category": "theme_deck",
+  "name": "Gym Heroes Theme Deck - \"Brock\"",
+  "identifiers": {
+    "cardmarketProductId": 286504
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Heroes Theme Deck - \"Brock\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234502
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234502/pokemon-gym-heroes-gym-heroes-theme-deck-brock"
+      ]
+    }
+  ]
+}

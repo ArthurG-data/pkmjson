@@ -1,0 +1,67 @@
+{
+  "id": "swsh10.5-pin-collection-bulbasaur",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "collection_box",
+  "name": "Pokemon GO Pin Collection [Bulbasaur]",
+  "identifiers": {
+    "cardmarketProductId": 664333
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring Bulbasaur",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Bulbasaur.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Pin Collection [Bulbasaur]",
+      "releaseDate": "2022-09-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          275825
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/275825/pokemon-pokemon-go-pokemon-go-pin-collection-bulbasaur"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Pokémon GO Bulbizarre",
+      "releaseDate": "2022-10-28",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Pok%C3%A9mon_GO_Bulbizarre"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Pokémon GO Pin Collection",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-pokemon-go"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con pin de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-pin-de-pokemon-go"
+      ]
+    }
+  ]
+}

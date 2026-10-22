@@ -1,0 +1,48 @@
+{
+  "id": "xy9-triple-power-tin-mewtwo-ex",
+  "region": "international",
+  "set": "xy9",
+  "category": "tin",
+  "name": "Triple Power Tin [Mewtwo EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Power Tin [Mewtwo EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117698
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117698/pokemon-xy-breakpoint-triple-power-tin-mewtwo-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Triple Puissance Mewtwo",
+      "releaseDate": "2016-03-12",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Triple_Puissance_Mewtwo-EX"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Triple Poder",
+      "releaseDate": "2016-03-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-triple-poder"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatole da collezione Triplo Poteredel GCC Pokémon",
+      "releaseDate": "2016-03-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-triplo-potere"
+      ]
+    }
+  ]
+}

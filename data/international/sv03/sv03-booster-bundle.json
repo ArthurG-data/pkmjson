@@ -1,0 +1,35 @@
+{
+  "id": "sv03-booster-bundle",
+  "region": "international",
+  "set": "sv03",
+  "category": "booster_bundle",
+  "name": "Obsidian Flames Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 715781
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Booster Bundle",
+      "releaseDate": "2023-08-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501263
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501263/pokemon-sv03-obsidian-flames-obsidian-flames-booster-bundle"
+      ]
+    }
+  ]
+}

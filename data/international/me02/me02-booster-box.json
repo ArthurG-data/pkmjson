@@ -1,0 +1,35 @@
+{
+  "id": "me02-booster-box",
+  "region": "international",
+  "set": "me02",
+  "category": "booster_box",
+  "name": "Phantasmal Flames Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 846746
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Booster Box",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654137
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654137/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ex5-hidden-legends-theme-deck-forest-guardian-dark-celebi",
+  "region": "international",
+  "set": "ex5",
+  "category": "theme_deck",
+  "name": "Hidden Legends Theme Deck - \"Forest Guardian\" [Dark Celebi]",
+  "identifiers": {
+    "cardmarketProductId": 286521
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Legends Theme Deck - \"Forest Guardian\" [Dark Celebi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          215765
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/215765/pokemon-ex-hidden-legends-hidden-legends-theme-deck-forest-guardian-dark-celebi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sv02-single-pack-blister-smoliv",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved Single Pack Blister [Smoliv]",
+  "identifiers": {
+    "cardmarketProductId": 703168
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-023",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 500833,
+        "cardmarketProductId": 703191,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Single Pack Blister [Smoliv]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493999
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493999/pokemon-sv02-paldea-evolved-paldea-evolved-single-pack-blister-smoliv"
+      ]
+    }
+  ]
+}

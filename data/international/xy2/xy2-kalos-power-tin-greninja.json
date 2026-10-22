@@ -1,0 +1,32 @@
+{
+  "id": "xy2-kalos-power-tin-greninja",
+  "region": "international",
+  "set": "xy2",
+  "category": "tin",
+  "name": "Kalos Power Tin [Greninja]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Power Tin [Greninja]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91607
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91607/pokemon-xy-flashfire-kalos-power-tin-greninja"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance de Kalos Amphinobi",
+      "releaseDate": "2014-09-03",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_de_Kalos_Amphinobi-EX"
+      ]
+    }
+  ]
+}

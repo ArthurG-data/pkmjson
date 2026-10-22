@@ -1,0 +1,50 @@
+{
+  "id": "swsh12-3-pack-blister-togetic",
+  "region": "international",
+  "set": "swsh12",
+  "category": "blister",
+  "name": "Silver Tempest 3 Pack Blister [Togetic]",
+  "identifiers": {
+    "cardmarketProductId": 672337
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH276",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 454225,
+        "cardmarketProductId": 684388,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest 3 Pack Blister [Togetic]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          283393
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/283393/pokemon-swsh12-silver-tempest-silver-tempest-3-pack-blister-togetic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cel25-mini-tin-unova",
+  "region": "international",
+  "set": "cel25",
+  "category": "tin",
+  "name": "Celebrations Mini Tin [Unova]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Anniversary-themed coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card showing the art from the Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: One additional Pokemon TCG booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Mini Tin [Unova]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242817
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242817/pokemon-celebrations-celebrations-mini-tin-unova"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini-boîte Unys",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Mini-Tin-Box Einall",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colecciona las ocho minilatas Teselia",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Miniscatola da collezione Unima",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "sv10.5b-unova-heavy-hitters-premium-collection",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "premium_collection",
+  "name": "Unova Heavy Hitters Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5b-booster-pack",
+        "count": 6
+      },
+      {
+        "product": "sv10.5w-booster-pack",
+        "count": 6
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-208",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 646169,
+        "cardmarketProductId": 836653,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Zekrom ex; 1 promo card featuring Reshiram ex; 1 promo card featuring Zoroark; 1 oversize foil promo card featuring Kyurem ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unova Heavy Hitters Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668632
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668632/pokemon-sv-black-bolt-unova-heavy-hitters-premium-collection"
+      ]
+    }
+  ]
+}

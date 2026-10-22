@@ -1,0 +1,24 @@
+{
+  "id": "mep-mega-charizard-x-ex-ultra-premium-collection-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Mega Charizard X ex Ultra Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Charizard X ex Ultra Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          664895
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/664895/pokemon-miscellaneous-cards-and-products-mega-charizard-x-ex-ultra-premium-collection-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "si-tropical-island-jungle-box-set",
+  "region": "asia",
+  "set": "SI",
+  "category": "collection_box",
+  "name": "Tropical Island Jungle Box Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Vileplume; Lickitung; Primeape.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Tropical Island Jungle Box Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701538
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701538/pokemon-japan-southern-island-tropical-island-jungle-box-set"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "swshp-pokemon-tcg-trainer-s-toolkit-2020",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pokemon TCG: Trainer's Toolkit (2020)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special versions of Pokégear 3.0, Pokémon Communication, and Reset Stamp with all-new art",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves to protect your deck",
+        "count": 65
+      },
+      {
+        "name": "Deck Builder's Guide",
+        "count": 1
+      },
+      {
+        "name": "Complete Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Set of 7 tournament-legal dice",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Dedenne-GX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Trainer's Toolkit (2020)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214360
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214360/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2020"
+      ]
+    }
+  ]
+}

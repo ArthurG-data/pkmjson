@@ -1,0 +1,38 @@
+{
+  "id": "pl3-theme-deck-overflow",
+  "region": "international",
+  "set": "pl3",
+  "category": "theme_deck",
+  "name": "Supreme Victors Theme Deck - \"Overflow\"",
+  "identifiers": {
+    "cardmarketProductId": 286600
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Supreme Victors Theme Deck - \"Overflow\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          645310
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/645310/pokemon-supreme-victors-supreme-victors-theme-deck-overflow"
+      ]
+    }
+  ]
+}

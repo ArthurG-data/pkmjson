@@ -1,0 +1,78 @@
+{
+  "id": "sm6-dawn-wings-necrozma-premium-collection",
+  "region": "international",
+  "set": "sm6",
+  "category": "premium_collection",
+  "name": "Dawn Wings Necrozma Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Jumbo foil Dawn Wings Necrozma-GX",
+        "count": 1
+      },
+      {
+        "name": "Figurine of Dawn Wings Necrozma",
+        "count": 1
+      },
+      {
+        "name": "Pin of Dawn Wings Necrozma",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Never-before-seen foil promo cards of Dawn Wings Necrozma (SM123) and Dusk Mane Necrozma (SM124).; Five booster packs; Code Card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dawn Wings Necrozma Premium Collection",
+      "releaseDate": "2018-05-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164314
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164314/pokemon-sm-forbidden-light-dawn-wings-necrozma-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine Necrozma Ailes de l'Aurore",
+      "releaseDate": "2018-09-19",
+      "contents": {
+        "other": [
+          {
+            "name": "Jumbo foil Dawn Wings Necrozma-GX",
+            "count": 1
+          },
+          {
+            "name": "Figurine of Dawn Wings Necrozma",
+            "count": 1
+          },
+          {
+            "name": "Pin of Dawn Wings Necrozma",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm7-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_figurine_Necrozma_Ailes_de_l%27Aurore"
+      ]
+    }
+  ]
+}

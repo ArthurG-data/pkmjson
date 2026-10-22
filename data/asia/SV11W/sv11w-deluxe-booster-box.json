@@ -1,0 +1,31 @@
+{
+  "id": "sv11w-deluxe-booster-box",
+  "region": "asia",
+  "set": "SV11W",
+  "category": "booster_box",
+  "name": "White Flare Deluxe Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv11w-deluxe-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "White Flare Deluxe Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          637492
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/637492/pokemon-japan-sv11w-white-flare-white-flare-deluxe-booster-box"
+      ]
+    }
+  ]
+}

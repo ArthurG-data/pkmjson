@@ -1,0 +1,31 @@
+{
+  "id": "mep-pokemon-poke-ball-tin-repeat-ball",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Repeat Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Repeat Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668648
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668648/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-repeat-ball"
+      ]
+    }
+  ]
+}

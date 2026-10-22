@@ -1,0 +1,28 @@
+{
+  "id": "ex5-hidden-legends-booster-pack",
+  "region": "international",
+  "set": "ex5",
+  "category": "booster_pack",
+  "name": "Hidden Legends Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271845
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Hidden Legends",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98595
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98595/pokemon-ex-hidden-legends-hidden-legends-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-hidden-legends"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sm1-elite-trainer-box-solgaleo",
+  "region": "international",
+  "set": "sm1",
+  "category": "elite_trainer_box",
+  "name": "Sun & Moon Elite Trainer Box [Solgaleo]",
+  "identifiers": {
+    "cardmarketProductId": 294123
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Elite Trainer Box [Solgaleo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          126089
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/126089/pokemon-sm-base-set-sun-and-moon-elite-trainer-box-solgaleo"
+      ]
+    }
+  ]
+}

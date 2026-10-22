@@ -1,0 +1,38 @@
+{
+  "id": "sm2-theme-deck-hidden-moon-lunala",
+  "region": "international",
+  "set": "sm2",
+  "category": "theme_deck",
+  "name": "Guardians Rising Theme Deck - \"Hidden Moon\" [Lunala]",
+  "identifiers": {
+    "cardmarketProductId": 296948
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Theme Deck - \"Hidden Moon\" [Lunala]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129891
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129891/pokemon-sm-guardians-rising-guardians-rising-theme-deck-hidden-moon-lunala"
+      ]
+    }
+  ]
+}

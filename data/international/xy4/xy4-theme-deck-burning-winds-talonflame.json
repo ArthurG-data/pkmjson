@@ -1,0 +1,38 @@
+{
+  "id": "xy4-theme-deck-burning-winds-talonflame",
+  "region": "international",
+  "set": "xy4",
+  "category": "theme_deck",
+  "name": "Phantom Forces Theme Deck - \"Burning Winds\" [Talonflame]",
+  "identifiers": {
+    "cardmarketProductId": 286623
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Theme Deck - \"Burning Winds\" [Talonflame]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          94624
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/94624/pokemon-xy-phantom-forces-phantom-forces-theme-deck-burning-winds-talonflame"
+      ]
+    }
+  ]
+}

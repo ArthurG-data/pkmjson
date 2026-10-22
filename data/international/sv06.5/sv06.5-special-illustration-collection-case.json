@@ -1,0 +1,33 @@
+{
+  "id": "sv06.5-special-illustration-collection-case",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "case",
+  "name": "Shrouded Fable Special Illustration Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable Special Illustration Collection Case",
+      "releaseDate": "2024-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553075
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553075/pokemon-sv-shrouded-fable-shrouded-fable-special-illustration-collection-case"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Illustration spéciale Écarlate et Violet Fable Nébuleuse Hyporoi",
+      "releaseDate": "2024-08-02",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Illustration_sp%C3%A9ciale_%C3%89carlate_et_Violet_Fable_N%C3%A9buleuse_Hyporoi-ex"
+      ]
+    }
+  ]
+}

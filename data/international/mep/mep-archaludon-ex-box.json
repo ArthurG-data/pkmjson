@@ -1,0 +1,35 @@
+{
+  "id": "mep-archaludon-ex-box",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Archaludon ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Archaludon ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Archaludon ex; 1 foil promo card featuring Duraludon; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Archaludon ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656955
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656955/pokemon-miscellaneous-cards-and-products-archaludon-ex-box"
+      ]
+    }
+  ]
+}

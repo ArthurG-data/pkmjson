@@ -1,0 +1,43 @@
+{
+  "id": "swshp-jolteon-vmax-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Jolteon VMAX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Etched oversize card featuring Jolteon VMAX, suitable for display",
+        "count": 1
+      },
+      {
+        "name": "Colorful pin featuring Jolteon",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched card featuring Jolteon VMAX; 1 full-art card featuring Jolteon V; 6 Pokémon TCG booster packs (packs vary per product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jolteon VMAX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          249693
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/249693/pokemon-miscellaneous-cards-and-products-jolteon-vmax-premium-collection"
+      ]
+    }
+  ]
+}

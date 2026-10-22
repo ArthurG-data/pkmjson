@@ -1,0 +1,27 @@
+{
+  "id": "lc-theme-deck-turmoil",
+  "region": "international",
+  "set": "lc",
+  "category": "collection_box",
+  "name": "Legendary Collection Theme Deck - \"Turmoil\"",
+  "identifiers": {
+    "cardmarketProductId": 286570
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Collection Theme Deck - \"Turmoil\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451094
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451094/pokemon-legendary-collection-legendary-collection-theme-deck-turmoil"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "svp-knock-out-collection-iron-jugulis",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Iron Jugulis]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG Live code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card Iron Jugulis; 2 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Iron Jugulis]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          603323
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/603323/pokemon-miscellaneous-cards-and-products-knock-out-collection-iron-jugulis"
+      ]
+    }
+  ]
+}

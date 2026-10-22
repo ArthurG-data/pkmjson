@@ -1,0 +1,28 @@
+{
+  "id": "sv10.5b-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "case",
+  "name": "Black Bolt Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 824090
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black Bolt Elite Trainer Box Case",
+      "releaseDate": "2025-07-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630690
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630690/pokemon-sv-black-bolt-black-bolt-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

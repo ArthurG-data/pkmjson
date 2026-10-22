@@ -1,0 +1,32 @@
+{
+  "id": "xy9-shiny-mega-gyarados-collection",
+  "region": "international",
+  "set": "xy9",
+  "category": "collection_box",
+  "name": "Shiny Mega Gyarados Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Mega Gyarados Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117279
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117279/pokemon-xy-breakpoint-shiny-mega-gyarados-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Léviator chromatique",
+      "releaseDate": "2016-10-14",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-L%C3%A9viator_chromatique"
+      ]
+    }
+  ]
+}

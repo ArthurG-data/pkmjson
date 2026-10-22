@@ -1,0 +1,24 @@
+{
+  "id": "bw10-sleeved-booster-pack",
+  "region": "international",
+  "set": "bw10",
+  "category": "sleeved_booster_pack",
+  "name": "Plasma Blast Sleeved Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Plasma Blast Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701595
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701595/pokemon-plasma-blast-plasma-blast-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

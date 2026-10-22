@@ -1,0 +1,50 @@
+{
+  "id": "sv06-single-pack-blister-pupitar",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade Single Pack Blister [Pupitar]",
+  "identifiers": {
+    "cardmarketProductId": 761225
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-120",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 554189,
+        "cardmarketProductId": 769420,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Single Pack Blister [Pupitar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544177
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544177/pokemon-sv06-twilight-masquerade-twilight-masquerade-single-pack-blister-pupitar"
+      ]
+    }
+  ]
+}

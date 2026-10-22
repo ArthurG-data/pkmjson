@@ -1,0 +1,27 @@
+{
+  "id": "sv09-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv09",
+  "category": "case",
+  "name": "Journey Together Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 805595
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          614450
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/614450/pokemon-sv09-journey-together-journey-together-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

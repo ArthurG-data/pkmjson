@@ -1,0 +1,34 @@
+{
+  "id": "sm12a-booster-box",
+  "region": "asia",
+  "set": "SM12a",
+  "category": "booster_box",
+  "name": "TAG TEAM GX: Tag All Stars Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 544736
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12a-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "TAG TEAM GX: Tag All Stars Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576964
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576964/pokemon-japan-sm12a-tag-team-gx-tag-all-stars-tag-team-gx-tag-all-stars-booster-box"
+      ]
+    }
+  ]
+}

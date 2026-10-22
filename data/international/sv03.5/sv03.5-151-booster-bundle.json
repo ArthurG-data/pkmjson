@@ -1,0 +1,34 @@
+{
+  "id": "sv03.5-151-booster-bundle",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "booster_bundle",
+  "name": "151 Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 719695
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Booster Bundle",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502000
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502000/pokemon-sv-scarlet-and-violet-151-151-booster-bundle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "svp-2024-world-championship-deck-fernando-cifuentes-crushing-thorn",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "2024 World Championship Deck: Fernando Cifuentes (Crushing Thorn)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "World Championships booklet",
+        "count": 2024
+      },
+      {
+        "name": "World Championships pin",
+        "count": 2024
+      },
+      {
+        "name": "World Championships coin",
+        "count": 2024
+      },
+      {
+        "name": "World Championships deck box",
+        "count": 2024
+      },
+      {
+        "name": "Playmat and poster",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-card World Championships Deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2024 World Championship Deck: Fernando Cifuentes (Crushing Thorn)",
+      "releaseDate": "2025-05-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616299
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616299/pokemon-world-championship-decks-2024-world-championship-deck-fernando-cifuentes-crushing-thorn"
+      ]
+    }
+  ]
+}

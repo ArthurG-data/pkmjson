@@ -1,0 +1,38 @@
+{
+  "id": "ex6-firered-leafgreen-theme-deck-leafgreen-ivysaur",
+  "region": "international",
+  "set": "ex6",
+  "category": "theme_deck",
+  "name": "FireRed & LeafGreen Theme Deck - \"LeafGreen\" [Ivysaur]",
+  "identifiers": {
+    "cardmarketProductId": 286523
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "FireRed & LeafGreen Theme Deck - \"LeafGreen\" [Ivysaur]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488299
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488299/pokemon-ex-firered-and-leafgreen-firered-and-leafgreen-theme-deck-leafgreen-ivysaur"
+      ]
+    }
+  ]
+}

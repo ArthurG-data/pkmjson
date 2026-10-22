@@ -1,0 +1,61 @@
+{
+  "id": "sm115-poke-ball-collection-shiny-zoroark",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Poke Ball Collection [Shiny Zoroark]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil cards featuring Shiny Zoroark GX; A Great Ball big enough to hold a stack of Pokemon TCG cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Poke Ball Collection [Shiny Zoroark]",
+      "releaseDate": "2019-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198523
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198523/pokemon-hidden-fates-hidden-fates-poke-ball-collection-shiny-zoroark"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Super Ball Destinées Occultes Zoroark-GX chromatique",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Super_Ball_Destin%C3%A9es_Occultes_Zoroark-GX_chromatique"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Pokéball-Kollektion Verborgenes Schicksal – Schillerndes Zoroark-GX/ Schillerndes Metagross-GX",
+      "releaseDate": "2019-10-04",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pokeball-kollektion-verborgenes-schicksal-schillerndes-zoroark-gx-schillerndes-metagross-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezioni Poké Ball Zoroark-GX cromatico e Metagross-GX cromatico dell’espansione Destino Sfuggente",
+      "releaseDate": "2019-10-04",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-poke-ball-zoroark-gx-cromatico-e-metagross-gx-cromatico"
+      ]
+    }
+  ]
+}

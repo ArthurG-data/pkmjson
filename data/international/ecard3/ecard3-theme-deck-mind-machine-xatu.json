@@ -1,0 +1,38 @@
+{
+  "id": "ecard3-theme-deck-mind-machine-xatu",
+  "region": "international",
+  "set": "ecard3",
+  "category": "theme_deck",
+  "name": "Skyridge Theme Deck - \"Mind Machine\" [Xatu]",
+  "identifiers": {
+    "cardmarketProductId": 286577
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Skyridge Theme Deck - \"Mind Machine\" [Xatu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232868
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232868/pokemon-skyridge-skyridge-theme-deck-mind-machine-xatu"
+      ]
+    }
+  ]
+}

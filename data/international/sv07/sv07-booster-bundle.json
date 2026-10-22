@@ -1,0 +1,35 @@
+{
+  "id": "sv07-booster-bundle",
+  "region": "international",
+  "set": "sv07",
+  "category": "booster_bundle",
+  "name": "Stellar Crown Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 776329
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Booster Bundle",
+      "releaseDate": "2024-09-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557345
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557345/pokemon-sv07-stellar-crown-stellar-crown-booster-bundle"
+      ]
+    }
+  ]
+}

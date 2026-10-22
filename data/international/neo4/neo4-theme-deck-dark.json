@@ -1,0 +1,38 @@
+{
+  "id": "neo4-theme-deck-dark",
+  "region": "international",
+  "set": "neo4",
+  "category": "theme_deck",
+  "name": "Neo Destiny Theme Deck - \"Dark\"",
+  "identifiers": {
+    "cardmarketProductId": 286569
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Destiny Theme Deck - \"Dark\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232872
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232872/pokemon-neo-destiny-neo-destiny-theme-deck-dark"
+      ]
+    }
+  ]
+}

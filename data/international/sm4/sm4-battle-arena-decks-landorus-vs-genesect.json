@@ -1,0 +1,55 @@
+{
+  "id": "sm4-battle-arena-decks-landorus-vs-genesect",
+  "region": "international",
+  "set": "sm4",
+  "category": "battle_deck",
+  "name": "Battle Arena Decks: Landorus vs. Genesect",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special versions of Delinquent and Professor’s Letter with all-new art",
+        "count": 1
+      },
+      {
+        "name": "Metallic coins",
+        "count": 2
+      },
+      {
+        "name": "Sets of damage counters",
+        "count": 2
+      },
+      {
+        "name": "-player playmat and rulesheet",
+        "count": 2
+      },
+      {
+        "name": "Code card to play these decks in the Pokemon Trading Card Game Online",
+        "count": 1
+      },
+      {
+        "name": "Deck boxes",
+        "count": 2
+      },
+      {
+        "name": "Quick Guide to unlock the powerful strategies within",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 foil cards featuring Landorus-EX or Genesect-EX; 8 foil basic Energy cards: 4 each of two types; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Arena Decks: Landorus vs. Genesect",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          158064
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/158064/pokemon-sm-crimson-invasion-battle-arena-decks-landorus-vs-genesect"
+      ]
+    }
+  ]
+}

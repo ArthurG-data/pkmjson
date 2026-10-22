@@ -1,0 +1,68 @@
+{
+  "id": "svp-charizard-ex-super-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Charizard ex Super-Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card-display figure featuring Charizard",
+        "count": 1
+      },
+      {
+        "name": "Basic Energy. (Cards vary by pack. Packs vary by product.)",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Charizard ex; 1 promo card featuring Charmander; 1 promo card featuring Charmeleon; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Charizard ex Super-Premium Collection",
+      "releaseDate": "2024-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          560625
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/560625/pokemon-miscellaneous-cards-and-products-charizard-ex-super-premium-collection"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Super-Premium-Kollektion Glurak‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/super-premium-kollektion-glurak-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección superprémium Charizard ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-superpremium-charizard-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Super-Premium Dracaufeu‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-super-premium-dracaufeu-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione super premium Charizard‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-super-premium-charizard-ex"
+      ]
+    }
+  ]
+}

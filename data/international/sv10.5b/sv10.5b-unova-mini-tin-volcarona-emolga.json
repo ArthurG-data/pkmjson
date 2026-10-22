@@ -1,0 +1,70 @@
+{
+  "id": "sv10.5b-unova-mini-tin-volcarona-emolga",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "tin",
+  "name": "Unova Mini Tin [Volcarona & Emolga]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5b-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Art card matching the tin",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unova Mini Tin [Volcarona & Emolga]",
+      "releaseDate": "2025-07-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630441
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630441/pokemon-sv-black-bolt-unova-mini-tin-volcarona-and-emolga"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini-boîte Unys",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Mini-Tin-Box Einall",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colecciona las ocho minilatas Teselia",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Miniscatola da collezione Unima",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"
+      ]
+    }
+  ]
+}

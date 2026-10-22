@@ -1,0 +1,36 @@
+{
+  "id": "swshp-mimikyu-ex-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Mimikyu ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Mimikyu ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mimikyu ex; 1 foil card featuring Greavard; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mimikyu ex Box",
+      "releaseDate": "2023-03-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475802
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475802/pokemon-miscellaneous-cards-and-products-mimikyu-ex-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "swsh9-glaceon-vstar-special-collection",
+  "region": "international",
+  "set": "swsh9",
+  "category": "collection_box",
+  "name": "Glaceon VSTAR Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH196",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 262571,
+        "cardmarketProductId": 604998,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Etched oversize card featuring Glaceon VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Glaceon VSTAR; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Glaceon VSTAR Special Collection",
+      "releaseDate": "2022-01-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256146
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256146/pokemon-swsh09-brilliant-stars-glaceon-vstar-special-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "svp-paradox-fury-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Paradox Fury Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Promo Card (3 in total ); Oversize Promo Card; Magnetic Card Holder w/ base; Code Card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Fury Premium Collection",
+      "releaseDate": "2024-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575185
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575185/pokemon-miscellaneous-cards-and-products-paradox-fury-premium-collection"
+      ]
+    }
+  ]
+}

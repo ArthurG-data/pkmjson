@@ -1,0 +1,28 @@
+{
+  "id": "ex10-unseen-forces-booster-pack",
+  "region": "international",
+  "set": "ex10",
+  "category": "booster_pack",
+  "name": "Unseen Forces Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271870
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Unseen Forces",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98577
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98577/pokemon-ex-unseen-forces-unseen-forces-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-unseen-forces"
+      ]
+    }
+  ]
+}

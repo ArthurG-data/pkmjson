@@ -1,0 +1,24 @@
+{
+  "id": "bw1-new-legends-tin-zekrom",
+  "region": "international",
+  "set": "bw1",
+  "category": "tin",
+  "name": "New Legends Tin [Zekrom]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "New Legends Tin [Zekrom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98616
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98616/pokemon-black-and-white-new-legends-tin-zekrom"
+      ]
+    }
+  ]
+}

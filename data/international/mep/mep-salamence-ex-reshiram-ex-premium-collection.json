@@ -1,0 +1,32 @@
+{
+  "id": "mep-salamence-ex-reshiram-ex-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Salamence ex & Reshiram ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Salamence ex",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Salamence ex; 1 foil promo card featuring Reshiram ex; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Salamence ex & Reshiram ex Premium Collection",
+      "releaseDate": "2025-10-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653899
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653899/pokemon-miscellaneous-cards-and-products-salamence-ex-and-reshiram-ex-premium-collection"
+      ]
+    }
+  ]
+}

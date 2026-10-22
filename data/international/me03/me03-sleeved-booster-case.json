@@ -1,0 +1,35 @@
+{
+  "id": "me03-sleeved-booster-case",
+  "region": "international",
+  "set": "me03",
+  "category": "case",
+  "name": "Perfect Order Sleeved Booster Case",
+  "identifiers": {
+    "cardmarketProductId": 865395
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me03-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order Sleeved Booster Case",
+      "releaseDate": "2026-03-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672411
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672411/pokemon-me03-perfect-order-perfect-order-sleeved-booster-case"
+      ]
+    }
+  ]
+}

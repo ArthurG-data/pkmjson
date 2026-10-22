@@ -1,0 +1,24 @@
+{
+  "id": "ex16-single-blister-pack",
+  "region": "international",
+  "set": "ex16",
+  "category": "blister",
+  "name": "EX Power Keepers Single Blister Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 9 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Power Keepers Single Blister Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616213
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616213/pokemon-ex-power-keepers-ex-power-keepers-single-blister-pack"
+      ]
+    }
+  ]
+}

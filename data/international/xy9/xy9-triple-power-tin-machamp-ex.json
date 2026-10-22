@@ -1,0 +1,48 @@
+{
+  "id": "xy9-triple-power-tin-machamp-ex",
+  "region": "international",
+  "set": "xy9",
+  "category": "tin",
+  "name": "Triple Power Tin [Machamp EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Power Tin [Machamp EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117699
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117699/pokemon-xy-breakpoint-triple-power-tin-machamp-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Triple Puissance Mackogneur",
+      "releaseDate": "2016-03-12",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Triple_Puissance_Mackogneur-EX"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Triple Poder",
+      "releaseDate": "2016-03-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-triple-poder"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatole da collezione Triplo Poteredel GCC Pokémon",
+      "releaseDate": "2016-03-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-triplo-potere"
+      ]
+    }
+  ]
+}

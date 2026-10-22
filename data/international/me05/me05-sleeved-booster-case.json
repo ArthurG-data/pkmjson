@@ -1,0 +1,35 @@
+{
+  "id": "me05-sleeved-booster-case",
+  "region": "international",
+  "set": "me05",
+  "category": "case",
+  "name": "Pitch Black Sleeved Booster Case",
+  "identifiers": {
+    "cardmarketProductId": 885527
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me05-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Sleeved Booster Case",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692956
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692956/pokemon-me05-pitch-black-pitch-black-sleeved-booster-case"
+      ]
+    }
+  ]
+}

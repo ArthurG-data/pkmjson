@@ -1,0 +1,42 @@
+{
+  "id": "sm5-necrozma-prism-tin-dawn-wings-necrozma-gx",
+  "region": "international",
+  "set": "sm5",
+  "category": "tin",
+  "name": "Necrozma Prism Tin [Dawn Wings Necrozma GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM101",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 162460,
+        "cardmarketProductId": 321163,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Necrozma Prism Tin [Dawn Wings Necrozma GX]",
+      "releaseDate": "2018-03-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          162046
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/162046/pokemon-sm-ultra-prism-necrozma-prism-tin-dawn-wings-necrozma-gx"
+      ]
+    }
+  ]
+}

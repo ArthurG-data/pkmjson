@@ -1,0 +1,79 @@
+{
+  "id": "swshp-pokemon-tcg-battle-academy",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pokemon TCG: Battle Academy",
+  "identifiers": {
+    "cardmarketProductId": 466009
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Tutorial guides to play right away",
+        "count": 2
+      },
+      {
+        "name": "Deck boxes to keep the cards organized",
+        "count": 3
+      },
+      {
+        "name": "Rulebook",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 complete Pokémon TCG decks (60 cards each); a powerful special Pokémon: Charizard GX, Raichu GX, or Mewtwo GX; 1 two-player game board.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Battle Academy",
+      "releaseDate": "2020-07-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218626
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218626/pokemon-battle-academy-pokemon-tcg-battle-academy"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Académie de Combat du Jeu de Cartes à Collectionner Pokémon",
+      "releaseDate": "2020-07-31",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/academie-de-combat"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Accademia Lotta del Gioco di Carte Collezionabili Pokémon",
+      "releaseDate": "2020-07-31",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/accademia-lotta-del-gioco-di-carte-collezionabili-pokemon"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kampfakademie",
+      "releaseDate": "2020-09-04",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfakademie"
+      ]
+    }
+  ]
+}

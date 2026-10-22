@@ -1,0 +1,46 @@
+{
+  "id": "sm11-power-partnership-tin-mewtwo-mew-gx",
+  "region": "international",
+  "set": "sm11",
+  "category": "tin",
+  "name": "Power Partnership Tin [Mewtwo & Mew GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM191",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 197856,
+        "cardmarketProductId": 397954,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Metal TAG TEAM GX marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Power Partnership Tin [Mewtwo & Mew GX]",
+      "releaseDate": "2019-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          194735
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/194735/pokemon-sm-unified-minds-power-partnership-tin-mewtwo-and-mew-gx"
+      ]
+    }
+  ]
+}

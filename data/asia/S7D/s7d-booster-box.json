@@ -1,0 +1,31 @@
+{
+  "id": "s7d-booster-box",
+  "region": "asia",
+  "set": "S7D",
+  "category": "booster_box",
+  "name": "Skyscraping Perfection Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s7d-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Skyscraping Perfection Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565344
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565344/pokemon-japan-s7d-skyscraping-perfection-skyscraping-perfection-booster-box"
+      ]
+    }
+  ]
+}

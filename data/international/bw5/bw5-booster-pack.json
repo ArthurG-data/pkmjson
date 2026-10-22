@@ -1,0 +1,36 @@
+{
+  "id": "bw5-booster-pack",
+  "region": "international",
+  "set": "bw5",
+  "category": "booster_pack",
+  "name": "Dark Explorers Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271826
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White—Dark Explorers",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98521
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98521/pokemon-dark-explorers-dark-explorers-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-dark-explorers"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "JCC Pokémon : Noir & Blanc – Explorateurs Obscurs",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-explorateurs-obscurs"
+      ]
+    }
+  ]
+}

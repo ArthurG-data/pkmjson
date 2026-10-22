@@ -1,0 +1,38 @@
+{
+  "id": "ex3-dragon-theme-deck-firefang-salamence",
+  "region": "international",
+  "set": "ex3",
+  "category": "theme_deck",
+  "name": "Dragon Theme Deck - \"FireFang\" [Salamence]",
+  "identifiers": {
+    "cardmarketProductId": 286517
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Theme Deck - \"FireFang\" [Salamence]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488300
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488300/pokemon-ex-dragon-dragon-theme-deck-firefang-salamence"
+      ]
+    }
+  ]
+}

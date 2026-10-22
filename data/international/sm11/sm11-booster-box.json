@@ -1,0 +1,35 @@
+{
+  "id": "sm11-booster-box",
+  "region": "international",
+  "set": "sm11",
+  "category": "booster_box",
+  "name": "Unified Minds Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 377487
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Booster Box",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191882
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191882/pokemon-sm-unified-minds-unified-minds-booster-box"
+      ]
+    }
+  ]
+}

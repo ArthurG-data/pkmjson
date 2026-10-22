@@ -1,0 +1,24 @@
+{
+  "id": "pl4-collector-s-tin-green",
+  "region": "international",
+  "set": "pl4",
+  "category": "tin",
+  "name": "Arceus Collector's Tin [Green]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: A specially selected foil Arceus LV.X card; A great window design for displaying your favorite card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Collector's Tin [Green]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485829
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/485829/pokemon-arceus-arceus-collectors-tin-green"
+      ]
+    }
+  ]
+}

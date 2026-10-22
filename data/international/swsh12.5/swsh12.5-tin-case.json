@@ -1,0 +1,24 @@
+{
+  "id": "swsh12.5-tin-case",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Crown Zenith Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Tin Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616290
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616290/pokemon-swsh-crown-zenith-crown-zenith-tin-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv03-booster-box",
+  "region": "international",
+  "set": "sv03",
+  "category": "booster_box",
+  "name": "Obsidian Flames Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 715465
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards per pack (3 of which are foil).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501257
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501257/pokemon-sv03-obsidian-flames-obsidian-flames-booster-box"
+      ]
+    }
+  ]
+}

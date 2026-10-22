@@ -1,0 +1,43 @@
+{
+  "id": "sm2-shiny-tapu-koko-gx-box",
+  "region": "international",
+  "set": "sm2",
+  "category": "collection_box",
+  "name": "Shiny Tapu Koko GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Foil oversize card featuring Shiny Tapu Koko GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Shiny Tapu Koko GX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Tapu Koko GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          137872
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/137872/pokemon-sm-guardians-rising-shiny-tapu-koko-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Tokorico chromatique",
+      "releaseDate": "2017-08-17",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Tokorico-GX_chromatique"
+      ]
+    }
+  ]
+}

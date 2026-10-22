@@ -1,0 +1,32 @@
+{
+  "id": "swshp-pikachu-v-showcase",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pikachu V Showcase",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Pikachu V Promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu V Showcase",
+      "releaseDate": "2022-03-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265706/pokemon-miscellaneous-cards-and-products-pikachu-v-showcase"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "svp-2023-world-championship-deck-set-of-4",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "2023 World Championship Deck [Set of 4]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-card World Championships Deck; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2023 World Championship Deck [Set of 4]",
+      "releaseDate": "2024-03-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532027
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532027/pokemon-world-championship-decks-2023-world-championship-deck-set-of-4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "svp1-other",
+  "region": "asia",
+  "set": "SVP1",
+  "category": "other",
+  "name": "ex Special Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Special Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594104
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594104/pokemon-japan-sv-ex-special-set-ex-special-set"
+      ]
+    }
+  ]
+}

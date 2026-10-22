@@ -1,0 +1,24 @@
+{
+  "id": "xy12-gengar-ex-box",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "Gengar EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gengar EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          125733
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/125733/pokemon-xy-evolutions-gengar-ex-box"
+      ]
+    }
+  ]
+}

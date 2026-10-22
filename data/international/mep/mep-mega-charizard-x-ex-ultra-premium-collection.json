@@ -1,0 +1,61 @@
+{
+  "id": "mep-mega-charizard-x-ex-ultra-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Mega Charizard X ex Ultra Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "mep-024",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 664010,
+        "cardmarketProductId": 859036,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Mega Charizard X",
+        "count": 65
+      },
+      {
+        "name": "Playmat featuring Mega Charizard X",
+        "count": 1
+      },
+      {
+        "name": "Deck box featuring Mega Charizard X",
+        "count": 1
+      },
+      {
+        "name": "Metal coin featuring Mega Charizard X",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Charizard X ex; 18 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Charizard X ex Ultra Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654213
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654213/pokemon-miscellaneous-cards-and-products-mega-charizard-x-ex-ultra-premium-collection"
+      ]
+    }
+  ]
+}

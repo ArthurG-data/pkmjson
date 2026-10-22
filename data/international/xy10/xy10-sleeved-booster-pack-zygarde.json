@@ -1,0 +1,24 @@
+{
+  "id": "xy10-sleeved-booster-pack-zygarde",
+  "region": "international",
+  "set": "xy10",
+  "category": "sleeved_booster_pack",
+  "name": "XY - Fates Collide Sleeved Booster Pack [Zygarde]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Fates Collide Sleeved Booster Pack [Zygarde]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          504700
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/504700/pokemon-xy-fates-collide-xy-fates-collide-sleeved-booster-pack-zygarde"
+      ]
+    }
+  ]
+}

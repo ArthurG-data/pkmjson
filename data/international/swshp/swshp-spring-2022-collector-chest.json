@@ -1,0 +1,57 @@
+{
+  "id": "swshp-spring-2022-collector-chest",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Spring 2022 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH220",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268705,
+        "cardmarketProductId": 609466,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH221",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268706,
+        "cardmarketProductId": 609467,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Pokémon notebook",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 1 promo card featuring and Oshawott!.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Spring 2022 Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265252
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265252/pokemon-miscellaneous-cards-and-products-spring-2022-collector-chest"
+      ]
+    }
+  ]
+}

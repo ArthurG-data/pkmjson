@@ -1,0 +1,27 @@
+{
+  "id": "sv04-sleeved-booster-pack",
+  "region": "international",
+  "set": "sv04",
+  "category": "sleeved_booster_pack",
+  "name": "Paradox Rift Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 728743
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          517210
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/517210/pokemon-sv04-paradox-rift-paradox-rift-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

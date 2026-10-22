@@ -1,0 +1,38 @@
+{
+  "id": "gym2-theme-deck-blaine",
+  "region": "international",
+  "set": "gym2",
+  "category": "theme_deck",
+  "name": "Gym Challenge Theme Deck - \"Blaine\"",
+  "identifiers": {
+    "cardmarketProductId": 286510
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Combination of cards from the Base Set 2, Gym Heroes, Gym Challenge expansions: 28 Gym Challenge Energy cards",
+        "count": 1
+      },
+      {
+        "name": "Gym Challange cards other than Energy, with some duplicates, for a total of 60 cards",
+        "count": 24
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Gym Heroes cards, with some duplicates; 5 Base Set 2 cards, with some duplicates; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Challenge Theme Deck - \"Blaine\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277112
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277112/pokemon-gym-challenge-gym-challenge-theme-deck-blaine"
+      ]
+    }
+  ]
+}

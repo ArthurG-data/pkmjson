@@ -1,0 +1,51 @@
+{
+  "id": "swsh7-mewtwo-v-union-special-collection",
+  "region": "international",
+  "set": "swsh7",
+  "category": "collection_box",
+  "name": "Mewtwo V-UNION Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize card featuring the star Pokémon V-UNION",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 promo cards that make up a single Pokémon V-UNION for Mewtwo V-UNION; 1 helpful Supporter card featuring Professor Burnet; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mewtwo V-UNION Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245877
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245877/pokemon-swsh07-evolving-skies-mewtwo-v-union-special-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collections spéciales Pokémon-V‑UNION (Mewtwo/Amphinobi/Zacian)",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collections-speciales-pokemon-v-union-mewtwo-amphinobi-zacian"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Pokémon-V-UNION (Mewtu/Quajutsu/Zacian)",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian"
+      ]
+    }
+  ]
+}

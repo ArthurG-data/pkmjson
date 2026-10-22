@@ -1,0 +1,31 @@
+{
+  "id": "tk-sm-r-trainer-kit",
+  "region": "international",
+  "set": "tk-sm-r",
+  "category": "other",
+  "name": "Sun & Moon Trainer Kit: Lycanroc & Alolan Raichu",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Trainer Kit: Lycanroc & Alolan Raichu",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          152815
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/152815/pokemon-sm-trainer-kit-lycanroc-and-alolan-raichu-sun-and-moon-trainer-kit-lycanroc-and-alolan-raichu"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Soleil et Lune Kit du Dresseur: Lougaroc et Raichu d'Alola",
+      "sources": [
+        "https://www.pokepedia.fr/Soleil_et_Lune_Kit_du_Dresseur%3A_Lougaroc_et_Raichu_d%27Alola"
+      ]
+    }
+  ]
+}

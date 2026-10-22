@@ -1,0 +1,57 @@
+{
+  "id": "sm3.5-pin-collection-marshadow",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Pin Collection: Marshadow",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Marshadow",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card of Marshadow.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Pin Collection: Marshadow",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155596
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155596/pokemon-shining-legends-shining-legends-pin-collection-marshadow"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Légendes Brillantes Marshadow",
+      "releaseDate": "2018-01-30",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_L%C3%A9gendes_Brillantes_Marshadow"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Pin-Kollektion Marshadow der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
+      "releaseDate": "2018-01-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-marshadow"
+      ]
+    }
+  ]
+}

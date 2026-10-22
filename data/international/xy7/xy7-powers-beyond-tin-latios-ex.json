@@ -1,0 +1,44 @@
+{
+  "id": "xy7-powers-beyond-tin-latios-ex",
+  "region": "international",
+  "set": "xy7",
+  "category": "tin",
+  "name": "Powers Beyond Tin [Latios EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Powers Beyond Tin [Latios EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          106211
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/106211/pokemon-xy-ancient-origins-powers-beyond-tin-latios-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance d'un autre monde Latios",
+      "releaseDate": "2015-11-11",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy4-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_d%27un_autre_monde_Latios-EX"
+      ]
+    }
+  ]
+}

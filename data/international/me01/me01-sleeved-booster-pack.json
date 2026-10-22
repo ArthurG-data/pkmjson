@@ -1,0 +1,27 @@
+{
+  "id": "me01-sleeved-booster-pack",
+  "region": "international",
+  "set": "me01",
+  "category": "sleeved_booster_pack",
+  "name": "Mega Evolution Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 834828
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644354
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644354/pokemon-me01-mega-evolution-mega-evolution-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

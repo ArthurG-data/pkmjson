@@ -1,0 +1,24 @@
+{
+  "id": "sm2-tapu-koko-figure-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "collection_box",
+  "name": "Tapu Koko Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tapu Koko Figure Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131734
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131734/pokemon-sm-guardians-rising-tapu-koko-figure-collection"
+      ]
+    }
+  ]
+}

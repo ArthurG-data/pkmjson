@@ -1,0 +1,38 @@
+{
+  "id": "ex13-holon-phantoms-theme-deck-firemist",
+  "region": "international",
+  "set": "ex13",
+  "category": "theme_deck",
+  "name": "Holon Phantoms Theme Deck - \"FireMist\"",
+  "identifiers": {
+    "cardmarketProductId": 286534
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Holon Phantoms Theme Deck - \"FireMist\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232850
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232850/pokemon-ex-holon-phantoms-holon-phantoms-theme-deck-firemist"
+      ]
+    }
+  ]
+}

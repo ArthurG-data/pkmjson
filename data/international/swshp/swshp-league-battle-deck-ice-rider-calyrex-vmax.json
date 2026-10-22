@@ -1,0 +1,64 @@
+{
+  "id": "swshp-league-battle-deck-ice-rider-calyrex-vmax",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Ice Rider Calyrex VMAX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock the strategies within",
+        "count": 1
+      },
+      {
+        "name": "Code card to unlock this deck in The Pokémon TCG Online or Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A full, playable 60-card deck loaded with power cards; 3 foil cards featuring Ice Rider Calyrex V or Shadow Rider Calyrex V; 3 foil cards featuring Ice Rider Calyrex VMAX or Shadow Rider Calyrex VMAX; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Ice Rider Calyrex VMAX]",
+      "releaseDate": "2022-07-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271947
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271947/pokemon-miscellaneous-cards-and-products-league-battle-deck-ice-rider-calyrex-vmax"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdeck Schimmelreiter-Coronospa-VMAX",
+      "releaseDate": "2022-06-17",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-schimmelreiter-coronospa-vmax-und-rappenreiter-coronospa-vmax"
+      ]
+    }
+  ]
+}

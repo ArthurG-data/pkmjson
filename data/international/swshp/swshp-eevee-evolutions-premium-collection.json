@@ -1,0 +1,82 @@
+{
+  "id": "swshp-eevee-evolutions-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Eevee Evolutions Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH065",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 220317,
+        "cardmarketProductId": 496555,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH194",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 262563,
+        "cardmarketProductId": 604996,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH196",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 262571,
+        "cardmarketProductId": 604998,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH201",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268710,
+        "cardmarketProductId": 609460,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH203",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268712,
+        "cardmarketProductId": 609462,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH202",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268711,
+        "cardmarketProductId": 609461,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code Card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card featuring Vaporeon V; 1 Promo card featuring Jolteon V; 1 Promo card featuring Flareon V; 9 Pokémon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Eevee Evolutions Premium Collection",
+      "releaseDate": "2022-11-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          286470
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/286470/pokemon-miscellaneous-cards-and-products-eevee-evolutions-premium-collection"
+      ]
+    }
+  ]
+}

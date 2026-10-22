@@ -1,0 +1,36 @@
+{
+  "id": "bw3-booster-pack",
+  "region": "international",
+  "set": "bw3",
+  "category": "booster_pack",
+  "name": "Noble Victories Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271831
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White—Noble Victories",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98570
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98570/pokemon-noble-victories-noble-victories-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-noble-victories"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "JCC Pokémon : Noir & Blanc – Nobles Victoires",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Lugia-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-nobles-victoires"
+      ]
+    }
+  ]
+}

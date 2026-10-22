@@ -1,0 +1,25 @@
+{
+  "id": "mep-mega-moonlit-tin-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Mega Moonlit Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Moonlit Tin Case",
+      "releaseDate": "2026-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          686439
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/686439/pokemon-miscellaneous-cards-and-products-mega-moonlit-tin-case"
+      ]
+    }
+  ]
+}

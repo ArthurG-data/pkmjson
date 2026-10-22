@@ -1,0 +1,24 @@
+{
+  "id": "gym2-booster-pack-unlimited-edition",
+  "region": "international",
+  "set": "gym2",
+  "category": "booster_pack",
+  "name": "Gym Challenge Booster Pack [Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Challenge Booster Pack [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          138139
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/138139/pokemon-gym-challenge-gym-challenge-booster-pack-unlimited-edition"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pop4-pack",
+  "region": "international",
+  "set": "pop4",
+  "category": "other",
+  "name": "POP Series 4 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 4 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190533
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190533/pokemon-pop-series-4-pop-series-4-pack"
+      ]
+    }
+  ]
+}

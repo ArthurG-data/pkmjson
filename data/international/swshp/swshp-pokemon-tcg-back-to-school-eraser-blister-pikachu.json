@@ -1,0 +1,25 @@
+{
+  "id": "swshp-pokemon-tcg-back-to-school-eraser-blister-pikachu",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Pokemon TCG: Back to School Eraser Blister [Pikachu]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 favorite Pokémon erasers featuring Pikachu; 2 Pokémon TCG booster packs to expand your collection (Packs and contents may vary by product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Back to School Eraser Blister [Pikachu]",
+      "releaseDate": "2022-07-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          273608
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/273608/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-pikachu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sm9-booster-box-576912",
+  "region": "asia",
+  "set": "SM9",
+  "category": "booster_box",
+  "name": "Tag Bolt Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550441
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm9-booster-pack-576911",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Tag Bolt Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576912
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576912/pokemon-japan-sm9-tag-bolt-tag-bolt-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "swsh1-legends-of-galar-tin-galar-partners-tin-2-pack-zacian-v-inteleon-v-retail-exclusive",
+  "region": "international",
+  "set": "swsh1",
+  "category": "tin",
+  "name": "Legends of Galar Tin + Galar Partners Tin 2-pack [Zacian V/Inteleon V] (Retail Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      },
+      {
+        "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Zacian V; 5 Pokémon TCG booster packs; 1 foil SWSH016 Inteleon V promo; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Galar Tin + Galar Partners Tin 2-pack [Zacian V/Inteleon V] (Retail Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          287502
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/287502/pokemon-swsh01-sword-and-shield-base-set-legends-of-galar-tin-plus-galar-partners-tin-2-pack-zacian-v-inteleon-v-retail-exclusive"
+      ]
+    }
+  ]
+}

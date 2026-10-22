@@ -1,0 +1,34 @@
+{
+  "id": "sv09-3-pack-blister-yanmega",
+  "region": "international",
+  "set": "sv09",
+  "category": "blister",
+  "name": "Journey Together 3 Pack Blister [Yanmega]",
+  "identifiers": {
+    "cardmarketProductId": 805585
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Yanmega.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together 3 Pack Blister [Yanmega]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610940
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610940/pokemon-sv09-journey-together-journey-together-3-pack-blister-yanmega"
+      ]
+    }
+  ]
+}

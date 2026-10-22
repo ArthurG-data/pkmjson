@@ -1,0 +1,41 @@
+{
+  "id": "swsh10-build-battle-box",
+  "region": "international",
+  "set": "swsh10",
+  "category": "build_and_battle_box",
+  "name": "Astral Radiance Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 611357
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 40-card ready-to-play decks; 1 of 4 promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Build & Battle Box",
+      "releaseDate": "2022-05-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265529
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265529/pokemon-swsh10-astral-radiance-astral-radiance-build-and-battle-box"
+      ]
+    }
+  ]
+}

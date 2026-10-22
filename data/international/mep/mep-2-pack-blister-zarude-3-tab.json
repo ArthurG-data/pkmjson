@@ -1,0 +1,24 @@
+{
+  "id": "mep-2-pack-blister-zarude-3-tab",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "2-Pack Blister [Zarude] (3-Tab)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2-Pack Blister [Zarude] (3-Tab)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          706250
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/706250/pokemon-miscellaneous-cards-and-products-2-pack-blister-zarude-3-tab"
+      ]
+    }
+  ]
+}

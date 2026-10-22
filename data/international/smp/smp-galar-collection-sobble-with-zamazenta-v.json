@@ -1,0 +1,36 @@
+{
+  "id": "smp-galar-collection-sobble-with-zamazenta-v",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Galar Collection [Sobble] - with Zamazenta V",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Glossy pins featuring Sobble",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo cards featuring Sobble; 1 foil oversized cards featuring the Legendary Zamazenta V; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Collection [Sobble] - with Zamazenta V",
+      "releaseDate": "2019-11-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199785
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199785/pokemon-miscellaneous-cards-and-products-galar-collection-sobble-with-zamazenta-v"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sv02-3-pack-blister-varoom",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved 3 Pack Blister [Varoom]",
+  "identifiers": {
+    "cardmarketProductId": 703169
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Varoom.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved 3 Pack Blister [Varoom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493998
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493998/pokemon-sv02-paldea-evolved-paldea-evolved-3-pack-blister-varoom"
+      ]
+    }
+  ]
+}

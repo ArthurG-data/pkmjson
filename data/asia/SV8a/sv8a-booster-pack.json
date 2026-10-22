@@ -1,0 +1,26 @@
+{
+  "id": "sv8a-booster-pack",
+  "region": "asia",
+  "set": "SV8a",
+  "category": "booster_pack",
+  "name": "Terastal Fest ex Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ハイクラスパック 「テラスタルフェスex」",
+      "releaseDate": "2024-12-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          603429
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/603429/pokemon-japan-sv8a-terastal-fest-ex-terastal-fest-ex-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%86%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A7%E3%82%B9ex"
+      ]
+    }
+  ]
+}

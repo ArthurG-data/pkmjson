@@ -1,0 +1,32 @@
+{
+  "id": "svp-team-rocket-tin-team-rocket-s-mewtwo-ex-international-version",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Team Rocket Tin [Team Rocket's Mewtwo ex] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Team Rocket’s Mewtwo ex, Team Rocket’s Nidoking ex, or Team Rocket’s Persian ex; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket Tin [Team Rocket's Mewtwo ex] (International Version)",
+      "releaseDate": "2025-09-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649200
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649200/pokemon-miscellaneous-cards-and-products-team-rocket-tin-team-rockets-mewtwo-ex-international-version"
+      ]
+    }
+  ]
+}

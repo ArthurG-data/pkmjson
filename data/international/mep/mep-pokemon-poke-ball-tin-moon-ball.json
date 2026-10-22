@@ -1,0 +1,63 @@
+{
+  "id": "mep-pokemon-poke-ball-tin-moon-ball",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Moon Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Moon Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          686298
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/686298/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-moon-ball"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin‑Box Pokéball",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball-2025"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Poké Ball",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball-2025"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Poké Ball",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-poke-ball-2025"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Poké Ball",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-2025"
+      ]
+    }
+  ]
+}

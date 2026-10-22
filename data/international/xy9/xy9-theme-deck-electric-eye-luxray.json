@@ -1,0 +1,38 @@
+{
+  "id": "xy9-theme-deck-electric-eye-luxray",
+  "region": "international",
+  "set": "xy9",
+  "category": "theme_deck",
+  "name": "BREAKpoint Theme Deck - \"Electric Eye\" [Luxray]",
+  "identifiers": {
+    "cardmarketProductId": 287835
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKpoint Theme Deck - \"Electric Eye\" [Luxray]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          113531
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/113531/pokemon-xy-breakpoint-breakpoint-theme-deck-electric-eye-luxray"
+      ]
+    }
+  ]
+}

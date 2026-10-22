@@ -1,0 +1,40 @@
+{
+  "id": "g1-mythical-pokemon-collection-box-darkrai",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Mythical Pokemon Collection Box [Darkrai]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Pokemon Collection Box [Darkrai]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118342
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118342/pokemon-generations-mythical-pokemon-collection-box-darkrai"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Pokémon fabuleux Darkrai",
+      "releaseDate": "2016-05-28",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_fabuleux_Darkrai"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "„Mysteriöse Pokémon-Kollektion: Darkrai“ des Pokémon Sammelkartenspiels",
+      "releaseDate": "2016-05-04",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mysterioese-pokemon-kollektion-darkrai"
+      ]
+    }
+  ]
+}

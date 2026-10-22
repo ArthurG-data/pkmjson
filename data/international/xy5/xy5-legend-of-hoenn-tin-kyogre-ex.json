@@ -1,0 +1,24 @@
+{
+  "id": "xy5-legend-of-hoenn-tin-kyogre-ex",
+  "region": "international",
+  "set": "xy5",
+  "category": "tin",
+  "name": "Legend of Hoenn Tin [Kyogre EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legend of Hoenn Tin [Kyogre EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97756
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97756/pokemon-xy-primal-clash-legend-of-hoenn-tin-kyogre-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sv07-sleeved-booster-pack",
+  "region": "international",
+  "set": "sv07",
+  "category": "sleeved_booster_pack",
+  "name": "Stellar Crown Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 776322
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Sleeved Booster Pack",
+      "releaseDate": "2024-09-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557352
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557352/pokemon-sv07-stellar-crown-stellar-crown-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "svp-fall-2023-collector-chest",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Fall 2023 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notebook",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 Pokémon TCG booster packs; 1 promo card featuring Meowscarada; 1 promo card featuring Skeledirge; 1 promo card featuring Quaquaval.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2023 Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516647
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516647/pokemon-miscellaneous-cards-and-products-fall-2023-collector-chest"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (Automne 2023)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2023"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2023)",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/maletin-de-coleccionistas-otono-2023"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (autunno 2023)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-autunno-2023"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2023)",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2023"
+      ]
+    }
+  ]
+}

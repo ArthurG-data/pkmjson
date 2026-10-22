@@ -1,0 +1,31 @@
+{
+  "id": "svp-pokemon-stacking-tin-metal",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Metal",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Metal",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541171
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/541171/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-metal"
+      ]
+    }
+  ]
+}

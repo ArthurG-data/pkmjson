@@ -1,0 +1,24 @@
+{
+  "id": "xy12-mini-pack",
+  "region": "international",
+  "set": "xy12",
+  "category": "other",
+  "name": "Evolutions Mini Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolutions Mini Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          686507
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/686507/pokemon-xy-evolutions-evolutions-mini-pack"
+      ]
+    }
+  ]
+}

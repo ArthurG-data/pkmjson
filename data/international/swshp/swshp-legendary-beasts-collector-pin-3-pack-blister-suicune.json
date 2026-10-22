@@ -1,0 +1,35 @@
+{
+  "id": "swshp-legendary-beasts-collector-pin-3-pack-blister-suicune",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Legendary Beasts Collector Pin 3 Pack Blister [Suicune]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of Suicune",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Beasts Collector Pin 3 Pack Blister [Suicune]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265946
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265946/pokemon-miscellaneous-cards-and-products-legendary-beasts-collector-pin-3-pack-blister-suicune"
+      ]
+    }
+  ]
+}

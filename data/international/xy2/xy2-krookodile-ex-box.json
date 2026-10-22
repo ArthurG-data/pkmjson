@@ -1,0 +1,44 @@
+{
+  "id": "xy2-krookodile-ex-box",
+  "region": "international",
+  "set": "xy2",
+  "category": "collection_box",
+  "name": "Krookodile EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Krookodile EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97742
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97742/pokemon-xy-flashfire-krookodile-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Crocorible",
+      "releaseDate": "2014-07-25",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy2-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Crocorible-EX"
+      ]
+    }
+  ]
+}

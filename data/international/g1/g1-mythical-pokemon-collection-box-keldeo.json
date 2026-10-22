@@ -1,0 +1,32 @@
+{
+  "id": "g1-mythical-pokemon-collection-box-keldeo",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Mythical Pokemon Collection Box [Keldeo]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Pokemon Collection Box [Keldeo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123740
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123740/pokemon-generations-mythical-pokemon-collection-box-keldeo"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Pokémon fabuleux Keldeo",
+      "releaseDate": "2016-11-19",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_fabuleux_Keldeo"
+      ]
+    }
+  ]
+}

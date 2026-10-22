@@ -1,0 +1,82 @@
+{
+  "id": "svp-houndstone-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Houndstone ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-162",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 591023,
+        "cardmarketProductId": 791831,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-070",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 536072,
+        "cardmarketProductId": 751794,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Houndstone ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Houndstone ex Box",
+      "releaseDate": "2024-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          561521
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/561521/pokemon-miscellaneous-cards-and-products-houndstone-ex-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Friedwuff-ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-friedwuff-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Tomberro‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-tomberro-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Houndstone‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-houndstone-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Houndstone ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-houndstone-ex"
+      ]
+    }
+  ]
+}

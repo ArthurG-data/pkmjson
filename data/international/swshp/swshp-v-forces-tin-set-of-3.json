@@ -1,0 +1,25 @@
+{
+  "id": "swshp-v-forces-tin-set-of-3",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "V Forces Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Forces Tin [Set of 3]",
+      "releaseDate": "2021-02-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230403
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230403/pokemon-miscellaneous-cards-and-products-v-forces-tin-set-of-3"
+      ]
+    }
+  ]
+}

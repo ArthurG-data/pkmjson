@@ -1,0 +1,46 @@
+{
+  "id": "sm8-jolteon-gx-special-collection",
+  "region": "international",
+  "set": "sm8",
+  "category": "collection_box",
+  "name": "Jolteon GX Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM173",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 183566,
+        "cardmarketProductId": 369358,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Holofoil jumbo card featuring Jolteon GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo card featuring Eevee GX; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jolteon GX Special Collection",
+      "releaseDate": "2019-01-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181709
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181709/pokemon-sm-lost-thunder-jolteon-gx-special-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s12-booster-box",
+  "region": "asia",
+  "set": "S12",
+  "category": "booster_box",
+  "name": "Paradigm Trigger Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 675864
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s12-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Paradigm Trigger Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565250
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565250/pokemon-japan-s12-paradigm-trigger-paradigm-trigger-booster-box"
+      ]
+    }
+  ]
+}

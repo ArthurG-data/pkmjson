@@ -1,0 +1,48 @@
+{
+  "id": "sm1-lycanroc-gx-box",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Lycanroc GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lycanroc GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131865
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131865/pokemon-sm-base-set-lycanroc-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Lougaroc",
+      "releaseDate": "2017-03-23",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Lougaroc-GX"
+      ]
+    }
+  ]
+}

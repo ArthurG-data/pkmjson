@@ -1,0 +1,31 @@
+{
+  "id": "swshp-2-pack-blister-pack-raikou-entei-suicune",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "2-Pack Blister Pack [Raikou, Entei, & Suicune]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Basic Energy",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2-Pack Blister Pack [Raikou, Entei, & Suicune]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477178
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477178/pokemon-miscellaneous-cards-and-products-2-pack-blister-pack-raikou-entei-and-suicune"
+      ]
+    }
+  ]
+}

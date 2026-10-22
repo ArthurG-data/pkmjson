@@ -1,0 +1,25 @@
+{
+  "id": "swshp-mythical-squishy-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Mythical Squishy Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Pokémon TCG booster packs; 1 Mew V promo card; 1 Victini V promo card; 1 Celebi V promo card; 1 Mew squishy toy; 1 Victini squishy toy; 1 Celebi squishy toy.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Squishy Premium Collection",
+      "releaseDate": "2021-10-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          248205
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/248205/pokemon-miscellaneous-cards-and-products-mythical-squishy-premium-collection"
+      ]
+    }
+  ]
+}

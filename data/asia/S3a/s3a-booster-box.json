@@ -1,0 +1,34 @@
+{
+  "id": "s3a-booster-box",
+  "region": "asia",
+  "set": "S3a",
+  "category": "booster_box",
+  "name": "Legendary Heartbeat Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 480104
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s3a-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Legendary Heartbeat Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571836
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571836/pokemon-japan-s3a-legendary-heartbeat-legendary-heartbeat-booster-box"
+      ]
+    }
+  ]
+}

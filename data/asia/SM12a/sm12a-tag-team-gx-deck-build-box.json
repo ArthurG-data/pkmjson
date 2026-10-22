@@ -1,0 +1,37 @@
+{
+  "id": "sm12a-tag-team-gx-deck-build-box",
+  "region": "asia",
+  "set": "SM12a",
+  "category": "collection_box",
+  "name": "TAG TEAM GX: Deck Build Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack-576913",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Copies of each basic Energy type",
+        "count": 12
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: an assortment of 49 Trainer and Special Energy cards; one foil copy of Tapu Lele-GX; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "TAG TEAM GX: Deck Build Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          686300
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/686300/pokemon-japan-sm12a-tag-team-gx-tag-all-stars-tag-team-gx-deck-build-box"
+      ]
+    }
+  ]
+}

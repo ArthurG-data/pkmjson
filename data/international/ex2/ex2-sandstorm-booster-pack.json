@@ -1,0 +1,28 @@
+{
+  "id": "ex2-sandstorm-booster-pack",
+  "region": "international",
+  "set": "ex2",
+  "category": "booster_pack",
+  "name": "Sandstorm Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271885
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Sandstorm",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98565
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98565/pokemon-ex-sandstorm-sandstorm-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-sandstorm"
+      ]
+    }
+  ]
+}

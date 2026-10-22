@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pokemon-poke-ball-tin-dive-ball",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Dive Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Dive Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210170
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210170/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-dive-ball"
+      ]
+    }
+  ]
+}

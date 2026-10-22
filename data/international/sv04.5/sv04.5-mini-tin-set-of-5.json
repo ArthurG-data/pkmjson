@@ -1,0 +1,25 @@
+{
+  "id": "sv04.5-mini-tin-set-of-5",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "other",
+  "name": "Paldean Fates Mini Tin [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Mini Tin [Set of 5]",
+      "releaseDate": "2024-02-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          529039
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/529039/pokemon-sv-paldean-fates-paldean-fates-mini-tin-set-of-5"
+      ]
+    }
+  ]
+}

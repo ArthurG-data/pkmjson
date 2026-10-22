@@ -1,0 +1,24 @@
+{
+  "id": "neo1-booster-box-unlimited-edition",
+  "region": "international",
+  "set": "neo1",
+  "category": "booster_box",
+  "name": "Neo Genesis Booster Box [Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 Unlimited Edition Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Genesis Booster Box [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193335
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193335/pokemon-neo-genesis-neo-genesis-booster-box-unlimited-edition"
+      ]
+    }
+  ]
+}

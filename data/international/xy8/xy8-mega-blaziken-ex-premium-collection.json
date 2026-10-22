@@ -1,0 +1,32 @@
+{
+  "id": "xy8-mega-blaziken-ex-premium-collection",
+  "region": "international",
+  "set": "xy8",
+  "category": "premium_collection",
+  "name": "Mega Blaziken EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Blaziken EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107104
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107104/pokemon-xy-breakthrough-mega-blaziken-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Braségali",
+      "releaseDate": "2016-09-28",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Bras%C3%A9gali-EX"
+      ]
+    }
+  ]
+}

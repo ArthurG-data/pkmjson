@@ -1,0 +1,48 @@
+{
+  "id": "xy10-shiny-kalos-tin-yveltal-ex",
+  "region": "international",
+  "set": "xy10",
+  "category": "tin",
+  "name": "Shiny Kalos Tin [Yveltal EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Kalos Tin [Yveltal EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          121395
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/121395/pokemon-xy-fates-collide-shiny-kalos-tin-yveltal-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Kalos chromatique Yveltal",
+      "releaseDate": "2016-06-12",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy10-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy9-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Kalos_chromatique_Yveltal-EX"
+      ]
+    }
+  ]
+}

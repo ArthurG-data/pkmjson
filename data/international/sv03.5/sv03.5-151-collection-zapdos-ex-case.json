@@ -1,0 +1,25 @@
+{
+  "id": "sv03.5-151-collection-zapdos-ex-case",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "case",
+  "name": "151 Collection Zapdos ex Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Collection Zapdos ex Case",
+      "releaseDate": "2023-10-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          518782
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/518782/pokemon-sv-scarlet-and-violet-151-151-collection-zapdos-ex-case"
+      ]
+    }
+  ]
+}

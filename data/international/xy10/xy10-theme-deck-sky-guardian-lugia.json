@@ -1,0 +1,38 @@
+{
+  "id": "xy10-theme-deck-sky-guardian-lugia",
+  "region": "international",
+  "set": "xy10",
+  "category": "theme_deck",
+  "name": "Fates Collide Theme Deck - \"Sky Guardian\" [Lugia]",
+  "identifiers": {
+    "cardmarketProductId": 289042
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fates Collide Theme Deck - \"Sky Guardian\" [Lugia]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117479
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117479/pokemon-xy-fates-collide-fates-collide-theme-deck-sky-guardian-lugia"
+      ]
+    }
+  ]
+}

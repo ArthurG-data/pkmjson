@@ -1,0 +1,42 @@
+{
+  "id": "swsh4.5-mini-tin-reshiram",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "tin",
+  "name": "Shining Fates Mini Tin [Reshiram]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin [Reshiram]",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mini Tin [Reshiram]",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230956
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230956/pokemon-shining-fates-shining-fates-mini-tin-reshiram"
+      ]
+    }
+  ]
+}

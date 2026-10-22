@@ -1,0 +1,35 @@
+{
+  "id": "svp-jirachi-v-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Jirachi V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Jirachi V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Jirachi V; 1 foil card featuring Absol; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jirachi V Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          583776
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/583776/pokemon-miscellaneous-cards-and-products-jirachi-v-box"
+      ]
+    }
+  ]
+}

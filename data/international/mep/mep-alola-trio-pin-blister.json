@@ -1,0 +1,31 @@
+{
+  "id": "mep-alola-trio-pin-blister",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "Alola Trio Pin Blister",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon collector's pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs; 1 foil Absol promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alola Trio Pin Blister",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668362
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668362/pokemon-miscellaneous-cards-and-products-alola-trio-pin-blister"
+      ]
+    }
+  ]
+}

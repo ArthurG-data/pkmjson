@@ -1,0 +1,38 @@
+{
+  "id": "sm3-theme-deck-luminous-frost-alolan-ninetales",
+  "region": "international",
+  "set": "sm3",
+  "category": "theme_deck",
+  "name": "Burning Shadows Theme Deck - \"Luminous Frost\" [Alolan Ninetales]",
+  "identifiers": {
+    "cardmarketProductId": 298774
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Theme Deck - \"Luminous Frost\" [Alolan Ninetales]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133778
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133778/pokemon-sm-burning-shadows-burning-shadows-theme-deck-luminous-frost-alolan-ninetales"
+      ]
+    }
+  ]
+}

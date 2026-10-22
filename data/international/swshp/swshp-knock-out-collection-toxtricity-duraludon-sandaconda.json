@@ -1,0 +1,31 @@
+{
+  "id": "swshp-knock-out-collection-toxtricity-duraludon-sandaconda",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Toxtricity, Duraludon, Sandaconda]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Toxtricity; 1 foil card featuring Duraludon; 1 foil card featuring Sandaconda; 2 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Toxtricity, Duraludon, Sandaconda]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          264416
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/264416/pokemon-miscellaneous-cards-and-products-knock-out-collection-toxtricity-duraludon-sandaconda"
+      ]
+    }
+  ]
+}

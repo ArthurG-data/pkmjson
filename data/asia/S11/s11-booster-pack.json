@@ -1,0 +1,29 @@
+{
+  "id": "s11-booster-pack",
+  "region": "asia",
+  "set": "S11",
+  "category": "booster_pack",
+  "name": "Lost Abyss Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 665653
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「ロストアビス」",
+      "releaseDate": "2022-07-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574878
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574878/pokemon-japan-s11-lost-abyss-lost-abyss-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%AD%E3%82%B9%E3%83%88%E3%82%A2%E3%83%93%E3%82%B9"
+      ]
+    }
+  ]
+}

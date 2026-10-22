@@ -1,0 +1,40 @@
+{
+  "id": "sm3-3-pack-blister-cosmog",
+  "region": "international",
+  "set": "sm3",
+  "category": "blister",
+  "name": "Burning Shadows 3 Pack Blister [Cosmog]",
+  "identifiers": {
+    "cardmarketProductId": 585991
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a cosmos holofoil of Cosmog.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows 3 Pack Blister [Cosmog]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          136600
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/136600/pokemon-sm-burning-shadows-burning-shadows-3-pack-blister-cosmog"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sm1m-booster-pack",
+  "region": "asia",
+  "set": "SM1M",
+  "category": "booster_pack",
+  "name": "Collection Moon Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551961
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「コレクション ムーン」",
+      "releaseDate": "2016-12-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576856
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576856/pokemon-japan-sm1m-collection-moon-collection-moon-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+%E3%83%A0%E3%83%BC%E3%83%B3"
+      ]
+    }
+  ]
+}

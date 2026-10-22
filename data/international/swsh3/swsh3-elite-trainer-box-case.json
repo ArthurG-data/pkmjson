@@ -1,0 +1,34 @@
+{
+  "id": "swsh3-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh3",
+  "category": "case",
+  "name": "Darkness Ablaze Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873112
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-elite-trainer-box",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          266951
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/266951/pokemon-swsh03-darkness-ablaze-darkness-ablaze-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

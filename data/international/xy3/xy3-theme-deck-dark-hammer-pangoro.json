@@ -1,0 +1,38 @@
+{
+  "id": "xy3-theme-deck-dark-hammer-pangoro",
+  "region": "international",
+  "set": "xy3",
+  "category": "theme_deck",
+  "name": "Furious Fists Theme Deck - \"Dark Hammer\" [Pangoro]",
+  "identifiers": {
+    "cardmarketProductId": 286622
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists Theme Deck - \"Dark Hammer\" [Pangoro]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          92217
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/92217/pokemon-xy-furious-fists-furious-fists-theme-deck-dark-hammer-pangoro"
+      ]
+    }
+  ]
+}

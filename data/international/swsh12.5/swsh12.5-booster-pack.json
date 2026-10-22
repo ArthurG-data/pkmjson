@@ -1,0 +1,61 @@
+{
+  "id": "swsh12.5-booster-pack",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "booster_pack",
+  "name": "Crown Zenith Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 683006
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453466
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453466/pokemon-swsh-crown-zenith-crown-zenith-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/crown-zenith"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Zénith Suprême",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Z%C3%A9nith_Supr%C3%AAme",
+        "https://www.pokemon.com/fr/jcc-pokemon/zenith-supreme"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Zenit der Könige",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-zenit-der-koenige",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/zenit-der-koenige"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Zenit Regale",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-zenit-regale",
+        "https://www.pokemon.com/it/gcc/zenit-regale"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-cenit-supremo",
+        "https://www.pokemon.com/es/jcc-pokemon/cenit-supremo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swsh2-legends-of-galar-tin-set-of-2",
+  "region": "international",
+  "set": "swsh2",
+  "category": "other",
+  "name": "Legends of Galar Tin [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Zamazenta V or Zacian V; 5 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Galar Tin [Set of 2]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214232
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214232/pokemon-swsh02-rebel-clash-legends-of-galar-tin-set-of-2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "s2a-booster-box",
+  "region": "asia",
+  "set": "S2a",
+  "category": "booster_box",
+  "name": "Explosive Walker Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s2a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Explosive Walker Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571840
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571840/pokemon-japan-s2a-explosive-walker-explosive-walker-booster-box"
+      ]
+    }
+  ]
+}

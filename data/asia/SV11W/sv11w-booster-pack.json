@@ -1,0 +1,24 @@
+{
+  "id": "sv11w-booster-pack",
+  "region": "asia",
+  "set": "SV11W",
+  "category": "booster_pack",
+  "name": "White Flare Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "White Flare Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          636737
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/636737/pokemon-japan-sv11w-white-flare-white-flare-booster-pack"
+      ]
+    }
+  ]
+}

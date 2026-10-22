@@ -1,0 +1,40 @@
+{
+  "id": "sm115-collection-gyarados-gx",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Collection [Gyarados GX]",
+  "identifiers": {
+    "cardmarketProductId": 570350
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "PTCGO code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Gyarados GX promo card; a jumbo promo version featuring Gyarados GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Collection [Gyarados GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          205160
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/205160/pokemon-hidden-fates-hidden-fates-collection-gyarados-gx"
+      ]
+    }
+  ]
+}

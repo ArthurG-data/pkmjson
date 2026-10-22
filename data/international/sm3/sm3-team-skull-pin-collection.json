@@ -1,0 +1,61 @@
+{
+  "id": "sm3-team-skull-pin-collection",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Team Skull Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM62",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 148430,
+        "cardmarketProductId": 313450,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "smp-SM154",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 181560,
+        "cardmarketProductId": 364323,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "smp-SM63",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 148429,
+        "cardmarketProductId": 313454,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin featuring the Team Skull logo",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Wimpod; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Skull Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148417
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148417/pokemon-sm-burning-shadows-team-skull-pin-collection"
+      ]
+    }
+  ]
+}

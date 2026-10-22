@@ -1,0 +1,70 @@
+{
+  "id": "swsh4-orbeetle-v-box",
+  "region": "international",
+  "set": "swsh4",
+  "category": "collection_box",
+  "name": "Orbeetle V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH078",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 227025,
+        "cardmarketProductId": 522970,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Orbeetle V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Orbeetle V Box",
+      "releaseDate": "2020-11-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          226137
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/226137/pokemon-swsh04-vivid-voltage-orbeetle-v-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Maritellit-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-maritellit-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Astronelle-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-astronelle-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Orbeetle-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-orbeetle-v"
+      ]
+    }
+  ]
+}

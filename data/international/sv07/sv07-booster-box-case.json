@@ -1,0 +1,35 @@
+{
+  "id": "sv07-booster-box-case",
+  "region": "international",
+  "set": "sv07",
+  "category": "case",
+  "name": "Stellar Crown Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 776327
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Booster Box Case",
+      "releaseDate": "2024-09-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557365
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557365/pokemon-sv07-stellar-crown-stellar-crown-booster-box-case"
+      ]
+    }
+  ]
+}

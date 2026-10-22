@@ -1,0 +1,24 @@
+{
+  "id": "swsh3-build-battle-box-display",
+  "region": "international",
+  "set": "swsh3",
+  "category": "case",
+  "name": "Darkness Ablaze Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216862
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216862/pokemon-swsh03-darkness-ablaze-darkness-ablaze-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

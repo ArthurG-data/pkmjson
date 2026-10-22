@@ -1,0 +1,34 @@
+{
+  "id": "s5i-booster-box",
+  "region": "asia",
+  "set": "S5I",
+  "category": "booster_box",
+  "name": "Single Strike Master Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 534137
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s5i-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Single Strike Master Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565361
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565361/pokemon-japan-s5i-single-strike-master-single-strike-master-booster-box"
+      ]
+    }
+  ]
+}

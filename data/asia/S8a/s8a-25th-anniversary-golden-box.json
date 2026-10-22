@@ -1,0 +1,59 @@
+{
+  "id": "s8a-25th-anniversary-golden-box",
+  "region": "asia",
+  "set": "S8a",
+  "category": "collection_box",
+  "name": "25th Anniversary Golden Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Premium gloss card sleeve",
+        "count": 64
+      },
+      {
+        "name": "Foil-stamped rubber playmat",
+        "count": 1
+      },
+      {
+        "name": "Metal damage counter dice",
+        "count": 12
+      },
+      {
+        "name": "Metal Special Condition markers",
+        "count": 1
+      },
+      {
+        "name": "Metal 25th anniversary coin",
+        "count": 1
+      },
+      {
+        "name": "Leather-like deck case",
+        "count": 1
+      },
+      {
+        "name": "Leather-like playmat case",
+        "count": 1
+      },
+      {
+        "name": "Leather-like damage counter case",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "25th Anniversary Golden Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          647455
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/647455/pokemon-japan-s8a-g-25th-anniversary-golden-box-25th-anniversary-golden-box"
+      ]
+    }
+  ]
+}

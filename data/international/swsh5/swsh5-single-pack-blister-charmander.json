@@ -1,0 +1,41 @@
+{
+  "id": "swsh5-single-pack-blister-charmander",
+  "region": "international",
+  "set": "swsh5",
+  "category": "blister",
+  "name": "Battle Styles Single Pack Blister [Charmander]",
+  "identifiers": {
+    "cardmarketProductId": 585729
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh5-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Charmander.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Styles Single Pack Blister [Charmander]",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229280
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229280/pokemon-swsh05-battle-styles-battle-styles-single-pack-blister-charmander"
+      ]
+    }
+  ]
+}

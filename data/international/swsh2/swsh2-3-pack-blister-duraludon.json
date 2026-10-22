@@ -1,0 +1,41 @@
+{
+  "id": "swsh2-3-pack-blister-duraludon",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Rebel Clash 3 Pack Blister [Duraludon]",
+  "identifiers": {
+    "cardmarketProductId": 585890
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Duraludon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash 3 Pack Blister [Duraludon]",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210567
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210567/pokemon-swsh02-rebel-clash-rebel-clash-3-pack-blister-duraludon"
+      ]
+    }
+  ]
+}

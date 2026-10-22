@@ -1,0 +1,34 @@
+{
+  "id": "s10d-booster-box",
+  "region": "asia",
+  "set": "S10D",
+  "category": "booster_box",
+  "name": "Time Gazer Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 611242
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s10d-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Time Gazer Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571832
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571832/pokemon-japan-s10d-time-gazer-time-gazer-booster-box"
+      ]
+    }
+  ]
+}

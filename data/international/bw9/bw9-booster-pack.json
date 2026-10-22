@@ -1,0 +1,36 @@
+{
+  "id": "bw9-booster-pack",
+  "region": "international",
+  "set": "bw9",
+  "category": "booster_pack",
+  "name": "Plasma Freeze Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271880
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White—Plasma Freeze",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98517
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98517/pokemon-plasma-freeze-plasma-freeze-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-plasma-freeze"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Noir & Blanc – Glaciation Plasma",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-glaciation-plasma"
+      ]
+    }
+  ]
+}

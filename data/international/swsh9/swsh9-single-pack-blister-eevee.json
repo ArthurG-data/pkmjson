@@ -1,0 +1,41 @@
+{
+  "id": "swsh9-single-pack-blister-eevee",
+  "region": "international",
+  "set": "swsh9",
+  "category": "blister",
+  "name": "Brilliant Stars Single Pack Blister [Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 606761
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Single Pack Blister [Eevee]",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256129
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256129/pokemon-swsh09-brilliant-stars-brilliant-stars-single-pack-blister-eevee"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bw9-theme-deck-frost-ray-glaceon",
+  "region": "international",
+  "set": "bw9",
+  "category": "theme_deck",
+  "name": "Plasma Freeze Theme Deck - \"Frost Ray\" [Glaceon]",
+  "identifiers": {
+    "cardmarketProductId": 286560
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Plasma Freeze Theme Deck - \"Frost Ray\" [Glaceon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          486243
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/486243/pokemon-plasma-freeze-plasma-freeze-theme-deck-frost-ray-glaceon"
+      ]
+    }
+  ]
+}

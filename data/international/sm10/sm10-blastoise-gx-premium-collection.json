@@ -1,0 +1,85 @@
+{
+  "id": "sm10-blastoise-gx-premium-collection",
+  "region": "international",
+  "set": "sm10",
+  "category": "premium_collection",
+  "name": "Blastoise GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM189",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 193277,
+        "cardmarketProductId": 397949,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Blastoise-GX",
+        "count": 1
+      },
+      {
+        "name": "Stunning Blastoise pin",
+        "count": 1
+      },
+      {
+        "name": "Blastoise coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Wartortle; 1 foil card featuring Squirtle; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Blastoise GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          192230
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/192230/pokemon-sm-unbroken-bonds-blastoise-gx-premium-collection"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Turtok-GX",
+      "releaseDate": "2019-07-05",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-turtok-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium Blastoise-GX",
+      "releaseDate": "2019-07-05",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-blastoise-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Tortank-GX",
+      "releaseDate": "2019-06-05",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-tortank-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Blastoise-GX",
+      "releaseDate": "2019-07-05",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-blastoise-gx"
+      ]
+    }
+  ]
+}

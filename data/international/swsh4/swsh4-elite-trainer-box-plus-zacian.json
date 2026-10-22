@@ -1,0 +1,51 @@
+{
+  "id": "swsh4-elite-trainer-box-plus-zacian",
+  "region": "international",
+  "set": "swsh4",
+  "category": "elite_trainer_box",
+  "name": "Sword & Shield Elite Trainer Box Plus [Zacian]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metal damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Metal coin featuring Zacian",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring Zacian",
+        "count": 65
+      },
+      {
+        "name": "Set of richly designed metal condition markers",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG rules booklet",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A special gold version of Zacian V; 12 Pokemon TCG booster packs from the Sword & Shield Series; A player's guide to the first year of Pokemon TCG: Sword & Shield Series expansions and promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Elite Trainer Box Plus [Zacian]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          222987
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/222987/pokemon-swsh04-vivid-voltage-sword-and-shield-elite-trainer-box-plus-zacian"
+      ]
+    }
+  ]
+}

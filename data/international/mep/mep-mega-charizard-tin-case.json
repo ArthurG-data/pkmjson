@@ -1,0 +1,25 @@
+{
+  "id": "mep-mega-charizard-tin-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Mega Charizard Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Charizard Tin Case",
+      "releaseDate": "2026-02-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          679554
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/679554/pokemon-miscellaneous-cards-and-products-mega-charizard-tin-case"
+      ]
+    }
+  ]
+}

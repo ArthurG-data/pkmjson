@@ -1,0 +1,57 @@
+{
+  "id": "swsh10-build-battle-stadium",
+  "region": "international",
+  "set": "swsh10",
+  "category": "other",
+  "name": "Astral Radiance Build & Battle Stadium",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Individual Build & Battle Boxes",
+        "count": 2
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 121
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Build & Battle Stadium",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265515
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265515/pokemon-swsh10-astral-radiance-astral-radiance-build-and-battle-stadium"
+      ]
+    }
+  ]
+}

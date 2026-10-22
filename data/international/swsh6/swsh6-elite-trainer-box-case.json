@@ -1,0 +1,28 @@
+{
+  "id": "swsh6-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh6",
+  "category": "case",
+  "name": "Chilling Reign Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873115
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign Elite Trainer Box Case",
+      "releaseDate": "2021-06-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236263
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236263/pokemon-swsh06-chilling-reign-chilling-reign-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

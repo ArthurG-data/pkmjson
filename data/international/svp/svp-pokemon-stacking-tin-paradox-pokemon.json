@@ -1,0 +1,32 @@
+{
+  "id": "svp-pokemon-stacking-tin-paradox-pokemon",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Paradox Pokemon",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon sticker sheets",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Paradox Pokemon",
+      "releaseDate": "2025-03-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616295
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616295/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-paradox-pokemon"
+      ]
+    }
+  ]
+}

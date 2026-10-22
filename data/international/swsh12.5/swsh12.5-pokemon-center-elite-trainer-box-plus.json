@@ -1,0 +1,71 @@
+{
+  "id": "swsh12.5-pokemon-center-elite-trainer-box-plus",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "elite_trainer_box",
+  "name": "Crown Zenith Pokemon Center Elite Trainer Box Plus",
+  "identifiers": {
+    "cardmarketProductId": 684355
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves featuring Lucario",
+        "count": 65
+      },
+      {
+        "name": "Deck box featuring Lucario, with a separate space for storing accessories",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Crown Zenith expansion",
+        "count": 1
+      },
+      {
+        "name": "Metal damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Metal coin featuring Lucario",
+        "count": 1
+      },
+      {
+        "name": "Metal condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Lucario VSTAR.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Pokemon Center Elite Trainer Box Plus",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          454246
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/454246/pokemon-swsh-crown-zenith-crown-zenith-pokemon-center-elite-trainer-box-plus"
+      ]
+    }
+  ]
+}

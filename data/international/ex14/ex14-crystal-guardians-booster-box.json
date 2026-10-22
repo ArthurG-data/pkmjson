@@ -1,0 +1,27 @@
+{
+  "id": "ex14-crystal-guardians-booster-box",
+  "region": "international",
+  "set": "ex14",
+  "category": "booster_box",
+  "name": "Crystal Guardians Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271907
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crystal Guardians Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98567
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98567/pokemon-ex-crystal-guardians-crystal-guardians-booster-box"
+      ]
+    }
+  ]
+}

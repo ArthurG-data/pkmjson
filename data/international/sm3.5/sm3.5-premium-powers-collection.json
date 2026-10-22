@@ -1,0 +1,40 @@
+{
+  "id": "sm3.5-premium-powers-collection",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Premium Powers Collection",
+  "identifiers": {
+    "cardmarketProductId": 301245
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Fantastic poster that shows off 9 Shining Pokemon",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Premium Powers Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          209439
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/209439/pokemon-shining-legends-shining-legends-premium-powers-collection"
+      ]
+    }
+  ]
+}

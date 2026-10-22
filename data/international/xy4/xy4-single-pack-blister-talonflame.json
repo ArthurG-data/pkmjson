@@ -1,0 +1,40 @@
+{
+  "id": "xy4-single-pack-blister-talonflame",
+  "region": "international",
+  "set": "xy4",
+  "category": "blister",
+  "name": "Phantom Forces Single Pack Blister [Talonflame]",
+  "identifiers": {
+    "cardmarketProductId": 586396
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy4-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Talonflame.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Single Pack Blister [Talonflame]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177867
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177867/pokemon-xy-phantom-forces-phantom-forces-single-pack-blister-talonflame"
+      ]
+    }
+  ]
+}

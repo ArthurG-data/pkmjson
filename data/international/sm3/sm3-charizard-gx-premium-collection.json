@@ -1,0 +1,71 @@
+{
+  "id": "sm3-charizard-gx-premium-collection",
+  "region": "international",
+  "set": "sm3",
+  "category": "premium_collection",
+  "name": "Charizard GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Charizard collector's pin",
+        "count": 1
+      },
+      {
+        "name": "Charizard collector's coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Full Art holofoil Charizard-GX promo; 1 Jumbo Holofoil Charizard-GX promo; 1 holofoil Charmander promo; 1 holofoil promo Charmeleon promo; 6 Pokémon TCG booster packs to expand your collection.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Charizard GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148154
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148154/pokemon-sm-burning-shadows-charizard-gx-premium-collection"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Charizard-GX",
+      "releaseDate": "2017-09-01",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-charizard-gx-del-gcc-pokemon"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Glurak-GX",
+      "releaseDate": "2017-10-13",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-glurak-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium Charizard-GX",
+      "releaseDate": "2017-09-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-charizard-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Dracaufeu-GX",
+      "releaseDate": "2017-09-26",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-avec-collection-premium-dracaufeu-gx"
+      ]
+    }
+  ]
+}

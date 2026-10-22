@@ -1,0 +1,31 @@
+{
+  "id": "neo4-booster-box-1st-edition",
+  "region": "international",
+  "set": "neo4",
+  "category": "booster_box",
+  "name": "Neo Destiny Booster Box [1st Edition]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "neo4-booster-pack-1st-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Destiny Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563754
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563754/pokemon-neo-destiny-neo-destiny-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

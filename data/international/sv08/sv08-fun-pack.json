@@ -1,0 +1,24 @@
+{
+  "id": "sv08-fun-pack",
+  "region": "international",
+  "set": "sv08",
+  "category": "other",
+  "name": "Surging Sparks Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628641
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628641/pokemon-sv08-surging-sparks-surging-sparks-fun-pack"
+      ]
+    }
+  ]
+}

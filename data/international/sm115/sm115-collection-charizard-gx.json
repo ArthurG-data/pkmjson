@@ -1,0 +1,40 @@
+{
+  "id": "sm115-collection-charizard-gx",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Collection [Charizard GX]",
+  "identifiers": {
+    "cardmarketProductId": 560793
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "PTCGO code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Charizard GX promo card; a jumbo promo version featuring Charizard GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Collection [Charizard GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          205159
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/205159/pokemon-hidden-fates-hidden-fates-collection-charizard-gx"
+      ]
+    }
+  ]
+}

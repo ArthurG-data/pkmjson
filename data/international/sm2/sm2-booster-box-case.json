@@ -1,0 +1,31 @@
+{
+  "id": "sm2-booster-box-case",
+  "region": "international",
+  "set": "sm2",
+  "category": "case",
+  "name": "Guardians Rising Booster Box Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          618840
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/618840/pokemon-sm-guardians-rising-guardians-rising-booster-box-case"
+      ]
+    }
+  ]
+}

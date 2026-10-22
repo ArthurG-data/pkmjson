@@ -1,0 +1,41 @@
+{
+  "id": "xy7-collector-pin-3-pack-blister-shiny-mega-rayquaza-pin",
+  "region": "international",
+  "set": "xy7",
+  "category": "blister",
+  "name": "Ancient Origins Collector Pin 3 Pack Blister [Shiny Mega Rayquaza Pin]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy7-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of shiny Mega Rayquaza",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ancient Origins Collector Pin 3 Pack Blister [Shiny Mega Rayquaza Pin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          104380
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/104380/pokemon-xy-ancient-origins-ancient-origins-collector-pin-3-pack-blister-shiny-mega-rayquaza-pin"
+      ]
+    }
+  ]
+}

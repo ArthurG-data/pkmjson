@@ -1,0 +1,29 @@
+{
+  "id": "sm12-booster-pack-576918",
+  "region": "asia",
+  "set": "SM12",
+  "category": "booster_pack",
+  "name": "Alter Genesis Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550361
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「オルタージェネシス」",
+      "releaseDate": "2019-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576918
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576918/pokemon-japan-sm12-alter-genesis-alter-genesis-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%82%B9"
+      ]
+    }
+  ]
+}

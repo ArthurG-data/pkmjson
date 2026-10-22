@@ -1,0 +1,32 @@
+{
+  "id": "swshp-infernape-v-showcase",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Infernape V Showcase",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Infernape V Promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Infernape V Showcase",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282645
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282645/pokemon-miscellaneous-cards-and-products-infernape-v-showcase"
+      ]
+    }
+  ]
+}

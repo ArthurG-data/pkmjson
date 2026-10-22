@@ -1,0 +1,25 @@
+{
+  "id": "me04-booster-bundle-case",
+  "region": "international",
+  "set": "me04",
+  "category": "case",
+  "name": "Chaos Rising Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Booster Bundle Case",
+      "releaseDate": "2026-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          688949
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/688949/pokemon-me04-chaos-rising-chaos-rising-booster-bundle-case"
+      ]
+    }
+  ]
+}

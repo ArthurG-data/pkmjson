@@ -1,0 +1,40 @@
+{
+  "id": "xy4-single-pack-blister-greninja",
+  "region": "international",
+  "set": "xy4",
+  "category": "blister",
+  "name": "Phantom Forces Single Pack Blister [Greninja]",
+  "identifiers": {
+    "cardmarketProductId": 586397
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy4-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Greninja.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Single Pack Blister [Greninja]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97787
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97787/pokemon-xy-phantom-forces-phantom-forces-single-pack-blister-greninja"
+      ]
+    }
+  ]
+}

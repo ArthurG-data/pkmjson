@@ -1,0 +1,97 @@
+{
+  "id": "sv03.5-151-elite-trainer-box",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "elite_trainer_box",
+  "name": "151 Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 719691
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 9
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Snorlax.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          503313
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/503313/pokemon-sv-scarlet-and-violet-151-151-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Écarlate et Violet 151",
+      "releaseDate": "2023-09-22",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-151"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Karmesin & Purpur – 151",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-151"
+      ]
+    }
+  ]
+}

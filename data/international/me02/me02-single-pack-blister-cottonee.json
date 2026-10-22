@@ -1,0 +1,35 @@
+{
+  "id": "me02-single-pack-blister-cottonee",
+  "region": "international",
+  "set": "me02",
+  "category": "blister",
+  "name": "Phantasmal Flames Single Pack Blister [Cottonee]",
+  "identifiers": {
+    "cardmarketProductId": 846737
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Single Pack Blister [Cottonee]",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654151
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654151/pokemon-me02-phantasmal-flames-phantasmal-flames-single-pack-blister-cottonee"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sm11-3-pack-hanger-box",
+  "region": "international",
+  "set": "sm11",
+  "category": "collection_box",
+  "name": "Unified Minds 3 Pack Hanger Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds 3 Pack Hanger Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232313
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232313/pokemon-sm-unified-minds-unified-minds-3-pack-hanger-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "swsh2-booster-pack",
+  "region": "international",
+  "set": "swsh2",
+  "category": "booster_pack",
+  "name": "Rebel Clash Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 453278
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield—Rebel Clash",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210562
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210562/pokemon-swsh02-rebel-clash-rebel-clash-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-rebel-clash"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Épée et Bouclier – Clash des Rebelles",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Morpeko",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-clash-des-rebelles"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Schwert & Schild – Clash der Rebellen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-clash-der-rebellen",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schwert-schild-clash-der-rebellen"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Spada e Scudo - Fragore Ribelle",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fragore-ribelle",
+        "https://www.pokemon.com/it/gcc/spada-e-scudo-fragore-ribelle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "svp-poke-ball-tin-display-q3-2023",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Poke Ball Tin Display (Q3 2023)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Poke Ball Tin Display (Q3 2023)",
+      "releaseDate": "2023-09-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516946
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516946/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q3-2023"
+      ]
+    }
+  ]
+}

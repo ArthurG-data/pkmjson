@@ -1,0 +1,50 @@
+{
+  "id": "sm4-single-pack-blister-golisopod",
+  "region": "international",
+  "set": "sm4",
+  "category": "blister",
+  "name": "Crimson Invasion Single Pack Blister [Golisopod]",
+  "identifiers": {
+    "cardmarketProductId": 585984
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm4-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM52",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 162606,
+        "cardmarketProductId": 302136,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crimson Invasion Single Pack Blister [Golisopod]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177874
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177874/pokemon-sm-crimson-invasion-crimson-invasion-single-pack-blister-golisopod"
+      ]
+    }
+  ]
+}

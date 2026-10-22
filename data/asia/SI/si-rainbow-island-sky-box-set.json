@@ -1,0 +1,24 @@
+{
+  "id": "si-rainbow-island-sky-box-set",
+  "region": "asia",
+  "set": "SI",
+  "category": "collection_box",
+  "name": "Rainbow Island Sky Box Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Mew; Pidgeot; Onix.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Rainbow Island Sky Box Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701543
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701543/pokemon-japan-southern-island-rainbow-island-sky-box-set"
+      ]
+    }
+  ]
+}

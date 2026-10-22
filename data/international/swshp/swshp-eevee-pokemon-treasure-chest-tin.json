@@ -1,0 +1,35 @@
+{
+  "id": "swshp-eevee-pokemon-treasure-chest-tin",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Eevee Pokemon Treasure Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Eevee themed mini-portfolio",
+        "count": 1
+      },
+      {
+        "name": "Assortment of Eevee stickers, including Vaporeon, Jolteon & Flareon",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cosmos holo promos featuring Vaporeon, Jolteon, & Flareon; 5 Pokémon TCG booster packs (Packs and contents may vary.); Eevee style note pad.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Eevee Pokemon Treasure Chest Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251014
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251014/pokemon-miscellaneous-cards-and-products-eevee-pokemon-treasure-chest-tin"
+      ]
+    }
+  ]
+}

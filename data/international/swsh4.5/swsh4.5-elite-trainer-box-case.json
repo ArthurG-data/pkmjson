@@ -1,0 +1,34 @@
+{
+  "id": "swsh4.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "case",
+  "name": "Shining Fates Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 690877
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-elite-trainer-box",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          266962
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/266962/pokemon-shining-fates-shining-fates-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

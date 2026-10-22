@@ -1,0 +1,70 @@
+{
+  "id": "sm4-marshadow-figure-collection",
+  "region": "international",
+  "set": "sm4",
+  "category": "collection_box",
+  "name": "Marshadow Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Detailed figure of Marshadow",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuringMarshadow; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Marshadow Figure Collection",
+      "releaseDate": "2017-11-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          152602
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/152602/pokemon-sm-crimson-invasion-marshadow-figure-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Marshadow",
+      "releaseDate": "2017-11-17",
+      "contents": {
+        "other": [
+          {
+            "name": "Detailed figure of Marshadow",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Marshadow"
+      ]
+    }
+  ]
+}

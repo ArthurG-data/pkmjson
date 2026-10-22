@@ -1,0 +1,34 @@
+{
+  "id": "sv9-booster-box",
+  "region": "asia",
+  "set": "SV9",
+  "category": "booster_box",
+  "name": "Battle Partners Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 804827
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv9-battle-partner-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: four Trainer's Pokemon: N, Lillie, Hop, Nanjamo.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Battle Partners Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          614707
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/614707/pokemon-japan-sv9-battle-partners-battle-partners-booster-box"
+      ]
+    }
+  ]
+}

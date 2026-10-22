@@ -1,0 +1,64 @@
+{
+  "id": "swshp-v-forces-tin-mew-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "V Forces Tin [Mew V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Forces Tin [Mew V]",
+      "releaseDate": "2021-02-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230402
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230402/pokemon-miscellaneous-cards-and-products-v-forces-tin-mew-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatole da collezione Forza V",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-forza-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box V-Kräfte",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-kraefte"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Fuerzas V",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-fuerzas-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Forces‑V",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-forces-v"
+      ]
+    }
+  ]
+}

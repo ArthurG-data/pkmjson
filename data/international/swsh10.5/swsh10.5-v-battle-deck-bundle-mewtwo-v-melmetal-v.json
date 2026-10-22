@@ -1,0 +1,69 @@
+{
+  "id": "swsh10.5-v-battle-deck-bundle-mewtwo-v-melmetal-v",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "battle_deck",
+  "name": "Pokemon GO V Battle Deck Bundle [Mewtwo V/Melmetal V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coins",
+        "count": 2
+      },
+      {
+        "name": "Deck boxes",
+        "count": 2
+      },
+      {
+        "name": "Quick Guides to unlock the strategies within",
+        "count": 2
+      },
+      {
+        "name": "Single-player playmats",
+        "count": 2
+      },
+      {
+        "name": "Reference cards",
+        "count": 6
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Guide to upgrading your decks",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 ready-to-play V Battle Decks (60 cards each); a foil Pokémon V: Mewtwo V or Melmetal V; 11 additional Trainer cards, including 5 foil cards; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO V Battle Deck Bundle [Mewtwo V/Melmetal V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270712
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270712/pokemon-pokemon-go-pokemon-go-v-battle-deck-bundle-mewtwo-v-melmetal-v"
+      ]
+    }
+  ]
+}

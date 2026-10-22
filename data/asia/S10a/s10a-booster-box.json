@@ -1,0 +1,34 @@
+{
+  "id": "s10a-booster-box",
+  "region": "asia",
+  "set": "S10a",
+  "category": "booster_box",
+  "name": "Dark Phantasma Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 653290
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s10a-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a Pokémon VSTAR, as well as a standard evolutionary line.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Dark Phantasma Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575042
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575042/pokemon-japan-s10a-dark-phantasma-dark-phantasma-booster-box"
+      ]
+    }
+  ]
+}

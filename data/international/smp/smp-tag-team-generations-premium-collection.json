@@ -1,0 +1,50 @@
+{
+  "id": "smp-tag-team-generations-premium-collection",
+  "region": "international",
+  "set": "smp",
+  "category": "premium_collection",
+  "name": "TAG TEAM Generations Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM229",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 205162,
+        "cardmarketProductId": 426041,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Full-size playmat featuring TAG TEAM illustrations",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring TAG TEAM Pokémon: Charizard & Braixen GX; 1 oversize foil promo card featuring Charizard & Braixen GX; 7 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "TAG TEAM Generations Premium Collection",
+      "releaseDate": "2019-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200172
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200172/pokemon-miscellaneous-cards-and-products-tag-team-generations-premium-collection"
+      ]
+    }
+  ]
+}

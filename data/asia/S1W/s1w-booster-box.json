@@ -1,0 +1,34 @@
+{
+  "id": "s1w-booster-box",
+  "region": "asia",
+  "set": "S1W",
+  "category": "booster_box",
+  "name": "Sword Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 468324
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s1w-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Sword Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574796
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574796/pokemon-japan-s1w-sword-sword-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "xy12-alola-collection-solgaleo",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "Alola Collection [Solgaleo]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alola Collection [Solgaleo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          125739
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/125739/pokemon-xy-evolutions-alola-collection-solgaleo"
+      ]
+    }
+  ]
+}

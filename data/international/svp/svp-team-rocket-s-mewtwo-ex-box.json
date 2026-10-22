@@ -1,0 +1,68 @@
+{
+  "id": "svp-team-rocket-s-mewtwo-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Team Rocket's Mewtwo ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Team Rocket's Mewtwo ex",
+        "count": 1
+      },
+      {
+        "name": "Photo sticker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Team Rocket's Mewtwo ex; 1 promo card featuring Team Rocket's Meowth; 1 promo card featuring Team Rocket's Giovanni; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket's Mewtwo ex Box",
+      "releaseDate": "2025-06-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625695
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625695/pokemon-miscellaneous-cards-and-products-team-rockets-mewtwo-ex-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Mewtwo ex del Team Rocket",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-mewtwo-ex-del-team-rocket"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Team Rockets Mewtu‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-team-rockets-mewtu-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Mewtwo‑ex de la Team Rocket",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-mewtwo-ex-de-la-team-rocket"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Mewtwo‑ex del Team Rocket",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-mewtwo-ex-del-team-rocket"
+      ]
+    }
+  ]
+}

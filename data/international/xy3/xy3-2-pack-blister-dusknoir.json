@@ -1,0 +1,37 @@
+{
+  "id": "xy3-2-pack-blister-dusknoir",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "Furious Fists 2 Pack Blister [Dusknoir]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy3-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three promotional cards: Dusknoir, Electivire, Scizor.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists 2 Pack Blister [Dusknoir]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97773
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97773/pokemon-xy-furious-fists-furious-fists-2-pack-blister-dusknoir"
+      ]
+    }
+  ]
+}

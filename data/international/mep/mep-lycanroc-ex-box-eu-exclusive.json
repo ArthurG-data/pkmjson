@@ -1,0 +1,35 @@
+{
+  "id": "mep-lycanroc-ex-box-eu-exclusive",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Lycanroc ex Box (EU Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Lycanroc ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Rockruff; 1 promo card featuring Lycanroc ex; 4 Pokémon TCG booster packs (booster packs and contents vary).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lycanroc ex Box (EU Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          680671
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/680671/pokemon-miscellaneous-cards-and-products-lycanroc-ex-box-eu-exclusive"
+      ]
+    }
+  ]
+}

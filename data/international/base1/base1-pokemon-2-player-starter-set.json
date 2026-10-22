@@ -1,0 +1,55 @@
+{
+  "id": "base1-pokemon-2-player-starter-set",
+  "region": "international",
+  "set": "base1",
+  "category": "battle_deck",
+  "name": "Pokemon 2-Player Starter Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage Counters",
+        "count": 10
+      },
+      {
+        "name": "Rulebook",
+        "count": 1
+      },
+      {
+        "name": "Starter game guide",
+        "count": 1
+      },
+      {
+        "name": "Energy Removal",
+        "count": 1
+      },
+      {
+        "name": "Energy Retrieval",
+        "count": 1
+      },
+      {
+        "name": "Fighting Energy",
+        "count": 14
+      },
+      {
+        "name": "Fire Energy",
+        "count": 14
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Two 30-Card theme decks; 1 Holographic card; 3 Diglett; 4 Machop; 2 Machoke; 1 Machamp; 4 Ponyta; 4 Charmander; 2 Charmeleon; 1 Growlithe; 2 Rattata; 1 Dratini; 1 Bill; 1 Gust of Wind; 1 Pokédex; 2 Potion; 2 Switch; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon 2-Player Starter Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107602
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107602/pokemon-base-set-shadowless-pokemon-2-player-starter-set"
+      ]
+    }
+  ]
+}

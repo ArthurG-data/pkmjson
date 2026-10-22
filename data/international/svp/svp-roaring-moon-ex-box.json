@@ -1,0 +1,60 @@
+{
+  "id": "svp-roaring-moon-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Roaring Moon ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-067",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 527878,
+        "cardmarketProductId": 740407,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Roaring Moon ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Brute Bonnet; 1 foil Trainer card featuring Ancient Booster Energy Capsule; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Roaring Moon ex Box",
+      "releaseDate": "2023-11-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516577
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516577/pokemon-miscellaneous-cards-and-products-roaring-moon-ex-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Donnersichel‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-donnersichel-ex-kollektion-eisenkrieger-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Rugit-Lune-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-rugit-lune-ex-coffret-garde-de-fer-ex"
+      ]
+    }
+  ]
+}

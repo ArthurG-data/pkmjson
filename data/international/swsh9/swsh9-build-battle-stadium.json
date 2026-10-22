@@ -1,0 +1,57 @@
+{
+  "id": "swsh9-build-battle-stadium",
+  "region": "international",
+  "set": "swsh9",
+  "category": "other",
+  "name": "Brilliant Stars Build & Battle Stadium",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Individual Build & Battle Boxes",
+        "count": 2
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 121
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Build & Battle Stadium",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256139
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256139/pokemon-swsh09-brilliant-stars-brilliant-stars-build-and-battle-stadium"
+      ]
+    }
+  ]
+}

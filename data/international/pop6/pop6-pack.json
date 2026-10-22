@@ -1,0 +1,24 @@
+{
+  "id": "pop6-pack",
+  "region": "international",
+  "set": "pop6",
+  "category": "other",
+  "name": "POP Series 6 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 6 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          141229
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/141229/pokemon-pop-series-6-pop-series-6-pack"
+      ]
+    }
+  ]
+}

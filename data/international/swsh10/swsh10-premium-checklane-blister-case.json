@@ -1,0 +1,24 @@
+{
+  "id": "swsh10-premium-checklane-blister-case",
+  "region": "international",
+  "set": "swsh10",
+  "category": "case",
+  "name": "Astral Radiance Premium Checklane Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Premium Checklane Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          696160
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/696160/pokemon-swsh10-astral-radiance-astral-radiance-premium-checklane-blister-case"
+      ]
+    }
+  ]
+}

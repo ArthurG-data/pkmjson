@@ -1,0 +1,56 @@
+{
+  "id": "svp-greninja-ex-battle-deck-2-booster-bundle",
+  "region": "international",
+  "set": "svp",
+  "category": "booster_bundle",
+  "name": "Greninja ex Battle Deck & 2 Booster Bundle",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Reference Cards",
+        "count": 3
+      },
+      {
+        "name": "Rules Booklet",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of Damage Counters",
+        "count": 1
+      },
+      {
+        "name": "Deck Box",
+        "count": 1
+      },
+      {
+        "name": "Metal Coin",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Battle Deck featuring Greninja ex; 2 Pokémon TCG booster packs; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Greninja ex Battle Deck & 2 Booster Bundle",
+      "releaseDate": "2024-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575186
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575186/pokemon-miscellaneous-cards-and-products-greninja-ex-battle-deck-and-2-booster-bundle"
+      ]
+    }
+  ]
+}

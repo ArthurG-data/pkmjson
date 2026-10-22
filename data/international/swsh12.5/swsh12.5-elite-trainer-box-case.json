@@ -1,0 +1,28 @@
+{
+  "id": "swsh12.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Crown Zenith Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 690880
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Elite Trainer Box Case",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453471
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453471/pokemon-swsh-crown-zenith-crown-zenith-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

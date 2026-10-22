@@ -1,0 +1,25 @@
+{
+  "id": "swsh2-theme-deck-display",
+  "region": "international",
+  "set": "swsh2",
+  "category": "case",
+  "name": "Rebel Clash Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Theme Deck Display",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210569
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210569/pokemon-swsh02-rebel-clash-rebel-clash-theme-deck-display"
+      ]
+    }
+  ]
+}

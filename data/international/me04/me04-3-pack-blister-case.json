@@ -1,0 +1,24 @@
+{
+  "id": "me04-3-pack-blister-case",
+  "region": "international",
+  "set": "me04",
+  "category": "case",
+  "name": "Chaos Rising 3-Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising 3-Pack Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          695118
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/695118/pokemon-me04-chaos-rising-chaos-rising-3-pack-blister-case"
+      ]
+    }
+  ]
+}

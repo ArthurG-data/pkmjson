@@ -1,0 +1,31 @@
+{
+  "id": "neo3-booster-box-1st-edition",
+  "region": "international",
+  "set": "neo3",
+  "category": "booster_box",
+  "name": "Neo Revelation Booster Box [1st Edition]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "neo3-booster-pack-1st-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Revelation Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          634445
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/634445/pokemon-neo-revelation-neo-revelation-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

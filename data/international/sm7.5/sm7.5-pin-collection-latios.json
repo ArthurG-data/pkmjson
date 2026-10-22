@@ -1,0 +1,53 @@
+{
+  "id": "sm7.5-pin-collection-latios",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "collection_box",
+  "name": "Dragon Majesty Pin Collection [Latios]",
+  "identifiers": {
+    "cardmarketProductId": 361539
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Latios",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card of Latios.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Majesty Pin Collection [Latios]",
+      "releaseDate": "2018-09-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175063
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175063/pokemon-dragon-majesty-dragon-majesty-pin-collection-latios"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Majesté des Dragons Latios",
+      "releaseDate": "2018-09-07",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Majest%C3%A9_des_Dragons_Latios"
+      ]
+    }
+  ]
+}

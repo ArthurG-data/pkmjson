@@ -1,0 +1,25 @@
+{
+  "id": "sm7-battle-arena-deck-mega-blastoise-mega-charizard-x",
+  "region": "international",
+  "set": "sm7",
+  "category": "battle_deck",
+  "name": "Battle Arena Deck [Mega Blastoise & Mega Charizard X]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 11 foil cards; 11 foil cards; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Arena Deck [Mega Blastoise & Mega Charizard X]",
+      "releaseDate": "2018-09-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175554
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175554/pokemon-sm-celestial-storm-battle-arena-deck-mega-blastoise-and-mega-charizard-x"
+      ]
+    }
+  ]
+}

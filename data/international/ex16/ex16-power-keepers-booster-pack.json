@@ -1,0 +1,28 @@
+{
+  "id": "ex16-power-keepers-booster-pack",
+  "region": "international",
+  "set": "ex16",
+  "category": "booster_pack",
+  "name": "Power Keepers Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271847
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Power Keepers",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98529
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98529/pokemon-ex-power-keepers-power-keepers-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-power-keepers"
+      ]
+    }
+  ]
+}

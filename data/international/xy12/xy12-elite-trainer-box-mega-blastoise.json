@@ -1,0 +1,53 @@
+{
+  "id": "xy12-elite-trainer-box-mega-blastoise",
+  "region": "international",
+  "set": "xy12",
+  "category": "elite_trainer_box",
+  "name": "XY Evolutions Elite Trainer Box [Mega Blastoise]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy12-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Retro Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Evolutions player guide",
+        "count": 1
+      },
+      {
+        "name": "Damage counter dice",
+        "count": 6
+      },
+      {
+        "name": "Flip coin die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 pack of Exclusive Mega Blastoise themed card sleeves. (Standard size).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Evolutions Elite Trainer Box [Mega Blastoise]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123448
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123448/pokemon-xy-evolutions-xy-evolutions-elite-trainer-box-mega-blastoise"
+      ]
+    }
+  ]
+}

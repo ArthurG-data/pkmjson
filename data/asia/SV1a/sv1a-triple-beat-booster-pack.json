@@ -1,0 +1,26 @@
+{
+  "id": "sv1a-triple-beat-booster-pack",
+  "region": "asia",
+  "set": "SV1a",
+  "category": "booster_pack",
+  "name": "Triple Beat Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「トリプレットビート」",
+      "releaseDate": "2023-03-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565249
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565249/pokemon-japan-sv1a-triplet-beat-triple-beat-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%88%E3%83%AA%E3%83%97%E3%83%AC%E3%83%83%E3%83%88%E3%83%93%E3%83%BC%E3%83%88"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sm7-build-battle-box-display",
+  "region": "international",
+  "set": "sm7",
+  "category": "case",
+  "name": "Celestial Storm Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451149
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451149/pokemon-sm-celestial-storm-celestial-storm-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "swsh3-premium-checklane-blister",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Darkness Ablaze Premium Checklane Blister",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 bonus booster pack from the Sword & Shield Series.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Premium Checklane Blister",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216863
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216863/pokemon-swsh03-darkness-ablaze-darkness-ablaze-premium-checklane-blister"
+      ]
+    }
+  ]
+}

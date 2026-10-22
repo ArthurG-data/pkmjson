@@ -1,0 +1,90 @@
+{
+  "id": "sm4-shiny-silvally-gx-box",
+  "region": "international",
+  "set": "sm4",
+  "category": "collection_box",
+  "name": "Shiny Silvally GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Jumbo version",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo card of Shiny Silvally GX (SM91); 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Silvally GX Box",
+      "releaseDate": "2017-11-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          152598
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/152598/pokemon-sm-crimson-invasion-shiny-silvally-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Silvallié chromatique",
+      "releaseDate": "2017-11-13",
+      "contents": {
+        "other": [
+          {
+            "name": "Jumbo version",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Silvalli%C3%A9-GX_chromatique"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Silvally-GX variocolor",
+      "releaseDate": "2017-11-17",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-silvally-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Silvally-GX cromatico",
+      "releaseDate": "2017-11-17",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-silvally-gx-cromatico"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "swsh5-single-strike-urshifu-v-box",
+  "region": "international",
+  "set": "swsh5",
+  "category": "collection_box",
+  "name": "Single Strike Urshifu V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH106",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 234296,
+        "cardmarketProductId": 546971,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize cards featuring Single Strike Urshifu V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo Energy cards: Single Strike Energy; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Single Strike Urshifu V Box",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231297
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231297/pokemon-swsh05-battle-styles-single-strike-urshifu-v-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Shifours Poing Final",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Shifours_Poing_Final-V"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Urshifu Golpe Brusco V y Colección Urshifu Golpe Fluido V",
+      "releaseDate": "2021-04-02",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-urshifu-golpe-brusco-v-y-coleccion-urshifu-golpe-fluido-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Fokussierter-Angriff-Wulaosu-V und Kollektion Fließender-Angriff-Wulaosu-V",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-fokussierter-angriff-wulaosu-v-und-kollektion-fliessender-angriff-wulaosu-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Urshifu Singolcolpo-V e collezione Urshifu Pluricolpo-V",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-urshifu-singolcolpo-v-e-collezione-urshifu-pluricolpo-v"
+      ]
+    }
+  ]
+}

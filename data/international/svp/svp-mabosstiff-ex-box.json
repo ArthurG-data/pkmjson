@@ -1,0 +1,68 @@
+{
+  "id": "svp-mabosstiff-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Mabosstiff ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-086",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 542255,
+        "cardmarketProductId": 751810,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-071",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 536075,
+        "cardmarketProductId": 751795,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Mabosstiff ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mabosstiff ex Box",
+      "releaseDate": "2024-02-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          531572
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/531572/pokemon-miscellaneous-cards-and-products-mabosstiff-ex-box"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Mabosstiff‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-mabosstiff-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Mastifioso‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-mastifioso-ex"
+      ]
+    }
+  ]
+}

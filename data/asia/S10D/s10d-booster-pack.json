@@ -1,0 +1,29 @@
+{
+  "id": "s10d-booster-pack",
+  "region": "asia",
+  "set": "S10D",
+  "category": "booster_pack",
+  "name": "Time Gazer Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 611244
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「タイムゲイザー」",
+      "releaseDate": "2022-04-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571833
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571833/pokemon-japan-s10d-time-gazer-time-gazer-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC"
+      ]
+    }
+  ]
+}

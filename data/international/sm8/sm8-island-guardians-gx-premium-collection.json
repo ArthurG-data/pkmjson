@@ -1,0 +1,44 @@
+{
+  "id": "sm8-island-guardians-gx-premium-collection",
+  "region": "international",
+  "set": "sm8",
+  "category": "premium_collection",
+  "name": "Island Guardians GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Colorful playmat featuring all four Island Guardians",
+        "count": 1
+      },
+      {
+        "name": "Bright metallic Tapu Lele coin",
+        "count": 1
+      },
+      {
+        "name": "Foil oversize card featuring Tapu Lele GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Tapu Lele GX; 1 foil promo card featuring Tapu Fini GX; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Island Guardians GX Premium Collection",
+      "releaseDate": "2018-11-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177864
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177864/pokemon-sm-lost-thunder-island-guardians-gx-premium-collection"
+      ]
+    }
+  ]
+}

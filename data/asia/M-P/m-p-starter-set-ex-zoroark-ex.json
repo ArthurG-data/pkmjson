@@ -1,0 +1,33 @@
+{
+  "id": "m-p-starter-set-ex-zoroark-ex",
+  "region": "asia",
+  "set": "M-P",
+  "category": "battle_deck",
+  "name": "Starter Set ex Zoroark ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Player's guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 pre-constructed deck ready to play; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スターターセットex ゾロア＆ゾロアークex",
+      "releaseDate": "2026-07-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709114
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709114/pokemon-japan-mez-starter-set-ex-zoroark-ex-starter-set-ex-zoroark-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88ex+%E3%82%BE%E3%83%AD%E3%82%A2%EF%BC%86%E3%82%BE%E3%83%AD%E3%82%A2%E3%83%BC%E3%82%AFex"
+      ]
+    }
+  ]
+}

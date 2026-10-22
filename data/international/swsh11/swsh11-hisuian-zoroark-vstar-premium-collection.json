@@ -1,0 +1,48 @@
+{
+  "id": "swsh11-hisuian-zoroark-vstar-premium-collection",
+  "region": "international",
+  "set": "swsh11",
+  "category": "premium_collection",
+  "name": "Hisuian Zoroark VSTAR Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Hisuian Zoroark VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Colorful Hisuian Zoroark pin",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Hisuian Zoroark VSTAR; 1 etched foil card featuring Hisuian Zoroark V; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hisuian Zoroark VSTAR Premium Collection",
+      "releaseDate": "2022-10-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282402
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282402/pokemon-swsh11-lost-origin-hisuian-zoroark-vstar-premium-collection"
+      ]
+    }
+  ]
+}

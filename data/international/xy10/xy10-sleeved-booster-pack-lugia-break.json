@@ -1,0 +1,24 @@
+{
+  "id": "xy10-sleeved-booster-pack-lugia-break",
+  "region": "international",
+  "set": "xy10",
+  "category": "sleeved_booster_pack",
+  "name": "XY - Fates Collide Sleeved Booster Pack [Lugia BREAK]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Fates Collide Sleeved Booster Pack [Lugia BREAK]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          504699
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/504699/pokemon-xy-fates-collide-xy-fates-collide-sleeved-booster-pack-lugia-break"
+      ]
+    }
+  ]
+}

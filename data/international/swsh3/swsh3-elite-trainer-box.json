@@ -1,0 +1,97 @@
+{
+  "id": "swsh3-elite-trainer-box",
+  "region": "international",
+  "set": "swsh3",
+  "category": "elite_trainer_box",
+  "name": "Darkness Ablaze Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 462229
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Eternatus",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Sword & Shield",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Elite Trainer Box",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216856
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216856/pokemon-swsh03-darkness-ablaze-darkness-ablaze-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Épée et Bouclier Ténèbres Embrasées",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_T%C3%A9n%C3%A8bres_Embras%C3%A9es"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Schwert & Schild – Flammende Finsternis",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-flammende-finsternis"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Spada e Scudo - Fiamme Oscure",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fiamme-oscure"
+      ]
+    }
+  ]
+}

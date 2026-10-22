@@ -1,0 +1,47 @@
+{
+  "id": "sv06-premium-checklane-blister-horsea",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade Premium Checklane Blister [Horsea]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-137",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 585578,
+        "cardmarketProductId": 785846,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Seadra; 1 promo card featuring Kingdra as well as.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Premium Checklane Blister [Horsea]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544182
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544182/pokemon-sv06-twilight-masquerade-twilight-masquerade-premium-checklane-blister-horsea"
+      ]
+    }
+  ]
+}

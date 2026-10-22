@@ -1,0 +1,24 @@
+{
+  "id": "swsh5-v-strikers-tin-tyranitar-v",
+  "region": "international",
+  "set": "swsh5",
+  "category": "tin",
+  "name": "V Strikers Tin [Tyranitar V]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon trading card game booster packs (packs are random); 1 foil promo card—featuring Tyranitar V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Strikers Tin [Tyranitar V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236377
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236377/pokemon-swsh05-battle-styles-v-strikers-tin-tyranitar-v"
+      ]
+    }
+  ]
+}

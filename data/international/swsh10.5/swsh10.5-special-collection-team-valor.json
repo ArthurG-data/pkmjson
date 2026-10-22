@@ -1,0 +1,60 @@
+{
+  "id": "swsh10.5-special-collection-team-valor",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "collection_box",
+  "name": "Pokemon GO Special Collection - Team Valor",
+  "identifiers": {
+    "cardmarketProductId": 653707
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 6
+      }
+    ],
+    "other": [
+      {
+        "name": "Deluxe pin featuring the emblem of Team Instinct, Team Mystic, or Team Valor",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A full-art foil promo card featuring Spark, Blanche, or Candela.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Special Collection - Team Valor",
+      "releaseDate": "2022-07-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270715
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270715/pokemon-pokemon-go-pokemon-go-special-collection-team-valor"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection spéciale Pokémon GO Équipe Bravoure",
+      "releaseDate": "2022-08-26",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_sp%C3%A9ciale_Pok%C3%A9mon_GO_%C3%89quipe_Bravoure"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colecciones especiales de Pokémon GO (Equipo Valor, Equipo Instinto y Equipo Sabiduría)",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-de-pokemon-go-equipo-valor-equipo-instinto-y-equipo-sabiduria"
+      ]
+    }
+  ]
+}

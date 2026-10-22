@@ -1,0 +1,24 @@
+{
+  "id": "sv06.5-kingambit-illustration-collection-case",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "case",
+  "name": "Kingambit Illustration Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kingambit Illustration Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553094
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553094/pokemon-sv-shrouded-fable-kingambit-illustration-collection-case"
+      ]
+    }
+  ]
+}

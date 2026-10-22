@@ -1,0 +1,31 @@
+{
+  "id": "xyp-2016-world-championship-deck-shintaro-ito-magical-symphony",
+  "region": "international",
+  "set": "xyp",
+  "category": "battle_deck",
+  "name": "2016 World Championship Deck: Shintaro Ito (Magical Symphony)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "2016 World Championships Deck Box",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-Card Champion Deck; 2016 World Championships Booklet, Special 2016 World Championships Deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2016 World Championship Deck: Shintaro Ito (Magical Symphony)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170456
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170456/pokemon-world-championship-decks-2016-world-championship-deck-shintaro-ito-magical-symphony"
+      ]
+    }
+  ]
+}

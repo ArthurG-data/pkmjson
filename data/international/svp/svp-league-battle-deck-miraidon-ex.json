@@ -1,0 +1,84 @@
+{
+  "id": "svp-league-battle-deck-miraidon-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Miraidon ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Accessory box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Miraidon ex]",
+      "releaseDate": "2023-11-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516580
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516580/pokemon-miscellaneous-cards-and-products-league-battle-deck-miraidon-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat de Ligue Miraidon‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-miraidon-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte di Lega Miraidon-ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-miraidon-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdeck Miraidon‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-miraidon-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Baraja Combate de Liga de Miraidon ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-miraidon-ex"
+      ]
+    }
+  ]
+}

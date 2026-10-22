@@ -1,0 +1,72 @@
+{
+  "id": "sm3-tsareena-gx-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Tsareena GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tsareena GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          141243
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/141243/pokemon-sm-burning-shadows-tsareena-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Sucreine",
+      "releaseDate": "2017-10-03",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Sucreine-GX"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Fruyal-GX",
+      "releaseDate": "2017-08-18",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-fruyal-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Tsareena-GX",
+      "releaseDate": "2017-08-18",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-tsareena-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Tsareena-GX",
+      "releaseDate": "2017-08-18",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-tsareena-gx"
+      ]
+    }
+  ]
+}

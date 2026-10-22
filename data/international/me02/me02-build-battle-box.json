@@ -1,0 +1,40 @@
+{
+  "id": "me02-build-battle-box",
+  "region": "international",
+  "set": "me02",
+  "category": "build_and_battle_box",
+  "name": "Phantasmal Flames Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 846742
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 23-card Evolution pack featuring key cards from current and prior expansions (including 1 of 4 alternate-art promo cards).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          662725
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/662725/pokemon-me02-phantasmal-flames-phantasmal-flames-build-and-battle-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "svp-paradox-powers-ex-special-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Paradox Powers ex Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Foil oversize card featuring Cyclizar ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 double rare foil card featuring Koraidon ex; 1 double rare foil card featuring Miraidon ex; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Powers ex Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          621096
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/621096/pokemon-miscellaneous-cards-and-products-paradox-powers-ex-special-collection"
+      ]
+    }
+  ]
+}

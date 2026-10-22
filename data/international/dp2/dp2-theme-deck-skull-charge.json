@@ -1,0 +1,38 @@
+{
+  "id": "dp2-theme-deck-skull-charge",
+  "region": "international",
+  "set": "dp2",
+  "category": "theme_deck",
+  "name": "Mysterious Treasures Theme Deck - \"Skull Charge\"",
+  "identifiers": {
+    "cardmarketProductId": 286582
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Treasures Theme Deck - \"Skull Charge\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229176
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229176/pokemon-mysterious-treasures-mysterious-treasures-theme-deck-skull-charge"
+      ]
+    }
+  ]
+}

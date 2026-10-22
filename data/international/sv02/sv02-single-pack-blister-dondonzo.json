@@ -1,0 +1,37 @@
+{
+  "id": "sv02-single-pack-blister-dondonzo",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved Single Pack Blister [Dondonzo]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Dondozo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Single Pack Blister [Dondonzo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          617015
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/617015/pokemon-sv02-paldea-evolved-paldea-evolved-single-pack-blister-dondonzo"
+      ]
+    }
+  ]
+}

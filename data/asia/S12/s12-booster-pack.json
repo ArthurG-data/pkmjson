@@ -1,0 +1,29 @@
+{
+  "id": "s12-booster-pack",
+  "region": "asia",
+  "set": "S12",
+  "category": "booster_pack",
+  "name": "Paradigm Trigger Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 675866
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「パラダイムトリガー」",
+      "releaseDate": "2022-10-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565251
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565251/pokemon-japan-s12-paradigm-trigger-paradigm-trigger-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sv06-single-pack-blister-toxel",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade Single Pack Blister [Toxel]",
+  "identifiers": {
+    "cardmarketProductId": 761226
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-119",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 554293,
+        "cardmarketProductId": 769419,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Single Pack Blister [Toxel]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544179
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544179/pokemon-sv06-twilight-masquerade-twilight-masquerade-single-pack-blister-toxel"
+      ]
+    }
+  ]
+}

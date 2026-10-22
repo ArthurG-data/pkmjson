@@ -1,0 +1,24 @@
+{
+  "id": "swshp-pokemon-tcg-trainer-s-toolkit-2021-case",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Pokemon TCG: Trainer's Toolkit (2021) Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Trainer's Toolkit (2021) Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277564
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277564/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2021-case"
+      ]
+    }
+  ]
+}

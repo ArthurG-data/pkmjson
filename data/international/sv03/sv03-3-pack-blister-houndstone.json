@@ -1,0 +1,35 @@
+{
+  "id": "sv03-3-pack-blister-houndstone",
+  "region": "international",
+  "set": "sv03",
+  "category": "blister",
+  "name": "Obsidian Flames 3 Pack Blister [Houndstone]",
+  "identifiers": {
+    "cardmarketProductId": 715772
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Houndstone.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames 3 Pack Blister [Houndstone]",
+      "releaseDate": "2023-08-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501260
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501260/pokemon-sv03-obsidian-flames-obsidian-flames-3-pack-blister-houndstone"
+      ]
+    }
+  ]
+}

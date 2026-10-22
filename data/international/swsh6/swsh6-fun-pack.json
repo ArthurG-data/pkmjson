@@ -1,0 +1,24 @@
+{
+  "id": "swsh6-fun-pack",
+  "region": "international",
+  "set": "swsh6",
+  "category": "other",
+  "name": "Chilling Reign Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          702296
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/702296/pokemon-swsh06-chilling-reign-chilling-reign-fun-pack"
+      ]
+    }
+  ]
+}

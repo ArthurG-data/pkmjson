@@ -1,0 +1,38 @@
+{
+  "id": "svp-slashing-legends-tin-koraidon-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Slashing Legends Tin [Koraidon ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Koraidon ex or Zacian ex; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Slashing Legends Tin [Koraidon ex]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          623647
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/623647/pokemon-miscellaneous-cards-and-products-slashing-legends-tin-koraidon-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Leggende Sovrane",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-sovrane"
+      ]
+    }
+  ]
+}

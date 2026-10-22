@@ -1,0 +1,24 @@
+{
+  "id": "swsh12.5-collection-case",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Crown Zenith Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          490542
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/490542/pokemon-swsh-crown-zenith-crown-zenith-collection-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sv2a-card-file-set-poke-ball",
+  "region": "asia",
+  "set": "SV2a",
+  "category": "other",
+  "name": "Pokemon Card 151 Card File Set - Poke Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv2a-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Binder",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 promos.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Pokemon Card 151 Card File Set - Poke Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          618706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/618706/pokemon-japan-sv2a-pokemon-card-151-pokemon-card-151-card-file-set-poke-ball"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "xy0-deluxe-kalos-starter-deck-fennekin",
+  "region": "international",
+  "set": "xy0",
+  "category": "battle_deck",
+  "name": "Deluxe Kalos Starter Deck [Fennekin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Fennekin deckbox",
+        "count": 1
+      },
+      {
+        "name": "Code for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack from the Black & White Series; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Deluxe Kalos Starter Deck [Fennekin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97720
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97720/pokemon-kalos-starter-set-deluxe-kalos-starter-deck-fennekin"
+      ]
+    }
+  ]
+}

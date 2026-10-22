@@ -1,0 +1,50 @@
+{
+  "id": "sm6-3-pack-blister-regigigas",
+  "region": "international",
+  "set": "sm6",
+  "category": "blister",
+  "name": "Forbidden Light 3 Pack Blister [Regigigas]",
+  "identifiers": {
+    "cardmarketProductId": 585979
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm6-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM243",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 211626,
+        "cardmarketProductId": 449128,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light 3 Pack Blister [Regigigas]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164299
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164299/pokemon-sm-forbidden-light-forbidden-light-3-pack-blister-regigigas"
+      ]
+    }
+  ]
+}

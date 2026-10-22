@@ -1,0 +1,41 @@
+{
+  "id": "swsh2-build-battle-box",
+  "region": "international",
+  "set": "swsh2",
+  "category": "build_and_battle_box",
+  "name": "Rebel Clash Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 453468
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Build & Battle Box",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          212821
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/212821/pokemon-swsh02-rebel-clash-rebel-clash-build-and-battle-box"
+      ]
+    }
+  ]
+}

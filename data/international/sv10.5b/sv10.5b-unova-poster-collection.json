@@ -1,0 +1,75 @@
+{
+  "id": "sv10.5b-unova-poster-collection",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "collection_box",
+  "name": "Unova Poster Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5b-booster-pack",
+        "count": 2
+      },
+      {
+        "product": "sv10.5w-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Poster",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Snivy; 1 promo card featuring Tepig; 1 promo card featuring Oshawott.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unova Poster Collection",
+      "releaseDate": "2025-07-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630612
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630612/pokemon-sv-black-bolt-unova-poster-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection poster Unys",
+      "releaseDate": "2025-07-18",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_poster_Unys"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con poster Unima",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Poster-Kollektion Einall",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con póster Teselia",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia"
+      ]
+    }
+  ]
+}

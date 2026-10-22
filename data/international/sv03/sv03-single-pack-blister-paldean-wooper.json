@@ -1,0 +1,50 @@
+{
+  "id": "sv03-single-pack-blister-paldean-wooper",
+  "region": "international",
+  "set": "sv03",
+  "category": "blister",
+  "name": "Obsidian Flames Single Pack Blister [Paldean Wooper]",
+  "identifiers": {
+    "cardmarketProductId": 720948
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-041",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 512049,
+        "cardmarketProductId": 720943,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Single Pack Blister [Paldean Wooper]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          512047
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/512047/pokemon-sv03-obsidian-flames-obsidian-flames-single-pack-blister-paldean-wooper"
+      ]
+    }
+  ]
+}

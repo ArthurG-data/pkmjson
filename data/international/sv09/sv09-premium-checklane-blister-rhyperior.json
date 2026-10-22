@@ -1,0 +1,44 @@
+{
+  "id": "sv09-premium-checklane-blister-rhyperior",
+  "region": "international",
+  "set": "sv09",
+  "category": "blister",
+  "name": "Journey Together Premium Checklane Blister [Rhyperior]",
+  "identifiers": {
+    "cardmarketProductId": 805589
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Premium Checklane Blister [Rhyperior]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610951
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610951/pokemon-sv09-journey-together-journey-together-premium-checklane-blister-rhyperior"
+      ]
+    }
+  ]
+}

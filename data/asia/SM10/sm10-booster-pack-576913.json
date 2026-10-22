@@ -1,0 +1,29 @@
+{
+  "id": "sm10-booster-pack-576913",
+  "region": "asia",
+  "set": "SM10",
+  "category": "booster_pack",
+  "name": "Double Blaze Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550416
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「ダブルブレイズ」",
+      "releaseDate": "2019-03-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576913
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576913/pokemon-japan-sm10-double-blaze-double-blaze-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%82%BA"
+      ]
+    }
+  ]
+}

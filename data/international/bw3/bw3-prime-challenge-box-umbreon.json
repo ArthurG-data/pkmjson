@@ -1,0 +1,24 @@
+{
+  "id": "bw3-prime-challenge-box-umbreon",
+  "region": "international",
+  "set": "bw3",
+  "category": "collection_box",
+  "name": "Prime Challenge Box [Umbreon]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prime Challenge Box [Umbreon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98629
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98629/pokemon-noble-victories-prime-challenge-box-umbreon"
+      ]
+    }
+  ]
+}

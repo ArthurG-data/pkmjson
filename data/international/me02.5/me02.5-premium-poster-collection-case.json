@@ -1,0 +1,24 @@
+{
+  "id": "me02.5-premium-poster-collection-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Premium Poster Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Premium Poster Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          685000
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/685000/pokemon-me-ascended-heroes-premium-poster-collection-case"
+      ]
+    }
+  ]
+}

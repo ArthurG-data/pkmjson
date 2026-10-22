@@ -1,0 +1,53 @@
+{
+  "id": "swshp-eevee-evolutions-tin-vaporeon-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Eevee Evolutions Tin [Vaporeon V]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Vaporeon V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Eevee Evolutions Tin [Vaporeon V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          243559
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/243559/pokemon-miscellaneous-cards-and-products-eevee-evolutions-tin-vaporeon-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Évolutions d’Évoli",
+      "releaseDate": "2021-09-03",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-evolutions-devoli"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box Evoli-Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-evoli-entwicklungen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Evoluciones de Eevee",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-evoluciones-de-eevee"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Evoluzioni di Eevee",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-evoluzioni-di-eevee"
+      ]
+    }
+  ]
+}

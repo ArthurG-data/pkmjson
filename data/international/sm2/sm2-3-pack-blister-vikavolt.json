@@ -1,0 +1,40 @@
+{
+  "id": "sm2-3-pack-blister-vikavolt",
+  "region": "international",
+  "set": "sm2",
+  "category": "blister",
+  "name": "Guardians Rising 3 Pack Blister [Vikavolt]",
+  "identifiers": {
+    "cardmarketProductId": 586008
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Vikavolt.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising 3 Pack Blister [Vikavolt]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          184339
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/184339/pokemon-sm-guardians-rising-guardians-rising-3-pack-blister-vikavolt"
+      ]
+    }
+  ]
+}

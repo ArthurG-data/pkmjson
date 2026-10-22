@@ -1,0 +1,29 @@
+{
+  "id": "sv9a-booster-pack",
+  "region": "asia",
+  "set": "SV9a",
+  "category": "booster_pack",
+  "name": "Heat Wave Arena Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 810651
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「熱風のアリーナ」",
+      "releaseDate": "2025-03-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          623311
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/623311/pokemon-japan-sv9a-heat-wave-arena-heat-wave-arena-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E7%86%B1%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "swshp-venusaur-vmax-battle-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Venusaur VMAX Battle Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH102",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 234298,
+        "cardmarketProductId": 546981,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Venusaur VMAX",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring Gigantamax Venusaur",
+        "count": 65
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Venusaur VMAX Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231294
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231294/pokemon-miscellaneous-cards-and-products-venusaur-vmax-battle-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Combat Florizarre‑VMAX ou Tortank‑VMAX",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-combat-florizarre-vmax-ou-tortank-vmax"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Lotte Venusaur-VMAX o collezione Lotte Blastoise-VMAX",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-lotte-venusaur-vmax-o-collezione-lotte-blastoise-vmax"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kampfbox Bisaflor-VMAX oder Turtok-VMAX",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfbox-bisaflor-vmax-oder-turtok-vmax"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Combate Venusaur VMAX o Blastoise VMAX",
+      "releaseDate": "2021-04-02",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-combate-venusaur-vmax-o-blastoise-vmax"
+      ]
+    }
+  ]
+}

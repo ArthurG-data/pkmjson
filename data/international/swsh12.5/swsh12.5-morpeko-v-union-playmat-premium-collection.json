@@ -1,0 +1,78 @@
+{
+  "id": "swsh12.5-morpeko-v-union-playmat-premium-collection",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "premium_collection",
+  "name": "Morpeko V-UNION Playmat Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 683025
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card featuring Morpeko V-UNION",
+        "count": 1
+      },
+      {
+        "name": "Playmat featuring Marnie and Morpeko",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 etched promo cards that make up a single Morpeko V-UNION; 1 helpful Supporter card featuring Professor Burnet.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Morpeko V-UNION Playmat Premium Collection",
+      "releaseDate": "2023-04-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475644
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475644/pokemon-swsh-crown-zenith-morpeko-v-union-playmat-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium avec tapis de jeu Zénith Suprême Morpeko-V-UNION",
+      "releaseDate": "2023-04-14",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_avec_tapis_de_jeu_Z%C3%A9nith_Supr%C3%AAme_Morpeko-V-UNION"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium con tapete Morpeko V‑UNIÓN de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-con-tapete-morpeko-v-union-de-cenit-supremo"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium con tabellone di gioco Morpeko‑V UNIONE dell’espansione Zenit Regale",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-tabellone-di-gioco-morpeko-v-unione-dell-espansione-zenit-regale"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Spielunterlagen-Kollektion Zenit der Könige: Morpeko‑V‑UNION",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-spielunterlagen-kollektion-zenit-der-koenige-morpeko-v-union"
+      ]
+    }
+  ]
+}

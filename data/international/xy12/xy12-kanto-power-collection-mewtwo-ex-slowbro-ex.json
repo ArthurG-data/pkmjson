@@ -1,0 +1,41 @@
+{
+  "id": "xy12-kanto-power-collection-mewtwo-ex-slowbro-ex",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "Kanto Power Collection [Mewtwo EX/Slowbro EX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy12-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Fantastic oversize card featuring Mewtwo-EX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 powerful Pokémon from the Kanto region: Mewtwo-EX and Slowbro-EX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kanto Power Collection [Mewtwo EX/Slowbro EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          222988
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/222988/pokemon-xy-evolutions-kanto-power-collection-mewtwo-ex-slowbro-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pokemon-stacking-tin-grass",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Grass",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Grass",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          260866
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/260866/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-grass"
+      ]
+    }
+  ]
+}

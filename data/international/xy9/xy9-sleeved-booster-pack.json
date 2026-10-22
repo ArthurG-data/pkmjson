@@ -1,0 +1,24 @@
+{
+  "id": "xy9-sleeved-booster-pack",
+  "region": "international",
+  "set": "xy9",
+  "category": "sleeved_booster_pack",
+  "name": "XY - BREAKpoint Sleeved Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - BREAKpoint Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          542096
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/542096/pokemon-xy-breakpoint-xy-breakpoint-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

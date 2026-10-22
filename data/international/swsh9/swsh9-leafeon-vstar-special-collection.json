@@ -1,0 +1,46 @@
+{
+  "id": "swsh9-leafeon-vstar-special-collection",
+  "region": "international",
+  "set": "swsh9",
+  "category": "collection_box",
+  "name": "Leafeon VSTAR Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH194",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 262563,
+        "cardmarketProductId": 604996,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Etched oversize card featuring Leafeon VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Leafeon VSTAR; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Leafeon VSTAR Special Collection",
+      "releaseDate": "2022-01-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256147
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256147/pokemon-swsh09-brilliant-stars-leafeon-vstar-special-collection"
+      ]
+    }
+  ]
+}

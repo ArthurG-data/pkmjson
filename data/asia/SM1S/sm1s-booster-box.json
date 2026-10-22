@@ -1,0 +1,34 @@
+{
+  "id": "sm1s-booster-box",
+  "region": "asia",
+  "set": "SM1S",
+  "category": "booster_box",
+  "name": "Collection Sun Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551861
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm1s-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Collection Sun Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576855
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576855/pokemon-japan-sm1s-collection-sun-collection-sun-booster-box"
+      ]
+    }
+  ]
+}

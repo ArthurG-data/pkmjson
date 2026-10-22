@@ -1,0 +1,34 @@
+{
+  "id": "sv09-booster-box",
+  "region": "international",
+  "set": "sv09",
+  "category": "booster_box",
+  "name": "Journey Together Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 805579
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610931
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610931/pokemon-sv09-journey-together-journey-together-booster-box"
+      ]
+    }
+  ]
+}

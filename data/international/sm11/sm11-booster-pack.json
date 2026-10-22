@@ -1,0 +1,37 @@
+{
+  "id": "sm11-booster-pack",
+  "region": "international",
+  "set": "sm11",
+  "category": "booster_pack",
+  "name": "Unified Minds Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 377490
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon—Unified Minds",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191883
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191883/pokemon-sm-unified-minds-unified-minds-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-unified-minds"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Soleil et Lune – Harmonie des Esprits",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-harmonie-des-esprits"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "swshp-pokemon-tcg-trainer-s-toolkit-2021",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pokemon TCG: Trainer's Toolkit (2021)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves to protect your deck",
+        "count": 65
+      },
+      {
+        "name": "Deck Builder’s Guide",
+        "count": 1
+      },
+      {
+        "name": "Complete Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Set of 7 tournament-legal dice",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 copies of Crobat V; 4 Pokémon TCG booster packs to expand your collection.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Trainer's Toolkit (2021)",
+      "releaseDate": "2021-08-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          241109
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/241109/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2021"
+      ]
+    }
+  ]
+}

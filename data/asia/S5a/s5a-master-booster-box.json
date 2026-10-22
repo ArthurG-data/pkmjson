@@ -1,0 +1,31 @@
+{
+  "id": "s5a-master-booster-box",
+  "region": "asia",
+  "set": "S5a",
+  "category": "booster_box",
+  "name": "Peerless Fighters Master Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s5a-master-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Peerless Fighters Master Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565362
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565362/pokemon-japan-s5a-peerless-fighters-peerless-fighters-master-booster-box"
+      ]
+    }
+  ]
+}

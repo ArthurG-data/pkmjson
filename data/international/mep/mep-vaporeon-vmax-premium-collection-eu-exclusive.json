@@ -1,0 +1,39 @@
+{
+  "id": "mep-vaporeon-vmax-premium-collection-eu-exclusive",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Vaporeon VMAX Premium Collection (EU Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Etched oversize card featuring Vaporeon VMAX, suitable for display",
+        "count": 1
+      },
+      {
+        "name": "Colorful pin featuring Vaporeon",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched card featuring Vaporeon VMAX; 1 full-art card featuring Vaporeon V; 5 Pokémon TCG booster packs (packs vary per product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vaporeon VMAX Premium Collection (EU Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701530
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701530/pokemon-miscellaneous-cards-and-products-vaporeon-vmax-premium-collection-eu-exclusive"
+      ]
+    }
+  ]
+}

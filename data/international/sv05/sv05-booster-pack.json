@@ -1,0 +1,28 @@
+{
+  "id": "sv05-booster-pack",
+  "region": "international",
+  "set": "sv05",
+  "category": "booster_pack",
+  "name": "Temporal Forces Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 750399
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet—Temporal Forces",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532841
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532841/pokemon-sv05-temporal-forces-temporal-forces-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-temporal-forces"
+      ]
+    }
+  ]
+}

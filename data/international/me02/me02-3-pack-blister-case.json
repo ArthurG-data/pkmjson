@@ -1,0 +1,24 @@
+{
+  "id": "me02-3-pack-blister-case",
+  "region": "international",
+  "set": "me02",
+  "category": "case",
+  "name": "Phantasmal Flames 3-Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames 3-Pack Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          685215
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/685215/pokemon-me02-phantasmal-flames-phantasmal-flames-3-pack-blister-case"
+      ]
+    }
+  ]
+}

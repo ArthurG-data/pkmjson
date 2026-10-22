@@ -1,0 +1,24 @@
+{
+  "id": "svp-pokemon-tcg-twin-mini-portfolio-booster-packs-mega-mewtwo-guzzlord",
+  "region": "international",
+  "set": "svp",
+  "category": "booster_pack",
+  "name": "Pokemon TCG: Twin Mini Portfolio & Booster Packs [Mega Mewtwo & Guzzlord]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Twin Mini Portfolio & Booster Packs [Mega Mewtwo & Guzzlord]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624518
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624518/pokemon-miscellaneous-cards-and-products-pokemon-tcg-twin-mini-portfolio-and-booster-packs-mega-mewtwo-and-guzzlord"
+      ]
+    }
+  ]
+}

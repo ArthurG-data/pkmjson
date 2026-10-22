@@ -1,0 +1,38 @@
+{
+  "id": "bw4-theme-deck-explosive-edge-reshiram",
+  "region": "international",
+  "set": "bw4",
+  "category": "theme_deck",
+  "name": "Next Destinies Theme Deck - \"Explosive Edge\" [Reshiram]",
+  "identifiers": {
+    "cardmarketProductId": 286550
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Next Destinies Theme Deck - \"Explosive Edge\" [Reshiram]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98633
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98633/pokemon-next-destinies-next-destinies-theme-deck-explosive-edge-reshiram"
+      ]
+    }
+  ]
+}

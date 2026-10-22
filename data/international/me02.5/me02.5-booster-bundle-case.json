@@ -1,0 +1,32 @@
+{
+  "id": "me02.5-booster-bundle-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Ascended Heroes Booster Bundle Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-bundle",
+        "count": 25
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Booster Bundle Case",
+      "releaseDate": "2026-04-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          681339
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/681339/pokemon-me-ascended-heroes-ascended-heroes-booster-bundle-case"
+      ]
+    }
+  ]
+}

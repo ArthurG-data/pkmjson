@@ -1,0 +1,52 @@
+{
+  "id": "swsh10.5-tin-blissey",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "tin",
+  "name": "Pokemon GO Tin [Blissey]",
+  "identifiers": {
+    "cardmarketProductId": 653710
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pikachu; 1 additional foil card featuring Pikachu, Snorlax, or Blissey.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Tin [Blissey]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270725
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270725/pokemon-pokemon-go-pokemon-go-tin-blissey"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Pokémon GO Leuphorie",
+      "releaseDate": "2022-11-15",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Pok%C3%A9mon_GO_Leuphorie"
+      ]
+    }
+  ]
+}

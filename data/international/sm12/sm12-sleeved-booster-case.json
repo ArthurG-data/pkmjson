@@ -1,0 +1,31 @@
+{
+  "id": "sm12-sleeved-booster-case",
+  "region": "international",
+  "set": "sm12",
+  "category": "case",
+  "name": "Cosmic Eclipse Sleeved Booster Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Sleeved Booster Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656706/pokemon-sm-cosmic-eclipse-cosmic-eclipse-sleeved-booster-case"
+      ]
+    }
+  ]
+}

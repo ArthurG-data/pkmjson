@@ -1,0 +1,24 @@
+{
+  "id": "sv06-build-battle-box-display",
+  "region": "international",
+  "set": "sv06",
+  "category": "case",
+  "name": "Twilight Masquerade Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          549489
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/549489/pokemon-sv06-twilight-masquerade-twilight-masquerade-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

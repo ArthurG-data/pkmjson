@@ -1,0 +1,24 @@
+{
+  "id": "base1-booster-pack-revised-unlimited-edition",
+  "region": "international",
+  "set": "base1",
+  "category": "booster_pack",
+  "name": "Base Set Booster Pack [Revised Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set Booster Pack [Revised Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          138130
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/138130/pokemon-base-set-base-set-booster-pack-revised-unlimited-edition"
+      ]
+    }
+  ]
+}

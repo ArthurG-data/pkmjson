@@ -1,0 +1,35 @@
+{
+  "id": "svp-oinkologne-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Oinkologne ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Oinkologne ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 double rare foil card featuring Oinkologne ex; 1 foil card featuring Lechonk; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Oinkologne ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          527801
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/527801/pokemon-miscellaneous-cards-and-products-oinkologne-ex-box"
+      ]
+    }
+  ]
+}

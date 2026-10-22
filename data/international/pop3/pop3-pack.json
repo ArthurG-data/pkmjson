@@ -1,0 +1,24 @@
+{
+  "id": "pop3-pack",
+  "region": "international",
+  "set": "pop3",
+  "category": "other",
+  "name": "POP Series 3 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 3 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190532
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190532/pokemon-pop-series-3-pop-series-3-pack"
+      ]
+    }
+  ]
+}

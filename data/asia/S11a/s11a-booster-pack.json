@@ -1,0 +1,29 @@
+{
+  "id": "s11a-booster-pack",
+  "region": "asia",
+  "set": "S11a",
+  "category": "booster_pack",
+  "name": "Incandescent Arcana Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 669631
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「白熱のアルカナ」",
+      "releaseDate": "2022-09-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574875
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574875/pokemon-japan-s11a-incandescent-arcana-incandescent-arcana-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E7%99%BD%E7%86%B1%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A"
+      ]
+    }
+  ]
+}

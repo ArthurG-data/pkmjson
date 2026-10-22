@@ -1,0 +1,38 @@
+{
+  "id": "bw1-theme-deck-green-tornado-serperior",
+  "region": "international",
+  "set": "bw1",
+  "category": "theme_deck",
+  "name": "Black & White Theme Deck - \"Green Tornado\" [Serperior]",
+  "identifiers": {
+    "cardmarketProductId": 286543
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White Theme Deck - \"Green Tornado\" [Serperior]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98610
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98610/pokemon-black-and-white-black-and-white-theme-deck-green-tornado-serperior"
+      ]
+    }
+  ]
+}

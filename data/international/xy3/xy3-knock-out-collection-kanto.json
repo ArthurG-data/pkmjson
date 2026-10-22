@@ -1,0 +1,24 @@
+{
+  "id": "xy3-knock-out-collection-kanto",
+  "region": "international",
+  "set": "xy3",
+  "category": "collection_box",
+  "name": "XY Knock Out Collection [Kanto]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Knock Out Collection [Kanto]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97780
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97780/pokemon-xy-furious-fists-xy-knock-out-collection-kanto"
+      ]
+    }
+  ]
+}

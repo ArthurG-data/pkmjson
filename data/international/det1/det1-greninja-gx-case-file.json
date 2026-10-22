@@ -1,0 +1,27 @@
+{
+  "id": "det1-greninja-gx-case-file",
+  "region": "international",
+  "set": "det1",
+  "category": "case",
+  "name": "Detective Pikachu: Greninja GX Case File",
+  "identifiers": {
+    "cardmarketProductId": 370622
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu: Greninja GX Case File",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185243
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185243/pokemon-detective-pikachu-detective-pikachu-greninja-gx-case-file"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "swsh12-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh12",
+  "category": "case",
+  "name": "Silver Tempest Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873121
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285777
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285777/pokemon-swsh12-silver-tempest-silver-tempest-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

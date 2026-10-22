@@ -1,0 +1,24 @@
+{
+  "id": "swsh12.5-pikachu-vmax-special-collection-case",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Pikachu VMAX Special Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu VMAX Special Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485423
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/485423/pokemon-swsh-crown-zenith-pikachu-vmax-special-collection-case"
+      ]
+    }
+  ]
+}

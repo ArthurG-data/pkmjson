@@ -1,0 +1,35 @@
+{
+  "id": "swsh9-booster-box",
+  "region": "international",
+  "set": "swsh9",
+  "category": "booster_box",
+  "name": "Brilliant Stars Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 583512
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Booster Box",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256141
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256141/pokemon-swsh09-brilliant-stars-brilliant-stars-booster-box"
+      ]
+    }
+  ]
+}

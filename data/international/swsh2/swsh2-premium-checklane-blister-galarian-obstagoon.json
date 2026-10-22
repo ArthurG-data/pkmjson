@@ -1,0 +1,44 @@
+{
+  "id": "swsh2-premium-checklane-blister-galarian-obstagoon",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Rebel Clash Premium Checklane Blister [Galarian Obstagoon]",
+  "identifiers": {
+    "cardmarketProductId": 585889
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Premium Checklane Blister [Galarian Obstagoon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          276576
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/276576/pokemon-swsh02-rebel-clash-rebel-clash-premium-checklane-blister-galarian-obstagoon"
+      ]
+    }
+  ]
+}

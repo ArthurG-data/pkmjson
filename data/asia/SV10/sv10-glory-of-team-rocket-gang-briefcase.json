@@ -1,0 +1,24 @@
+{
+  "id": "sv10-glory-of-team-rocket-gang-briefcase",
+  "region": "asia",
+  "set": "SV10",
+  "category": "other",
+  "name": "Glory of Team Rocket Gang Briefcase",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 30 Glory of Team Rocket packs.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Glory of Team Rocket Gang Briefcase",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          690290
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/690290/pokemon-japan-sv10-the-glory-of-team-rocket-glory-of-team-rocket-gang-briefcase"
+      ]
+    }
+  ]
+}

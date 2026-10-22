@@ -1,0 +1,43 @@
+{
+  "id": "swshp-meowth-vmax-special-collection-international-version",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Meowth VMAX Special Collection (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH004",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 205465,
+        "cardmarketProductId": 427096,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH005",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 205466,
+        "cardmarketProductId": 427101,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Assorted Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Meowth VMAX Special Collection (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230427
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230427/pokemon-miscellaneous-cards-and-products-meowth-vmax-special-collection-international-version"
+      ]
+    }
+  ]
+}

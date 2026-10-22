@@ -1,0 +1,52 @@
+{
+  "id": "sv08-3-pack-blisters-quagsire",
+  "region": "international",
+  "set": "sv08",
+  "category": "blister",
+  "name": "Surging Sparks 3 Pack Blisters [Quagsire]",
+  "identifiers": {
+    "cardmarketProductId": 784957
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-156",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 594403,
+        "cardmarketProductId": 796927,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks 3 Pack Blisters [Quagsire]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565635
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565635/pokemon-sv08-surging-sparks-surging-sparks-3-pack-blisters-quagsire"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack EV08 Maraiste",
+      "releaseDate": "2024-11-08",
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_EV08_Maraiste"
+      ]
+    }
+  ]
+}

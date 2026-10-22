@@ -1,0 +1,31 @@
+{
+  "id": "swsh1-single-blister-pack-wimpod-golisopod",
+  "region": "international",
+  "set": "swsh1",
+  "category": "blister",
+  "name": "Sword & Shield Single Blister Pack [Wimpod & Golisopod]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Wimpod, Golisopod.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Single Blister Pack [Wimpod & Golisopod]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668504
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668504/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-single-blister-pack-wimpod-and-golisopod"
+      ]
+    }
+  ]
+}

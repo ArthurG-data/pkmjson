@@ -1,0 +1,38 @@
+{
+  "id": "xy11-theme-deck-gears-of-fire-volcanion",
+  "region": "international",
+  "set": "xy11",
+  "category": "theme_deck",
+  "name": "Steam Siege Theme Deck - \"Gears of Fire\" [Volcanion]",
+  "identifiers": {
+    "cardmarketProductId": 293303
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Theme Deck - \"Gears of Fire\" [Volcanion]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120698
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120698/pokemon-xy-steam-siege-steam-siege-theme-deck-gears-of-fire-volcanion"
+      ]
+    }
+  ]
+}

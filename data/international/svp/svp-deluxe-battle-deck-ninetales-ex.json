@@ -1,0 +1,70 @@
+{
+  "id": "svp-deluxe-battle-deck-ninetales-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "Deluxe Battle Deck [Ninetales ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Single-player playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Deluxe Battle Deck [Ninetales ex]",
+      "releaseDate": "2024-03-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          539429
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/539429/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-ninetales-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Baraja Combate Deluxe de Ninetales ex y baraja Combate Deluxe de Zapdos ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-deluxe-de-ninetales-ex-y-baraja-combate-deluxe-de-zapdos-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat Deluxe Feunard‑ex et Deck Combat Deluxe Électhor‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-deluxe-feunard-ex-et-deck-combat-deluxe-electhor-ex"
+      ]
+    }
+  ]
+}

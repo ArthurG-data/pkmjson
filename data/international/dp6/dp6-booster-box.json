@@ -1,0 +1,27 @@
+{
+  "id": "dp6-booster-box",
+  "region": "international",
+  "set": "dp6",
+  "category": "booster_box",
+  "name": "Legends Awakened Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271902
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends Awakened Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98536
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98536/pokemon-legends-awakened-legends-awakened-booster-box"
+      ]
+    }
+  ]
+}

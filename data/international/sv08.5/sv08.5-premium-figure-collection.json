@@ -1,0 +1,82 @@
+{
+  "id": "sv08.5-premium-figure-collection",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Premium Figure Collection",
+  "identifiers": {
+    "cardmarketProductId": 834800
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Figure featuring Espeon and Umbreon",
+        "count": 1
+      },
+      {
+        "name": "Pin featuring Espeon and Umbreon",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring Espeon and Umbreon",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Espeon ex; 1 etched foil promo card featuring Umbreon ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Premium Figure Collection",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650799
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650799/pokemon-sv-prismatic-evolutions-prismatic-evolutions-premium-figure-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium avec figurine Écarlate et Violet Évolutions Prismatiques",
+      "releaseDate": "2025-10-10",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_avec_figurine_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium con figura de Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-con-figura-de-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Figuren-Kollektion Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-figuren-kollektion-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium con statuina dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-statuina-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
+      ]
+    }
+  ]
+}

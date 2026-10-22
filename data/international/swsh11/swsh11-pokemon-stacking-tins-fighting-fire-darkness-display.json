@@ -1,0 +1,25 @@
+{
+  "id": "swsh11-pokemon-stacking-tins-fighting-fire-darkness-display",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness Display",
+      "releaseDate": "2022-10-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282407
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282407/pokemon-swsh11-lost-origin-pokemon-stacking-tins-fighting-fire-darkness-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xy10-elite-trainer-box",
+  "region": "international",
+  "set": "xy10",
+  "category": "elite_trainer_box",
+  "name": "Fates Collide Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 289044
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fates Collide Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118331
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118331/pokemon-xy-fates-collide-fates-collide-elite-trainer-box"
+      ]
+    }
+  ]
+}

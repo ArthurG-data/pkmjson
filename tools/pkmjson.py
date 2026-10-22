@@ -17,10 +17,23 @@ ASIA_LANGUAGES = {"ja", "ko", "zh-tw", "zh-cn", "th", "id"}
 TCGDEX_API = "https://api.tcgdex.net/v2"
 
 
+SETS = ROOT / "sets" / "sets.json"
+
+
 @dataclass(frozen=True)
 class Family:
     path: Path
     data: dict
+
+
+def official_set_names(path: Path = SETS) -> dict[tuple[str, str, str], str]:
+    """(region, set, language) -> the set's name as printed on its packs, from sets/sets.json. Names that only
+    TCGdex gives are left out: they are not always the printed name."""
+    if not path.exists():
+        return {}
+    sets = json.loads(path.read_text(encoding="utf-8"))
+    return {(s["region"], s["set"], lang): v["name"] for s in sets.values() for lang, v in s["languages"].items()
+            if "tcgdex.net" not in v.get("source", "")}
 
 
 def load(data_dir: Path) -> list[Family]:
@@ -163,7 +176,7 @@ def flatten(families: Iterable[Family]) -> dict[str, dict]:
                 "category": d["category"],
                 "name": r["name"],
                 "releaseDate": r.get("releaseDate"),
-                "identifiers": r.get("identifiers", {}),
+                "identifiers": {**d.get("identifiers", {}), **r.get("identifiers", {})},
                 "contentsStatus": d["contentsStatus"],
                 "contents": {
                     "sealed": [{"product": f"{i['product']}:{lang}", "count": i["count"]}

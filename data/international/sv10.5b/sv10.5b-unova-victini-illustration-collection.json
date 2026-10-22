@@ -1,0 +1,83 @@
+{
+  "id": "sv10.5b-unova-victini-illustration-collection",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "collection_box",
+  "name": "Unova Victini Illustration Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5b-booster-pack",
+        "count": 2
+      },
+      {
+        "product": "sv10.5w-booster-pack",
+        "count": 2
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-208",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 646169,
+        "cardmarketProductId": 836653,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-208",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 646169,
+        "cardmarketProductId": 836653,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one oversize illustration rare style foil promo card featuring Victini.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unova Victini Illustration Collection",
+      "releaseDate": "2025-08-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630615
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630615/pokemon-sv-black-bolt-unova-victini-illustration-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Illustration Unys Victini",
+      "releaseDate": "2025-08-01",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Illustration_Unys_Victini"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Ilustración Teselia Victini",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ilustracion-teselia-victini"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione illustrazione Victini - Unima",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-illustrazione-victini-unima"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Illustrations-Kollektion Einall: Victini",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/illustrations-kollektion-einall-victini"
+      ]
+    }
+  ]
+}

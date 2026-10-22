@@ -1,0 +1,27 @@
+{
+  "id": "xy6-booster-box",
+  "region": "international",
+  "set": "xy6",
+  "category": "booster_box",
+  "name": "XY Roaring Skies Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 282788
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Roaring Skies Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98026
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98026/pokemon-xy-roaring-skies-xy-roaring-skies-booster-box"
+      ]
+    }
+  ]
+}

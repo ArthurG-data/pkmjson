@@ -1,0 +1,24 @@
+{
+  "id": "base3-blister-pack",
+  "region": "international",
+  "set": "base3",
+  "category": "blister",
+  "name": "Fossil Blister Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 11 additional game cards for the trading card game.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fossil Blister Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692399
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692399/pokemon-fossil-fossil-blister-pack"
+      ]
+    }
+  ]
+}

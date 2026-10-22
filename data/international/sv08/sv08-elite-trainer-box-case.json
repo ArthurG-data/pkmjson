@@ -1,0 +1,28 @@
+{
+  "id": "sv08-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv08",
+  "category": "case",
+  "name": "Surging Sparks Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 784965
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Elite Trainer Box Case",
+      "releaseDate": "2024-11-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565631
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565631/pokemon-sv08-surging-sparks-surging-sparks-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sm5-prerelease-kit",
+  "region": "international",
+  "set": "sm5",
+  "category": "other",
+  "name": "Ultra Prism Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm5-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism Prerelease Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          158254
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/158254/pokemon-sm-ultra-prism-ultra-prism-prerelease-kit"
+      ]
+    }
+  ]
+}

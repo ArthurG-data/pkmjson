@@ -1,0 +1,78 @@
+{
+  "id": "sm11-pale-moon-gx-box",
+  "region": "international",
+  "set": "sm11",
+  "category": "collection_box",
+  "name": "Pale Moon GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM217",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 198534,
+        "cardmarketProductId": 412264,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Trevenant & Dusknoir GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pale Moon GX Box",
+      "releaseDate": "2019-10-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198528
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198528/pokemon-sm-unified-minds-pale-moon-gx-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Fahler Mond-GX",
+      "releaseDate": "2019-10-18",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-fahler-mond-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Luna Pálida-GX",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-luna-palida-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Lune Pâle-GX",
+      "releaseDate": "2019-10-18",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-lune-pale-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Luna Pallida-GX",
+      "releaseDate": "2019-10-18",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/coleccion-luna-palida-gx"
+      ]
+    }
+  ]
+}

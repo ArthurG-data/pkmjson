@@ -1,0 +1,24 @@
+{
+  "id": "sv05-3-pack-blister-display",
+  "region": "international",
+  "set": "sv05",
+  "category": "case",
+  "name": "Temporal Forces 3 Pack Blister Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces 3 Pack Blister Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          680963
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/680963/pokemon-sv05-temporal-forces-temporal-forces-3-pack-blister-display"
+      ]
+    }
+  ]
+}

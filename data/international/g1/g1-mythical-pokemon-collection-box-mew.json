@@ -1,0 +1,40 @@
+{
+  "id": "g1-mythical-pokemon-collection-box-mew",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Mythical Pokemon Collection Box [Mew]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Pokemon Collection Box [Mew]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          113774
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/113774/pokemon-generations-mythical-pokemon-collection-box-mew"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Pokémon fabuleux Mew",
+      "releaseDate": "2016-03-19",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_fabuleux_Mew"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "„Mysteriöse Pokémon-Kollektion: Mew“ des Pokémon Sammelkartenspiels",
+      "releaseDate": "2016-02-24",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mysterioese-pokemon-kollektion-mew"
+      ]
+    }
+  ]
+}

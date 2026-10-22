@@ -1,0 +1,24 @@
+{
+  "id": "ex15-single-blister-pack",
+  "region": "international",
+  "set": "ex15",
+  "category": "blister",
+  "name": "EX Dragon Frontiers Single Blister Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 9 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Dragon Frontiers Single Blister Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616216
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616216/pokemon-ex-dragon-frontiers-ex-dragon-frontiers-single-blister-pack"
+      ]
+    }
+  ]
+}

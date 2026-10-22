@@ -1,0 +1,31 @@
+{
+  "id": "smp-knock-out-collection-chesnaught-delphox-greninja",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Chesnaught, Delphox, Greninja]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Gleaming Pokémon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon Trading Card Game booster packs; 3 specially chosen foil cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Chesnaught, Delphox, Greninja]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          186979
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/186979/pokemon-miscellaneous-cards-and-products-knock-out-collection-chesnaught-delphox-greninja"
+      ]
+    }
+  ]
+}

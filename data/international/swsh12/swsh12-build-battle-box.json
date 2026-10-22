@@ -1,0 +1,40 @@
+{
+  "id": "swsh12-build-battle-box",
+  "region": "international",
+  "set": "swsh12",
+  "category": "build_and_battle_box",
+  "name": "Silver Tempest Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 672606
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 40-card ready-to-play decks; 1 of 4 promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285776
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285776/pokemon-swsh12-silver-tempest-silver-tempest-build-and-battle-box"
+      ]
+    }
+  ]
+}

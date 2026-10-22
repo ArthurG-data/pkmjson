@@ -1,0 +1,29 @@
+{
+  "id": "sm8-booster-pack-576909",
+  "region": "asia",
+  "set": "SM8",
+  "category": "booster_pack",
+  "name": "Super-Burst Impact Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550486
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「超爆インパクト」",
+      "releaseDate": "2018-09-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576909
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576909/pokemon-japan-sm8-super-burst-impact-super-burst-impact-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E8%B6%85%E7%88%86%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88"
+      ]
+    }
+  ]
+}

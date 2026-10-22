@@ -1,0 +1,32 @@
+{
+  "id": "sm1-legends-of-alola-tin-solgaleo-gx",
+  "region": "international",
+  "set": "sm1",
+  "category": "tin",
+  "name": "Legends of Alola Tin [Solgaleo GX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Alola Tin [Solgaleo GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129309
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129309/pokemon-sm-base-set-legends-of-alola-tin-solgaleo-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Légendes d'Alola Solgaleo",
+      "releaseDate": "2017-03-18",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_L%C3%A9gendes_d%27Alola_Solgaleo-GX"
+      ]
+    }
+  ]
+}

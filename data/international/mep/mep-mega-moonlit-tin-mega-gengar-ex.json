@@ -1,0 +1,42 @@
+{
+  "id": "mep-mega-moonlit-tin-mega-gengar-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Mega Moonlit Tin [Mega Gengar ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "mep-073",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 696608,
+        "cardmarketProductId": 891721,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Moonlit Tin [Mega Gengar ex]",
+      "releaseDate": "2026-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          686437
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/686437/pokemon-miscellaneous-cards-and-products-mega-moonlit-tin-mega-gengar-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sv04.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "case",
+  "name": "Paldean Fates Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 745550
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each Paldean Fates Elite Trainer Box Case contains 10 Elite Trainer Boxes..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          530700
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/530700/pokemon-sv-paldean-fates-paldean-fates-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

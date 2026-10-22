@@ -1,0 +1,41 @@
+{
+  "id": "sm8-3-pack-blister-altaria",
+  "region": "international",
+  "set": "sm8",
+  "category": "blister",
+  "name": "Lost Thunder 3 Pack Blister [Altaria]",
+  "identifiers": {
+    "cardmarketProductId": 585928
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Altaria.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder 3 Pack Blister [Altaria]",
+      "releaseDate": "2018-11-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177904
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177904/pokemon-sm-lost-thunder-lost-thunder-3-pack-blister-altaria"
+      ]
+    }
+  ]
+}

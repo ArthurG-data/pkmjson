@@ -1,0 +1,47 @@
+{
+  "id": "bw4-ex-tin-kyurem",
+  "region": "international",
+  "set": "bw4",
+  "category": "tin",
+  "name": "EX Tin [Kyurem]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Tin [Kyurem]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98637
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98637/pokemon-next-destinies-ex-tin-kyurem"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance EX Kyurem Blanc",
+      "contents": {
+        "sealed": [
+          {
+            "product": "bw7-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw2-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX"
+      ]
+    }
+  ]
+}

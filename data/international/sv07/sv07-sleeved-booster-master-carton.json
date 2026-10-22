@@ -1,0 +1,25 @@
+{
+  "id": "sv07-sleeved-booster-master-carton",
+  "region": "international",
+  "set": "sv07",
+  "category": "sleeved_booster_pack",
+  "name": "Stellar Crown Sleeved Booster Master Carton",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Sleeved Booster Master Carton",
+      "releaseDate": "2024-09-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          559530
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/559530/pokemon-sv07-stellar-crown-stellar-crown-sleeved-booster-master-carton"
+      ]
+    }
+  ]
+}

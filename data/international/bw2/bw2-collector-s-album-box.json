@@ -1,0 +1,24 @@
+{
+  "id": "bw2-collector-s-album-box",
+  "region": "international",
+  "set": "bw2",
+  "category": "collection_box",
+  "name": "Emerging Powers Collector's Album Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Emerging Powers Collector's Album Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98619
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98619/pokemon-emerging-powers-emerging-powers-collectors-album-box"
+      ]
+    }
+  ]
+}

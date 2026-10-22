@@ -1,0 +1,27 @@
+{
+  "id": "ex1-ruby-and-sapphire-booster-box",
+  "region": "international",
+  "set": "ex1",
+  "category": "booster_box",
+  "name": "Ruby and Sapphire Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271918
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ruby and Sapphire Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98559
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98559/pokemon-ex-ruby-and-sapphire-ruby-and-sapphire-booster-box"
+      ]
+    }
+  ]
+}

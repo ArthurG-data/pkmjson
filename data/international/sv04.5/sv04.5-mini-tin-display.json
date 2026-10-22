@@ -1,0 +1,27 @@
+{
+  "id": "sv04.5-mini-tin-display",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "case",
+  "name": "Paldean Fates Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 749077
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528047
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528047/pokemon-sv-paldean-fates-paldean-fates-mini-tin-display"
+      ]
+    }
+  ]
+}

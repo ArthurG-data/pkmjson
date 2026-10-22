@@ -1,0 +1,49 @@
+{
+  "id": "svln-other",
+  "region": "asia",
+  "set": "SVLN",
+  "category": "battle_deck",
+  "name": "Sylveon ex Stellar Tera Type Starter Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 36
+      },
+      {
+        "name": "Special Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Two-player paper playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スターターセット テラスタイプ：ステラ ニンフィアex",
+      "releaseDate": "2024-08-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593911
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593911/pokemon-japan-sv-sylveon-ex-stellar-tera-type-starter-set-sylveon-ex-stellar-tera-type-starter-set",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88+%E3%83%86%E3%83%A9%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%A9+%E3%83%8B%E3%83%B3%E3%83%95%E3%82%A3%E3%82%A2ex+"
+      ]
+    }
+  ]
+}

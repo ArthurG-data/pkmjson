@@ -1,0 +1,40 @@
+{
+  "id": "sm8-build-battle-box",
+  "region": "international",
+  "set": "sm8",
+  "category": "build_and_battle_box",
+  "name": "Lost Thunder Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 372085
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          179423
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/179423/pokemon-sm-lost-thunder-lost-thunder-build-and-battle-box"
+      ]
+    }
+  ]
+}

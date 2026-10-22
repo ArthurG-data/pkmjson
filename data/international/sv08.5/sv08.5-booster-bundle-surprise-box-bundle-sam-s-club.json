@@ -1,0 +1,24 @@
+{
+  "id": "sv08.5-booster-bundle-surprise-box-bundle-sam-s-club",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "booster_bundle",
+  "name": "Prismatic Evolutions Booster Bundle + Surprise Box Bundle (Sam's Club)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Booster Bundle + Surprise Box Bundle (Sam's Club)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          678555
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/678555/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-bundle-plus-surprise-box-bundle-sams-club"
+      ]
+    }
+  ]
+}

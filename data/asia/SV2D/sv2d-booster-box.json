@@ -1,0 +1,34 @@
+{
+  "id": "sv2d-booster-box",
+  "region": "asia",
+  "set": "SV2D",
+  "category": "booster_box",
+  "name": "Clay Burst Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 702933
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv2d-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Clay Burst Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565240
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565240/pokemon-japan-sv2d-clay-burst-clay-burst-booster-box"
+      ]
+    }
+  ]
+}

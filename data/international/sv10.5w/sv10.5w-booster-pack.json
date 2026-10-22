@@ -1,0 +1,61 @@
+{
+  "id": "sv10.5w-booster-pack",
+  "region": "international",
+  "set": "sv10.5w",
+  "category": "booster_pack",
+  "name": "White Flare Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 824087
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet—White Flare",
+      "releaseDate": "2025-07-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630699
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630699/pokemon-sv-white-flare-white-flare-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-white-flare"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Écarlate et Violet – Flamme Blanche",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_poster_Unys",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-flamme-blanche"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scarlatto e Violetto - Fuoco Bianco",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-fuoco-bianco"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Karmesin & Purpur – Weiße Flammen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-weisse-flammen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Escarlata y Púrpura-Llama Blanca",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-llama-blanca"
+      ]
+    }
+  ]
+}

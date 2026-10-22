@@ -1,0 +1,86 @@
+{
+  "id": "cel25-pokemon-center-elite-trainer-box-exclusive",
+  "region": "international",
+  "set": "cel25",
+  "category": "elite_trainer_box",
+  "name": "Celebrations Pokemon Center Elite Trainer Box (Exclusive)",
+  "identifiers": {
+    "cardmarketProductId": 570896
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 13
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH144",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 248731,
+        "cardmarketProductId": 576743,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring the Pokémon 25 logo and lightning tail design",
+        "count": 65
+      },
+      {
+        "name": "Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Rulebook",
+        "count": 1
+      },
+      {
+        "name": "Stamped aluminum damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Metal Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 additional Pokemon TCG booster packs; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Pokemon Center Elite Trainer Box (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251199
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251199/pokemon-celebrations-celebrations-pokemon-center-elite-trainer-box-exclusive"
+      ]
+    }
+  ]
+}

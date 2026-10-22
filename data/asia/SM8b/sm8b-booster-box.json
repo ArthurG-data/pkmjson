@@ -1,0 +1,27 @@
+{
+  "id": "sm8b-booster-box",
+  "region": "asia",
+  "set": "SM8b",
+  "category": "booster_box",
+  "name": "GX Ultra Shiny Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550461
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Pack count unsettled: TCGplayer's text says 24 packs, Japanese retailers say 10. Written by hand so the TCGplayer import leaves it alone.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "GX Ultra Shiny Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576961
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576961/pokemon-japan-sm8b-gx-ultra-shiny-gx-ultra-shiny-booster-box"
+      ]
+    }
+  ]
+}

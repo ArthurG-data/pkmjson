@@ -1,0 +1,29 @@
+{
+  "id": "sv5a-booster-pack",
+  "region": "asia",
+  "set": "SV5a",
+  "category": "booster_pack",
+  "name": "Crimson Haze Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 757140
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「クリムゾンヘイズ」",
+      "releaseDate": "2024-03-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565227
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565227/pokemon-japan-sv5a-crimson-haze-crimson-haze-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%AF%E3%83%AA%E3%83%A0%E3%82%BE%E3%83%B3%E3%83%98%E3%82%A4%E3%82%BA"
+      ]
+    }
+  ]
+}

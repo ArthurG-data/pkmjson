@@ -1,0 +1,69 @@
+{
+  "id": "swshp-boltund-v-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Boltund V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH011",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 206427,
+        "cardmarketProductId": 439963,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Boltund V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Boltund V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Boltund V Box",
+      "releaseDate": "2022-04-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262968
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262968/pokemon-miscellaneous-cards-and-products-boltund-v-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Boltund V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-boltund-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Bellektro-V",
+      "releaseDate": "2022-04-22",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-bellektro-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Fulgudog‑V",
+      "releaseDate": "2022-03-18",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-fulgudog-v"
+      ]
+    }
+  ]
+}

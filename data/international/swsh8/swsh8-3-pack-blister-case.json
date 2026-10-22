@@ -1,0 +1,24 @@
+{
+  "id": "swsh8-3-pack-blister-case",
+  "region": "international",
+  "set": "swsh8",
+  "category": "case",
+  "name": "Fusion Strike 3-Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike 3-Pack Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          638064
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/638064/pokemon-swsh08-fusion-strike-fusion-strike-3-pack-blister-case"
+      ]
+    }
+  ]
+}

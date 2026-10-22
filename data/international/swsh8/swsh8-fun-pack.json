@@ -1,0 +1,24 @@
+{
+  "id": "swsh8-fun-pack",
+  "region": "international",
+  "set": "swsh8",
+  "category": "other",
+  "name": "Fusion Strike Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          509886
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/509886/pokemon-swsh08-fusion-strike-fusion-strike-fun-pack"
+      ]
+    }
+  ]
+}

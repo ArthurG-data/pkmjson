@@ -1,0 +1,24 @@
+{
+  "id": "sv07-booster-bundle-case",
+  "region": "international",
+  "set": "sv07",
+  "category": "case",
+  "name": "Stellar Crown Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Booster Bundle Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          609235
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/609235/pokemon-sv07-stellar-crown-stellar-crown-booster-bundle-case"
+      ]
+    }
+  ]
+}

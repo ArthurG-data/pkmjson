@@ -1,0 +1,40 @@
+{
+  "id": "sv04-single-pack-blister-pineco",
+  "region": "international",
+  "set": "sv04",
+  "category": "blister",
+  "name": "Paradox Rift Single Pack Blister [Pineco]",
+  "identifiers": {
+    "cardmarketProductId": 728734
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Pinco.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Single Pack Blister [Pineco]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514224
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514224/pokemon-sv04-paradox-rift-paradox-rift-single-pack-blister-pineco"
+      ]
+    }
+  ]
+}

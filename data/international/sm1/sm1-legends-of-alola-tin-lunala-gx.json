@@ -1,0 +1,32 @@
+{
+  "id": "sm1-legends-of-alola-tin-lunala-gx",
+  "region": "international",
+  "set": "sm1",
+  "category": "tin",
+  "name": "Legends of Alola Tin [Lunala GX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Alola Tin [Lunala GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129310
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129310/pokemon-sm-base-set-legends-of-alola-tin-lunala-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Légendes d'Alola Lunala",
+      "releaseDate": "2017-03-18",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_L%C3%A9gendes_d%27Alola_Lunala-GX"
+      ]
+    }
+  ]
+}

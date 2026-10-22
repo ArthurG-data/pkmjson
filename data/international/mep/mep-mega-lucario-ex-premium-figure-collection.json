@@ -1,0 +1,64 @@
+{
+  "id": "mep-mega-lucario-ex-premium-figure-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Mega Lucario ex Premium Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Figure featuring Mega Lucario",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Mega Lucario ex; 1 oversize promo card featuring Mega Lucario ex; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Lucario ex Premium Figure Collection",
+      "releaseDate": "2025-11-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656487
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656487/pokemon-miscellaneous-cards-and-products-mega-lucario-ex-premium-figure-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine Méga-Lucario-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-avec-figurine-mega-lucario-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con statuina Mega Lucario-ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-statuina-mega-lucario-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Figuren-Kollektion Mega-Lucario-ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-mega-lucario-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con figura Mega-Lucario ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-mega-lucario-ex"
+      ]
+    }
+  ]
+}

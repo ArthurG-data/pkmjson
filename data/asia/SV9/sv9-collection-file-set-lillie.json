@@ -1,0 +1,24 @@
+{
+  "id": "sv9-collection-file-set-lillie",
+  "region": "asia",
+  "set": "SV9",
+  "category": "collection_box",
+  "name": "Collection File Set Lillie",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Cards are randomly included in 5 pieces each..",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Collection File Set Lillie",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          614706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/614706/pokemon-japan-sv9-battle-partners-collection-file-set-lillie"
+      ]
+    }
+  ]
+}

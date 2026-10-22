@@ -1,0 +1,47 @@
+{
+  "id": "svp-epic-collection-ex-deck-feraligatr",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Epic Collection ex Deck [Feraligatr]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Status counters",
+        "count": 1
+      },
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60 cards; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Epic Collection ex Deck [Feraligatr]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          552236
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/552236/pokemon-miscellaneous-cards-and-products-epic-collection-ex-deck-feraligatr"
+      ]
+    }
+  ]
+}

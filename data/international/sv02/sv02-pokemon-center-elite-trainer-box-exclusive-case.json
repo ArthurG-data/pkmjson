@@ -1,0 +1,24 @@
+{
+  "id": "sv02-pokemon-center-elite-trainer-box-exclusive-case",
+  "region": "international",
+  "set": "sv02",
+  "category": "case",
+  "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive) Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          537410
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/537410/pokemon-sv02-paldea-evolved-paldea-evolved-pokemon-center-elite-trainer-box-exclusive-case"
+      ]
+    }
+  ]
+}

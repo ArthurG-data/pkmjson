@@ -15,8 +15,9 @@ One file per product family, at `data/<region>/<set>/<id>.json`:
 - `id` is the stable pkmjson id of the product, without language (`sv08-etb`).
 
 A family lists its `contents` once and its `releases`, one per language. Each release has its own name, release
-date, TCGplayer and Cardmarket ids, and the sources that state its contents. A release can carry its own
-`contents` when that language's box differs.
+date, TCGplayer ids and the sources that state its contents. A release can carry its own `contents` when that
+language's box differs. The Cardmarket id sits on the family, because Cardmarket sells every language of a sealed
+product under one product and records the language on each offer.
 
 ```json
 {
@@ -24,6 +25,7 @@ date, TCGplayer and Cardmarket ids, and the sources that state its contents. A r
   "region": "international",
   "set": "sv08",
   "category": "elite_trainer_box",
+  "identifiers": {"cardmarketProductId": 784963},
   "contents": {
     "sealed": [{"product": "sv08-booster", "count": 9}],
     "cards": [{"tcgdexCardId": "svp-159", "tcgdexVariantId": "jr7oetx1mqug9",
@@ -48,7 +50,37 @@ The full format is `schema/product.schema.json`.
 ## Build output
 
 `python tools/build.py` writes `dist/AllProducts.json`, with one entry per product and language, keyed
-`<id>:<language>` (`sv08-etb:fr`). Tagged releases attach that file to a GitHub release.
+`<id>:<language>` (`sv08-etb:fr`). It also writes `dist/AllSets.json`, a copy of `sets/sets.json`. That file gives
+each set's name as printed on its packs and a logo, per language, keyed `<region>/<set>`. Each value cites its
+source. `logoSource` says where the logo comes from. `logoLanguage` marks a logo borrowed from another language
+because the set has none of its own. `logoKind` marks a product image or set symbol used where no logo exists. Each entry's `identifiers` holds the family's ids and the release's. Tagged releases attach that file to a GitHub release.
+
+## Where the data comes from
+
+- **English and Japanese contents:** `tools/import_tcgplayer.py` reads TCGplayer's product text through tcgcsv.com,
+  from category 3 for English and, with `--category 85`, category 85 for Japanese. A file stays `partial` when the text
+  leaves something out or names something the tool cannot pin to a product or card. What was left over goes to
+  `review/tcgplayer-<category>.json`. Products TCGplayer files outside any expansion ("Miscellaneous Cards &
+  Products", World Championships decks) go under the promo set of the era they were released in, such as `svp` or
+  `swshp`, because that is where their promo cards are.
+- **Japanese names and dates:** `tools/import_pokemon_card_jp.py` matches pokemon-card.com's product search to
+  those families. A match requires both the TCGdex set's name and its release date. A deck or set with no set of its
+  own matches instead by the Pokémon it is named after (translated with PokéAPI's species names) and the kind of
+  product. Where it matches, the `ja` release gets the official name, date and search page.
+- **French releases:** `tools/import_pokepedia.py` reads Poképédia's product pages.
+- **German, Italian, Spanish and more French releases:** pokemon.com's product gallery links each US product page
+  to its other-language versions. pokemon.com refuses scripted clients, so `tools/pokemon_com_crawl.js` runs in a
+  browser tab on www.pokemon.com and returns the pages as JSON. `tools/import_pokemon_com.py --crawl <file>` then
+  matches each US page to its family by English name. It adds a release only when that language's page states the
+  same number of booster packs as the US page.
+- **Set names and logos:** `tools/import_sets.py` builds `sets/sets.json` from three sources. pokemon.com's
+  expansion lists come first (fetched in a browser by `tools/pokemon_com_expansions.js`). pokemon-card.com's pack
+  names cover Japanese. TCGdex fills what both leave out. The tool also names each set's own booster pack, in every
+  language, after the set as printed on the pack: "Karmesin & Purpur – Stürmische Funken", not a name assembled
+  from a dictionary word and a set name.
+
+A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
+alone.
 
 ## Development
 

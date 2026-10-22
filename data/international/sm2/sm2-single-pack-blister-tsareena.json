@@ -1,0 +1,50 @@
+{
+  "id": "sm2-single-pack-blister-tsareena",
+  "region": "international",
+  "set": "sm2",
+  "category": "blister",
+  "name": "Guardians Rising Single Pack Blister [Tsareena]",
+  "identifiers": {
+    "cardmarketProductId": 586002
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM26",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 139096,
+        "cardmarketProductId": 297864,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Single Pack Blister [Tsareena]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          184342
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/184342/pokemon-sm-guardians-rising-guardians-rising-single-pack-blister-tsareena"
+      ]
+    }
+  ]
+}

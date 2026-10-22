@@ -1,0 +1,44 @@
+{
+  "id": "sv09-premium-checklane-blister-klinklang",
+  "region": "international",
+  "set": "sv09",
+  "category": "blister",
+  "name": "Journey Together Premium Checklane Blister [Klinklang]",
+  "identifiers": {
+    "cardmarketProductId": 805590
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Premium Checklane Blister [Klinklang]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610952
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610952/pokemon-sv09-journey-together-journey-together-premium-checklane-blister-klinklang"
+      ]
+    }
+  ]
+}

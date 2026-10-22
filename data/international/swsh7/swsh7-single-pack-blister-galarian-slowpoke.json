@@ -1,0 +1,51 @@
+{
+  "id": "swsh7-single-pack-blister-galarian-slowpoke",
+  "region": "international",
+  "set": "swsh7",
+  "category": "blister",
+  "name": "Evolving Skies Single Pack Blister [Galarian Slowpoke]",
+  "identifiers": {
+    "cardmarketProductId": 585711
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH126",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 247290,
+        "cardmarketProductId": 568798,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Single Pack Blister [Galarian Slowpoke]",
+      "releaseDate": "2021-08-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242448
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242448/pokemon-swsh07-evolving-skies-evolving-skies-single-pack-blister-galarian-slowpoke"
+      ]
+    }
+  ]
+}

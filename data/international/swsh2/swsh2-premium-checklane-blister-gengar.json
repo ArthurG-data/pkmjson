@@ -1,0 +1,44 @@
+{
+  "id": "swsh2-premium-checklane-blister-gengar",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Rebel Clash Premium Checklane Blister [Gengar]",
+  "identifiers": {
+    "cardmarketProductId": 585888
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Premium Checklane Blister [Gengar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          276575
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/276575/pokemon-swsh02-rebel-clash-rebel-clash-premium-checklane-blister-gengar"
+      ]
+    }
+  ]
+}

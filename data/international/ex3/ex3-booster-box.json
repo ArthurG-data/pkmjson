@@ -1,0 +1,27 @@
+{
+  "id": "ex3-booster-box",
+  "region": "international",
+  "set": "ex3",
+  "category": "booster_box",
+  "name": "EX Dragon Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271910
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Dragon Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98518
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98518/pokemon-ex-dragon-ex-dragon-booster-box"
+      ]
+    }
+  ]
+}

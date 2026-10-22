@@ -1,0 +1,28 @@
+{
+  "id": "sv10-build-battle-box-display",
+  "region": "international",
+  "set": "sv10",
+  "category": "case",
+  "name": "Destined Rivals Build & Battle Box Display",
+  "identifiers": {
+    "cardmarketProductId": 826183
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Build & Battle Box Display",
+      "releaseDate": "2025-06-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          634383
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/634383/pokemon-sv10-destined-rivals-destined-rivals-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "me04-half-booster-box",
+  "region": "international",
+  "set": "me04",
+  "category": "half_booster_box",
+  "name": "Chaos Rising Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 877291
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me04-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          695395
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/695395/pokemon-me04-chaos-rising-chaos-rising-half-booster-box"
+      ]
+    }
+  ]
+}

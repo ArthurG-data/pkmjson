@@ -1,0 +1,82 @@
+{
+  "id": "swshp-professor-juniper-premium-tournament-collection-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Professor Juniper Premium Tournament Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves featuring Professor Juniper",
+        "count": 65
+      },
+      {
+        "name": "Sturdy deck box featuring Professor Juniper",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin featuring Professor Juniper",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Tournament-ready damage dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil Professor’s Research Supporter card featuring Professor Juniper; 3 additional foil Professor’s Research Supporter cards featuring Professor Juniper; 7 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Professor Juniper Premium Tournament Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          268713
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/268713/pokemon-miscellaneous-cards-and-products-professor-juniper-premium-tournament-collection-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Tournoi Premium – Professeure Keteleeria",
+      "releaseDate": "2022-05-20",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-tournoi-premium-professeure-keteleeria"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Turnierkollektion Professor Esche",
+      "releaseDate": "2022-05-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-turnierkollektion-professor-esche"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección torneo premium Profesora Encina",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-torneo-premium-profesora-encina"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione torneo premium Prof.ssa Aralia",
+      "releaseDate": "2022-05-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-torneo-premium-profssa-aralia"
+      ]
+    }
+  ]
+}

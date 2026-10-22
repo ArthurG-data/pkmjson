@@ -1,0 +1,52 @@
+{
+  "id": "swshp-ultra-premium-collection-zacian-zamazenta",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Sword & Shield Ultra-Premium Collection - Zacian & Zamazenta",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sets of metal damage-counter dice (12 dice in all)",
+        "count": 2
+      },
+      {
+        "name": "Metal coins featuring Zacian and Zamazenta",
+        "count": 2
+      },
+      {
+        "name": "Sets of card sleeves featuring Zacian and Zamazenta (130 sleeves in all)",
+        "count": 2
+      },
+      {
+        "name": "Set of richly designed metal condition markers",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG rules booklet",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special gold version of Zacian V; 1 special gold version of Zamazenta V; 16 Pokemon TCG booster packs from the Sword & Shield Series; A player's guide to the first year of Pokemon TCG: Sword & Shield Series expansions and promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Ultra-Premium Collection - Zacian & Zamazenta",
+      "releaseDate": "2020-11-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          226136
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/226136/pokemon-miscellaneous-cards-and-products-sword-and-shield-ultra-premium-collection-zacian-and-zamazenta"
+      ]
+    }
+  ]
+}

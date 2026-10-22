@@ -1,0 +1,31 @@
+{
+  "id": "xy2-pyroar-box",
+  "region": "international",
+  "set": "xy2",
+  "category": "collection_box",
+  "name": "Pyroar Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: an exclusive Holofoil frompotional XY26 Pyroar card; 3 booster packs, Holofoil prints of Fiery Torch and Blacksmith.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pyroar Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97741
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97741/pokemon-xy-flashfire-pyroar-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Némélios",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_N%C3%A9m%C3%A9lios_%28Monoprix_et_Casino%29"
+      ]
+    }
+  ]
+}

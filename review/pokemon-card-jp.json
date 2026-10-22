@@ -1,0 +1,3110 @@
+[
+ {
+  "kind": "expansion",
+  "title": "拡張パック「30th CELEBRATION」",
+  "releaseDate": "2026-09-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ブラックボルト」",
+  "releaseDate": "2025-06-06",
+  "reason": "2 families in SV11B"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ホワイトフレア」",
+  "releaseDate": "2025-06-06",
+  "reason": "2 families in SV11W"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パックデラックス「ブラックボルト」",
+  "releaseDate": "2025-06-06",
+  "reason": "deluxe pack set"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パックデラックス「ホワイトフレア」",
+  "releaseDate": "2025-06-06",
+  "reason": "deluxe pack set"
+ },
+ {
+  "kind": "expansion",
+  "title": "ハイクラスパック 「シャイニートレジャーex」",
+  "releaseDate": "2023-12-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「25th ANNIVERSARY COLLECTION」",
+  "releaseDate": "2021-10-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "ハイクラスパック「GXウルトラシャイニー」",
+  "releaseDate": "2018-11-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "強化拡張パック「迅雷スパーク」",
+  "releaseDate": "2018-07-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "強化拡張パック「チャンピオンロード」",
+  "releaseDate": "2018-05-03",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "ハイクラスパック「THE BEST OF XY」",
+  "releaseDate": "2017-04-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "強化拡張パック「サン＆ムーン」",
+  "releaseDate": "2017-01-27",
+  "reason": "0 families in SM1p"
+ },
+ {
+  "kind": "expansion",
+  "title": "コンセプトパック「幻・伝説ドリームキラコレクション」",
+  "releaseDate": "2016-07-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「爆熱の闘士」",
+  "releaseDate": "2016-06-17",
+  "reason": "0 families in XY11a"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「冷酷の反逆者」",
+  "releaseDate": "2016-06-17",
+  "reason": "0 families in XY11b"
+ },
+ {
+  "kind": "expansion",
+  "title": "プレミアムチャンピオンパック「EX×M×BREAK」",
+  "releaseDate": "2016-04-16",
+  "reason": "0 families in CP4"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「めざめる超王」",
+  "releaseDate": "2016-03-18",
+  "reason": "0 families in XY10"
+ },
+ {
+  "kind": "expansion",
+  "title": "コンセプトパック「ポケキュンコレクション」",
+  "releaseDate": "2016-01-29",
+  "reason": "0 families in CP3"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「破天の怒り」",
+  "releaseDate": "2015-12-11",
+  "reason": "0 families in XY9"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「青い衝撃」",
+  "releaseDate": "2015-09-26",
+  "reason": "0 families in XY8a"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 「赤い閃光」",
+  "releaseDate": "2015-09-26",
+  "reason": "0 families in XY8b"
+ },
+ {
+  "kind": "expansion",
+  "title": "コンセプトパック「伝説キラコレクション」",
+  "releaseDate": "2015-07-18",
+  "reason": "0 families in CP2"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「バンデットリング」",
+  "releaseDate": "2015-06-20",
+  "reason": "0 families in XY7"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「エメラルドブレイク」",
+  "releaseDate": "2015-03-14",
+  "reason": "0 families in XY6"
+ },
+ {
+  "kind": "expansion",
+  "title": "コンセプトパック「マグマ団VSアクア団 ダブルクライシス」",
+  "releaseDate": "2015-01-30",
+  "reason": "0 families in CP1"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ガイアボルケーノ」",
+  "releaseDate": "2014-12-13",
+  "reason": "0 families in XY5a"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「タイダルストーム」",
+  "releaseDate": "2014-12-13",
+  "reason": "0 families in XY5b"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ファントムゲート」",
+  "releaseDate": "2014-09-13",
+  "reason": "0 families in XY4"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ライジングフィスト」",
+  "releaseDate": "2014-06-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ワイルドブレイズ」",
+  "releaseDate": "2014-03-15",
+  "reason": "0 families in XY2"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「コレクションX」",
+  "releaseDate": "2013-12-13",
+  "reason": "0 families in XY1a"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「コレクションY」",
+  "releaseDate": "2013-12-13",
+  "reason": "0 families in XY1b"
+ },
+ {
+  "kind": "expansion",
+  "title": "コンセプトパック「EXバトルブースト」",
+  "releaseDate": "2013-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「メガロキャノン」",
+  "releaseDate": "2013-03-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "コンセプトパック「シャイニーコレクション」",
+  "releaseDate": "2013-02-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ラセンフォース」",
+  "releaseDate": "2012-12-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ライデンナックル」",
+  "releaseDate": "2012-12-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「プラズマゲイル」",
+  "releaseDate": "2012-09-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「フリーズボルト」",
+  "releaseDate": "2012-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「コールドフレア」",
+  "releaseDate": "2012-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「リューズブラスト」",
+  "releaseDate": "2012-03-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「リューノブレード」",
+  "releaseDate": "2012-03-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ドラゴンセレクション」",
+  "releaseDate": "2012-01-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ダークラッシュ」",
+  "releaseDate": "2011-12-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「サイコドライブ」",
+  "releaseDate": "2011-09-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ヘイルブリザード」",
+  "releaseDate": "2011-09-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「レッドコレクション」",
+  "releaseDate": "2011-07-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ブラックコレクション」",
+  "releaseDate": "2010-12-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ホワイトコレクション」",
+  "releaseDate": "2010-12-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「頂上大激突」",
+  "releaseDate": "2010-07-08",
+  "reason": "0 families in L3"
+ },
+ {
+  "kind": "expansion",
+  "title": "強化パック「ロストリンク」",
+  "releaseDate": "2010-04-16",
+  "reason": "0 families in LL"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「よみがえる伝説」",
+  "releaseDate": "2010-02-11",
+  "reason": "0 families in L2"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ハートゴールドコレクション」",
+  "releaseDate": "2009-10-09",
+  "reason": "0 families in L1a"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ソウルシルバーコレクション」",
+  "releaseDate": "2009-10-09",
+  "reason": "0 families in L1b"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「アルセウス光臨」",
+  "releaseDate": "2009-07-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「フロンティアの鼓動」",
+  "releaseDate": "2009-03-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「時の果ての絆」",
+  "releaseDate": "2008-12-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ギンガの覇道」",
+  "releaseDate": "2008-10-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「破空の激闘」",
+  "releaseDate": "2008-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「秘境の叫び」",
+  "releaseDate": "2008-03-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「怒りの神殿」",
+  "releaseDate": "2008-03-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「月光の追跡」",
+  "releaseDate": "2007-10-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「夜明けの疾走」",
+  "releaseDate": "2007-10-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ひかる闇」",
+  "releaseDate": "2007-07-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「湖の秘密」",
+  "releaseDate": "2007-03-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「時空の創造 ダイヤモンドコレクション」",
+  "releaseDate": "2006-11-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「時空の創造 パールコレクション」",
+  "releaseDate": "2006-11-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「さいはての攻防」",
+  "releaseDate": "2006-06-29",
+  "reason": "0 families in PCG9"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「きせきの結晶」",
+  "releaseDate": "2006-03-03",
+  "reason": "0 families in PCG8"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ホロンの幻影(かげ)」",
+  "releaseDate": "2006-01-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「ホロンの研究塔」",
+  "releaseDate": "2005-10-24",
+  "reason": "0 families in PCG6"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「まぼろしの森」",
+  "releaseDate": "2005-06-30",
+  "reason": "0 families in PCG5"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「金の空、銀の海」",
+  "releaseDate": "2005-04-04",
+  "reason": "0 families in PCG4"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック｢ロケット団の逆襲｣",
+  "releaseDate": "2004-10-15",
+  "reason": "0 families in PCG3"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「蒼空の激突」",
+  "releaseDate": "2004-07-01",
+  "reason": "0 families in PCG2"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック「伝説の飛翔」",
+  "releaseDate": "2004-04-09",
+  "reason": "0 families in PCG1"
+ },
+ {
+  "kind": "expansion",
+  "title": "第4弾拡張パック「とかれた封印」",
+  "releaseDate": "2004-01-16",
+  "reason": "0 families in ADV5"
+ },
+ {
+  "kind": "expansion",
+  "title": "強化拡張パックex1「マグマVSアクア ふたつの野望」",
+  "releaseDate": "2003-10-24",
+  "reason": "0 families in ADV4"
+ },
+ {
+  "kind": "expansion",
+  "title": "第3弾 拡張パック「天空の覇者」",
+  "releaseDate": "2003-06-25",
+  "reason": "0 families in ADV3"
+ },
+ {
+  "kind": "expansion",
+  "title": "第2弾拡張パック「砂漠のきせき」",
+  "releaseDate": "2003-04-18",
+  "reason": "0 families in ADV2"
+ },
+ {
+  "kind": "expansion",
+  "title": "第1弾拡張パック",
+  "releaseDate": "2003-01-31",
+  "reason": "0 families in ADV1"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第5弾「神秘なる山」",
+  "releaseDate": "2002-10-04",
+  "reason": "0 families in E5"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第4弾「裂けた大地」",
+  "releaseDate": "2002-08-23",
+  "reason": "0 families in E4"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第3弾「海からの風」",
+  "releaseDate": "2002-05-24",
+  "reason": "0 families in E3"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第2弾「地図にない町」",
+  "releaseDate": "2002-03-08",
+  "reason": "0 families in E2"
+ },
+ {
+  "kind": "expansion",
+  "title": "第1弾 基本拡張パック",
+  "releaseDate": "2001-12-01",
+  "reason": "0 families in E1"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第4弾「闇、そして光へ...」",
+  "releaseDate": "2001-04-20",
+  "reason": "0 families in neo4"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第3弾「めざめる伝説」",
+  "releaseDate": "2000-11-23",
+  "reason": "0 families in neo3"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第2弾「遺跡をこえて...」",
+  "releaseDate": "2000-07-07",
+  "reason": "0 families in neo2"
+ },
+ {
+  "kind": "expansion",
+  "title": "拡張パック 第1弾「金、銀、新世界へ...」",
+  "releaseDate": "2000-02-04",
+  "reason": "0 families in neo1"
+ },
+ {
+  "kind": "expansion",
+  "title": "ポケモンジム ジム拡張第2弾「闇からの挑戦」",
+  "releaseDate": "1999-06-25",
+  "reason": "0 families in PMCG6"
+ },
+ {
+  "kind": "expansion",
+  "title": "ジム拡張第1弾「リーダーズスタジアム」",
+  "releaseDate": "1998-10-24",
+  "reason": "0 families in PMCG5"
+ },
+ {
+  "kind": "expansion",
+  "title": "第4弾 拡張パック「ロケット団」",
+  "releaseDate": "1997-11-21",
+  "reason": "0 families in PMCG4"
+ },
+ {
+  "kind": "expansion",
+  "title": "第3弾 拡張パック「化石の秘密」",
+  "releaseDate": "1997-06-21",
+  "reason": "0 families in PMCG3"
+ },
+ {
+  "kind": "expansion",
+  "title": "第1弾 拡張パック",
+  "releaseDate": "1996-10-20",
+  "reason": "0 families in PMCG1"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンカードゲーム MEGA スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+  "releaseDate": "2026-11-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットex イーブイex",
+  "releaseDate": "2026-07-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトルアカデミー",
+  "releaseDate": "2024-03-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "いつでもどこでも バトルアカデミー",
+  "releaseDate": "2024-03-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターデッキ＆ビルドセット「古代のコライドンex」",
+  "releaseDate": "2024-01-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターデッキ＆ビルドセット「未来のミライドンex」",
+  "releaseDate": "2024-01-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ テラスタル カイリュー",
+  "releaseDate": "2023-11-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ テラスタル ヨクバリス",
+  "releaseDate": "2023-11-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット テラスタル ラウドボーンex",
+  "releaseDate": "2023-09-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」",
+  "releaseDate": "2023-07-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ 草 ジュナイパー",
+  "releaseDate": "2023-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ 水 ゲッコウガ",
+  "releaseDate": "2023-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ 超 ピクシー",
+  "releaseDate": "2023-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ 闘 コライドン",
+  "releaseDate": "2023-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "exスタートデッキ 悪 ヘルガー",
+  "releaseDate": "2023-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "おまかせexスタートデッキ",
+  "releaseDate": "2023-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スペシャルデッキセット リザードンVSTAR vs レックウザVMAX",
+  "releaseDate": "2022-11-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "VSTAR&VMAX ハイクラスデッキ ゼラオラ",
+  "releaseDate": "2022-07-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "VSTAR&VMAX ハイクラスデッキ デオキシス",
+  "releaseDate": "2022-07-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットVSTAR ルカリオ",
+  "releaseDate": "2022-02-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットVSTAR ダークライ",
+  "releaseDate": "2022-02-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スタートデッキ100",
+  "releaseDate": "2021-12-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ",
+  "releaseDate": "2021-11-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ファミリーポケモンカードゲーム",
+  "releaseDate": "2021-07-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "いつでもどこでもファミリーポケモンカードゲーム",
+  "releaseDate": "2021-07-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ハイクラスデッキ ゲンガーVMAX",
+  "releaseDate": "2021-05-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ハイクラスデッキ インテレオンVMAX",
+  "releaseDate": "2021-05-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットVMAX フシギバナ",
+  "releaseDate": "2020-12-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットVMAX カメックス",
+  "releaseDate": "2020-12-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ草 フシギバナ",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ炎 ガオガエン",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ水 ホエルオー",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ雷 ピカチュウ",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ超 ミュウ",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ闘 ルカリオ",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ悪 ガラルヤドラン",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ鋼 ジュラルドン",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "Vスタートデッキ無色 イーブイ",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットVMAX リザードン",
+  "releaseDate": "2020-03-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットVMAX オーロンゲ",
+  "releaseDate": "2020-03-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットV 草",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットV 炎",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットV 水",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットV 雷",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセットV 闘",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット TAG TEAM GX 「エーフィ&デオキシスGX」",
+  "releaseDate": "2019-05-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット TAG TEAM GX 「ブラッキー&ダークライGX」",
+  "releaseDate": "2019-05-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ファミリーポケモンカードゲーム",
+  "releaseDate": "2019-03-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "トレーナーバトルデッキ：ニビシティジムのタケシ",
+  "releaseDate": "2019-01-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "トレーナーバトルデッキ：ハナダシティジムのカスミ",
+  "releaseDate": "2019-01-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット「炎のブースターGX」",
+  "releaseDate": "2018-11-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット「水のシャワーズGX」",
+  "releaseDate": "2018-11-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット「雷のサンダースGX」",
+  "releaseDate": "2018-11-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 草ラランテス",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 炎リザードン",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 水ラプラス",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 雷ライチュウ",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 超ミュウツー",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 闘ルガルガン",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 悪イベルタル",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ 鋼メタグロス",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "GXスタートデッキ フェアリーゼルネアス",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット伝説 ソルガレオGX ルナアーラGX",
+  "releaseDate": "2017-11-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンカードゲーム サン＆ムーン 30枚デッキ対戦セット「サトシVSロケット団」",
+  "releaseDate": "2017-04-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット改造「カプ・ブルルGX」",
+  "releaseDate": "2017-03-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット草 ジュナイパーGX",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット炎 ガオガエンGX",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターセット水 アシレーヌGX",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「ポケットモンスターカードゲーム スターターパック カメックスver.」",
+  "releaseDate": "2016-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "メガバトルデッキ60「タブンネEX」",
+  "releaseDate": "2016-03-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "パーフェクトバトルデッキ60「ジガルデEX」",
+  "releaseDate": "2016-03-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンカードゲームXY BREAK「ポケットモンスターカードゲーム スターターパック」",
+  "releaseDate": "2016-02-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "BREAKコンボデッキ60「ゴルダックBREAK+パルキアEX」",
+  "releaseDate": "2015-10-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "対戦スタートセット30「エンブオーEX VS トゲキッスEX」",
+  "releaseDate": "2015-07-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "メガバトルデッキ60「レックウザEX」",
+  "releaseDate": "2015-03-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スーパーレジェンドセット60「ゼルネアスEX・イベルタルEX」",
+  "releaseDate": "2014-11-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ハイパーメタルチェーンデッキ60「ディアルガEX+ギルガルドEX」",
+  "releaseDate": "2014-09-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "メガバトルデッキ60「リザードンEX」",
+  "releaseDate": "2014-03-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「ゼルネアスデッキ30」",
+  "releaseDate": "2014-01-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「イベルタルデッキ30」",
+  "releaseDate": "2014-01-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「はじめてセット」",
+  "releaseDate": "2013-11-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「はじめてセット forガール」",
+  "releaseDate": "2013-11-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "30枚デッキ対戦set「ミュウツーVSゲノセクト」",
+  "releaseDate": "2013-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "最強爆流コンボデッキ60 カメックス＋キュレムEX",
+  "releaseDate": "2013-03-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ60「ブラックキュレムEX」",
+  "releaseDate": "2012-10-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ60「ホワイトキュレムEX",
+  "releaseDate": "2012-10-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "プラズマ団パワードデッキ30",
+  "releaseDate": "2012-09-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「はじめてセット 全国図鑑版」",
+  "releaseDate": "2012-04-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ30「ケルディオ」",
+  "releaseDate": "2012-04-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "サザンドラデッキ30",
+  "releaseDate": "2012-03-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ガブリアスデッキ30",
+  "releaseDate": "2012-03-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "はじめてセットDX ピカチュウver.",
+  "releaseDate": "2011-11-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトルギフトセット「ボルトロスVSトルネロス」",
+  "releaseDate": "2011-11-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ60「レシラムEX」",
+  "releaseDate": "2011-10-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ60「ゼクロムEX」",
+  "releaseDate": "2011-10-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「はじめてセット＋（プラス）」",
+  "releaseDate": "2011-08-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトルテーマデッキ 「ビクティニ」",
+  "releaseDate": "2011-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ ビリジオン",
+  "releaseDate": "2011-03-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ テラキオン",
+  "releaseDate": "2011-03-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "バトル強化デッキ コバルオン",
+  "releaseDate": "2011-03-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「はじめてセット」",
+  "releaseDate": "2010-10-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "「はじめてセット forガール」",
+  "releaseDate": "2010-10-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築スタンダードデッキ「バンギラス悪」",
+  "releaseDate": "2010-02-11",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築スタンダードデッキ「ハガネール鋼」",
+  "releaseDate": "2010-02-11",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築スタンダードデッキ「アルセウスLV．X 雷&超」",
+  "releaseDate": "2009-07-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築スタンダードデッキ「アルセウスLV．X 草&炎」",
+  "releaseDate": "2009-07-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "対戦スターターパックSP「ガブリアスVSリザードン」",
+  "releaseDate": "2009-03-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "対戦スターターパックSP「ゴウカザルVSエルレイド」",
+  "releaseDate": "2008-12-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "エントリーパック",
+  "releaseDate": "2008-10-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "対戦スターターパック「ギラティナVSディアルガ」",
+  "releaseDate": "2008-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "対戦スターターパック「ヒードランＶＳレジギガス」",
+  "releaseDate": "2008-03-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "エントリーパック’08",
+  "releaseDate": "2007-11-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "対戦スターターパック「ブーバーンＶＳエレキブル」",
+  "releaseDate": "2007-10-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築スタンダードデッキ「ディアルガLV.X」",
+  "releaseDate": "2007-07-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築スタンダードデッキ「パルキアLV.X」",
+  "releaseDate": "2007-07-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築ハーフデッキ「攻めのラムパルド」",
+  "releaseDate": "2007-03-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築ハーフデッキ「守りのトリデプス」",
+  "releaseDate": "2007-03-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ランダム構築スターター スタンダードデッキ",
+  "releaseDate": "2006-11-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "エントリーパック",
+  "releaseDate": "2006-10-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みデッキ「封印!サーナイトex」",
+  "releaseDate": "2006-06-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済み60枚デッキ「雷震!バンギラスex」",
+  "releaseDate": "2006-06-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「大地のグラードンex」",
+  "releaseDate": "2006-03-03",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「大海のカイオーガex」",
+  "releaseDate": "2006-03-03",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「まぼろしのミュウ」",
+  "releaseDate": "2005-06-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「メガニウムex★草」",
+  "releaseDate": "2005-03-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「バクフーンex★炎」",
+  "releaseDate": "2005-03-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「オーダイルex★水」",
+  "releaseDate": "2005-03-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みデッキ「ロケット団ハーフデッキW -black-」",
+  "releaseDate": "2004-10-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みデッキ「ロケット団ハーフデッキW -silver-」",
+  "releaseDate": "2004-10-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「デオキシスデッキ」",
+  "releaseDate": "2004-07-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「レックウザデッキ」",
+  "releaseDate": "2004-07-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ランダム構築スターター「フシギバナ★草」",
+  "releaseDate": "2004-03-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ランダム構築スターター「リザードン★炎」",
+  "releaseDate": "2004-03-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ランダム構築スターター「カメックス★水」",
+  "releaseDate": "2004-03-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「メタグロスデッキ」",
+  "releaseDate": "2004-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みデッキ「マグマ団 ハーフデッキW」",
+  "releaseDate": "2003-10-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みデッキ「アクア団 ハーフデッキW」",
+  "releaseDate": "2003-10-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「ボーマンダデッキ」",
+  "releaseDate": "2003-06-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "構築済みスターター「フライゴンデッキ」",
+  "releaseDate": "2003-06-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾 構築済みスターター 「キモリデッキ」",
+  "releaseDate": "2003-01-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾 構築済みスターター 「アチャモデッキ」",
+  "releaseDate": "2003-01-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾 構築済みスターター 「ミズゴロウデッキ」",
+  "releaseDate": "2003-01-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターパック",
+  "releaseDate": "2001-12-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾「リーダーズポケモン」草雷ハーフデッキ",
+  "releaseDate": "2001-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾「リーダーズポケモン」水炎ハーフデッキ",
+  "releaseDate": "2001-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾「リーダーズポケモン」闘超ハーフデッキ",
+  "releaseDate": "2001-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "イントロパック★neo",
+  "releaseDate": "2001-04-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "スターターパック",
+  "releaseDate": "2000-02-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "イントロパック",
+  "releaseDate": "1999-07-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンジム第3弾「ヤマブキシティジム ナツメ」",
+  "releaseDate": "1999-02-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンジム第3弾「グレンタウンジム カツラ」",
+  "releaseDate": "1999-02-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンジム第2弾「タマムシシティジム エリカ」",
+  "releaseDate": "1998-07-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンジム第2弾「クチバシティジム マチス」",
+  "releaseDate": "1998-07-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンジム第1弾「ハナダシティジム カスミ」",
+  "releaseDate": "1998-04-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "ポケモンジム第1弾「ニビシティジム タケシ」",
+  "releaseDate": "1998-04-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "construction",
+  "title": "第1弾 スターターパック",
+  "releaseDate": "1996-10-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "カードイラストフィギュアコレクション みずべのポケモン",
+  "releaseDate": "2026-08-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット ニャオハ・ホゲータ・クワッス」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット サルノリ・ヒバニー・メッソン」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット モクロー・ニャビー・アシマリ」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット ハリマロン・フォッコ・ケロマツ」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット ツタージャ・ポカブ・ミジュマル」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット ナエトル・ヒコザル・ポッチャマ」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット キモリ・アチャモ・ミズゴロウ」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット チコリータ・ヒノアラシ・ワニノコ」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION カードセット フシギダネ・ヒトカゲ・ゼニガメ」",
+  "releaseDate": "2026-10-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「30th CELEBRATION FUTURISTIC BOX」",
+  "releaseDate": "2026-09-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "カードイラストフィギュアコレクション",
+  "releaseDate": "2026-03-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルカードセット メガエルレイドex",
+  "releaseDate": "2026-01-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック メガブレイブ ポケモンセンターセット",
+  "releaseDate": "2025-08-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック メガシンフォニア ポケモンセンターセット",
+  "releaseDate": "2025-08-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムトレーナーボックスMEGA",
+  "releaseDate": "2025-08-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ポケモンセンタートウホク",
+  "releaseDate": "2025-06-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ポケモンセンターヒロシマ",
+  "releaseDate": "2025-06-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ポケモンセンターフクオカ",
+  "releaseDate": "2025-06-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ブラックボルト・ホワイトフレア カードファイルセット",
+  "releaseDate": "2025-06-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "デッキビルドBOX バトルパートナーズ",
+  "releaseDate": "2025-01-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションファイルセット N",
+  "releaseDate": "2025-01-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションファイルセット リーリエ",
+  "releaseDate": "2025-01-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スタートデッキGenerations スペシャルバトルセット",
+  "releaseDate": "2024-11-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "デッキビルドBOX ステラミラクル",
+  "releaseDate": "2024-07-19",
+  "reason": "0 families in SVK"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードセット オーガポン",
+  "releaseDate": "2024-05-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "デッキビルドBOX 黒炎の支配者",
+  "releaseDate": "2023-07-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカード151（イチゴーイチ） カードファイルセット モンスターボール",
+  "releaseDate": "2023-06-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカード151（イチゴーイチ） カードファイルセット フシギバナ・リザードン・カメックス",
+  "releaseDate": "2023-06-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "exスペシャルセット",
+  "releaseDate": "2023-05-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック スノーハザード&クレイバースト ポケモンセンター・ジムセット",
+  "releaseDate": "2023-04-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム Classic",
+  "releaseDate": "2023-03-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スターターセットex ピカチュウスペシャルセット",
+  "releaseDate": "2023-03-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーカードセット",
+  "releaseDate": "2023-01-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムトレーナーボックスex",
+  "releaseDate": "2023-01-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スカーレットex&バイオレットex スペシャルセット",
+  "releaseDate": "2023-01-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ジャンボカードコレクション ラプラス",
+  "releaseDate": "2022-12-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ジャンボカードコレクション ミュウ",
+  "releaseDate": "2022-12-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ジャンボカードコレクション ラティアス",
+  "releaseDate": "2022-12-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コンゴウ団スペシャルセット",
+  "releaseDate": "2022-12-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "シンジュ団スペシャルセット",
+  "releaseDate": "2022-12-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ミステリーボックス",
+  "releaseDate": "2022-10-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "VSTARスペシャルセット",
+  "releaseDate": "2022-08-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "Pokémon GO カードファイルセット",
+  "releaseDate": "2022-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "Pokémon GO スペシャルセット",
+  "releaseDate": "2022-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルカードセット 草のリーフィアVSTAR",
+  "releaseDate": "2022-02-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルカードセット 氷のグレイシアVSTAR",
+  "releaseDate": "2022-02-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムトレーナーボックス VSTAR",
+  "releaseDate": "2022-01-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "25th ANNIVERSARY COLLECTION スペシャルセット",
+  "releaseDate": "2021-10-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション ダンデの助言",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション ルリナの休息",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション サイトウの放課後",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション キバナの不屈",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルカードセット ミュウツーV-UNION",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルカードセット ゲッコウガV-UNION",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルカードセット ザシアンV-UNION",
+  "releaseDate": "2021-08-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "強化拡張パック イーブイヒーローズ イーブイズセット",
+  "releaseDate": "2021-05-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "VMAXスペシャルセット イーブイヒーローズ",
+  "releaseDate": "2021-05-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ハイクラスデッキダブルBOX ゲンガーVMAX＆インテレオンVMAX",
+  "releaseDate": "2021-05-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ジャンボパックセット 白銀のランス＆漆黒のガイスト",
+  "releaseDate": "2021-04-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 白銀のランス＆漆黒のガイスト ポケモンセンター・ポケモンストアセット",
+  "releaseDate": "2021-04-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "強化拡張パック 双璧のファイター クララ＆セイボリーセット",
+  "releaseDate": "2021-03-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 草エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 炎エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 水エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 雷エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 超エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 闘エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 悪エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 鋼エネルギー",
+  "releaseDate": "2021-02-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 一撃マスター＆連撃マスター ポケモンセンター・ポケモンストアセット",
+  "releaseDate": "2021-01-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム ソード＆シールド プレミアムトレーナーボックス ICHIGEKI",
+  "releaseDate": "2021-01-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム ソード＆シールド プレミアムトレーナーボックス RENGEKI",
+  "releaseDate": "2021-01-22",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "SHINY BOX クロバットV",
+  "releaseDate": "2020-12-25",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "VMAX 対戦トリプルスターターセット",
+  "releaseDate": "2020-12-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション ホップの日課",
+  "releaseDate": "2020-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション ビートの決心",
+  "releaseDate": "2020-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トレーナーカードコレクション マリィの練習",
+  "releaseDate": "2020-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ポケモンセンターカナザワオープン記念",
+  "releaseDate": "2020-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ハイクラスパック シャイニースターV ルリナセット",
+  "releaseDate": "2020-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "VMAXスペシャルセット",
+  "releaseDate": "2020-10-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "キョダイパックセット 仰天のボルテッカー",
+  "releaseDate": "2020-09-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 仰天のボルテッカー ポケモンセンター・ポケモンストアセット",
+  "releaseDate": "2020-09-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "強化拡張パック 伝説の鼓動 ポケモンカードジムセット",
+  "releaseDate": "2020-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック ムゲンゾーン ポケモンセンター限定セット",
+  "releaseDate": "2020-06-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "Vスペシャルセット 反逆クラッシュ",
+  "releaseDate": "2020-03-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 反逆クラッシュ ポケモンセンター限定セット",
+  "releaseDate": "2020-03-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ザシアン＋ザマゼンタBOX",
+  "releaseDate": "2019-12-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムトレーナーボックス ソード＆シールド",
+  "releaseDate": "2019-12-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スターターセットV5 コンプリートバトルボックス",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "セブン-イレブン限定スペシャルセット スターターセットV炎",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トイザらス限定 トリプルスターターセットV",
+  "releaseDate": "2019-11-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム BW/XY「エクストラレギュレーションBOX」",
+  "releaseDate": "2019-10-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック オルタージェネシス ポケモンセンター限定セット",
+  "releaseDate": "2019-09-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック「ミュウツー&ミュウGX」",
+  "releaseDate": "2019-07-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック ミラクルツイン ポケモンセンター限定セット",
+  "releaseDate": "2019-05-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "TAG TEAM GX スターターデラックスセット",
+  "releaseDate": "2019-05-31",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック「名探偵ピカチュウ ミュウツーGX Ver.」",
+  "releaseDate": "2019-04-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック「名探偵ピカチュウ リザードンGX Ver.」",
+  "releaseDate": "2019-04-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ミュウツーの逆襲 EVOLUTION」特別前売券付きセブン-イレブン限定セット",
+  "releaseDate": "2019-04-12",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "デッキビルドBOX「TAG TEAM GX」",
+  "releaseDate": "2019-03-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック ダブルブレイズ ポケモンセンター限定セット",
+  "releaseDate": "2019-03-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "メタルセット メルメタル",
+  "releaseDate": "2019-01-11",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムトレーナーボックス TAG TEAM GX",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック タッグボルト ポケモンセンター限定セット",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック「タッグボルト」発売記念 イオン限定スペシャルパック",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 草エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 炎エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 水エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 雷エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 超エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 闘エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 悪エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック 鋼エネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エネルギーパック フェアリーエネルギー",
+  "releaseDate": "2018-12-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン＆ムーントイザらス限定 イーブイGX対戦 トリプルスターターセット",
+  "releaseDate": "2018-11-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン＆ムーン スターターセット雷のサンダースGX デラックスセット",
+  "releaseDate": "2018-11-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ポケモンセンターヨコハマ",
+  "releaseDate": "2018-11-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 超爆インパクト ポケモンセンター限定セット",
+  "releaseDate": "2018-09-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック「ゼラオラ」",
+  "releaseDate": "2018-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット ピカチュウ2018",
+  "releaseDate": "2018-07-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 裂空のカリスマ ポケモンセンター限定セット",
+  "releaseDate": "2018-06-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ポケモンセンタートウキョーDX",
+  "releaseDate": "2018-03-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張パック 禁断の光 ポケモンセンター限定セット",
+  "releaseDate": "2018-03-02",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "デッキビルドBOX「ウルトラサン」",
+  "releaseDate": "2018-02-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "デッキビルドBOX「ウルトラムーン」",
+  "releaseDate": "2018-02-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX ミミッキュだよ",
+  "releaseDate": "2018-02-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「草」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「炎」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「水」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「雷」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「超」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「闘」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「悪」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「鋼」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン エネルギーパック「フェアリー」",
+  "releaseDate": "2017-12-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "イオン限定スペシャルパック「ウルトラサン」",
+  "releaseDate": "2017-12-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "イオン限定スペシャルパック「ウルトラムーン」",
+  "releaseDate": "2017-12-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムトレーナーボックス ウルトラサン・ウルトラムーン",
+  "releaseDate": "2017-12-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン スターターセット伝説プレミアムエディション",
+  "releaseDate": "2017-11-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム サン&ムーン スターターセット伝説トイザらス限定 GX対戦スタータースペシャルセット",
+  "releaseDate": "2017-11-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX Rokon's Crystal Season",
+  "releaseDate": "2017-10-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック「ホウオウGX」",
+  "releaseDate": "2017-07-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX リーリエ＆コスモッグ",
+  "releaseDate": "2017-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ヒトカゲ」",
+  "releaseDate": "2017-06-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット 「アローラロコン」",
+  "releaseDate": "2017-04-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ネッコアラ」",
+  "releaseDate": "2017-03-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ジャラコ」",
+  "releaseDate": "2017-03-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ピカチュウ」",
+  "releaseDate": "2017-03-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX アローラロコン&ロコンポンチョのピカチュウ",
+  "releaseDate": "2017-02-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ジュナイパー」",
+  "releaseDate": "2017-01-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ガオガエン」",
+  "releaseDate": "2017-01-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「アシレーヌ」",
+  "releaseDate": "2017-01-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「イワンコ」",
+  "releaseDate": "2017-01-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「バクガメス」",
+  "releaseDate": "2017-01-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX 団員ごっこピカチュウ",
+  "releaseDate": "2016-12-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トイザらス限定 GXスターターセット",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「プレミアムトレーナーボックス」",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「トゲデマル」",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ピカチュウ」",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット「ヤングース」",
+  "releaseDate": "2016-12-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲームXY BREAK マリオピカチュウスペシャルＢＯＸ",
+  "releaseDate": "2016-10-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲームXY BREAK ルイージピカチュウスペシャルＢＯＸ",
+  "releaseDate": "2016-10-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "20th Anniversary スペシャルパック 「 ヤドランEX＋なみのりピカチュウ」",
+  "releaseDate": "2016-09-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック「ボルケニオンEX」",
+  "releaseDate": "2016-08-05",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルパック「ジガルデ スペシャルセット」",
+  "releaseDate": "2016-07-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX レックウザポンチョを着たピカチュウ",
+  "releaseDate": "2016-07-06",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲームXY BREAK 「マスクド・ピカチュウ」スペシャルパック&lt;セブン＆アイ・ポケモンセンター限定&gt;",
+  "releaseDate": "2016-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルセット ホウオウ+ルギア",
+  "releaseDate": "2016-04-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "カメックスメガバトル スペシャルパック",
+  "releaseDate": "2016-04-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ポケットモンスターカードゲーム スターターパック」",
+  "releaseDate": "2016-02-27",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケキュンコレクション プレミアムポケキュン?セット",
+  "releaseDate": "2016-01-29",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX メガリザードンXのポンチョを着たピカチュウ",
+  "releaseDate": "2016-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX メガリザードンYのポンチョを着たピカチュウ",
+  "releaseDate": "2016-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲームXY BREAK 拡張パック「破天の怒り」イオン限定スペシャルパック",
+  "releaseDate": "2016-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトル強化セット 草/闘",
+  "releaseDate": "2015-12-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトル強化セット 炎/雷",
+  "releaseDate": "2015-12-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトル強化セット 水/超",
+  "releaseDate": "2015-12-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック 「ミュウツーEX」「青い衝撃」「破天の怒り」Ver.",
+  "releaseDate": "2015-12-11",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルジャンボカードパック 「ミュウツーEX」「赤い閃光」「破天の怒り」Ver.",
+  "releaseDate": "2015-12-11",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ダブルメガBREAKセット 「プテラEX+クチートEX+レントラーBREAK」",
+  "releaseDate": "2015-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "BREAK進化パック「ライチュウBREAK」",
+  "releaseDate": "2015-09-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "BREAK進化パック「オンバーンBREAK」",
+  "releaseDate": "2015-09-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「マスターデッキビルドBOX パワースタイル」",
+  "releaseDate": "2015-08-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「マスターデッキビルドBOX スピードスタイル」",
+  "releaseDate": "2015-08-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画公開記念スペシャルパック フーパ &lt;セブン&amp;アイ・ポケモンセンター限定&gt;",
+  "releaseDate": "2015-07-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲームXY 映画公開記念&lt;劇場・ポケモンセンター限定&gt; 「フーパのおでまし～！アルバムセット」",
+  "releaseDate": "2015-07-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "スペシャルBOX コイキングごっこ&amp;ギャラドスごっこピカチュウ",
+  "releaseDate": "2015-06-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "メガパック「レックウザメガバトル」",
+  "releaseDate": "2015-04-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コンセプトパック「マグマ団VSアクア団 ダブルクライシス」バリューセット",
+  "releaseDate": "2015-01-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「スペシャルパック 銀のメタグロスEX」",
+  "releaseDate": "2014-12-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケットモンスター オメガルビー・ポケットモンスター アルファサファイア 発売記念 「スペシャルパック ディアンシーEX」",
+  "releaseDate": "2014-11-21",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「映画公開記念 ゼルネアスセット」",
+  "releaseDate": "2014-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「映画公開記念 イベルタルセット」",
+  "releaseDate": "2014-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「映画公開記念 ディアンシーセット&lt;劇場・ポケモンセンター限定&gt;」",
+  "releaseDate": "2014-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「映画公開記念 ディアンシーセット&lt;セブン＆アイ・ポケモンセンター限定&gt;」",
+  "releaseDate": "2014-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「メガルカリオBOX 闘」",
+  "releaseDate": "2014-06-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "メガパック「リザードンメガバトル」",
+  "releaseDate": "2014-04-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "セブン＆アイ・ポケモンセンター限定 ミニファイルセット ゼルネアス",
+  "releaseDate": "2013-12-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "セブン＆アイ・ポケモンセンター限定 ミニファイルセット イベルタル",
+  "releaseDate": "2013-12-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「はじめてセットDX」",
+  "releaseDate": "2013-11-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「はじめてセットDX forガール」",
+  "releaseDate": "2013-11-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "みんなのWAKUWAKUバトル",
+  "releaseDate": "2012-11-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プラズマ団バトルギフトセット",
+  "releaseDate": "2012-11-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "トッププレイヤーが選ぶ100＋40枚 マスターデッキビルドBOX EX",
+  "releaseDate": "2012-09-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「はじめてセットDX」",
+  "releaseDate": "2010-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「はじめてセットDX forガール」",
+  "releaseDate": "2010-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションシート 旅立ちの仲間 ツタージャ",
+  "releaseDate": "2010-09-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションシート 旅立ちの仲間 ポカブ",
+  "releaseDate": "2010-09-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションシート 旅立ちの仲間 ミジュマル",
+  "releaseDate": "2010-09-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "パーフェクトセット",
+  "releaseDate": "2010-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム ピカチュウ ワールド",
+  "releaseDate": "2010-07-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム ピカチュウ ワールド セブン‐イレブン・ポケモンセンター オリジナルバージョン",
+  "releaseDate": "2010-07-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ハートゴールドコレクション スペシャルパック",
+  "releaseDate": "2010-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エキスパートデッキ リーフィアVSメタグロス +Online",
+  "releaseDate": "2009-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトルスタートデッキ ドダイトス",
+  "releaseDate": "2009-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトルスタートデッキ ブーバーン",
+  "releaseDate": "2009-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトルスタートデッキ カメックス",
+  "releaseDate": "2009-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "バトルスタートデッキ ライチュウ",
+  "releaseDate": "2009-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ランダムベーシックパック",
+  "releaseDate": "2009-10-09",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカードゲーム 映画公開記念 スペシャルパック2009",
+  "releaseDate": "2009-07-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画公開記念 ランダムパック2009",
+  "releaseDate": "2009-07-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "乱戦！ポケモンスクランブル×ポケモンカードゲーム",
+  "releaseDate": "2009-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションパック シェイミLV．X",
+  "releaseDate": "2009-04-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションパック ミュウツーLV．X",
+  "releaseDate": "2009-04-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "コレクションパック レジギガスLV．X",
+  "releaseDate": "2009-04-18",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ギンガの覇道・時の果ての絆 スペシャルパック",
+  "releaseDate": "2009-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ギフトボックス",
+  "releaseDate": "2008-11-20",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画公開記念 プレミアムシート2008",
+  "releaseDate": "2008-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "月光の追跡・夜明けの疾走 スペシャルパック",
+  "releaseDate": "2008-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "秘境の叫び・怒りの神殿 スペシャルパック",
+  "releaseDate": "2008-07-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "湖の秘密 スペシャルパック",
+  "releaseDate": "2008-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ひかる闇 スペシャルパック",
+  "releaseDate": "2008-01-01",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "エントリーパック’08DX",
+  "releaseDate": "2007-11-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画10周年記念 プレミアムシート",
+  "releaseDate": "2007-07-14",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ワールドチャンピオンズパック",
+  "releaseDate": "2007-07-05",
+  "reason": "0 families in PCG10"
+ },
+ {
+  "kind": "others",
+  "title": "「映画公開記念VSパック 蒼海(うみ)のマナフィ」",
+  "releaseDate": "2006-07-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ギフトボックス ミュウ・ルカリオver.」",
+  "releaseDate": "2005-11-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ホロンの研究塔ハーフデッキ1／2炎EX」",
+  "releaseDate": "2005-09-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ホロンの研究塔ハーフデッキ1／2水EX」",
+  "releaseDate": "2005-09-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ホロンの研究塔ハーフデッキ1／2雷EX」",
+  "releaseDate": "2005-09-30",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「マスターキット」",
+  "releaseDate": "2005-07-15",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイック・コンストラクション・パック「タイプユニット:草」",
+  "releaseDate": "2005-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイック・コンストラクション・パック「タイプユニット:炎」",
+  "releaseDate": "2005-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイック・コンストラクション・パック「タイプユニット:水」",
+  "releaseDate": "2005-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイック・コンストラクション・パック「タイプユニット:闘」",
+  "releaseDate": "2005-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイック・コンストラクション・パック「タイプユニット:雷」",
+  "releaseDate": "2005-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ギフトボックス エメラルドver.",
+  "releaseDate": "2004-11-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイック・コンストラクション・パック「タイプユニット:超」",
+  "releaseDate": "2005-01-16",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画公開記念VSパックー裂空のデオキシスー",
+  "releaseDate": "2004-07-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ギフトボックス",
+  "releaseDate": "2003-11-28",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画公開記念VSパック",
+  "releaseDate": "2003-07-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "劇場限定VSパック",
+  "releaseDate": "2002-07-13",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「ミニマム★パック」",
+  "releaseDate": "2002-01-26",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ポケモンカード★web",
+  "releaseDate": "2001-10-20",
+  "reason": "0 families in web1"
+ },
+ {
+  "kind": "others",
+  "title": "「リーダーズポケモン」 劇場限定版",
+  "releaseDate": "2001-07-07",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムファイル3",
+  "releaseDate": "2000-11-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "プレミアムファイル2",
+  "releaseDate": "2000-07-08",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "『ポケットモンスター 金・銀』発売記念 プレミアムファイル",
+  "releaseDate": "1999-12-10",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "「サザンアイランド」映画公開記念セット",
+  "releaseDate": "1999-07-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "映画公開記念パック「サザンアイランド」",
+  "releaseDate": "1999-07-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "クイックスターター ギフト",
+  "releaseDate": "1998-12-04",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張シート 第3弾(緑版)",
+  "releaseDate": "1998-11-24",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張シート 第2弾(赤版)",
+  "releaseDate": "1998-06-17",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "拡張シート 第1弾(青版)",
+  "releaseDate": "1998-03-23",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ロケット団 ギフトパック",
+  "releaseDate": "1997-12-19",
+  "reason": "no TCGdex set with this name and date"
+ },
+ {
+  "kind": "others",
+  "title": "ギフトパック",
+  "releaseDate": "1996-12-12",
+  "reason": "no TCGdex set with this name and date"
+ }
+]

@@ -1,0 +1,82 @@
+{
+  "id": "swsh12.5-premium-figure-collection-shiny-zamazenta",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Crown Zenith Premium Figure Collection [Shiny Zamazenta]",
+  "identifiers": {
+    "cardmarketProductId": 683027
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Sculpted figure featuring Shiny Zacian or Shiny Zamazenta",
+        "count": 1
+      },
+      {
+        "name": "Collector’s pin featuring Shiny Zacian or Shiny Zamazenta",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring both Shiny Zacian and Shiny Zamazenta",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Shiny Zacian V or Shiny Zamazenta V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Premium Figure Collection [Shiny Zamazenta]",
+      "releaseDate": "2023-05-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475646
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475646/pokemon-swsh-crown-zenith-crown-zenith-premium-figure-collection-shiny-zamazenta"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium avec figurine Zénith Suprême Zamazenta chromatique",
+      "releaseDate": "2023-05-05",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_avec_figurine_Z%C3%A9nith_Supr%C3%AAme_Zamazenta_chromatique"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium Zacian variocolor o Zamazenta variocolor de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-zacian-variocolor-o-zamazenta-variocolor-de-cenit-supremo"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium con statuina Zenit Regale - Zacian cromatico o Zamazenta cromatico",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-statuina-zenit-regale-zacian-cromatico-o-zamazenta-cromatico"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Zenit der Könige: Schillerndes Zacian/Zamazenta",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-zenit-der-koenige-schillerndes-zacian-zamazenta"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sm3n-booster-pack",
+  "region": "asia",
+  "set": "SM3N",
+  "category": "booster_pack",
+  "name": "Darkness that Consumes Light Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551931
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「光を喰らう闇」",
+      "releaseDate": "2017-06-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576866
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576866/pokemon-japan-sm3n-darkness-that-consumes-light-darkness-that-consumes-light-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E5%85%89%E3%82%92%E5%96%B0%E3%82%89%E3%81%86%E9%97%87"
+      ]
+    }
+  ]
+}

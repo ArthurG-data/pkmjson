@@ -1,0 +1,36 @@
+{
+  "id": "svp-dark-powers-ex-special-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Dark Powers ex Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Banette ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Gengar ex; 1 foil card featuring Absol ex; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dark Powers ex Special Collection",
+      "releaseDate": "2024-08-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          558746
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/558746/pokemon-miscellaneous-cards-and-products-dark-powers-ex-special-collection"
+      ]
+    }
+  ]
+}

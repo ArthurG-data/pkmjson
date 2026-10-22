@@ -1,0 +1,48 @@
+{
+  "id": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "region": "international",
+  "set": "swsh11",
+  "category": "premium_collection",
+  "name": "Origin Forme Dialga VSTAR Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Origin Forme Dialga VSTAR or Origin Forme Palkia VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Pin featuring Origin Forme Dialga or Origin Forme Palkia",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin featuring Origin Forme Dialga or Origin Forme Palkia",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Origin Forme Dialga VSTAR or Origin Forme Palkia VSTAR; 1 etched foil card featuring Origin Forme Dialga V or Origin Forme Palkia V; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Origin Forme Dialga VSTAR Premium Collection",
+      "releaseDate": "2022-10-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282000
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282000/pokemon-swsh11-lost-origin-origin-forme-dialga-vstar-premium-collection"
+      ]
+    }
+  ]
+}

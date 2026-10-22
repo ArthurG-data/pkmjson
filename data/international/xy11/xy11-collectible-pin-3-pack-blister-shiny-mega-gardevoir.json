@@ -1,0 +1,37 @@
+{
+  "id": "xy11-collectible-pin-3-pack-blister-shiny-mega-gardevoir",
+  "region": "international",
+  "set": "xy11",
+  "category": "blister",
+  "name": "Steam Siege Collectible Pin 3 Pack Blister [Shiny Mega Gardevoir]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy11-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible shiny Mega Gardevoir pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Collectible Pin 3 Pack Blister [Shiny Mega Gardevoir]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120707
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120707/pokemon-xy-steam-siege-steam-siege-collectible-pin-3-pack-blister-shiny-mega-gardevoir"
+      ]
+    }
+  ]
+}

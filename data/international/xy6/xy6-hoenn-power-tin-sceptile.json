@@ -1,0 +1,47 @@
+{
+  "id": "xy6-hoenn-power-tin-sceptile",
+  "region": "international",
+  "set": "xy6",
+  "category": "tin",
+  "name": "Hoenn Power Tin [Sceptile]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hoenn Power Tin [Sceptile]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100496
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100496/pokemon-xy-roaring-skies-hoenn-power-tin-sceptile"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance de Hoenn Jungko",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy7-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_de_Hoenn_Jungko-EX"
+      ]
+    }
+  ]
+}

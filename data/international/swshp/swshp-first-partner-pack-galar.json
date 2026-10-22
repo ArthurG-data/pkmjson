@@ -1,0 +1,25 @@
+{
+  "id": "swshp-first-partner-pack-galar",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "First Partner Pack (Galar)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: three oversize promo cards featuring the first partner Pokémon of the.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Pack (Galar)",
+      "releaseDate": "2021-03-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231299
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231299/pokemon-first-partner-pack-first-partner-pack-galar"
+      ]
+    }
+  ]
+}

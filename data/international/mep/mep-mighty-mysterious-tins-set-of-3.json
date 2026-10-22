@@ -1,0 +1,24 @@
+{
+  "id": "mep-mighty-mysterious-tins-set-of-3",
+  "region": "international",
+  "set": "mep",
+  "category": "other",
+  "name": "Mighty Mysterious Tins [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mighty Mysterious Tins [Set of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          648586
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/648586/pokemon-miscellaneous-cards-and-products-mighty-mysterious-tins-set-of-3"
+      ]
+    }
+  ]
+}

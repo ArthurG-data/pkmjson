@@ -1,0 +1,40 @@
+{
+  "id": "sm115-collection-raichu-gx",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Collection [Raichu GX]",
+  "identifiers": {
+    "cardmarketProductId": 399614
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "PTCGO code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Raichu GX promo card; a jumbo promo version featuring Raichu GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Collection [Raichu GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          205161
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/205161/pokemon-hidden-fates-hidden-fates-collection-raichu-gx"
+      ]
+    }
+  ]
+}

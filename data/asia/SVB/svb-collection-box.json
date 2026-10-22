@@ -1,0 +1,43 @@
+{
+  "id": "svb-collection-box",
+  "region": "asia",
+  "set": "SVB",
+  "category": "collection_box",
+  "name": "Premium Trainer Box ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Set of 34 acrylic damage counters",
+        "count": 1
+      },
+      {
+        "name": "Pair of premium status markers",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Damage counter case",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: an assortment of popular Pokémon, Trainer, Energy cards from the Sword & Shield Era, in addition to some updated favorites.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Premium Trainer Box ex",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594110
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594110/pokemon-japan-sv-premium-trainer-box-ex-premium-trainer-box-ex"
+      ]
+    }
+  ]
+}

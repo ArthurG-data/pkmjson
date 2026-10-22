@@ -1,0 +1,24 @@
+{
+  "id": "sm3-sleeved-booster-pack",
+  "region": "international",
+  "set": "sm3",
+  "category": "sleeved_booster_pack",
+  "name": "Burning Shadows Sleeved Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          550677
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/550677/pokemon-sm-burning-shadows-burning-shadows-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

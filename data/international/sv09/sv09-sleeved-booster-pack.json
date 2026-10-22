@@ -1,0 +1,27 @@
+{
+  "id": "sv09-sleeved-booster-pack",
+  "region": "international",
+  "set": "sv09",
+  "category": "sleeved_booster_pack",
+  "name": "Journey Together Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 805576
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610934
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610934/pokemon-sv09-journey-together-journey-together-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

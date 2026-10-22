@@ -1,0 +1,50 @@
+{
+  "id": "sv10.5w-tech-sticker-collection",
+  "region": "international",
+  "set": "sv10.5w",
+  "category": "collection_box",
+  "name": "White Flare Tech Sticker Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5w-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Reuniclus or Gothitelle.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "White Flare Tech Sticker Collection",
+      "releaseDate": "2025-08-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630700
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630700/pokemon-sv-white-flare-white-flare-tech-sticker-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection autocollant réajustable Écarlate et Violet Flamme Blanche",
+      "releaseDate": "2025-08-01",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_autocollant_r%C3%A9ajustable_%C3%89carlate_et_Violet_Flamme_Blanche"
+      ]
+    }
+  ]
+}

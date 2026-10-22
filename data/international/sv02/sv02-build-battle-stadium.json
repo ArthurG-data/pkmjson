@@ -1,0 +1,64 @@
+{
+  "id": "sv02-build-battle-stadium",
+  "region": "international",
+  "set": "sv02",
+  "category": "other",
+  "name": "Paldea Evolved Build & Battle Stadium",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Individual Build & Battle Boxes",
+        "count": 2
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 121
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Build & Battle Stadium",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496935
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496935/pokemon-sv02-paldea-evolved-paldea-evolved-build-and-battle-stadium"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Stade Stratégies et Combats Écarlate et Violet – Évolutions à Paldea",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-evolutions-a-paldea"
+      ]
+    }
+  ]
+}

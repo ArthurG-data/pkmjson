@@ -1,0 +1,52 @@
+{
+  "id": "swsh12.5-pikachu-vmax-premium-collection",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "premium_collection",
+  "name": "Pikachu VMAX Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 757831
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 7
+      }
+    ],
+    "other": [
+      {
+        "name": "Pin Gigantamax Pikachu",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Pikachu VMAX; 1 foil promo card featuring Pikachu V; 1 oversize promo card featuring Pikachu VMAX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu VMAX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          527796
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/527796/pokemon-swsh-crown-zenith-pikachu-vmax-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Zénith Suprême Pikachu-VMAX",
+      "releaseDate": "2023-09-01",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_Z%C3%A9nith_Supr%C3%AAme_Pikachu-VMAX"
+      ]
+    }
+  ]
+}

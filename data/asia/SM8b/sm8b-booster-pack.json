@@ -1,0 +1,27 @@
+{
+  "id": "sm8b-booster-pack",
+  "region": "asia",
+  "set": "SM8b",
+  "category": "booster_pack",
+  "name": "GX Ultra Shiny Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550476
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "GX Ultra Shiny Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576960
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576960/pokemon-japan-sm8b-gx-ultra-shiny-gx-ultra-shiny-booster-pack"
+      ]
+    }
+  ]
+}

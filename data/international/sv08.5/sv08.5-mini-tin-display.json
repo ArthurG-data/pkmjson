@@ -1,0 +1,27 @@
+{
+  "id": "sv08.5-mini-tin-display",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "case",
+  "name": "Prismatic Evolutions Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 798944
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593463
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593463/pokemon-sv-prismatic-evolutions-prismatic-evolutions-mini-tin-display"
+      ]
+    }
+  ]
+}

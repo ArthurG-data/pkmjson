@@ -1,0 +1,36 @@
+{
+  "id": "pl2-booster-pack",
+  "region": "international",
+  "set": "pl2",
+  "category": "booster_pack",
+  "name": "Rising Rivals Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271879
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Platinum—Rising Rivals",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98542
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98542/pokemon-rising-rivals-rising-rivals-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/rising-rivals"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Platine - Rivaux Émergeants",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X",
+        "https://www.pokemon.com/fr/jcc-pokemon/rivaux-emergeants"
+      ]
+    }
+  ]
+}

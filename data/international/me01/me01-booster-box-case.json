@@ -1,0 +1,27 @@
+{
+  "id": "me01-booster-box-case",
+  "region": "international",
+  "set": "me01",
+  "category": "case",
+  "name": "Mega Evolution Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 834812
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644731
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644731/pokemon-me01-mega-evolution-mega-evolution-booster-box-case"
+      ]
+    }
+  ]
+}

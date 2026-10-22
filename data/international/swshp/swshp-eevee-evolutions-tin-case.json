@@ -1,0 +1,24 @@
+{
+  "id": "swshp-eevee-evolutions-tin-case",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Eevee Evolutions Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Eevee Evolutions Tin Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          243573
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/243573/pokemon-miscellaneous-cards-and-products-eevee-evolutions-tin-case"
+      ]
+    }
+  ]
+}

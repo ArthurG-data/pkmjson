@@ -1,0 +1,27 @@
+{
+  "id": "base1-base-set-theme-deck-blackout",
+  "region": "international",
+  "set": "base1",
+  "category": "theme_deck",
+  "name": "Base Set Theme Deck - \"Blackout\"",
+  "identifiers": {
+    "cardmarketProductId": 286492
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set Theme Deck - \"Blackout\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107603
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107603/pokemon-base-set-shadowless-base-set-theme-deck-blackout"
+      ]
+    }
+  ]
+}

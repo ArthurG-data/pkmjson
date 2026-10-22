@@ -1,0 +1,35 @@
+{
+  "id": "svp-tsareena-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Tsareena Ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves featuring a Poke ball design",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Tsareena ex; 1 promo card featuring Bounsweet; 1 promo card featuring Steenee; 6 Pokemon TCG booster packs; 1 magnetic card protector with display base.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tsareena Ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          596517
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/596517/pokemon-miscellaneous-cards-and-products-tsareena-ex-box"
+      ]
+    }
+  ]
+}

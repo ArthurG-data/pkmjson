@@ -1,0 +1,40 @@
+{
+  "id": "swsh4-build-battle-box",
+  "region": "international",
+  "set": "swsh4",
+  "category": "build_and_battle_box",
+  "name": "Vivid Voltage Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 512730
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 23-card Evolution pack featuring key cards from current and prior expansions (including 1 of 4 alternate-art promo cards).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221748
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221748/pokemon-swsh04-vivid-voltage-vivid-voltage-build-and-battle-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "sm3.5-super-premium-collection-ho-oh-gx",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "premium_collection",
+  "name": "Shining Legends Super-Premium Collection [Ho-Oh GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Ho-Oh collectible figure",
+        "count": 1
+      },
+      {
+        "name": "Playmat featuring 9 Shining Pokémon",
+        "count": 1
+      },
+      {
+        "name": "Special art booklet with a behind-the-scenes look at Shining Legends",
+        "count": 1
+      },
+      {
+        "name": "Collector's boxes",
+        "count": 3
+      },
+      {
+        "name": "Dividers",
+        "count": 12
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A Full Art rainbow promo card featuring Ho-Oh GX; 3 holofoil promos featuring Shining Lugia, Shining Celebi, Pikachu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Super-Premium Collection [Ho-Oh GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148412
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148412/pokemon-shining-legends-shining-legends-super-premium-collection-ho-oh-gx"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "xy11-hoopa-ex-challenge-box",
+  "region": "international",
+  "set": "xy11",
+  "category": "collection_box",
+  "name": "Hoopa EX Challenge Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Foil oversize card featuring Hoopa-EX",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 complete Ring of Lightning theme deck—play it right away; 1 foil promo card featuring Hoopa-EX; 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hoopa EX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693146
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693146/pokemon-xy-steam-siege-hoopa-ex-challenge-box"
+      ]
+    }
+  ]
+}

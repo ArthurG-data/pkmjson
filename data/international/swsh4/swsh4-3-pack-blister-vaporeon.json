@@ -1,0 +1,51 @@
+{
+  "id": "swsh4-3-pack-blister-vaporeon",
+  "region": "international",
+  "set": "swsh4",
+  "category": "blister",
+  "name": "Vivid Voltage 3 Pack Blister [Vaporeon]",
+  "identifiers": {
+    "cardmarketProductId": 585831
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH072",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 221753,
+        "cardmarketProductId": 516359,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage 3 Pack Blister [Vaporeon]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221745
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221745/pokemon-swsh04-vivid-voltage-vivid-voltage-3-pack-blister-vaporeon"
+      ]
+    }
+  ]
+}

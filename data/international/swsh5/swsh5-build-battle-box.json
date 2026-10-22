@@ -1,0 +1,40 @@
+{
+  "id": "swsh5-build-battle-box",
+  "region": "international",
+  "set": "swsh5",
+  "category": "build_and_battle_box",
+  "name": "Battle Styles Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 544801
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh5-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 23-card Evolution pack featuring key cards from current and prior expansions (including 1 of 4 alternate-art promo cards).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Styles Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229278
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229278/pokemon-swsh05-battle-styles-battle-styles-build-and-battle-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sv05-booster-bundle",
+  "region": "international",
+  "set": "sv05",
+  "category": "booster_bundle",
+  "name": "Temporal Forces Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 750406
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Booster Bundle",
+      "releaseDate": "2024-03-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541017
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/541017/pokemon-sv05-temporal-forces-temporal-forces-booster-bundle"
+      ]
+    }
+  ]
+}

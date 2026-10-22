@@ -1,0 +1,24 @@
+{
+  "id": "sv03.5-151-pokemon-center-elite-trainer-box-exclusive-case",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "case",
+  "name": "151 Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Pokemon Center Elite Trainer Box (Exclusive) Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528030
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528030/pokemon-sv-scarlet-and-violet-151-151-pokemon-center-elite-trainer-box-exclusive-case"
+      ]
+    }
+  ]
+}

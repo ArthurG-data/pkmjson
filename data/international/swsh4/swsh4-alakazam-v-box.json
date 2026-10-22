@@ -1,0 +1,78 @@
+{
+  "id": "swsh4-alakazam-v-box",
+  "region": "international",
+  "set": "swsh4",
+  "category": "collection_box",
+  "name": "Alakazam V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH083",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 228980,
+        "cardmarketProductId": 530487,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Alakazam V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alakazam V Box",
+      "releaseDate": "2021-01-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228979
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228979/pokemon-swsh04-vivid-voltage-alakazam-v-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Alakazam V",
+      "releaseDate": "2021-01-08",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-alakazam-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Alakazam-V",
+      "releaseDate": "2021-01-08",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-alakazam-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Simsala‑V",
+      "releaseDate": "2021-01-08",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-simsala-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Alakazam‑V",
+      "releaseDate": "2021-01-08",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-alakazam-v"
+      ]
+    }
+  ]
+}

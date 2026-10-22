@@ -1,0 +1,31 @@
+{
+  "id": "swshp-galar-challengers-tin-copperajah-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Galar Challengers Tin [Copperajah V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Copperajah V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Challengers Tin [Copperajah V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220290
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220290/pokemon-miscellaneous-cards-and-products-galar-challengers-tin-copperajah-v"
+      ]
+    }
+  ]
+}

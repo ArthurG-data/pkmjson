@@ -1,0 +1,25 @@
+{
+  "id": "me05-3-pack-blister-case",
+  "region": "international",
+  "set": "me05",
+  "category": "case",
+  "name": "Pitch Black 3-Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black 3-Pack Blister Case",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693589
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693589/pokemon-me05-pitch-black-pitch-black-3-pack-blister-case"
+      ]
+    }
+  ]
+}

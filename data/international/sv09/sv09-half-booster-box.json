@@ -1,0 +1,34 @@
+{
+  "id": "sv09-half-booster-box",
+  "region": "international",
+  "set": "sv09",
+  "category": "half_booster_box",
+  "name": "Journey Together Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 805581
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649492
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649492/pokemon-sv09-journey-together-journey-together-half-booster-box"
+      ]
+    }
+  ]
+}

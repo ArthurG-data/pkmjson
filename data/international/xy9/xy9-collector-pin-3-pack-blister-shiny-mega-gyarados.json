@@ -1,0 +1,41 @@
+{
+  "id": "xy9-collector-pin-3-pack-blister-shiny-mega-gyarados",
+  "region": "international",
+  "set": "xy9",
+  "category": "blister",
+  "name": "BREAKpoint Collector Pin 3 Pack Blister [Shiny Mega Gyarados]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy9-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of shiny Mega Gyarados",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKpoint Collector Pin 3 Pack Blister [Shiny Mega Gyarados]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117268
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117268/pokemon-xy-breakpoint-breakpoint-collector-pin-3-pack-blister-shiny-mega-gyarados"
+      ]
+    }
+  ]
+}

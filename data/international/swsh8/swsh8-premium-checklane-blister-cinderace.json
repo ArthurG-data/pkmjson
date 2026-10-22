@@ -1,0 +1,44 @@
+{
+  "id": "swsh8-premium-checklane-blister-cinderace",
+  "region": "international",
+  "set": "swsh8",
+  "category": "blister",
+  "name": "Fusion Strike Premium Checklane Blister [Cinderace]",
+  "identifiers": {
+    "cardmarketProductId": 585671
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Premium Checklane Blister [Cinderace]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247675
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247675/pokemon-swsh08-fusion-strike-fusion-strike-premium-checklane-blister-cinderace"
+      ]
+    }
+  ]
+}

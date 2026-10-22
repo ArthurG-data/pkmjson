@@ -1,0 +1,67 @@
+{
+  "id": "svp-grafaiai-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Grafaiai ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-100",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 546448,
+        "cardmarketProductId": 764544,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-099",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 546450,
+        "cardmarketProductId": 764543,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Grafaiai ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Grafaiai ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          546458
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/546458/pokemon-miscellaneous-cards-and-products-grafaiai-ex-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Grafaiai ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-grafaiai-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Tag‑Tag‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-tag-tag-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "xy2-collector-chest",
+  "region": "international",
+  "set": "xy2",
+  "category": "other",
+  "name": "XY Flashfire Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cool Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Sticker sheets including Legendary Pokemon",
+        "count": 2
+      },
+      {
+        "name": "Mini album to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokemon notepad",
+        "count": 1
+      },
+      {
+        "name": "Pencils with a unique Pokemon design",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon TCG Booster Packs; 1 promo card featuring Treecko; 1 promo card featuring Torchic; 1 promo card featuring Mudkip.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Flashfire Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          249164
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/249164/pokemon-xy-flashfire-xy-flashfire-collector-chest"
+      ]
+    }
+  ]
+}

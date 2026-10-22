@@ -1,0 +1,32 @@
+{
+  "id": "sm2-incineroar-gx-premium-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "premium_collection",
+  "name": "Incineroar GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Incineroar GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133807
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133807/pokemon-sm-guardians-rising-incineroar-gx-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Félinferno",
+      "releaseDate": "2017-08-31",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_F%C3%A9linferno-GX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pokemon-stacking-tin-electric",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Electric",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Electric",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          260867
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/260867/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-electric"
+      ]
+    }
+  ]
+}

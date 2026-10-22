@@ -1,0 +1,63 @@
+{
+  "id": "xy5-three-pack-blister-ditto",
+  "region": "international",
+  "set": "xy5",
+  "category": "blister",
+  "name": "Primal Clash Three Pack Blister [Ditto]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Ditto.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Primal Clash Three Pack Blister [Ditto]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97758
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97758/pokemon-xy-primal-clash-primal-clash-three-pack-blister-ditto"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY05 Métamorph",
+      "releaseDate": "2015-02-21",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy5-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY05_M%C3%A9tamorph"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "sv03.5-151-poster-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "collection_box",
+  "name": "151 Poster Collection",
+  "identifiers": {
+    "cardmarketProductId": 719696
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Poster with a Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Bulbasaur; 1 promo card featuring Charmander; 1 promo card featuring Squirtle.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Poster Collection",
+      "releaseDate": "2023-09-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502001
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502001/pokemon-sv-scarlet-and-violet-151-151-poster-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection poster Écarlate et Violet 151",
+      "releaseDate": "2023-10-27",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_poster_%C3%89carlate_et_Violet_151"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Poster-Kollektion Karmesin & Purpur – 151",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-karmesin-purpur-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con póster de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con poster dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-dellespansione-scarlatto-e-violetto-151"
+      ]
+    }
+  ]
+}

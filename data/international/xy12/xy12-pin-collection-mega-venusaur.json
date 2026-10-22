@@ -1,0 +1,37 @@
+{
+  "id": "xy12-pin-collection-mega-venusaur",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "XY - Evolutions Pin Collection [Mega Venusaur]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy12-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible pin of Mega Venusaur",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 random XY booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Evolutions Pin Collection [Mega Venusaur]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229352
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229352/pokemon-xy-evolutions-xy-evolutions-pin-collection-mega-venusaur"
+      ]
+    }
+  ]
+}

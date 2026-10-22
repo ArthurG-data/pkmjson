@@ -1,0 +1,53 @@
+{
+  "id": "swsh10.5-mini-tin-magikarp",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "tin",
+  "name": "Pokemon GO Mini Tin [Magikarp]",
+  "identifiers": {
+    "cardmarketProductId": 653712
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Mini Tin [Magikarp]",
+      "releaseDate": "2022-08-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270728
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270728/pokemon-pokemon-go-pokemon-go-mini-tin-magikarp"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Minilata Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini-boîte Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"
+      ]
+    }
+  ]
+}

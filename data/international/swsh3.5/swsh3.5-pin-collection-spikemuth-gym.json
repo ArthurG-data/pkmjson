@@ -1,0 +1,50 @@
+{
+  "id": "swsh3.5-pin-collection-spikemuth-gym",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "collection_box",
+  "name": "Champion's Path Pin Collection [Spikemuth Gym]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring the Gym logo",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring the Gym Leader’s partner Pokémon: Galarian Obstagoon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Pin Collection [Spikemuth Gym]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218800
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218800/pokemon-champions-path-champions-path-pin-collection-spikemuth-gym"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's La Voie du Maître Arène de Smashings",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_La_Voie_du_Ma%C3%AEtre_Ar%C3%A8ne_de_Smashings"
+      ]
+    }
+  ]
+}

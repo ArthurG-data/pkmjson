@@ -1,0 +1,72 @@
+{
+  "id": "swsh6-pokemon-center-elite-trainer-box-ice-rider-calyrex-exclusive",
+  "region": "international",
+  "set": "swsh6",
+  "category": "elite_trainer_box",
+  "name": "Chilling Reign Pokemon Center Elite Trainer Box [Ice Rider Calyrex] (Exclusive)",
+  "identifiers": {
+    "cardmarketProductId": 567355
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Ice Rider Calyrex",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Sword & Shield",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign Pokemon Center Elite Trainer Box [Ice Rider Calyrex] (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247281
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247281/pokemon-swsh06-chilling-reign-chilling-reign-pokemon-center-elite-trainer-box-ice-rider-calyrex-exclusive"
+      ]
+    }
+  ]
+}

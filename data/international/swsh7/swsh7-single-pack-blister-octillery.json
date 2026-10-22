@@ -1,0 +1,37 @@
+{
+  "id": "swsh7-single-pack-blister-octillery",
+  "region": "international",
+  "set": "swsh7",
+  "category": "blister",
+  "name": "Evolving Skies Single Pack Blister [Octillery]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Octillery.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Single Pack Blister [Octillery]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247604
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247604/pokemon-swsh07-evolving-skies-evolving-skies-single-pack-blister-octillery"
+      ]
+    }
+  ]
+}

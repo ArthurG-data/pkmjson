@@ -1,0 +1,82 @@
+{
+  "id": "swshp-zeraora-vmax-vstar-battle-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Zeraora VMAX & VSTAR Battle Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH263",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 449518,
+        "cardmarketProductId": 669838,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize etched foil card featuring Deoxys VSTAR or Zeraora VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Strategy guide to using these cards to upgrade your deck",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Deoxys VMAX or Zeraora VMAX; 1 etched foil promo card featuring Deoxys VSTAR or Zeraora VSTAR; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Zeraora VMAX & VSTAR Battle Box",
+      "releaseDate": "2022-10-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282003
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282003/pokemon-miscellaneous-cards-and-products-zeraora-vmax-and-vstar-battle-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kampfbox Deoxys-/Zeraora-VMAX & -VSTAR",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfbox-deoxys-zeraora-vmax-vstar"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Combat – Deoxys-VMAX et VSTAR/Zeraora-VMAX et VSTAR",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-combat-deoxys-vmax-et-vstarzeraora-vmax-et-vstar"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Combate Deoxys VMAX y V‑ASTRO y Zeraora VMAX y V‑ASTRO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-combate-deoxys-vmax-y-v-astro-y-zeraora-vmax-y-v-astro"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Lotte Deoxys-VMAX e V‑ASTRO e collezione Lotte Zeraora-VMAX e V‑ASTRO",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-lotte-deoxys-vmax-e-v-astro-e-collezione-lotte-zeraora-vmax-e-v-astro"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "sm9-melmetal-gx-box",
+  "region": "international",
+  "set": "sm9",
+  "category": "collection_box",
+  "name": "Melmetal GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM177",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 185247,
+        "cardmarketProductId": 370095,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Melmetal GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Melmetal GX; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Melmetal GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185246
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185246/pokemon-sm-team-up-melmetal-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-melmetal-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-melmetal-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-melmetal-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-melmetal-gx"
+      ]
+    }
+  ]
+}

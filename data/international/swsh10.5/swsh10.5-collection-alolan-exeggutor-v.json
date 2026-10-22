@@ -1,0 +1,77 @@
+{
+  "id": "swsh10.5-collection-alolan-exeggutor-v",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "collection_box",
+  "name": "Pokemon GO Collection [Alolan Exeggutor V]",
+  "identifiers": {
+    "cardmarketProductId": 653708
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH225",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 270723,
+        "cardmarketProductId": 653693,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Alolan Exeggutor V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Collection [Alolan Exeggutor V]",
+      "releaseDate": "2022-07-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270716
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270716/pokemon-pokemon-go-pokemon-go-collection-alolan-exeggutor-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Pokémon GO Noadkoko d'Alola-V",
+      "releaseDate": "2022-07-01",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_GO_Noadkoko_d%27Alola-V"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Exeggutor de Alola V de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-exeggutor-de-alola-v-de-pokemon-go"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Pokémon GO - Exeggutor di Alola-V",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pokemon-go-exeggutor-di-alola-v"
+      ]
+    }
+  ]
+}

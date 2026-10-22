@@ -1,0 +1,34 @@
+{
+  "id": "sm3-single-pack-blister-jangmo-o",
+  "region": "international",
+  "set": "sm3",
+  "category": "blister",
+  "name": "Burning Shadows Single Pack Blister [Jangmo-o]",
+  "identifiers": {
+    "cardmarketProductId": 585989
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a single booster pack of Burning Shadows; a cosmos holofoil of Jangmo-o.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Single Pack Blister [Jangmo-o]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          136597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/136597/pokemon-sm-burning-shadows-burning-shadows-single-pack-blister-jangmo-o"
+      ]
+    }
+  ]
+}

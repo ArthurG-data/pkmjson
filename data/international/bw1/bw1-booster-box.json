@@ -1,0 +1,27 @@
+{
+  "id": "bw1-booster-box",
+  "region": "international",
+  "set": "bw1",
+  "category": "booster_box",
+  "name": "Black and White Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271891
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black and White Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98552
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98552/pokemon-black-and-white-black-and-white-booster-box"
+      ]
+    }
+  ]
+}

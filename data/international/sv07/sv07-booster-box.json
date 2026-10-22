@@ -1,0 +1,34 @@
+{
+  "id": "sv07-booster-box",
+  "region": "international",
+  "set": "sv07",
+  "category": "booster_box",
+  "name": "Stellar Crown Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 776325
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557354
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557354/pokemon-sv07-stellar-crown-stellar-crown-booster-box"
+      ]
+    }
+  ]
+}

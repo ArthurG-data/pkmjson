@@ -1,0 +1,32 @@
+{
+  "id": "sm1-mega-camerupt-ex-premium-collection",
+  "region": "international",
+  "set": "sm1",
+  "category": "premium_collection",
+  "name": "Mega Camerupt EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Camerupt EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129896
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129896/pokemon-sm-base-set-mega-camerupt-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Camérupt",
+      "releaseDate": "2017-08-31",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Cam%C3%A9rupt-EX"
+      ]
+    }
+  ]
+}

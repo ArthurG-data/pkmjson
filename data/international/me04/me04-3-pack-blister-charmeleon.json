@@ -1,0 +1,27 @@
+{
+  "id": "me04-3-pack-blister-charmeleon",
+  "region": "international",
+  "set": "me04",
+  "category": "blister",
+  "name": "Chaos Rising 3-Pack Blister [Charmeleon]",
+  "identifiers": {
+    "cardmarketProductId": 877290
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs and promotional card. (Pokémon TCG booster packs and contents vary by product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising 3-Pack Blister [Charmeleon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684458
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684458/pokemon-me04-chaos-rising-chaos-rising-3-pack-blister-charmeleon"
+      ]
+    }
+  ]
+}

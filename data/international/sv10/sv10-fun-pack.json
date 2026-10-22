@@ -1,0 +1,24 @@
+{
+  "id": "sv10-fun-pack",
+  "region": "international",
+  "set": "sv10",
+  "category": "other",
+  "name": "Destined Rivals Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650765
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650765/pokemon-sv10-destined-rivals-destined-rivals-fun-pack"
+      ]
+    }
+  ]
+}

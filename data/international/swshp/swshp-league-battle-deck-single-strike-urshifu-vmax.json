@@ -1,0 +1,82 @@
+{
+  "id": "swshp-league-battle-deck-single-strike-urshifu-vmax",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Single Strike Urshifu VMAX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock the strategies within",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A full, playable 60-card deck loaded with power cards; 2 foil cards featuring either Single Strike Urshifu V or Rapid Strike Urshifu V; 2 foil cards featuring either Single Strike Urshifu VMAX or Rapid Strike Urshifu VMAX; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Single Strike Urshifu VMAX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          248071
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/248071/pokemon-miscellaneous-cards-and-products-league-battle-deck-single-strike-urshifu-vmax"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Barajas Combate de Liga de Urshifu Golpe Brusco VMAX y Urshifu Golpe Fluido VMAX",
+      "releaseDate": "2021-12-03",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/barajas-combate-de-liga-de-urshifu-golpe-brusco-vmax-y-urshifu-golpe-fluido-vmax"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat de Ligue – Shifours Poing Final-VMAX et Deck Combat de Ligue – Shifours Mille Poings-VMAX",
+      "releaseDate": "2021-12-03",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-shifours-poing-final-vmax-et-deck-combat-de-ligue-shifours-mille-poings-vmax"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdecks Fokussierter-Angriff-Wulaosu-VMAX und Fließender-Angriff-Wulaosu-VMAX",
+      "releaseDate": "2021-11-12",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdecks-fokussierter-angriff-wulaosu-vmax-und-fliessender-angriff-wulaosu-vmax"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte di Lega Urshifu Singolcolpo-VMAX o Mazzo Lotte di Lega Urshifu Pluricolpo-VMAX",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-urshifu-singolcolpo-vmax-o-mazzo-lotte-di-lega-urshifu-pluricolpo-vmax"
+      ]
+    }
+  ]
+}

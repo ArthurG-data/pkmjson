@@ -1,0 +1,24 @@
+{
+  "id": "pop2-pack",
+  "region": "international",
+  "set": "pop2",
+  "category": "other",
+  "name": "POP Series 2 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 2 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          141228
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/141228/pokemon-pop-series-2-pop-series-2-pack"
+      ]
+    }
+  ]
+}

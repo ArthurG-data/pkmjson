@@ -1,0 +1,40 @@
+{
+  "id": "sv08.5-accessory-pouch-special-collection",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Accessory Pouch Special Collection",
+  "identifiers": {
+    "cardmarketProductId": 798948
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Fun accessory pouch based on Eevee",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Accessory Pouch Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          606881
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/606881/pokemon-sv-prismatic-evolutions-prismatic-evolutions-accessory-pouch-special-collection"
+      ]
+    }
+  ]
+}

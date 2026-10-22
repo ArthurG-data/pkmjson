@@ -1,0 +1,26 @@
+{
+  "id": "sm0-collection",
+  "region": "asia",
+  "set": "SM0",
+  "category": "collection_box",
+  "name": "Pikachu's New Friends Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "「ピカチュウと新しい仲間たち」",
+      "releaseDate": "2016-11-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576965
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576965/pokemon-japan-sm0-pikachus-new-friends-pikachus-new-friends-collection",
+        "https://www.pokemon-card.com/products/index.html?productType=others&keyword=%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6%E3%81%A8%E6%96%B0%E3%81%97%E3%81%84%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tk-xy-p-trainer-kit",
+  "region": "international",
+  "set": "tk-xy-p",
+  "category": "other",
+  "name": "XY Trainer Kit: Pikachu Libre & Suicune",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Guide books to teach you how to play the Pokemon TCG",
+        "count": 2
+      },
+      {
+        "name": "2-player playmat that includes game tips and rules on the reverse side",
+        "count": 1
+      },
+      {
+        "name": "Damage counters and Special Condition markers",
+        "count": 1
+      },
+      {
+        "name": "Pokemon designed game coin",
+        "count": 1
+      },
+      {
+        "name": "Illustrated deck box",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Two 30-card decks; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Trainer Kit: Pikachu Libre & Suicune",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118797
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118797/pokemon-xy-trainer-kit-pikachu-libre-and-suicune-xy-trainer-kit-pikachu-libre-and-suicune"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "XY Kit du Dresseur: Pikachu Catcheur et Suicune",
+      "sources": [
+        "https://www.pokepedia.fr/XY_Kit_du_Dresseur%3A_Pikachu_Catcheur_et_Suicune"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Trainer Kit XY: Wrestler-Pikachu und Suicune",
+      "releaseDate": "2016-04-27",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainer-kit-xy-wrestler-pikachu-und-suicune"
+      ]
+    }
+  ]
+}

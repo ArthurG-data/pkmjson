@@ -1,0 +1,27 @@
+{
+  "id": "bw4-booster-box",
+  "region": "international",
+  "set": "bw4",
+  "category": "booster_box",
+  "name": "Next Destinies Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271896
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Next Destinies Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98539
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98539/pokemon-next-destinies-next-destinies-booster-box"
+      ]
+    }
+  ]
+}

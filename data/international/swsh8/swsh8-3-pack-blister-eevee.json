@@ -1,0 +1,40 @@
+{
+  "id": "swsh8-3-pack-blister-eevee",
+  "region": "international",
+  "set": "swsh8",
+  "category": "blister",
+  "name": "Fusion Strike 3 Pack Blister [Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 585674
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh8-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike 3 Pack Blister [Eevee]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247667
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247667/pokemon-swsh08-fusion-strike-fusion-strike-3-pack-blister-eevee"
+      ]
+    }
+  ]
+}

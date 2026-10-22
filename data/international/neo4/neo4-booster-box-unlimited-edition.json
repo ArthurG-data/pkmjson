@@ -1,0 +1,31 @@
+{
+  "id": "neo4-booster-box-unlimited-edition",
+  "region": "international",
+  "set": "neo4",
+  "category": "booster_box",
+  "name": "Neo Destiny Booster Box [Unlimited Edition]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "neo4-booster-pack-unlimited-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Destiny Booster Box [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563755
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563755/pokemon-neo-destiny-neo-destiny-booster-box-unlimited-edition"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sv04.5-premium-collection-skeledirge-ex",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "premium_collection",
+  "name": "Paldean Fates Premium Collection [Skeledirge ex]",
+  "identifiers": {
+    "cardmarketProductId": 745563
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04.5-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Shiny Meowscarada ex, Shiny Skeledirge ex, or Shiny Quaquaval ex",
+        "count": 1
+      },
+      {
+        "name": "Magnetic 3-card protector with base",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Shiny Meowscarada ex, Shiny Skeledirge ex, or Shiny Quaquaval ex; 1 etched foil promo card featuring Shiny Floragato, Shiny Crocalor, or Shiny Quaxwell; 1 etched foil promo card featuring Shiny Sprigatito, Shiny Fuecoco, or Shiny Quaxly.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Premium Collection [Skeledirge ex]",
+      "releaseDate": "2024-02-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528080
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528080/pokemon-sv-paldean-fates-paldean-fates-premium-collection-skeledirge-ex"
+      ]
+    }
+  ]
+}

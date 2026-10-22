@@ -1,0 +1,31 @@
+{
+  "id": "smp-premium-checklane-blister-gallade",
+  "region": "international",
+  "set": "smp",
+  "category": "blister",
+  "name": "Premium Checklane Blister [Gallade]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 promo cards of Ralts, Kirlia, Gallade, as well as; a Pokemon Trading Card Game booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Premium Checklane Blister [Gallade]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200568
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200568/pokemon-miscellaneous-cards-and-products-premium-checklane-blister-gallade"
+      ]
+    }
+  ]
+}

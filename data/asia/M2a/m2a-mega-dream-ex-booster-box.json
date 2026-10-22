@@ -1,0 +1,34 @@
+{
+  "id": "m2a-mega-dream-ex-booster-box",
+  "region": "asia",
+  "set": "M2a",
+  "category": "booster_box",
+  "name": "Mega Dream ex Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 858380
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "m2a-mega-dream-ex-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Mega Dream ex Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666254
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666254/pokemon-japan-m2a-high-class-pack-mega-dream-ex-mega-dream-ex-booster-box"
+      ]
+    }
+  ]
+}

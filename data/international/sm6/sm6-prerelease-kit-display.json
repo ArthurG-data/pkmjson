@@ -1,0 +1,24 @@
+{
+  "id": "sm6-prerelease-kit-display",
+  "region": "international",
+  "set": "sm6",
+  "category": "case",
+  "name": "Forbidden Light Prerelease Kit Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Prerelease Kit Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          591049
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/591049/pokemon-sm-forbidden-light-forbidden-light-prerelease-kit-display"
+      ]
+    }
+  ]
+}

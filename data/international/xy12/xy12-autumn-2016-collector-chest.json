@@ -1,0 +1,51 @@
+{
+  "id": "xy12-autumn-2016-collector-chest",
+  "region": "international",
+  "set": "xy12",
+  "category": "other",
+  "name": "Autumn 2016 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Mini album to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Pencils",
+        "count": 4
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 1 promo card featuring Volcanion; 1 promo card featuring Magearna; 1 promo card featuring Shiny Mega Gengar-EX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Autumn 2016 Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          169636
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/169636/pokemon-xy-evolutions-autumn-2016-collector-chest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sval-other",
+  "region": "asia",
+  "set": "SVAL",
+  "category": "battle_deck",
+  "name": "ex Starter Set Fuecoco & Ampharos ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Two-player playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スターターセットex ホゲータ&デンリュウex",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594376
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594376/pokemon-japan-sv-ex-starter-set-fuecoco-and-ampharos-ex-ex-starter-set-fuecoco-and-ampharos-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88%3Cbig%3Eex%3C%2Fbig%3E+%E3%83%9B%E3%82%B2%E3%83%BC%E3%82%BF%26%E3%83%87%E3%83%B3%E3%83%AA%E3%83%A5%E3%82%A6%3Cbig%3Eex%3C%2Fbig%3E"
+      ]
+    }
+  ]
+}

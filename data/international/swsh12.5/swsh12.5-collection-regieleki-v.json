@@ -1,0 +1,55 @@
+{
+  "id": "swsh12.5-collection-regieleki-v",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Crown Zenith Collection [Regieleki V]",
+  "identifiers": {
+    "cardmarketProductId": 683010
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH280",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 453483,
+        "cardmarketProductId": 682984,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Regieleki V or Regidrago V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Regidrago or Regieleki.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Collection [Regieleki V]",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453467
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453467/pokemon-swsh-crown-zenith-crown-zenith-collection-regieleki-v"
+      ]
+    }
+  ]
+}

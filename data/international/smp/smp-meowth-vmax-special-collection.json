@@ -1,0 +1,32 @@
+{
+  "id": "smp-meowth-vmax-special-collection",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Meowth VMAX Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize Meowth VMAX card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 boosters; a Meowth V promo card, Meowth VMAX promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Meowth VMAX Special Collection",
+      "releaseDate": "2020-01-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          205464
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/205464/pokemon-miscellaneous-cards-and-products-meowth-vmax-special-collection"
+      ]
+    }
+  ]
+}

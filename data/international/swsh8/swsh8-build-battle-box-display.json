@@ -1,0 +1,24 @@
+{
+  "id": "swsh8-build-battle-box-display",
+  "region": "international",
+  "set": "swsh8",
+  "category": "case",
+  "name": "Fusion Strike Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247660
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247660/pokemon-swsh08-fusion-strike-fusion-strike-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

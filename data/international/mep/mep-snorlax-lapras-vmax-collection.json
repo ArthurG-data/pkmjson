@@ -1,0 +1,39 @@
+{
+  "id": "mep-snorlax-lapras-vmax-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Snorlax & Lapras VMAX Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Exclusive 4 pocket car binder in this box",
+        "count": 1
+      },
+      {
+        "name": "Laparas collector pin",
+        "count": 1
+      },
+      {
+        "name": "Snorlax collector Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Lapras V foil card; 1 Lapras VMAX foil card; 1 Snorlax V foil card; 1 Snorlax VMAX foil card; 8 Pokemon TCG Booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Snorlax & Lapras VMAX Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653192
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653192/pokemon-miscellaneous-cards-and-products-snorlax-and-lapras-vmax-collection"
+      ]
+    }
+  ]
+}

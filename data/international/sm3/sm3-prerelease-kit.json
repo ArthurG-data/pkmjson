@@ -1,0 +1,31 @@
+{
+  "id": "sm3-prerelease-kit",
+  "region": "international",
+  "set": "sm3",
+  "category": "other",
+  "name": "Burning Shadows Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Prerelease Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          139888
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/139888/pokemon-sm-burning-shadows-burning-shadows-prerelease-kit"
+      ]
+    }
+  ]
+}

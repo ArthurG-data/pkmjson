@@ -1,0 +1,34 @@
+{
+  "id": "sm10a-booster-box",
+  "region": "asia",
+  "set": "SM10a",
+  "category": "booster_box",
+  "name": "GG End Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550391
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "GG End Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576951
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576951/pokemon-japan-sm10a-gg-end-gg-end-booster-box"
+      ]
+    }
+  ]
+}

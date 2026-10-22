@@ -1,0 +1,32 @@
+{
+  "id": "sm2-bewear-gx-box",
+  "region": "international",
+  "set": "sm2",
+  "category": "collection_box",
+  "name": "Bewear GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Bewear GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          132238
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/132238/pokemon-sm-guardians-rising-bewear-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Chelours",
+      "releaseDate": "2017-06-07",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Chelours-GX"
+      ]
+    }
+  ]
+}

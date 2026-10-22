@@ -1,0 +1,31 @@
+{
+  "id": "swshp-keldeo-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Keldeo Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Awesome Jumbo Card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Keldeo Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206308
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206308/pokemon-miscellaneous-cards-and-products-keldeo-box"
+      ]
+    }
+  ]
+}

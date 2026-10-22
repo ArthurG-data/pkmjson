@@ -1,0 +1,24 @@
+{
+  "id": "pl4-blister-pack",
+  "region": "international",
+  "set": "pl4",
+  "category": "blister",
+  "name": "Arceus Blister Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 randomly inserted game cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Blister Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          617025
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/617025/pokemon-arceus-arceus-blister-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bw4-ex-tin-zekrom",
+  "region": "international",
+  "set": "bw4",
+  "category": "tin",
+  "name": "EX Tin [Zekrom]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Tin [Zekrom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98638
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98638/pokemon-next-destinies-ex-tin-zekrom"
+      ]
+    }
+  ]
+}

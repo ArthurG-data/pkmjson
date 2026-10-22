@@ -1,0 +1,38 @@
+{
+  "id": "sm1-base-set-theme-deck-bright-tide-primarina",
+  "region": "international",
+  "set": "sm1",
+  "category": "theme_deck",
+  "name": "Sun & Moon Base Set Theme Deck - \"Bright Tide\" [Primarina]",
+  "identifiers": {
+    "cardmarketProductId": 295480
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Base Set Theme Deck - \"Bright Tide\" [Primarina]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          126174
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/126174/pokemon-sm-base-set-sun-and-moon-base-set-theme-deck-bright-tide-primarina"
+      ]
+    }
+  ]
+}

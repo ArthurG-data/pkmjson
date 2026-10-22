@@ -1,0 +1,51 @@
+{
+  "id": "sv-p-start-deck-generations-special-battle-set",
+  "region": "asia",
+  "set": "SV-P",
+  "category": "battle_deck",
+  "name": "Start Deck Generations Special Battle Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coins",
+        "count": 2
+      },
+      {
+        "name": "Damage counter/marker sheet",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Beginner's guide",
+        "count": 1
+      },
+      {
+        "name": "Damage counter case",
+        "count": 1
+      },
+      {
+        "name": "Card box",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Start Deck Generations Pikachu ex, Snorlax ex (60 cards); 1 Start Deck Generations Lugia ex, Tyranitar ex (60 cards); 1 Start Deck Generations Zacian ex, Mawhip ex (60 cards); 1 Start Deck Generations Corydon ex, Paldea Doa ex (60 cards); 1 Promo card Meowth (shiny); 1 Promo card Pardeauper (shiny); 1 Promo card Suicune (shiny); 1 Promo card Duraludon (shiny); 1 Instruction manual; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Start Deck Generations Special Battle Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656152
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656152/pokemon-japan-svm-generations-start-decks-start-deck-generations-special-battle-set"
+      ]
+    }
+  ]
+}

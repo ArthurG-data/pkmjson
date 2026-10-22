@@ -1,0 +1,34 @@
+{
+  "id": "pl4-booster-box",
+  "region": "international",
+  "set": "pl4",
+  "category": "booster_box",
+  "name": "Arceus Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271937
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "pl4-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 randomly inserted game cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98593
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98593/pokemon-arceus-arceus-booster-box"
+      ]
+    }
+  ]
+}

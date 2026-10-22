@@ -1,0 +1,27 @@
+{
+  "id": "gym1-theme-deck-erika",
+  "region": "international",
+  "set": "gym1",
+  "category": "theme_deck",
+  "name": "Gym Heroes Theme Deck - \"Erika\"",
+  "identifiers": {
+    "cardmarketProductId": 286507
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Heroes Theme Deck - \"Erika\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234503
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234503/pokemon-gym-heroes-gym-heroes-theme-deck-erika"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "mep-pokemon-day-2026-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Pokemon Day 2026 Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pikachu with a Pokémon Day stamp; 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Day 2026 Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668590
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668590/pokemon-miscellaneous-cards-and-products-pokemon-day-2026-collection"
+      ]
+    }
+  ]
+}

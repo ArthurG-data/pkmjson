@@ -1,0 +1,25 @@
+{
+  "id": "swsh12.5-pin-collection-set-of-3",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "other",
+  "name": "Crown Zenith Pin Collection [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Rillaboom, Cinderace, or Inteleon; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Pin Collection [Set of 3]",
+      "releaseDate": "2023-04-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475620
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475620/pokemon-swsh-crown-zenith-crown-zenith-pin-collection-set-of-3"
+      ]
+    }
+  ]
+}

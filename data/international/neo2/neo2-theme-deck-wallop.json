@@ -1,0 +1,27 @@
+{
+  "id": "neo2-theme-deck-wallop",
+  "region": "international",
+  "set": "neo2",
+  "category": "theme_deck",
+  "name": "Neo Discovery Theme Deck - \"Wallop\"",
+  "identifiers": {
+    "cardmarketProductId": 286567
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Discovery Theme Deck - \"Wallop\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451097
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451097/pokemon-neo-discovery-neo-discovery-theme-deck-wallop"
+      ]
+    }
+  ]
+}

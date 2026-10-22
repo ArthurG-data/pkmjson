@@ -1,0 +1,35 @@
+{
+  "id": "mep-reshiram-ex-box",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Reshiram ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Reshiram ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Reshiram ex; 1 foil promo card featuring Reshiram; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Reshiram ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666512
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666512/pokemon-miscellaneous-cards-and-products-reshiram-ex-box"
+      ]
+    }
+  ]
+}

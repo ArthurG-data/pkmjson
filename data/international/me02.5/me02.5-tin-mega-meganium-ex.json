@@ -1,0 +1,42 @@
+{
+  "id": "me02.5-tin-mega-meganium-ex",
+  "region": "international",
+  "set": "me02.5",
+  "category": "tin",
+  "name": "Ascended Heroes Tin [Mega Meganium ex]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "mep-034",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 692120,
+        "cardmarketProductId": 873717,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Tin [Mega Meganium ex]",
+      "releaseDate": "2026-08-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          702498
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/702498/pokemon-me-ascended-heroes-ascended-heroes-tin-mega-meganium-ex"
+      ]
+    }
+  ]
+}

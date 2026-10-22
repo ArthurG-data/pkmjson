@@ -1,0 +1,27 @@
+{
+  "id": "neo2-theme-deck-brain-wave",
+  "region": "international",
+  "set": "neo2",
+  "category": "theme_deck",
+  "name": "Neo Discovery Theme Deck - \"Brain Wave\"",
+  "identifiers": {
+    "cardmarketProductId": 286566
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Discovery Theme Deck - \"Brain Wave\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234510
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234510/pokemon-neo-discovery-neo-discovery-theme-deck-brain-wave"
+      ]
+    }
+  ]
+}

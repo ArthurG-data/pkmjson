@@ -1,0 +1,28 @@
+{
+  "id": "swsh11-sleeved-booster-pack",
+  "region": "international",
+  "set": "swsh11",
+  "category": "sleeved_booster_pack",
+  "name": "Lost Origin Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 674698
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Sleeved Booster Pack",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277326
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277326/pokemon-swsh11-lost-origin-lost-origin-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

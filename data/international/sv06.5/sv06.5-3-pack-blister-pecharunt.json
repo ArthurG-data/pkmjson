@@ -1,0 +1,41 @@
+{
+  "id": "sv06.5-3-pack-blister-pecharunt",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "blister",
+  "name": "Shrouded Fable 3 Pack Blister [Pecharunt]",
+  "identifiers": {
+    "cardmarketProductId": 770957
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pecharunt.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable 3 Pack Blister [Pecharunt]",
+      "releaseDate": "2024-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553007
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553007/pokemon-sv-shrouded-fable-shrouded-fable-3-pack-blister-pecharunt"
+      ]
+    }
+  ]
+}

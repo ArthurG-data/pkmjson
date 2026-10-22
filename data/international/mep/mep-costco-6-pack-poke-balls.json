@@ -1,0 +1,24 @@
+{
+  "id": "mep-costco-6-pack-poke-balls",
+  "region": "international",
+  "set": "mep",
+  "category": "other",
+  "name": "Costco 6-Pack Poke balls",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Costco 6-Pack Poke balls",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          685924
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/685924/pokemon-miscellaneous-cards-and-products-costco-6-pack-poke-balls"
+      ]
+    }
+  ]
+}

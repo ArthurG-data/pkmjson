@@ -1,0 +1,25 @@
+{
+  "id": "mep-mega-lucario-ex-premium-figure-collection-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Mega Lucario ex Premium Figure Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Lucario ex Premium Figure Collection Case",
+      "releaseDate": "2025-11-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656488
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656488/pokemon-miscellaneous-cards-and-products-mega-lucario-ex-premium-figure-collection-case"
+      ]
+    }
+  ]
+}

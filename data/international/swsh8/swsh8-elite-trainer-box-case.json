@@ -1,0 +1,27 @@
+{
+  "id": "swsh8-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh8",
+  "category": "case",
+  "name": "Fusion Strike Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873117
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256271
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256271/pokemon-swsh08-fusion-strike-fusion-strike-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

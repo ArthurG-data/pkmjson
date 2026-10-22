@@ -1,0 +1,66 @@
+{
+  "id": "xy6-3-pack-blister-regirock",
+  "region": "international",
+  "set": "xy6",
+  "category": "blister",
+  "name": "Roaring Skies 3 Pack Blister [Regirock]",
+  "identifiers": {
+    "cardmarketProductId": 586383
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy6-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Regirock.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Roaring Skies 3 Pack Blister [Regirock]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98032
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98032/pokemon-xy-roaring-skies-roaring-skies-3-pack-blister-regirock"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY06 Regirock",
+      "releaseDate": "2015-05-23",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy6-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY06_Regirock"
+      ]
+    }
+  ]
+}

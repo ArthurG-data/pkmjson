@@ -1,0 +1,24 @@
+{
+  "id": "bw1-victini-box",
+  "region": "international",
+  "set": "bw1",
+  "category": "collection_box",
+  "name": "Victini Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Victini Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98613
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98613/pokemon-black-and-white-victini-box"
+      ]
+    }
+  ]
+}

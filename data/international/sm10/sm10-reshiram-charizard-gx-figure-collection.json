@@ -1,0 +1,101 @@
+{
+  "id": "sm10-reshiram-charizard-gx-figure-collection",
+  "region": "international",
+  "set": "sm10",
+  "category": "collection_box",
+  "name": "Reshiram & Charizard GX Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Figure of Reshiram and Charizard together",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card featuring Reshiram & Charizard GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil TAG TEAM card featuring Reshiram & Charizard GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Reshiram & Charizard GX Figure Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          194597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/194597/pokemon-sm-unbroken-bonds-reshiram-and-charizard-gx-figure-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine Reshiram et Dracaufeu-GX",
+      "releaseDate": "2019-11-22",
+      "contents": {
+        "other": [
+          {
+            "name": "Figure of Reshiram and Charizard together",
+            "count": 1
+          },
+          {
+            "name": "Oversize foil card featuring Reshiram & Charizard GX",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sm11-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con statuina Reshiram e Charizard-GX",
+      "releaseDate": "2019-08-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-statuina-reshiram-e-charizard-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Figuren-Kollektion Reshiram & Glurak-GX",
+      "releaseDate": "2019-08-09",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-reshiram-glurak-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con figura Reshiram y Charizard-GX",
+      "releaseDate": "2019-08-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-reshiram-y-charizard-gx"
+      ]
+    }
+  ]
+}

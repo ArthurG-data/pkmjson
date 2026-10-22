@@ -1,0 +1,27 @@
+{
+  "id": "sv09-build-battle-box-display",
+  "region": "international",
+  "set": "sv09",
+  "category": "case",
+  "name": "Journey Together Build & Battle Box Display",
+  "identifiers": {
+    "cardmarketProductId": 805592
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          629568
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/629568/pokemon-sv09-journey-together-journey-together-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

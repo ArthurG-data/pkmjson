@@ -1,0 +1,24 @@
+{
+  "id": "base5-booster-pack-1st-edition",
+  "region": "international",
+  "set": "base5",
+  "category": "booster_pack",
+  "name": "Team Rocket Booster Pack [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket Booster Pack [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          138136
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/138136/pokemon-team-rocket-team-rocket-booster-pack-1st-edition"
+      ]
+    }
+  ]
+}

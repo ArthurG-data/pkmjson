@@ -1,0 +1,90 @@
+{
+  "id": "swsh4-fall-2020-collector-s-chest-tin",
+  "region": "international",
+  "set": "swsh4",
+  "category": "tin",
+  "name": "Fall 2020 Collector's Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH277",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475621,
+        "cardmarketProductId": 682974,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH278",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475622,
+        "cardmarketProductId": 682975,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favourite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 1 promo card featuring Inteleon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2020 Collector's Chest Tin",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          222985
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/222985/pokemon-swsh04-vivid-voltage-fall-2020-collectors-chest-tin"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (Automne 2020)",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokepedia.fr/Coffre_de_collection_%28Automne_2020%29"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (autunno 2020)",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-del-gcc-pokemon-autunno-2020"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2020)",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2020"
+      ]
+    }
+  ]
+}

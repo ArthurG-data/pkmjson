@@ -1,0 +1,27 @@
+{
+  "id": "det1-mewtwo-gx-case-file",
+  "region": "international",
+  "set": "det1",
+  "category": "case",
+  "name": "Detective Pikachu: Mewtwo GX Case File",
+  "identifiers": {
+    "cardmarketProductId": 370781
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu: Mewtwo GX Case File",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190324
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190324/pokemon-detective-pikachu-detective-pikachu-mewtwo-gx-case-file"
+      ]
+    }
+  ]
+}

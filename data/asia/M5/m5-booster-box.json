@@ -1,0 +1,34 @@
+{
+  "id": "m5-booster-box",
+  "region": "asia",
+  "set": "M5",
+  "category": "booster_box",
+  "name": "Abyss Eye Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 883955
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "m5-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Abyss Eye Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          695112
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/695112/pokemon-japan-m5-abyss-eye-abyss-eye-booster-box"
+      ]
+    }
+  ]
+}

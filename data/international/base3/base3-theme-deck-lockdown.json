@@ -1,0 +1,27 @@
+{
+  "id": "base3-theme-deck-lockdown",
+  "region": "international",
+  "set": "base3",
+  "category": "theme_deck",
+  "name": "Fossil Theme Deck - \"LockDown\"",
+  "identifiers": {
+    "cardmarketProductId": 286495
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fossil Theme Deck - \"LockDown\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107608
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107608/pokemon-fossil-fossil-theme-deck-lockdown"
+      ]
+    }
+  ]
+}

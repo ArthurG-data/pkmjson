@@ -1,0 +1,37 @@
+{
+  "id": "xy8-3-pack-blister-xerneas",
+  "region": "international",
+  "set": "xy8",
+  "category": "blister",
+  "name": "XY 3 Pack Blister [Xerneas]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy8-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Xerneas.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY 3 Pack Blister [Xerneas]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228155
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228155/pokemon-xy-breakthrough-xy-3-pack-blister-xerneas"
+      ]
+    }
+  ]
+}

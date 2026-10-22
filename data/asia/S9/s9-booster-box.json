@@ -1,0 +1,34 @@
+{
+  "id": "s9-booster-box",
+  "region": "asia",
+  "set": "S9",
+  "category": "booster_box",
+  "name": "Star Birth Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 605851
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s9-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Star Birth Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565256
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565256/pokemon-japan-s9-star-birth-star-birth-booster-box"
+      ]
+    }
+  ]
+}

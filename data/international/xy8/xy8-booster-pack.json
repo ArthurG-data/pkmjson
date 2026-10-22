@@ -1,0 +1,36 @@
+{
+  "id": "xy8-booster-pack",
+  "region": "international",
+  "set": "xy8",
+  "category": "booster_pack",
+  "name": "XY BREAKthrough Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 285574
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY—BREAKthrough",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107666
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107666/pokemon-xy-breakthrough-xy-breakthrough-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-breakthrough"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "XY – Impulsion TURBO",
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY12_Kyurem_Noir",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-impulsion-turbo"
+      ]
+    }
+  ]
+}

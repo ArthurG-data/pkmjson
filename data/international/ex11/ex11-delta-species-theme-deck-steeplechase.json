@@ -1,0 +1,38 @@
+{
+  "id": "ex11-delta-species-theme-deck-steeplechase",
+  "region": "international",
+  "set": "ex11",
+  "category": "theme_deck",
+  "name": "Delta Species Theme Deck - \"Steeplechase\"",
+  "identifiers": {
+    "cardmarketProductId": 286531
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Delta Species Theme Deck - \"Steeplechase\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232864
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232864/pokemon-ex-delta-species-delta-species-theme-deck-steeplechase"
+      ]
+    }
+  ]
+}

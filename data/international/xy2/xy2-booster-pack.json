@@ -1,0 +1,36 @@
+{
+  "id": "xy2-booster-pack",
+  "region": "international",
+  "set": "xy2",
+  "category": "booster_pack",
+  "name": "Flashfire Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271862
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY—Flashfire",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91595
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91595/pokemon-xy-flashfire-flashfire-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-flashfire"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "XY – Étincelles",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Crocorible-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-etincelles"
+      ]
+    }
+  ]
+}

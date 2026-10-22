@@ -1,0 +1,24 @@
+{
+  "id": "pl4-blister-pack-happiny-lopunny",
+  "region": "international",
+  "set": "pl4",
+  "category": "blister",
+  "name": "Arceus Blister Pack (Happiny & Lopunny)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 randomly inserted game cards; 1 3 card promo pack; Happiny & Lopunny promos.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Blister Pack (Happiny & Lopunny)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          645314
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/645314/pokemon-arceus-arceus-blister-pack-happiny-and-lopunny"
+      ]
+    }
+  ]
+}

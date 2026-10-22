@@ -1,0 +1,101 @@
+{
+  "id": "sm8-elite-trainer-box",
+  "region": "international",
+  "set": "sm8",
+  "category": "elite_trainer_box",
+  "name": "Lost Thunder Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 363266
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Exclusive 65 card sleeve pack featuring Zeraora",
+        "count": 1
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Sided-dice to track damage",
+        "count": 6
+      },
+      {
+        "name": "Flip coin",
+        "count": 1
+      },
+      {
+        "name": "Acrylic markers (2 condition markers",
+        "count": 3
+      },
+      {
+        "name": "GX marker)",
+        "count": 1
+      },
+      {
+        "name": "Dividers to help organize)",
+        "count": 4
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A pack of 45 Basic Energy cards to get you started.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Elite Trainer Box",
+      "releaseDate": "2018-11-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175511
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175511/pokemon-sm-lost-thunder-lost-thunder-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Soleil et Lune Tonnerre Perdu",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Tonnerre_Perdu"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Tuoni Perduti",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-tuoni-perduti"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Sonne & Mond – Echo des Donners",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-echo-des-donners"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Truenos Perdidos",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-truenos-perdidos"
+      ]
+    }
+  ]
+}

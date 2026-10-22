@@ -1,0 +1,44 @@
+{
+  "id": "swsh10-premium-checklane-blister-swampert",
+  "region": "international",
+  "set": "swsh10",
+  "category": "blister",
+  "name": "Astral Radiance Premium Checklane Blister [Swampert]",
+  "identifiers": {
+    "cardmarketProductId": 661276
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Premium Checklane Blister [Swampert]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          489339
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/489339/pokemon-swsh10-astral-radiance-"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "xy3-ex-power-trio-tin-venusaur-ex",
+  "region": "international",
+  "set": "xy3",
+  "category": "tin",
+  "name": "EX Power Trio Tin [Venusaur EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Power Trio Tin [Venusaur EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97776
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97776/pokemon-xy-furious-fists-ex-power-trio-tin-venusaur-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Trio Puissance EX Florizarre",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy3-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Trio_Puissance_EX_Florizarre-EX"
+      ]
+    }
+  ]
+}

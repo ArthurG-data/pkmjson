@@ -1,0 +1,78 @@
+{
+  "id": "svp-iono-s-bellibolt-ex-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Iono’s Bellibolt ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-194",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 628320,
+        "cardmarketProductId": 819266,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sheet of acrylic standees featuring Iono, Bellibolt, more",
+        "count": 1
+      },
+      {
+        "name": "Photo sticker featuring Iono and Bellibolt",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Iono’s Tadbulb; 1 double-sided backdrop display; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Iono’s Bellibolt ex Premium Collection",
+      "releaseDate": "2025-04-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616304
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616304/pokemon-miscellaneous-cards-and-products-ionos-bellibolt-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Ampibidou‑ex de Mashynn",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-ampibidou-ex-de-mashynn"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium Bellibolt ex de e‑Nigma",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-bellibolt-ex-de-e-nigma"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Enigmaras Wampitz-ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-enigmaras-wampitz-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Bellibolt‑ex di Kissara",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-bellibolt-ex-di-kissara"
+      ]
+    }
+  ]
+}

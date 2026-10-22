@@ -1,0 +1,82 @@
+{
+  "id": "svp-bloodmoon-ursaluna-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Bloodmoon Ursaluna ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-177",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 595473,
+        "cardmarketProductId": 796948,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-141",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 578811,
+        "cardmarketProductId": 785850,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Bloodmoon Ursaluna ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Hoothoot; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Bloodmoon Ursaluna ex Box",
+      "releaseDate": "2024-11-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575897
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575897/pokemon-miscellaneous-cards-and-products-bloodmoon-ursaluna-ex-box"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Ursaluna Luna Cremisi‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ursaluna-luna-cremisi-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Blutmond‑Ursaluna‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-blutmond-ursaluna-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Ursaluna Luna Carmesí ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ursaluna-luna-carmesi-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Ursaking Lune Vermeille‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-ursaking-lune-vermeille-ex"
+      ]
+    }
+  ]
+}

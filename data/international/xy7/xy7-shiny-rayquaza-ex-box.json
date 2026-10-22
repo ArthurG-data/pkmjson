@@ -1,0 +1,50 @@
+{
+  "id": "xy7-shiny-rayquaza-ex-box",
+  "region": "international",
+  "set": "xy7",
+  "category": "collection_box",
+  "name": "Shiny Rayquaza EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Rayquaza EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          103462
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/103462/pokemon-xy-ancient-origins-shiny-rayquaza-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Rayquaza chromatique",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 3
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Rayquaza-EX_chromatique"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Schillerndes Rayquaza-EX-Box",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/schillerndes-rayquaza-ex-box"
+      ]
+    }
+  ]
+}

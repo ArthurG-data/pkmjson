@@ -1,0 +1,59 @@
+{
+  "id": "swsh9-arceus-v-figure-collection",
+  "region": "international",
+  "set": "swsh9",
+  "category": "collection_box",
+  "name": "Arceus V Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sculpted Arceus figure",
+        "count": 1
+      },
+      {
+        "name": "Code card usable in either the Pokémon TCG Online or Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Arceus V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus V Figure Collection",
+      "releaseDate": "2022-05-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265251
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265251/pokemon-swsh09-brilliant-stars-arceus-v-figure-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine – Arceus‑V",
+      "releaseDate": "2022-04-01",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-avec-figurine-arceus-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Figuren-Kollektion Arceus-V",
+      "releaseDate": "2022-05-06",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-arceus-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con figura Arceus V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-arceus-v"
+      ]
+    }
+  ]
+}

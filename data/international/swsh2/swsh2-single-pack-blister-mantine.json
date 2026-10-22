@@ -1,0 +1,51 @@
+{
+  "id": "swsh2-single-pack-blister-mantine",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Rebel Clash Single Pack Blister [Mantine]",
+  "identifiers": {
+    "cardmarketProductId": 585884
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH026",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 214237,
+        "cardmarketProductId": 461669,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Single Pack Blister [Mantine]",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210564
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210564/pokemon-swsh02-rebel-clash-rebel-clash-single-pack-blister-mantine"
+      ]
+    }
+  ]
+}

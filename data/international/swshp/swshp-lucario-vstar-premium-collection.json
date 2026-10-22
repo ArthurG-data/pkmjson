@@ -1,0 +1,47 @@
+{
+  "id": "swshp-lucario-vstar-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Lucario VSTAR Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Etched oversize card featuring Lucario VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Colorful collector’s pin featuring Lucario",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin featuring Lucario",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Lucario V; 1 etched promo card featuring Lucario VSTAR; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lucario VSTAR Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262637
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262637/pokemon-miscellaneous-cards-and-products-lucario-vstar-premium-collection"
+      ]
+    }
+  ]
+}

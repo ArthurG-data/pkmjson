@@ -1,0 +1,73 @@
+{
+  "id": "swsh12.5-pin-collection-rillaboom",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Crown Zenith Pin Collection [Rillaboom]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH277",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475621,
+        "cardmarketProductId": 682974,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring Rillaboom, Cinderace, or Inteleon",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Pin Collection [Rillaboom]",
+      "releaseDate": "2023-04-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475619
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475619/pokemon-swsh-crown-zenith-crown-zenith-pin-collection-rillaboom"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Zénith Suprême Gorythmic",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Z%C3%A9nith_Supr%C3%AAme_Gorythmic"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Pin-Kollektion Zenit der Könige",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-zenit-der-koenige"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colecciones con pin de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-con-pin-de-cenit-supremo"
+      ]
+    }
+  ]
+}

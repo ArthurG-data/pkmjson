@@ -1,0 +1,38 @@
+{
+  "id": "ex13-holon-phantoms-theme-deck-floodrush",
+  "region": "international",
+  "set": "ex13",
+  "category": "theme_deck",
+  "name": "Holon Phantoms Theme Deck - \"FloodRush\"",
+  "identifiers": {
+    "cardmarketProductId": 286535
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Holon Phantoms Theme Deck - \"FloodRush\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232851
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232851/pokemon-ex-holon-phantoms-holon-phantoms-theme-deck-floodrush"
+      ]
+    }
+  ]
+}

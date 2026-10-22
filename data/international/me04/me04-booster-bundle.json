@@ -1,0 +1,35 @@
+{
+  "id": "me04-booster-bundle",
+  "region": "international",
+  "set": "me04",
+  "category": "booster_bundle",
+  "name": "Chaos Rising Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 877284
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me04-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Booster Bundle",
+      "releaseDate": "2026-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684456
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684456/pokemon-me04-chaos-rising-chaos-rising-booster-bundle"
+      ]
+    }
+  ]
+}

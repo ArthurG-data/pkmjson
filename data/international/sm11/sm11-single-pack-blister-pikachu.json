@@ -1,0 +1,41 @@
+{
+  "id": "sm11-single-pack-blister-pikachu",
+  "region": "international",
+  "set": "sm11",
+  "category": "blister",
+  "name": "Unified Minds Single Pack Blister [Pikachu]",
+  "identifiers": {
+    "cardmarketProductId": 585905
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Pikachu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Single Pack Blister [Pikachu]",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191886
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191886/pokemon-sm-unified-minds-unified-minds-single-pack-blister-pikachu"
+      ]
+    }
+  ]
+}

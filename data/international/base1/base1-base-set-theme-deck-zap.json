@@ -1,0 +1,27 @@
+{
+  "id": "base1-base-set-theme-deck-zap",
+  "region": "international",
+  "set": "base1",
+  "category": "theme_deck",
+  "name": "Base Set Theme Deck - \"Zap!\"",
+  "identifiers": {
+    "cardmarketProductId": 286490
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set Theme Deck - \"Zap!\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107606
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107606/pokemon-base-set-shadowless-base-set-theme-deck-zap"
+      ]
+    }
+  ]
+}

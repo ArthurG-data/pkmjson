@@ -1,0 +1,37 @@
+{
+  "id": "sm2-single-pack-blister-alolan-persian",
+  "region": "international",
+  "set": "sm2",
+  "category": "blister",
+  "name": "Guardians Rising Single Pack Blister [Alolan Persian]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Alolan Persian.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Single Pack Blister [Alolan Persian]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242964
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242964/pokemon-sm-guardians-rising-guardians-rising-single-pack-blister-alolan-persian"
+      ]
+    }
+  ]
+}

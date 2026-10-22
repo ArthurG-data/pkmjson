@@ -1,0 +1,35 @@
+{
+  "id": "sm9-tag-team-tin-celebi-venusaur-gx",
+  "region": "international",
+  "set": "sm9",
+  "category": "tin",
+  "name": "TAG TEAM Tin [Celebi & Venusaur GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metal TAG TEAM GX marker",
+        "count": 1
+      },
+      {
+        "name": "Code card to unlock a playable deck in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil TAG TEAM Pokémon-GX with special art; 4 Pokémon TCG booster packs (Packs vary per tin.).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "TAG TEAM Tin [Celebi & Venusaur GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185256
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185256/pokemon-sm-team-up-tag-team-tin-celebi-and-venusaur-gx"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sm11a-booster-box",
+  "region": "asia",
+  "set": "SM11a",
+  "category": "booster_box",
+  "name": "Remix Bout Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550371
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Remix Bout Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576955
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576955/pokemon-japan-sm11a-remix-bout-remix-bout-booster-box"
+      ]
+    }
+  ]
+}

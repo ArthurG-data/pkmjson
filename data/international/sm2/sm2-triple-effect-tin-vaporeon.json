@@ -1,0 +1,31 @@
+{
+  "id": "sm2-triple-effect-tin-vaporeon",
+  "region": "international",
+  "set": "sm2",
+  "category": "tin",
+  "name": "Triple Effect Tin [Vaporeon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; a cosmos holofoil promo of Vaporeon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Effect Tin [Vaporeon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177870
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177870/pokemon-sm-guardians-rising-triple-effect-tin-vaporeon"
+      ]
+    }
+  ]
+}

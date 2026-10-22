@@ -1,0 +1,38 @@
+{
+  "id": "ex10-unseen-forces-theme-deck-golden-sky-ho-oh",
+  "region": "international",
+  "set": "ex10",
+  "category": "theme_deck",
+  "name": "Unseen Forces Theme Deck - \"Golden Sky\" [Ho-Oh]",
+  "identifiers": {
+    "cardmarketProductId": 286528
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unseen Forces Theme Deck - \"Golden Sky\" [Ho-Oh]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232865
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232865/pokemon-ex-unseen-forces-unseen-forces-theme-deck-golden-sky-ho-oh"
+      ]
+    }
+  ]
+}

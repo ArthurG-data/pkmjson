@@ -1,0 +1,43 @@
+{
+  "id": "xy4-mega-metagross-ex-premium-collection",
+  "region": "international",
+  "set": "xy4",
+  "category": "premium_collection",
+  "name": "Mega Metagross EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Metagross EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97791
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97791/pokemon-xy-phantom-forces-mega-metagross-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Métalosse",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 4
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-M%C3%A9talosse-EX"
+      ]
+    }
+  ]
+}

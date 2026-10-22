@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pokemon-stacking-tin-water",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Water",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Water",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          260865
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/260865/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-water"
+      ]
+    }
+  ]
+}

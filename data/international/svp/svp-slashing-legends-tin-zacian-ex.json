@@ -1,0 +1,48 @@
+{
+  "id": "svp-slashing-legends-tin-zacian-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Slashing Legends Tin [Zacian ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-198",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 632678,
+        "cardmarketProductId": 813957,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Slashing Legends Tin [Zacian ex]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          623648
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/623648/pokemon-miscellaneous-cards-and-products-slashing-legends-tin-zacian-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Leggende Sovrane",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-sovrane"
+      ]
+    }
+  ]
+}

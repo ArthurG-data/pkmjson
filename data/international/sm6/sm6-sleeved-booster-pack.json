@@ -1,0 +1,24 @@
+{
+  "id": "sm6-sleeved-booster-pack",
+  "region": "international",
+  "set": "sm6",
+  "category": "sleeved_booster_pack",
+  "name": "Forbidden Light Sleeved Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164300
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164300/pokemon-sm-forbidden-light-forbidden-light-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

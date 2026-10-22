@@ -1,0 +1,25 @@
+{
+  "id": "smp-2019-world-championship-deck-henry-brand-perfection",
+  "region": "international",
+  "set": "smp",
+  "category": "battle_deck",
+  "name": "2019 World Championship Deck: Henry Brand (Perfection)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2019 World Championship Deck: Henry Brand (Perfection)",
+      "releaseDate": "2019-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200135
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200135/pokemon-world-championship-decks-2019-world-championship-deck-henry-brand-perfection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "mep-mega-charizard-tin-mega-charizard-y",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Mega Charizard Tin (Mega Charizard Y)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Charizard X ex or Mega Charizard Y ex; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Charizard Tin (Mega Charizard Y)",
+      "releaseDate": "2026-02-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          671249
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/671249/pokemon-miscellaneous-cards-and-products-mega-charizard-tin-mega-charizard-y"
+      ]
+    }
+  ]
+}

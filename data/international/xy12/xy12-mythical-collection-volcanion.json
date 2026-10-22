@@ -1,0 +1,24 @@
+{
+  "id": "xy12-mythical-collection-volcanion",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "Mythical Collection [Volcanion]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Collection [Volcanion]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          127180
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/127180/pokemon-xy-evolutions-mythical-collection-volcanion"
+      ]
+    }
+  ]
+}

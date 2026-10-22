@@ -1,0 +1,78 @@
+{
+  "id": "sv02-pokemon-center-elite-trainer-box-exclusive",
+  "region": "international",
+  "set": "sv02",
+  "category": "elite_trainer_box",
+  "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive)",
+  "identifiers": {
+    "cardmarketProductId": 703176
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 11
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-027",
+        "tcgdexVariantId": "23hmnvtwdrrnjw8wxr5005pugcpk",
+        "tcgplayerProductId": 500264,
+        "cardmarketProductId": 703196,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Sprigatito, Fuecoco, Quaxly",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Pikachu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493973
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493973/pokemon-sv02-paldea-evolved-paldea-evolved-pokemon-center-elite-trainer-box-exclusive"
+      ]
+    }
+  ]
+}

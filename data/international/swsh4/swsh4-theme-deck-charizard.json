@@ -1,0 +1,39 @@
+{
+  "id": "swsh4-theme-deck-charizard",
+  "region": "international",
+  "set": "swsh4",
+  "category": "theme_deck",
+  "name": "Vivid Voltage Theme Deck [Charizard]",
+  "identifiers": {
+    "cardmarketProductId": 494489
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Theme Deck [Charizard]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221750
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221750/pokemon-swsh04-vivid-voltage-vivid-voltage-theme-deck-charizard"
+      ]
+    }
+  ]
+}

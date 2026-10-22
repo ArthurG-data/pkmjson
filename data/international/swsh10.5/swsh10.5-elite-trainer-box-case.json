@@ -1,0 +1,28 @@
+{
+  "id": "swsh10.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "case",
+  "name": "Pokemon GO Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 690879
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Elite Trainer Box Case",
+      "releaseDate": "2022-07-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271513
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271513/pokemon-pokemon-go-pokemon-go-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

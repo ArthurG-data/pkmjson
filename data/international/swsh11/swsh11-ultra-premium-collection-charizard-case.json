@@ -1,0 +1,24 @@
+{
+  "id": "swsh11-ultra-premium-collection-charizard-case",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Sword & Shield Ultra-Premium Collection: Charizard Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Ultra-Premium Collection: Charizard Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          454377
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/454377/pokemon-swsh11-lost-origin-sword-and-shield-ultra-premium-collection-charizard-case"
+      ]
+    }
+  ]
+}

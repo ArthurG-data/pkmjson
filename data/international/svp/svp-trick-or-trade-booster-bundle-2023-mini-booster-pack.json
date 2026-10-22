@@ -1,0 +1,25 @@
+{
+  "id": "svp-trick-or-trade-booster-bundle-2023-mini-booster-pack",
+  "region": "international",
+  "set": "svp",
+  "category": "booster_bundle",
+  "name": "Trick or Trade BOOster Bundle 2023 - Mini Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Colorful cards from the Pokémon Trading Card Game.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Trick or Trade BOOster Bundle 2023 - Mini Booster Pack",
+      "releaseDate": "2023-09-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          505945
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/505945/pokemon-trick-or-trade-booster-bundle-2023-trick-or-trade-booster-bundle-2023-mini-booster-pack"
+      ]
+    }
+  ]
+}

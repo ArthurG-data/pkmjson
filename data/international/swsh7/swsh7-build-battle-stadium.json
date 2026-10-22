@@ -1,0 +1,57 @@
+{
+  "id": "swsh7-build-battle-stadium",
+  "region": "international",
+  "set": "swsh7",
+  "category": "other",
+  "name": "Evolving Skies Build & Battle Stadium",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Individual Build & Battle Boxes",
+        "count": 2
+      },
+      {
+        "name": "Pokemon TCG Energy cards",
+        "count": 121
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collectors box to hold everything",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Evolution packs contain 1 of 4 unique foil promo cards: Flaaffy, Galarian Articuno, Galarian Zapdos, or Galarian Moltres.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Build & Battle Stadium",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          243425
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/243425/pokemon-swsh07-evolving-skies-evolving-skies-build-and-battle-stadium"
+      ]
+    }
+  ]
+}

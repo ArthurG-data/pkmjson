@@ -1,0 +1,24 @@
+{
+  "id": "swshp-costco-pokemon-collector-3-pack-eevee-treasure-chest-2-poke-ball-tins",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Costco Pokemon Collector 3-Pack: Eevee Treasure Chest + 2 Poke Ball Tins",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cosmos holofoil promos featuring Flareon, Jolteon, & Vaporeon; 5 Pokémon TCG booster packs (Packs and contents may vary.); 3 Pokémon TCG booster packs (Packs and contents may vary.); set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Costco Pokemon Collector 3-Pack: Eevee Treasure Chest + 2 Poke Ball Tins",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256408
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256408/pokemon-miscellaneous-cards-and-products-costco-pokemon-collector-3-pack-eevee-treasure-chest-plus-2-poke-ball-tins"
+      ]
+    }
+  ]
+}

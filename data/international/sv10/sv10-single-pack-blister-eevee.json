@@ -1,0 +1,35 @@
+{
+  "id": "sv10-single-pack-blister-eevee",
+  "region": "international",
+  "set": "sv10",
+  "category": "blister",
+  "name": "Destined Rivals Single Pack Blister [Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 826144
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Single Pack Blister [Eevee]",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          633105
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/633105/pokemon-sv10-destined-rivals-destined-rivals-single-pack-blister-eevee"
+      ]
+    }
+  ]
+}

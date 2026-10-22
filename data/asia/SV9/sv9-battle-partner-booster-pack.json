@@ -1,0 +1,26 @@
+{
+  "id": "sv9-battle-partner-booster-pack",
+  "region": "asia",
+  "set": "SV9",
+  "category": "booster_pack",
+  "name": "Battle Partner Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「バトルパートナーズ」",
+      "releaseDate": "2025-01-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          614703
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/614703/pokemon-japan-sv9-battle-partners-battle-partner-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%90%E3%83%88%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA"
+      ]
+    }
+  ]
+}

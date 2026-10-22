@@ -1,0 +1,40 @@
+{
+  "id": "sm6-3-pack-blister-garbodor",
+  "region": "international",
+  "set": "sm6",
+  "category": "blister",
+  "name": "Forbidden Light 3 Pack Blister [Garbodor]",
+  "identifiers": {
+    "cardmarketProductId": 585978
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm6-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional foil Garbodor.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light 3 Pack Blister [Garbodor]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164298
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164298/pokemon-sm-forbidden-light-forbidden-light-3-pack-blister-garbodor"
+      ]
+    }
+  ]
+}

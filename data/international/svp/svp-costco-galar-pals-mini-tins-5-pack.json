@@ -1,0 +1,24 @@
+{
+  "id": "svp-costco-galar-pals-mini-tins-5-pack",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Costco Galar Pals Mini Tins 5-Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon Mini Tins; 2 Booster Packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Costco Galar Pals Mini Tins 5-Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          551456
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/551456/pokemon-miscellaneous-cards-and-products-costco-galar-pals-mini-tins-5-pack"
+      ]
+    }
+  ]
+}

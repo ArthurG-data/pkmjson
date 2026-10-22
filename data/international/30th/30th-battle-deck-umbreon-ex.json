@@ -1,0 +1,51 @@
+{
+  "id": "30th-battle-deck-umbreon-ex",
+  "region": "international",
+  "set": "30th",
+  "category": "battle_deck",
+  "name": "30th Celebration Battle Deck [Umbreon ex]",
+  "identifiers": {
+    "cardmarketProductId": 895563
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Plastic coin",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Double-sided playmat and strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Ready-to-play 60-card deck featuring Umbreon ex; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Battle Deck [Umbreon ex]",
+      "releaseDate": "2026-10-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704188
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704188/pokemon-me-30th-celebration-30th-celebration-battle-deck-umbreon-ex"
+      ]
+    }
+  ]
+}

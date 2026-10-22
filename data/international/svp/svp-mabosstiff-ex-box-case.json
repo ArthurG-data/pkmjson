@@ -1,0 +1,24 @@
+{
+  "id": "svp-mabosstiff-ex-box-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Mabosstiff ex Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mabosstiff ex Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532404
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532404/pokemon-miscellaneous-cards-and-products-mabosstiff-ex-box-case"
+      ]
+    }
+  ]
+}

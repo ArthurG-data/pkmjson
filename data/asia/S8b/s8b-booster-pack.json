@@ -1,0 +1,29 @@
+{
+  "id": "s8b-booster-pack",
+  "region": "asia",
+  "set": "S8b",
+  "category": "booster_pack",
+  "name": "VMAX Climax Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 576801
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ハイクラスパック「VMAXクライマックス」",
+      "releaseDate": "2021-12-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565258
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565258/pokemon-japan-s8b-vmax-climax-vmax-climax-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=VMAX%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "me02-premium-checklane-blister-hydrapple",
+  "region": "international",
+  "set": "me02",
+  "category": "blister",
+  "name": "Phantasmal Flames Premium Checklane Blister [Hydrapple]",
+  "identifiers": {
+    "cardmarketProductId": 846736
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards featuring an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Premium Checklane Blister [Hydrapple]",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654146
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654146/pokemon-me02-phantasmal-flames-phantasmal-flames-premium-checklane-blister-hydrapple"
+      ]
+    }
+  ]
+}

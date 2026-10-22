@@ -1,0 +1,24 @@
+{
+  "id": "s6a-vmax-special-set",
+  "region": "asia",
+  "set": "S6a",
+  "category": "other",
+  "name": "Eevee Heroes VMAX Special Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Eevee Heroes VMAX Special Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          606718
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/606718/pokemon-japan-s6a-eevee-heroes-eevee-heroes-vmax-special-set"
+      ]
+    }
+  ]
+}

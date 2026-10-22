@@ -1,0 +1,32 @@
+{
+  "id": "mep-first-partner-illustration-collection-series-2",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "First Partner Illustration Collection (Series 2)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Pokémon TCG booster pack containing 3 of 9 promo cards; 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Illustration Collection (Series 2)",
+      "releaseDate": "2026-06-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          688712
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/688712/pokemon-first-partner-collection-2026-first-partner-illustration-collection-series-2"
+      ]
+    }
+  ]
+}

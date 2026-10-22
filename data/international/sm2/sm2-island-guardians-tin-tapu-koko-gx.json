@@ -1,0 +1,44 @@
+{
+  "id": "sm2-island-guardians-tin-tapu-koko-gx",
+  "region": "international",
+  "set": "sm2",
+  "category": "tin",
+  "name": "Island Guardians Tin [Tapu Koko GX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Island Guardians Tin [Tapu Koko GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131725
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131725/pokemon-sm-guardians-rising-island-guardians-tin-tapu-koko-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Gardiens des Îles Tokorico",
+      "releaseDate": "2017-08-12",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm3-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Gardiens_des_%C3%8Eles_Tokorico-GX"
+      ]
+    }
+  ]
+}

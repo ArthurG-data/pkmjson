@@ -1,0 +1,25 @@
+{
+  "id": "swsh11-pokemon-stacking-tins-fighting-fire-darkness-set-of-3",
+  "region": "international",
+  "set": "swsh11",
+  "category": "other",
+  "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness [Set of 3]",
+      "releaseDate": "2022-10-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282406
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282406/pokemon-swsh11-lost-origin-pokemon-stacking-tins-fighting-fire-darkness-set-of-3"
+      ]
+    }
+  ]
+}

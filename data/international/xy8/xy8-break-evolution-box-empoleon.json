@@ -1,0 +1,24 @@
+{
+  "id": "xy8-break-evolution-box-empoleon",
+  "region": "international",
+  "set": "xy8",
+  "category": "collection_box",
+  "name": "Break Evolution Box [Empoleon]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Break Evolution Box [Empoleon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117274
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117274/pokemon-xy-breakthrough-break-evolution-box-empoleon"
+      ]
+    }
+  ]
+}

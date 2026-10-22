@@ -1,0 +1,34 @@
+{
+  "id": "xy4-booster-box",
+  "region": "international",
+  "set": "xy4",
+  "category": "booster_box",
+  "name": "XY Phantom Forces Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271440
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy4-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Phantom Forces Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          94623
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/94623/pokemon-xy-phantom-forces-xy-phantom-forces-booster-box"
+      ]
+    }
+  ]
+}

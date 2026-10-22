@@ -1,0 +1,40 @@
+{
+  "id": "sv01-3-pack-blister-dondozo",
+  "region": "international",
+  "set": "sv01",
+  "category": "blister",
+  "name": "Scarlet & Violet 3 Pack Blister [Dondozo]",
+  "identifiers": {
+    "cardmarketProductId": 692098
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Dondozo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet 3 Pack Blister [Dondozo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478762
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478762/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-3-pack-blister-dondozo"
+      ]
+    }
+  ]
+}

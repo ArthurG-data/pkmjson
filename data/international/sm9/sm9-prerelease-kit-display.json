@@ -1,0 +1,24 @@
+{
+  "id": "sm9-prerelease-kit-display",
+  "region": "international",
+  "set": "sm9",
+  "category": "case",
+  "name": "Team Up Prerelease Kit Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Prerelease Kit Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          547128
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/547128/pokemon-sm-team-up-team-up-prerelease-kit-display"
+      ]
+    }
+  ]
+}

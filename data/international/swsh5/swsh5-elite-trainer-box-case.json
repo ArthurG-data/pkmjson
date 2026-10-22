@@ -1,0 +1,27 @@
+{
+  "id": "swsh5-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh5",
+  "category": "case",
+  "name": "Battle Styles Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873114
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Styles Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          235284
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/235284/pokemon-swsh05-battle-styles-battle-styles-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

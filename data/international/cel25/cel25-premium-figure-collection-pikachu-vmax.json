@@ -1,0 +1,41 @@
+{
+  "id": "cel25-premium-figure-collection-pikachu-vmax",
+  "region": "international",
+  "set": "cel25",
+  "category": "collection_box",
+  "name": "Celebrations Premium Figure Collection [Pikachu VMAX]",
+  "identifiers": {
+    "cardmarketProductId": 570906
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Supersize figure of Gigantamax Pikachu",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: One etched foil promo card featuring Pikachu VMAX; One foil promo card featuring Pikachu V; Three additional Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Premium Figure Collection [Pikachu VMAX]",
+      "releaseDate": "2021-10-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245139
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245139/pokemon-celebrations-celebrations-premium-figure-collection-pikachu-vmax"
+      ]
+    }
+  ]
+}

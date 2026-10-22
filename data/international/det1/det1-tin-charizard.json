@@ -1,0 +1,37 @@
+{
+  "id": "det1-tin-charizard",
+  "region": "international",
+  "set": "det1",
+  "category": "tin",
+  "name": "Detective Pikachu Tin [Charizard]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "det1-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code Card for Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A GX promotional card (featuring Charizard); 2 Additional Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu Tin [Charizard]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502477
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502477/pokemon-detective-pikachu-detective-pikachu-tin-charizard"
+      ]
+    }
+  ]
+}

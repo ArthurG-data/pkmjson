@@ -1,0 +1,24 @@
+{
+  "id": "tk-xy-n-trainer-kit",
+  "region": "international",
+  "set": "tk-xy-n",
+  "category": "other",
+  "name": "XY Trainer Kit: Sylveon & Noivern",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 pre-constructed half decks- Sylveon (Fairy) and Noivern (Darkness and Psychic); deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Trainer Kit: Sylveon & Noivern",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97728
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97728/pokemon-xy-trainer-kit-sylveon-and-noivern-xy-trainer-kit-sylveon-and-noivern"
+      ]
+    }
+  ]
+}

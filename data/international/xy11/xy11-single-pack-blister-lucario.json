@@ -1,0 +1,40 @@
+{
+  "id": "xy11-single-pack-blister-lucario",
+  "region": "international",
+  "set": "xy11",
+  "category": "blister",
+  "name": "Steam Siege Single Pack Blister [Lucario]",
+  "identifiers": {
+    "cardmarketProductId": 586337
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy11-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Lucario.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Single Pack Blister [Lucario]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120702
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120702/pokemon-xy-steam-siege-steam-siege-single-pack-blister-lucario"
+      ]
+    }
+  ]
+}

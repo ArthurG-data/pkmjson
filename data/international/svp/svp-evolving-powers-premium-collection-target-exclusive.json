@@ -1,0 +1,31 @@
+{
+  "id": "svp-evolving-powers-premium-collection-target-exclusive",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Evolving Powers Premium Collection (Target Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Magnezone ex; 1 promo card featuring Magnezone V; 1 promo card featuring Magnezone VSTAR; 1 promo card featuring Magnemite; 1 promo card featuring Magneton; 1 promo card featuring Gardevoir ex; 1 promo card featuring Gardevoir V; 1 promo card featuring Gardevoir VMAX; 1 promo card featuring Ralts; 1 promo card featuring Kirlia; 7 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Powers Premium Collection (Target Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          520353
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/520353/pokemon-miscellaneous-cards-and-products-evolving-powers-premium-collection-target-exclusive"
+      ]
+    }
+  ]
+}

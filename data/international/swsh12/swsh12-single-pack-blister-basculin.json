@@ -1,0 +1,37 @@
+{
+  "id": "swsh12-single-pack-blister-basculin",
+  "region": "international",
+  "set": "swsh12",
+  "category": "blister",
+  "name": "Silver Tempest Single Pack Blister [Basculin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Basculin.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Single Pack Blister [Basculin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285780
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285780/pokemon-swsh12-silver-tempest-silver-tempest-single-pack-blister-basculin"
+      ]
+    }
+  ]
+}

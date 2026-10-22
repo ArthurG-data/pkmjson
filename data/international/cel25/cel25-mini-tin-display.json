@@ -1,0 +1,24 @@
+{
+  "id": "cel25-mini-tin-display",
+  "region": "international",
+  "set": "cel25",
+  "category": "case",
+  "name": "Celebrations Mini Tin Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242812
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242812/pokemon-celebrations-celebrations-mini-tin-display"
+      ]
+    }
+  ]
+}

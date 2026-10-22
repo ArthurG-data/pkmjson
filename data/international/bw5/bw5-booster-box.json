@@ -1,0 +1,27 @@
+{
+  "id": "bw5-booster-box",
+  "region": "international",
+  "set": "bw5",
+  "category": "booster_box",
+  "name": "Dark Explorers Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271892
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dark Explorers Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98520
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98520/pokemon-dark-explorers-dark-explorers-booster-box"
+      ]
+    }
+  ]
+}

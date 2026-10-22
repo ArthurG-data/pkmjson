@@ -1,0 +1,34 @@
+{
+  "id": "sm6-single-pack-blister-rockruff",
+  "region": "international",
+  "set": "sm6",
+  "category": "blister",
+  "name": "Forbidden Light Single Pack Blister [Rockruff]",
+  "identifiers": {
+    "cardmarketProductId": 585977
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Rockruff.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Single Pack Blister [Rockruff]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164302
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164302/pokemon-sm-forbidden-light-forbidden-light-single-pack-blister-rockruff"
+      ]
+    }
+  ]
+}

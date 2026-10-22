@@ -1,0 +1,24 @@
+{
+  "id": "cel25-ultra-premium-collection-case",
+  "region": "international",
+  "set": "cel25",
+  "category": "case",
+  "name": "Celebrations Ultra-Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Ultra-Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          518638
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/518638/pokemon-celebrations-celebrations-ultra-premium-collection-case"
+      ]
+    }
+  ]
+}

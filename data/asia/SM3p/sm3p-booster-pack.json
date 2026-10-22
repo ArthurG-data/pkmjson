@@ -1,0 +1,26 @@
+{
+  "id": "sm3p-booster-pack",
+  "region": "asia",
+  "set": "SM3p",
+  "category": "booster_pack",
+  "name": "Shining Legends Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「ひかる伝説」",
+      "releaseDate": "2017-07-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576924
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576924/pokemon-japan-sm3plus-shining-legends-shining-legends-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%81%B2%E3%81%8B%E3%82%8B%E4%BC%9D%E8%AA%AC"
+      ]
+    }
+  ]
+}

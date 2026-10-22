@@ -1,0 +1,41 @@
+{
+  "id": "swsh4-single-pack-blister-scorbunny",
+  "region": "international",
+  "set": "swsh4",
+  "category": "blister",
+  "name": "Vivid Voltage Single Pack Blister [Scorbunny]",
+  "identifiers": {
+    "cardmarketProductId": 585813
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Scorbunny.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Single Pack Blister [Scorbunny]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221747
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221747/pokemon-swsh04-vivid-voltage-vivid-voltage-single-pack-blister-scorbunny"
+      ]
+    }
+  ]
+}

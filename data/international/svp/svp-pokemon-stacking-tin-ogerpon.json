@@ -1,0 +1,32 @@
+{
+  "id": "svp-pokemon-stacking-tin-ogerpon",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Ogerpon",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon sticker sheets",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Ogerpon",
+      "releaseDate": "2025-03-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616296
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616296/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-ogerpon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "swsh2-theme-deck-zacian",
+  "region": "international",
+  "set": "swsh2",
+  "category": "theme_deck",
+  "name": "Rebel Clash Theme Deck [Zacian]",
+  "identifiers": {
+    "cardmarketProductId": 453288
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Theme Deck [Zacian]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210571
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210571/pokemon-swsh02-rebel-clash-rebel-clash-theme-deck-zacian"
+      ]
+    }
+  ]
+}

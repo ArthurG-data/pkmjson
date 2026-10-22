@@ -1,0 +1,37 @@
+{
+  "id": "swsh1-booster-pack",
+  "region": "international",
+  "set": "swsh1",
+  "category": "booster_pack",
+  "name": "Sword & Shield Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 427151
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield",
+      "releaseDate": "2020-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206028
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206028/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Épée et Bouclier",
+      "sources": [
+        "https://www.pokepedia.fr/Coffre_de_collection_%28Printemps_2020%29",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier"
+      ]
+    }
+  ]
+}

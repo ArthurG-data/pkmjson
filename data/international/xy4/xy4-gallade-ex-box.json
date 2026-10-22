@@ -1,0 +1,48 @@
+{
+  "id": "xy4-gallade-ex-box",
+  "region": "international",
+  "set": "xy4",
+  "category": "collection_box",
+  "name": "Gallade EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gallade EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97794
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97794/pokemon-xy-phantom-forces-gallade-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Gallame-EX",
+      "releaseDate": "2015-06-22",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy6-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Gallame-EX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "30th-tech-sticker-collection-alolan-exeggutor",
+  "region": "international",
+  "set": "30th",
+  "category": "collection_box",
+  "name": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
+  "identifiers": {
+    "cardmarketProductId": 895554
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Alolan Exeggutor.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704145
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704145/pokemon-me-30th-celebration-30th-celebration-tech-sticker-collection-alolan-exeggutor"
+      ]
+    }
+  ]
+}

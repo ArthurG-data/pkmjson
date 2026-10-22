@@ -1,0 +1,35 @@
+{
+  "id": "svp-paldea-friends-mini-tins-5-pack",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Paldea Friends Mini Tins 5-Pack",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Friends Mini Tins 5-Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          633085
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/633085/pokemon-miscellaneous-cards-and-products-paldea-friends-mini-tins-5-pack"
+      ]
+    }
+  ]
+}

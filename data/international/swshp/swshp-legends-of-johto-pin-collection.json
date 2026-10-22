@@ -1,0 +1,31 @@
+{
+  "id": "swshp-legends-of-johto-pin-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Legends of Johto Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible pins featuring each of the Legendary Dog Pokemon",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 9 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Johto Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228813
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228813/pokemon-miscellaneous-cards-and-products-legends-of-johto-pin-collection"
+      ]
+    }
+  ]
+}

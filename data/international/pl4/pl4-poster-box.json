@@ -1,0 +1,37 @@
+{
+  "id": "pl4-poster-box",
+  "region": "international",
+  "set": "pl4",
+  "category": "collection_box",
+  "name": "Arceus Poster Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "pl1-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Full-size Platinum-Arceus double-sided poster featuring all the cards in the set & cool Arceus art",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 exciting Alpha Pokémon Arceus foil promo card; 1 unique oversized foil version of the Arceus promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Poster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          714416
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/714416/pokemon-arceus-arceus-poster-box"
+      ]
+    }
+  ]
+}

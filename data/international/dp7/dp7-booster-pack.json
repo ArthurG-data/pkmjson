@@ -1,0 +1,28 @@
+{
+  "id": "dp7-booster-pack",
+  "region": "international",
+  "set": "dp7",
+  "category": "booster_pack",
+  "name": "Stormfront Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271867
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Diamond & Pearl—Stormfront",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98589
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98589/pokemon-stormfront-stormfront-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/stormfront"
+      ]
+    }
+  ]
+}

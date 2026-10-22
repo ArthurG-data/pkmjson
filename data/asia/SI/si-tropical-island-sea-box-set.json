@@ -1,0 +1,24 @@
+{
+  "id": "si-tropical-island-sea-box-set",
+  "region": "asia",
+  "set": "SI",
+  "category": "collection_box",
+  "name": "Tropical Island Sea Box Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Tentacruel; Marill; Lapras.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Tropical Island Sea Box Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701546
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701546/pokemon-japan-southern-island-tropical-island-sea-box-set"
+      ]
+    }
+  ]
+}

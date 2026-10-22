@@ -1,0 +1,37 @@
+{
+  "id": "xy4-collector-s-pin-3-pack-blister-mega-gengar",
+  "region": "international",
+  "set": "xy4",
+  "category": "blister",
+  "name": "Phantom Forces Collector's Pin 3 Pack Blister [Mega Gengar]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy4-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible pin of Mega Gengar",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Collector's Pin 3 Pack Blister [Mega Gengar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97795
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97795/pokemon-xy-phantom-forces-phantom-forces-collectors-pin-3-pack-blister-mega-gengar"
+      ]
+    }
+  ]
+}

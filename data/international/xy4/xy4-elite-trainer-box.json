@@ -1,0 +1,27 @@
+{
+  "id": "xy4-elite-trainer-box",
+  "region": "international",
+  "set": "xy4",
+  "category": "elite_trainer_box",
+  "name": "Phantom Forces Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 286949
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97786
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97786/pokemon-xy-phantom-forces-phantom-forces-elite-trainer-box"
+      ]
+    }
+  ]
+}

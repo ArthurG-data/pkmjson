@@ -1,0 +1,87 @@
+{
+  "id": "swsh3.5-collection-dubwool-v",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "collection_box",
+  "name": "Champion's Path Collection [Dubwool V]",
+  "identifiers": {
+    "cardmarketProductId": 488259
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH049",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 223752,
+        "cardmarketProductId": 505855,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Dubwool V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Collection [Dubwool V]",
+      "releaseDate": "2020-09-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218806
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218806/pokemon-champions-path-champions-path-collection-dubwool-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection La Voie du Maître Moumouflon",
+      "releaseDate": "2020-10-16",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_La_Voie_du_Ma%C3%AEtre_Moumouflon-V"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Dubwool V de Camino de Campeones",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-dubwool-v-de-camino-de-campeones"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Zwollock-V der Erweiterung Weg des Champs",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-zwollock-v-der-erweiterung-weg-des-champs"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Dubwool-V dell’espansione Futuri Campioni",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-dubwool-v-dellespansione-futuri-campioni"
+      ]
+    }
+  ]
+}

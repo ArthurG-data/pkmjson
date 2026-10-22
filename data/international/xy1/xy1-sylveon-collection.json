@@ -1,0 +1,39 @@
+{
+  "id": "xy1-sylveon-collection",
+  "region": "international",
+  "set": "xy1",
+  "category": "collection_box",
+  "name": "Sylveon Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Fairy-type Energy card to power Sylveon’s attacks",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Black & White Series booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sylveon Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91598
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91598/pokemon-xy-base-set-sylveon-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Nymphali",
+      "releaseDate": "2014-04-12",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Nymphali"
+      ]
+    }
+  ]
+}

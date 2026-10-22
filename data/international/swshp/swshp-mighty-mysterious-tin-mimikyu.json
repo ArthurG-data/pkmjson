@@ -1,0 +1,31 @@
+{
+  "id": "swshp-mighty-mysterious-tin-mimikyu",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Mighty Mysterious Tin [Mimikyu]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mighty Mysterious Tin [Mimikyu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247818
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247818/pokemon-miscellaneous-cards-and-products-mighty-mysterious-tin-mimikyu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "swsh1-theme-deck-cinderace",
+  "region": "international",
+  "set": "swsh1",
+  "category": "theme_deck",
+  "name": "Sword & Shield Theme Deck [Cinderace]",
+  "identifiers": {
+    "cardmarketProductId": 427126
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Theme Deck [Cinderace]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206035
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206035/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-theme-deck-cinderace"
+      ]
+    }
+  ]
+}

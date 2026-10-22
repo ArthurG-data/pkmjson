@@ -1,0 +1,53 @@
+{
+  "id": "swsh9-booster-pack",
+  "region": "international",
+  "set": "swsh9",
+  "category": "booster_pack",
+  "name": "Brilliant Stars Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 583513
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield—Brilliant Stars",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256124
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256124/pokemon-swsh09-brilliant-stars-brilliant-stars-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-brilliant-stars"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Épée et Bouclier – Stars Étincelantes",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Stars_%C3%89tincelantes",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-stars-etincelantes"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Espada y Escudo-Astros Brillantes",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-astros-brillantes",
+        "https://www.pokemon.com/es/jcc-pokemon/espada-y-escudo-astros-brillantes"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Schwert & Schild – Strahlende Sterne",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-strahlende-sterne",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schwert-schild-strahlende-sterne"
+      ]
+    }
+  ]
+}

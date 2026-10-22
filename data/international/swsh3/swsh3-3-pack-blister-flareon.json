@@ -1,0 +1,41 @@
+{
+  "id": "swsh3-3-pack-blister-flareon",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Darkness Ablaze 3 Pack Blister [Flareon]",
+  "identifiers": {
+    "cardmarketProductId": 585879
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a cosmos holofoil of Flareon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze 3 Pack Blister [Flareon]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216858
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216858/pokemon-swsh03-darkness-ablaze-darkness-ablaze-3-pack-blister-flareon"
+      ]
+    }
+  ]
+}

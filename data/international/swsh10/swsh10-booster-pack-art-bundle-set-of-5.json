@@ -1,0 +1,25 @@
+{
+  "id": "swsh10-booster-pack-art-bundle-set-of-5",
+  "region": "international",
+  "set": "swsh10",
+  "category": "other",
+  "name": "Astral Radiance Booster Pack Art Bundle [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Booster Pack Art Bundle [Set of 5]",
+      "releaseDate": "2022-05-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265542
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265542/pokemon-swsh10-astral-radiance-astral-radiance-booster-pack-art-bundle-set-of-5"
+      ]
+    }
+  ]
+}

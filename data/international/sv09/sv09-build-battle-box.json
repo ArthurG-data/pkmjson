@@ -1,0 +1,35 @@
+{
+  "id": "sv09-build-battle-box",
+  "region": "international",
+  "set": "sv09",
+  "category": "build_and_battle_box",
+  "name": "Journey Together Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 805591
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards; 4 Pokémon TCG: Scarlet & Violet booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Build & Battle Box",
+      "releaseDate": "2025-04-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610954
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610954/pokemon-sv09-journey-together-journey-together-build-and-battle-box"
+      ]
+    }
+  ]
+}

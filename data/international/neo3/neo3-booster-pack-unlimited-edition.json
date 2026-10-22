@@ -1,0 +1,24 @@
+{
+  "id": "neo3-booster-pack-unlimited-edition",
+  "region": "international",
+  "set": "neo3",
+  "category": "booster_pack",
+  "name": "Neo Revelation Booster Pack [Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Revelation Booster Pack [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          138146
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/138146/pokemon-neo-revelation-neo-revelation-booster-pack-unlimited-edition"
+      ]
+    }
+  ]
+}

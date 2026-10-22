@@ -1,0 +1,48 @@
+{
+  "id": "30th-knock-out-collection",
+  "region": "international",
+  "set": "30th",
+  "category": "collection_box",
+  "name": "30th Celebration Knock Out Collection",
+  "identifiers": {
+    "cardmarketProductId": 895559
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Plastic coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Knock Out Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704152
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704152/pokemon-me-30th-celebration-30th-celebration-knock-out-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection K.O. 30e Anniversaire",
+      "releaseDate": "2026-09-24",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_K.O._30e_Anniversaire"
+      ]
+    }
+  ]
+}

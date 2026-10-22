@@ -1,0 +1,35 @@
+{
+  "id": "smp-pokemon-tcg-basic-energy-box",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Pokemon TCG: Basic Energy Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Assorted basic Energy cards to help you get started",
+        "count": 450
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Basic Energy Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181695
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181695/pokemon-miscellaneous-cards-and-products-pokemon-tcg-basic-energy-box"
+      ]
+    }
+  ]
+}

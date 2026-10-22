@@ -1,0 +1,28 @@
+{
+  "id": "me02-sleeved-booster-pack",
+  "region": "international",
+  "set": "me02",
+  "category": "sleeved_booster_pack",
+  "name": "Phantasmal Flames Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 846730
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Sleeved Booster Pack",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654145
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654145/pokemon-me02-phantasmal-flames-phantasmal-flames-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

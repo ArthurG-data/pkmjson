@@ -1,0 +1,106 @@
+{
+  "id": "swsh2-copperajah-v-box",
+  "region": "international",
+  "set": "swsh2",
+  "category": "collection_box",
+  "name": "Copperajah V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH030",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 214228,
+        "cardmarketProductId": 477159,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card of Copperajah, suitable for display",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Copperajah V Box",
+      "releaseDate": "2020-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214227
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214227/pokemon-swsh02-rebel-clash-copperajah-v-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Pachyradjah",
+      "releaseDate": "2020-06-05",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "swshp-SWSH030",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 214228,
+            "cardmarketProductId": 477159,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Oversize card of Copperajah, suitable for display",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Pachyradjah-V"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Patinaraja-V",
+      "releaseDate": "2020-06-05",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-patinaraja-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Copperajah-V",
+      "releaseDate": "2020-06-05",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-copperajah-v"
+      ]
+    }
+  ]
+}

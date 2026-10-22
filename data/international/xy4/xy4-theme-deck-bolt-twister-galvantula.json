@@ -1,0 +1,38 @@
+{
+  "id": "xy4-theme-deck-bolt-twister-galvantula",
+  "region": "international",
+  "set": "xy4",
+  "category": "theme_deck",
+  "name": "Phantom Forces Theme Deck - \"Bolt Twister\" [Galvantula]",
+  "identifiers": {
+    "cardmarketProductId": 286624
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Theme Deck - \"Bolt Twister\" [Galvantula]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          94625
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/94625/pokemon-xy-phantom-forces-phantom-forces-theme-deck-bolt-twister-galvantula"
+      ]
+    }
+  ]
+}

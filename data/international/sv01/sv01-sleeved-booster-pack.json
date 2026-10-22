@@ -1,0 +1,28 @@
+{
+  "id": "sv01-sleeved-booster-pack",
+  "region": "international",
+  "set": "sv01",
+  "category": "sleeved_booster_pack",
+  "name": "Scarlet & Violet Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 692091
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Sleeved Booster Pack",
+      "releaseDate": "2023-03-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478273
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478273/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

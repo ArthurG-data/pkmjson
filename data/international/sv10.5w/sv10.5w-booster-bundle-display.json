@@ -1,0 +1,28 @@
+{
+  "id": "sv10.5w-booster-bundle-display",
+  "region": "international",
+  "set": "sv10.5w",
+  "category": "case",
+  "name": "White Flare Booster Bundle Display",
+  "identifiers": {
+    "cardmarketProductId": 836258
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "White Flare Booster Bundle Display",
+      "releaseDate": "2025-08-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630698
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630698/pokemon-sv-white-flare-white-flare-booster-bundle-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "svhm-battle-deck",
+  "region": "asia",
+  "set": "SVHM",
+  "category": "battle_deck",
+  "name": "Future Miraidon ex Starter Deck & Build Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sheet of damage counters and status markers",
+        "count": 1
+      },
+      {
+        "name": "Unique coin",
+        "count": 1
+      },
+      {
+        "name": "VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a fixed selection of 228 cards: a 60-card deck; 168 cards to help build and enhance it; a card with deck modification tips; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Future Miraidon ex Starter Deck & Build Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593970
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593970/pokemon-japan-sv-future-miraidon-ex-starter-deck-and-build-set-future-miraidon-ex-starter-deck-and-build-set"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "sm11-elite-trainer-box",
+  "region": "international",
+  "set": "sm11",
+  "category": "elite_trainer_box",
+  "name": "Unified Minds Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 377493
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Elite Trainer Box",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193052
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193052/pokemon-sm-unified-minds-unified-minds-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Soleil et Lune Harmonie des Esprits",
+      "releaseDate": "2019-08-02",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Harmonie_des_Esprits"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Sonne & Mond – Bund der Gleichgesinnten",
+      "releaseDate": "2019-08-02",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-bund-der-gleichgesinnten"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Mentes Unidas",
+      "releaseDate": "2019-08-12",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-mentes-unidas"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Sintonia Mentale",
+      "releaseDate": "2019-08-02",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-sintonia-mentale"
+      ]
+    }
+  ]
+}

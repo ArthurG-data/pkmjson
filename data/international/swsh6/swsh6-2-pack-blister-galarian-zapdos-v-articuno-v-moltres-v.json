@@ -1,0 +1,45 @@
+{
+  "id": "swsh6-2-pack-blister-galarian-zapdos-v-articuno-v-moltres-v",
+  "region": "international",
+  "set": "swsh6",
+  "category": "blister",
+  "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Galarian Zapdos V; 1 promo card featuring Galarian Articuno V; 1 promo card featuring Galarian Moltres V; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245856
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245856/pokemon-swsh06-chilling-reign-chilling-reign-2-pack-blister-galarian-zapdos-v-articuno-v-moltres-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Duopack Artikodin de Galar, Électhor de Galar et Sulfura de Galar",
+      "releaseDate": "2022-10-24",
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Artikodin_de_Galar%2C_%C3%89lecthor_de_Galar_et_Sulfura_de_Galar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "me02.5-mega-ex-boxes-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Ascended Heroes Mega ex Boxes Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Mega ex Boxes Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672737
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672737/pokemon-me-ascended-heroes-ascended-heroes-mega-ex-boxes-case"
+      ]
+    }
+  ]
+}

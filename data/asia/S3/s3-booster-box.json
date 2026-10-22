@@ -1,0 +1,34 @@
+{
+  "id": "s3-booster-box",
+  "region": "asia",
+  "set": "S3",
+  "category": "booster_box",
+  "name": "Infinity Zone Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 463834
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s3-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Infinity Zone Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571838
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571838/pokemon-japan-s3-infinity-zone-infinity-zone-booster-box"
+      ]
+    }
+  ]
+}

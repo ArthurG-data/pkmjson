@@ -1,0 +1,32 @@
+{
+  "id": "xy2-kalos-power-tin-chesnaught-ex",
+  "region": "international",
+  "set": "xy2",
+  "category": "tin",
+  "name": "Kalos Power Tin [Chesnaught EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Power Tin [Chesnaught EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91605
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91605/pokemon-xy-flashfire-kalos-power-tin-chesnaught-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance de Kalos Blindépique",
+      "releaseDate": "2014-09-03",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_de_Kalos_Blind%C3%A9pique-EX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "swsh3-galarian-sirfetch-d-v-box",
+  "region": "international",
+  "set": "swsh3",
+  "category": "collection_box",
+  "name": "Galarian Sirfetch'd V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH043",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 220273,
+        "cardmarketProductId": 505860,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card of Galarian Sirfetch'd, suitable for display",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galarian Sirfetch'd V Box",
+      "releaseDate": "2020-09-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220272
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220272/pokemon-swsh03-darkness-ablaze-galarian-sirfetchd-v-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Palarticho de Galar",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Palarticho_de_Galar-V"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Sirfetch’d di Galar-V",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-sirfetchd-di-galar-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Galar-Lauchzelot-V",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-galar-lauchzelot-v"
+      ]
+    }
+  ]
+}

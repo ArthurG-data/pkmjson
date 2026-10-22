@@ -1,0 +1,41 @@
+{
+  "id": "sm10-single-pack-blister-pikachu",
+  "region": "international",
+  "set": "sm10",
+  "category": "blister",
+  "name": "Unbroken Bonds Single Pack Blister [Pikachu]",
+  "identifiers": {
+    "cardmarketProductId": 585911
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Pikachu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Single Pack Blister [Pikachu]",
+      "releaseDate": "2019-05-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          188413
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/188413/pokemon-sm-unbroken-bonds-unbroken-bonds-single-pack-blister-pikachu"
+      ]
+    }
+  ]
+}

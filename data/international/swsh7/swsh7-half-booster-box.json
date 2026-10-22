@@ -1,0 +1,34 @@
+{
+  "id": "swsh7-half-booster-box",
+  "region": "international",
+  "set": "swsh7",
+  "category": "half_booster_box",
+  "name": "Evolving Skies Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 574435
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          641794
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/641794/pokemon-swsh07-evolving-skies-evolving-skies-half-booster-box"
+      ]
+    }
+  ]
+}

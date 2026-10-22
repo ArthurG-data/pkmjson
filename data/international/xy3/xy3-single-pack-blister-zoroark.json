@@ -1,0 +1,40 @@
+{
+  "id": "xy3-single-pack-blister-zoroark",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "Furious Fists Single Pack Blister [Zoroark]",
+  "identifiers": {
+    "cardmarketProductId": 586404
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy3-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Zoroark.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists Single Pack Blister [Zoroark]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97771
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97771/pokemon-xy-furious-fists-furious-fists-single-pack-blister-zoroark"
+      ]
+    }
+  ]
+}

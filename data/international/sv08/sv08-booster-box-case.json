@@ -4,6 +4,7 @@
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Booster Box Case",
+  "identifiers": {"cardmarketProductId": 784950},
   "contentsStatus": "complete",
   "contents": {
     "sealed": [{"product": "sv08-booster-box", "count": 6}]

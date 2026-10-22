@@ -1,0 +1,51 @@
+{
+  "id": "swsh10-single-pack-blister-oricorio",
+  "region": "international",
+  "set": "swsh10",
+  "category": "blister",
+  "name": "Astral Radiance Single Pack Blister [Oricorio]",
+  "identifiers": {
+    "cardmarketProductId": 611355
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH210",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 273585,
+        "cardmarketProductId": 659062,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Single Pack Blister [Oricorio]",
+      "releaseDate": "2022-05-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265523
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265523/pokemon-swsh10-astral-radiance-astral-radiance-single-pack-blister-oricorio"
+      ]
+    }
+  ]
+}

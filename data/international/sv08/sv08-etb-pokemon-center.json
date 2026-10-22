@@ -4,6 +4,7 @@
   "set": "sv08",
   "category": "elite_trainer_box",
   "name": "Surging Sparks Pokémon Center Elite Trainer Box",
+  "identifiers": {"cardmarketProductId": 784964},
   "contentsStatus": "complete",
   "contents": {
     "sealed": [{"product": "sv08-booster", "count": 11}],

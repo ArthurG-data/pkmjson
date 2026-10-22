@@ -1,0 +1,24 @@
+{
+  "id": "swsh8-unova-two-pack-blister-forces-of-nature-trio",
+  "region": "international",
+  "set": "swsh8",
+  "category": "blister",
+  "name": "Unova Two Pack Blister [Forces of Nature Trio]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unova Two Pack Blister [Forces of Nature Trio]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          263545
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/263545/pokemon-swsh08-fusion-strike-unova-two-pack-blister-forces-of-nature-trio"
+      ]
+    }
+  ]
+}

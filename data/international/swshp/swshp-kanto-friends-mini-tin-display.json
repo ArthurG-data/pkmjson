@@ -1,0 +1,24 @@
+{
+  "id": "swshp-kanto-friends-mini-tin-display",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Kanto Friends Mini Tin Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kanto Friends Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          224742
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/224742/pokemon-miscellaneous-cards-and-products-kanto-friends-mini-tin-display"
+      ]
+    }
+  ]
+}

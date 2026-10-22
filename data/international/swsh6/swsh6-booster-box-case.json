@@ -1,0 +1,35 @@
+{
+  "id": "swsh6-booster-box-case",
+  "region": "international",
+  "set": "swsh6",
+  "category": "case",
+  "name": "Chilling Reign Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 668178
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign Booster Box Case",
+      "releaseDate": "2021-06-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236259
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236259/pokemon-swsh06-chilling-reign-chilling-reign-booster-box-case"
+      ]
+    }
+  ]
+}

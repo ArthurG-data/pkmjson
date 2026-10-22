@@ -1,0 +1,32 @@
+{
+  "id": "smp-elemental-power-tin-jolteon-gx",
+  "region": "international",
+  "set": "smp",
+  "category": "tin",
+  "name": "Elemental Power Tin [Jolteon GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a playable deck in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Jolteon GX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Elemental Power Tin [Jolteon GX]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199789
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199789/pokemon-miscellaneous-cards-and-products-elemental-power-tin-jolteon-gx"
+      ]
+    }
+  ]
+}

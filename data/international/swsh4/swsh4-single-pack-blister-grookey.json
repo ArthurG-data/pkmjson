@@ -1,0 +1,41 @@
+{
+  "id": "swsh4-single-pack-blister-grookey",
+  "region": "international",
+  "set": "swsh4",
+  "category": "blister",
+  "name": "Vivid Voltage Single Pack Blister [Grookey]",
+  "identifiers": {
+    "cardmarketProductId": 585810
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Grookey.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Single Pack Blister [Grookey]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221746
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221746/pokemon-swsh04-vivid-voltage-vivid-voltage-single-pack-blister-grookey"
+      ]
+    }
+  ]
+}

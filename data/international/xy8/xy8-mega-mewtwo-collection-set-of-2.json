@@ -1,0 +1,24 @@
+{
+  "id": "xy8-mega-mewtwo-collection-set-of-2",
+  "region": "international",
+  "set": "xy8",
+  "category": "other",
+  "name": "Mega Mewtwo Collection (Set of 2)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Mewtwo Collection (Set of 2)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107116
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107116/pokemon-xy-breakthrough-mega-mewtwo-collection-set-of-2"
+      ]
+    }
+  ]
+}

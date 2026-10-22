@@ -1,0 +1,51 @@
+{
+  "id": "smp-premium-trainer-s-xy-collection",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Premium Trainer's XY Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metal coin featuring a Pikachu head and tail",
+        "count": 1
+      },
+      {
+        "name": "Sets of 65 card sleeves featuring Xerneas and Yveltal",
+        "count": 2
+      },
+      {
+        "name": "Double deck box featuring Xerneas and Yveltal",
+        "count": 1
+      },
+      {
+        "name": "Sets of tournament-ready dice",
+        "count": 2
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      },
+      {
+        "name": "Large, kickstand-style box to hold it all",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Full-art foil promo cards featuring Shaymin EX and Yveltal EX, with special art treatments!; 12 more full-art foil promo cards including Aegislash EX, Jirachi, N (Supporter), more; 2 Pokemon TCG booster packs from the XY Series.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Premium Trainer's XY Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148226
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148226/pokemon-alternate-art-promos-premium-trainers-xy-collection"
+      ]
+    }
+  ]
+}

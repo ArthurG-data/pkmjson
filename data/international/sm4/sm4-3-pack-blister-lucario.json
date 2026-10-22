@@ -1,0 +1,86 @@
+{
+  "id": "sm4-3-pack-blister-lucario",
+  "region": "international",
+  "set": "sm4",
+  "category": "blister",
+  "name": "Crimson Invasion 3 Pack Blister [Lucario]",
+  "identifiers": {
+    "cardmarketProductId": 585986
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm4-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM54",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 153452,
+        "cardmarketProductId": 312547,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crimson Invasion 3 Pack Blister [Lucario]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177873
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177873/pokemon-sm-crimson-invasion-crimson-invasion-3-pack-blister-lucario"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack SL04 Lucario",
+      "releaseDate": "2017-11-04",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 2
+          }
+        ],
+        "cards": [
+          {
+            "tcgdexCardId": "smp-SM54",
+            "tcgdexVariantId": "endfynwn4n10gzq",
+            "tcgplayerProductId": 153452,
+            "cardmarketProductId": 312547,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_SL04_Lucario"
+      ]
+    }
+  ]
+}

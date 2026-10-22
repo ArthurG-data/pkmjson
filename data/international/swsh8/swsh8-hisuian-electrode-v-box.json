@@ -1,0 +1,74 @@
+{
+  "id": "swsh8-hisuian-electrode-v-box",
+  "region": "international",
+  "set": "swsh8",
+  "category": "collection_box",
+  "name": "Hisuian Electrode V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH294",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 451115,
+        "cardmarketProductId": 671806,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Hisuian Electrode V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Electrode; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hisuian Electrode V Box",
+      "releaseDate": "2022-11-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282721
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282721/pokemon-swsh08-fusion-strike-hisuian-electrode-v-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Hisui-Lektrobal-V",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-hisui-lektrobal-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Electrode di Hisui-V",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-electrode-di-hisui-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Electrode de Hisui V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-electrode-de-hisui-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Électrode de Hisui-V",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-electrode-de-hisui-v"
+      ]
+    }
+  ]
+}

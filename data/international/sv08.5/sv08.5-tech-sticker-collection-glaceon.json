@@ -1,0 +1,53 @@
+{
+  "id": "sv08.5-tech-sticker-collection-glaceon",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Tech Sticker Collection [Glaceon]",
+  "identifiers": {
+    "cardmarketProductId": 798927
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Leafeon, Glaceon, or Sylveon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Tech Sticker Collection [Glaceon]",
+      "releaseDate": "2025-01-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593451
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593451/pokemon-sv-prismatic-evolutions-prismatic-evolutions-tech-sticker-collection-glaceon"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection autocollant réajustable Écarlate et Violet Évolutions Prismatiques Givrali",
+      "releaseDate": "2025-01-17",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_autocollant_r%C3%A9ajustable_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques_Givrali"
+      ]
+    }
+  ]
+}

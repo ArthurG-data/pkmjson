@@ -1,0 +1,28 @@
+{
+  "id": "me03-sleeved-booster-pack",
+  "region": "international",
+  "set": "me03",
+  "category": "sleeved_booster_pack",
+  "name": "Perfect Order Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 865409
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order Sleeved Booster Pack",
+      "releaseDate": "2026-03-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672412
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672412/pokemon-me03-perfect-order-perfect-order-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "me02.5-mega-feraligatr-ex-box",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Ascended Heroes Mega Feraligatr ex Box",
+  "identifiers": {
+    "cardmarketProductId": 864109
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "mep-036",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 692118,
+        "cardmarketProductId": 873721,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 oversize lenticular promo card featuring Mega Feraligatr ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Mega Feraligatr ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672735
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672735/pokemon-me-ascended-heroes-ascended-heroes-mega-feraligatr-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Évolution Héros Transcendants Méga-Aligatueur-ex",
+      "releaseDate": "2026-04-24",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-%C3%89volution_H%C3%A9ros_Transcendants_M%C3%A9ga-Aligatueur-ex"
+      ]
+    }
+  ]
+}

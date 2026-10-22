@@ -1,0 +1,51 @@
+{
+  "id": "sm1-spring-2017-collector-s-chest-tin",
+  "region": "international",
+  "set": "sm1",
+  "category": "tin",
+  "name": "Spring 2017 Collector's Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Mini album to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Pencils",
+        "count": 4
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 1 promo card featuring Rowlet; 1 promo card featuring Litten; 1 promo card featuring Popplio.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Spring 2017 Collector's Chest Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          267958
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/267958/pokemon-sm-base-set-spring-2017-collectors-chest-tin"
+      ]
+    }
+  ]
+}

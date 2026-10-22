@@ -1,0 +1,48 @@
+{
+  "id": "sm1-scizor-ex-box",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Scizor EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scizor EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131870
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131870/pokemon-sm-base-set-scizor-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Cizayox-EX",
+      "releaseDate": "2017-10-14",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Cizayox-EX"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Scizor-EX",
+      "releaseDate": "2017-04-21",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-scizor-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Scherox-EX-Box",
+      "releaseDate": "2017-04-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/scherox-ex-box"
+      ]
+    }
+  ]
+}

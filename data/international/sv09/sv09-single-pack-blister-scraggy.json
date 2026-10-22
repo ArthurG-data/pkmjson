@@ -1,0 +1,40 @@
+{
+  "id": "sv09-single-pack-blister-scraggy",
+  "region": "international",
+  "set": "sv09",
+  "category": "blister",
+  "name": "Journey Together Single Pack Blister [Scraggy]",
+  "identifiers": {
+    "cardmarketProductId": 805588
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Scraggy.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Single Pack Blister [Scraggy]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610949
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610949/pokemon-sv09-journey-together-journey-together-single-pack-blister-scraggy"
+      ]
+    }
+  ]
+}

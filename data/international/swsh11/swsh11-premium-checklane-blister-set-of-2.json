@@ -1,0 +1,25 @@
+{
+  "id": "swsh11-premium-checklane-blister-set-of-2",
+  "region": "international",
+  "set": "swsh11",
+  "category": "other",
+  "name": "Lost Origin Premium Checklane Blister [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Premium Checklane Blister [Set of 2]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          278803
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/278803/pokemon-swsh11-lost-origin-lost-origin-premium-checklane-blister-set-of-2"
+      ]
+    }
+  ]
+}

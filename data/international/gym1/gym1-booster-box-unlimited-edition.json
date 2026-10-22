@@ -1,0 +1,31 @@
+{
+  "id": "gym1-booster-box-unlimited-edition",
+  "region": "international",
+  "set": "gym1",
+  "category": "booster_box",
+  "name": "Gym Heroes Booster Box [Unlimited Edition]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "gym1-booster-pack-unlimited-edition",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Heroes Booster Box [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          208708
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/208708/pokemon-gym-heroes-gym-heroes-booster-box-unlimited-edition"
+      ]
+    }
+  ]
+}

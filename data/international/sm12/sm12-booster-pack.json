@@ -1,0 +1,60 @@
+{
+  "id": "sm12-booster-pack",
+  "region": "international",
+  "set": "sm12",
+  "category": "booster_pack",
+  "name": "Cosmic Eclipse Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 398444
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon—Cosmic Eclipse",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199263
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199263/pokemon-sm-cosmic-eclipse-cosmic-eclipse-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-cosmic-eclipse"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Soleil et Lune – Éclipse Cosmique",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_%C3%89clipse_Cosmique",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-eclipse-cosmique"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sonne & Mond – Welten im Wandel",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sonne-mond-welten-im-wandel-build-battle-box",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/sonne-mond-welten-im-wandel"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sol y Luna-Eclipse Cósmico",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-eclipse-cosmico",
+        "https://www.pokemon.com/es/jcc-pokemon/sol-y-luna-eclipse-cosmico"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Sole e Luna - Eclissi Cosmica",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-eclissi-cosmica",
+        "https://www.pokemon.com/it/gcc/sole-e-luna-eclissi-cosmica"
+      ]
+    }
+  ]
+}

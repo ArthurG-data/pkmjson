@@ -1,0 +1,27 @@
+{
+  "id": "dp2-booster-box",
+  "region": "international",
+  "set": "dp2",
+  "category": "booster_box",
+  "name": "Mysterious Treasures Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271904
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Treasures Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98560
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98560/pokemon-mysterious-treasures-mysterious-treasures-booster-box"
+      ]
+    }
+  ]
+}

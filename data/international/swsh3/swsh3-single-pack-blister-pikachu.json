@@ -1,0 +1,41 @@
+{
+  "id": "swsh3-single-pack-blister-pikachu",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Darkness Ablaze Single Pack Blister [Pikachu]",
+  "identifiers": {
+    "cardmarketProductId": 585872
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Pikachu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Single Pack Blister [Pikachu]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216860
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216860/pokemon-swsh03-darkness-ablaze-darkness-ablaze-single-pack-blister-pikachu"
+      ]
+    }
+  ]
+}

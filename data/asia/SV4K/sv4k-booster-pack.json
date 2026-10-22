@@ -1,0 +1,29 @@
+{
+  "id": "sv4k-booster-pack",
+  "region": "asia",
+  "set": "SV4K",
+  "category": "booster_pack",
+  "name": "Ancient Roar Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 732593
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「古代の咆哮」",
+      "releaseDate": "2023-10-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565230
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565230/pokemon-japan-sv4k-ancient-roar-ancient-roar-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E5%8F%A4%E4%BB%A3%E3%81%AE%E5%92%86%E5%93%AE"
+      ]
+    }
+  ]
+}

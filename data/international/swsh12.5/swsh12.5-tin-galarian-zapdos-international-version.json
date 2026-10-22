@@ -1,0 +1,37 @@
+{
+  "id": "swsh12.5-tin-galarian-zapdos-international-version",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "tin",
+  "name": "Crown Zenith Tin [Galarian Zapdos] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a full art promo card featuring: Galarian Articunos, Galarian Zapdos, or Galarian Moltres.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Tin [Galarian Zapdos] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475633
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475633/pokemon-swsh-crown-zenith-crown-zenith-tin-galarian-zapdos-international-version"
+      ]
+    }
+  ]
+}

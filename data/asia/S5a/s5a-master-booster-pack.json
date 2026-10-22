@@ -1,0 +1,26 @@
+{
+  "id": "s5a-master-booster-pack",
+  "region": "asia",
+  "set": "S5a",
+  "category": "booster_pack",
+  "name": "Peerless Fighters Master Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「双璧のファイター」",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565363
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565363/pokemon-japan-s5a-peerless-fighters-peerless-fighters-master-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E5%8F%8C%E7%92%A7%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sv08-3-pack-blisters-zapdos",
+  "region": "international",
+  "set": "sv08",
+  "category": "blister",
+  "name": "Surging Sparks 3 Pack Blisters [Zapdos]",
+  "identifiers": {
+    "cardmarketProductId": 784958
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; 1 foil promotional card of Zapdos.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks 3 Pack Blisters [Zapdos]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565634
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565634/pokemon-sv08-surging-sparks-surging-sparks-3-pack-blisters-zapdos"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack EV08 Électhor",
+      "releaseDate": "2024-11-08",
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_EV08_%C3%89lecthor"
+      ]
+    }
+  ]
+}

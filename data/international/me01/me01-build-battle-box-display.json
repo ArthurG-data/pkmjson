@@ -1,0 +1,28 @@
+{
+  "id": "me01-build-battle-box-display",
+  "region": "international",
+  "set": "me01",
+  "category": "case",
+  "name": "Mega Evolution Build & Battle Box Display",
+  "identifiers": {
+    "cardmarketProductId": 834821
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Build & Battle Box Display",
+      "releaseDate": "2025-10-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644733
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644733/pokemon-me01-mega-evolution-mega-evolution-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sm4-booster-pack",
+  "region": "international",
+  "set": "sm4",
+  "category": "booster_pack",
+  "name": "Crimson Invasion Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 301170
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon—Crimson Invasion",
+      "releaseDate": "2017-11-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          146996
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/146996/pokemon-sm-crimson-invasion-crimson-invasion-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-crimson-invasion"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Soleil et Lune – Invasion Carmin",
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_SL04_Arch%C3%A9duc",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-invasion-carmin"
+      ]
+    }
+  ]
+}

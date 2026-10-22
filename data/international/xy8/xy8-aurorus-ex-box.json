@@ -1,0 +1,44 @@
+{
+  "id": "xy8-aurorus-ex-box",
+  "region": "international",
+  "set": "xy8",
+  "category": "collection_box",
+  "name": "Aurorus EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Aurorus EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117278
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117278/pokemon-xy-breakthrough-aurorus-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dragmara",
+      "releaseDate": "2016-09-07",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 4
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dragmara-EX"
+      ]
+    }
+  ]
+}

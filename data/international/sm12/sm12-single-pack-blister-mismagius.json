@@ -1,0 +1,35 @@
+{
+  "id": "sm12-single-pack-blister-mismagius",
+  "region": "international",
+  "set": "sm12",
+  "category": "blister",
+  "name": "Cosmic Eclipse Single Pack Blister [Mismagius]",
+  "identifiers": {
+    "cardmarketProductId": 585899
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a single booster pack of Cosmic Eclipse; a cosmos holofoil of Mismagius.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Single Pack Blister [Mismagius]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199768
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199768/pokemon-sm-cosmic-eclipse-cosmic-eclipse-single-pack-blister-mismagius"
+      ]
+    }
+  ]
+}

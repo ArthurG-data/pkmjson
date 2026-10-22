@@ -1,0 +1,25 @@
+{
+  "id": "sv10.5w-booster-bundle-case",
+  "region": "international",
+  "set": "sv10.5w",
+  "category": "case",
+  "name": "White Flare Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "White Flare Booster Bundle Case",
+      "releaseDate": "2025-08-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630697
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630697/pokemon-sv-white-flare-white-flare-booster-bundle-case"
+      ]
+    }
+  ]
+}

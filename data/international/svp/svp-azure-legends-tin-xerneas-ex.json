@@ -1,0 +1,42 @@
+{
+  "id": "svp-azure-legends-tin-xerneas-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Azure Legends Tin [Xerneas ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-179",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 619584,
+        "cardmarketProductId": 810394,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Azure Legends Tin [Xerneas ex]",
+      "releaseDate": "2025-02-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616293
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616293/pokemon-miscellaneous-cards-and-products-azure-legends-tin-xerneas-ex"
+      ]
+    }
+  ]
+}

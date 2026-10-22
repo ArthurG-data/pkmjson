@@ -1,0 +1,89 @@
+{
+  "id": "sm3-kommo-o-gx-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Kommo-o GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM71",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 153451,
+        "cardmarketProductId": 313451,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Jumbo version",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kommo-o GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          153454
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/153454/pokemon-sm-burning-shadows-kommo-o-gx-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Ékaïser",
+      "releaseDate": "2017-10-03",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "smp-SM71",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 153451,
+            "cardmarketProductId": 313451,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Jumbo version",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon TCG Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_%C3%89ka%C3%AFser-GX"
+      ]
+    }
+  ]
+}

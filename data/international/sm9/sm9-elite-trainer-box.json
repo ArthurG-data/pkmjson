@@ -1,0 +1,109 @@
+{
+  "id": "sm9-elite-trainer-box",
+  "region": "international",
+  "set": "sm9",
+  "category": "elite_trainer_box",
+  "name": "Team Up Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 366885
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm9-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic GX marker",
+        "count": 1
+      },
+      {
+        "name": "Collector's box",
+        "count": 1
+      },
+      {
+        "name": "Dividers",
+        "count": 4
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Elite Trainer Box",
+      "releaseDate": "2019-02-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181704
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181704/pokemon-sm-team-up-team-up-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Soleil et Lune Duo de Choc",
+      "releaseDate": "2019-02-01",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Duo_de_Choc"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Sonne & Mond – Teams sind Trumpf",
+      "releaseDate": "2019-02-01",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-teams-sind-trumpf"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Unión de Aliados",
+      "releaseDate": "2019-02-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-union-de-aliados"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Gioco di Squadra",
+      "releaseDate": "2019-02-01",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-gioco-di-squadra"
+      ]
+    }
+  ]
+}

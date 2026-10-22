@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pokemon-poke-ball-tin-dusk-ball",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Dusk Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Dusk Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214268
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214268/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-dusk-ball"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv03.5-151-mini-tin-display",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "case",
+  "name": "151 Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 719711
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502008
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502008/pokemon-sv-scarlet-and-violet-151-151-mini-tin-display"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini-boîte Écarlate et Violet 151",
+      "sources": [
+        "https://www.pokepedia.fr/Mini-bo%C3%AEte_%C3%89carlate_et_Violet_151"
+      ]
+    }
+  ]
+}

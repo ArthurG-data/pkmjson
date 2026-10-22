@@ -1,0 +1,38 @@
+{
+  "id": "bw4-theme-deck-voltage-vortex-zekrom",
+  "region": "international",
+  "set": "bw4",
+  "category": "theme_deck",
+  "name": "Next Destinies Theme Deck - \"Voltage Vortex\" [Zekrom]",
+  "identifiers": {
+    "cardmarketProductId": 286551
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Next Destinies Theme Deck - \"Voltage Vortex\" [Zekrom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98634
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98634/pokemon-next-destinies-next-destinies-theme-deck-voltage-vortex-zekrom"
+      ]
+    }
+  ]
+}

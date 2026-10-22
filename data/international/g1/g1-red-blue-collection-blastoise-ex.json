@@ -1,0 +1,32 @@
+{
+  "id": "g1-red-blue-collection-blastoise-ex",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Red & Blue Collection [Blastoise EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Red & Blue Collection [Blastoise EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118795
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118795/pokemon-generations-red-and-blue-collection-blastoise-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Rouge & Bleu Tortank",
+      "releaseDate": "2016-06-18",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Rouge_%26_Bleu_Tortank-EX"
+      ]
+    }
+  ]
+}

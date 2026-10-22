@@ -1,0 +1,67 @@
+{
+  "id": "svp-fall-2025-collector-chest",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Fall 2025 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coin featuring Mega Lucario",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheetsv",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 Pokémon TCG booster packs; 1 promo card featuring Ralts; 1 promo card featuring Kirlia; 1 promo card featuring Riolu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2025 Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654593
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654593/pokemon-miscellaneous-cards-and-products-fall-2025-collector-chest"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2025)",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2025"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2025)",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/maletin-de-coleccionistas-otono-2025"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (automne 2025)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2025"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (autunno 2025)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-autunno-2025"
+      ]
+    }
+  ]
+}

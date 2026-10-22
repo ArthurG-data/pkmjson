@@ -1,0 +1,41 @@
+{
+  "id": "swsh6-3-pack-blister-snorlax",
+  "region": "international",
+  "set": "swsh6",
+  "category": "blister",
+  "name": "Chilling Reign 3 Pack Blister [Snorlax]",
+  "identifiers": {
+    "cardmarketProductId": 585724
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Snorlax.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign 3 Pack Blister [Snorlax]",
+      "releaseDate": "2021-06-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236269
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236269/pokemon-swsh06-chilling-reign-chilling-reign-3-pack-blister-snorlax"
+      ]
+    }
+  ]
+}

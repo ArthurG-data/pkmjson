@@ -1,0 +1,38 @@
+{
+  "id": "dp2-theme-deck-armor-fortress",
+  "region": "international",
+  "set": "dp2",
+  "category": "theme_deck",
+  "name": "Mysterious Treasures Theme Deck - \"Armor Fortress\"",
+  "identifiers": {
+    "cardmarketProductId": 286581
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Treasures Theme Deck - \"Armor Fortress\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229177
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229177/pokemon-mysterious-treasures-mysterious-treasures-theme-deck-armor-fortress"
+      ]
+    }
+  ]
+}

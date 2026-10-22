@@ -1,0 +1,25 @@
+{
+  "id": "svp-houndstone-ex-box-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Houndstone ex Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Houndstone ex Box Case",
+      "releaseDate": "2024-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          561885
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/561885/pokemon-miscellaneous-cards-and-products-houndstone-ex-box-case"
+      ]
+    }
+  ]
+}

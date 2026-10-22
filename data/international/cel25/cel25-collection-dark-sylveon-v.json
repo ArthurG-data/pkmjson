@@ -1,0 +1,40 @@
+{
+  "id": "cel25-collection-dark-sylveon-v",
+  "region": "international",
+  "set": "cel25",
+  "category": "collection_box",
+  "name": "Celebrations Collection [Dark Sylveon V]",
+  "identifiers": {
+    "cardmarketProductId": 570892
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil Oversize Card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: One Foil Promo Card; Two Additional Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Collection [Dark Sylveon V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242809
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242809/pokemon-celebrations-celebrations-collection-dark-sylveon-v"
+      ]
+    }
+  ]
+}

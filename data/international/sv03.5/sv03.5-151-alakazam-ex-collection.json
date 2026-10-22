@@ -1,0 +1,79 @@
+{
+  "id": "sv03.5-151-alakazam-ex-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "collection_box",
+  "name": "151: Alakazam ex Collection",
+  "identifiers": {
+    "cardmarketProductId": 719699
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-050",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 518868,
+        "cardmarketProductId": 720394,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Kadabra; 1 foil card featuring Abra.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151: Alakazam ex Collection",
+      "releaseDate": "2023-10-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502006
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502006/pokemon-sv-scarlet-and-violet-151-151-alakazam-ex-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Écarlate et Violet – 151 – Collection Alakazam-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/ecarlate-et-violet-151-collection-alakazam-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Karmesin & Purpur – 151: Simsala‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-simsala-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Alakazam ex de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-alakazam-ex-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Alakazam‑ex dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-alakazam-ex-dellespansione-scarlatto-e-violetto-151"
+      ]
+    }
+  ]
+}

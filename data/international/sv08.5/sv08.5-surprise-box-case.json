@@ -1,0 +1,25 @@
+{
+  "id": "sv08.5-surprise-box-case",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "case",
+  "name": "Prismatic Evolutions Surprise Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Surprise Box Case",
+      "releaseDate": "2025-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          598470
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/598470/pokemon-sv-prismatic-evolutions-prismatic-evolutions-surprise-box-case"
+      ]
+    }
+  ]
+}

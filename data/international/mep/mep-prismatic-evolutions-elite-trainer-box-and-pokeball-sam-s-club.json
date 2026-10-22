@@ -1,0 +1,24 @@
+{
+  "id": "mep-prismatic-evolutions-elite-trainer-box-and-pokeball-sam-s-club",
+  "region": "international",
+  "set": "mep",
+  "category": "elite_trainer_box",
+  "name": "Prismatic Evolutions Elite Trainer Box and Pokeball (Sam's Club)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Eevee; 3 Pokémon Booster Packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Elite Trainer Box and Pokeball (Sam's Club)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644852
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644852/pokemon-miscellaneous-cards-and-products-prismatic-evolutions-elite-trainer-box-and-pokeball-sams-club"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "svp-heavy-hitters-premium-collection-fall-2023",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Heavy Hitters Premium Collection (Fall 2023)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Lucario V",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coins",
+        "count": 4
+      },
+      {
+        "name": "Code card usable in either the Pokémon TCG Online or Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Lucario V; 1 promo card featuring Tyranitar V; 1 promo card featuring Lucario; 1 promo card featuring Tyranitar; 14 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Heavy Hitters Premium Collection (Fall 2023)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          529698
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/529698/pokemon-miscellaneous-cards-and-products-heavy-hitters-premium-collection-fall-2023"
+      ]
+    }
+  ]
+}

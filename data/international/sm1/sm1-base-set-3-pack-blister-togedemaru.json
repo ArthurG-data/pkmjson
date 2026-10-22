@@ -1,0 +1,37 @@
+{
+  "id": "sm1-base-set-3-pack-blister-togedemaru",
+  "region": "international",
+  "set": "sm1",
+  "category": "blister",
+  "name": "Sun & Moon Base Set 3 Pack Blister [Togedemaru]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "base1-booster-pack-revised-unlimited-edition",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Togedemaru.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Base Set 3 Pack Blister [Togedemaru]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          126052
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/126052/pokemon-sm-base-set-sun-and-moon-base-set-3-pack-blister-togedemaru"
+      ]
+    }
+  ]
+}

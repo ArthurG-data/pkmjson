@@ -1,0 +1,27 @@
+{
+  "id": "ex13-holon-phantoms-booster-box",
+  "region": "international",
+  "set": "ex13",
+  "category": "booster_box",
+  "name": "Holon Phantoms Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271915
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Holon Phantoms Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98523
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98523/pokemon-ex-holon-phantoms-holon-phantoms-booster-box"
+      ]
+    }
+  ]
+}

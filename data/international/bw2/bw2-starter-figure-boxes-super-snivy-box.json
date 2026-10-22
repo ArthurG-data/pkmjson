@@ -1,0 +1,41 @@
+{
+  "id": "bw2-starter-figure-boxes-super-snivy-box",
+  "region": "international",
+  "set": "bw2",
+  "category": "collection_box",
+  "name": "Starter Figure Boxes: Super Snivy Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "bw2-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Snivy figure",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a jumbo promo card of ________'s Snivy; a cosmo holofoil of Snivy.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Starter Figure Boxes: Super Snivy Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177530
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177530/pokemon-emerging-powers-starter-figure-boxes-super-snivy-box"
+      ]
+    }
+  ]
+}

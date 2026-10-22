@@ -1,0 +1,31 @@
+{
+  "id": "svp-triple-whammy-tin-tyranitar",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Triple Whammy Tin [Tyranitar]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A set of 3 foil cards: either Larvitar, Pupitar, Tyranitar, Sableye, Spiritomb, Darkrai, or Slakoth, Vigoroth, Slaking; 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Whammy Tin [Tyranitar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          591145
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/591145/pokemon-miscellaneous-cards-and-products-triple-whammy-tin-tyranitar"
+      ]
+    }
+  ]
+}

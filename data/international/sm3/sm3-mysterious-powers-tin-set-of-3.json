@@ -1,0 +1,24 @@
+{
+  "id": "sm3-mysterious-powers-tin-set-of-3",
+  "region": "international",
+  "set": "sm3",
+  "category": "other",
+  "name": "Mysterious Powers Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo of the respective Pokemon featured on the tin; 4 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Powers Tin [Set of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148421
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148421/pokemon-sm-burning-shadows-mysterious-powers-tin-set-of-3"
+      ]
+    }
+  ]
+}

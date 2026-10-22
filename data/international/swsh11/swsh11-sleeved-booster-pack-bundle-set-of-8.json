@@ -1,0 +1,25 @@
+{
+  "id": "swsh11-sleeved-booster-pack-bundle-set-of-8",
+  "region": "international",
+  "set": "swsh11",
+  "category": "other",
+  "name": "Lost Origin Sleeved Booster Pack Bundle [Set of 8]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sleeved Booster Packs of Sword & Shield—Lost Origin; 10 random cards; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Sleeved Booster Pack Bundle [Set of 8]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          278804
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/278804/pokemon-swsh11-lost-origin-lost-origin-sleeved-booster-pack-bundle-set-of-8"
+      ]
+    }
+  ]
+}

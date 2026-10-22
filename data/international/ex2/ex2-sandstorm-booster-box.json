@@ -1,0 +1,27 @@
+{
+  "id": "ex2-sandstorm-booster-box",
+  "region": "international",
+  "set": "ex2",
+  "category": "booster_box",
+  "name": "Sandstorm Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271919
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sandstorm Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98564
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98564/pokemon-ex-sandstorm-sandstorm-booster-box"
+      ]
+    }
+  ]
+}

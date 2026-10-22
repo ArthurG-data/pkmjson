@@ -1,0 +1,29 @@
+{
+  "id": "svd-ex-start-deck-fire-victini",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Fire Victini",
+  "identifiers": {
+    "cardmarketProductId": 712634
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "exスタートデッキ 炎 ビクティニ",
+      "releaseDate": "2023-07-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594595
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594595/pokemon-japan-sv-ex-start-decks-ex-start-deck-fire-victini",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=ex%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%AD+%E7%82%8E+%E3%83%93%E3%82%AF%E3%83%86%E3%82%A3%E3%83%8B"
+      ]
+    }
+  ]
+}

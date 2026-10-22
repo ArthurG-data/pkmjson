@@ -1,0 +1,31 @@
+{
+  "id": "swsh1-single-blister-pack-type-null-silvally",
+  "region": "international",
+  "set": "swsh1",
+  "category": "blister",
+  "name": "Sword & Shield Single Blister Pack [Type:Null & Silvally]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Type:Null, Silvally.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Single Blister Pack [Type:Null & Silvally]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          665630
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/665630/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-single-blister-pack-typenull-and-silvally"
+      ]
+    }
+  ]
+}

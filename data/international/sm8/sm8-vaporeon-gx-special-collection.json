@@ -1,0 +1,46 @@
+{
+  "id": "sm8-vaporeon-gx-special-collection",
+  "region": "international",
+  "set": "sm8",
+  "category": "collection_box",
+  "name": "Vaporeon GX Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM172",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 183567,
+        "cardmarketProductId": 369357,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Holofoil jumbo card featuring Vaporeon GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo card featuring Eevee GX; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vaporeon GX Special Collection",
+      "releaseDate": "2019-01-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181710
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181710/pokemon-sm-lost-thunder-vaporeon-gx-special-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sv04-build-battle-box-display",
+  "region": "international",
+  "set": "sv04",
+  "category": "case",
+  "name": "Paradox Rift Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514069
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514069/pokemon-sv04-paradox-rift-paradox-rift-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

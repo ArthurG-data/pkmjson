@@ -1,0 +1,38 @@
+{
+  "id": "dp5-theme-deck-polar-frost",
+  "region": "international",
+  "set": "dp5",
+  "category": "theme_deck",
+  "name": "Majestic Dawn Theme Deck - \"Polar Frost\"",
+  "identifiers": {
+    "cardmarketProductId": 286589
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Majestic Dawn Theme Deck - \"Polar Frost\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229132
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229132/pokemon-majestic-dawn-majestic-dawn-theme-deck-polar-frost"
+      ]
+    }
+  ]
+}

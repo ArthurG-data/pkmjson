@@ -1,0 +1,24 @@
+{
+  "id": "sm1-gx-challenge-box-primarina",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Sun & Moon GX Challenge Box [Primarina]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play theme deck; 2 Sun & Moon booster packs; 1 water web holo of Primarina; 1 Primarina GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon GX Challenge Box [Primarina]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656996
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656996/pokemon-sm-base-set-sun-and-moon-gx-challenge-box-primarina"
+      ]
+    }
+  ]
+}

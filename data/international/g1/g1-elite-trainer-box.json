@@ -1,0 +1,27 @@
+{
+  "id": "g1-elite-trainer-box",
+  "region": "international",
+  "set": "g1",
+  "category": "elite_trainer_box",
+  "name": "Generations Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 293302
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Generations Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123741
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123741/pokemon-generations-generations-elite-trainer-box"
+      ]
+    }
+  ]
+}

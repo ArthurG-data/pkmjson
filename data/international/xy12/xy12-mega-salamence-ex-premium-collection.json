@@ -1,0 +1,32 @@
+{
+  "id": "xy12-mega-salamence-ex-premium-collection",
+  "region": "international",
+  "set": "xy12",
+  "category": "premium_collection",
+  "name": "Mega Salamence EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Salamence EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          125737
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/125737/pokemon-xy-evolutions-mega-salamence-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Drattak",
+      "releaseDate": "2017-09-29",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Drattak-EX"
+      ]
+    }
+  ]
+}

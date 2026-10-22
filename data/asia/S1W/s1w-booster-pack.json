@@ -1,0 +1,29 @@
+{
+  "id": "s1w-booster-pack",
+  "region": "asia",
+  "set": "S1W",
+  "category": "booster_pack",
+  "name": "Sword Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 468309
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「ソード」",
+      "releaseDate": "2019-12-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574619
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574619/pokemon-japan-s1w-sword-sword-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%BD%E3%83%BC%E3%83%89"
+      ]
+    }
+  ]
+}

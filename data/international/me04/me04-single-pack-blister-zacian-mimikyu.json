@@ -1,0 +1,31 @@
+{
+  "id": "me04-single-pack-blister-zacian-mimikyu",
+  "region": "international",
+  "set": "me04",
+  "category": "blister",
+  "name": "Chaos Rising Single Pack Blister [Zacian/Mimikyu]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 promotional cards. (Pokemon TCG booster packs and contents vary by product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Single Pack Blister [Zacian/Mimikyu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          696144
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/696144/pokemon-me04-chaos-rising-chaos-rising-single-pack-blister-zacian-mimikyu"
+      ]
+    }
+  ]
+}

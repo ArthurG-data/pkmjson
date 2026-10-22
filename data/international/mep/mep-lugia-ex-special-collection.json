@@ -1,0 +1,36 @@
+{
+  "id": "mep-lugia-ex-special-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Lugia ex Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Lugia ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Lugia ex; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lugia ex Special Collection",
+      "releaseDate": "2025-11-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          665038
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/665038/pokemon-miscellaneous-cards-and-products-lugia-ex-special-collection"
+      ]
+    }
+  ]
+}

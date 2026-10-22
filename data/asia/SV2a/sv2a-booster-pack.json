@@ -1,0 +1,29 @@
+{
+  "id": "sv2a-booster-pack",
+  "region": "asia",
+  "set": "SV2a",
+  "category": "booster_pack",
+  "name": "Pokemon Card 151 Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 704498
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「ポケモンカード151（イチゴーイチ）」",
+      "releaseDate": "2023-06-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565242
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565242/pokemon-japan-sv2a-pokemon-card-151-pokemon-card-151-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89151%EF%BC%88%E3%82%A4%E3%83%81%E3%82%B4%E3%83%BC%E3%82%A4%E3%83%81%EF%BC%89"
+      ]
+    }
+  ]
+}

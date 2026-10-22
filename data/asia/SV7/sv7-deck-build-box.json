@@ -1,0 +1,45 @@
+{
+  "id": "sv7-deck-build-box",
+  "region": "asia",
+  "set": "SV7",
+  "category": "collection_box",
+  "name": "Stellar Miracle Deck Build Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv7-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Special Energy, & 96 Basic Energy)",
+        "count": 6
+      },
+      {
+        "name": "4x deck box dividers",
+        "count": 1
+      },
+      {
+        "name": "1x acrylic VSTAR marker",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A fixed card assortment of 171 total cards (16 Pokémon; 53 Trainer; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Stellar Miracle Deck Build Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565215
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565215/pokemon-japan-sv7-stellar-miracle-stellar-miracle-deck-build-box"
+      ]
+    }
+  ]
+}

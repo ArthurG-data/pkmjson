@@ -1,0 +1,32 @@
+{
+  "id": "svp-pokemon-poke-ball-tin-lure-ball",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Lure Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Lure Ball",
+      "releaseDate": "2023-09-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516987
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516987/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-lure-ball"
+      ]
+    }
+  ]
+}

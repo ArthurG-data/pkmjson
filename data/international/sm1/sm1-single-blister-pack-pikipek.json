@@ -1,0 +1,34 @@
+{
+  "id": "sm1-single-blister-pack-pikipek",
+  "region": "international",
+  "set": "sm1",
+  "category": "blister",
+  "name": "Sun & Moon Single Blister Pack [Pikipek]",
+  "identifiers": {
+    "cardmarketProductId": 586015
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Rockruff.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Single Blister Pack [Pikipek]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231690
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231690/pokemon-sm-base-set-sun-and-moon-single-blister-pack-pikipek"
+      ]
+    }
+  ]
+}

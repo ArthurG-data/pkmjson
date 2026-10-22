@@ -1,0 +1,32 @@
+{
+  "id": "me02-booster-bundle-case",
+  "region": "international",
+  "set": "me02",
+  "category": "case",
+  "name": "Phantasmal Flames Booster Bundle Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-bundle",
+        "count": 25
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Booster Bundle Case",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654162
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654162/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-bundle-case"
+      ]
+    }
+  ]
+}

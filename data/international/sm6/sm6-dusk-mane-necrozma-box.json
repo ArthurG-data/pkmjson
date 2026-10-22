@@ -1,0 +1,31 @@
+{
+  "id": "sm6-dusk-mane-necrozma-box",
+  "region": "international",
+  "set": "sm6",
+  "category": "collection_box",
+  "name": "Dusk Mane Necrozma Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Jumbo foil Dusk Mane Necrozma-GX",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Never-before-seen foil promo cards of Dusk Mane Necrozma (SM124); Three booster packs; Code Card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dusk Mane Necrozma Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          246415
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/246415/pokemon-sm-forbidden-light-dusk-mane-necrozma-box"
+      ]
+    }
+  ]
+}

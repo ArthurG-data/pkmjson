@@ -1,0 +1,41 @@
+{
+  "id": "swsh10-premium-checklane-blister-steelix",
+  "region": "international",
+  "set": "swsh10",
+  "category": "blister",
+  "name": "Astral Radiance Premium Checklane Blister [Steelix]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Premium Checklane Blister [Steelix]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          489341
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/489341/pokemon-swsh10-astral-radiance-astral-radiance-premium-checklane-blister-steelix"
+      ]
+    }
+  ]
+}

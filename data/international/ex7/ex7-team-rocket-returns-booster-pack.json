@@ -1,0 +1,28 @@
+{
+  "id": "ex7-team-rocket-returns-booster-pack",
+  "region": "international",
+  "set": "ex7",
+  "category": "booster_pack",
+  "name": "Team Rocket Returns Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271869
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Team Rocket Returns",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98578
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98578/pokemon-ex-team-rocket-returns-team-rocket-returns-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-team-rocket-returns"
+      ]
+    }
+  ]
+}

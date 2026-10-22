@@ -1,0 +1,36 @@
+{
+  "id": "bw6-booster-pack",
+  "region": "international",
+  "set": "bw6",
+  "category": "booster_pack",
+  "name": "Dragons Exalted Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271827
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White—Dragons Exalted",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98541
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98541/pokemon-dragons-exalted-dragons-exalted-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-dragons-exalted"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Noir & Blanc – Dragons Exaltés",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-dragons-exaltes"
+      ]
+    }
+  ]
+}

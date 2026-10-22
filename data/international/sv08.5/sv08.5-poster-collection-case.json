@@ -1,0 +1,24 @@
+{
+  "id": "sv08.5-poster-collection-case",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "case",
+  "name": "Prismatic Evolutions Poster Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Poster Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          598486
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/598486/pokemon-sv-prismatic-evolutions-prismatic-evolutions-poster-collection-case"
+      ]
+    }
+  ]
+}

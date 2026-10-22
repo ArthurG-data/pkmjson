@@ -1,0 +1,34 @@
+{
+  "id": "me01-single-pack-blister-lycanroc",
+  "region": "international",
+  "set": "me01",
+  "category": "blister",
+  "name": "Mega Evolution Single Pack Blister [Lycanroc]",
+  "identifiers": {
+    "cardmarketProductId": 834814
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Single Pack Blister [Lycanroc]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          657490
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/657490/pokemon-me01-mega-evolution-mega-evolution-single-pack-blister-lycanroc"
+      ]
+    }
+  ]
+}

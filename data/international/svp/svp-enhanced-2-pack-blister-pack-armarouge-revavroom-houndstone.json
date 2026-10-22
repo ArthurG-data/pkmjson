@@ -1,0 +1,31 @@
+{
+  "id": "svp-enhanced-2-pack-blister-pack-armarouge-revavroom-houndstone",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Enhanced 2-Pack Blister Pack [Armarouge, Revavroom & Houndstone]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three foil cards; two booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Enhanced 2-Pack Blister Pack [Armarouge, Revavroom & Houndstone]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616953
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616953/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-armarouge-revavroom-and-houndstone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2689 @@
+[
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2014-world-championships-decks",
+  "title": "2014 Pokémon TCG World Championships Decks",
+  "reason": "no family",
+  "score": 0.29
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2015-world-championships-decks",
+  "title": "2015 Pokémon TCG World Championships Decks",
+  "reason": "no family",
+  "score": 0.29
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2016-world-championships-deck",
+  "title": "2016 Pokémon TCG World Championships Deck",
+  "reason": "no family",
+  "score": 0.36
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2017-pokemon-tcg-world-championships-deck",
+  "title": "2017 Pokémon TCG World Championships Deck",
+  "reason": "no family",
+  "score": 0.55
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks",
+  "title": "2018 Pokémon TCG World Championships Decks",
+  "reason": "no family",
+  "score": 0.36
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2019-pokemon-tcg-world-championships-deck",
+  "title": "2019 Pokémon TCG World Championships Deck",
+  "reason": "no family",
+  "score": 0.55
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2022-pokemon-tcg-world-championships-decks",
+  "title": "2022 Pokémon TCG World Championships Decks",
+  "reason": "no family",
+  "score": 0.25
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2023-pokemon-tcg-world-championships-decks",
+  "title": "2023 Pokémon TCG World Championships Decks",
+  "reason": "no family",
+  "score": 0.33
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/2024-pokemon-tcg-world-championships-decks",
+  "title": "2024 Pokémon TCG World Championships Decks",
+  "reason": "no family",
+  "score": 0.36
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pokemon-sammelkartenspiel-alola-kollektion",
+  "family": "xy12-alola-collection-lunala",
+  "reason": "de page states other packs",
+  "stated": 3,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-alola-de-jcc-pokemon",
+  "family": "xy12-alola-collection-lunala",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezion-alola-del-gcc-pokemon",
+  "family": "xy12-alola-collection-lunala",
+  "reason": "it page states other packs",
+  "stated": 3,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pokemon-sammelkartenspiel-alola-kollektion",
+  "family": "xy12-alola-collection-solgaleo",
+  "reason": "de page states other packs",
+  "stated": 3,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-alola-de-jcc-pokemon",
+  "family": "xy12-alola-collection-solgaleo",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezion-alola-del-gcc-pokemon",
+  "family": "xy12-alola-collection-solgaleo",
+  "reason": "it page states other packs",
+  "stated": 3,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/alola-trio-pin-blister",
+  "title": "Alola Trio Pin Blister",
+  "reason": "no family",
+  "score": 0.44
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-statuina-arceus-v",
+  "family": "swsh9-arceus-v-figure-collection",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-azur",
+  "family": "svp-azure-legends-tin-dialga-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-cerulee",
+  "family": "svp-azure-legends-tin-dialga-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-azules",
+  "family": "svp-azure-legends-tin-dialga-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-azur-legenden",
+  "family": "svp-azure-legends-tin-dialga-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-azur",
+  "family": "svp-azure-legends-tin-kyogre-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-cerulee",
+  "family": "svp-azure-legends-tin-kyogre-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-azules",
+  "family": "svp-azure-legends-tin-kyogre-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-azur-legenden",
+  "family": "svp-azure-legends-tin-kyogre-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-azur",
+  "family": "svp-azure-legends-tin-xerneas-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-cerulee",
+  "family": "svp-azure-legends-tin-xerneas-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-azules",
+  "family": "svp-azure-legends-tin-xerneas-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-azur-legenden",
+  "family": "svp-azure-legends-tin-xerneas-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-boltund-v",
+  "family": "swshp-boltund-v-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/bw-kalos-figure-box",
+  "title": "Chespin—Fennekin—Froakie Figure Box",
+  "reason": "no family",
+  "score": 0.36
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/bw-legendary-dragons-collection",
+  "title": "Legendary Dragons of Unova Collection",
+  "reason": "no family",
+  "score": 0.33
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-collection-dragapult-prime",
+  "family": "cel25-collection-dragapult-prime",
+  "reason": "English page states other packs",
+  "stated": 3,
+  "ours": 2
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-collection-lances-charizard-v-and-celebrations-collection-dark-sylveon-v",
+  "family": "cel25-collection-lance-s-charizard-v",
+  "reason": "English page states other packs",
+  "stated": 6,
+  "ours": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-collection-lances-charizard-v-and-celebrations-collection-dark-sylveon-v",
+  "family": "cel25-collection-dark-sylveon-v",
+  "reason": "English page states other packs",
+  "stated": 6,
+  "ours": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-collector-chest",
+  "family": "cel25-collector-chest",
+  "reason": "English page states other packs",
+  "stated": 8,
+  "ours": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-deluxe-pin-collection",
+  "family": "cel25-deluxe-pin-collection-zacian-lv-x",
+  "reason": "English page states other packs",
+  "stated": 6,
+  "ours": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-elite-trainer-box",
+  "family": "cel25-elite-trainer-box",
+  "reason": "English page states other packs",
+  "stated": 15,
+  "ours": 10
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-premium-figure-collection-pikachu-vmax",
+  "family": "cel25-premium-figure-collection-pikachu-vmax",
+  "reason": "English page states other packs",
+  "stated": 11,
+  "ours": 8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-prime-collection",
+  "family": "cel25-prime-collection",
+  "reason": "English page states other packs",
+  "stated": 5,
+  "ours": 3
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-special-collection-pikachu-v-union",
+  "family": "cel25-collection-pikachu-v-union",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-special-collection-v-memories",
+  "family": "cel25-special-collection-v-memories",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/celebrations-ultra-premium-collection",
+  "family": "cel25-ultra-premium-collection",
+  "reason": "English page states other packs",
+  "stated": 25,
+  "ours": 17
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-silembrim-v-der-erweiterung-weg-des-champs",
+  "family": "swsh3.5-collection-hatterene-v",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-hatterene-v-dellespansione-futuri-campioni",
+  "family": "swsh3.5-collection-hatterene-v",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-hatterene-v-de-camino-de-campeones",
+  "family": "swsh3.5-collection-hatterene-v",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/champions-path-pin-collection-ballonlea-spikemuth-and-hammerlocke-gyms",
+  "title": "The",
+  "reason": "no family",
+  "score": 0.0
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/champions-path-pin-collection-ballonlea-spikemuth-and-hammerlocke-gyms",
+  "title": "Champion’s Path Pin Collection: Ballonlea, Spikemuth, and Hammerlocke Gyms",
+  "reason": "no family",
+  "score": 0.71
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/champions-path-pin-collections-turffield-hulbury-and-motostoke-gyms",
+  "title": "Champion’s Path Pin Collections: Turffield, Hulbury, and Motostoke Gyms",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-mary-dellespansione-futuri-campioni",
+  "family": "swsh3.5-premium-collection-marnie",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-roxy-de-camino-de-campeones",
+  "family": "swsh3.5-premium-collection-marnie",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-mary-der-erweiterung-weg-des-champs",
+  "family": "swsh3.5-premium-collection-marnie",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-la-voie-du-maitre-rosemary",
+  "family": "swsh3.5-premium-collection-marnie",
+  "reason": "fr page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/charizard-ex-box-fire-blast",
+  "title": "Charizard-EX Box—Fire Blast",
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collector-bundle",
+  "title": "Collector Bundle",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collector-chest-2015",
+  "family": "xy4-collector-chest",
+  "reason": "family matched twice",
+  "other": "/us/pokemon-tcg/product-gallery/collector-chest-2014"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collector-chest-fall-2022-hisuian-voltorb-hisuian-growlithe-hisuian-sneasel",
+  "title": "Collector Chest (Fall 2022: Hisuian Voltorb/Hisuian Growlithe/Hisuian Sneasel)",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-primavera-2020",
+  "family": "swsh1-spring-2020-collector-s-chest-tin",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collector-chest-spring-2021-single-strike-tepig-rapid-strike-shinx",
+  "title": "Collector Chest (Spring 2021: Single Strike Tepig / Rapid Strike Shinx)",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collector-chest-spring-2022-rowlet-cyndaquil-oshawott",
+  "title": "Collector Chest (Spring 2022: Rowlet/Cyndaquil/Oshawott)",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collector-chest-summer-2023-sprigatito-fuecoco-quaxly",
+  "title": "Collector Chest (Summer 2023: Sprigatito/Fuecoco/Quaxly)",
+  "reason": "no family",
+  "score": 0.55
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collectors-pin-3-pack-articuno-zapdos-moltres",
+  "title": "Collector’s Pin 3-Pack (Articuno, Zapdos, Moltres)",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collectors-pin-3-pack-blister-mega-venusaur-and-mega-blastoise",
+  "title": "Collector’s Pin 3-Pack Blister (Mega Venusaur and Mega Blastoise)",
+  "reason": "no family",
+  "score": 0.71
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collectors-pin-3-pack-blister-raikou-entei-or-suicune",
+  "title": "Collector’s Pin 3-Pack Blister (Raikou, Entei, or Suicune)",
+  "reason": "no family",
+  "score": 0.62
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/collectors-pin-3-pack-blister-volcanion-and-shiny-mega-gardevoir",
+  "title": "Collector’s Pin 3-Pack Blister (Volcanion and Shiny Mega Gardevoir)",
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/crown-zenith-collections-regieleki-v-regidrago-v",
+  "title": "Crown Zenith Collections—Regieleki V / Regidrago V",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-zenit-regale",
+  "family": "swsh12.5-pin-collection-cinderace",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-zenit-regale",
+  "family": "swsh12.5-pin-collection-inteleon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-zenit-regale",
+  "family": "swsh12.5-pin-collection-rillaboom",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pikachu-vmax-dell-espansione-zenit-regale",
+  "family": "swsh12.5-pikachu-vmax-special-collection",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/crown-zenith-tin",
+  "title": "Crown Zenith Tin",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/cyrus-and-klara-premium-tournament-collections",
+  "title": "Cyrus and Klara Premium Tournament Collections",
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/decidueye-gx-incineroar-gx-and-primarina-gx-premium-collections",
+  "title": "Decidueye-GX, Incineroar-GX, and Primarina-GX Premium Collections",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/deck-shield-solgaleo-and-lunala",
+  "title": "Deck Shield",
+  "reason": "no family",
+  "score": 0.33
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/deoxys-v-battle-deck-and-zeraora-v-battle-deck",
+  "title": "Deoxys V Battle Deck and Zeraora V Battle Deck",
+  "reason": "no family",
+  "score": 0.89
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/detective-pikachu-cafe-figure-collection",
+  "family": "det1-cafe-figure-collection",
+  "reason": "English page states other packs",
+  "stated": 6,
+  "ours": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/detective-pikachu-charizard-gx-case-file",
+  "title": "Detective Pikachu Charizard-GX Case File",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/detective-pikachu-collector-chest",
+  "family": "det1-collector-chest",
+  "reason": "English page states other packs",
+  "stated": 9,
+  "ours": 7
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/detective-pikachu-greninja-gx-case-file",
+  "title": "Detective Pikachu Greninja-GX Case File",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/detective-pikachu-on-the-case-figure-collection",
+  "title": "Detective Pikachu On the Case Figure Collection",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/detective-pikachu-tin",
+  "title": "Detective Pikachu Tin",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-divergente-kraefte",
+  "family": "swshp-divergent-powers-tin-hisuian-decidueye-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-divergente-kraefte",
+  "family": "swshp-divergent-powers-tin-hisuian-samurott-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-divergente-kraefte",
+  "family": "swshp-divergent-powers-tin-hisuian-typhlosion-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-leyendas-de-teselia-gx-de-majestad-de-dragones",
+  "family": "sm7.5-legends-of-unova-gx-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-majestaet-der-drachen-legenden-aus-einall-gx",
+  "family": "sm7.5-legends-of-unova-gx-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-leggende-di-unima-gx-dellespansione-trionfo-dei-draghi",
+  "family": "sm7.5-legends-of-unova-gx-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-majeste-des-dragons-legendes-dunys-gx",
+  "family": "sm7.5-legends-of-unova-gx-premium-collection",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/dragon-majesty-pin-collections-latias-and-latios",
+  "title": "Dragon Majesty Pin Collections—Latias and Latios",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektionen-majestaet-der-drachen-brutalanda-gx-weisses-kyurem-gx",
+  "family": "sm7.5-special-collection-salamence-gx",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-salamence-gx-y-kyurem-blanco-gx-de-majestad-de-dragones",
+  "family": "sm7.5-special-collection-salamence-gx",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-salamence-gx-e-collezione-speciale-kyurem-bianco-gx-dellespansione-trionfo-dei-draghi",
+  "family": "sm7.5-special-collection-salamence-gx",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektionen-majestaet-der-drachen-brutalanda-gx-weisses-kyurem-gx",
+  "family": "sm7.5-special-collection-white-kyurem-gx",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-salamence-gx-y-kyurem-blanco-gx-de-majestad-de-dragones",
+  "family": "sm7.5-special-collection-white-kyurem-gx",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-salamence-gx-e-collezione-speciale-kyurem-bianco-gx-dellespansione-trionfo-dei-draghi",
+  "family": "sm7.5-special-collection-white-kyurem-gx",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/dusk-mane-necrozma-and-dawn-wings-necrozma-premium-collections",
+  "title": "Dusk Mane Necrozma and Dawn Wings Necrozma Premium Collections",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/espeon-gx-and-umbreon-gx-premium-collections",
+  "title": "Espeon-GX and Umbreon-GX Premium Collections",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-eternatus-vmax",
+  "family": "swsh3-eternatus-vmax-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-endynalos-vmax",
+  "family": "swsh3-eternatus-vmax-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-tornadus-gx-collezione-thundurus-gx",
+  "family": "sm6-forces-of-nature-gx-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-boreos-gx-und-voltolos-gx",
+  "family": "sm6-forces-of-nature-gx-premium-collection",
+  "reason": "de title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-tornadus-gx-coleccion-thundurus-gx",
+  "family": "sm6-forces-of-nature-gx-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-boreas-gx-coffret-fulguris-gx",
+  "family": "sm6-forces-of-nature-gx-premium-collection",
+  "reason": "fr title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/galar-collection",
+  "title": "Galar Collection",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-companeros-de-galar",
+  "family": "swsh1-galar-partners-tin-cinderace-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-compagni-davventura-di-galar",
+  "family": "swsh1-galar-partners-tin-cinderace-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-galar-partner",
+  "family": "swsh1-galar-partners-tin-cinderace-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-partenaires-de-galar",
+  "family": "swsh1-galar-partners-tin-cinderace-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-companeros-de-galar",
+  "family": "swsh1-galar-partners-tin-inteleon-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-compagni-davventura-di-galar",
+  "family": "swsh1-galar-partners-tin-inteleon-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-galar-partner",
+  "family": "swsh1-galar-partners-tin-inteleon-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-partenaires-de-galar",
+  "family": "swsh1-galar-partners-tin-inteleon-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-companeros-de-galar",
+  "family": "swsh1-galar-partners-tin-rillaboom-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-compagni-davventura-di-galar",
+  "family": "swsh1-galar-partners-tin-rillaboom-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-galar-partner",
+  "family": "swsh1-galar-partners-tin-rillaboom-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-partenaires-de-galar",
+  "family": "swsh1-galar-partners-tin-rillaboom-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/giratina-3-pack-blister",
+  "title": "Giratina 3-Pack Blister",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/heavy-hitters-premium-collection-fall-2023",
+  "title": "The",
+  "reason": "no family",
+  "score": 0.0
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektionen-mewtu-mew-der-pokemon-sammelkartenspiel-erweiterung-verborgenes-schicksal",
+  "family": "sm115-pin-collection-mewtwo",
+  "reason": "de title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-mewtwo-mew-dellespansione-destino-sfuggente",
+  "family": "sm115-pin-collection-mewtwo",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektionen-mewtu-mew-der-pokemon-sammelkartenspiel-erweiterung-verborgenes-schicksal",
+  "family": "sm115-pin-collection-mew",
+  "reason": "de title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-mewtwo-mew-dellespansione-destino-sfuggente",
+  "family": "sm115-pin-collection-mew",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/hidden-fates-tin",
+  "title": "Hidden Fates Tin",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-zoroark-di-hisui-v-astro",
+  "family": "swsh11-hisuian-zoroark-vstar-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-hisui-zoroark-vstar",
+  "family": "swsh11-hisuian-zoroark-vstar-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-zoroark-de-hisui-v-astro",
+  "family": "swsh11-hisuian-zoroark-vstar-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/holiday-calendar",
+  "title": "Holiday Calendar",
+  "reason": "no family",
+  "score": 0.0
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-charizard-ex/calendario-delle-feste-2023",
+  "family": "svp-holiday-calendar-2023",
+  "reason": "it page states other packs",
+  "stated": 12,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/holiday-calendar-2024",
+  "title": "Holiday Calendar",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/holiday-calendar-2025",
+  "title": "Holiday Calendar",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-hoopa-v",
+  "family": "swsh8-hoopa-v-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-calyrex-jinete-glacial-v-y-coleccion-calyrex-jinete-espectral-v",
+  "family": "swsh6-ice-rider-calyrex-v-box",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-calyrex-cavaliere-glaciale-v-e-calyrex-cavaliere-spettrale-v",
+  "family": "swsh6-ice-rider-calyrex-v-box",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-calyrex-jinete-glacial-v-y-coleccion-calyrex-jinete-espectral-v",
+  "family": "swsh6-shadow-rider-calyrex-v-box",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-calyrex-cavaliere-glaciale-v-e-calyrex-cavaliere-spettrale-v",
+  "family": "swsh6-shadow-rider-calyrex-v-box",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-inselwaechter-gx",
+  "family": "sm8-island-guardians-gx-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-protettori-delle-isole-gx",
+  "family": "sm8-island-guardians-gx-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-guardianes-de-las-islas-gx",
+  "family": "sm8-island-guardians-gx-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-gardiens-des-iles-gx",
+  "family": "sm8-island-guardians-gx-premium-collection",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/island-guardians-tin",
+  "title": "Island Guardians Tin",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-kangaskhan-ex-baraja-combate-ex-de-greninja-ex",
+  "family": "svp-ex-battle-deck-kangaskhan-ex",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-ex-kangaskhan-ex-mazzo-lotte-ex-greninja-ex",
+  "family": "svp-ex-battle-deck-kangaskhan-ex",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-kangaskhan-ex-baraja-combate-ex-de-greninja-ex",
+  "family": "svp-ex-battle-deck-greninja-ex",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-ex-kangaskhan-ex-mazzo-lotte-ex-greninja-ex",
+  "family": "svp-ex-battle-deck-greninja-ex",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/kanto-power-collection",
+  "title": "Kanto Power Collection",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-kleavor-v-astro",
+  "family": "swshp-kleavor-vstar-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-axantor-vstar",
+  "family": "swshp-kleavor-vstar-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-kleavor-v-astro",
+  "family": "swshp-kleavor-vstar-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/knock-out-collection-jan-2024",
+  "title": "Knock Out Collection (Jan 2024)",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/knock-out-collection-jan-2025",
+  "title": "Knock Out Collection (Jan 2025)",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/leafeon-vstar-and-glaceon-vstar-special-collections",
+  "title": "Leafeon VSTAR and Glaceon VSTAR Special Collections",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-calyrex-jinete-glacial-vmax-y-baraja-combate-de-liga-de-calyrex-jinete-espectral-vmax",
+  "family": "swshp-league-battle-deck-ice-rider-calyrex-vmax",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-sylveroy-cavalier-du-froid-vmax-deck-combat-de-ligue-sylveroy-cavalier-deffroi-vmax",
+  "family": "swshp-league-battle-deck-ice-rider-calyrex-vmax",
+  "reason": "fr title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-calyrex-cavaliere-glaciale-vmax-e-mazzo-lotte-di-lega-calyrex-cavaliere-spettrale-vmax",
+  "family": "swshp-league-battle-deck-ice-rider-calyrex-vmax",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-calyrex-jinete-glacial-vmax-y-baraja-combate-de-liga-de-calyrex-jinete-espectral-vmax",
+  "family": "swshp-league-battle-deck-shadow-rider-calyrex-vmax",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-sylveroy-cavalier-du-froid-vmax-deck-combat-de-ligue-sylveroy-cavalier-deffroi-vmax",
+  "family": "swshp-league-battle-deck-shadow-rider-calyrex-vmax",
+  "reason": "fr title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-calyrex-cavaliere-glaciale-vmax-e-mazzo-lotte-di-lega-calyrex-cavaliere-spettrale-vmax",
+  "family": "swshp-league-battle-deck-shadow-rider-calyrex-vmax",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/legendary-battle-decks",
+  "title": "Legendary Battle Decks",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/legendary-collection",
+  "title": "Legendary Collection",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-di-galar",
+  "family": "swsh2-legends-of-galar-tin-zacian-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-galar-legenden",
+  "family": "swsh2-legends-of-galar-tin-zacian-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-di-galar",
+  "family": "swsh2-legends-of-galar-tin-zamazenta-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-galar-legenden",
+  "family": "swsh2-legends-of-galar-tin-zamazenta-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-legenden-aus-johto-gx",
+  "family": "sm5-legends-of-johto-gx-premium-collection-box",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-legendes-de-johto-gx",
+  "family": "sm5-legends-of-johto-gx-premium-collection-box",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/lets-play-pikachu-and-lets-play-eevee-theme-decks",
+  "title": "Let’s Play, Pikachu! and Let’s Play, Eevee! Theme Decks",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-lucario-vstar",
+  "family": "swshp-lucario-vstar-premium-collection",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-lucario-v-astro",
+  "family": "swshp-lucario-vstar-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-lucario-v-astro",
+  "family": "swshp-lucario-vstar-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-lucario-vstar",
+  "family": "swshp-lucario-vstar-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-v-de-lycanroc-v-y-baraja-combate-v-de-corviknight-v",
+  "family": "swshp-v-battle-deck-lycanroc-v",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-v-lycanroc-v-mazzo-lotte-v-corviknight-v",
+  "family": "swshp-v-battle-deck-lycanroc-v",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-v-de-lycanroc-v-y-baraja-combate-v-de-corviknight-v",
+  "family": "swshp-v-battle-deck-corviknight-v",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-v-lycanroc-v-mazzo-lotte-v-corviknight-v",
+  "family": "swshp-v-battle-deck-corviknight-v",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-marshadow",
+  "family": "sm4-marshadow-figure-collection",
+  "reason": "it page states other packs",
+  "stated": 3,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-marshadow-de-jcc-pokemon",
+  "family": "sm4-marshadow-figure-collection",
+  "reason": "es page states other packs",
+  "stated": 3,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-marshadow",
+  "family": "sm4-marshadow-figure-collection",
+  "reason": "de page states other packs",
+  "stated": 3,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-alakazam-zygarde-blister",
+  "title": "Mega Alakazam and Zygarde 3-Pack Pin Blister",
+  "reason": "no family",
+  "score": 0.62
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-camerupt-ex-and-mega-sharpedo-ex-premium-collections",
+  "title": "Mega Camerupt-EX and Mega Sharpedo-EX Premium Collections",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-collectors-pin-3-pack",
+  "title": "Mega Evolution Collector’s Pin 3-pack",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-evolution-elite-trainer-box",
+  "title": "Mega Evolution Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.91
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-evolution-phantasmal-flames-elite-trainer-box",
+  "title": "Mega Evolution—Phantasmal Flames Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.83
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-evolution-phantasmal-flames-pokemon-center-elite-trainer-box",
+  "title": "Mega Evolution—Phantasmal Flames Pokémon Center Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mega-garchomp-ex-and-mega-salamence-ex-premium-collections",
+  "title": "Mega Garchomp-EX and Mega Salamence-EX Premium Collections",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-melmetal-ex-baraja-combate-ex-de-houndoom-ex",
+  "family": "svp-ex-battle-deck-melmetal-ex",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-melmetal-ex-baraja-combate-ex-de-houndoom-ex",
+  "family": "svp-ex-battle-deck-houndoom-ex",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-meowth-vmax",
+  "family": "smp-meowth-vmax-special-collection",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-mauzi-vmax",
+  "family": "smp-meowth-vmax-special-collection",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-meowth-vmax",
+  "family": "smp-meowth-vmax-special-collection",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-miaouss-vmax",
+  "family": "smp-meowth-vmax-special-collection",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/mimikyu-ex-box",
+  "title": "Mimikyu ex Box",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/necrozma-prism-tin",
+  "title": "Necrozma Prism Tin",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collections-premium-dialga-originel-vstar-et-palkia-originel-vstar",
+  "family": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-premium-dialga-originale-v-astro-e-palkia-originale-v-astro",
+  "family": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektionen-ur-dialga-vstar-und-ur-palkia-vstar",
+  "family": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-premium-dialga-origen-v-astro-y-palkia-origen-v-astro",
+  "family": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collections-premium-dialga-originel-vstar-et-palkia-originel-vstar",
+  "family": "swsh11-origin-forme-palkia-vstar-premium-collection",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-premium-dialga-originale-v-astro-e-palkia-originale-v-astro",
+  "family": "swsh11-origin-forme-palkia-vstar-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektionen-ur-dialga-vstar-und-ur-palkia-vstar",
+  "family": "swsh11-origin-forme-palkia-vstar-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-premium-dialga-origen-v-astro-y-palkia-origen-v-astro",
+  "family": "swsh11-origin-forme-palkia-vstar-premium-collection",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/paldea-collection",
+  "title": "Paldea Collection",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-de-paldea",
+  "family": "svp-paldea-legends-tin-koraidon-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-paldea-legenden",
+  "family": "svp-paldea-legends-tin-koraidon-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-de-paldea",
+  "family": "svp-paldea-legends-tin-koraidon-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-di-paldea",
+  "family": "svp-paldea-legends-tin-koraidon-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-de-paldea",
+  "family": "svp-paldea-legends-tin-miraidon-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-paldea-legenden",
+  "family": "svp-paldea-legends-tin-miraidon-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-de-paldea",
+  "family": "svp-paldea-legends-tin-miraidon-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-di-paldea",
+  "family": "svp-paldea-legends-tin-miraidon-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-compagni-davventura-di-paldea",
+  "family": "svp-paldea-partners-tin-meowscarada-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-paldea-partner",
+  "family": "svp-paldea-partners-tin-meowscarada-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-companeros-de-paldea",
+  "family": "svp-paldea-partners-tin-meowscarada-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-partenaires-de-paldea",
+  "family": "svp-paldea-partners-tin-meowscarada-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-compagni-davventura-di-paldea",
+  "family": "svp-paldea-partners-tin-quaquaval-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-paldea-partner",
+  "family": "svp-paldea-partners-tin-quaquaval-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-companeros-de-paldea",
+  "family": "svp-paldea-partners-tin-quaquaval-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-partenaires-de-paldea",
+  "family": "svp-paldea-partners-tin-quaquaval-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-compagni-davventura-di-paldea",
+  "family": "svp-paldea-partners-tin-skeledirge-ex",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-paldea-partner",
+  "family": "svp-paldea-partners-tin-skeledirge-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-companeros-de-paldea",
+  "family": "svp-paldea-partners-tin-skeledirge-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-partenaires-de-paldea",
+  "family": "svp-paldea-partners-tin-skeledirge-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/paradox-clash-tin",
+  "title": "Paradox Clash Tin",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/paradox-destinies-tin",
+  "title": "Paradox Destinies Tin",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pikachu-v",
+  "family": "swshp-pikachu-v-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/poke-ball-tin",
+  "title": "Poké Ball Tin",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-pokemon-go-alola-kokowei-v",
+  "family": "swsh10.5-collection-alolan-exeggutor-v",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-pokemon-go",
+  "family": "swsh10.5-elite-trainer-box",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 10
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/pokemon-go-mewtwo-v-battle-deck-pokemon-go-melmetal-v-battle-deck",
+  "title": "Pokémon GO Mewtwo V Battle Deck",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/pokemon-go-mewtwo-v-battle-deck-pokemon-go-melmetal-v-battle-deck",
+  "title": "Pokémon GO Melmetal V Battle Deck",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-pokemon-go",
+  "family": "swsh10.5-mini-tin-blissey",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatole-da-collezione-pokemon-go",
+  "family": "swsh10.5-mini-tin-blissey",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-pokemon-go",
+  "family": "swsh10.5-mini-tin-eevee",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatole-da-collezione-pokemon-go",
+  "family": "swsh10.5-mini-tin-eevee",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-pokemon-go",
+  "family": "swsh10.5-mini-tin-magikarp",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatole-da-collezione-pokemon-go",
+  "family": "swsh10.5-mini-tin-magikarp",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-pokemon-go",
+  "family": "swsh10.5-mini-tin-pikachu",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatole-da-collezione-pokemon-go",
+  "family": "swsh10.5-mini-tin-pikachu",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-pokemon-go",
+  "family": "swsh10.5-mini-tin-snorlax",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatole-da-collezione-pokemon-go",
+  "family": "swsh10.5-mini-tin-snorlax",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-pokemon-go",
+  "family": "swsh10.5-pin-collection-bulbasaur",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-pokemon-go",
+  "family": "swsh10.5-pin-collection-charmander",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-pokemon-go",
+  "family": "swsh10.5-pin-collection-squirtle",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-pokemon-go-strahlendes-evoli",
+  "family": "swsh10.5-premium-collection-radiant-eevee",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pokemon-go-nelle-versioni-squadra-istinto-squadra-saggezza-e-squadra-coraggio",
+  "family": "swsh10.5-special-collection-team-instinct",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-go-team-intuition-team-weisheit-und-team-wagemut",
+  "family": "swsh10.5-special-collection-team-instinct",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pokemon-go-nelle-versioni-squadra-istinto-squadra-saggezza-e-squadra-coraggio",
+  "family": "swsh10.5-special-collection-team-mystic",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-go-team-intuition-team-weisheit-und-team-wagemut",
+  "family": "swsh10.5-special-collection-team-mystic",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pokemon-go-nelle-versioni-squadra-istinto-squadra-saggezza-e-squadra-coraggio",
+  "family": "swsh10.5-special-collection-team-valor",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-go-team-intuition-team-weisheit-und-team-wagemut",
+  "family": "swsh10.5-special-collection-team-valor",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-pokemon-go",
+  "family": "swsh10.5-tin-blissey",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-pokemon-go",
+  "family": "swsh10.5-tin-blissey",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokemon-go",
+  "family": "swsh10.5-tin-blissey",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-pokemon-go",
+  "family": "swsh10.5-tin-pikachu",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-pokemon-go",
+  "family": "swsh10.5-tin-pikachu",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokemon-go",
+  "family": "swsh10.5-tin-pikachu",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-pokemon-go",
+  "family": "swsh10.5-tin-snorlax",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-pokemon-go",
+  "family": "swsh10.5-tin-snorlax",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokemon-go",
+  "family": "swsh10.5-tin-snorlax",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/pokemon-tcg-hoenn-collection",
+  "title": "Hoenn Collection",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/pokemon-tcg-team-rocket-tin",
+  "title": "Team Rocket Tin",
+  "reason": "no family",
+  "score": 0.4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-de-pokemon-v-union-de-jcc-pokemon-mewtwo-greninja-zacian",
+  "family": "swsh7-greninja-v-union-special-collection",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pokemon-v-unione-mewtwo-greninja-zacian",
+  "family": "swsh7-greninja-v-union-special-collection",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-de-pokemon-v-union-de-jcc-pokemon-mewtwo-greninja-zacian",
+  "family": "swsh7-mewtwo-v-union-special-collection",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pokemon-v-unione-mewtwo-greninja-zacian",
+  "family": "swsh7-mewtwo-v-union-special-collection",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-de-pokemon-v-union-de-jcc-pokemon-mewtwo-greninja-zacian",
+  "family": "swsh7-zacian-v-union-special-collection",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pokemon-v-unione-mewtwo-greninja-zacian",
+  "family": "swsh7-zacian-v-union-special-collection",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/power-partnership-tin",
+  "title": "Power Partnership Tin",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-v-de-rayquaza-v-o-noivern-v",
+  "family": "swshp-v-battle-deck-rayquaza-v",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/decks-combat-v-rayquaza-v-ou-bruyverne-v",
+  "family": "swshp-v-battle-deck-rayquaza-v",
+  "reason": "fr title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-v-rayquaza-v-e-mazzo-lotte-v-noivern-v",
+  "family": "swshp-v-battle-deck-rayquaza-v",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-v-de-rayquaza-v-o-noivern-v",
+  "family": "swshp-v-battle-deck-noivern-v",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/decks-combat-v-rayquaza-v-ou-bruyverne-v",
+  "family": "swshp-v-battle-deck-noivern-v",
+  "reason": "fr title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-v-rayquaza-v-e-mazzo-lotte-v-noivern-v",
+  "family": "swshp-v-battle-deck-noivern-v",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-lunaruggente-ex-e-collezione-eroeferreo-ex",
+  "family": "svp-roaring-moon-ex-box",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-bramaluna-ex-coleccion-ferropaladin-ex",
+  "family": "svp-roaring-moon-ex-box",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-lunaruggente-ex-e-collezione-eroeferreo-ex",
+  "family": "svp-iron-valiant-ex-box",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-bramaluna-ex-coleccion-ferropaladin-ex",
+  "family": "svp-iron-valiant-ex-box",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ordner-kollektion-karmesin-purpur-151",
+  "family": "sv03.5-151-binder-collection",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-and-white-flare-booster-bundles",
+  "title": "Scarlet & Violet—Black Bolt and White Flare Booster Bundles",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-binder-collection-scarlet-violet-white-flare-binder-collection",
+  "family": "sv10.5b-binder-collection",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-binder-collection-scarlet-violet-white-flare-binder-collection",
+  "family": "sv10.5w-binder-collection",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-elite-trainer-box-scarlet-violet-white-flare-elite-trainer-box",
+  "family": "sv10.5b-elite-trainer-box",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 9
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-elite-trainer-box-scarlet-violet-white-flare-elite-trainer-box",
+  "family": "sv10.5w-elite-trainer-box",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 9
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-pokemon-center-elite-trainer-box-scarlet-violet-white-flare-pokemon-center-elite-trainer-box",
+  "family": "sv10.5b-pokemon-center-elite-trainer-box-exclusive",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 11
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-black-bolt-pokemon-center-elite-trainer-box-scarlet-violet-white-flare-pokemon-center-elite-trainer-box",
+  "family": "sv10.5w-pokemon-center-elite-trainer-box-exclusive",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 11
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-elite-trainer-box",
+  "title": "Scarlet & Violet Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/build-battle-stadion-karmesin-purpur-obsidianflammen",
+  "family": "sv03-build-battle-stadium",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/build-battle-stadion-karmesin-purpur-entwicklungen-in-paldea",
+  "family": "sv02-build-battle-stadium",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-evoluciones-en-paldea",
+  "family": "sv02-build-battle-stadium",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/lot-de-boosters-ecarlate-et-violet-destinees-de-paldea",
+  "family": "sv04.5-booster-bundle",
+  "reason": "fr page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lote-de-paquetes-de-mejora-de-escarlata-y-purpura-destinos-de-paldea",
+  "family": "sv04.5-booster-bundle",
+  "reason": "es page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-paldean-fates-tin",
+  "title": "Scarlet & Violet—Paldean Fates Tin",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/build-battle-stadion-karmesin-purpur-paradoxrift",
+  "family": "sv04-build-battle-stadium",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-paradox-rift-elite-trainer-box",
+  "title": "Scarlet & Violet—Paradox Rift Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.91
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/lot-de-boosters-ecarlate-et-violet-evolutions-prismatiques",
+  "family": "sv08.5-booster-bundle",
+  "reason": "fr page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/confezione-di-buste-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-booster-bundle",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 6
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-espeon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-flareon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-glaceon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-jolteon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-leafeon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-sylveon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-umbreon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+  "family": "sv08.5-mini-tin-vaporeon",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 2
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-shrouded-fable-mini-tin",
+  "title": "Scarlet & Violet—Shrouded Fable Mini Tin",
+  "reason": "no family",
+  "score": 0.89
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/scarlet-violet-temporal-forces-elite-trainer-box",
+  "title": "Scarlet & Violet—Temporal Forces Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.83
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-con-spilla-festa-di-matti-dellespansione-destino-splendente",
+  "family": "swsh4.5-mad-party-pin-collection-bunnelby",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-con-spilla-festa-di-matti-dellespansione-destino-splendente",
+  "family": "swsh4.5-mad-party-pin-collection-dedenne",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezioni-con-spilla-festa-di-matti-dellespansione-destino-splendente",
+  "family": "swsh4.5-mad-party-pin-collection-polteageist",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-crobat-vmax-cromatico-collezione-premium-dragapult-vmax-cromatico-dellespansione-destino-splendente",
+  "family": "swsh4.5-premium-collection-shiny-crobat",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-crobat-vmax-variocolor-de-destinos-brillantes-coleccion-premium-dragapult-vmax-variocolor-de-destinos-brillantes",
+  "family": "swsh4.5-premium-collection-shiny-crobat",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektionen-schillerndes-iksbat-vmax-und-schillerndes-katapuldra-vmax-der-erweiterung-glaenzendes-schicksal",
+  "family": "swsh4.5-premium-collection-shiny-crobat",
+  "reason": "de title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-crobat-vmax-cromatico-collezione-premium-dragapult-vmax-cromatico-dellespansione-destino-splendente",
+  "family": "swsh4.5-premium-collection-shiny-dragapult",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-crobat-vmax-variocolor-de-destinos-brillantes-coleccion-premium-dragapult-vmax-variocolor-de-destinos-brillantes",
+  "family": "swsh4.5-premium-collection-shiny-dragapult",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektionen-schillerndes-iksbat-vmax-und-schillerndes-katapuldra-vmax-der-erweiterung-glaenzendes-schicksal",
+  "family": "swsh4.5-premium-collection-shiny-dragapult",
+  "reason": "de title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/shining-fates-tin",
+  "title": "Shining Fates Tin",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-leggende-iridescenti",
+  "family": "sm3.5-elite-trainer-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 10
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minicoleccion-marshadow-de-leyendas-luminosas",
+  "family": "sm3.5-pin-collection-marshadow",
+  "reason": "es page states other packs",
+  "stated": 2,
+  "expected": 3
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/minicollezione-marshadow-dellespansione-leggende-iridescenti",
+  "family": "sm3.5-pin-collection-marshadow",
+  "reason": "it page states other packs",
+  "stated": 2,
+  "expected": 3
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/shining-legends-pin-collections-pikachu-and-mewtwo",
+  "title": "Shining Legends Pin Collections—Pikachu and Mewtwo",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-kolossale-kraefte",
+  "family": "sm3.5-super-premium-collection-ho-oh-gx",
+  "reason": "de page states other packs",
+  "stated": 8,
+  "expected": 10
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-pouvoirs-premium-legendes-brillantes",
+  "family": "sm3.5-super-premium-collection-ho-oh-gx",
+  "reason": "fr page states other packs",
+  "stated": 8,
+  "expected": 10
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-poderes-supremos-de-leyendas-luminosas",
+  "family": "sm3.5-super-premium-collection-ho-oh-gx",
+  "reason": "es page states other packs",
+  "stated": 8,
+  "expected": 10
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-poteri-supremi-dellespansione-leggende-iridescenti",
+  "family": "sm3.5-super-premium-collection-ho-oh-gx",
+  "reason": "it page states other packs",
+  "stated": 8,
+  "expected": 10
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/shiny-kalos-tins",
+  "title": "Shiny Kalos Tins",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/shiny-zygarde-gx-box",
+  "title": "Shiny Zygarde-GX Box",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-amigento",
+  "family": "sm4-silvally-figure-collection",
+  "reason": "de page states other packs",
+  "stated": 3,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-silvally",
+  "family": "sm4-silvally-figure-collection",
+  "reason": "it page states other packs",
+  "stated": 3,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-afiladas",
+  "family": "svp-slashing-legends-tin-koraidon-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-tranchantes",
+  "family": "svp-slashing-legends-tin-koraidon-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-schlagkraeftige-legenden",
+  "family": "svp-slashing-legends-tin-koraidon-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-leyendas-afiladas",
+  "family": "svp-slashing-legends-tin-zacian-ex",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-legendes-tranchantes",
+  "family": "svp-slashing-legends-tin-zacian-ex",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-schlagkraeftige-legenden",
+  "family": "svp-slashing-legends-tin-zacian-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/stacking-tin",
+  "title": "Stacking Tin",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/stacking-tin-2025",
+  "title": "Stacking Tin",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/kit-sfida-strategica-dellespansione-eclissi-cosmica",
+  "family": "sm12-build-battle-box",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-combina-y-combate-de-sol-y-luna-eclipse-cosmico",
+  "family": "sm12-build-battle-box",
+  "reason": "es page states other packs",
+  "stated": 5,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boitier-strategies-et-combats-de-soleil-et-lune-eclipse-cosmique",
+  "family": "sm12-build-battle-box",
+  "reason": "fr page states other packs",
+  "stated": 5,
+  "expected": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/sun-moon-elite-trainer-box",
+  "title": "Sun & Moon Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/sword-shield-astral-radiance-build-battle-stadium",
+  "family": "swsh10-build-battle-stadium",
+  "reason": "English page states other packs",
+  "stated": 0,
+  "ours": 4
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/sword-shield-battle-styles-elite-trainer-box",
+  "title": "Sword & Shield—Battle Styles Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.71
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-astri-lucenti",
+  "family": "swsh9-elite-trainer-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/kit-sfida-strategica-dellespansione-spada-e-scudo",
+  "family": "swsh1-build-battle-box",
+  "reason": "it page states other packs",
+  "stated": 5,
+  "expected": 0
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/sword-shield-chilling-reign-elite-trainer-box",
+  "title": "Sword & Shield—Chilling Reign Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.77
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-plus-zacian-oder-zamazenta-der-erweiterung-schwert-schild",
+  "family": "swsh4-elite-trainer-box-plus-zacian",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 12
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-plus-zacian-oder-zamazenta-der-erweiterung-schwert-schild",
+  "family": "swsh4-elite-trainer-box-plus-zamazenta",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 12
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-colpo-fusione",
+  "family": "swsh8-elite-trainer-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/build-battle-stadion-schwert-schild-silberne-sturmwinde",
+  "family": "swsh12-build-battle-stadium",
+  "reason": "de page states other packs",
+  "stated": 0,
+  "expected": 4
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-poderes-supremos-de-espada-y-escudo-charizard",
+  "family": "swsh11-ultra-premium-collection-charizard",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-voltaggio-sfolgorante",
+  "family": "swsh4-elite-trainer-box",
+  "reason": "it page states other packs",
+  "stated": 0,
+  "expected": 8
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-tag-team-generationen",
+  "family": "smp-tag-team-generations-premium-collection",
+  "reason": "de page states other packs",
+  "stated": 6,
+  "expected": 7
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-generazioni-di-alleati",
+  "family": "smp-tag-team-generations-premium-collection",
+  "reason": "it page states other packs",
+  "stated": 6,
+  "expected": 7
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-generations-escouade",
+  "family": "smp-tag-team-generations-premium-collection",
+  "reason": "fr page states other packs",
+  "stated": 6,
+  "expected": 7
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/tag-team-powers-collection",
+  "title": "TAG TEAM Powers Collection",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/tag-team-tins",
+  "title": "TAG TEAM Tins",
+  "reason": "no family",
+  "score": 0.5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/team-skull-pin-collection-featuring-golisopod-gx-and-salazzle-gx",
+  "title": "Team Skull Pin Collection Featuring Golisopod-GX and Salazzle-GX",
+  "reason": "no family",
+  "score": 0.36
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/trainers-toolkit",
+  "title": "Trainer’s Toolkit",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/trainers-toolkit-2021",
+  "title": "Trainer’s Toolkit",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/trainers-toolkit-2023",
+  "title": "Trainer’s Toolkit",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/trick-or-trade-booster-bundle",
+  "title": "Trick or Trade BOOster Bundle",
+  "reason": "no family",
+  "score": 0.44
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/trick-or-trade-booster-bundle-2023",
+  "title": "Trick or Trade BOOster Bundle",
+  "reason": "no family",
+  "score": 0.77
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/trick-or-trade-booster-bundle-2024",
+  "title": "Trick or Trade BOOster Bundle (2024)",
+  "reason": "no family",
+  "score": 0.86
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-power-mal-3",
+  "family": "xy9-triple-power-tin-machamp-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-power-mal-3",
+  "family": "xy9-triple-power-tin-mewtwo-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/ultra-beasts-gx-premium-collections",
+  "title": "Ultra Beasts GX Premium Collections",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-deck-lycanroc-vs-corviknight",
+  "title": "V Battle Deck—Lycanroc vs. Corviknight",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-deck-rayquaza-vs-noivern",
+  "title": "V Battle Deck—Rayquaza vs. Noivern",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-deck-venusaur-vs-blastoise",
+  "title": "V Battle Deck—Venusaur vs. Blastoise",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-deck-victini-vs-gardevoir",
+  "title": "V Battle Deck—Victini vs. Gardevoir",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-deck-zeraora-vs-deoxys",
+  "title": "V Battle Deck—Zeraora vs. Deoxys",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-decks-venusaur-v-and-blastoise-v",
+  "title": "V Battle Decks (Venusaur V and Blastoise V)",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/v-battle-decks-victini-v-and-gardevoir-v",
+  "title": "V Battle Decks (Victini V and Gardevoir V)",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boites-heros-v",
+  "family": "swshp-v-heroes-tin-espeon-v",
+  "reason": "fr page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boites-heros-v",
+  "family": "swshp-v-heroes-tin-sylveon-v",
+  "reason": "fr page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boites-heros-v",
+  "family": "swshp-v-heroes-tin-umbreon-v",
+  "reason": "fr page states other packs",
+  "stated": 0,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-puissances-v",
+  "family": "swshp-v-powers-tin-eevee-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-v",
+  "family": "swshp-v-powers-tin-eevee-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-power",
+  "family": "swshp-v-powers-tin-eevee-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-potere-v",
+  "family": "swshp-v-powers-tin-eevee-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-puissances-v",
+  "family": "swshp-v-powers-tin-eternatus-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-v",
+  "family": "swshp-v-powers-tin-eternatus-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-power",
+  "family": "swshp-v-powers-tin-eternatus-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-potere-v",
+  "family": "swshp-v-powers-tin-eternatus-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-puissances-v",
+  "family": "swshp-v-powers-tin-pikachu-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-v",
+  "family": "swshp-v-powers-tin-pikachu-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-power",
+  "family": "swshp-v-powers-tin-pikachu-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-potere-v",
+  "family": "swshp-v-powers-tin-pikachu-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-luchadores-v-tyranitar-v-empoleon-v",
+  "family": "swsh5-v-strikers-tin-empoleon-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-kaempfer-despotar-v-impoleon-v",
+  "family": "swsh5-v-strikers-tin-empoleon-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-attaquants-v-tyranocif-v-pingoleon-v",
+  "family": "swsh5-v-strikers-tin-empoleon-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-colpi-v-tyranitar-v-empoleon-v",
+  "family": "swsh5-v-strikers-tin-empoleon-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-luchadores-v-tyranitar-v-empoleon-v",
+  "family": "swsh5-v-strikers-tin-tyranitar-v",
+  "reason": "es page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-kaempfer-despotar-v-impoleon-v",
+  "family": "swsh5-v-strikers-tin-tyranitar-v",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-attaquants-v-tyranocif-v-pingoleon-v",
+  "family": "swsh5-v-strikers-tin-tyranitar-v",
+  "reason": "fr page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-colpi-v-tyranitar-v-empoleon-v",
+  "family": "swsh5-v-strikers-tin-tyranitar-v",
+  "reason": "it page states other packs",
+  "stated": 4,
+  "expected": 5
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/vaporeon-gx-jolteon-gx-and-flareon-gx-special-collections",
+  "title": "Vaporeon-GX, Jolteon-GX, and Flareon-GX Special Collections",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/vaporeon-vmax-jolteon-vmax-and-flareon-vmax-premium-collections",
+  "title": "Vaporeon VMAX, Jolteon VMAX, and Flareon VMAX Premium Collections",
+  "reason": "no family",
+  "score": 0.6
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-victini-ex-baraja-combate-ex-de-miraidon-ex",
+  "family": "svp-ex-battle-deck-victini-ex",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-ex-victini-ex-mazzo-lotte-ex-miraidon-ex",
+  "family": "svp-ex-battle-deck-victini-ex",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-victini-ex-baraja-combate-ex-de-miraidon-ex",
+  "family": "svp-ex-battle-deck-miraidon-ex",
+  "reason": "es title names another number of products"
+ },
+ {
+  "page": "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-ex-victini-ex-mazzo-lotte-ex-miraidon-ex",
+  "family": "svp-ex-battle-deck-miraidon-ex",
+  "reason": "it title names another number of products"
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/volcanion-and-magearna-mythical-collections",
+  "title": "Volcanion and Magearna Mythical Collections",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-2014-legends-of-kalos-tins",
+  "title": "Legends of Kalos Tin",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-breakthrough-elite-trainer-box",
+  "title": "XY—BREAKthrough Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.75
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-elite-trainer-deck-shield",
+  "title": "Elite Trainer Deck Shield",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-evolutions-elite-trainer-box",
+  "title": "XY—Evolutions Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.8
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/xy-tin-box-ex-power-trio",
+  "family": "xy3-ex-power-trio-tin-blastoise-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/xy-tin-box-ex-power-trio",
+  "family": "xy3-ex-power-trio-tin-charizard-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/xy-tin-box-ex-power-trio",
+  "family": "xy3-ex-power-trio-tin-venusaur-ex",
+  "reason": "de page states other packs",
+  "stated": 4,
+  "expected": 0
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-legends-of-hoenn-tin",
+  "title": "Legends of Hoenn Tin",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-mega-evolution-collector-pin-3-pack",
+  "title": "Mega Evolution Collector Pin 3-Pack",
+  "reason": "no family",
+  "score": 0.73
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-primal-clash-elite-trainer-box",
+  "title": "XY—Primal Clash Elite Trainer Box",
+  "reason": "no family",
+  "score": 0.67
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-primal-groudon-and-primal-kyogre-collections",
+  "title": "Primal Groudon and Primal Kyogre Collections",
+  "reason": "no family",
+  "score": 0.57
+ },
+ {
+  "page": "/us/pokemon-tcg/product-gallery/xy-xerneas-yveltal-collection",
+  "title": "Xerneas or Yveltal Collection",
+  "reason": "no family",
+  "score": 0.57
+ }
+]

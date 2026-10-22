@@ -1,0 +1,25 @@
+{
+  "id": "sm12-theme-deck-display",
+  "region": "international",
+  "set": "sm12",
+  "category": "case",
+  "name": "Cosmic Eclipse Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Theme Deck Display",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199307
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199307/pokemon-sm-cosmic-eclipse-cosmic-eclipse-theme-deck-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sv02-3-pack-blister-tinkatink",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved 3 Pack Blister [Tinkatink]",
+  "identifiers": {
+    "cardmarketProductId": 703170
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-025",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 499996,
+        "cardmarketProductId": 703193,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved 3 Pack Blister [Tinkatink]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493997
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493997/pokemon-sv02-paldea-evolved-paldea-evolved-3-pack-blister-tinkatink"
+      ]
+    }
+  ]
+}

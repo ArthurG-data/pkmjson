@@ -1,0 +1,35 @@
+{
+  "id": "svp-collector-s-pin-two-pack-blisters-jirachi",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Collector's Pin Two Pack Blisters [Jirachi]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible pin",
+        "count": 1
+      },
+      {
+        "name": "Basic Energy",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two Pokemon TCG booster packs; 10 cards; 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Collector's Pin Two Pack Blisters [Jirachi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          503300
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/503300/pokemon-miscellaneous-cards-and-products-collectors-pin-two-pack-blisters-jirachi"
+      ]
+    }
+  ]
+}

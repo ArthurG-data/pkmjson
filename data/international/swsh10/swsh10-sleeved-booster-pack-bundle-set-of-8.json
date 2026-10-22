@@ -1,0 +1,25 @@
+{
+  "id": "swsh10-sleeved-booster-pack-bundle-set-of-8",
+  "region": "international",
+  "set": "swsh10",
+  "category": "other",
+  "name": "Astral Radiance Sleeved Booster Pack Bundle [Set of 8]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sleeved Booster Packs of Sword & Shield—Astral Radiance; 10 random cards; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Sleeved Booster Pack Bundle [Set of 8]",
+      "releaseDate": "2022-05-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265544
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265544/pokemon-swsh10-astral-radiance-astral-radiance-sleeved-booster-pack-bundle-set-of-8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ex11-delta-species-booster-box",
+  "region": "international",
+  "set": "ex11",
+  "category": "booster_box",
+  "name": "Delta Species Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271908
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Delta Species Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98943
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98943/pokemon-ex-delta-species-delta-species-booster-box"
+      ]
+    }
+  ]
+}

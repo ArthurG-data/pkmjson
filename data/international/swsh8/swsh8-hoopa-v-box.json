@@ -1,0 +1,66 @@
+{
+  "id": "swsh8-hoopa-v-box",
+  "region": "international",
+  "set": "swsh8",
+  "category": "collection_box",
+  "name": "Hoopa V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH176",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 253412,
+        "cardmarketProductId": 583203,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil oversized card featuring Hoopa V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hoopa V Box",
+      "releaseDate": "2021-11-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247817
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247817/pokemon-swsh08-fusion-strike-hoopa-v-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Hoopa-V",
+      "releaseDate": "2021-11-12",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-hoopa-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Hoopa-V",
+      "releaseDate": "2021-11-12",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-hoopa-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Hoopa V",
+      "releaseDate": "2021-11-12",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-hoopa-v"
+      ]
+    }
+  ]
+}

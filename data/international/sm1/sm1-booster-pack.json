@@ -1,0 +1,36 @@
+{
+  "id": "sm1-booster-pack",
+  "region": "international",
+  "set": "sm1",
+  "category": "booster_pack",
+  "name": "Sun & Moon Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 294125
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129385
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129385/pokemon-sm-base-set-sun-and-moon-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Soleil et Lune",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Lougaroc-GX",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune"
+      ]
+    }
+  ]
+}

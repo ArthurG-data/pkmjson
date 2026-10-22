@@ -1,0 +1,24 @@
+{
+  "id": "swsh12.5-booster-bundle-case",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Crown Zenith Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Booster Bundle Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          609238
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/609238/pokemon-swsh-crown-zenith-crown-zenith-booster-bundle-case"
+      ]
+    }
+  ]
+}

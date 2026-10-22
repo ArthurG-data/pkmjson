@@ -1,0 +1,24 @@
+{
+  "id": "mep-costco-ascended-heroes-mini-tins-5-pack",
+  "region": "international",
+  "set": "mep",
+  "category": "other",
+  "name": "Costco Ascended Heroes Mini Tins 5-Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon Mini Tins; 5 reverse holofoil variant cards; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Costco Ascended Heroes Mini Tins 5-Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          719650
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/719650/pokemon-miscellaneous-cards-and-products-costco-ascended-heroes-mini-tins-5-pack"
+      ]
+    }
+  ]
+}

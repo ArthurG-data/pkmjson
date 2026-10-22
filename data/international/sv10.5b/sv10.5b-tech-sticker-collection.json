@@ -1,0 +1,50 @@
+{
+  "id": "sv10.5b-tech-sticker-collection",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "collection_box",
+  "name": "Black Bolt Tech Sticker Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5b-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Reuniclus or Gothitelle.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black Bolt Tech Sticker Collection",
+      "releaseDate": "2025-08-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630614
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630614/pokemon-sv-black-bolt-black-bolt-tech-sticker-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection autocollant réajustable Écarlate et Violet Foudre Noire",
+      "releaseDate": "2025-08-01",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_autocollant_r%C3%A9ajustable_%C3%89carlate_et_Violet_Foudre_Noire"
+      ]
+    }
+  ]
+}

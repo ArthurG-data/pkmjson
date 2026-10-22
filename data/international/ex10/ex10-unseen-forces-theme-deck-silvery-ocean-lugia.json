@@ -1,0 +1,38 @@
+{
+  "id": "ex10-unseen-forces-theme-deck-silvery-ocean-lugia",
+  "region": "international",
+  "set": "ex10",
+  "category": "theme_deck",
+  "name": "Unseen Forces Theme Deck - \"Silvery Ocean\" [Lugia]",
+  "identifiers": {
+    "cardmarketProductId": 286529
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unseen Forces Theme Deck - \"Silvery Ocean\" [Lugia]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232866
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232866/pokemon-ex-unseen-forces-unseen-forces-theme-deck-silvery-ocean-lugia"
+      ]
+    }
+  ]
+}

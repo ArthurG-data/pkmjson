@@ -1,0 +1,51 @@
+{
+  "id": "swsh3-single-pack-blister-hatenna",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Darkness Ablaze Single Pack Blister [Hatenna]",
+  "identifiers": {
+    "cardmarketProductId": 585873
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH040",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 220269,
+        "cardmarketProductId": 491194,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Single Pack Blister [Hatenna]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216859
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216859/pokemon-swsh03-darkness-ablaze-darkness-ablaze-single-pack-blister-hatenna"
+      ]
+    }
+  ]
+}

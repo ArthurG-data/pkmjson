@@ -1,0 +1,35 @@
+{
+  "id": "sm7-booster-box",
+  "region": "international",
+  "set": "sm7",
+  "category": "booster_box",
+  "name": "Celestial Storm Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 357063
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Booster Box",
+      "releaseDate": "2018-08-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170273
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170273/pokemon-sm-celestial-storm-celestial-storm-booster-box"
+      ]
+    }
+  ]
+}

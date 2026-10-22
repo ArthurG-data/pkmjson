@@ -1,0 +1,44 @@
+{
+  "id": "sv04-premium-checklane-blister-hydreigon",
+  "region": "international",
+  "set": "sv04",
+  "category": "blister",
+  "name": "Paradox Rift Premium Checklane Blister [Hydreigon]",
+  "identifiers": {
+    "cardmarketProductId": 728737
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Premium Checklane Blister [Hydreigon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          546605
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/546605/pokemon-sv04-paradox-rift-paradox-rift-premium-checklane-blister-hydreigon"
+      ]
+    }
+  ]
+}

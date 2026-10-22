@@ -1,0 +1,25 @@
+{
+  "id": "sv10.5b-unova-poster-collection-case",
+  "region": "international",
+  "set": "sv10.5b",
+  "category": "case",
+  "name": "Unova Poster Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unova Poster Collection Case",
+      "releaseDate": "2025-07-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630613
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630613/pokemon-sv-black-bolt-unova-poster-collection-case"
+      ]
+    }
+  ]
+}

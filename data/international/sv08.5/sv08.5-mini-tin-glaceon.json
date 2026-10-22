@@ -1,0 +1,65 @@
+{
+  "id": "sv08.5-mini-tin-glaceon",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "tin",
+  "name": "Prismatic Evolutions Mini Tin [Glaceon]",
+  "identifiers": {
+    "cardmarketProductId": 798942
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Art card matching the tin, featuring Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon or Sylveon",
+        "count": 1
+      },
+      {
+        "name": "Coin featuring Eevee",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Mini Tin [Glaceon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593461
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593461/pokemon-sv-prismatic-evolutions-prismatic-evolutions-mini-tin-glaceon"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Mini-Tin-Box Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Minilata Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini‑boîte Écarlate et Violet – Évolutions Prismatiques",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-ecarlate-et-violet-evolutions-prismatiques"
+      ]
+    }
+  ]
+}

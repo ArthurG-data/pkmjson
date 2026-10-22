@@ -1,0 +1,24 @@
+{
+  "id": "sv06.5-3-pack-blister-case",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "case",
+  "name": "Shrouded Fable 3 Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable 3 Pack Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          665643
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/665643/pokemon-sv-shrouded-fable-shrouded-fable-3-pack-blister-case"
+      ]
+    }
+  ]
+}

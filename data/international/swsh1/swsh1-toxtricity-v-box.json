@@ -1,0 +1,114 @@
+{
+  "id": "swsh1-toxtricity-v-box",
+  "region": "international",
+  "set": "swsh1",
+  "category": "collection_box",
+  "name": "Toxtricity V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH017",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 206425,
+        "cardmarketProductId": 450873,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Toxtricity V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Toxtricity V Box",
+      "releaseDate": "2020-02-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206424
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206424/pokemon-swsh01-sword-and-shield-base-set-toxtricity-v-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Salarsen",
+      "releaseDate": "2020-02-27",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "swshp-SWSH017",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 206425,
+            "cardmarketProductId": 450873,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Oversize foil card featuring Toxtricity V",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Salarsen-V"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Riffex-V",
+      "releaseDate": "2020-02-27",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-riffex-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Toxtricity V",
+      "releaseDate": "2020-02-27",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-toxtricity-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Toxtricity-V",
+      "releaseDate": "2020-02-27",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-toxtricity-v"
+      ]
+    }
+  ]
+}

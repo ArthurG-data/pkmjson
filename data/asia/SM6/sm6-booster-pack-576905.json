@@ -1,0 +1,26 @@
+{
+  "id": "sm6-booster-pack-576905",
+  "region": "asia",
+  "set": "SM6",
+  "category": "booster_pack",
+  "name": "Forbidden Light Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「禁断の光」",
+      "releaseDate": "2018-03-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576905
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576905/pokemon-japan-sm6-forbidden-light-forbidden-light-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E7%A6%81%E6%96%AD%E3%81%AE%E5%85%89"
+      ]
+    }
+  ]
+}

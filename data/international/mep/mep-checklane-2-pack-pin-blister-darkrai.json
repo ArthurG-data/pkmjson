@@ -1,0 +1,31 @@
+{
+  "id": "mep-checklane-2-pack-pin-blister-darkrai",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "Checklane 2-Pack Pin Blister [Darkrai]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Darkrai Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon Booster Packs (Lost Origin & Chilling Reign ).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Pin Blister [Darkrai]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650148
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650148/pokemon-miscellaneous-cards-and-products-checklane-2-pack-pin-blister-darkrai"
+      ]
+    }
+  ]
+}

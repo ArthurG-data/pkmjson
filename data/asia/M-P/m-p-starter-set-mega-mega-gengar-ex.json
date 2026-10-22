@@ -1,0 +1,45 @@
+{
+  "id": "m-p-starter-set-mega-mega-gengar-ex",
+  "region": "asia",
+  "set": "M-P",
+  "category": "battle_deck",
+  "name": "Starter Set MEGA Mega Gengar ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage Counters / Markers",
+        "count": 1
+      },
+      {
+        "name": "Pokémon Coin",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Player’s Guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Deck (60 cards); 1 Gastly (AR) (022/021); How-to-Play Manual; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スターターセットMEGA メガゲンガーex",
+      "releaseDate": "2025-09-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653844
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653844/pokemon-japan-mbg-mega-starter-set-mega-gengar-ex-starter-set-mega-mega-gengar-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88MEGA+%E3%83%A1%E3%82%AC%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BCex"
+      ]
+    }
+  ]
+}

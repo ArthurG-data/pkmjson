@@ -1,0 +1,96 @@
+{
+  "id": "swsh4-elite-trainer-box",
+  "region": "international",
+  "set": "swsh4",
+  "category": "elite_trainer_box",
+  "name": "Vivid Voltage Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 494499
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Gigantamax Pikachu",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Sword & Shield",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221752
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221752/pokemon-swsh04-vivid-voltage-vivid-voltage-elite-trainer-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d'élite Épée et Bouclier Voltage Éclatant",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Voltage_%C3%89clatant"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Espada y Escudo-Voltaje Vívido",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-voltaje-vivido"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box der Erweiterung Schwert & Schild – Farbenschock",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-farbenschock"
+      ]
+    }
+  ]
+}

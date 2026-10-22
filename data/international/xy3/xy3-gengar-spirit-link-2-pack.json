@@ -1,0 +1,24 @@
+{
+  "id": "xy3-gengar-spirit-link-2-pack",
+  "region": "international",
+  "set": "xy3",
+  "category": "other",
+  "name": "Gengar Spirit Link 2-pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gengar Spirit Link 2-pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97783
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97783/pokemon-xy-furious-fists-gengar-spirit-link-2-pack"
+      ]
+    }
+  ]
+}

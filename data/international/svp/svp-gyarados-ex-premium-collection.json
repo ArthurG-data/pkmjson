@@ -1,0 +1,24 @@
+{
+  "id": "svp-gyarados-ex-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Gyarados ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gyarados ex Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          526914
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/526914/pokemon-miscellaneous-cards-and-products-gyarados-ex-premium-collection"
+      ]
+    }
+  ]
+}

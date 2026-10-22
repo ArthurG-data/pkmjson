@@ -1,0 +1,31 @@
+{
+  "id": "svp-pokemon-stacking-tin-dragon",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Dragon",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Dragon",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541175
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/541175/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-dragon"
+      ]
+    }
+  ]
+}

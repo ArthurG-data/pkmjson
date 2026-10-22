@@ -1,0 +1,31 @@
+{
+  "id": "swsh9-premium-checklane-blister-zoroark",
+  "region": "international",
+  "set": "swsh9",
+  "category": "blister",
+  "name": "Brilliant Stars Premium Checklane Blister [Zoroark]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cands and either 1 basic Energy or 1 VSTAR marker",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Premium Checklane Blister [Zoroark]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684658
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684658/pokemon-swsh09-brilliant-stars-brilliant-stars-premium-checklane-blister-zoroark"
+      ]
+    }
+  ]
+}

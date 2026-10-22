@@ -1,0 +1,31 @@
+{
+  "id": "svp-mimikyu-ex-showcase",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Mimikyu ex Showcase",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Mimikyu ex Promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mimikyu ex Showcase",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          498043
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/498043/pokemon-miscellaneous-cards-and-products-mimikyu-ex-showcase"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "swshp-kanto-friends-mini-tins-5-pack",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Kanto Friends Mini Tins 5-Pack",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kanto Friends Mini Tins 5-Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          253839
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/253839/pokemon-miscellaneous-cards-and-products-kanto-friends-mini-tins-5-pack"
+      ]
+    }
+  ]
+}

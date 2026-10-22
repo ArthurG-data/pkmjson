@@ -1,0 +1,41 @@
+{
+  "id": "sv04.5-tin-great-tusk-ex",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "tin",
+  "name": "Paldean Fates Tin [Great Tusk ex]",
+  "identifiers": {
+    "cardmarketProductId": 750587
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Shiny Great Tusk ex, Shiny Iron Treads ex, or Shiny Charizard ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Tin [Great Tusk ex]",
+      "releaseDate": "2024-02-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528057
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528057/pokemon-sv-paldean-fates-paldean-fates-tin-great-tusk-ex"
+      ]
+    }
+  ]
+}

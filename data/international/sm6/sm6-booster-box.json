@@ -1,0 +1,35 @@
+{
+  "id": "sm6-booster-box",
+  "region": "international",
+  "set": "sm6",
+  "category": "booster_box",
+  "name": "Forbidden Light Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 316135
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm6-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Booster Box",
+      "releaseDate": "2018-05-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164296
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164296/pokemon-sm-forbidden-light-forbidden-light-booster-box"
+      ]
+    }
+  ]
+}
