@@ -35,6 +35,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Engloutyran-GX"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Guzzlord-GX",
+      "releaseDate": "2018-01-05",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-guzzlord-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Schlingking-GX",
+      "releaseDate": "2018-01-05",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-schlingking-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Guzzlord-GX",
+      "releaseDate": "2018-01-05",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-guzzlord-gx"
+      ]
     }
   ]
 }

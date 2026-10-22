@@ -49,6 +49,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Polth%C3%A9geist-V"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Mortipot-V",
+      "releaseDate": "2020-05-01",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-mortipot-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Polteageist-V",
+      "releaseDate": "2020-05-01",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-polteageist-v"
+      ]
     }
   ]
 }

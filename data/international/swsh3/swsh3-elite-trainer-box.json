@@ -76,6 +76,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_T%C3%A9n%C3%A8bres_Embras%C3%A9es"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Schwert & Schild – Flammende Finsternis",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-flammende-finsternis"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Spada e Scudo - Fiamme Oscure",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fiamme-oscure"
+      ]
     }
   ]
 }

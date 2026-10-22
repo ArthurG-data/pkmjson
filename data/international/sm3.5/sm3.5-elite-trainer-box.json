@@ -86,6 +86,20 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_L%C3%A9gendes_Brillantes"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Entrenador Élite de Leyendas Luminosas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/entrenador-elite-de-leyendas-luminosas-de-jcc-pokemon"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Schimmernde Legenden",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schimmernde-legenden"
+      ]
     }
   ]
 }

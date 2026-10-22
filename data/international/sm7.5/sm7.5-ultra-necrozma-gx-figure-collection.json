@@ -46,6 +46,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/179038/pokemon-dragon-majesty-ultra-necrozma-gx-figure-collection"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Majestät der Drachen – Ultra-Necrozma-GX",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-majestat-der-drachen-ultra-necrozma-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Ultra-Necrozma-GX de Majestad de Dragones",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ultra-necrozma-gx-de-majestad-de-dragones"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Majesté des Dragons – Ultra-Necrozma-GX",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-majeste-des-dragons-ultra-necrozma-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione UltraNecrozma-GX dell’espansione Trionfo dei Draghi",
+      "releaseDate": "2018-11-02",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultranecrozma-gx-dellespansione-trionfo-dei-draghi"
+      ]
     }
   ]
 }

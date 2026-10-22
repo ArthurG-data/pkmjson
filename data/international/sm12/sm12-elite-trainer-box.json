@@ -76,6 +76,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_%C3%89clipse_Cosmique"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Eclipse Cósmico",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-eclipse-cosmico"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Sonne & Mond – Welten im Wandel",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-welten-im-wandel"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Eclissi Cosmica",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-eclissi-cosmica"
+      ]
     }
   ]
 }

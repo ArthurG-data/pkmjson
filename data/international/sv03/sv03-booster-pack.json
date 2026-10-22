@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Flammes_Obsidiennes"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Llamas Obsidianas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-llamas-obsidianas"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Ossidiana Infuocata",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-ossidiana-infuocata"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Obsidian Flammen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-obsidianflammen"
+      ]
     }
   ]
 }

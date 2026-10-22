@@ -29,6 +29,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffre_de_collection_L%C3%A9gendes_Brillantes"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Leggende Iridescenti",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-leggende-iridescenti"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Leyendas Luminosas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/entrenador-elite-de-leyendas-luminosas-de-jcc-pokemon"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Schimmernde Legenden",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schimmernde-legenden"
+      ]
     }
   ]
 }

@@ -59,6 +59,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/502005/pokemon-sv-scarlet-and-violet-151-151-ultra-premium-collection"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Ultra-Premium-Kollektion Karmesin & Purpur – 151",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ultra-premium-kollektion-karmesin-purpur-151"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Ultra-Premium Écarlate et Violet – 151",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-ultra-premium-ecarlate-et-violet-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Poderes Supremos de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-poderes-supremos-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione ultra premium dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultra-premium-dellespansione-scarlatto-e-violetto-151"
+      ]
     }
   ]
 }

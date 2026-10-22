@@ -49,6 +49,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Palarticho_de_Galar-V"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Sirfetch’d di Galar-V",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-sirfetchd-di-galar-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Galar-Lauchzelot-V",
+      "releaseDate": "2020-09-25",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-galar-lauchzelot-v"
+      ]
     }
   ]
 }

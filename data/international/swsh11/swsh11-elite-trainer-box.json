@@ -75,6 +75,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Origine_Perdue"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Espada y Escudo-Origen Perdido",
+      "releaseDate": "2022-09-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-origen-perdido"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse Spada e Scudo - Origine Perduta",
+      "releaseDate": "2022-09-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-origine-perduta"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer Box Schwert & Schild – Verlorener Ursprung",
+      "releaseDate": "2022-09-09",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-verlorener-ursprung"
+      ]
     }
   ]
 }

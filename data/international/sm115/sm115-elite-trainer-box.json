@@ -78,6 +78,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/194729/pokemon-hidden-fates-hidden-fates-elite-trainer-box"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Destinos Ocultos",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-destinos-ocultos"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Destino Sfuggente",
+      "releaseDate": "2019-09-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-destino-sfuggente"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d’élite de Destinées Occultes",
+      "releaseDate": "2019-09-20",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-dresseur-delite-de-destinees-occultes"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Verborgenes Schicksal",
+      "releaseDate": "2019-09-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-verborgenes-schicksal"
+      ]
     }
   ]
 }

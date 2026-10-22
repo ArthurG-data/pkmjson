@@ -58,6 +58,20 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_GO_Noadkoko_d%27Alola-V"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Exeggutor de Alola V de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-exeggutor-de-alola-v-de-pokemon-go"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Pokémon GO - Exeggutor di Alola-V",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pokemon-go-exeggutor-di-alola-v"
+      ]
     }
   ]
 }

@@ -31,6 +31,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/210566/pokemon-swsh02-rebel-clash-sword-and-shield-figure-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine Épée et Bouclier",
+      "releaseDate": "2020-05-08",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-avec-figurine-epee-et-bouclier"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con statuina Spada e Scudo",
+      "releaseDate": "2020-05-08",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-statuina-spada-e-scudo"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Figuren-Kollektion Schwert & Schild",
+      "releaseDate": "2020-05-08",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-schwert-schild"
+      ]
     }
   ]
 }

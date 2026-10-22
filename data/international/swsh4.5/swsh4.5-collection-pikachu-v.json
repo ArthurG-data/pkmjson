@@ -37,6 +37,30 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Destin%C3%A9es_Radieuses_Pikachu-V"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Pikachu-V dell’espansione Destino Splendente",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pikachu-v-dellespansione-destino-splendente"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Pikachu-V der Pokémon-Sammelkartenspiel-Erweiterung Glänzendes Schicksal",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-pikachu-v-der-erweiterung-glaenzendes-schicksal"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Pikachu V de Destinos Brillantes",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-pikachu-v-de-destinos-brillantes"
+      ]
     }
   ]
 }

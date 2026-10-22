@@ -27,6 +27,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/181693/pokemon-sm-team-up-towering-splash-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Éclaboussure Imposante-GX",
+      "releaseDate": "2019-01-04",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-eclaboussure-imposante-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Splash Anomalo-GX",
+      "releaseDate": "2019-01-04",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-splash-anomalo-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Turmhoher Platscher-GX",
+      "releaseDate": "2019-01-04",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-turmhoher-platscher-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Salpicadura Imponente-GX",
+      "releaseDate": "2019-01-04",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-salpicadura-imponente-gx"
+      ]
     }
   ]
 }

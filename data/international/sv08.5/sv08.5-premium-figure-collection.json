@@ -56,6 +56,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Premium_avec_figurine_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium con figura de Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-con-figura-de-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Figuren-Kollektion Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-figuren-kollektion-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium con statuina dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-statuina-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
+      ]
     }
   ]
 }

@@ -41,6 +41,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/161256/pokemon-sm-ultra-prism-lucario-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Lucario-GX",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-lucario-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Lucario-GX",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-lucario-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Lucario-GX",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-lucario-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Lucario-GX",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-lucario-gx"
+      ]
     }
   ]
 }

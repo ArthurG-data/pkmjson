@@ -29,6 +29,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_151"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora 151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack 151",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-simsala-ex"
+      ]
     }
   ]
 }

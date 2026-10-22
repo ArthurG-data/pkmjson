@@ -62,6 +62,12 @@ The full format is `schema/product.schema.json`.
   those families. A match requires both the TCGdex set's name and its release date. Where it matches, the `ja`
   release gets the official name, date and search page.
 - **French releases:** `tools/import_pokepedia.py` reads Poképédia's product pages.
+- **German, Italian, Spanish and more French releases:** pokemon.com's product gallery links each US product page
+  to its other-language versions. pokemon.com refuses scripted clients, so `tools/pokemon_com_crawl.js` runs in a
+  browser tab on www.pokemon.com and returns the pages as JSON. `tools/import_pokemon_com.py --crawl <file>` then
+  matches each US page to its family by English name. It adds a release only when that language's page states the
+  same number of booster packs as the US page. Each nested booster pack gets a release named after its TCGdex set,
+  as the French import does.
 
 A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
 alone.

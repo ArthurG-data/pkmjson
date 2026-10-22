@@ -81,6 +81,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Rivalit%C3%A9s_Destin%C3%A9es"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Rivali Predestinati",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-rivali-predestinati"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Karmesin & Purpur – Ewige Rivalen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-ewige-rivalen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Rivales Predestinados",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-rivales-predestinados"
+      ]
     }
   ]
 }

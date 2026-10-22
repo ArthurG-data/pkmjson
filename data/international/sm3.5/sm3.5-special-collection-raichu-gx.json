@@ -47,6 +47,30 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_sp%C3%A9ciale_L%C3%A9gendes_Brillantes_Raichu-GX"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione speciale Raichu-GX dell’espansione Leggende Iridescenti",
+      "releaseDate": "2018-01-05",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-raichu-gx-dellespansione-leggende-iridescenti"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Raichu-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
+      "releaseDate": "2018-01-05",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-raichu-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección especial Raichu-GX de Leyendas Luminosas",
+      "releaseDate": "2018-01-05",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-raichu-gx-de-leyendas-luminosas"
+      ]
     }
   ]
 }

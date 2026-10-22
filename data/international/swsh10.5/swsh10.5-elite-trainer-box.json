@@ -75,6 +75,20 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Pok%C3%A9mon_GO"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-pokemon-go"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-pokemon-go"
+      ]
     }
   ]
 }

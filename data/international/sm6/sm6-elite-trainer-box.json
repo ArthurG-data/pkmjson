@@ -76,6 +76,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Lumi%C3%A8re_Interdite"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Luz Prohibida",
+      "releaseDate": "2018-05-04",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-luz-prohibida"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Sonne & Mond – Grauen der Lichtfinsternis",
+      "releaseDate": "2018-05-04",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-grauen-der-lichtfinsternis"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Apocalisse di Luce",
+      "releaseDate": "2018-05-04",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-apocalisse-di-luce"
+      ]
     }
   ]
 }

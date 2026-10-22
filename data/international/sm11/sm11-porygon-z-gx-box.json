@@ -85,6 +85,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Porygon-Z-GX"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Porygon-Z-GX",
+      "releaseDate": "2019-09-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-porygon-z-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Porygon-Z-GX",
+      "releaseDate": "2019-09-20",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-porygon-z-gx-de-jcc-pokemon"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Porygon-Z-GX",
+      "releaseDate": "2019-09-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-porygon-z-gx"
+      ]
     }
   ]
 }

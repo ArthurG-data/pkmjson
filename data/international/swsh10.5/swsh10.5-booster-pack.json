@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_GO_Noadkoko_d%27Alola-V"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball"
+      ]
     }
   ]
 }

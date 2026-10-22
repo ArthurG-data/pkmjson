@@ -43,6 +43,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_classeur_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con raccoglitore dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Ordner-Kollektion Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ordner-kollektion-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Álbum para colecciones de Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
     }
   ]
 }

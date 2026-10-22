@@ -39,6 +39,14 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Ronflex-GX"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Set Snorlax-GX",
+      "releaseDate": "2016-11-18",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-snorlax-gx"
+      ]
     }
   ]
 }

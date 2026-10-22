@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Astres_Radieux"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Astralglanz",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-astralglanz"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Resplandor Astral",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-eite-de-espada-y-escudo-resplandor-astral"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Lucentezza Siderale",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-lucentezza-siderale"
+      ]
     }
   ]
 }

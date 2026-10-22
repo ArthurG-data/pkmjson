@@ -47,6 +47,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/283599/pokemon-swsh08-fusion-strike-league-battle-deck-mew-vmax"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Baraja Combate de Liga de Inteleon VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-inteleon-vmax"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte di Lega Inteleon-VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-inteleon-vmax"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdeck Intelleon-VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-intelleon-vmax"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat de Ligue – Lézargus-VMAX",
+      "releaseDate": "2021-05-21",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-lezargus-vmax"
+      ]
     }
   ]
 }

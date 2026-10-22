@@ -30,6 +30,22 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_sp%C3%A9ciale_L%C3%A9gendes_Brillantes_Zoroark-GX"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección especial Zoroark-GX de Leyendas Luminosas",
+      "releaseDate": "2017-11-03",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-zoroark-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Zoroark-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
+      "releaseDate": "2017-11-03",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-zoroark-gx"
+      ]
     }
   ]
 }

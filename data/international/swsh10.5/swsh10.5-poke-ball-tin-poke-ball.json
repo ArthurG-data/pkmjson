@@ -40,6 +40,27 @@
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Pok%C3%A9_Ball"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box Pokéball",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Poké Ball",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Poké Ball",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball"
+      ]
     }
   ]
 }

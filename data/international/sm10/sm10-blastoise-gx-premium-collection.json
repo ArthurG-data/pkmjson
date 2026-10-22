@@ -48,6 +48,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/192230/pokemon-sm-unbroken-bonds-blastoise-gx-premium-collection"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Turtok-GX",
+      "releaseDate": "2019-07-05",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-turtok-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium Blastoise-GX",
+      "releaseDate": "2019-07-05",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-blastoise-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Tortank-GX",
+      "releaseDate": "2019-06-05",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-tortank-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Blastoise-GX",
+      "releaseDate": "2019-07-05",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-blastoise-gx"
+      ]
     }
   ]
 }

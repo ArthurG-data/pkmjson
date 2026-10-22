@@ -27,6 +27,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/245876/pokemon-swsh08-fusion-strike-dragonite-v-box"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Dragoran-V",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-dragoran-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dracolosse‑V",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-dracolosse-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Dragonite V",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-dragonite-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Dragonite-V",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-dragonite-v"
+      ]
     }
   ]
 }

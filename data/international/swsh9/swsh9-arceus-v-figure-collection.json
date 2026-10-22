@@ -31,6 +31,29 @@
       "sources": [
         "https://www.tcgplayer.com/product/265251/pokemon-swsh09-brilliant-stars-arceus-v-figure-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine – Arceus‑V",
+      "releaseDate": "2022-04-01",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-avec-figurine-arceus-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Figuren-Kollektion Arceus-V",
+      "releaseDate": "2022-05-06",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-arceus-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con figura Arceus V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-arceus-v"
+      ]
     }
   ]
 }

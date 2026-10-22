@@ -52,6 +52,20 @@
       "sources": [
         "https://www.tcgplayer.com/product/501267/pokemon-sv03-obsidian-flames-obsidian-flames-build-and-battle-stadium"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Stade Stratégies et Combats Écarlate et Violet – Flammes Obsidiennes",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-flammes-obsidiennes"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Estadio Combina y Combate de Escarlata y Púrpura-Llamas Obsidianas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-llamas-obsidianas"
+      ]
     }
   ]
 }

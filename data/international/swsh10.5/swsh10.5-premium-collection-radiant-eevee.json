@@ -62,6 +62,20 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Premium_Pok%C3%A9mon_GO_%C3%89voli_Radieux"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium Eevee Radiante de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-eevee-radiante-de-pokemon-go"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Pokémon GO - Eevee Lucente",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-pokemon-go-eevee-lucente"
+      ]
     }
   ]
 }

@@ -43,6 +43,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Sucreine-GX"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Fruyal-GX",
+      "releaseDate": "2017-08-18",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-fruyal-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Tsareena-GX",
+      "releaseDate": "2017-08-18",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-tsareena-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Tsareena-GX",
+      "releaseDate": "2017-08-18",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-tsareena-gx"
+      ]
     }
   ]
 }

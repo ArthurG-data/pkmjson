@@ -4,7 +4,9 @@
   "set": "sv08",
   "category": "booster_pack",
   "name": "Surging Sparks Booster Pack",
-  "identifiers": {"cardmarketProductId": 784945},
+  "identifiers": {
+    "cardmarketProductId": 784945
+  },
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Booster pack cards are random. Which cards a pack can hold is out of scope for this dataset.",
@@ -13,14 +15,43 @@
       "language": "en",
       "name": "Surging Sparks Booster Pack",
       "releaseDate": "2024-11-08",
-      "identifiers": {"tcgplayerProductIds": [565604]},
-      "sources": ["https://www.tcgplayer.com/product/565604/pokemon-sv08-surging-sparks-surging-sparks-booster-pack"]
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565604
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565604/pokemon-sv08-surging-sparks-surging-sparks-booster-pack"
+      ]
     },
     {
       "language": "fr",
       "name": "Booster Écarlate et Violet – Étincelles Déferlantes",
       "releaseDate": "2024-11-08",
-      "sources": ["https://www.pkmcards.fr/products/boosters/booster-etincelles-deferlantes-pikachu-teracristal-stellaire"]
+      "sources": [
+        "https://www.pkmcards.fr/products/boosters/booster-etincelles-deferlantes-pikachu-teracristal-stellaire"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Scintille Folgoranti",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-scintille-folgoranti"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Chispas Fulgurantes",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-chispas-fulgurantes"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Stürmische Funken",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-stuermische-funken"
+      ]
     }
   ]
 }

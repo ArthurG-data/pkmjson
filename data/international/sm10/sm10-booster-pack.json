@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Alliance_Infaillible"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Kräfte im Einklang",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-kraefte-im-einklang"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Legami Inossidabili",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-legami-inossidabili"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Vínculos Indestructibles",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-vinculos-indestructibles"
+      ]
     }
   ]
 }

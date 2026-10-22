@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Destin%C3%A9es_Radieuses_Pikachu-V"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Destino Splendente",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pikachu-v-dellespansione-destino-splendente"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Glänzendes Schicksal",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-pikachu-v-der-erweiterung-glaenzendes-schicksal"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Destinos Brillantes",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-pikachu-v-de-destinos-brillantes"
+      ]
     }
   ]
 }

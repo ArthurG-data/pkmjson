@@ -22,6 +22,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/155663/pokemon-sm-ultra-prism-ultra-prism-elite-trainer-box-dawn-wings-necrozma"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Sonne & Mond – Ultra-Prisma",
+      "releaseDate": "2018-02-02",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-ultra-prisma"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Ultraprisma",
+      "releaseDate": "2018-02-02",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-ultraprisma"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d’élite Soleil et Lune – Ultra-Prisme",
+      "releaseDate": "2018-02-02",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-dresseur-delite-soleil-et-lune-ultra-prisme"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse Sole e Luna - Ultraprisma",
+      "releaseDate": "2018-02-02",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-sole-e-luna-ultraprisma"
+      ]
     }
   ]
 }

@@ -48,6 +48,20 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Pok%C3%A9mon_GO_Salam%C3%A8che"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Pokémon GO Pin Collection",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-pokemon-go"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con pin de Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-pin-de-pokemon-go"
+      ]
     }
   ]
 }

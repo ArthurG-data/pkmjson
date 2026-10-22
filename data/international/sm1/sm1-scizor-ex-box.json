@@ -27,6 +27,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Cizayox-EX"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Set Scizor-EX",
+      "releaseDate": "2017-04-21",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-scizor-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Scherox-EX-Box",
+      "releaseDate": "2017-04-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/scherox-ex-box"
+      ]
     }
   ]
 }

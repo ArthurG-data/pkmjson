@@ -30,6 +30,20 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Morpeko"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Clash der Rebellen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-clash-der-rebellen"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Fragore Ribelle",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fragore-ribelle"
+      ]
     }
   ]
 }

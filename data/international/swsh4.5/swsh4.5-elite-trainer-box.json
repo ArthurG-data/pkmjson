@@ -38,6 +38,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Destin%C3%A9es_Radieuses"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Destinos Brillantes",
+      "releaseDate": "2021-03-12",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-destinos-brillantes"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Destino Splendente",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-destino-splendente"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Glänzendes Schicksal",
+      "releaseDate": "2021-02-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-glaenzendes-schicksal"
+      ]
     }
   ]
 }

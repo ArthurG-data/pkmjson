@@ -75,6 +75,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Z%C3%A9nith_Supr%C3%AAme"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Zenit der Könige",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-zenit-der-koenige"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Zenit Regale",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-zenit-regale"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-cenit-supremo"
+      ]
     }
   ]
 }

@@ -76,6 +76,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Clash_des_Rebelles"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Schwert & Schild – Clash der Rebellen",
+      "releaseDate": "2020-05-01",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-clash-der-rebellen"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Spada e Scudo - Fragore Ribelle",
+      "releaseDate": "2020-05-01",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fragore-ribelle"
+      ]
     }
   ]
 }

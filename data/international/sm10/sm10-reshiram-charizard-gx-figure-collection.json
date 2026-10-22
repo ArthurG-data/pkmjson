@@ -72,6 +72,30 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con statuina Reshiram e Charizard-GX",
+      "releaseDate": "2019-08-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-statuina-reshiram-e-charizard-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Figuren-Kollektion Reshiram & Glurak-GX",
+      "releaseDate": "2019-08-09",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-reshiram-glurak-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con figura Reshiram y Charizard-GX",
+      "releaseDate": "2019-08-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-reshiram-y-charizard-gx"
+      ]
     }
   ]
 }

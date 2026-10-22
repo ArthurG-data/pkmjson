@@ -52,6 +52,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Premium_avec_tapis_de_jeu_Z%C3%A9nith_Supr%C3%AAme_Morpeko-V-UNION"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium con tapete Morpeko V‑UNIÓN de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-con-tapete-morpeko-v-union-de-cenit-supremo"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium con tabellone di gioco Morpeko‑V UNIONE dell’espansione Zenit Regale",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-tabellone-di-gioco-morpeko-v-unione-dell-espansione-zenit-regale"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Spielunterlagen-Kollektion Zenit der Könige: Morpeko‑V‑UNION",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-spielunterlagen-kollektion-zenit-der-koenige-morpeko-v-union"
+      ]
     }
   ]
 }

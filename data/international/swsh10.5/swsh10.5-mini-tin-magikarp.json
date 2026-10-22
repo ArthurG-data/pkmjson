@@ -34,6 +34,20 @@
       "sources": [
         "https://www.tcgplayer.com/product/270728/pokemon-pokemon-go-pokemon-go-mini-tin-magikarp"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Minilata Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini-boîte Pokémon GO",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"
+      ]
     }
   ]
 }

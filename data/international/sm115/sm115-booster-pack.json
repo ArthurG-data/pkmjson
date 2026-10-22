@@ -29,6 +29,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Destin%C3%A9es_Occultes_Mew"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Destinos Ocultos",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-destinos-ocultos"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Destino Sfuggente",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-destino-sfuggente"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Verborgenes Schicksal",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-verborgenes-schicksal"
+      ]
     }
   ]
 }

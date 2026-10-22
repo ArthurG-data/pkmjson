@@ -80,6 +80,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Temp%C3%AAte_C%C3%A9leste"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Sonne & Mond – Sturm am Firmament",
+      "releaseDate": "2018-08-03",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-sturm-am-firmament"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Sol y Luna-Tormenta Celestial",
+      "releaseDate": "2018-08-03",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-tormenta-celestial"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Tempesta Astrale",
+      "releaseDate": "2018-08-03",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-tempesta-astrale"
+      ]
     }
   ]
 }

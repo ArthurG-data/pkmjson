@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_figurine_Necrozma_Ailes_de_l%27Aurore"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Sturm Am Firmament",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-sturm-am-firmament"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Tormenta Celestial",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-tormenta-celestial"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Tempesta Astrale",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-tempesta-astrale"
+      ]
     }
   ]
 }

@@ -29,6 +29,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_%C3%89clipse_Cosmique"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Welten im Wandel",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sonne-mond-welten-im-wandel-build-battle-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Eclipse Cósmico",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-eclipse-cosmico"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Eclissi Cosmica",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-eclissi-cosmica"
+      ]
     }
   ]
 }

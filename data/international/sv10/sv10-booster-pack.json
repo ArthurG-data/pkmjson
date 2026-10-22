@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEtier_Strat%C3%A9gies_et_Combats_%C3%89carlate_et_Violet_Rivalit%C3%A9s_Destin%C3%A9es"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Rivali Predestinati",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-rivali-predestinati"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Ewige Rivalen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-ewige-rivalen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Rivales Predestinados",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-rivales-predestinados"
+      ]
     }
   ]
 }

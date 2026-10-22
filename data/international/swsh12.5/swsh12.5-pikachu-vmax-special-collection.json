@@ -30,6 +30,27 @@
       "sources": [
         "https://www.tcgplayer.com/product/454452/pokemon-swsh-crown-zenith-pikachu-vmax-special-collection"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Zenit der Könige: Pikachu-VMAX",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-zenit-der-koenige-pikachu-vmax"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección especial Pikachu VMAX de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-pikachu-vmax-de-cenit-supremo"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection spéciale Zénith Suprême – Pikachu‑VMAX",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-zenith-supreme-pikachu-vmax"
+      ]
     }
   ]
 }

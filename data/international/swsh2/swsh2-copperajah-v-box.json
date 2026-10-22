@@ -85,6 +85,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Pachyradjah-V"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Patinaraja-V",
+      "releaseDate": "2020-06-05",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-patinaraja-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Copperajah-V",
+      "releaseDate": "2020-06-05",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-copperajah-v"
+      ]
     }
   ]
 }

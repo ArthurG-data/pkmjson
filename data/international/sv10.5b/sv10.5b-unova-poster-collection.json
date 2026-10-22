@@ -49,6 +49,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_poster_Unys"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con poster Unima",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Poster-Kollektion Einall",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con póster Teselia",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia"
+      ]
     }
   ]
 }

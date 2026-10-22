@@ -20,6 +20,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/189658/pokemon-sm-unbroken-bonds-alolan-marowak-gx-box"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Alola-Knogga-GX",
+      "releaseDate": "2019-05-03",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-alola-knogga-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Marowak de Alola-GX",
+      "releaseDate": "2019-05-03",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-marowak-de-alola-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Marowak di Alola-GX",
+      "releaseDate": "2019-05-03",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-marowak-di-alola-gx"
+      ]
     }
   ]
 }

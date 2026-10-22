@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_La_Voie_du_Ma%C3%AEtre_Moumouflon-V"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Camino de Campeones",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-dubwool-v-de-camino-de-campeones"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Weg des Champs",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-zwollock-v-der-erweiterung-weg-des-champs"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Futuri Campioni",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-dubwool-v-dellespansione-futuri-campioni"
+      ]
     }
   ]
 }

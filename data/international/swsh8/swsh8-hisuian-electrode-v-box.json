@@ -41,6 +41,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/282721/pokemon-swsh08-fusion-strike-hisuian-electrode-v-box"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Hisui-Lektrobal-V",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-hisui-lektrobal-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Electrode di Hisui-V",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-electrode-di-hisui-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Electrode de Hisui V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-electrode-de-hisui-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Électrode de Hisui-V",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-electrode-de-hisui-v"
+      ]
     }
   ]
 }

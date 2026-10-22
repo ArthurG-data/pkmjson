@@ -50,6 +50,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/502007/pokemon-sv-scarlet-and-violet-151-151-zapdos-ex-collection"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Zapdos ex de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-zapdos-ex-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Karmesin & Purpur – 151: Zapdos‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-zapdos-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Électhor-ex Écarlate et Violet – 151",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-electhor-ex-ecarlate-et-violet-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Zapdos-ex dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-zapdos-ex-dellespansione-scarlatto-e-violetto-151"
+      ]
     }
   ]
 }

@@ -35,6 +35,27 @@
       "sources": [
         "https://www.tcgplayer.com/product/502004/pokemon-sv-scarlet-and-violet-151-151-binder-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection classeur Écarlate et Violet – 151",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-classeur-ecarlate-et-violet-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con raccoglitore dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Álbum para colecciones de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-151"
+      ]
     }
   ]
 }

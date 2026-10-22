@@ -52,6 +52,20 @@
       "sources": [
         "https://www.tcgplayer.com/product/285042/pokemon-swsh12-silver-tempest-silver-tempest-build-and-battle-stadium"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Estadio Combina y Combate de Espada y Escudo-Tempestad Plateada",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-espada-y-escudo-tempestad-plateada"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Stade Stratégies et Combats Épée et Bouclier – Tempête Argentée",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-epee-et-bouclier-tempete-argentee"
+      ]
     }
   ]
 }

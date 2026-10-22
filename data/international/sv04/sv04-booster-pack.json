@@ -22,6 +22,20 @@
       "sources": [
         "https://www.tcgplayer.com/product/512822/pokemon-sv04-paradox-rift-paradox-rift-booster-pack"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Booster Faille Paradoxe",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-faille-paradoxe"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Brecha Paradójica",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-brecha-paradojica"
+      ]
     }
   ]
 }

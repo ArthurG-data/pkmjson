@@ -72,6 +72,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/180518/pokemon-sm-lost-thunder-fall-2018-collector-chest"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2018)",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2018"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2018)",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/maletin-de-coleccionistas-de-jcc-pokemon-otono-2018"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (Automne 2018)",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2018"
+      ]
     }
   ]
 }

@@ -41,6 +41,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/226137/pokemon-swsh04-vivid-voltage-orbeetle-v-box"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Maritellit-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-maritellit-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Astronelle-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-astronelle-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Orbeetle-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-orbeetle-v"
+      ]
     }
   ]
 }

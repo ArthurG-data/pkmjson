@@ -48,6 +48,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_poster_%C3%89carlate_et_Violet_151"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Poster-Kollektion Karmesin & Purpur – 151",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-karmesin-purpur-151"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección con póster de Escarlata y Púrpura-151",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-de-escarlata-y-purpura-151"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione con poster dell’espansione Scarlatto e Violetto - 151",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-dellespansione-scarlatto-e-violetto-151"
+      ]
     }
   ]
 }

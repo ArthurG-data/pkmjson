@@ -40,6 +40,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/185246/pokemon-sm-team-up-melmetal-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-melmetal-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-melmetal-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-melmetal-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Melmetal-GX",
+      "releaseDate": "2019-02-15",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-melmetal-gx"
+      ]
     }
   ]
 }

@@ -41,6 +41,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/233359/pokemon-swsh05-battle-styles-galarian-rapidash-v-box"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Rapidash di Galar-V",
+      "releaseDate": "2021-05-07",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-rapidash-di-galar-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Galar-Gallopa‑V",
+      "releaseDate": "2021-05-07",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-galar-gallopa-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Galopa de Galar‑V",
+      "releaseDate": "2021-05-07",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-galopa-de-galar-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Rapidash de Galar V",
+      "releaseDate": "2021-05-07",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-rapidash-de-galar-v"
+      ]
     }
   ]
 }

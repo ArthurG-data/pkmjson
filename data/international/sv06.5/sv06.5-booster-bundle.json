@@ -26,6 +26,20 @@
       "sources": [
         "https://www.tcgplayer.com/product/553031/pokemon-sv-shrouded-fable-shrouded-fable-booster-bundle"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Confezione di buste dell’espansione Scarlatto e Violetto - Segreto Fiabesco",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/confezione-di-buste-dellespansione-scarlatto-e-violetto-segreto-fiabesco"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "lot de boosters Écarlate et Violet – Fable Nébuleuse",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/lot-de-boosters-ecarlate-et-violet-fable-nebuleuse"
+      ]
     }
   ]
 }

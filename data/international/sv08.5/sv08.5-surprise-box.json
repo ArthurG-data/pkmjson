@@ -23,6 +23,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/593466/pokemon-sv-prismatic-evolutions-prismatic-evolutions-surprise-box"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione sorpresa dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-sorpresa-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja Sorpresa de Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-sorpresa-de-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Überraschungsbox Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ueberraschungsbox-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte surprise Écarlate et Violet – Évolutions Prismatiques",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-surprise-ecarlate-et-violet-evolutions-prismatiques"
+      ]
     }
   ]
 }

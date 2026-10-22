@@ -27,6 +27,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Carchacrok-EX"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Garchomp‑ex di Camilla",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-garchomp-ex-di-camilla"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Cynthias Knakrack‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-cynthias-knakrack-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium Garchomp ex de Cintia",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-garchomp-ex-de-cintia"
+      ]
     }
   ]
 }

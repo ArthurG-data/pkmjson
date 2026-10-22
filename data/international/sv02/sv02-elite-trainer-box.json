@@ -71,6 +71,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_%C3%89volutions_%C3%A0_Paldea"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Karmesin & Purpur – Entwicklungen in Paldea",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-entwicklungen-in-paldea"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Evoluciones en Paldea",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-evoluciones-en-paldea"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Evoluzioni a Paldea",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-evoluzioni-a-paldea"
+      ]
     }
   ]
 }

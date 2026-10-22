@@ -75,6 +75,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Astres_Radieux"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Schwert & Schild – Astralglanz",
+      "releaseDate": "2022-05-27",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-astralglanz"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Espada y Escudo-Resplandor Astral",
+      "releaseDate": "2022-06-20",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-eite-de-espada-y-escudo-resplandor-astral"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse Spada e Scudo - Lucentezza Siderale",
+      "releaseDate": "2022-05-27",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-lucentezza-siderale"
+      ]
     }
   ]
 }

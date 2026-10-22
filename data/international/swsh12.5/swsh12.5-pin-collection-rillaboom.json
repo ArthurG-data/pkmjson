@@ -54,6 +54,20 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Z%C3%A9nith_Supr%C3%AAme_Gorythmic"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Pin-Kollektion Zenit der Könige",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-zenit-der-koenige"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colecciones con pin de Cenit Supremo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-con-pin-de-cenit-supremo"
+      ]
     }
   ]
 }

@@ -39,6 +39,27 @@
       "sources": [
         "https://www.tcgplayer.com/product/593462/pokemon-sv-prismatic-evolutions-prismatic-evolutions-mini-tin-sylveon"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Mini-Tin-Box Karmesin & Purpur – Prismatische Entwicklungen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-karmesin-purpur-prismatische-entwicklungen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Minilata Escarlata y Púrpura-Evoluciones Prismáticas",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-escarlata-y-purpura-evoluciones-prismaticas"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini‑boîte Écarlate et Violet – Évolutions Prismatiques",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-ecarlate-et-violet-evolutions-prismatiques"
+      ]
     }
   ]
 }

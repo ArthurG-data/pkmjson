@@ -31,6 +31,30 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Majest%C3%A9_des_Dragons"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Majestät der Drachen",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-majestaet-der-drachen"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Majestad de Dragones",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-majestad-de-dragones"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Trionfo dei Draghi",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-trionfo-dei-draghi"
+      ]
     }
   ]
 }

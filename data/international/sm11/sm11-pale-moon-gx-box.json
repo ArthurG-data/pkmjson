@@ -41,6 +41,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/198528/pokemon-sm-unified-minds-pale-moon-gx-box"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Fahler Mond-GX",
+      "releaseDate": "2019-10-18",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-fahler-mond-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Luna Pálida-GX",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-luna-palida-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Lune Pâle-GX",
+      "releaseDate": "2019-10-18",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-lune-pale-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Luna Pallida-GX",
+      "releaseDate": "2019-10-18",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/coleccion-luna-palida-gx"
+      ]
     }
   ]
 }

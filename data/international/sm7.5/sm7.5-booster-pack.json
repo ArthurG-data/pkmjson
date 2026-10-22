@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Majest%C3%A9_des_Dragons_Latias"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Majestät Der Drachen",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-majestat-der-drachen-ultra-necrozma-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Majestad De Dragones",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ultra-necrozma-gx-de-majestad-de-dragones"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Trionfo Dei Draghi",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultranecrozma-gx-dellespansione-trionfo-dei-draghi"
+      ]
     }
   ]
 }

@@ -41,6 +41,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/218839/pokemon-swsh03-darkness-ablaze-true-steel-premium-collection-zacian"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Echter Stahl",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-echter-stahl"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Acciaio Puro",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-acciaio-puro"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección premium Puro Acero",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-puro-acero"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Acier Trempé",
+      "releaseDate": "2020-08-14",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-acier-trempe"
+      ]
     }
   ]
 }

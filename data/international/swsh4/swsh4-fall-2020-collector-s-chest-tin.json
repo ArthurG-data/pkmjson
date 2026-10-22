@@ -69,6 +69,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffre_de_collection_%28Automne_2020%29"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (autunno 2020)",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-del-gcc-pokemon-autunno-2020"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2020)",
+      "releaseDate": "2020-11-13",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2020"
+      ]
     }
   ]
 }

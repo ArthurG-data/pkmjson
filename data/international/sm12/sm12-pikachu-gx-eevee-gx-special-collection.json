@@ -49,6 +49,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/199772/pokemon-sm-cosmic-eclipse-pikachu-gx-and-eevee-gx-special-collection"
       ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Pikachu-GX & Evoli-GX",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pikachu-gx-evoli-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection spéciale – Pikachu-GX et Évoli-GX",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-pikachu-gx-et-evoli-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección especial Pikachu-GX e Eevee-GX",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-pikachu-gx-e-eevee-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione speciale Pikachu-GX e Eevee-GX",
+      "releaseDate": "2019-11-01",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-pikachu-gx-e-eevee-gx"
+      ]
     }
   ]
 }

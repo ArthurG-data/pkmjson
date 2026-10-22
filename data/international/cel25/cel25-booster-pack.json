@@ -23,6 +23,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/248577/pokemon-celebrations-celebrations-booster-pack"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Booster Célébrations",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Celebrations",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Celebraciones",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Gran Festa",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"
+      ]
     }
   ]
 }

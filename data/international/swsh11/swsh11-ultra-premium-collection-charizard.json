@@ -55,6 +55,27 @@
       "sources": [
         "https://www.tcgplayer.com/product/282401/pokemon-swsh11-lost-origin-sword-and-shield-ultra-premium-collection-charizard"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Ultra-Premium Épée et Bouclier – Dracaufeu",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-ultra-premium-epee-et-bouclier-dracaufeu"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Ultra-Premium-Kollektion Glurak der Serie Schwert & Schild",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ultra-premium-kollektion-glurak-der-serie-schwert-schild"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione ultra premium Spada e Scudo - Charizard",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultra-premium-spada-e-scudo-charizard"
+      ]
     }
   ]
 }

@@ -30,6 +30,27 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Tonnerre_Perdu"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Busta di espansione Tuoni Perduti",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-tuoni-perduti"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Boosterpack Echo des Donners",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-echo-des-donners"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Sobre de mejora Truenos Perdidos",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-truenos-perdidos"
+      ]
     }
   ]
 }

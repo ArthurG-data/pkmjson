@@ -57,6 +57,27 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_Illustration_Unys_Victini"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Ilustración Teselia Victini",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ilustracion-teselia-victini"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione illustrazione Victini - Unima",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-illustrazione-victini-unima"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Illustrations-Kollektion Einall: Victini",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/illustrations-kollektion-einall-victini"
+      ]
     }
   ]
 }

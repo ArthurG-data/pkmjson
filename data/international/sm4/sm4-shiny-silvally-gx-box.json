@@ -69,6 +69,22 @@
       "sources": [
         "https://www.pokepedia.fr/Coffret_Silvalli%C3%A9-GX_chromatique"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Silvally-GX variocolor",
+      "releaseDate": "2017-11-17",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-silvally-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Silvally-GX cromatico",
+      "releaseDate": "2017-11-17",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-silvally-gx-cromatico"
+      ]
     }
   ]
 }

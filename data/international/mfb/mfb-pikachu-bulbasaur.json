@@ -22,6 +22,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/520781/pokemon-my-first-battle-my-first-battle-pikachu-and-bulbasaur"
       ]
+    },
+    {
+      "language": "it",
+      "name": "Prima Lotta",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/prima-lotta"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mon premier combat",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mon-premier-combat"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Mein erstes Spiel",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Mi Primer Combate",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/mi-primer-combate"
+      ]
     }
   ]
 }
