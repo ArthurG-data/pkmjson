@@ -1,0 +1,12 @@
+pkmjson records facts about sealed Pokémon TCG products: what a product contains, the names it was sold under,
+and when. Each release lists the pages its facts come from in `sources`. No text, description or image from those
+pages is copied into the data.
+
+Poképédia (https://www.pokepedia.fr) is the source of many French release names and dates. Its text is licensed
+CC BY-NC-SA 3.0. pkmjson takes only facts from it (the official French product name, its release date, and which
+booster packs a French box holds when they differ from the English box), never Poképédia's text, and credits the
+page each one comes from. The pages are read through Poképédia's MediaWiki API.
+
+Set logos in sets/sets.json are links to images on TCGdex, pokemon.com and pokemon-card.com, not copies. Those
+images and the Pokémon names and marks belong to Nintendo, Creatures Inc. and GAME FREAK inc. Anyone who displays
+them is responsible for having the right to.

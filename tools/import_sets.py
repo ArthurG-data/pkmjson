@@ -1,16 +1,19 @@
 """Write sets/sets.json (each set's official name and logo per language) and name booster packs after their set.
 
 Sources, best first:
-- pokemon.com's expansion lists (en, de, it, es, fr), saved by tools/pokemon_com_expansions.js: the name printed on
-  the pack, its logo and release date. A US expansion page finds its TCGdex set by English name, and its other
-  languages through the page's own language links.
+- The names printed on the packs (en, de, it, es, fr) that sets.json already holds from pokemon.com's expansion
+  pages, with their release dates and logos. pokemon.com's terms forbid downloading its content in bulk, so they are
+  kept as recorded and not fetched again.
 - pokemon-card.com, for Japanese: the name in 「…」 of a booster pack release import_pokemon_card_jp.py named.
-- TCGdex, for any language the above leave out: its set name and logo. Each value records where it came from.
+- TCGdex, for any language the above leave out: its set name. Each value records where it came from.
+
+Logos are links, never copies: TCGdex's logo for the language first, then the recorded pokemon.com logo, then (for
+Japanese) the image of the pokemon-card.com product the set was named from.
 
 Every set's plain booster pack then gets, in each language with an official name, a release named after the set, as
 printed on the pack ("Karmesin & Purpur – Stürmische Funken"), citing the expansion page.
 
-    uv run python tools/import_sets.py --expansions .cache/pokemon-com-expansions.json [--dry-run]
+    uv run python tools/import_sets.py [--dry-run]
 """
 from __future__ import annotations
 
@@ -22,33 +25,12 @@ import sys
 from pathlib import Path
 
 from import_pokemon_card_jp import clean_title, key, official_products, pack_name, release_day
-from import_pokemon_com import launch_day
-from import_tcgplayer import TCGDEX_API, Fetcher, fold
+from import_tcgplayer import TCGDEX_API, Fetcher
 from pkmjson import ROOT, Family, load, validate
 
 POKEMON_COM = "https://www.pokemon.com"
-LOCALES = {"en": "us", "de": "de", "it": "it", "es": "es", "fr": "fr"}
 TCGDEX_LANGUAGES = {"international": ("en", "de", "it", "es", "fr"), "asia": ("ja",)}
-# Series words in front of an expansion's English name: "Scarlet & Violet—Surging Sparks" is TCGdex's "Surging
-# Sparks". The base sets keep the series name ("Scarlet & Violet").
-SERIES_RE = re.compile(r"^(?:scarlet & violet|sword & shield|sun & moon|xy|black & white|hs|"
-                       r"mega evolution|diamond & pearl|platinum|heartgold & soulsilver)\s*[—–-]\s*", re.I)
 DATE_WINDOW_DAYS = 45
-
-
-def strip_tags(text: str) -> str:
-    return re.sub(r"<[^>]+>", "", text).replace("&amp;", "&").strip()
-
-
-def english_key(name: str) -> str:
-    """'Scarlet & Violet—Surging Sparks' and 'EX Team Rocket Returns' as TCGdex names them, folded."""
-    name = re.sub(r"^pok[eé]mon tcg:\s*", "", strip_tags(name), flags=re.I)
-    return fold(SERIES_RE.sub("", re.sub(r"^EX\s+", "", name)))
-
-
-def tcgdex_date(fetcher: Fetcher, set_id: str) -> dt.date | None:
-    released = (fetcher.get(f"{TCGDEX_API}/en/sets/{set_id}") or {}).get("releaseDate")
-    return dt.date.fromisoformat(released) if released else None
 
 
 def plain_pack(families: list[Family]) -> Family | None:
@@ -61,34 +43,19 @@ def plain_pack(families: list[Family]) -> Family | None:
     return chosen[0] if len(chosen) == 1 else None
 
 
-def official_sets(expansions: dict, english_sets: dict[str, str], fetcher: Fetcher) -> tuple[dict, list]:
-    """{tcgdex set id: {lang: {name, logo, releaseDate, source}}} from pokemon.com, and what matched no set."""
-    by_url = {lang: {e["url"].rstrip("/"): e for e in expansions[loc]} for lang, loc in LOCALES.items()}
-    by_name: dict[str, list[str]] = {}
-    for set_id, name in english_sets.items():
-        by_name.setdefault(fold(name), []).append(set_id)
-    found, review = {}, []
-    for url, us in by_url["en"].items():
-        candidates = by_name.get(english_key(us["title"]), [])
-        day = launch_day(f"x: {us.get('releaseDate', '')}")
-        if day and len(candidates) > 1:
-            when = dt.date.fromisoformat(day)
-            candidates = [c for c in candidates if (d := tcgdex_date(fetcher, c)) and abs((d - when).days) <= DATE_WINDOW_DAYS]
-        if len(candidates) != 1:
-            review.append({"page": POKEMON_COM + url, "title": strip_tags(us["title"]), "candidates": candidates})
-            continue
-        entry = {}
-        alternates = (expansions.get("alternates", {}).get(url) or {}).get("alts", {})
-        for lang in LOCALES:
-            page = us if lang == "en" else by_url[lang].get((alternates.get(lang) or "").rstrip("/"))
-            if not page:
+def recorded_official(sets: dict) -> dict[str, dict]:
+    """{tcgdex set id: {lang: {name, releaseDate, source, logo}}}: the pokemon.com values a sets.json holds. A logo
+    borrowed from another language is left out; it is chosen again."""
+    found: dict[str, dict] = {}
+    for entry in sets.values():
+        for lang, value in entry["languages"].items():
+            if entry["region"] != "international" or not value.get("source", "").startswith(POKEMON_COM):
                 continue
-            entry[lang] = {"name": strip_tags(page["title"]), "logo": POKEMON_COM + page["thumbnail"],
-                           "source": POKEMON_COM + page["url"].rstrip("/")}
-            if (released := launch_day(f"x: {page.get('releaseDate', '')}")):
-                entry[lang]["releaseDate"] = released
-        found[candidates[0]] = entry
-    return found, review
+            kept = {k: value[k] for k in ("name", "releaseDate", "source") if k in value}
+            if value.get("logoSource") == "pokemon.com" and "logoLanguage" not in value:
+                kept["logo"] = value["logo"]
+            found.setdefault(entry["set"], {})[lang] = kept
+    return found
 
 
 def japanese_images(fetcher: Fetcher, families: list[Family], sets: dict) -> dict[str, str]:
@@ -135,20 +102,17 @@ def japanese_names(families: list[Family]) -> dict[str, dict]:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--expansions", required=True, type=Path,
-                        help="JSON saved by tools/pokemon_com_expansions.js")
     parser.add_argument("--data", default=ROOT / "data", type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
     parser.add_argument("--out", default=ROOT / "sets" / "sets.json", type=Path)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
     fetcher = Fetcher(args.cache, pause=0.3)
-    expansions = json.loads(args.expansions.read_text(encoding="utf-8"))
     tcgdex = {lang: {s["id"]: s for s in fetcher.get(f"{TCGDEX_API}/{lang}/sets") or []}
               for langs in TCGDEX_LANGUAGES.values() for lang in langs}
 
     families = load(args.data)
-    official, review = official_sets(expansions, {k: v["name"] for k, v in tcgdex["en"].items()}, fetcher)
+    official = recorded_official(json.loads(args.out.read_text(encoding="utf-8")) if args.out.exists() else {})
     japanese = japanese_names(families)
     by_set: dict[tuple[str, str], list[Family]] = {}
     for family in families:
@@ -169,10 +133,10 @@ def main(argv: list[str] | None = None) -> int:
                 value = dict(japanese[set_id])
             if not value.get("name") and brief.get("name"):
                 value = {"name": brief["name"], "source": f"{TCGDEX_API}/{lang}/sets/{set_id}"}
-            if value.get("logo"):
-                value["logoSource"] = "pokemon.com"
-            elif brief.get("logo"):
+            if brief.get("logo"):
                 value.update(logo=brief["logo"] + ".png", logoSource="tcgdex")
+            elif value.get("logo"):
+                value["logoSource"] = "pokemon.com"
             elif region == "asia" and set_id in images:
                 value.update(logo=images[set_id], logoSource="pokemon-card.com", logoKind="product image")
             if value:
@@ -213,8 +177,7 @@ def main(argv: list[str] | None = None) -> int:
             renamed += 1
 
     print(f"{len(sets)} sets, {len(official)} with pokemon.com names, {len(japanese)} with pokemon-card.com names, "
-          f"{len(missing_logo)} set languages without a logo, {renamed} booster pack releases renamed, "
-          f"{len(review)} pokemon.com expansions matched no set")
+          f"{len(missing_logo)} set languages without a logo, {renamed} booster pack releases renamed")
     if args.dry_run:
         return 0
     args.out.parent.mkdir(parents=True, exist_ok=True)
@@ -222,7 +185,7 @@ def main(argv: list[str] | None = None) -> int:
     for family in changed.values():
         family.path.write_text(json.dumps(family.data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (ROOT / "review" / "sets.json").write_text(
-        json.dumps({"unmatched_expansions": review, "missing_logo": missing_logo}, ensure_ascii=False, indent=1) + "\n",
+        json.dumps({"missing_logo": missing_logo}, ensure_ascii=False, indent=1) + "\n",
         encoding="utf-8")
     errors = validate(load(args.data), args.data)
     if errors:
