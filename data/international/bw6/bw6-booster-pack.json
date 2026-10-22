@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Dragons Exalted Booster Pack",
+      "name": "Black & White—Dragons Exalted",
       "identifiers": {
         "tcgplayerProductIds": [
           98541
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98541/pokemon-dragons-exalted-dragons-exalted-booster-pack"
+        "https://www.tcgplayer.com/product/98541/pokemon-dragons-exalted-dragons-exalted-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-dragons-exalted"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Dragons Éxaltés",
+      "name": "Noir & Blanc – Dragons Exaltés",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-dragons-exaltes"
       ]
     }
   ]

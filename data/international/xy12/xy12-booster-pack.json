@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Evolutions Booster Pack",
+      "name": "XY—Evolutions",
       "identifiers": {
         "tcgplayerProductIds": [
           129907
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/129907/pokemon-xy-evolutions-evolutions-booster-pack"
+        "https://www.tcgplayer.com/product/129907/pokemon-xy-evolutions-evolutions-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-evolutions"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Évolutions",
+      "name": "XY – Évolutions",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Lougaroc-GX"
+        "https://www.pokepedia.fr/Coffret_Lougaroc-GX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-evolutions"
       ]
     }
   ]

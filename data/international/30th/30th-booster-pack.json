@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "30th Celebration Booster Pack",
+      "name": "30th Celebration",
       "releaseDate": "2026-09-16",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,14 +21,16 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/696613/pokemon-me-30th-celebration-30th-celebration-booster-pack"
+        "https://www.tcgplayer.com/product/696613/pokemon-me-30th-celebration-30th-celebration-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/30th-celebration"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster 30ᵉ Anniversaire",
+      "name": "30ᵉ Anniversaire",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_30e_Anniversaire"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_30e_Anniversaire",
+        "https://www.pokemon.com/fr/jcc-pokemon/30-anniversaire"
       ]
     }
   ]

@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Unbroken Bonds Booster Pack",
+      "name": "Sun & Moon—Unbroken Bonds",
       "releaseDate": "2019-05-03",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/185718/pokemon-sm-unbroken-bonds-unbroken-bonds-booster-pack"
+        "https://www.tcgplayer.com/product/185718/pokemon-sm-unbroken-bonds-unbroken-bonds-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-unbroken-bonds"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Alliance Infaillible",
+      "name": "Soleil et Lune – Alliance Infaillible",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Alliance_Infaillible"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Alliance_Infaillible",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-alliance-infaillible"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Kräfte im Einklang",
+      "name": "Sonne & Mond – Kräfte im Einklang",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-kraefte-im-einklang"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-kraefte-im-einklang",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/sonne-mond-kraefte-im-einklang"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Legami Inossidabili",
+      "name": "Sole e Luna - Legami Inossidabili",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-legami-inossidabili"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-legami-inossidabili",
+        "https://www.pokemon.com/it/gcc/sole-e-luna-legami-inossidabili"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Vínculos Indestructibles",
+      "name": "Sol y Luna-Vínculos Indestructibles",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-vinculos-indestructibles"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-vinculos-indestructibles",
+        "https://www.pokemon.com/es/jcc-pokemon/sol-y-luna-vinculos-indestructibles"
       ]
     }
   ]

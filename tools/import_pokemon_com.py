@@ -23,7 +23,7 @@ from pathlib import Path
 
 from import_pokepedia import MARGIN, MIN_SCORE, similarity, tokens
 from import_tcgplayer import TCGDEX_API, Fetcher, fold
-from pkmjson import ROOT, Family, load, validate
+from pkmjson import ROOT, Family, load, official_set_names, validate
 
 REGION = "international"
 LANGUAGES = ("de", "it", "es", "fr")
@@ -149,6 +149,7 @@ def main(argv: list[str] | None = None) -> int:
                  for lang in LANGUAGES}
 
     catalog = Catalog(load(args.data))
+    printed = official_set_names()
     review, added, changed = [], {lang: 0 for lang in LANGUAGES}, {}
     claimed: dict[str, str] = {}
     for path, page in sorted(products.items()):
@@ -212,7 +213,8 @@ def main(argv: list[str] | None = None) -> int:
                     continue
                 if child.data["category"] == "booster_pack" and child.data["set"] in set_names[lang]:
                     child.data["releases"].append({"language": lang,
-                                                   "name": PACK_NAME[lang].format(set_names[lang][child.data["set"]]),
+                                                   "name": printed.get((REGION, child.data["set"], lang)) or
+                                                   PACK_NAME[lang].format(set_names[lang][child.data["set"]]),
                                                    "sources": [release["sources"][0]]})
                     changed[child.data["id"]] = child
     # A release whose nested products still lack that language cannot stand.

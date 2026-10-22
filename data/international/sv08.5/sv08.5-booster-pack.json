@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Prismatic Evolutions Booster Pack",
+      "name": "Scarlet & Violet—Prismatic Evolutions",
       "releaseDate": "2025-01-17",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/593294/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-pack"
+        "https://www.tcgplayer.com/product/593294/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-prismatic-evolutions"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Évolutions Prismatiques",
+      "name": "Écarlate et Violet – Évolutions Prismatiques",
       "sources": [
-        "https://www.pokepedia.fr/Collection_classeur_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques"
+        "https://www.pokepedia.fr/Collection_classeur_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-evolutions-prismatiques"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Evoluzioni Prismatiche",
+      "name": "Scarlatto e Violetto - Evoluzioni Prismatiche",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-evoluzioni-prismatiche"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Prismatische Entwicklungen",
+      "name": "Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ordner-kollektion-karmesin-purpur-prismatische-entwicklungen"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ordner-kollektion-karmesin-purpur-prismatische-entwicklungen",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-prismatische-entwicklungen"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Evoluciones Prismáticas",
+      "name": "Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-evoluciones-prismaticas"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-evoluciones-prismaticas",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-evoluciones-prismaticas"
       ]
     }
   ]

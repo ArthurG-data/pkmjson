@@ -13,28 +13,31 @@
   "releases": [
     {
       "language": "en",
-      "name": "Stellar Crown Booster Pack",
+      "name": "Scarlet & Violet—Stellar Crown",
       "identifiers": {
         "tcgplayerProductIds": [
           557331
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/557331/pokemon-sv07-stellar-crown-stellar-crown-booster-pack"
+        "https://www.tcgplayer.com/product/557331/pokemon-sv07-stellar-crown-stellar-crown-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-stellar-crown"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Couronne Stellaire",
+      "name": "Écarlate et Violet – Couronne Stellaire",
       "sources": [
-        "https://www.pokepedia.fr/Tripack_EV07_Latias"
+        "https://www.pokepedia.fr/Tripack_EV07_Latias",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-couronne-stellaire"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Corona Astrale",
+      "name": "Scarlatto e Violetto - Corona Astrale",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-corona-astrale"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-corona-astrale",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-corona-astrale"
       ]
     }
   ]

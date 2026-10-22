@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "XY Fates Collide Booster Pack",
+      "name": "XY—Fates Collide",
       "identifiers": {
         "tcgplayerProductIds": [
           168114
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/168114/pokemon-xy-fates-collide-xy-fates-collide-booster-pack"
+        "https://www.tcgplayer.com/product/168114/pokemon-xy-fates-collide-xy-fates-collide-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-fates-collide"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Impact des Destins",
+      "name": "XY – Impact des Destins",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Gardiens_des_%C3%8Eles_Tokotoro-GX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Gardiens_des_%C3%8Eles_Tokotoro-GX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-impact-des-destins"
       ]
     }
   ]

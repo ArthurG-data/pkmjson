@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Forbidden Light Booster Pack",
+      "name": "Sun & Moon—Forbidden Light",
       "releaseDate": "2018-05-04",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/164297/pokemon-sm-forbidden-light-forbidden-light-booster-pack"
+        "https://www.tcgplayer.com/product/164297/pokemon-sm-forbidden-light-forbidden-light-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-forbidden-light"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Lumière Interdite",
+      "name": "Soleil et Lune – Lumière Interdite",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Lumi%C3%A8re_Interdite"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Lumi%C3%A8re_Interdite",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-lumiere-interdite"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Luz Prohibida",
+      "name": "Sol y Luna-Luz Prohibida",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-luz-prohibida"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-luz-prohibida",
+        "https://www.pokemon.com/es/jcc-pokemon/sol-y-luna-luz-prohibida"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Grauen Der Lichtfinsternis",
+      "name": "Sonne & Mond – Grauen der Lichtfinsternis",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-grauen-der-lichtfinsternis"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-grauen-der-lichtfinsternis",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/sonne-mond-grauen-der-lichtfinsternis"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Apocalisse Di Luce",
+      "name": "Sole e Luna - Apocalisse di Luce",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-apocalisse-di-luce"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-apocalisse-di-luce",
+        "https://www.pokemon.com/it/gcc/sole-e-luna-apocalisse-di-luce"
       ]
     }
   ]

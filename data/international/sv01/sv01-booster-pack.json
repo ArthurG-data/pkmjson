@@ -13,14 +13,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "Scarlet & Violet Booster Pack",
+      "name": "Scarlet & Violet",
       "identifiers": {
         "tcgplayerProductIds": [
           476451
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/476451/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-pack"
+        "https://www.tcgplayer.com/product/476451/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet"
       ]
     }
   ]

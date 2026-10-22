@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Ultra Prism Booster Pack",
+      "name": "Sun & Moon—Ultra Prism",
       "releaseDate": "2018-02-02",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,7 +21,8 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/155662/pokemon-sm-ultra-prism-ultra-prism-booster-pack"
+        "https://www.tcgplayer.com/product/155662/pokemon-sm-ultra-prism-ultra-prism-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-ultra-prism"
       ]
     }
   ]

@@ -13,14 +13,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "Emerald Booster Pack",
+      "name": "EX Emerald",
       "identifiers": {
         "tcgplayerProductIds": [
           98546
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98546/pokemon-ex-emerald-emerald-booster-pack"
+        "https://www.tcgplayer.com/product/98546/pokemon-ex-emerald-emerald-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-emerald"
       ]
     }
   ]

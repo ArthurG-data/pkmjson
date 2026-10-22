@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Sun & Moon Booster Pack",
+      "name": "Sun & Moon",
       "identifiers": {
         "tcgplayerProductIds": [
           129385
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/129385/pokemon-sm-base-set-sun-and-moon-booster-pack"
+        "https://www.tcgplayer.com/product/129385/pokemon-sm-base-set-sun-and-moon-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Soleil et Lune",
+      "name": "Soleil et Lune",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Lougaroc-GX"
+        "https://www.pokepedia.fr/Coffret_Lougaroc-GX",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune"
       ]
     }
   ]

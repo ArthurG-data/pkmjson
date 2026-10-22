@@ -1,4 +1,5 @@
-"""Write dist/AllProducts.json: one entry per product and language. Refuses to build invalid data."""
+"""Write dist/AllProducts.json (one entry per product and language) and dist/AllSets.json (each set's printed name
+and logo per language). Refuses to build invalid data."""
 from __future__ import annotations
 
 import argparse
@@ -7,7 +8,7 @@ import json
 import sys
 from pathlib import Path
 
-from pkmjson import ROOT, flatten, load, validate
+from pkmjson import ROOT, SETS, flatten, load, validate
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -27,6 +28,11 @@ def main(argv: list[str] | None = None) -> int:
     (args.out / "AllProducts.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1) + "\n",
                                                encoding="utf-8")
     print(f"{len(families)} products, {len(products)} language releases -> {args.out / 'AllProducts.json'}")
+    if SETS.exists():
+        sets = json.loads(SETS.read_text(encoding="utf-8"))
+        (args.out / "AllSets.json").write_text(json.dumps({"meta": payload["meta"], "data": sets}, ensure_ascii=False,
+                                                          indent=1) + "\n", encoding="utf-8")
+        print(f"{len(sets)} sets -> {args.out / 'AllSets.json'}")
     return 0
 
 

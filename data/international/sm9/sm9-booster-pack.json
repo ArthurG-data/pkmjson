@@ -13,42 +13,47 @@
   "releases": [
     {
       "language": "en",
-      "name": "Team Up Booster Pack",
+      "name": "Sun & Moon—Team Up",
       "identifiers": {
         "tcgplayerProductIds": [
           181699
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/181699/pokemon-sm-team-up-team-up-booster-pack"
+        "https://www.tcgplayer.com/product/181699/pokemon-sm-team-up-team-up-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-team-up"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Duo de Choc",
+      "name": "Soleil et Lune – Duo de Choc",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Duo_de_Choc"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Duo_de_Choc",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-duo-de-choc"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Teams Sind Trumpf",
+      "name": "Sonne & Mond – Teams sind Trumpf",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-teams-sind-trumpf"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-teams-sind-trumpf",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/sonne-mond-teams-sind-trumpf"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Union de Aliados",
+      "name": "Sol y Luna-Unión de Aliados",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-union-de-aliados"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-union-de-aliados",
+        "https://www.pokemon.com/es/jcc-pokemon/sol-y-luna-union-de-aliados"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Gioco di Squadra",
+      "name": "Sole e Luna - Gioco di Squadra",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-gioco-di-squadra"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-gioco-di-squadra",
+        "https://www.pokemon.com/it/gcc/sole-e-luna-gioco-di-squadra"
       ]
     }
   ]

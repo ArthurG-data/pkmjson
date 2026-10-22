@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Rebel Clash Booster Pack",
+      "name": "Sword & Shield—Rebel Clash",
       "releaseDate": "2020-05-01",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,28 +21,32 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/210562/pokemon-swsh02-rebel-clash-rebel-clash-booster-pack"
+        "https://www.tcgplayer.com/product/210562/pokemon-swsh02-rebel-clash-rebel-clash-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-rebel-clash"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Clash des Rebelles",
+      "name": "Épée et Bouclier – Clash des Rebelles",
       "sources": [
-        "https://www.pokepedia.fr/Collection_avec_pin%27s_Morpeko"
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Morpeko",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-clash-des-rebelles"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Clash der Rebellen",
+      "name": "Schwert & Schild – Clash der Rebellen",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-clash-der-rebellen"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-clash-der-rebellen",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schwert-schild-clash-der-rebellen"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Fragore Ribelle",
+      "name": "Spada e Scudo - Fragore Ribelle",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fragore-ribelle"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fragore-ribelle",
+        "https://www.pokemon.com/it/gcc/spada-e-scudo-fragore-ribelle"
       ]
     }
   ]

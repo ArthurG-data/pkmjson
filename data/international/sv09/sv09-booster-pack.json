@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Journey Together Booster Pack",
+      "name": "Scarlet & Violet—Journey Together",
       "identifiers": {
         "tcgplayerProductIds": [
           610935
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/610935/pokemon-sv09-journey-together-journey-together-booster-pack"
+        "https://www.tcgplayer.com/product/610935/pokemon-sv09-journey-together-journey-together-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-journey-together"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Aventures Ensemble",
+      "name": "Écarlate et Violet – Aventures Ensemble",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Aventures_Ensemble"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Aventures_Ensemble",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-aventures-ensemble"
       ]
     }
   ]

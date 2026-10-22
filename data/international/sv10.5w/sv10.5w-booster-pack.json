@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "White Flare Booster Pack",
+      "name": "Scarlet & Violet—White Flare",
       "releaseDate": "2025-07-18",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/630699/pokemon-sv-white-flare-white-flare-booster-pack"
+        "https://www.tcgplayer.com/product/630699/pokemon-sv-white-flare-white-flare-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-white-flare"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Flamme Blanche",
+      "name": "Écarlate et Violet – Flamme Blanche",
       "sources": [
-        "https://www.pokepedia.fr/Collection_poster_Unys"
+        "https://www.pokepedia.fr/Collection_poster_Unys",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-flamme-blanche"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Fuoco Bianco",
+      "name": "Scarlatto e Violetto - Fuoco Bianco",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-fuoco-bianco"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Weiße Flammen",
+      "name": "Karmesin & Purpur – Weiße Flammen",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-weisse-flammen"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Llama Blanca",
+      "name": "Escarlata y Púrpura-Llama Blanca",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-llama-blanca"
       ]
     }
   ]

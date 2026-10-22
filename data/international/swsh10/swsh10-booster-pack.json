@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Astral Radiance Booster Pack",
+      "name": "Sword & Shield—Astral Radiance",
       "releaseDate": "2022-05-27",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/265521/pokemon-swsh10-astral-radiance-astral-radiance-booster-pack"
+        "https://www.tcgplayer.com/product/265521/pokemon-swsh10-astral-radiance-astral-radiance-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-astral-radiance"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Astres Radieux",
+      "name": "Épée et Bouclier – Astres Radieux",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Astres_Radieux"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Astres_Radieux",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-astres-radieux"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Astralglanz",
+      "name": "Schwert & Schild – Astralglanz",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-astralglanz"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-astralglanz",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schwert-schild-astralglanz"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Resplandor Astral",
+      "name": "Espada y Escudo-Resplandor Astral",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-eite-de-espada-y-escudo-resplandor-astral"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-eite-de-espada-y-escudo-resplandor-astral",
+        "https://www.pokemon.com/es/jcc-pokemon/espada-y-escudo-resplandor-astral"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Lucentezza Siderale",
+      "name": "Spada e Scudo - Lucentezza Siderale",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-lucentezza-siderale"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-lucentezza-siderale",
+        "https://www.pokemon.com/it/gcc/spada-e-scudo-lucentezza-siderale"
       ]
     }
   ]

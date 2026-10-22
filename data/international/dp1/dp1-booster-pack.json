@@ -13,14 +13,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "Diamond and Pearl Booster Pack",
+      "name": "Diamond & Pearl",
       "identifiers": {
         "tcgplayerProductIds": [
           98525
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98525/pokemon-diamond-and-pearl-diamond-and-pearl-booster-pack"
+        "https://www.tcgplayer.com/product/98525/pokemon-diamond-and-pearl-diamond-and-pearl-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/diamond-amp-pearl"
       ]
     }
   ]

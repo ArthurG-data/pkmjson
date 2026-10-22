@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "XY BREAKthrough Booster Pack",
+      "name": "XY—BREAKthrough",
       "identifiers": {
         "tcgplayerProductIds": [
           107666
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/107666/pokemon-xy-breakthrough-xy-breakthrough-booster-pack"
+        "https://www.tcgplayer.com/product/107666/pokemon-xy-breakthrough-xy-breakthrough-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-breakthrough"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Impulsion Turbo",
+      "name": "XY – Impulsion TURBO",
       "sources": [
-        "https://www.pokepedia.fr/Tripack_XY12_Kyurem_Noir"
+        "https://www.pokepedia.fr/Tripack_XY12_Kyurem_Noir",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-impulsion-turbo"
       ]
     }
   ]

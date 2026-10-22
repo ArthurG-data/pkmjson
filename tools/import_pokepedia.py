@@ -19,7 +19,7 @@ import urllib.parse
 from pathlib import Path
 
 from import_tcgplayer import NUMBER_WORDS, TCGDEX_API, Fetcher, fold
-from pkmjson import ROOT, load, validate
+from pkmjson import ROOT, load, official_set_names, validate
 
 API = "https://www.pokepedia.fr/api.php"
 PAGE = "https://www.pokepedia.fr/"
@@ -188,6 +188,7 @@ def main(argv: list[str] | None = None) -> int:
     french_sets = {s["id"]: s["name"] for s in fetcher.get(f"{TCGDEX_API}/fr/sets") or []}
     families = load(args.data)
     catalog = Catalog(families, french_sets)
+    printed = official_set_names()
     titles = product_titles(fetcher)
     texts = wikitexts(fetcher, titles)
 
@@ -239,7 +240,9 @@ def main(argv: list[str] | None = None) -> int:
                     continue
                 if child.data["category"] == "booster_pack" and child.data["set"] in french_sets:
                     child.data["releases"].append({
-                        "language": LANGUAGE, "name": f"Booster {french_sets[child.data['set']]}",
+                        "language": LANGUAGE,
+                        "name": printed.get((REGION, child.data["set"], LANGUAGE))
+                        or f"Booster {french_sets[child.data['set']]}",
                         "sources": [release["sources"][0]]})
                     changed_paths.add(child.path)
     # A French release whose nested products still have no French release cannot stand.

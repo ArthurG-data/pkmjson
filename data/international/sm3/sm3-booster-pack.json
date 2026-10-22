@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Burning Shadows Booster Pack",
+      "name": "Sun & Moon—Burning Shadows",
       "identifiers": {
         "tcgplayerProductIds": [
           133774
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/133774/pokemon-sm-burning-shadows-burning-shadows-booster-pack"
+        "https://www.tcgplayer.com/product/133774/pokemon-sm-burning-shadows-burning-shadows-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-burning-shadows"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Ombres Ardentes",
+      "name": "Soleil et Lune – Ombres Ardentes",
       "sources": [
-        "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX"
+        "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-ombres-ardentes"
       ]
     }
   ]

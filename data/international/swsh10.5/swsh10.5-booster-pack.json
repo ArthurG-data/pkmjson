@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Pokemon GO Booster Pack",
+      "name": "Pokémon GO",
       "releaseDate": "2022-07-01",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/274421/pokemon-pokemon-go-pokemon-go-booster-pack"
+        "https://www.tcgplayer.com/product/274421/pokemon-pokemon-go-pokemon-go-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/pokemon-go"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Pokémon GO",
+      "name": "Pokémon GO",
       "sources": [
-        "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_GO_Noadkoko_d%27Alola-V"
+        "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_GO_Noadkoko_d%27Alola-V",
+        "https://www.pokemon.com/fr/jcc-pokemon/pokemon-go"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Pokémon GO",
+      "name": "Pokémon GO",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/pokemon-go"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Pokémon GO",
+      "name": "Pokémon GO",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball",
+        "https://www.pokemon.com/it/gcc/pokemon-go"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Pokémon GO",
+      "name": "Pokémon GO",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball",
+        "https://www.pokemon.com/es/jcc-pokemon/pokemon-go"
       ]
     }
   ]

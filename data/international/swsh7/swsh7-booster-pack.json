@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Evolving Skies Booster Pack",
+      "name": "Sword & Shield—Evolving Skies",
       "releaseDate": "2021-08-27",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,7 +21,8 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/244337/pokemon-swsh07-evolving-skies-evolving-skies-booster-pack"
+        "https://www.tcgplayer.com/product/244337/pokemon-swsh07-evolving-skies-evolving-skies-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-evolving-skies"
       ]
     }
   ]

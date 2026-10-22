@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Sword & Shield Booster Pack",
+      "name": "Sword & Shield",
       "releaseDate": "2020-02-07",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,14 +21,16 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/206028/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-booster-pack"
+        "https://www.tcgplayer.com/product/206028/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Épée et Bouclier",
+      "name": "Épée et Bouclier",
       "sources": [
-        "https://www.pokepedia.fr/Coffre_de_collection_%28Printemps_2020%29"
+        "https://www.pokepedia.fr/Coffre_de_collection_%28Printemps_2020%29",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier"
       ]
     }
   ]

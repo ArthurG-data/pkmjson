@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Chilling Reign Booster Pack",
+      "name": "Sword & Shield—Chilling Reign",
       "identifiers": {
         "tcgplayerProductIds": [
           236257
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/236257/pokemon-swsh06-chilling-reign-chilling-reign-booster-pack"
+        "https://www.tcgplayer.com/product/236257/pokemon-swsh06-chilling-reign-chilling-reign-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-chilling-reign"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Règne de Glace",
+      "name": "Épée et Bouclier – Règne de Glace",
       "sources": [
-        "https://www.pokepedia.fr/Duopack_Artikodin_de_Galar%2C_%C3%89lecthor_de_Galar_et_Sulfura_de_Galar"
+        "https://www.pokepedia.fr/Duopack_Artikodin_de_Galar%2C_%C3%89lecthor_de_Galar_et_Sulfura_de_Galar",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-regne-de-glace"
       ]
     }
   ]

@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Rising Rivals Booster Pack",
+      "name": "Platinum—Rising Rivals",
       "identifiers": {
         "tcgplayerProductIds": [
           98542
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98542/pokemon-rising-rivals-rising-rivals-booster-pack"
+        "https://www.tcgplayer.com/product/98542/pokemon-rising-rivals-rising-rivals-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/rising-rivals"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Rivaux Émergeants",
+      "name": "Platine - Rivaux Émergeants",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X",
+        "https://www.pokemon.com/fr/jcc-pokemon/rivaux-emergeants"
       ]
     }
   ]

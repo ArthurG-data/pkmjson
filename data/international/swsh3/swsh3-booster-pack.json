@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Darkness Ablaze Booster Pack",
+      "name": "Sword & Shield—Darkness Ablaze",
       "releaseDate": "2020-08-14",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,28 +21,32 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/216852/pokemon-swsh03-darkness-ablaze-darkness-ablaze-booster-pack"
+        "https://www.tcgplayer.com/product/216852/pokemon-swsh03-darkness-ablaze-darkness-ablaze-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Ténèbres Embrasées",
+      "name": "Épée et Bouclier – Ténèbres Embrasées",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_T%C3%A9n%C3%A8bres_Embras%C3%A9es"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_T%C3%A9n%C3%A8bres_Embras%C3%A9es",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-tenebres-embrasees"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Flammende Finsternis",
+      "name": "Schwert & Schild – Flammende Finsternis",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-flammende-finsternis"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-flammende-finsternis",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schwert-schild-flammende-finsternis"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Fiamme Oscure",
+      "name": "Spada e Scudo - Fiamme Oscure",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fiamme-oscure"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fiamme-oscure",
+        "https://www.pokemon.com/it/gcc/spada-e-scudo-fiamme-oscure"
       ]
     }
   ]

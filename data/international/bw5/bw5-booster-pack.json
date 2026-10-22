@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Dark Explorers Booster Pack",
+      "name": "Black & White—Dark Explorers",
       "identifiers": {
         "tcgplayerProductIds": [
           98521
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98521/pokemon-dark-explorers-dark-explorers-booster-pack"
+        "https://www.tcgplayer.com/product/98521/pokemon-dark-explorers-dark-explorers-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-dark-explorers"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Explorateurs Obscurs",
+      "name": "JCC Pokémon : Noir & Blanc – Explorateurs Obscurs",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-explorateurs-obscurs"
       ]
     }
   ]

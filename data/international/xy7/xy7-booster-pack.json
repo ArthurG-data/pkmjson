@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "XY Ancient Origins Booster Pack",
+      "name": "XY—Ancient Origins",
       "releaseDate": "2015-08-12",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,14 +21,16 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/100490/pokemon-xy-ancient-origins-xy-ancient-origins-booster-pack"
+        "https://www.tcgplayer.com/product/100490/pokemon-xy-ancient-origins-xy-ancient-origins-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-ancient-origins"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Origines Antiques",
+      "name": "XY – Origines Antiques",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-M%C3%A9talosse-EX"
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-M%C3%A9talosse-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-origines-antiques"
       ]
     }
   ]

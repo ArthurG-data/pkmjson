@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Boundaries Crossed Booster Pack",
+      "name": "Black & White—Boundaries Crossed",
       "identifiers": {
         "tcgplayerProductIds": [
           98554
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98554/pokemon-boundaries-crossed-boundaries-crossed-booster-pack"
+        "https://www.tcgplayer.com/product/98554/pokemon-boundaries-crossed-boundaries-crossed-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-boundaries-crossed"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Frontières Franchies",
+      "name": "Noir & Blanc – Frontières Franchies",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-frontieres-franchies"
       ]
     }
   ]

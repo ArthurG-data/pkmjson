@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Phantasmal Flames Booster Pack",
+      "name": "Mega Evolution—Phantasmal Flames",
       "releaseDate": "2025-11-14",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,7 +21,8 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/654144/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-pack"
+        "https://www.tcgplayer.com/product/654144/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-phantasmal-flames"
       ]
     }
   ]

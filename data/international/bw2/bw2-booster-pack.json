@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Emerging Powers Booster Pack",
+      "name": "Black & White—Emerging Powers",
       "identifiers": {
         "tcgplayerProductIds": [
           98549
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98549/pokemon-emerging-powers-emerging-powers-booster-pack"
+        "https://www.tcgplayer.com/product/98549/pokemon-emerging-powers-emerging-powers-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-emerging-powers"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Pouvoirs Émergents",
+      "name": "JCC Pokémon : Noir & Blanc - Pouvoirs Émergents",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-pouvoirs-emergents"
       ]
     }
   ]

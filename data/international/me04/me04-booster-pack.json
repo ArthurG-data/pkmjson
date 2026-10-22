@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Chaos Rising Booster Pack",
+      "name": "Mega Evolution—Chaos Rising",
       "releaseDate": "2026-05-22",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,7 +21,8 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/684446/pokemon-me04-chaos-rising-chaos-rising-booster-pack"
+        "https://www.tcgplayer.com/product/684446/pokemon-me04-chaos-rising-chaos-rising-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-chaos-rising"
       ]
     }
   ]

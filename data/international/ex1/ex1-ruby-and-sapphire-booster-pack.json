@@ -13,14 +13,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "Ruby and Sapphire Booster Pack",
+      "name": "EX Ruby & Sapphire",
       "identifiers": {
         "tcgplayerProductIds": [
           98558
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98558/pokemon-ex-ruby-and-sapphire-ruby-and-sapphire-booster-pack"
+        "https://www.tcgplayer.com/product/98558/pokemon-ex-ruby-and-sapphire-ruby-and-sapphire-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-ruby-amp-sapphire"
       ]
     }
   ]

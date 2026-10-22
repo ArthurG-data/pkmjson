@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Black and White Booster Pack",
+      "name": "Black & White",
       "identifiers": {
         "tcgplayerProductIds": [
           98553
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98553/pokemon-black-and-white-black-and-white-booster-pack"
+        "https://www.tcgplayer.com/product/98553/pokemon-black-and-white-black-and-white-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Noir & Blanc",
+      "name": "JCC Pokémon : Noir & Blanc",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Victini"
+        "https://www.pokepedia.fr/Coffret_Victini",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc"
       ]
     }
   ]

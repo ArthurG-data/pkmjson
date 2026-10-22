@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "XY Booster Pack",
+      "name": "XY",
       "identifiers": {
         "tcgplayerProductIds": [
           91602
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/91602/pokemon-xy-base-set-xy-booster-pack"
+        "https://www.tcgplayer.com/product/91602/pokemon-xy-base-set-xy-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster XY",
+      "name": "XY",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Carchacrok-EX"
+        "https://www.pokepedia.fr/Coffret_Carchacrok-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy"
       ]
     }
   ]

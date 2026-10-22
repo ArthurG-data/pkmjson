@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Champion's Path Booster Pack",
+      "name": "Champion’s Path",
       "releaseDate": "2020-09-25",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,35 +21,40 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/218789/pokemon-champions-path-champions-path-booster-pack"
+        "https://www.tcgplayer.com/product/218789/pokemon-champions-path-champions-path-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/champions-path"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster La Voie du Maître",
+      "name": "La Voie du Maître",
       "sources": [
-        "https://www.pokepedia.fr/Collection_La_Voie_du_Ma%C3%AEtre_Moumouflon-V"
+        "https://www.pokepedia.fr/Collection_La_Voie_du_Ma%C3%AEtre_Moumouflon-V",
+        "https://www.pokemon.com/fr/jcc-pokemon/la-voie-du-maitre"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Camino de Campeones",
+      "name": "Camino de Campeones",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-dubwool-v-de-camino-de-campeones"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-dubwool-v-de-camino-de-campeones",
+        "https://www.pokemon.com/es/jcc-pokemon/camino-de-campeones"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Weg des Champs",
+      "name": "Weg des Champs",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-zwollock-v-der-erweiterung-weg-des-champs"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-zwollock-v-der-erweiterung-weg-des-champs",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/weg-des-champs"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Futuri Campioni",
+      "name": "Futuri Campioni",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-dubwool-v-dellespansione-futuri-campioni"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-dubwool-v-dellespansione-futuri-campioni",
+        "https://www.pokemon.com/it/gcc/futuri-campioni"
       ]
     }
   ]

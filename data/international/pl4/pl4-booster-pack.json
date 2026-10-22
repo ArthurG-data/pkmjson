@@ -13,14 +13,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "Arceus Booster Pack",
+      "name": "Platinum—Arceus",
       "identifiers": {
         "tcgplayerProductIds": [
           98594
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98594/pokemon-arceus-arceus-booster-pack"
+        "https://www.tcgplayer.com/product/98594/pokemon-arceus-arceus-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/arceus"
       ]
     }
   ]

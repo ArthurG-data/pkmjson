@@ -10,14 +10,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "HeartGold SoulSilver Booster Pack",
+      "name": "HeartGold & SoulSilver",
       "identifiers": {
         "tcgplayerProductIds": [
           98530
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98530/pokemon-heartgold-soulsilver-heartgold-soulsilver-booster-pack"
+        "https://www.tcgplayer.com/product/98530/pokemon-heartgold-soulsilver-heartgold-soulsilver-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/heartgold-amp-soulsilver"
       ]
     }
   ]

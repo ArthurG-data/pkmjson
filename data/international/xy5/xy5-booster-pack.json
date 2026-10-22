@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "XY Primal Clash Booster Pack",
+      "name": "XY—Primal Clash",
       "identifiers": {
         "tcgplayerProductIds": [
           97751
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/97751/pokemon-xy-primal-clash-xy-primal-clash-booster-pack"
+        "https://www.tcgplayer.com/product/97751/pokemon-xy-primal-clash-xy-primal-clash-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-primal-clash"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Primo-Choc",
+      "name": "XY – Primo-Choc",
       "sources": [
-        "https://www.pokepedia.fr/Tripack_XY05_M%C3%A9tamorph"
+        "https://www.pokepedia.fr/Tripack_XY05_M%C3%A9tamorph",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-primo-choc"
       ]
     }
   ]

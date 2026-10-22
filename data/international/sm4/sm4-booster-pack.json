@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Crimson Invasion Booster Pack",
+      "name": "Sun & Moon—Crimson Invasion",
       "releaseDate": "2017-11-03",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,14 +21,16 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/146996/pokemon-sm-crimson-invasion-crimson-invasion-booster-pack"
+        "https://www.tcgplayer.com/product/146996/pokemon-sm-crimson-invasion-crimson-invasion-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sun-moon-crimson-invasion"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Invasion Carmin",
+      "name": "Soleil et Lune – Invasion Carmin",
       "sources": [
-        "https://www.pokepedia.fr/Tripack_SL04_Arch%C3%A9duc"
+        "https://www.pokepedia.fr/Tripack_SL04_Arch%C3%A9duc",
+        "https://www.pokemon.com/fr/jcc-pokemon/soleil-et-lune-invasion-carmin"
       ]
     }
   ]

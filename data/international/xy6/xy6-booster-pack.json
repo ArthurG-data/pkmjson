@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Roaring Skies Booster Pack",
+      "name": "XY—Roaring Skies",
       "identifiers": {
         "tcgplayerProductIds": [
           129906
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/129906/pokemon-xy-roaring-skies-roaring-skies-booster-pack"
+        "https://www.tcgplayer.com/product/129906/pokemon-xy-roaring-skies-roaring-skies-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-roaring-skies"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Ciel Rugissant",
+      "name": "XY – Ciel Rugissant",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_C%C5%93ur_au_Combat_Magearna-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_C%C5%93ur_au_Combat_Magearna-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-ciel-rugissant"
       ]
     }
   ]

@@ -50,7 +50,10 @@ The full format is `schema/product.schema.json`.
 ## Build output
 
 `python tools/build.py` writes `dist/AllProducts.json`, with one entry per product and language, keyed
-`<id>:<language>` (`sv08-etb:fr`). Each entry's `identifiers` holds the family's ids and the release's. Tagged releases attach that file to a GitHub release.
+`<id>:<language>` (`sv08-etb:fr`). It also writes `dist/AllSets.json`, a copy of `sets/sets.json`. That file gives
+each set's name as printed on its packs and a logo, per language, keyed `<region>/<set>`. Each value cites its
+source. `logoSource` says where the logo comes from. `logoLanguage` marks a logo borrowed from another language
+because the set has none of its own. `logoKind` marks a product image or set symbol used where no logo exists. Each entry's `identifiers` holds the family's ids and the release's. Tagged releases attach that file to a GitHub release.
 
 ## Where the data comes from
 
@@ -66,8 +69,12 @@ The full format is `schema/product.schema.json`.
   to its other-language versions. pokemon.com refuses scripted clients, so `tools/pokemon_com_crawl.js` runs in a
   browser tab on www.pokemon.com and returns the pages as JSON. `tools/import_pokemon_com.py --crawl <file>` then
   matches each US page to its family by English name. It adds a release only when that language's page states the
-  same number of booster packs as the US page. Each nested booster pack gets a release named after its TCGdex set,
-  as the French import does.
+  same number of booster packs as the US page.
+- **Set names and logos:** `tools/import_sets.py` builds `sets/sets.json` from three sources. pokemon.com's
+  expansion lists come first (fetched in a browser by `tools/pokemon_com_expansions.js`). pokemon-card.com's pack
+  names cover Japanese. TCGdex fills what both leave out. The tool also names each set's own booster pack, in every
+  language, after the set as printed on the pack: "Karmesin & Purpur – Stürmische Funken", not a name assembled
+  from a dictionary word and a set name.
 
 A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
 alone.

@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Ascended Heroes Booster Pack",
+      "name": "Mega Evolution—Ascended Heroes",
       "releaseDate": "2026-01-30",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,14 +21,16 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/672434/pokemon-me-ascended-heroes-ascended-heroes-booster-pack"
+        "https://www.tcgplayer.com/product/672434/pokemon-me-ascended-heroes-ascended-heroes-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-ascended-heroes"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Héros Transcendants",
+      "name": "Méga-Évolution – Héros Transcendants",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-%C3%89volution_H%C3%A9ros_Transcendants_M%C3%A9ga-Roitiflam-ex"
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-%C3%89volution_H%C3%A9ros_Transcendants_M%C3%A9ga-Roitiflam-ex",
+        "https://www.pokemon.com/fr/jcc-pokemon/mega-evolution-heros-transcendants"
       ]
     }
   ]

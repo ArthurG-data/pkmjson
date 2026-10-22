@@ -13,28 +13,31 @@
   "releases": [
     {
       "language": "en",
-      "name": "Paradox Rift Booster Pack",
+      "name": "Scarlet & Violet—Paradox Rift",
       "identifiers": {
         "tcgplayerProductIds": [
           512822
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/512822/pokemon-sv04-paradox-rift-paradox-rift-booster-pack"
+        "https://www.tcgplayer.com/product/512822/pokemon-sv04-paradox-rift-paradox-rift-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-paradox-rift"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Faille Paradoxe",
+      "name": "Écarlate et Violet – Faille Paradoxe",
       "sources": [
-        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-faille-paradoxe"
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-faille-paradoxe",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-faille-paradoxe"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Brecha Paradójica",
+      "name": "Escarlata y Púrpura-Brecha Paradójica",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-brecha-paradojica"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-brecha-paradojica",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-brecha-paradojica"
       ]
     }
   ]

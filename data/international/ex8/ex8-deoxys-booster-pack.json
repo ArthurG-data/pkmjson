@@ -13,14 +13,15 @@
   "releases": [
     {
       "language": "en",
-      "name": "Deoxys Booster Pack",
+      "name": "EX Deoxys",
       "identifiers": {
         "tcgplayerProductIds": [
           98562
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98562/pokemon-ex-deoxys-deoxys-booster-pack"
+        "https://www.tcgplayer.com/product/98562/pokemon-ex-deoxys-deoxys-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/ex-deoxys"
       ]
     }
   ]

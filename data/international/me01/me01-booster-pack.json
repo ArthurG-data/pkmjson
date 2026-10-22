@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Mega Evolution Booster Pack",
+      "name": "Mega Evolution",
       "releaseDate": "2025-09-26",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,7 +21,8 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/644352/pokemon-me01-mega-evolution-mega-evolution-booster-pack"
+        "https://www.tcgplayer.com/product/644352/pokemon-me01-mega-evolution-mega-evolution-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/mega-evolution"
       ]
     }
   ]

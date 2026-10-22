@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Platinum Booster Pack",
+      "name": "Platinum",
       "identifiers": {
         "tcgplayerProductIds": [
           98591
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98591/pokemon-platinum-platinum-booster-pack"
+        "https://www.tcgplayer.com/product/98591/pokemon-platinum-platinum-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/platinum"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Platine",
+      "name": "Platine",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X",
+        "https://www.pokemon.com/fr/jcc-pokemon/platine"
       ]
     }
   ]

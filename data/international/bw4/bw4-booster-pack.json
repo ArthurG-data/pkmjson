@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Next Destinies Booster Pack",
+      "name": "Black & White—Next Destinies",
       "identifiers": {
         "tcgplayerProductIds": [
           98538
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98538/pokemon-next-destinies-next-destinies-booster-pack"
+        "https://www.tcgplayer.com/product/98538/pokemon-next-destinies-next-destinies-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-next-destinies"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Destinées Futures",
+      "name": "JCC Pokémon : Noir & Blanc – Destinées Futures",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-destinees-futures"
       ]
     }
   ]

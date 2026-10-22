@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Plasma Freeze Booster Pack",
+      "name": "Black & White—Plasma Freeze",
       "identifiers": {
         "tcgplayerProductIds": [
           98517
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/98517/pokemon-plasma-freeze-plasma-freeze-booster-pack"
+        "https://www.tcgplayer.com/product/98517/pokemon-plasma-freeze-plasma-freeze-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/black-white-plasma-freeze"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Glaciation Plasma",
+      "name": "Noir & Blanc – Glaciation Plasma",
       "sources": [
-        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX"
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/noir-blanc-glaciation-plasma"
       ]
     }
   ]

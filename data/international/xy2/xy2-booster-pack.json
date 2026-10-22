@@ -13,21 +13,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Flashfire Booster Pack",
+      "name": "XY—Flashfire",
       "identifiers": {
         "tcgplayerProductIds": [
           91595
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/91595/pokemon-xy-flashfire-flashfire-booster-pack"
+        "https://www.tcgplayer.com/product/91595/pokemon-xy-flashfire-flashfire-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-flashfire"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Étincelles",
+      "name": "XY – Étincelles",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Crocorible-EX"
+        "https://www.pokepedia.fr/Coffret_Crocorible-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-etincelles"
       ]
     }
   ]

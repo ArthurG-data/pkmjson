@@ -20,21 +20,23 @@
   "releases": [
     {
       "language": "en",
-      "name": "Furious Fists Booster Pack",
+      "name": "XY—Furious Fists",
       "identifiers": {
         "tcgplayerProductIds": [
           92169
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/92169/pokemon-xy-furious-fists-furious-fists-booster-pack"
+        "https://www.tcgplayer.com/product/92169/pokemon-xy-furious-fists-furious-fists-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/xy-furious-fists"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Poings Furieux",
+      "name": "XY – Poings Furieux",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Carchacrok-EX"
+        "https://www.pokepedia.fr/Coffret_Carchacrok-EX",
+        "https://www.pokemon.com/fr/jcc-pokemon/xy-poings-furieux"
       ]
     }
   ]

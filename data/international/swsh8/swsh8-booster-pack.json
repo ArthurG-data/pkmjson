@@ -13,35 +13,39 @@
   "releases": [
     {
       "language": "en",
-      "name": "Fusion Strike Booster Pack",
+      "name": "Sword & Shield—Fusion Strike",
       "identifiers": {
         "tcgplayerProductIds": [
           247646
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/247646/pokemon-swsh08-fusion-strike-fusion-strike-booster-pack"
+        "https://www.tcgplayer.com/product/247646/pokemon-swsh08-fusion-strike-fusion-strike-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/sword-shield-fusion-strike"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Poing de Fusion",
+      "name": "Épée et Bouclier – Poing de Fusion",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Poing_de_Fusion"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Poing_de_Fusion",
+        "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-poing-de-fusion"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Fusionsangriff",
+      "name": "Schwert & Schild – Fusionsangriff",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-fusionsangriff"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-fusionsangriff",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schwert-schild-fusionsangriff"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Golpe Fusión",
+      "name": "Espada y Escudo-Golpe Fusión",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-golpe-fusion"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-golpe-fusion",
+        "https://www.pokemon.com/es/jcc-pokemon/espada-y-escudo-golpe-fusion"
       ]
     }
   ]

@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Paldean Fates Booster Pack",
+      "name": "Scarlet & Violet—Paldean Fates",
       "releaseDate": "2024-01-26",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,28 +21,32 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/528038/pokemon-sv-paldean-fates-paldean-fates-booster-pack"
+        "https://www.tcgplayer.com/product/528038/pokemon-sv-paldean-fates-paldean-fates-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-paldean-fates"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Destinées de Paldea",
+      "name": "Écarlate et Violet – Destinées de Paldea",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Destin%C3%A9es_de_Paldea"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Destin%C3%A9es_de_Paldea",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-destinees-de-paldea"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Destino di Paldea",
+      "name": "Scarlatto e Violetto - Destino di Paldea",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-destino-di-paldea"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-destino-di-paldea",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-destino-di-paldea"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Paldeas Schicksale",
+      "name": "Karmesin & Purpur – Paldeas Schicksale",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-paldeas-schicksale"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-paldeas-schicksale",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-paldeas-schicksale"
       ]
     }
   ]

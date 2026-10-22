@@ -13,7 +13,7 @@
   "releases": [
     {
       "language": "en",
-      "name": "Shrouded Fable Booster Pack",
+      "name": "Scarlet & Violet—Shrouded Fable",
       "releaseDate": "2024-08-02",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,21 +21,24 @@
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/552997/pokemon-sv-shrouded-fable-shrouded-fable-booster-pack"
+        "https://www.tcgplayer.com/product/552997/pokemon-sv-shrouded-fable-shrouded-fable-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-shrouded-fable"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Fable Nébuleuse",
+      "name": "Écarlate et Violet – Fable Nébuleuse",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Fable_N%C3%A9buleuse"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Fable_N%C3%A9buleuse",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-fable-nebuleuse"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Segreto Fiabesco",
+      "name": "Scarlatto e Violetto - Segreto Fiabesco",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/confezione-di-buste-dellespansione-scarlatto-e-violetto-segreto-fiabesco"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/confezione-di-buste-dellespansione-scarlatto-e-violetto-segreto-fiabesco",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-segreto-fiabesco"
       ]
     }
   ]

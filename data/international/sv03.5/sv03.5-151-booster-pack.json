@@ -13,42 +13,47 @@
   "releases": [
     {
       "language": "en",
-      "name": "151 Booster Pack",
+      "name": "Scarlet & Violet—151",
       "identifiers": {
         "tcgplayerProductIds": [
           504467
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/504467/pokemon-sv-scarlet-and-violet-151-151-booster-pack"
+        "https://www.tcgplayer.com/product/504467/pokemon-sv-scarlet-and-violet-151-151-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-151"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster 151",
+      "name": "Écarlate et Violet – 151",
       "sources": [
-        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_151"
+        "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_151",
+        "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-151"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione 151",
+      "name": "Scarlatto e Violetto - 151",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-151"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-151",
+        "https://www.pokemon.com/it/gcc/scarlatto-e-violetto-151"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora 151",
+      "name": "Escarlata y Púrpura-151",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-151"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-151",
+        "https://www.pokemon.com/es/jcc-pokemon/escarlata-y-purpura-151"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack 151",
+      "name": "Karmesin & Purpur – 151",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-simsala-ex"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-simsala-ex",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-151"
       ]
     }
   ]

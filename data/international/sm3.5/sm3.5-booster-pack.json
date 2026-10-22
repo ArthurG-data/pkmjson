@@ -13,42 +13,47 @@
   "releases": [
     {
       "language": "en",
-      "name": "Shining Legends Booster Pack",
+      "name": "Shining Legends",
       "identifiers": {
         "tcgplayerProductIds": [
           155880
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/155880/pokemon-shining-legends-shining-legends-booster-pack"
+        "https://www.tcgplayer.com/product/155880/pokemon-shining-legends-shining-legends-booster-pack",
+        "https://www.pokemon.com/us/pokemon-tcg/shining-legends"
       ]
     },
     {
       "language": "fr",
-      "name": "Booster Légendes Brillantes",
+      "name": "Légendes Brillantes",
       "sources": [
-        "https://www.pokepedia.fr/Coffre_de_collection_L%C3%A9gendes_Brillantes"
+        "https://www.pokepedia.fr/Coffre_de_collection_L%C3%A9gendes_Brillantes",
+        "https://www.pokemon.com/fr/jcc-pokemon/legendes-brillantes"
       ]
     },
     {
       "language": "it",
-      "name": "Busta di espansione Leggende Iridescenti",
+      "name": "Leggende Iridescenti",
       "sources": [
-        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-leggende-iridescenti"
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-leggende-iridescenti",
+        "https://www.pokemon.com/it/gcc/leggende-iridescenti"
       ]
     },
     {
       "language": "es",
-      "name": "Sobre de mejora Leyendas Luminosas",
+      "name": "Leyendas Luminosas",
       "sources": [
-        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/entrenador-elite-de-leyendas-luminosas-de-jcc-pokemon"
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/entrenador-elite-de-leyendas-luminosas-de-jcc-pokemon",
+        "https://www.pokemon.com/es/jcc-pokemon/leyendas-luminosas"
       ]
     },
     {
       "language": "de",
-      "name": "Boosterpack Schimmernde Legenden",
+      "name": "Schimmernde Legenden",
       "sources": [
-        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schimmernde-legenden"
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schimmernde-legenden",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/schimmernde-legenden"
       ]
     }
   ]
