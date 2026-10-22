@@ -67,17 +67,18 @@ because the set has none of its own. `logoKind` marks a product image or set sym
   those families. A match requires both the TCGdex set's name and its release date. A deck or set with no set of its
   own matches instead by the Pokémon it is named after (translated with PokéAPI's species names) and the kind of
   product. Where it matches, the `ja` release gets the official name, date and search page.
-- **French releases:** `tools/import_pokepedia.py` reads Poképédia's product pages.
-- **German, Italian, Spanish and more French releases:** pokemon.com's product gallery links each US product page
-  to its other-language versions. pokemon.com refuses scripted clients, so `tools/pokemon_com_crawl.js` runs in a
-  browser tab on www.pokemon.com and returns the pages as JSON. `tools/import_pokemon_com.py --crawl <file>` then
-  matches each US page to its family by English name. It adds a release only when that language's page states the
-  same number of booster packs as the US page.
-- **Set names and logos:** `tools/import_sets.py` builds `sets/sets.json` from three sources. pokemon.com's
-  expansion lists come first (fetched in a browser by `tools/pokemon_com_expansions.js`). pokemon-card.com's pack
-  names cover Japanese. TCGdex fills what both leave out. The tool also names each set's own booster pack, in every
-  language, after the set as printed on the pack: "Karmesin & Purpur – Stürmische Funken", not a name assembled
-  from a dictionary word and a set name.
+- **French releases:** `tools/import_pokepedia.py` reads Poképédia's product pages through its MediaWiki API and
+  takes each product's French name, release date and, where the French box differs, its packs. Each release
+  credits its page (see `NOTICE`).
+- **German, Italian, Spanish and more French releases:** the names and dates of these releases come from
+  pokemon.com's product pages, which each release cites. They are kept as recorded. pokemon.com's terms forbid
+  downloading its content in bulk, so no tool fetches them again.
+- **Set names and logos:** `tools/import_sets.py` builds `sets/sets.json`. The names printed on the packs come from
+  pokemon.com's expansion pages (kept as recorded) and, for Japanese, pokemon-card.com's pack names. TCGdex fills
+  what both leave out. Logos are links: TCGdex's logo for the language first, then pokemon.com's, then for Japanese
+  the image of the pokemon-card.com product. The tool also names each set's own booster pack, in every language,
+  after the set as printed on the pack: "Karmesin & Purpur – Stürmische Funken", not a name assembled from a
+  dictionary word and a set name.
 
 A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
 alone.
@@ -98,5 +99,6 @@ Contents are facts. Do not copy product descriptions or images.
 
 ## Licence
 
-The data and schema are CC BY 4.0 (`LICENSE-DATA`). The tools are MIT (`LICENSE`). Pokémon and its trademarks
+The data and schema are CC BY 4.0 (`LICENSE-DATA`). The tools are MIT (`LICENSE`). `NOTICE` covers the facts
+taken from Poképédia and the logo links. Pokémon and its trademarks
 belong to Nintendo, Creatures Inc. and GAME FREAK inc.; this project is not affiliated with them.
