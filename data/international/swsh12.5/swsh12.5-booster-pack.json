@@ -1,0 +1,28 @@
+{
+  "id": "swsh12.5-booster-pack",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "booster_pack",
+  "name": "Crown Zenith Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 683006
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Booster Pack",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453466
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453466/pokemon-swsh-crown-zenith-crown-zenith-booster-pack"
+      ]
+    }
+  ]
+}

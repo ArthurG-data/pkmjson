@@ -1,0 +1,27 @@
+{
+  "id": "hgss2-booster-box",
+  "region": "international",
+  "set": "hgss2",
+  "category": "booster_box",
+  "name": "Unleashed Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271929
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unleashed Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98583
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98583/pokemon-unleashed-unleashed-booster-box"
+      ]
+    }
+  ]
+}

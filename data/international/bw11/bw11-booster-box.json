@@ -1,0 +1,27 @@
+{
+  "id": "bw11-booster-box",
+  "region": "international",
+  "set": "bw11",
+  "category": "booster_box",
+  "name": "Legendary Treasures Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271895
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Treasures Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98580
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98580/pokemon-legendary-treasures-legendary-treasures-booster-box"
+      ]
+    }
+  ]
+}

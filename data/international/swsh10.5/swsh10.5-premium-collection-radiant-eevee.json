@@ -1,0 +1,59 @@
+{
+  "id": "swsh10.5-premium-collection-radiant-eevee",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "premium_collection",
+  "name": "Pokemon GO Premium Collection [Radiant Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 653709
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 8
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH230",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 270724,
+        "cardmarketProductId": 653697,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Deluxe pin featuring Radiant Eevee",
+        "count": 1
+      },
+      {
+        "name": "Playmat with artwork featuring Radiant Eevee",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Premium Collection [Radiant Eevee]",
+      "releaseDate": "2022-07-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270717
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270717/pokemon-pokemon-go-pokemon-go-premium-collection-radiant-eevee"
+      ]
+    }
+  ]
+}

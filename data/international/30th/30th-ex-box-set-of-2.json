@@ -1,0 +1,24 @@
+{
+  "id": "30th-ex-box-set-of-2",
+  "region": "international",
+  "set": "30th",
+  "category": "other",
+  "name": "30th Celebration ex Box [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Sylveon ex or Greninja ex; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration ex Box [Set of 2]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          722832
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/722832/pokemon-me-30th-celebration-30th-celebration-ex-box-set-of-2"
+      ]
+    }
+  ]
+}

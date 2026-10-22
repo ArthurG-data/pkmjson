@@ -1,0 +1,51 @@
+{
+  "id": "swsh2-3-pack-blister-rayquaza",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Rebel Clash 3 Pack Blister [Rayquaza]",
+  "identifiers": {
+    "cardmarketProductId": 585891
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH029",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 214240,
+        "cardmarketProductId": 453313,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash 3 Pack Blister [Rayquaza]",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210568
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210568/pokemon-swsh02-rebel-clash-rebel-clash-3-pack-blister-rayquaza"
+      ]
+    }
+  ]
+}

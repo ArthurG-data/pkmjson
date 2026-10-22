@@ -1,0 +1,52 @@
+{
+  "id": "sm1-incineroar-gx-challenge-box",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Incineroar GX Challenge Box",
+  "identifiers": {
+    "cardmarketProductId": 653288
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM38",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 133822,
+        "cardmarketProductId": 298916,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Complete Roaring Heat theme deck",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card featuring Incineroar GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG: Sun & Moon booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Incineroar GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          209655
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/209655/pokemon-sm-base-set-incineroar-gx-challenge-box"
+      ]
+    }
+  ]
+}

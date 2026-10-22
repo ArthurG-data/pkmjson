@@ -1,0 +1,28 @@
+{
+  "id": "xy9-booster-pack",
+  "region": "international",
+  "set": "xy9",
+  "category": "booster_pack",
+  "name": "XY BREAKpoint Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 287243
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY BREAKpoint Booster Pack",
+      "releaseDate": "2016-02-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          111279
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/111279/pokemon-xy-breakpoint-xy-breakpoint-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sv08-booster-bundle-lgs",
+  "region": "international",
+  "set": "sv08",
+  "category": "booster_bundle",
+  "name": "Surging Sparks Booster Bundle (LGS)",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Booster Bundle (LGS)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565629
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565629/pokemon-sv08-surging-sparks-surging-sparks-booster-bundle-lgs"
+      ]
+    }
+  ]
+}

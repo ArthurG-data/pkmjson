@@ -1,0 +1,24 @@
+{
+  "id": "tk-ex-latia-ex-trainer-kit",
+  "region": "international",
+  "set": "tk-ex-latia",
+  "category": "other",
+  "name": "EX Trainer Kit [Latias & Latios]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Trainer Kit [Latias & Latios]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98950
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98950/pokemon-ex-trainer-kit-1-latias-and-latios-ex-trainer-kit-latias-and-latios"
+      ]
+    }
+  ]
+}

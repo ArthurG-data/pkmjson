@@ -1,0 +1,73 @@
+{
+  "id": "swsh9-elite-trainer-box",
+  "region": "international",
+  "set": "swsh9",
+  "category": "elite_trainer_box",
+  "name": "Brilliant Stars Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 583510
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Arceus",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Elite Trainer Box",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256138
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256138/pokemon-swsh09-brilliant-stars-brilliant-stars-elite-trainer-box"
+      ]
+    }
+  ]
+}

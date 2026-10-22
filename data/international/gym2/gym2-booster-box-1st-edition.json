@@ -1,0 +1,24 @@
+{
+  "id": "gym2-booster-box-1st-edition",
+  "region": "international",
+  "set": "gym2",
+  "category": "booster_box",
+  "name": "Gym Challenge Booster Box [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Challenge Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          276588
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/276588/pokemon-gym-challenge-gym-challenge-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

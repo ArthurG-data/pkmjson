@@ -1,0 +1,44 @@
+{
+  "id": "sv05-premium-checklane-blister-togekiss",
+  "region": "international",
+  "set": "sv05",
+  "category": "blister",
+  "name": "Temporal Forces Premium Checklane Blister [Togekiss]",
+  "identifiers": {
+    "cardmarketProductId": 750419
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Premium Checklane Blister [Togekiss]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544687
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544687/pokemon-sv05-temporal-forces-temporal-forces-premium-checklane-blister-togekiss"
+      ]
+    }
+  ]
+}

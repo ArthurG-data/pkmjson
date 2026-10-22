@@ -1,0 +1,35 @@
+{
+  "id": "swsh4-booster-box",
+  "region": "international",
+  "set": "swsh4",
+  "category": "booster_box",
+  "name": "Vivid Voltage Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 494509
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Booster Box",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221313
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221313/pokemon-swsh04-vivid-voltage-vivid-voltage-booster-box"
+      ]
+    }
+  ]
+}

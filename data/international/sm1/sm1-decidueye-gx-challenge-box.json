@@ -1,0 +1,52 @@
+{
+  "id": "sm1-decidueye-gx-challenge-box",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Decidueye GX Challenge Box",
+  "identifiers": {
+    "cardmarketProductId": 653287
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM37",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 133821,
+        "cardmarketProductId": 298915,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Complete Forest Shadow theme deck",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card featuring Decidueye-GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG: Sun & Moon booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Decidueye GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230425
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230425/pokemon-sm-base-set-decidueye-gx-challenge-box"
+      ]
+    }
+  ]
+}

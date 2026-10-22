@@ -1,0 +1,27 @@
+{
+  "id": "sv01-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv01",
+  "category": "case",
+  "name": "Scarlet & Violet Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 692105
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488776
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488776/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "me02-booster-pack-art-bundle-set-of-4",
+  "region": "international",
+  "set": "me02",
+  "category": "other",
+  "name": "Phantasmal Flames Booster Pack Art Bundle [Set of 4]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Booster Pack Art Bundle [Set of 4]",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654174
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654174/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-pack-art-bundle-set-of-4"
+      ]
+    }
+  ]
+}

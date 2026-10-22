@@ -1,0 +1,24 @@
+{
+  "id": "swsh10.5-pin-collection-case",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "case",
+  "name": "Pokemon GO Pin Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Pin Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692922
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692922/pokemon-pokemon-go-pokemon-go-pin-collection-case"
+      ]
+    }
+  ]
+}

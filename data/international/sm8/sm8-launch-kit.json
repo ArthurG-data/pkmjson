@@ -1,0 +1,41 @@
+{
+  "id": "sm8-launch-kit",
+  "region": "international",
+  "set": "sm8",
+  "category": "other",
+  "name": "Lost Thunder Launch Kit",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack",
+        "count": 36
+      }
+    ],
+    "other": [
+      {
+        "name": "Sun & Moon – Lost Thunder theme decks",
+        "count": 8
+      },
+      {
+        "name": "Slapband bracelets with a Poké Ball design",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Launch Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229391
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229391/pokemon-sm-lost-thunder-lost-thunder-launch-kit"
+      ]
+    }
+  ]
+}

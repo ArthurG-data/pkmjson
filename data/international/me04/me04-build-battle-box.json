@@ -1,0 +1,35 @@
+{
+  "id": "me04-build-battle-box",
+  "region": "international",
+  "set": "me04",
+  "category": "build_and_battle_box",
+  "name": "Chaos Rising Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 877282
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards; 4 Pokémon booster packs (contents vary by product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Build & Battle Box",
+      "releaseDate": "2026-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684454
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684454/pokemon-me04-chaos-rising-chaos-rising-build-and-battle-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "swsh8-single-strike-urshifu-vmax-premium-collection",
+  "region": "international",
+  "set": "swsh8",
+  "category": "premium_collection",
+  "name": "Single Strike Urshifu VMAX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH106",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 234296,
+        "cardmarketProductId": 546971,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card featuring Single Strike Urshifu VMAX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Single Strike Urshifu VMAX; 1 foil special Single Strike Energy card; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Single Strike Urshifu VMAX Premium Collection",
+      "releaseDate": "2021-11-12",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          253455
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/253455/pokemon-swsh08-fusion-strike-single-strike-urshifu-vmax-premium-collection"
+      ]
+    }
+  ]
+}

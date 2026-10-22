@@ -1,0 +1,25 @@
+{
+  "id": "sv01-sleeved-booster-pack-art-bundle-set-of-4",
+  "region": "international",
+  "set": "sv01",
+  "category": "other",
+  "name": "Scarlet & Violet Sleeved Booster Pack Art Bundle [Set of 4]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Sleeved Booster Pack Art Bundle [Set of 4]",
+      "releaseDate": "2023-03-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478274
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478274/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-pack-art-bundle-set-of-4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "30th-booster-pack",
+  "region": "international",
+  "set": "30th",
+  "category": "booster_pack",
+  "name": "30th Celebration Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 890360
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Booster Pack",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          696613
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/696613/pokemon-me-30th-celebration-30th-celebration-booster-pack"
+      ]
+    }
+  ]
+}

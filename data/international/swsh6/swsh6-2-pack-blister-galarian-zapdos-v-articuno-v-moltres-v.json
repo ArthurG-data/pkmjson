@@ -1,0 +1,37 @@
+{
+  "id": "swsh6-2-pack-blister-galarian-zapdos-v-articuno-v-moltres-v",
+  "region": "international",
+  "set": "swsh6",
+  "category": "blister",
+  "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Galarian Zapdos V; 1 promo card featuring Galarian Articuno V; 1 promo card featuring Galarian Moltres V; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245856
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245856/pokemon-swsh06-chilling-reign-chilling-reign-2-pack-blister-galarian-zapdos-v-articuno-v-moltres-v"
+      ]
+    }
+  ]
+}

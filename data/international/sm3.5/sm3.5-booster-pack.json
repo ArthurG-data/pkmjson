@@ -1,0 +1,27 @@
+{
+  "id": "sm3.5-booster-pack",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "booster_pack",
+  "name": "Shining Legends Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 301163
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155880
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155880/pokemon-shining-legends-shining-legends-booster-pack"
+      ]
+    }
+  ]
+}

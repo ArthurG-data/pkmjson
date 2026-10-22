@@ -1,0 +1,50 @@
+{
+  "id": "cel25-premium-playmat-collection-pikachu-v-union",
+  "region": "international",
+  "set": "cel25",
+  "category": "collection_box",
+  "name": "Celebrations Premium Playmat Collection [Pikachu V-UNION]",
+  "identifiers": {
+    "cardmarketProductId": 580596
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize card featuring Pikachu V-UNION",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Playmat",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG: Celebrations 4-card boosters",
+        "count": 6
+      },
+      {
+        "name": "Additional Pokémon TCG boosters",
+        "count": 3
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 foil promo cards that make up a single Pikachu V-UNION; 1 helpful Supporter card featuring Professor Burnet.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Premium Playmat Collection [Pikachu V-UNION]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251217
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251217/pokemon-celebrations-celebrations-premium-playmat-collection-pikachu-v-union"
+      ]
+    }
+  ]
+}

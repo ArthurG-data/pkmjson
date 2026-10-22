@@ -1,0 +1,55 @@
+{
+  "id": "swsh10.5-pin-collection-squirtle",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "collection_box",
+  "name": "Pokemon GO Pin Collection [Squirtle]",
+  "identifiers": {
+    "cardmarketProductId": 664335
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH233",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 275830,
+        "cardmarketProductId": 664339,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring Squirtle",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Pin Collection [Squirtle]",
+      "releaseDate": "2022-09-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          275827
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/275827/pokemon-pokemon-go-pokemon-go-pin-collection-squirtle"
+      ]
+    }
+  ]
+}

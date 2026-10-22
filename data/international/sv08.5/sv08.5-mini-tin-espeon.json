@@ -1,0 +1,44 @@
+{
+  "id": "sv08.5-mini-tin-espeon",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "tin",
+  "name": "Prismatic Evolutions Mini Tin [Espeon]",
+  "identifiers": {
+    "cardmarketProductId": 798939
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Art card matching the tin, featuring Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon or Sylveon",
+        "count": 1
+      },
+      {
+        "name": "Coin featuring Eevee",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Mini Tin [Espeon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593458
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593458/pokemon-sv-prismatic-evolutions-prismatic-evolutions-mini-tin-espeon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "swsh12.5-mini-tin-display",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "case",
+  "name": "Crown Zenith Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 683017
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453493
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453493/pokemon-swsh-crown-zenith-crown-zenith-mini-tin-display"
+      ]
+    }
+  ]
+}

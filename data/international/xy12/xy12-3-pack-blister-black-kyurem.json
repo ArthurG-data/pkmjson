@@ -1,0 +1,27 @@
+{
+  "id": "xy12-3-pack-blister-black-kyurem",
+  "region": "international",
+  "set": "xy12",
+  "category": "blister",
+  "name": "XY - Evolutions 3 Pack Blister [Black Kyurem]",
+  "identifiers": {
+    "cardmarketProductId": 586327
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Evolutions 3 Pack Blister [Black Kyurem]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          224946
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/224946/pokemon-xy-evolutions-xy-evolutions-3-pack-blister-black-kyurem"
+      ]
+    }
+  ]
+}

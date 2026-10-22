@@ -1,0 +1,24 @@
+{
+  "id": "cel25-collection-case-dragapult-prime",
+  "region": "international",
+  "set": "cel25",
+  "category": "case",
+  "name": "Celebrations Collection Case [Dragapult Prime]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Collection Case [Dragapult Prime]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251880
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251880/pokemon-celebrations-celebrations-collection-case-dragapult-prime"
+      ]
+    }
+  ]
+}

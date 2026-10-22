@@ -1,0 +1,28 @@
+{
+  "id": "sv08.5-surprise-box",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Surprise Box",
+  "identifiers": {
+    "cardmarketProductId": 798947
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Surprise Box",
+      "releaseDate": "2025-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593466
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593466/pokemon-sv-prismatic-evolutions-prismatic-evolutions-surprise-box"
+      ]
+    }
+  ]
+}

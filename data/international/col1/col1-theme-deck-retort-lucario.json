@@ -1,0 +1,38 @@
+{
+  "id": "col1-theme-deck-retort-lucario",
+  "region": "international",
+  "set": "col1",
+  "category": "theme_deck",
+  "name": "Call Of Legends Theme Deck - \"Retort\" [Lucario]",
+  "identifiers": {
+    "cardmarketProductId": 286612
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Call Of Legends Theme Deck - \"Retort\" [Lucario]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644851
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644851/pokemon-call-of-legends-call-of-legends-theme-deck-retort-lucario"
+      ]
+    }
+  ]
+}

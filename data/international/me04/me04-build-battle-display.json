@@ -1,0 +1,25 @@
+{
+  "id": "me04-build-battle-display",
+  "region": "international",
+  "set": "me04",
+  "category": "case",
+  "name": "Chaos Rising Build & Battle Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Build & Battle Display",
+      "releaseDate": "2026-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684455
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684455/pokemon-me04-chaos-rising-chaos-rising-build-and-battle-display"
+      ]
+    }
+  ]
+}

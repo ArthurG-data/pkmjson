@@ -1,0 +1,40 @@
+{
+  "id": "sm4-ultra-beasts-gx-premium-collection-buzzwole-gx-xurkitree-gx",
+  "region": "international",
+  "set": "sm4",
+  "category": "premium_collection",
+  "name": "Ultra Beasts GX Premium Collection [Buzzwole GX & Xurkitree GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special plamat",
+        "count": 1
+      },
+      {
+        "name": "Collectible coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Pokemon TCG booster packs; 1 Buzzwole GX holofoil promo; 1 Buzzwole GX holofoil Jumbo promo; 1 Xurkitree GX holofoil promo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Beasts GX Premium Collection [Buzzwole GX & Xurkitree GX]",
+      "releaseDate": "2017-11-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          149376
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/149376/pokemon-sm-crimson-invasion-ultra-beasts-gx-premium-collection-buzzwole-gx-and-xurkitree-gx"
+      ]
+    }
+  ]
+}

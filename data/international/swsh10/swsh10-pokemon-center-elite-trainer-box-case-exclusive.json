@@ -1,0 +1,31 @@
+{
+  "id": "swsh10-pokemon-center-elite-trainer-box-case-exclusive",
+  "region": "international",
+  "set": "swsh10",
+  "category": "case",
+  "name": "Astral Radiance Pokemon Center Elite Trainer Box Case (Exclusive)",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-pokemon-center-elite-trainer-box-exclusive",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Pokemon Center Elite Trainer Box Case (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          279424
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/279424/pokemon-swsh10-astral-radiance-astral-radiance-pokemon-center-elite-trainer-box-case-exclusive"
+      ]
+    }
+  ]
+}

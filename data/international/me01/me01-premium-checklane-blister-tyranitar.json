@@ -1,0 +1,45 @@
+{
+  "id": "me01-premium-checklane-blister-tyranitar",
+  "region": "international",
+  "set": "me01",
+  "category": "blister",
+  "name": "Mega Evolution Premium Checklane Blister [Tyranitar]",
+  "identifiers": {
+    "cardmarketProductId": 834816
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me01-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards featuring an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Premium Checklane Blister [Tyranitar]",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644360
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644360/pokemon-me01-mega-evolution-mega-evolution-premium-checklane-blister-tyranitar"
+      ]
+    }
+  ]
+}

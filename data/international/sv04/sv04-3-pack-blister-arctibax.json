@@ -1,0 +1,34 @@
+{
+  "id": "sv04-3-pack-blister-arctibax",
+  "region": "international",
+  "set": "sv04",
+  "category": "blister",
+  "name": "Paradox Rift 3 Pack Blister [Arctibax]",
+  "identifiers": {
+    "cardmarketProductId": 728733
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Arctibax.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift 3 Pack Blister [Arctibax]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          513433
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/513433/pokemon-sv04-paradox-rift-paradox-rift-3-pack-blister-arctibax"
+      ]
+    }
+  ]
+}

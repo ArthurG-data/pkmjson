@@ -1,0 +1,27 @@
+{
+  "id": "me03-build-battle-box-display",
+  "region": "international",
+  "set": "me03",
+  "category": "case",
+  "name": "Perfect Order Build & Battle Box Display",
+  "identifiers": {
+    "cardmarketProductId": 887471
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          690172
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/690172/pokemon-me03-perfect-order-perfect-order-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

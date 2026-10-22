@@ -1,0 +1,35 @@
+{
+  "id": "swsh12.5-pikachu-vmax-special-collection",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Pikachu VMAX Special Collection",
+  "identifiers": {
+    "cardmarketProductId": 683018
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 5
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one etched promo card; one oversize promo card featuring Pikachu VMAX; one foil promo card featuring Pikachu V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu VMAX Special Collection",
+      "releaseDate": "2023-02-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          454452
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/454452/pokemon-swsh-crown-zenith-pikachu-vmax-special-collection"
+      ]
+    }
+  ]
+}

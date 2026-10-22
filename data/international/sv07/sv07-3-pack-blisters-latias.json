@@ -1,0 +1,50 @@
+{
+  "id": "sv07-3-pack-blisters-latias",
+  "region": "international",
+  "set": "sv07",
+  "category": "blister",
+  "name": "Stellar Crown 3 Pack Blisters [Latias]",
+  "identifiers": {
+    "cardmarketProductId": 776334
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-139",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 585579,
+        "cardmarketProductId": 785848,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown 3 Pack Blisters [Latias]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557334
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557334/pokemon-sv07-stellar-crown-stellar-crown-3-pack-blisters-latias"
+      ]
+    }
+  ]
+}

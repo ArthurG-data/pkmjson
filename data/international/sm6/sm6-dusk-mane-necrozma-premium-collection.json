@@ -1,0 +1,39 @@
+{
+  "id": "sm6-dusk-mane-necrozma-premium-collection",
+  "region": "international",
+  "set": "sm6",
+  "category": "premium_collection",
+  "name": "Dusk Mane Necrozma Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Jumbo foil Dusk Mane Necrozma-GX",
+        "count": 1
+      },
+      {
+        "name": "Figurine of Dusk Mane Necrozma",
+        "count": 1
+      },
+      {
+        "name": "Pin of Dusk Mane Necrozma",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Never-before-seen foil promo cards of Dawn Wings Necrozma (SM123) and Dusk Mane Necrozma (SM124).; Five booster packs; Code Card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dusk Mane Necrozma Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164315
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164315/pokemon-sm-forbidden-light-dusk-mane-necrozma-premium-collection"
+      ]
+    }
+  ]
+}

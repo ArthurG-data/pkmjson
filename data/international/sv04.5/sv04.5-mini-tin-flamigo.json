@@ -1,0 +1,45 @@
+{
+  "id": "sv04.5-mini-tin-flamigo",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "tin",
+  "name": "Paldean Fates Mini Tin [Flamigo]",
+  "identifiers": {
+    "cardmarketProductId": 745561
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin-you can collect and combine all 5",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Mini Tin [Flamigo]",
+      "releaseDate": "2024-02-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528050
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528050/pokemon-sv-paldean-fates-paldean-fates-mini-tin-flamigo"
+      ]
+    }
+  ]
+}

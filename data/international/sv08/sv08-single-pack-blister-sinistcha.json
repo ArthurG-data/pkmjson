@@ -1,0 +1,37 @@
+{
+  "id": "sv08-single-pack-blister-sinistcha",
+  "region": "international",
+  "set": "sv08",
+  "category": "blister",
+  "name": "Surging Sparks Single Pack Blister [Sinistcha]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two promotional cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Single Pack Blister [Sinistcha]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          606614
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/606614/pokemon-sv08-surging-sparks-surging-sparks-single-pack-blister-sinistcha"
+      ]
+    }
+  ]
+}

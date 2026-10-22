@@ -1,0 +1,35 @@
+{
+  "id": "sm1-zygarde-complete-forme-pin-collection",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Zygarde Complete Forme Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collector’s pin featuring Zygarde Complete",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A foil promo card featuring Zygarde Complete; 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Zygarde Complete Forme Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455776
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455776/pokemon-sm-base-set-zygarde-complete-forme-pin-collection"
+      ]
+    }
+  ]
+}

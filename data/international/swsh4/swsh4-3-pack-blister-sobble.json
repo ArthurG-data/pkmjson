@@ -1,0 +1,41 @@
+{
+  "id": "swsh4-3-pack-blister-sobble",
+  "region": "international",
+  "set": "swsh4",
+  "category": "blister",
+  "name": "Vivid Voltage 3 Pack Blister [Sobble]",
+  "identifiers": {
+    "cardmarketProductId": 585833
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Sobble.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage 3 Pack Blister [Sobble]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221744
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221744/pokemon-swsh04-vivid-voltage-vivid-voltage-3-pack-blister-sobble"
+      ]
+    }
+  ]
+}

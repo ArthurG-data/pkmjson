@@ -1,0 +1,44 @@
+{
+  "id": "sv01-premium-checklane-blister-machamp",
+  "region": "international",
+  "set": "sv01",
+  "category": "blister",
+  "name": "Scarlet & Violet Premium Checklane Blister [Machamp]",
+  "identifiers": {
+    "cardmarketProductId": 695518
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Premium Checklane Blister [Machamp]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          479330
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/479330/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-premium-checklane-blister-machamp"
+      ]
+    }
+  ]
+}

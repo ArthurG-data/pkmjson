@@ -1,0 +1,31 @@
+{
+  "id": "sv02-booster-bundle-case",
+  "region": "international",
+  "set": "sv02",
+  "category": "case",
+  "name": "Paldea Evolved Booster Bundle Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-bundle",
+        "count": 25
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Booster Bundle Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656928
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656928/pokemon-sv02-paldea-evolved-paldea-evolved-booster-bundle-case"
+      ]
+    }
+  ]
+}

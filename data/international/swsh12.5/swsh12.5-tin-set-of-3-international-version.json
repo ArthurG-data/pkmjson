@@ -1,0 +1,24 @@
+{
+  "id": "swsh12.5-tin-set-of-3-international-version",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "other",
+  "name": "Crown Zenith Tin [Set of 3] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a full art promo card featuring: Galarian Articunos, Galarian Zapdos, or Galarian Moltres; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Tin [Set of 3] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475635
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475635/pokemon-swsh-crown-zenith-crown-zenith-tin-set-of-3-international-version"
+      ]
+    }
+  ]
+}

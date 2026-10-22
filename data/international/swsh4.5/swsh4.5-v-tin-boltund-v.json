@@ -1,0 +1,31 @@
+{
+  "id": "swsh4.5-v-tin-boltund-v",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "tin",
+  "name": "Shining Fates V Tin [Boltund V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one foil promo card featuring Boltund V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates V Tin [Boltund V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228823
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228823/pokemon-shining-fates-shining-fates-v-tin-boltund-v"
+      ]
+    }
+  ]
+}

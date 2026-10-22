@@ -1,0 +1,24 @@
+{
+  "id": "swsh9-arceus-v-figure-collection-case",
+  "region": "international",
+  "set": "swsh9",
+  "category": "case",
+  "name": "Arceus V Figure Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus V Figure Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          651285
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/651285/pokemon-swsh09-brilliant-stars-arceus-v-figure-collection-case"
+      ]
+    }
+  ]
+}

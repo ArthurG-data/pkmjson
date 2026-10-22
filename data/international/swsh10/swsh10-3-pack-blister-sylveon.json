@@ -1,0 +1,51 @@
+{
+  "id": "swsh10-3-pack-blister-sylveon",
+  "region": "international",
+  "set": "swsh10",
+  "category": "blister",
+  "name": "Astral Radiance 3 Pack Blister [Sylveon]",
+  "identifiers": {
+    "cardmarketProductId": 611354
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH211",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 273588,
+        "cardmarketProductId": 659063,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance 3 Pack Blister [Sylveon]",
+      "releaseDate": "2022-05-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265525
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265525/pokemon-swsh10-astral-radiance-astral-radiance-3-pack-blister-sylveon"
+      ]
+    }
+  ]
+}

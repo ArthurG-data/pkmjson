@@ -1,0 +1,24 @@
+{
+  "id": "sm2-premium-collection-set-of-3-decidueye-gx-primarina-gx-incineroar-gx",
+  "region": "international",
+  "set": "sm2",
+  "category": "other",
+  "name": "Premium Collection [Set of 3] Decidueye GX, Primarina GX, & Incineroar GX",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Premium Collection [Set of 3] Decidueye GX, Primarina GX, & Incineroar GX",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133809
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133809/pokemon-sm-guardians-rising-premium-collection-set-of-3-decidueye-gx-primarina-gx-and-incineroar-gx"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "cel25-special-collection-v-memories",
+  "region": "international",
+  "set": "cel25",
+  "category": "collection_box",
+  "name": "Celebrations Special Collection - V Memories",
+  "contentsStatus": "complete",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH133",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 251089,
+        "cardmarketProductId": 576732,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH134",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 251090,
+        "cardmarketProductId": 576733,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokémon TCG: Celebrations 4-card boosters",
+        "count": 6
+      },
+      {
+        "name": "Additional Pokémon TCG boosters",
+        "count": 2
+      },
+      {
+        "name": "Collector's pin featuring Sylveon",
+        "count": 1
+      },
+      {
+        "name": "Metallic Pokémon coin featuring Charizard",
+        "count": 1
+      },
+      {
+        "name": "Foil oversize card featuring Lance's Charizard V",
+        "count": 1
+      },
+      {
+        "name": "Information sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Special Collection - V Memories",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247470
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247470/pokemon-celebrations-celebrations-special-collection-v-memories"
+      ]
+    }
+  ]
+}

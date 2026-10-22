@@ -1,0 +1,24 @@
+{
+  "id": "xy7-powers-beyond-tin-latios-ex",
+  "region": "international",
+  "set": "xy7",
+  "category": "tin",
+  "name": "Powers Beyond Tin [Latios EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Powers Beyond Tin [Latios EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          106211
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/106211/pokemon-xy-ancient-origins-powers-beyond-tin-latios-ex"
+      ]
+    }
+  ]
+}

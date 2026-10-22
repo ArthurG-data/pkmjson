@@ -1,0 +1,31 @@
+{
+  "id": "swsh8-3-pack-hanger-box",
+  "region": "international",
+  "set": "swsh8",
+  "category": "collection_box",
+  "name": "Fusion Strike 3 Pack Hanger Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh8-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike 3 Pack Hanger Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          635742
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/635742/pokemon-swsh08-fusion-strike-fusion-strike-3-pack-hanger-box"
+      ]
+    }
+  ]
+}

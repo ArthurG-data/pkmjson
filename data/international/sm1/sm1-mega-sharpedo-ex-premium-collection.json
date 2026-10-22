@@ -1,0 +1,24 @@
+{
+  "id": "sm1-mega-sharpedo-ex-premium-collection",
+  "region": "international",
+  "set": "sm1",
+  "category": "premium_collection",
+  "name": "Mega Sharpedo EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Sharpedo EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129897
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129897/pokemon-sm-base-set-mega-sharpedo-ex-premium-collection"
+      ]
+    }
+  ]
+}

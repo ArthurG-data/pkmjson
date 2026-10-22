@@ -1,0 +1,24 @@
+{
+  "id": "xy5-primal-groudon-collection",
+  "region": "international",
+  "set": "xy5",
+  "category": "collection_box",
+  "name": "Primal Groudon Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Primal Groudon Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97755
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97755/pokemon-xy-primal-clash-primal-groudon-collection"
+      ]
+    }
+  ]
+}

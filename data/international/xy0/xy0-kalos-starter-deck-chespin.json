@@ -1,0 +1,39 @@
+{
+  "id": "xy0-kalos-starter-deck-chespin",
+  "region": "international",
+  "set": "xy0",
+  "category": "battle_deck",
+  "name": "Kalos Starter Deck [Chespin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Chespin deckbox",
+        "count": 1
+      },
+      {
+        "name": "Code for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Starter Deck [Chespin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97716
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97716/pokemon-kalos-starter-set-kalos-starter-deck-chespin"
+      ]
+    }
+  ]
+}

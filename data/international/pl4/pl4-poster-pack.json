@@ -1,0 +1,37 @@
+{
+  "id": "pl4-poster-pack",
+  "region": "international",
+  "set": "pl4",
+  "category": "other",
+  "name": "Arceus Poster Pack",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "pl1-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "FULL-SIZE Platinum-Arceus Double-sided Poster",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Three-card Promo Packs; 1 Arceus promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Poster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          714415
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/714415/pokemon-arceus-arceus-poster-pack"
+      ]
+    }
+  ]
+}

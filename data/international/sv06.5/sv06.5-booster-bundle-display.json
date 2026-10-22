@@ -1,0 +1,27 @@
+{
+  "id": "sv06.5-booster-bundle-display",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "case",
+  "name": "Shrouded Fable Booster Bundle Display",
+  "identifiers": {
+    "cardmarketProductId": 804745
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable Booster Bundle Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          618355
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/618355/pokemon-sv-shrouded-fable-shrouded-fable-booster-bundle-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xy6-elite-trainer-box",
+  "region": "international",
+  "set": "xy6",
+  "category": "elite_trainer_box",
+  "name": "XY Roaring Skies Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 286952
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Roaring Skies Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98028
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98028/pokemon-xy-roaring-skies-xy-roaring-skies-elite-trainer-box"
+      ]
+    }
+  ]
+}

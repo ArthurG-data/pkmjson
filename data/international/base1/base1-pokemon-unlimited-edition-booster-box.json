@@ -1,0 +1,24 @@
+{
+  "id": "base1-pokemon-unlimited-edition-booster-box",
+  "region": "international",
+  "set": "base1",
+  "category": "booster_box",
+  "name": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107597/pokemon-base-set-shadowless-pokemon-base-set-shadowless-unlimited-edition-booster-box"
+      ]
+    }
+  ]
+}

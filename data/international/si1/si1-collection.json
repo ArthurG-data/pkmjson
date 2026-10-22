@@ -1,0 +1,46 @@
+{
+  "id": "si1-collection",
+  "region": "international",
+  "set": "si1",
+  "category": "collection_box",
+  "name": "Southern Islands Collection",
+  "identifiers": {
+    "cardmarketProductId": 369560
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Unique Southern Islands Collection cards",
+        "count": 18
+      },
+      {
+        "name": "Unique Southern Collection binder",
+        "count": 1
+      },
+      {
+        "name": "Unique Pokemon postcards",
+        "count": 6
+      },
+      {
+        "name": "-pocket pages to hold all included cards",
+        "count": 9
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 randomized booster packs; 1 card list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Southern Islands Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610709
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610709/pokemon-southern-islands-southern-islands-collection"
+      ]
+    }
+  ]
+}

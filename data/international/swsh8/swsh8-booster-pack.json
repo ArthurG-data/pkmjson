@@ -1,0 +1,27 @@
+{
+  "id": "swsh8-booster-pack",
+  "region": "international",
+  "set": "swsh8",
+  "category": "booster_pack",
+  "name": "Fusion Strike Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 574591
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247646
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247646/pokemon-swsh08-fusion-strike-fusion-strike-booster-pack"
+      ]
+    }
+  ]
+}

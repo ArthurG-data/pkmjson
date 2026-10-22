@@ -1,0 +1,51 @@
+{
+  "id": "sv05-single-pack-blister-carvanha",
+  "region": "international",
+  "set": "sv05",
+  "category": "blister",
+  "name": "Temporal Forces Single Pack Blister [Carvanha]",
+  "identifiers": {
+    "cardmarketProductId": 750418
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-093",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 544183,
+        "cardmarketProductId": 751814,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Single Pack Blister [Carvanha]",
+      "releaseDate": "2024-03-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          536284
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/536284/pokemon-sv05-temporal-forces-temporal-forces-single-pack-blister-carvanha"
+      ]
+    }
+  ]
+}

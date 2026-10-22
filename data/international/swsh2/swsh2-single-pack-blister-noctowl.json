@@ -1,0 +1,51 @@
+{
+  "id": "swsh2-single-pack-blister-noctowl",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Rebel Clash Single Pack Blister [Noctowl]",
+  "identifiers": {
+    "cardmarketProductId": 585885
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH027",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 214238,
+        "cardmarketProductId": 461674,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Single Pack Blister [Noctowl]",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210565
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210565/pokemon-swsh02-rebel-clash-rebel-clash-single-pack-blister-noctowl"
+      ]
+    }
+  ]
+}

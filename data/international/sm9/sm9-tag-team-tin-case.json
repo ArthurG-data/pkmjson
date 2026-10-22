@@ -1,0 +1,24 @@
+{
+  "id": "sm9-tag-team-tin-case",
+  "region": "international",
+  "set": "sm9",
+  "category": "case",
+  "name": "TAG TEAM Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "TAG TEAM Tin Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          595411
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/595411/pokemon-sm-team-up-tag-team-tin-case"
+      ]
+    }
+  ]
+}

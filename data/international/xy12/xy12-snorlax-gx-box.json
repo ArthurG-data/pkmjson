@@ -1,0 +1,24 @@
+{
+  "id": "xy12-snorlax-gx-box",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "Snorlax GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Snorlax GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          125736
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/125736/pokemon-xy-evolutions-snorlax-gx-box"
+      ]
+    }
+  ]
+}

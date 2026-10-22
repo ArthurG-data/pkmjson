@@ -1,0 +1,27 @@
+{
+  "id": "base4-theme-deck-hot-water",
+  "region": "international",
+  "set": "base4",
+  "category": "theme_deck",
+  "name": "Base Set 2 Theme Deck - \"Hot Water\"",
+  "identifiers": {
+    "cardmarketProductId": 286499
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set 2 Theme Deck - \"Hot Water\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107612
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107612/pokemon-base-set-2-base-set-2-theme-deck-hot-water"
+      ]
+    }
+  ]
+}

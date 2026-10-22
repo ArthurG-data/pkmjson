@@ -1,0 +1,27 @@
+{
+  "id": "xy8-booster-box",
+  "region": "international",
+  "set": "xy8",
+  "category": "booster_box",
+  "name": "XY BREAKthrough Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 285575
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY BREAKthrough Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107101
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107101/pokemon-xy-breakthrough-xy-breakthrough-booster-box"
+      ]
+    }
+  ]
+}

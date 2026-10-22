@@ -1,0 +1,34 @@
+{
+  "id": "swsh12-booster-box",
+  "region": "international",
+  "set": "swsh12",
+  "category": "booster_box",
+  "name": "Silver Tempest Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 672333
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          283389
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/283389/pokemon-swsh12-silver-tempest-silver-tempest-booster-box"
+      ]
+    }
+  ]
+}

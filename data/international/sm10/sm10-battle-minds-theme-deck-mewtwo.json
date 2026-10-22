@@ -1,0 +1,35 @@
+{
+  "id": "sm10-battle-minds-theme-deck-mewtwo",
+  "region": "international",
+  "set": "sm10",
+  "category": "theme_deck",
+  "name": "Unbroken Bonds Battle Minds Theme Deck - [Mewtwo]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Battle Minds Theme Deck - [Mewtwo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          188399
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/188399/pokemon-sm-unbroken-bonds-unbroken-bonds-battle-minds-theme-deck-mewtwo"
+      ]
+    }
+  ]
+}

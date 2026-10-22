@@ -1,0 +1,31 @@
+{
+  "id": "xy11-prerelease-kit",
+  "region": "international",
+  "set": "xy11",
+  "category": "other",
+  "name": "Steam Siege Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy11-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Prerelease Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          121393
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/121393/pokemon-xy-steam-siege-steam-siege-prerelease-kit"
+      ]
+    }
+  ]
+}

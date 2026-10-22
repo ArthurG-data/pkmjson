@@ -1,0 +1,31 @@
+{
+  "id": "xy1-legend-of-kalos-tin-xerneas-ex",
+  "region": "international",
+  "set": "xy1",
+  "category": "tin",
+  "name": "Legend of Kalos Tin [Xerneas EX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Bonus online code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 booster packs, Xerneas EX promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legend of Kalos Tin [Xerneas EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97726
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97726/pokemon-xy-base-set-legend-of-kalos-tin-xerneas-ex"
+      ]
+    }
+  ]
+}

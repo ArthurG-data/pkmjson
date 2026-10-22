@@ -1,0 +1,38 @@
+{
+  "id": "sm5-theme-deck-mach-strike-garchomp",
+  "region": "international",
+  "set": "sm5",
+  "category": "theme_deck",
+  "name": "Ultra Prism Theme Deck - \"Mach Strike\" [Garchomp]",
+  "identifiers": {
+    "cardmarketProductId": 315118
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Custom coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism Theme Deck - \"Mach Strike\" [Garchomp]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155665
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155665/pokemon-sm-ultra-prism-ultra-prism-theme-deck-mach-strike-garchomp"
+      ]
+    }
+  ]
+}

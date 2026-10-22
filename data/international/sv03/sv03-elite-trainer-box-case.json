@@ -1,0 +1,27 @@
+{
+  "id": "sv03-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv03",
+  "category": "case",
+  "name": "Obsidian Flames Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 715778
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501265
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501265/pokemon-sv03-obsidian-flames-obsidian-flames-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

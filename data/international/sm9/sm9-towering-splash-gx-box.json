@@ -1,0 +1,36 @@
+{
+  "id": "sm9-towering-splash-gx-box",
+  "region": "international",
+  "set": "sm9",
+  "category": "collection_box",
+  "name": "Towering Splash GX Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon TCG boosters",
+        "count": 4
+      },
+      {
+        "name": "Code card for the online game",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Towering Splash GX Box",
+      "releaseDate": "2019-01-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181693
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181693/pokemon-sm-team-up-towering-splash-gx-box"
+      ]
+    }
+  ]
+}

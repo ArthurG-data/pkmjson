@@ -1,0 +1,51 @@
+{
+  "id": "sv01-single-pack-blister-spidops",
+  "region": "international",
+  "set": "sv01",
+  "category": "blister",
+  "name": "Scarlet & Violet Single Pack Blister [Spidops]",
+  "identifiers": {
+    "cardmarketProductId": 692405
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-009",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 491184,
+        "cardmarketProductId": 703184,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Single Pack Blister [Spidops]",
+      "releaseDate": "2023-03-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478765
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478765/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-single-pack-blister-spidops"
+      ]
+    }
+  ]
+}

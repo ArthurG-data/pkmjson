@@ -1,0 +1,24 @@
+{
+  "id": "xy4-collector-chest",
+  "region": "international",
+  "set": "xy4",
+  "category": "other",
+  "name": "Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97788
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97788/pokemon-xy-phantom-forces-collector-chest"
+      ]
+    }
+  ]
+}

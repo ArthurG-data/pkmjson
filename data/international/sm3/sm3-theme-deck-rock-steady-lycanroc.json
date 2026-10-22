@@ -1,0 +1,38 @@
+{
+  "id": "sm3-theme-deck-rock-steady-lycanroc",
+  "region": "international",
+  "set": "sm3",
+  "category": "theme_deck",
+  "name": "Burning Shadows Theme Deck - \"Rock Steady\" [Lycanroc]",
+  "identifiers": {
+    "cardmarketProductId": 298773
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Theme Deck - \"Rock Steady\" [Lycanroc]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133777
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133777/pokemon-sm-burning-shadows-burning-shadows-theme-deck-rock-steady-lycanroc"
+      ]
+    }
+  ]
+}

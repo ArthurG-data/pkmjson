@@ -1,0 +1,24 @@
+{
+  "id": "sm2-umbreon-gx-premium-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "premium_collection",
+  "name": "Umbreon GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: an oversized card of Umbreon GX; an alternate art Promo of Umbreon GX, collector's pin and coin; 6 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Umbreon GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          137524
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/137524/pokemon-sm-guardians-rising-umbreon-gx-premium-collection"
+      ]
+    }
+  ]
+}

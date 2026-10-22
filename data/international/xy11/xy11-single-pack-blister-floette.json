@@ -1,0 +1,40 @@
+{
+  "id": "xy11-single-pack-blister-floette",
+  "region": "international",
+  "set": "xy11",
+  "category": "blister",
+  "name": "Steam Siege Single Pack Blister [Floette]",
+  "identifiers": {
+    "cardmarketProductId": 586336
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy11-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Floette.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Single Pack Blister [Floette]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120703
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120703/pokemon-xy-steam-siege-steam-siege-single-pack-blister-floette"
+      ]
+    }
+  ]
+}

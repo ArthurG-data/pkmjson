@@ -1,0 +1,40 @@
+{
+  "id": "swsh8-build-battle-box",
+  "region": "international",
+  "set": "swsh8",
+  "category": "build_and_battle_box",
+  "name": "Fusion Strike Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 574595
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh8-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247659
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247659/pokemon-swsh08-fusion-strike-fusion-strike-build-and-battle-box"
+      ]
+    }
+  ]
+}

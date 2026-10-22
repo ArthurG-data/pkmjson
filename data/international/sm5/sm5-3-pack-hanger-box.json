@@ -1,0 +1,31 @@
+{
+  "id": "sm5-3-pack-hanger-box",
+  "region": "international",
+  "set": "sm5",
+  "category": "collection_box",
+  "name": "Ultra Prism 3 Pack Hanger Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm5-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism 3 Pack Hanger Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232314
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232314/pokemon-sm-ultra-prism-ultra-prism-3-pack-hanger-box"
+      ]
+    }
+  ]
+}

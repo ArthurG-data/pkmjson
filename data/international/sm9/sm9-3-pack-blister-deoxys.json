@@ -1,0 +1,51 @@
+{
+  "id": "sm9-3-pack-blister-deoxys",
+  "region": "international",
+  "set": "sm9",
+  "category": "blister",
+  "name": "Team Up 3 Pack Blister [Deoxys]",
+  "identifiers": {
+    "cardmarketProductId": 585923
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm9-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM164",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 184493,
+        "cardmarketProductId": 367368,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up 3 Pack Blister [Deoxys]",
+      "releaseDate": "2019-02-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181700
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181700/pokemon-sm-team-up-team-up-3-pack-blister-deoxys"
+      ]
+    }
+  ]
+}

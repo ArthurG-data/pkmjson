@@ -1,0 +1,24 @@
+{
+  "id": "swsh11-arceus-vstar-ultra-premium-collection-case",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Arceus VSTAR Ultra-Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus VSTAR Ultra-Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693585
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693585/pokemon-swsh11-lost-origin-arceus-vstar-ultra-premium-collection-case"
+      ]
+    }
+  ]
+}

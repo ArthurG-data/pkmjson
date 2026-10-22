@@ -1,0 +1,39 @@
+{
+  "id": "sm1-legacy-evolution-pin-collection",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Legacy Evolution Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "TCGO code card",
+        "count": 1
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      },
+      {
+        "name": "Cosmo Holofoil promos of Bellossom, Blissey, Crobat, Politoed and Slowking",
+        "count": 5
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 booster packs; Steelix EX from XY Steam Siege.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legacy Evolution Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148381
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148381/pokemon-sm-base-set-legacy-evolution-pin-collection"
+      ]
+    }
+  ]
+}

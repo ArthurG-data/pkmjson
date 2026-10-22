@@ -1,0 +1,24 @@
+{
+  "id": "swsh12-booster-bundle-case",
+  "region": "international",
+  "set": "swsh12",
+  "category": "case",
+  "name": "Silver Tempest Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Booster Bundle Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          562366
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/562366/pokemon-swsh12-silver-tempest-silver-tempest-booster-bundle-case"
+      ]
+    }
+  ]
+}

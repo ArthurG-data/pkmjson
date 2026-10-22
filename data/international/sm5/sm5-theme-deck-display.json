@@ -1,0 +1,24 @@
+{
+  "id": "sm5-theme-deck-display",
+  "region": "international",
+  "set": "sm5",
+  "category": "case",
+  "name": "Ultra Prism Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism Theme Deck Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          450311
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/450311/pokemon-sm-ultra-prism-ultra-prism-theme-deck-display"
+      ]
+    }
+  ]
+}

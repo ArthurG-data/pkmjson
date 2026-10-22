@@ -1,0 +1,77 @@
+{
+  "id": "sm7-elite-trainer-box",
+  "region": "international",
+  "set": "sm7",
+  "category": "elite_trainer_box",
+  "name": "Celestial Storm Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 357062
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Rayquaza",
+        "count": 65
+      },
+      {
+        "name": "Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic GX marker",
+        "count": 1
+      },
+      {
+        "name": "Collector's box",
+        "count": 1
+      },
+      {
+        "name": "Dividers",
+        "count": 4
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Elite Trainer Box",
+      "releaseDate": "2018-08-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170277
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170277/pokemon-sm-celestial-storm-celestial-storm-elite-trainer-box"
+      ]
+    }
+  ]
+}

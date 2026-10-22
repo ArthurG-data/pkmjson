@@ -1,0 +1,27 @@
+{
+  "id": "sm115-booster-pack",
+  "region": "international",
+  "set": "sm115",
+  "category": "booster_pack",
+  "name": "Hidden Fates Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 381201
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198634
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198634/pokemon-hidden-fates-hidden-fates-booster-pack"
+      ]
+    }
+  ]
+}

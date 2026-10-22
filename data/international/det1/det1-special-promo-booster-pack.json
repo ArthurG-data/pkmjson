@@ -1,0 +1,24 @@
+{
+  "id": "det1-special-promo-booster-pack",
+  "region": "international",
+  "set": "det1",
+  "category": "booster_pack",
+  "name": "Detective Pikachu Special Promo Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu Special Promo Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          189810
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/189810/pokemon-detective-pikachu-detective-pikachu-special-promo-booster-pack"
+      ]
+    }
+  ]
+}

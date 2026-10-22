@@ -1,0 +1,52 @@
+{
+  "id": "sm115-pin-collection-mew",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Pin Collection [Mew]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM215",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 197854,
+        "cardmarketProductId": 394707,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Mew",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Pin Collection [Mew]",
+      "releaseDate": "2019-08-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193439
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193439/pokemon-hidden-fates-hidden-fates-pin-collection-mew"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sv03-pokemon-center-elite-trainer-box-exclusive",
+  "region": "international",
+  "set": "sv03",
+  "category": "elite_trainer_box",
+  "name": "Obsidian Flames Pokemon Center Elite Trainer Box (Exclusive)",
+  "identifiers": {
+    "cardmarketProductId": 715777
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Pokemon Center Elite Trainer Box (Exclusive)",
+      "releaseDate": "2023-08-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501266
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501266/pokemon-sv03-obsidian-flames-obsidian-flames-pokemon-center-elite-trainer-box-exclusive"
+      ]
+    }
+  ]
+}

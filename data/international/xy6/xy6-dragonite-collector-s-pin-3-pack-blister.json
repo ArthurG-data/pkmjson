@@ -1,0 +1,41 @@
+{
+  "id": "xy6-dragonite-collector-s-pin-3-pack-blister",
+  "region": "international",
+  "set": "xy6",
+  "category": "blister",
+  "name": "Dragonite Collector's Pin 3 Pack Blister",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy6-booster-pack",
+        "count": 2
+      },
+      {
+        "product": "xy5-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible pin of Dragonite",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragonite Collector's Pin 3 Pack Blister",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100501
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100501/pokemon-xy-roaring-skies-dragonite-collectors-pin-3-pack-blister"
+      ]
+    }
+  ]
+}

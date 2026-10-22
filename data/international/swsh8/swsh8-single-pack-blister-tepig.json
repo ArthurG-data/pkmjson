@@ -1,0 +1,50 @@
+{
+  "id": "swsh8-single-pack-blister-tepig",
+  "region": "international",
+  "set": "swsh8",
+  "category": "blister",
+  "name": "Fusion Strike Single Pack Blister [Tepig]",
+  "identifiers": {
+    "cardmarketProductId": 585667
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh8-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH172",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 253408,
+        "cardmarketProductId": 583199,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fusion Strike Single Pack Blister [Tepig]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247669
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247669/pokemon-swsh08-fusion-strike-fusion-strike-single-pack-blister-tepig"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "det1-two-pack-blister",
+  "region": "international",
+  "set": "det1",
+  "category": "blister",
+  "name": "Detective Pikachu Two Pack Blister",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu Two Pack Blister",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          264258
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/264258/pokemon-detective-pikachu-detective-pikachu-two-pack-blister"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xy5-elite-trainer-box-groudon",
+  "region": "international",
+  "set": "xy5",
+  "category": "elite_trainer_box",
+  "name": "Elite Trainer Box [Groudon]",
+  "identifiers": {
+    "cardmarketProductId": 286953
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Elite Trainer Box [Groudon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97762
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97762/pokemon-xy-primal-clash-elite-trainer-box-groudon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ex12-legend-maker-booster-box",
+  "region": "international",
+  "set": "ex12",
+  "category": "booster_box",
+  "name": "Legend Maker Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271916
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legend Maker Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98556
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98556/pokemon-ex-legend-maker-legend-maker-booster-box"
+      ]
+    }
+  ]
+}

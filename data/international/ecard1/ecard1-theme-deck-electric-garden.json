@@ -1,0 +1,27 @@
+{
+  "id": "ecard1-theme-deck-electric-garden",
+  "region": "international",
+  "set": "ecard1",
+  "category": "theme_deck",
+  "name": "Expedition Theme Deck - \"Electric Garden\"",
+  "identifiers": {
+    "cardmarketProductId": 286573
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Expedition Theme Deck - \"Electric Garden\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234504
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234504/pokemon-expedition-expedition-theme-deck-electric-garden"
+      ]
+    }
+  ]
+}

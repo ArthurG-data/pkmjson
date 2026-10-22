@@ -1,0 +1,25 @@
+{
+  "id": "30th-poster-collection-case",
+  "region": "international",
+  "set": "30th",
+  "category": "case",
+  "name": "30th Celebration Poster Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Poster Collection Case",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709033
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709033/pokemon-me-30th-celebration-30th-celebration-poster-collection-case"
+      ]
+    }
+  ]
+}

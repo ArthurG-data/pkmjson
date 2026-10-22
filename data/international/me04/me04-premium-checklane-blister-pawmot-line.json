@@ -1,0 +1,32 @@
+{
+  "id": "me04-premium-checklane-blister-pawmot-line",
+  "region": "international",
+  "set": "me04",
+  "category": "blister",
+  "name": "Chaos Rising Premium Checklane Blister [Pawmot Line]",
+  "contentsStatus": "complete",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin, features cards from an evolutionary line. (Pokémon TCG booster packs and contents vary by product)",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Premium Checklane Blister [Pawmot Line]",
+      "releaseDate": "2026-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684459
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684459/pokemon-me04-chaos-rising-chaos-rising-premium-checklane-blister-pawmot-line"
+      ]
+    }
+  ]
+}

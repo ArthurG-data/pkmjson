@@ -1,0 +1,24 @@
+{
+  "id": "g1-mythical-pokemon-collection-box-victini",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Mythical Pokemon Collection Box [Victini]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Pokemon Collection Box [Victini]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123433
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123433/pokemon-generations-mythical-pokemon-collection-box-victini"
+      ]
+    }
+  ]
+}

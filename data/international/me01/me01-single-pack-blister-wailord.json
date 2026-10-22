@@ -1,0 +1,31 @@
+{
+  "id": "me01-single-pack-blister-wailord",
+  "region": "international",
+  "set": "me01",
+  "category": "blister",
+  "name": "Mega Evolution Single Pack Blister [Wailord]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Mega Evolutionr booster pack; a promotional cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Single Pack Blister [Wailord]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          657489
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/657489/pokemon-me01-mega-evolution-mega-evolution-single-pack-blister-wailord"
+      ]
+    }
+  ]
+}

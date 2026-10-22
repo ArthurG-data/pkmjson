@@ -1,0 +1,38 @@
+{
+  "id": "bw7-theme-deck-ice-shock-black-kyurem",
+  "region": "international",
+  "set": "bw7",
+  "category": "theme_deck",
+  "name": "Boundaries Crossed Theme Deck - \"Ice Shock\" [Black Kyurem]",
+  "identifiers": {
+    "cardmarketProductId": 286556
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Boundaries Crossed Theme Deck - \"Ice Shock\" [Black Kyurem]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          208573
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/208573/pokemon-boundaries-crossed-boundaries-crossed-theme-deck-ice-shock-black-kyurem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "xy7-powers-beyond-tin-rayquaza-ex",
+  "region": "international",
+  "set": "xy7",
+  "category": "tin",
+  "name": "Powers Beyond Tin [Rayquaza EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Powers Beyond Tin [Rayquaza EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          106212
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/106212/pokemon-xy-ancient-origins-powers-beyond-tin-rayquaza-ex"
+      ]
+    }
+  ]
+}

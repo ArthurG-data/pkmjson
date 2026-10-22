@@ -1,0 +1,50 @@
+{
+  "id": "sm2-3-pack-blister-turtonator",
+  "region": "international",
+  "set": "sm2",
+  "category": "blister",
+  "name": "Guardians Rising 3 Pack Blister [Turtonator]",
+  "identifiers": {
+    "cardmarketProductId": 586007
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM27",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 131294,
+        "cardmarketProductId": 297865,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising 3 Pack Blister [Turtonator]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          184340
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/184340/pokemon-sm-guardians-rising-guardians-rising-3-pack-blister-turtonator"
+      ]
+    }
+  ]
+}

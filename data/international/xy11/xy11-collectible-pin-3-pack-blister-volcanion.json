@@ -1,0 +1,37 @@
+{
+  "id": "xy11-collectible-pin-3-pack-blister-volcanion",
+  "region": "international",
+  "set": "xy11",
+  "category": "blister",
+  "name": "Steam Siege Collectible Pin 3 Pack Blister [Volcanion]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy11-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Volcanion pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Collectible Pin 3 Pack Blister [Volcanion]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          120706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/120706/pokemon-xy-steam-siege-steam-siege-collectible-pin-3-pack-blister-volcanion"
+      ]
+    }
+  ]
+}

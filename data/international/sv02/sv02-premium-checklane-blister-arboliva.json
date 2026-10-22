@@ -1,0 +1,44 @@
+{
+  "id": "sv02-premium-checklane-blister-arboliva",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved Premium Checklane Blister [Arboliva]",
+  "identifiers": {
+    "cardmarketProductId": 703172
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards featuring Pokemon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Premium Checklane Blister [Arboliva]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          622968
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/622968/pokemon-sv02-paldea-evolved-paldea-evolved-premium-checklane-blister-arboliva"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sv03.5-151-binder-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "collection_box",
+  "name": "151 Binder Collection",
+  "identifiers": {
+    "cardmarketProductId": 719697
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Binder with 20 9-pocket pages",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Binder Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502004
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502004/pokemon-sv-scarlet-and-violet-151-151-binder-collection"
+      ]
+    }
+  ]
+}

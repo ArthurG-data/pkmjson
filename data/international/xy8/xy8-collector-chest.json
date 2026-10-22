@@ -1,0 +1,24 @@
+{
+  "id": "xy8-collector-chest",
+  "region": "international",
+  "set": "xy8",
+  "category": "other",
+  "name": "XY BREAKthrough Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY BREAKthrough Collector Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107109
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107109/pokemon-xy-breakthrough-xy-breakthrough-collector-chest"
+      ]
+    }
+  ]
+}

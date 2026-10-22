@@ -1,0 +1,24 @@
+{
+  "id": "sv08.5-2-pack-blister-case",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "case",
+  "name": "Prismatic Evolutions 2-Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions 2-Pack Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          620024
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/620024/pokemon-sv-prismatic-evolutions-prismatic-evolutions-2-pack-blister-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "me04-sleeved-booster-case",
+  "region": "international",
+  "set": "me04",
+  "category": "case",
+  "name": "Chaos Rising Sleeved Booster Case",
+  "identifiers": {
+    "cardmarketProductId": 877280
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me04-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Sleeved Booster Case",
+      "releaseDate": "2026-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          690684
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/690684/pokemon-me04-chaos-rising-chaos-rising-sleeved-booster-case"
+      ]
+    }
+  ]
+}

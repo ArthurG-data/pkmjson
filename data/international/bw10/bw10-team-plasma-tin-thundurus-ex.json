@@ -1,0 +1,24 @@
+{
+  "id": "bw10-team-plasma-tin-thundurus-ex",
+  "region": "international",
+  "set": "bw10",
+  "category": "tin",
+  "name": "Team Plasma Tin [Thundurus EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Plasma Tin [Thundurus EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          137097
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/137097/pokemon-plasma-blast-team-plasma-tin-thundurus-ex"
+      ]
+    }
+  ]
+}

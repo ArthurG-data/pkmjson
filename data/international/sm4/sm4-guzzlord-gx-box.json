@@ -1,0 +1,32 @@
+{
+  "id": "sm4-guzzlord-gx-box",
+  "region": "international",
+  "set": "sm4",
+  "category": "collection_box",
+  "name": "Guzzlord GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a holofoil promo of Guzzlord GX; 4 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guzzlord GX Box",
+      "releaseDate": "2018-01-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155061
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155061/pokemon-sm-crimson-invasion-guzzlord-gx-box"
+      ]
+    }
+  ]
+}

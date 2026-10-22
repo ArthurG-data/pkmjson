@@ -1,0 +1,50 @@
+{
+  "id": "sv02-single-pack-blister-growlithe",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved Single Pack Blister [Growlithe]",
+  "identifiers": {
+    "cardmarketProductId": 703167
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-024",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 500563,
+        "cardmarketProductId": 703192,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Single Pack Blister [Growlithe]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          494001
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/494001/pokemon-sv02-paldea-evolved-paldea-evolved-single-pack-blister-growlithe"
+      ]
+    }
+  ]
+}

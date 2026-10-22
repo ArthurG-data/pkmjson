@@ -1,0 +1,53 @@
+{
+  "id": "sv08.5-premium-figure-collection",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Premium Figure Collection",
+  "identifiers": {
+    "cardmarketProductId": 834800
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Figure featuring Espeon and Umbreon",
+        "count": 1
+      },
+      {
+        "name": "Pin featuring Espeon and Umbreon",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring Espeon and Umbreon",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Espeon ex; 1 etched foil promo card featuring Umbreon ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Premium Figure Collection",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650799
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650799/pokemon-sv-prismatic-evolutions-prismatic-evolutions-premium-figure-collection"
+      ]
+    }
+  ]
+}

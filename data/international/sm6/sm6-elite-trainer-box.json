@@ -1,0 +1,73 @@
+{
+  "id": "sm6-elite-trainer-box",
+  "region": "international",
+  "set": "sm6",
+  "category": "elite_trainer_box",
+  "name": "Forbidden Light Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 316134
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm6-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Ultra Necrozma",
+        "count": 65
+      },
+      {
+        "name": "Pokemon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Sun & Moon - Forbidden Light expansion",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic GX marker",
+        "count": 1
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Elite Trainer Box",
+      "releaseDate": "2018-05-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164303
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164303/pokemon-sm-forbidden-light-forbidden-light-elite-trainer-box"
+      ]
+    }
+  ]
+}

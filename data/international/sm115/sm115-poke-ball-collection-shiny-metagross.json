@@ -1,0 +1,42 @@
+{
+  "id": "sm115-poke-ball-collection-shiny-metagross",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Poke Ball Collection [Shiny Metagross]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Ultra Ball big enough to hold a stack of Pokemon TCG cards",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil cards featuring Shiny Metagross GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Poke Ball Collection [Shiny Metagross]",
+      "releaseDate": "2019-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198524
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198524/pokemon-hidden-fates-hidden-fates-poke-ball-collection-shiny-metagross"
+      ]
+    }
+  ]
+}

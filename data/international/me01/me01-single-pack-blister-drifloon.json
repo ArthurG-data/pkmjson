@@ -1,0 +1,35 @@
+{
+  "id": "me01-single-pack-blister-drifloon",
+  "region": "international",
+  "set": "me01",
+  "category": "blister",
+  "name": "Mega Evolution Single Pack Blister [Drifloon]",
+  "identifiers": {
+    "cardmarketProductId": 834817
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Single Pack Blister [Drifloon]",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644358
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644358/pokemon-me01-mega-evolution-mega-evolution-single-pack-blister-drifloon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "xy2-collector-pin-3-pack-blister-mega-charizard-x",
+  "region": "international",
+  "set": "xy2",
+  "category": "blister",
+  "name": "Flashfire Collector Pin 3 Pack Blister [Mega Charizard X]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collector's pin of Mega Charizard X",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs (2 Flashfire & 1 XY).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flashfire Collector Pin 3 Pack Blister [Mega Charizard X]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97744
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97744/pokemon-xy-flashfire-flashfire-collector-pin-3-pack-blister-mega-charizard-x"
+      ]
+    }
+  ]
+}

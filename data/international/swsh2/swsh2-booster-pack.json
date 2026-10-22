@@ -1,0 +1,28 @@
+{
+  "id": "swsh2-booster-pack",
+  "region": "international",
+  "set": "swsh2",
+  "category": "booster_pack",
+  "name": "Rebel Clash Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 453278
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Booster Pack",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210562
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210562/pokemon-swsh02-rebel-clash-rebel-clash-booster-pack"
+      ]
+    }
+  ]
+}

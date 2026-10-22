@@ -1,0 +1,46 @@
+{
+  "id": "swsh1-toxtricity-v-box",
+  "region": "international",
+  "set": "swsh1",
+  "category": "collection_box",
+  "name": "Toxtricity V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH017",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 206425,
+        "cardmarketProductId": 450873,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Toxtricity V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Toxtricity V Box",
+      "releaseDate": "2020-02-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206424
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206424/pokemon-swsh01-sword-and-shield-base-set-toxtricity-v-box"
+      ]
+    }
+  ]
+}

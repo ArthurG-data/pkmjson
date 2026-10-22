@@ -1,0 +1,32 @@
+{
+  "id": "me03-half-booster-boxes",
+  "region": "international",
+  "set": "me03",
+  "category": "half_booster_box",
+  "name": "Perfect Order Half Booster Boxes",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me03-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order Half Booster Boxes",
+      "releaseDate": "2026-03-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672403
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672403/pokemon-me03-perfect-order-perfect-order-half-booster-boxes"
+      ]
+    }
+  ]
+}

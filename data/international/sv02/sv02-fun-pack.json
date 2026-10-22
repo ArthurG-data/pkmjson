@@ -1,0 +1,24 @@
+{
+  "id": "sv02-fun-pack",
+  "region": "international",
+  "set": "sv02",
+  "category": "other",
+  "name": "Paldea Evolved Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          530106
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/530106/pokemon-sv02-paldea-evolved-paldea-evolved-fun-pack"
+      ]
+    }
+  ]
+}

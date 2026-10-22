@@ -1,0 +1,45 @@
+{
+  "id": "det1-collector-chest",
+  "region": "international",
+  "set": "det1",
+  "category": "other",
+  "name": "Detective Pikachu: Collector Chest",
+  "identifiers": {
+    "cardmarketProductId": 371783
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "det1-booster-pack",
+        "count": 7
+      }
+    ],
+    "other": [
+      {
+        "name": "Cool collector’s pin inspired by Detective Pikachu",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad and sticker sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG: Sun & Moon Series booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu: Collector Chest",
+      "releaseDate": "2019-04-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185244
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185244/pokemon-detective-pikachu-detective-pikachu-collector-chest"
+      ]
+    }
+  ]
+}

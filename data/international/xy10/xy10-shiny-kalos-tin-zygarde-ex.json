@@ -1,0 +1,24 @@
+{
+  "id": "xy10-shiny-kalos-tin-zygarde-ex",
+  "region": "international",
+  "set": "xy10",
+  "category": "tin",
+  "name": "Shiny Kalos Tin [Zygarde EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Kalos Tin [Zygarde EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          121396
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/121396/pokemon-xy-fates-collide-shiny-kalos-tin-zygarde-ex"
+      ]
+    }
+  ]
+}

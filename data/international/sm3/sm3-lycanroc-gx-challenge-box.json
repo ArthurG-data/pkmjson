@@ -1,0 +1,53 @@
+{
+  "id": "sm3-lycanroc-gx-challenge-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Lycanroc GX Challenge Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM14",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 127520,
+        "cardmarketProductId": 296827,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "smp-SM105",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 162604,
+        "cardmarketProductId": 321165,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Complete Pokemon TCG Theme Deck, ready to play",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lycanroc GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218321
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218321/pokemon-sm-burning-shadows-lycanroc-gx-challenge-box"
+      ]
+    }
+  ]
+}

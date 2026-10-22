@@ -1,0 +1,24 @@
+{
+  "id": "sv03-build-battle-box-display",
+  "region": "international",
+  "set": "sv03",
+  "category": "case",
+  "name": "Obsidian Flames Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514193
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514193/pokemon-sv03-obsidian-flames-obsidian-flames-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

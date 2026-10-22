@@ -1,0 +1,27 @@
+{
+  "id": "ex2-sandstorm-theme-deck-caravan",
+  "region": "international",
+  "set": "ex2",
+  "category": "theme_deck",
+  "name": "Sandstorm Theme Deck - \"Caravan\"",
+  "identifiers": {
+    "cardmarketProductId": 286515
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sandstorm Theme Deck - \"Caravan\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234511
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234511/pokemon-ex-sandstorm-sandstorm-theme-deck-caravan"
+      ]
+    }
+  ]
+}

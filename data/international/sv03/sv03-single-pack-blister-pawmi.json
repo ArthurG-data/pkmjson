@@ -1,0 +1,49 @@
+{
+  "id": "sv03-single-pack-blister-pawmi",
+  "region": "international",
+  "set": "sv03",
+  "category": "blister",
+  "name": "Obsidian Flames Single Pack Blister [Pawmi]",
+  "identifiers": {
+    "cardmarketProductId": 715774
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-040",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 512043,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Single Pack Blister [Pawmi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501262
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501262/pokemon-sv03-obsidian-flames-obsidian-flames-single-pack-blister-pawmi"
+      ]
+    }
+  ]
+}

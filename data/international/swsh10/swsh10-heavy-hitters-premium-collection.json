@@ -1,0 +1,65 @@
+{
+  "id": "swsh10-heavy-hitters-premium-collection",
+  "region": "international",
+  "set": "swsh10",
+  "category": "premium_collection",
+  "name": "Heavy Hitters Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH213",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268306,
+        "cardmarketProductId": 606783,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH109",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 238553,
+        "cardmarketProductId": 547871,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH186",
+        "tcgdexVariantId": "555jb0efopmyclvkikic41",
+        "tcgplayerProductId": 264278,
+        "cardmarketProductId": 606600,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Lucario V",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coins",
+        "count": 4
+      },
+      {
+        "name": "Code card usable in either the Pokémon TCG Online or Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Tyranitar; 14 Pokémon TCG booster packs; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Heavy Hitters Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          279598
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/279598/pokemon-swsh10-astral-radiance-heavy-hitters-premium-collection"
+      ]
+    }
+  ]
+}

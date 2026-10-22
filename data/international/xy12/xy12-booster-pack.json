@@ -1,0 +1,27 @@
+{
+  "id": "xy12-booster-pack",
+  "region": "international",
+  "set": "xy12",
+  "category": "booster_pack",
+  "name": "Evolutions Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 293335
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolutions Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129907
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129907/pokemon-xy-evolutions-evolutions-booster-pack"
+      ]
+    }
+  ]
+}

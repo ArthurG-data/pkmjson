@@ -1,0 +1,27 @@
+{
+  "id": "mfb-pikachu-bulbasaur",
+  "region": "international",
+  "set": "mfb",
+  "category": "other",
+  "name": "My First Battle [Pikachu & Bulbasaur]",
+  "identifiers": {
+    "cardmarketProductId": 721852
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "My First Battle [Pikachu & Bulbasaur]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          520781
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/520781/pokemon-my-first-battle-my-first-battle-pikachu-and-bulbasaur"
+      ]
+    }
+  ]
+}

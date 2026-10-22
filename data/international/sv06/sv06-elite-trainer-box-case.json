@@ -1,0 +1,28 @@
+{
+  "id": "sv06-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv06",
+  "category": "case",
+  "name": "Twilight Masquerade Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 761231
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Elite Trainer Box Case",
+      "releaseDate": "2024-05-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544385
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544385/pokemon-sv06-twilight-masquerade-twilight-masquerade-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

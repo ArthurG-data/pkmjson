@@ -1,0 +1,40 @@
+{
+  "id": "xy4-3-pack-blister-shiftry",
+  "region": "international",
+  "set": "xy4",
+  "category": "blister",
+  "name": "Phantom Forces 3 Pack Blister [Shiftry]",
+  "identifiers": {
+    "cardmarketProductId": 586398
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy4-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Shiftry.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces 3 Pack Blister [Shiftry]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97784
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97784/pokemon-xy-phantom-forces-phantom-forces-3-pack-blister-shiftry"
+      ]
+    }
+  ]
+}

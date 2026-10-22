@@ -1,0 +1,44 @@
+{
+  "id": "swsh12-premium-checklane-blister-magnezone",
+  "region": "international",
+  "set": "swsh12",
+  "category": "blister",
+  "name": "Silver Tempest Premium Checklane Blister [Magnezone]",
+  "identifiers": {
+    "cardmarketProductId": 683488
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Premium Checklane Blister [Magnezone]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285783
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285783/pokemon-swsh12-silver-tempest-silver-tempest-premium-checklane-blister-magnezone"
+      ]
+    }
+  ]
+}

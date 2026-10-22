@@ -1,0 +1,25 @@
+{
+  "id": "sv03-3-pack-blister-set-of-2",
+  "region": "international",
+  "set": "sv03",
+  "category": "other",
+  "name": "Obsidian Flames 3 Pack Blister [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames 3 Pack Blister [Set of 2]",
+      "releaseDate": "2023-08-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501261
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501261/pokemon-sv03-obsidian-flames-obsidian-flames-3-pack-blister-set-of-2"
+      ]
+    }
+  ]
+}

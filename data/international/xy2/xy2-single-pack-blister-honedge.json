@@ -1,0 +1,27 @@
+{
+  "id": "xy2-single-pack-blister-honedge",
+  "region": "international",
+  "set": "xy2",
+  "category": "blister",
+  "name": "Flashfire Single Pack Blister [Honedge]",
+  "identifiers": {
+    "cardmarketProductId": 586411
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flashfire Single Pack Blister [Honedge]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97740
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97740/pokemon-xy-flashfire-flashfire-single-pack-blister-honedge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "me04-single-pack-blister-toxel",
+  "region": "international",
+  "set": "me04",
+  "category": "blister",
+  "name": "Chaos Rising Single Pack Blister [Toxel]",
+  "identifiers": {
+    "cardmarketProductId": 877285
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card. (Pokemon TCG booster packs and contents vary by product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chaos Rising Single Pack Blister [Toxel]",
+      "releaseDate": "2026-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684457
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684457/pokemon-me04-chaos-rising-chaos-rising-single-pack-blister-toxel"
+      ]
+    }
+  ]
+}

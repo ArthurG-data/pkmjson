@@ -1,0 +1,24 @@
+{
+  "id": "xy10-three-pack-blister-vivillon",
+  "region": "international",
+  "set": "xy10",
+  "category": "blister",
+  "name": "Fates Collide Three Pack Blister [Vivillon]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fates Collide Three Pack Blister [Vivillon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118340
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118340/pokemon-xy-fates-collide-fates-collide-three-pack-blister-vivillon"
+      ]
+    }
+  ]
+}

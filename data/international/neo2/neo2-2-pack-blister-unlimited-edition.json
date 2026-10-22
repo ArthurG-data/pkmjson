@@ -1,0 +1,24 @@
+{
+  "id": "neo2-2-pack-blister-unlimited-edition",
+  "region": "international",
+  "set": "neo2",
+  "category": "blister",
+  "name": "Neo Discovery 2-Pack Blister [Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Neo Discovery booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Discovery 2-Pack Blister [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282509
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282509/pokemon-neo-discovery-neo-discovery-2-pack-blister-unlimited-edition"
+      ]
+    }
+  ]
+}

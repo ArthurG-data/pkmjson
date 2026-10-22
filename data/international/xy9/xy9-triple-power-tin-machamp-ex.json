@@ -1,0 +1,24 @@
+{
+  "id": "xy9-triple-power-tin-machamp-ex",
+  "region": "international",
+  "set": "xy9",
+  "category": "tin",
+  "name": "Triple Power Tin [Machamp EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Power Tin [Machamp EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117699
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117699/pokemon-xy-breakpoint-triple-power-tin-machamp-ex"
+      ]
+    }
+  ]
+}

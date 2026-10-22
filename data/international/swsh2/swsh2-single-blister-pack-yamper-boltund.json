@@ -1,0 +1,31 @@
+{
+  "id": "swsh2-single-blister-pack-yamper-boltund",
+  "region": "international",
+  "set": "swsh2",
+  "category": "blister",
+  "name": "Sword & Shield Single Blister Pack [Yamper & Boltund]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Yamper, Boltund.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Single Blister Pack [Yamper & Boltund]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668516
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668516/pokemon-swsh02-rebel-clash-sword-and-shield-single-blister-pack-yamper-and-boltund"
+      ]
+    }
+  ]
+}

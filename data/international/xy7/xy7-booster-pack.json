@@ -1,0 +1,28 @@
+{
+  "id": "xy7-booster-pack",
+  "region": "international",
+  "set": "xy7",
+  "category": "booster_pack",
+  "name": "XY Ancient Origins Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 283942
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Ancient Origins Booster Pack",
+      "releaseDate": "2015-08-12",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100490
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100490/pokemon-xy-ancient-origins-xy-ancient-origins-booster-pack"
+      ]
+    }
+  ]
+}

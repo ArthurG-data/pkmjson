@@ -1,0 +1,27 @@
+{
+  "id": "xy10-single-pack-blister-pansear",
+  "region": "international",
+  "set": "xy10",
+  "category": "blister",
+  "name": "Fates Collide Single Pack Blister [Pansear]",
+  "identifiers": {
+    "cardmarketProductId": 586346
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fates Collide Single Pack Blister [Pansear]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118337
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118337/pokemon-xy-fates-collide-fates-collide-single-pack-blister-pansear"
+      ]
+    }
+  ]
+}

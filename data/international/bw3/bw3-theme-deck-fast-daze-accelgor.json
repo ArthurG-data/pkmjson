@@ -1,0 +1,38 @@
+{
+  "id": "bw3-theme-deck-fast-daze-accelgor",
+  "region": "international",
+  "set": "bw3",
+  "category": "theme_deck",
+  "name": "Noble Victories Theme Deck - \"Fast Daze\" [Accelgor]",
+  "identifiers": {
+    "cardmarketProductId": 286548
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Noble Victories Theme Deck - \"Fast Daze\" [Accelgor]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98626
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98626/pokemon-noble-victories-noble-victories-theme-deck-fast-daze-accelgor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "me05-premium-checklane-blister-tyrunt-tyrantrum-target-exclusive",
+  "region": "international",
+  "set": "me05",
+  "category": "blister",
+  "name": "Pitch Black Premium Checklane Blister [Tyrunt, Tyrantrum] (Target Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; 2 cards featuring an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Premium Checklane Blister [Tyrunt, Tyrantrum] (Target Exclusive)",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692953
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692953/pokemon-me05-pitch-black-pitch-black-premium-checklane-blister-tyrunt-tyrantrum-target-exclusive"
+      ]
+    }
+  ]
+}

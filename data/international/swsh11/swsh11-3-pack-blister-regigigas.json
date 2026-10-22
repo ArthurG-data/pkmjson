@@ -1,0 +1,41 @@
+{
+  "id": "swsh11-3-pack-blister-regigigas",
+  "region": "international",
+  "set": "swsh11",
+  "category": "blister",
+  "name": "Lost Origin 3 Pack Blister [Regigigas]",
+  "identifiers": {
+    "cardmarketProductId": 666155
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh11-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Regigigas.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin 3 Pack Blister [Regigigas]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277329
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277329/pokemon-swsh11-lost-origin-lost-origin-3-pack-blister-regigigas"
+      ]
+    }
+  ]
+}

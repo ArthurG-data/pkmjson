@@ -1,0 +1,54 @@
+{
+  "id": "swsh3-eternatus-vmax-premium-collection",
+  "region": "international",
+  "set": "swsh3",
+  "category": "premium_collection",
+  "name": "Eternatus VMAX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH045",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 220281,
+        "cardmarketProductId": 496320,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin featuring Eternatus",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card featuring Eternatus VMAX",
+        "count": 1
+      },
+      {
+        "name": "Metallic Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Eternatus V; 6 Pokémon TCG Booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Eternatus VMAX Premium Collection",
+      "releaseDate": "2020-09-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220277
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220277/pokemon-swsh03-darkness-ablaze-eternatus-vmax-premium-collection"
+      ]
+    }
+  ]
+}

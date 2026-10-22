@@ -1,0 +1,25 @@
+{
+  "id": "swsh1-galar-partners-tin-set-of-3",
+  "region": "international",
+  "set": "swsh1",
+  "category": "other",
+  "name": "Galar Partners Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 3 foil Pokemon V cards: Rillaboom V, Cinderace V, or Inteleon V; 5 Pokemon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Partners Tin [Set of 3]",
+      "releaseDate": "2020-02-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206423
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206423/pokemon-swsh01-sword-and-shield-base-set-galar-partners-tin-set-of-3"
+      ]
+    }
+  ]
+}

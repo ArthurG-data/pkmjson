@@ -1,0 +1,37 @@
+{
+  "id": "xy8-pin-collection-zoroark",
+  "region": "international",
+  "set": "xy8",
+  "category": "collection_box",
+  "name": "XY BREAKthrough Pin Collection [Zoroark]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy8-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Zoroark",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY BREAKthrough Pin Collection [Zoroark]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229477
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229477/pokemon-xy-breakthrough-xy-breakthrough-pin-collection-zoroark"
+      ]
+    }
+  ]
+}

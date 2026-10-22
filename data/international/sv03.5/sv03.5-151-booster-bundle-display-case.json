@@ -1,0 +1,31 @@
+{
+  "id": "sv03.5-151-booster-bundle-display-case",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "case",
+  "name": "151 Booster Bundle Display Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-bundle",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Booster Bundle Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          513409
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/513409/pokemon-sv-scarlet-and-violet-151-151-booster-bundle-display-case"
+      ]
+    }
+  ]
+}

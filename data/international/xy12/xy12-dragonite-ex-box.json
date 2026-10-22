@@ -1,0 +1,31 @@
+{
+  "id": "xy12-dragonite-ex-box",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "Dragonite EX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Foil card and oversize card featuring the star Pokémon-EX",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: four Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragonite EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          125734
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/125734/pokemon-xy-evolutions-dragonite-ex-box"
+      ]
+    }
+  ]
+}

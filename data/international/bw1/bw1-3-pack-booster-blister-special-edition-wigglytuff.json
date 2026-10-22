@@ -1,0 +1,31 @@
+{
+  "id": "bw1-3-pack-booster-blister-special-edition-wigglytuff",
+  "region": "international",
+  "set": "bw1",
+  "category": "blister",
+  "name": "Black & White 3 Pack Booster Blister Special Edition [Wigglytuff]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Booster Packs; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White 3 Pack Booster Blister Special Edition [Wigglytuff]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          454432
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/454432/pokemon-black-and-white-black-and-white-3-pack-booster-blister-special-edition-wigglytuff"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "swsh4.5-mini-tin-display",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "case",
+  "name": "Shining Fates Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 765076
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230961
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230961/pokemon-shining-fates-shining-fates-mini-tin-display"
+      ]
+    }
+  ]
+}

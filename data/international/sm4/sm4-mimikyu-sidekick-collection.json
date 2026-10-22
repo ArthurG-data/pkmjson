@@ -1,0 +1,31 @@
+{
+  "id": "sm4-mimikyu-sidekick-collection",
+  "region": "international",
+  "set": "sm4",
+  "category": "collection_box",
+  "name": "Mimikyu Sidekick Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Awesome dangler featuring Mimikyu",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A foil promo card featuring Mimikyu (SM99); 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mimikyu Sidekick Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          166410
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/166410/pokemon-sm-crimson-invasion-mimikyu-sidekick-collection"
+      ]
+    }
+  ]
+}

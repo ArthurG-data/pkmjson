@@ -1,0 +1,43 @@
+{
+  "id": "swsh3-theme-deck-galarian-sirfetch-d",
+  "region": "international",
+  "set": "swsh3",
+  "category": "theme_deck",
+  "name": "Darkness Ablaze Theme Deck [Galarian Sirfetch'd]",
+  "identifiers": {
+    "cardmarketProductId": 462224
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Paper playmat and rules guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Theme Deck [Galarian Sirfetch'd]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216866
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216866/pokemon-swsh03-darkness-ablaze-darkness-ablaze-theme-deck-galarian-sirfetchd"
+      ]
+    }
+  ]
+}

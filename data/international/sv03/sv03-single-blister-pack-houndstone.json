@@ -1,0 +1,31 @@
+{
+  "id": "sv03-single-blister-pack-houndstone",
+  "region": "international",
+  "set": "sv03",
+  "category": "blister",
+  "name": "Obsidian Flames Single Blister Pack [Houndstone]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Houndstone.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Single Blister Pack [Houndstone]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557086
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557086/pokemon-sv03-obsidian-flames-obsidian-flames-single-blister-pack-houndstone"
+      ]
+    }
+  ]
+}

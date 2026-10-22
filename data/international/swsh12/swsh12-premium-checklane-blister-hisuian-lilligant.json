@@ -1,0 +1,41 @@
+{
+  "id": "swsh12-premium-checklane-blister-hisuian-lilligant",
+  "region": "international",
+  "set": "swsh12",
+  "category": "blister",
+  "name": "Silver Tempest Premium Checklane Blister [Hisuian Lilligant]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Premium Checklane Blister [Hisuian Lilligant]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          486327
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/486327/pokemon-swsh12-silver-tempest-silver-tempest-premium-checklane-blister-hisuian-lilligant"
+      ]
+    }
+  ]
+}

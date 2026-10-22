@@ -1,0 +1,35 @@
+{
+  "id": "sv10-single-pack-blister-zarude",
+  "region": "international",
+  "set": "sv10",
+  "category": "blister",
+  "name": "Destined Rivals Single Pack Blister [Zarude]",
+  "identifiers": {
+    "cardmarketProductId": 826143
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Single Pack Blister [Zarude]",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          633106
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/633106/pokemon-sv10-destined-rivals-destined-rivals-single-pack-blister-zarude"
+      ]
+    }
+  ]
+}

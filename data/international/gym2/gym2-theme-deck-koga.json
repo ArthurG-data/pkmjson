@@ -1,0 +1,38 @@
+{
+  "id": "gym2-theme-deck-koga",
+  "region": "international",
+  "set": "gym2",
+  "category": "theme_deck",
+  "name": "Gym Challenge Theme Deck - \"Koga\"",
+  "identifiers": {
+    "cardmarketProductId": 286509
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Combination of cards from the Base Set 2, Gym Challenge expansions: 28 Gym Challenge Energy cards",
+        "count": 1
+      },
+      {
+        "name": "Gym Challange cards other than Energy, with some duplicates, for a total of 60 cards",
+        "count": 24
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Base Set 2 cards, with some duplicates; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Challenge Theme Deck - \"Koga\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277129
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277129/pokemon-gym-challenge-gym-challenge-theme-deck-koga"
+      ]
+    }
+  ]
+}

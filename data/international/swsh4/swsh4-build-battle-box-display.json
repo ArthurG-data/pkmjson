@@ -1,0 +1,24 @@
+{
+  "id": "swsh4-build-battle-box-display",
+  "region": "international",
+  "set": "swsh4",
+  "category": "case",
+  "name": "Vivid Voltage Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          221749
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/221749/pokemon-swsh04-vivid-voltage-vivid-voltage-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

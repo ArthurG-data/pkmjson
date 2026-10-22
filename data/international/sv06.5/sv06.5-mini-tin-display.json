@@ -1,0 +1,27 @@
+{
+  "id": "sv06.5-mini-tin-display",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "case",
+  "name": "Shrouded Fable Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 770966
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553008
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553008/pokemon-sv-shrouded-fable-shrouded-fable-mini-tin-display"
+      ]
+    }
+  ]
+}

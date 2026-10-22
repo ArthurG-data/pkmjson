@@ -1,0 +1,52 @@
+{
+  "id": "swsh12.5-pin-collection-inteleon",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Crown Zenith Pin Collection [Inteleon]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH279",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475623,
+        "cardmarketProductId": 682976,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring Rillaboom, Cinderace, or Inteleon",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Pin Collection [Inteleon]",
+      "releaseDate": "2023-04-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475618
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475618/pokemon-swsh-crown-zenith-crown-zenith-pin-collection-inteleon"
+      ]
+    }
+  ]
+}

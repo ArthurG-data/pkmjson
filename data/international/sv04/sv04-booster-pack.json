@@ -1,0 +1,27 @@
+{
+  "id": "sv04-booster-pack",
+  "region": "international",
+  "set": "sv04",
+  "category": "booster_pack",
+  "name": "Paradox Rift Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 728716
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          512822
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/512822/pokemon-sv04-paradox-rift-paradox-rift-booster-pack"
+      ]
+    }
+  ]
+}

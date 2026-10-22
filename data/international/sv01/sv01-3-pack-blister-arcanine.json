@@ -1,0 +1,50 @@
+{
+  "id": "sv01-3-pack-blister-arcanine",
+  "region": "international",
+  "set": "sv01",
+  "category": "blister",
+  "name": "Scarlet & Violet 3 Pack Blister [Arcanine]",
+  "identifiers": {
+    "cardmarketProductId": 692097
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-011",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 491186,
+        "cardmarketProductId": 692231,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet 3 Pack Blister [Arcanine]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478761
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478761/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-3-pack-blister-arcanine"
+      ]
+    }
+  ]
+}

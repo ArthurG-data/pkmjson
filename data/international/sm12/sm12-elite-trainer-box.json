@@ -1,0 +1,73 @@
+{
+  "id": "sm12-elite-trainer-box",
+  "region": "international",
+  "set": "sm12",
+  "category": "elite_trainer_box",
+  "name": "Cosmic Eclipse Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 398434
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Arceus & Dialga & Palkia",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Sun & Moon - Cosmic Eclipse expansion",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic TAG TEAM GX marker",
+        "count": 1
+      },
+      {
+        "name": "Collector’s box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Elite Trainer Box",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199308
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199308/pokemon-sm-cosmic-eclipse-cosmic-eclipse-elite-trainer-box"
+      ]
+    }
+  ]
+}

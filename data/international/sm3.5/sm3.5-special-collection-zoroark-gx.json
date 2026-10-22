@@ -1,0 +1,27 @@
+{
+  "id": "sm3.5-special-collection-zoroark-gx",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Special Collection: Zoroark GX",
+  "identifiers": {
+    "cardmarketProductId": 301678
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Special Collection: Zoroark GX",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          149378
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/149378/pokemon-shining-legends-shining-legends-special-collection-zoroark-gx"
+      ]
+    }
+  ]
+}

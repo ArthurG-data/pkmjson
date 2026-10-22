@@ -1,0 +1,24 @@
+{
+  "id": "ex1-ruby-sapphire-single-pack-blister",
+  "region": "international",
+  "set": "ex1",
+  "category": "blister",
+  "name": "Ruby & Sapphire Single Pack Blister",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Ruby & Sapphire booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ruby & Sapphire Single Pack Blister",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488315
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488315/pokemon-ex-ruby-and-sapphire-ruby-and-sapphire-single-pack-blister"
+      ]
+    }
+  ]
+}

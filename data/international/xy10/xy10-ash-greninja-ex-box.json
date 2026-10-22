@@ -1,0 +1,24 @@
+{
+  "id": "xy10-ash-greninja-ex-box",
+  "region": "international",
+  "set": "xy10",
+  "category": "collection_box",
+  "name": "Ash-Greninja EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ash-Greninja EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118336
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118336/pokemon-xy-fates-collide-ash-greninja-ex-box"
+      ]
+    }
+  ]
+}

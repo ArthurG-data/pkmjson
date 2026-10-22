@@ -1,0 +1,25 @@
+{
+  "id": "30th-mini-tin-display-case",
+  "region": "international",
+  "set": "30th",
+  "category": "case",
+  "name": "30th Celebration Mini Tin Display Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Mini Tin Display Case",
+      "releaseDate": "2026-10-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709030
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709030/pokemon-me-30th-celebration-30th-celebration-mini-tin-display-case"
+      ]
+    }
+  ]
+}

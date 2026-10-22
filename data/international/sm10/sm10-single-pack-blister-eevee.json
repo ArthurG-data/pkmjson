@@ -1,0 +1,51 @@
+{
+  "id": "sm10-single-pack-blister-eevee",
+  "region": "international",
+  "set": "sm10",
+  "category": "blister",
+  "name": "Unbroken Bonds Single Pack Blister [Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 585912
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM235",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 200276,
+        "cardmarketProductId": 412939,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Single Pack Blister [Eevee]",
+      "releaseDate": "2019-05-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          188412
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/188412/pokemon-sm-unbroken-bonds-unbroken-bonds-single-pack-blister-eevee"
+      ]
+    }
+  ]
+}

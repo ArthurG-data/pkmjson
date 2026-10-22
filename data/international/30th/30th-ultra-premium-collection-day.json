@@ -1,0 +1,62 @@
+{
+  "id": "30th-ultra-premium-collection-day",
+  "region": "international",
+  "set": "30th",
+  "category": "premium_collection",
+  "name": "30th Celebration Ultra-Premium Collection [Day]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 29
+      },
+      {
+        "product": "30th-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Playmat featuring Pikachu, Espeon, more",
+        "count": 1
+      },
+      {
+        "name": "-ct standard-sized card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Metal coin featuring Espeon",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pikachu; 1 foil promo card featuring Espeon ex; 1 acrylic card display.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Ultra-Premium Collection [Day]",
+      "releaseDate": "2026-11-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704190
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704190/pokemon-me-30th-celebration-30th-celebration-ultra-premium-collection-day"
+      ]
+    }
+  ]
+}

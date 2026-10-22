@@ -1,0 +1,41 @@
+{
+  "id": "swsh12.5-tin-galarian-moltres",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "tin",
+  "name": "Crown Zenith Tin [Galarian Moltres]",
+  "identifiers": {
+    "cardmarketProductId": 683021
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a full art promo card featuring: Galarian Articunos, Galarian Zapdos, or Galarian Moltres.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Tin [Galarian Moltres]",
+      "releaseDate": "2023-03-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475629
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475629/pokemon-swsh-crown-zenith-crown-zenith-tin-galarian-moltres"
+      ]
+    }
+  ]
+}

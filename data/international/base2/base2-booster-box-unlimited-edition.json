@@ -1,0 +1,24 @@
+{
+  "id": "base2-booster-box-unlimited-edition",
+  "region": "international",
+  "set": "base2",
+  "category": "booster_box",
+  "name": "Jungle Booster Box [Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jungle Booster Box [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107599
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107599/pokemon-jungle-jungle-booster-box-unlimited-edition"
+      ]
+    }
+  ]
+}

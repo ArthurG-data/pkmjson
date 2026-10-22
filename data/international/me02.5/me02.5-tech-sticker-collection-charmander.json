@@ -1,0 +1,51 @@
+{
+  "id": "me02.5-tech-sticker-collection-charmander",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Charmander",
+  "identifiers": {
+    "cardmarketProductId": 860565
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "mep-038",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 684462,
+        "cardmarketProductId": 875187,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker sheet (featuring Charmander and Mega Charizard Y)",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Charmander",
+      "releaseDate": "2026-01-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666908
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666908/pokemon-me-ascended-heroes-mega-evolution-ascended-heroes-tech-sticker-collection-charmander"
+      ]
+    }
+  ]
+}

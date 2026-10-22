@@ -1,0 +1,40 @@
+{
+  "id": "sv06-3-pack-blister-revavroom",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade 3 Pack Blister [Revavroom]",
+  "identifiers": {
+    "cardmarketProductId": 761223
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Revavroom.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade 3 Pack Blister [Revavroom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544172
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544172/pokemon-sv06-twilight-masquerade-twilight-masquerade-3-pack-blister-revavroom"
+      ]
+    }
+  ]
+}

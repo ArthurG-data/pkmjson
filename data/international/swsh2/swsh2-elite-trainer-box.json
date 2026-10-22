@@ -1,0 +1,73 @@
+{
+  "id": "swsh2-elite-trainer-box",
+  "region": "international",
+  "set": "swsh2",
+  "category": "elite_trainer_box",
+  "name": "Rebel Clash Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 453283
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Copperajah",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Players guide to the Sword & Shield Rebel Clash expansion",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collectors box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Elite Trainer Box",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210572
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210572/pokemon-swsh02-rebel-clash-rebel-clash-elite-trainer-box"
+      ]
+    }
+  ]
+}

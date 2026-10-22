@@ -1,0 +1,28 @@
+{
+  "id": "swsh11-booster-pack",
+  "region": "international",
+  "set": "swsh11",
+  "category": "booster_pack",
+  "name": "Lost Origin Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 665527
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Booster Pack",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277325
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277325/pokemon-swsh11-lost-origin-lost-origin-booster-pack"
+      ]
+    }
+  ]
+}

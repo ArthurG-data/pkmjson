@@ -1,0 +1,27 @@
+{
+  "id": "sv02-booster-pack",
+  "region": "international",
+  "set": "sv02",
+  "category": "booster_pack",
+  "name": "Paldea Evolved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 703155
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493976
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493976/pokemon-sv02-paldea-evolved-paldea-evolved-booster-pack"
+      ]
+    }
+  ]
+}

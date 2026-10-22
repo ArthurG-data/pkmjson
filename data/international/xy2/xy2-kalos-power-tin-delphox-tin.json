@@ -1,0 +1,24 @@
+{
+  "id": "xy2-kalos-power-tin-delphox-tin",
+  "region": "international",
+  "set": "xy2",
+  "category": "tin",
+  "name": "Kalos Power Tin [Delphox Tin]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Power Tin [Delphox Tin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91606
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91606/pokemon-xy-flashfire-kalos-power-tin-delphox-tin"
+      ]
+    }
+  ]
+}

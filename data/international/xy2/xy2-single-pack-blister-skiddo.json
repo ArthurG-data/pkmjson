@@ -1,0 +1,27 @@
+{
+  "id": "xy2-single-pack-blister-skiddo",
+  "region": "international",
+  "set": "xy2",
+  "category": "blister",
+  "name": "Flashfire Single Pack Blister [Skiddo]",
+  "identifiers": {
+    "cardmarketProductId": 586410
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flashfire Single Pack Blister [Skiddo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97739
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97739/pokemon-xy-flashfire-flashfire-single-pack-blister-skiddo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sm6-prerelease-kit",
+  "region": "international",
+  "set": "sm6",
+  "category": "other",
+  "name": "Forbidden Light Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "-card Evolution pack",
+        "count": 23
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Four 10-card booster packs; 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Prerelease Kit",
+      "releaseDate": "2018-05-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          166413
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/166413/pokemon-sm-forbidden-light-forbidden-light-prerelease-kit"
+      ]
+    }
+  ]
+}

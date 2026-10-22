@@ -1,0 +1,24 @@
+{
+  "id": "sv01-booster-pack-art-bundle-set-of-4",
+  "region": "international",
+  "set": "sv01",
+  "category": "other",
+  "name": "Scarlet & Violet Booster Pack Art Bundle [Set of 4]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Booster Pack Art Bundle [Set of 4]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478759
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478759/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-pack-art-bundle-set-of-4"
+      ]
+    }
+  ]
+}

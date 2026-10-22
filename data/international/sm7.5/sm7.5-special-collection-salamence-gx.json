@@ -1,0 +1,51 @@
+{
+  "id": "sm7.5-special-collection-salamence-gx",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "collection_box",
+  "name": "Dragon Majesty Special Collection: Salamence GX",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM140",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 180530,
+        "cardmarketProductId": 366057,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Salamence collectible coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Full Art holofoil promo of Salamence GX (and 1 Jumbo version).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Majesty Special Collection: Salamence GX",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          180522
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/180522/pokemon-dragon-majesty-dragon-majesty-special-collection-salamence-gx"
+      ]
+    }
+  ]
+}

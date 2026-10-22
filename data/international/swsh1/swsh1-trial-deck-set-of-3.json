@@ -1,0 +1,25 @@
+{
+  "id": "swsh1-trial-deck-set-of-3",
+  "region": "international",
+  "set": "swsh1",
+  "category": "other",
+  "name": "Sword & Shield Trial Deck [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Trial Deck [Set of 3]",
+      "releaseDate": "2020-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206044
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206044/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-trial-deck-set-of-3"
+      ]
+    }
+  ]
+}

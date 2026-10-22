@@ -1,0 +1,40 @@
+{
+  "id": "sm7-build-battle-box",
+  "region": "international",
+  "set": "sm7",
+  "category": "build_and_battle_box",
+  "name": "Celestial Storm Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 362625
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170280
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170280/pokemon-sm-celestial-storm-celestial-storm-build-and-battle-box"
+      ]
+    }
+  ]
+}

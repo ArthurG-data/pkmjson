@@ -1,0 +1,24 @@
+{
+  "id": "bw3-v-for-victini-tin",
+  "region": "international",
+  "set": "bw3",
+  "category": "tin",
+  "name": "V for Victini Tin",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V for Victini Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98632
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98632/pokemon-noble-victories-v-for-victini-tin"
+      ]
+    }
+  ]
+}

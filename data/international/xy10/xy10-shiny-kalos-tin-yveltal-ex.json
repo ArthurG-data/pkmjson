@@ -1,0 +1,24 @@
+{
+  "id": "xy10-shiny-kalos-tin-yveltal-ex",
+  "region": "international",
+  "set": "xy10",
+  "category": "tin",
+  "name": "Shiny Kalos Tin [Yveltal EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Kalos Tin [Yveltal EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          121395
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/121395/pokemon-xy-fates-collide-shiny-kalos-tin-yveltal-ex"
+      ]
+    }
+  ]
+}

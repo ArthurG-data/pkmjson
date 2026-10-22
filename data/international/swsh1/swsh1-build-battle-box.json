@@ -1,0 +1,35 @@
+{
+  "id": "swsh1-build-battle-box",
+  "region": "international",
+  "set": "swsh1",
+  "category": "build_and_battle_box",
+  "name": "Sword & Shield Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 437174
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards; 4 Pokemon TCG: Sword & Shield booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Build & Battle Box",
+      "releaseDate": "2020-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206040
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206040/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-build-and-battle-box"
+      ]
+    }
+  ]
+}

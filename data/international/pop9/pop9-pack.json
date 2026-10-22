@@ -1,0 +1,24 @@
+{
+  "id": "pop9-pack",
+  "region": "international",
+  "set": "pop9",
+  "category": "other",
+  "name": "POP Series 9 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 9 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190537
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190537/pokemon-pop-series-9-pop-series-9-pack"
+      ]
+    }
+  ]
+}

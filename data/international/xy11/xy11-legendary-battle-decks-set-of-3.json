@@ -1,0 +1,24 @@
+{
+  "id": "xy11-legendary-battle-decks-set-of-3",
+  "region": "international",
+  "set": "xy11",
+  "category": "other",
+  "name": "Legendary Battle Decks [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck featuring Moltres, Articuno, or Zapdos; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Battle Decks [Set of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200569
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200569/pokemon-xy-steam-siege-legendary-battle-decks-set-of-3"
+      ]
+    }
+  ]
+}

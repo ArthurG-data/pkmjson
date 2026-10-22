@@ -1,0 +1,38 @@
+{
+  "id": "xy1-base-set-theme-deck-resilient-life-xerneas",
+  "region": "international",
+  "set": "xy1",
+  "category": "theme_deck",
+  "name": "XY Base Set Theme Deck - \"Resilient Life\" [Xerneas]",
+  "identifiers": {
+    "cardmarketProductId": 286617
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Base Set Theme Deck - \"Resilient Life\" [Xerneas]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91603
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91603/pokemon-xy-base-set-xy-base-set-theme-deck-resilient-life-xerneas"
+      ]
+    }
+  ]
+}

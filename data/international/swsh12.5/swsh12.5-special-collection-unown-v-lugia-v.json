@@ -1,0 +1,67 @@
+{
+  "id": "swsh12.5-special-collection-unown-v-lugia-v",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Crown Zenith Special Collection [Unown V & Lugia V]",
+  "identifiers": {
+    "cardmarketProductId": 719690
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH300",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 505968,
+        "cardmarketProductId": 719675,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH301",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 505996,
+        "cardmarketProductId": 719676,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pin featuring Lugia",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin featuring Lugia",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 oversize promo card featuring Lugia V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Special Collection [Unown V & Lugia V]",
+      "releaseDate": "2023-08-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          505916
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/505916/pokemon-swsh-crown-zenith-crown-zenith-special-collection-unown-v-and-lugia-v"
+      ]
+    }
+  ]
+}

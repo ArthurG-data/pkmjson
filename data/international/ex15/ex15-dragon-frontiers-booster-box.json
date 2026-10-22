@@ -1,0 +1,27 @@
+{
+  "id": "ex15-dragon-frontiers-booster-box",
+  "region": "international",
+  "set": "ex15",
+  "category": "booster_box",
+  "name": "Dragon Frontiers Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271911
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Frontiers Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98532
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98532/pokemon-ex-dragon-frontiers-dragon-frontiers-booster-box"
+      ]
+    }
+  ]
+}

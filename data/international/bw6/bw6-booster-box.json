@@ -1,0 +1,27 @@
+{
+  "id": "bw6-booster-box",
+  "region": "international",
+  "set": "bw6",
+  "category": "booster_box",
+  "name": "Dragons Exalted Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271893
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragons Exalted Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98540
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98540/pokemon-dragons-exalted-dragons-exalted-booster-box"
+      ]
+    }
+  ]
+}

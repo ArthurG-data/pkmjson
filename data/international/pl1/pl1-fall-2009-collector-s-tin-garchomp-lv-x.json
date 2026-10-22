@@ -1,0 +1,31 @@
+{
+  "id": "pl1-fall-2009-collector-s-tin-garchomp-lv-x",
+  "region": "international",
+  "set": "pl1",
+  "category": "tin",
+  "name": "Fall 2009 Collector's Tin [Garchomp LV.X]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "pl1-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card; one Diamond & Pearl Series booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2009 Collector's Tin [Garchomp LV.X]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485826
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/485826/pokemon-platinum-fall-2009-collectors-tin-garchomp-lvx"
+      ]
+    }
+  ]
+}

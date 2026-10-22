@@ -1,0 +1,46 @@
+{
+  "id": "xy12-theme-deck-mewtwo-mayhem-mewtwo",
+  "region": "international",
+  "set": "xy12",
+  "category": "theme_deck",
+  "name": "Evolutions Theme Deck - \"Mewtwo Mayhem\" [Mewtwo]",
+  "identifiers": {
+    "cardmarketProductId": 293334
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Two-player mat",
+        "count": 1
+      },
+      {
+        "name": "Mewtwo deckbox",
+        "count": 1
+      },
+      {
+        "name": "TCGO deck assess code",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolutions Theme Deck - \"Mewtwo Mayhem\" [Mewtwo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123450
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123450/pokemon-xy-evolutions-evolutions-theme-deck-mewtwo-mayhem-mewtwo"
+      ]
+    }
+  ]
+}

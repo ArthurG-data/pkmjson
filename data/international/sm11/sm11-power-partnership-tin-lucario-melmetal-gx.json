@@ -1,0 +1,36 @@
+{
+  "id": "sm11-power-partnership-tin-lucario-melmetal-gx",
+  "region": "international",
+  "set": "sm11",
+  "category": "tin",
+  "name": "Power Partnership Tin [Lucario & Melmetal GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metal TAG TEAM GX marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil TAG TEAM GX special art promo of Lucario & Melmetal GX; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Power Partnership Tin [Lucario & Melmetal GX]",
+      "releaseDate": "2019-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          194736
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/194736/pokemon-sm-unified-minds-power-partnership-tin-lucario-and-melmetal-gx"
+      ]
+    }
+  ]
+}

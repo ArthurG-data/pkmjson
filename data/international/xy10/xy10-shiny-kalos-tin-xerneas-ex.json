@@ -1,0 +1,24 @@
+{
+  "id": "xy10-shiny-kalos-tin-xerneas-ex",
+  "region": "international",
+  "set": "xy10",
+  "category": "tin",
+  "name": "Shiny Kalos Tin [Xerneas EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Kalos Tin [Xerneas EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          121394
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/121394/pokemon-xy-fates-collide-shiny-kalos-tin-xerneas-ex"
+      ]
+    }
+  ]
+}

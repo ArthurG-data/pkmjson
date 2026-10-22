@@ -1,0 +1,27 @@
+{
+  "id": "ex8-deoxys-booster-pack",
+  "region": "international",
+  "set": "ex8",
+  "category": "booster_pack",
+  "name": "Deoxys Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271841
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Deoxys Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98562
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98562/pokemon-ex-deoxys-deoxys-booster-pack"
+      ]
+    }
+  ]
+}

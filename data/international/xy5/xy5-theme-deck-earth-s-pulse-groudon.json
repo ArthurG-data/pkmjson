@@ -1,0 +1,38 @@
+{
+  "id": "xy5-theme-deck-earth-s-pulse-groudon",
+  "region": "international",
+  "set": "xy5",
+  "category": "theme_deck",
+  "name": "Primal Clash Theme Deck - \"Earth's Pulse\" [Groudon]",
+  "identifiers": {
+    "cardmarketProductId": 286626
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Primal Clash Theme Deck - \"Earth's Pulse\" [Groudon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97753
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97753/pokemon-xy-primal-clash-primal-clash-theme-deck-earths-pulse-groudon"
+      ]
+    }
+  ]
+}

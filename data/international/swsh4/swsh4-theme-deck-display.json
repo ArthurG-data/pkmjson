@@ -1,0 +1,24 @@
+{
+  "id": "swsh4-theme-deck-display",
+  "region": "international",
+  "set": "swsh4",
+  "category": "case",
+  "name": "Vivid Voltage Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vivid Voltage Theme Deck Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231693
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231693/pokemon-swsh04-vivid-voltage-vivid-voltage-theme-deck-display"
+      ]
+    }
+  ]
+}

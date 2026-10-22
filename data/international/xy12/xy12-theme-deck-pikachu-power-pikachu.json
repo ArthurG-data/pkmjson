@@ -1,0 +1,46 @@
+{
+  "id": "xy12-theme-deck-pikachu-power-pikachu",
+  "region": "international",
+  "set": "xy12",
+  "category": "theme_deck",
+  "name": "Evolutions Theme Deck - \"Pikachu Power\" [Pikachu]",
+  "identifiers": {
+    "cardmarketProductId": 293333
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Two-player mat",
+        "count": 1
+      },
+      {
+        "name": "Pikachu deckbox",
+        "count": 1
+      },
+      {
+        "name": "TCGO deck assess code",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolutions Theme Deck - \"Pikachu Power\" [Pikachu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123449
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123449/pokemon-xy-evolutions-evolutions-theme-deck-pikachu-power-pikachu"
+      ]
+    }
+  ]
+}

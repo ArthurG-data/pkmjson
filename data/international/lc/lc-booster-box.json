@@ -1,0 +1,34 @@
+{
+  "id": "lc-booster-box",
+  "region": "international",
+  "set": "lc",
+  "category": "booster_box",
+  "name": "Legendary Collection Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271888
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "lc-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Collection Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          691155
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/691155/pokemon-legendary-collection-legendary-collection-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sv03-single-blister-pack-kingambit",
+  "region": "international",
+  "set": "sv03",
+  "category": "blister",
+  "name": "Obsidian Flames Single Blister Pack [Kingambit]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-130",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 562087,
+        "cardmarketProductId": 770950,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Single Blister Pack [Kingambit]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557085
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557085/pokemon-sv03-obsidian-flames-obsidian-flames-single-blister-pack-kingambit"
+      ]
+    }
+  ]
+}

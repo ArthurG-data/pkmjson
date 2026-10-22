@@ -1,0 +1,28 @@
+{
+  "id": "sm7.5-booster-pack",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "booster_pack",
+  "name": "Dragon Majesty Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 361541
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Majesty Booster Pack",
+      "releaseDate": "2018-09-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          173392
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/173392/pokemon-dragon-majesty-dragon-majesty-booster-pack"
+      ]
+    }
+  ]
+}

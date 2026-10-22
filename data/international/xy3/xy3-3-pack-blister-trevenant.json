@@ -1,0 +1,40 @@
+{
+  "id": "xy3-3-pack-blister-trevenant",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "Furious Fists 3 Pack Blister [Trevenant]",
+  "identifiers": {
+    "cardmarketProductId": 586406
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy3-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Trevanant.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists 3 Pack Blister [Trevenant]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97769
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97769/pokemon-xy-furious-fists-three-pack-blister-trevenant"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sm11-prerelease-kit",
+  "region": "international",
+  "set": "sm11",
+  "category": "other",
+  "name": "Unified Minds Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Prerelease Kit",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          195612
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/195612/pokemon-sm-unified-minds-unified-minds-prerelease-kit"
+      ]
+    }
+  ]
+}

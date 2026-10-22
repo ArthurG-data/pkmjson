@@ -1,0 +1,47 @@
+{
+  "id": "sm7-3-pack-booster-blister-tapu-lele",
+  "region": "international",
+  "set": "sm7",
+  "category": "blister",
+  "name": "Celestial Storm 3 Pack Booster Blister [Tapu Lele]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM45",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 173399,
+        "cardmarketProductId": 300306,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm 3 Pack Booster Blister [Tapu Lele]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170276
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170276/pokemon-sm-celestial-storm-celestial-storm-3-pack-booster-blister-tapu-lele"
+      ]
+    }
+  ]
+}

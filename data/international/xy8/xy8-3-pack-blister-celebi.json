@@ -1,0 +1,40 @@
+{
+  "id": "xy8-3-pack-blister-celebi",
+  "region": "international",
+  "set": "xy8",
+  "category": "blister",
+  "name": "BREAKthrough 3 Pack Blister [Celebi]",
+  "identifiers": {
+    "cardmarketProductId": 586370
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy8-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Celebi.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKthrough 3 Pack Blister [Celebi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          108636
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/108636/pokemon-xy-breakthrough-breakthrough-3-pack-blister-celebi"
+      ]
+    }
+  ]
+}

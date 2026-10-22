@@ -1,0 +1,34 @@
+{
+  "id": "sv06-build-battle-box",
+  "region": "international",
+  "set": "sv06",
+  "category": "build_and_battle_box",
+  "name": "Twilight Masquerade Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 761222
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards; 4 Pokémon TCG: Scarlet & Violet booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544386
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544386/pokemon-sv06-twilight-masquerade-twilight-masquerade-build-and-battle-box"
+      ]
+    }
+  ]
+}

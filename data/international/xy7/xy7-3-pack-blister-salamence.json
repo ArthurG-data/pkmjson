@@ -1,0 +1,40 @@
+{
+  "id": "xy7-3-pack-blister-salamence",
+  "region": "international",
+  "set": "xy7",
+  "category": "blister",
+  "name": "Ancient Origins 3 Pack Blister [Salamence]",
+  "identifiers": {
+    "cardmarketProductId": 586377
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy7-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Salamence.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ancient Origins 3 Pack Blister [Salamence]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100494
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100494/pokemon-xy-ancient-origins-ancient-origins-3-pack-blister-salamence"
+      ]
+    }
+  ]
+}

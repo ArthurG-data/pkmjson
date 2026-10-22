@@ -1,0 +1,27 @@
+{
+  "id": "ex3-booster-pack",
+  "region": "international",
+  "set": "ex3",
+  "category": "booster_pack",
+  "name": "EX Dragon Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271842
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Dragon Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98519
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98519/pokemon-ex-dragon-ex-dragon-booster-pack"
+      ]
+    }
+  ]
+}

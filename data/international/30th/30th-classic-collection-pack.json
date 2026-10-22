@@ -1,0 +1,25 @@
+{
+  "id": "30th-classic-collection-pack",
+  "region": "international",
+  "set": "30th",
+  "category": "collection_box",
+  "name": "30th Celebration Classic Collection Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Classic Collection Pack",
+      "releaseDate": "2026-11-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704192
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704192/pokemon-me-30th-celebration-30th-celebration-classic-collection-pack"
+      ]
+    }
+  ]
+}

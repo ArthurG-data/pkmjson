@@ -1,0 +1,41 @@
+{
+  "id": "sm3-mysterious-powers-tin-necrozma-gx",
+  "region": "international",
+  "set": "sm3",
+  "category": "tin",
+  "name": "Mysterious Powers Tin [Necrozma GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM58",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 148423,
+        "cardmarketProductId": 301979,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card to unlock a playable deck in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Powers Tin [Necrozma GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148419
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148419/pokemon-sm-burning-shadows-mysterious-powers-tin-necrozma-gx"
+      ]
+    }
+  ]
+}

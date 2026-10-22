@@ -1,0 +1,51 @@
+{
+  "id": "sv01-single-pack-blister-espathra",
+  "region": "international",
+  "set": "sv01",
+  "category": "blister",
+  "name": "Scarlet & Violet Single Pack Blister [Espathra]",
+  "identifiers": {
+    "cardmarketProductId": 692408
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-010",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 491185,
+        "cardmarketProductId": 703185,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Single Pack Blister [Espathra]",
+      "releaseDate": "2023-03-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478766
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478766/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-single-pack-blister-espathra"
+      ]
+    }
+  ]
+}

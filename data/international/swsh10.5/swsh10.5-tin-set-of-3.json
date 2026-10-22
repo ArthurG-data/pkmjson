@@ -1,0 +1,25 @@
+{
+  "id": "swsh10.5-tin-set-of-3",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "other",
+  "name": "Pokemon GO Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pikachu; 1 additional foil card featuring Pikachu, Snorlax, or Blissey; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Tin [Set of 3]",
+      "releaseDate": "2022-07-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271503
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271503/pokemon-pokemon-go-pokemon-go-tin-set-of-3"
+      ]
+    }
+  ]
+}

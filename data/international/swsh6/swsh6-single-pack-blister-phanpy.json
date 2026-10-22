@@ -1,0 +1,51 @@
+{
+  "id": "swsh6-single-pack-blister-phanpy",
+  "region": "international",
+  "set": "swsh6",
+  "category": "blister",
+  "name": "Chilling Reign Single Pack Blister [Phanpy]",
+  "identifiers": {
+    "cardmarketProductId": 585718
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH117",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 241882,
+        "cardmarketProductId": 557974,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign Single Pack Blister [Phanpy]",
+      "releaseDate": "2021-06-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236272
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236272/pokemon-swsh06-chilling-reign-chilling-reign-single-pack-blister-phanpy"
+      ]
+    }
+  ]
+}

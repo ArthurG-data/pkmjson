@@ -1,0 +1,25 @@
+{
+  "id": "me02.5-tin-set-of-3",
+  "region": "international",
+  "set": "me02.5",
+  "category": "other",
+  "name": "Ascended Heroes Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Meganium ex, Mega Emboar ex, or Mega Feraligatr ex; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Tin [Set of 3]",
+      "releaseDate": "2026-08-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          702500
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/702500/pokemon-me-ascended-heroes-ascended-heroes-tin-set-of-3"
+      ]
+    }
+  ]
+}

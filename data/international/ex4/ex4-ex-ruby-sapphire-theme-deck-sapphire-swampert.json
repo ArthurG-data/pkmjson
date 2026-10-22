@@ -1,0 +1,35 @@
+{
+  "id": "ex4-ex-ruby-sapphire-theme-deck-sapphire-swampert",
+  "region": "international",
+  "set": "ex4",
+  "category": "theme_deck",
+  "name": "EX Ruby & Sapphire Theme Deck - \"Sapphire\" [Swampert]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Ruby & Sapphire Theme Deck - \"Sapphire\" [Swampert]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488310
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488310/pokemon-ex-team-magma-vs-team-aqua-ex-ruby-and-sapphire-theme-deck-sapphire-swampert"
+      ]
+    }
+  ]
+}

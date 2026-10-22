@@ -1,0 +1,24 @@
+{
+  "id": "xy6-collector-s-pin-blisters-rayquaza",
+  "region": "international",
+  "set": "xy6",
+  "category": "blister",
+  "name": "Mega Evolution Collector's Pin Blisters [Rayquaza]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Collector's Pin Blisters [Rayquaza]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          99149
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/99149/pokemon-xy-roaring-skies-mega-evolution-collectors-pin-blisters-rayquaza"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sm9-booster-pack",
+  "region": "international",
+  "set": "sm9",
+  "category": "booster_pack",
+  "name": "Team Up Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 366887
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181699
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181699/pokemon-sm-team-up-team-up-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "swsh10.5-booster-pack",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "booster_pack",
+  "name": "Pokemon GO Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 653699
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Booster Pack",
+      "releaseDate": "2022-07-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          274421
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/274421/pokemon-pokemon-go-pokemon-go-booster-pack"
+      ]
+    }
+  ]
+}

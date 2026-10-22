@@ -1,0 +1,27 @@
+{
+  "id": "base2-theme-deck-power-reserve",
+  "region": "international",
+  "set": "base2",
+  "category": "theme_deck",
+  "name": "Jungle Theme Deck - \"Power Reserve\"",
+  "identifiers": {
+    "cardmarketProductId": 286494
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jungle Theme Deck - \"Power Reserve\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234498
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234498/pokemon-jungle-jungle-theme-deck-power-reserve"
+      ]
+    }
+  ]
+}

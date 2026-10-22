@@ -1,0 +1,27 @@
+{
+  "id": "sv06.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "case",
+  "name": "Shrouded Fable Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 770960
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553099
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553099/pokemon-sv-shrouded-fable-shrouded-fable-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

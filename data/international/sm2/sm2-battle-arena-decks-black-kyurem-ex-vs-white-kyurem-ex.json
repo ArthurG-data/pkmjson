@@ -1,0 +1,24 @@
+{
+  "id": "sm2-battle-arena-decks-black-kyurem-ex-vs-white-kyurem-ex",
+  "region": "international",
+  "set": "sm2",
+  "category": "battle_deck",
+  "name": "Battle Arena Decks: Black Kyurem EX vs White Kyurem EX",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 11 foil cards; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Arena Decks: Black Kyurem EX vs White Kyurem EX",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133810
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133810/pokemon-sm-guardians-rising-battle-arena-decks-black-kyurem-ex-vs-white-kyurem-ex"
+      ]
+    }
+  ]
+}

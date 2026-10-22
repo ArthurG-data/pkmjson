@@ -1,0 +1,37 @@
+{
+  "id": "sm10-single-pack-blister-steelix",
+  "region": "international",
+  "set": "sm10",
+  "category": "blister",
+  "name": "Unbroken Bonds Single Pack Blister [Steelix]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Onix and Steelix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Single Pack Blister [Steelix]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          240188
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/240188/pokemon-sm-unbroken-bonds-unbroken-bonds-single-pack-blister-steelix"
+      ]
+    }
+  ]
+}

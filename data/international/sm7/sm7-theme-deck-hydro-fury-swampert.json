@@ -1,0 +1,27 @@
+{
+  "id": "sm7-theme-deck-hydro-fury-swampert",
+  "region": "international",
+  "set": "sm7",
+  "category": "theme_deck",
+  "name": "Celestial Storm Theme Deck - \"Hydro Fury\" [Swampert]",
+  "identifiers": {
+    "cardmarketProductId": 361596
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Theme Deck - \"Hydro Fury\" [Swampert]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170279
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170279/pokemon-sm-celestial-storm-celestial-storm-theme-deck-hydro-fury-swampert"
+      ]
+    }
+  ]
+}

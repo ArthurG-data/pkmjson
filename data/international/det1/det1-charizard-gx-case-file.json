@@ -1,0 +1,27 @@
+{
+  "id": "det1-charizard-gx-case-file",
+  "region": "international",
+  "set": "det1",
+  "category": "case",
+  "name": "Detective Pikachu: Charizard GX Case File",
+  "identifiers": {
+    "cardmarketProductId": 370623
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu: Charizard GX Case File",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185242
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185242/pokemon-detective-pikachu-detective-pikachu-charizard-gx-case-file"
+      ]
+    }
+  ]
+}

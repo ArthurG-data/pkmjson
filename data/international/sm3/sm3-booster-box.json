@@ -1,0 +1,34 @@
+{
+  "id": "sm3-booster-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "booster_box",
+  "name": "Burning Shadows Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 298776
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133773
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133773/pokemon-sm-burning-shadows-burning-shadows-booster-box"
+      ]
+    }
+  ]
+}

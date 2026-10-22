@@ -1,0 +1,28 @@
+{
+  "id": "sv10-booster-box-case",
+  "region": "international",
+  "set": "sv10",
+  "category": "case",
+  "name": "Destined Rivals Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 818576
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Booster Box Case",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624678
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624678/pokemon-sv10-destined-rivals-destined-rivals-booster-box-case"
+      ]
+    }
+  ]
+}

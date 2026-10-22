@@ -1,0 +1,28 @@
+{
+  "id": "sm11-elite-trainer-box",
+  "region": "international",
+  "set": "sm11",
+  "category": "elite_trainer_box",
+  "name": "Unified Minds Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 377493
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Elite Trainer Box",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193052
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193052/pokemon-sm-unified-minds-unified-minds-elite-trainer-box"
+      ]
+    }
+  ]
+}

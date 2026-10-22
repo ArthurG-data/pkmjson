@@ -1,0 +1,35 @@
+{
+  "id": "swsh11-booster-box-case",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Lost Origin Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 672309
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh11-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Booster Box Case",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          278793
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/278793/pokemon-swsh11-lost-origin-lost-origin-booster-box-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv08.5-booster-bundle",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "booster_bundle",
+  "name": "Prismatic Evolutions Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 798924
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Booster Bundle",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          600518
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/600518/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-bundle"
+      ]
+    }
+  ]
+}

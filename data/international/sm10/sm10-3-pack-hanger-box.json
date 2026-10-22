@@ -1,0 +1,31 @@
+{
+  "id": "sm10-3-pack-hanger-box",
+  "region": "international",
+  "set": "sm10",
+  "category": "collection_box",
+  "name": "Unbroken Bonds 3 Pack Hanger Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds 3 Pack Hanger Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232315
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232315/pokemon-sm-unbroken-bonds-unbroken-bonds-3-pack-hanger-box"
+      ]
+    }
+  ]
+}

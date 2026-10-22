@@ -1,0 +1,45 @@
+{
+  "id": "sv08.5-poster-collection",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "collection_box",
+  "name": "Prismatic Evolutions Poster Collection",
+  "identifiers": {
+    "cardmarketProductId": 798946
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Poster featuring 27 card illustrations of Eevee and its Evolutions",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Flareon; 1 promo card featuring Vaporeon; 1 promo card featuring Jolteon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Poster Collection",
+      "releaseDate": "2025-01-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593359
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593359/pokemon-sv-prismatic-evolutions-prismatic-evolutions-poster-collection"
+      ]
+    }
+  ]
+}

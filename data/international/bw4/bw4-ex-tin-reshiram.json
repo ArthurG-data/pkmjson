@@ -1,0 +1,24 @@
+{
+  "id": "bw4-ex-tin-reshiram",
+  "region": "international",
+  "set": "bw4",
+  "category": "tin",
+  "name": "EX Tin [Reshiram]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Tin [Reshiram]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98636
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98636/pokemon-next-destinies-ex-tin-reshiram"
+      ]
+    }
+  ]
+}

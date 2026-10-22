@@ -1,0 +1,31 @@
+{
+  "id": "sm10-prerelease-kit",
+  "region": "international",
+  "set": "sm10",
+  "category": "other",
+  "name": "Unbroken Bonds Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Prerelease Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          189823
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/189823/pokemon-sm-unbroken-bonds-unbroken-bonds-prerelease-kit"
+      ]
+    }
+  ]
+}

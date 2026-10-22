@@ -1,0 +1,41 @@
+{
+  "id": "me02-premium-checklane-blister-ethan-s-magcargo",
+  "region": "international",
+  "set": "me02",
+  "category": "blister",
+  "name": "Phantasmal Flames Premium Checklane Blister [Ethan's Magcargo]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Premium Checklane Blister [Ethan's Magcargo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672588
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672588/pokemon-me02-phantasmal-flames-phantasmal-flames-premium-checklane-blister-ethans-magcargo"
+      ]
+    }
+  ]
+}

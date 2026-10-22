@@ -1,0 +1,24 @@
+{
+  "id": "ex6-firered-leafgreen-single-pack-blister",
+  "region": "international",
+  "set": "ex6",
+  "category": "blister",
+  "name": "FireRed & LeafGreen Single Pack Blister",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 FireRed & LeafGreen booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "FireRed & LeafGreen Single Pack Blister",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488312
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488312/pokemon-ex-firered-and-leafgreen-firered-and-leafgreen-single-pack-blister"
+      ]
+    }
+  ]
+}

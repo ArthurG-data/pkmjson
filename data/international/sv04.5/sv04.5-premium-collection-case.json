@@ -1,0 +1,24 @@
+{
+  "id": "sv04.5-premium-collection-case",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "case",
+  "name": "Paldean Fates Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693569
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693569/pokemon-sv-paldean-fates-paldean-fates-premium-collection-case"
+      ]
+    }
+  ]
+}

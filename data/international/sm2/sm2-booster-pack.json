@@ -1,0 +1,27 @@
+{
+  "id": "sm2-booster-pack",
+  "region": "international",
+  "set": "sm2",
+  "category": "booster_pack",
+  "name": "Guardians Rising Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 296851
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129889
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129889/pokemon-sm-guardians-rising-guardians-rising-booster-pack"
+      ]
+    }
+  ]
+}

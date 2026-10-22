@@ -1,0 +1,28 @@
+{
+  "id": "sv04.5-booster-pack",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "booster_pack",
+  "name": "Paldean Fates Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 745544
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Booster Pack",
+      "releaseDate": "2024-01-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          528038
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/528038/pokemon-sv-paldean-fates-paldean-fates-booster-pack"
+      ]
+    }
+  ]
+}

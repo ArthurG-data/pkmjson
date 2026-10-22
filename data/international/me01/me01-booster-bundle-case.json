@@ -1,0 +1,25 @@
+{
+  "id": "me01-booster-bundle-case",
+  "region": "international",
+  "set": "me01",
+  "category": "case",
+  "name": "Mega Evolution Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Booster Bundle Case",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644730
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644730/pokemon-me01-mega-evolution-mega-evolution-booster-bundle-case"
+      ]
+    }
+  ]
+}

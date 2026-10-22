@@ -1,0 +1,24 @@
+{
+  "id": "xy12-elite-trainer-box-case",
+  "region": "international",
+  "set": "xy12",
+  "category": "case",
+  "name": "Evolutions Elite Trainer Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolutions Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627740
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627740/pokemon-xy-evolutions-evolutions-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

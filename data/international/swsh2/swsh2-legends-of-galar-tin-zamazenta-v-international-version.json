@@ -1,0 +1,31 @@
+{
+  "id": "swsh2-legends-of-galar-tin-zamazenta-v-international-version",
+  "region": "international",
+  "set": "swsh2",
+  "category": "tin",
+  "name": "Legends of Galar Tin [Zamazenta V] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Zamazenta V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Galar Tin [Zamazenta V] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          279258
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/279258/pokemon-swsh02-rebel-clash-legends-of-galar-tin-zamazenta-v-international-version"
+      ]
+    }
+  ]
+}

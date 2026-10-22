@@ -1,0 +1,48 @@
+{
+  "id": "sm115-premium-powers-collection",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Premium Powers Collection",
+  "identifiers": {
+    "cardmarketProductId": 399599
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 7
+      }
+    ],
+    "other": [
+      {
+        "name": "Full-art oversize foil card of Shiny Rayquaza-GX",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG poster for your home or office",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 full-art foil cards: Shiny Rayquaza-GX plus special gold versions of Solgaleo-GX and Lunala-GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Premium Powers Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206302
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206302/pokemon-hidden-fates-hidden-fates-premium-powers-collection"
+      ]
+    }
+  ]
+}

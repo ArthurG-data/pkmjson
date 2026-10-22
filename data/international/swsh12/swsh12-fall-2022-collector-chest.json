@@ -1,0 +1,48 @@
+{
+  "id": "swsh12-fall-2022-collector-chest",
+  "region": "international",
+  "set": "swsh12",
+  "category": "other",
+  "name": "Fall 2022 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notebook",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 1 promo card featuring Hisuian Voltorb; 1 promo card featuring Hisuian Growlithe; 1 promo card featuring Hisuian Sneasel.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2022 Collector Chest",
+      "releaseDate": "2022-11-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          284930
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/284930/pokemon-swsh12-silver-tempest-fall-2022-collector-chest"
+      ]
+    }
+  ]
+}

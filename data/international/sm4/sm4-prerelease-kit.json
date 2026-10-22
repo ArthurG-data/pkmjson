@@ -1,0 +1,31 @@
+{
+  "id": "sm4-prerelease-kit",
+  "region": "international",
+  "set": "sm4",
+  "category": "other",
+  "name": "Crimson Invasion Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm4-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crimson Invasion Prerelease Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          153081
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/153081/pokemon-sm-crimson-invasion-crimson-invasion-prerelease-kit"
+      ]
+    }
+  ]
+}

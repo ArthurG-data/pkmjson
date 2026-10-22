@@ -1,0 +1,31 @@
+{
+  "id": "swsh1-galar-partners-box-cinderace-v",
+  "region": "international",
+  "set": "swsh1",
+  "category": "collection_box",
+  "name": "Galar Partners Box [Cinderace V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil SWSH015 Cinderace V promo; 1 foil SWSH015 Cinderace V promo Jumbo-sized; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Partners Box [Cinderace V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220750
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220750/pokemon-swsh01-sword-and-shield-base-set-galar-partners-box-cinderace-v"
+      ]
+    }
+  ]
+}

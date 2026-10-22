@@ -1,0 +1,32 @@
+{
+  "id": "swsh1-galar-partners-tin-cinderace-v",
+  "region": "international",
+  "set": "swsh1",
+  "category": "tin",
+  "name": "Galar Partners Tin [Cinderace V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil SWSH015 Cinderace V promo; 5 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Partners Tin [Cinderace V]",
+      "releaseDate": "2020-02-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206420
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206420/pokemon-swsh01-sword-and-shield-base-set-galar-partners-tin-cinderace-v"
+      ]
+    }
+  ]
+}

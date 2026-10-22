@@ -1,0 +1,34 @@
+{
+  "id": "sm2-booster-box",
+  "region": "international",
+  "set": "sm2",
+  "category": "booster_box",
+  "name": "Guardians Rising Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 296850
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 randomly inserted game cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          129888
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/129888/pokemon-sm-guardians-rising-guardians-rising-booster-box"
+      ]
+    }
+  ]
+}

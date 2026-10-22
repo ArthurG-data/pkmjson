@@ -1,0 +1,44 @@
+{
+  "id": "me02.5-mega-meganium-ex-box",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Ascended Heroes Mega Meganium ex Box",
+  "identifiers": {
+    "cardmarketProductId": 864107
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "mep-034",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 692120,
+        "cardmarketProductId": 873717,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Mega Meganium ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672733
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672733/pokemon-me-ascended-heroes-ascended-heroes-mega-meganium-ex-box"
+      ]
+    }
+  ]
+}

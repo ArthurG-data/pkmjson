@@ -1,0 +1,52 @@
+{
+  "id": "sm7-battle-arena-deck-mega-charizard-x",
+  "region": "international",
+  "set": "sm7",
+  "category": "battle_deck",
+  "name": "Battle Arena Deck [Mega Charizard X]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "-player playmat and rulesheet",
+        "count": 2
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock the powerful strategies within",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Mega Charizard-EX; 1 foil card featuring Charizard-EX; 8 foil basic Fire Energy cards; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Arena Deck [Mega Charizard X]",
+      "releaseDate": "2018-09-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175552
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175552/pokemon-sm-celestial-storm-battle-arena-deck-mega-charizard-x"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "swsh11-single-pack-blister-croagunk",
+  "region": "international",
+  "set": "swsh11",
+  "category": "blister",
+  "name": "Lost Origin Single Pack Blister [Croagunk]",
+  "identifiers": {
+    "cardmarketProductId": 666153
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh11-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Croagunk.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Single Pack Blister [Croagunk]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277327
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277327/pokemon-swsh11-lost-origin-lost-origin-single-pack-blister-croagunk"
+      ]
+    }
+  ]
+}

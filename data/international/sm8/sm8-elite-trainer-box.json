@@ -1,0 +1,69 @@
+{
+  "id": "sm8-elite-trainer-box",
+  "region": "international",
+  "set": "sm8",
+  "category": "elite_trainer_box",
+  "name": "Lost Thunder Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 363266
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack",
+        "count": 8
+      }
+    ],
+    "other": [
+      {
+        "name": "Exclusive 65 card sleeve pack featuring Zeraora",
+        "count": 1
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Sided-dice to track damage",
+        "count": 6
+      },
+      {
+        "name": "Flip coin",
+        "count": 1
+      },
+      {
+        "name": "Acrylic markers (2 condition markers",
+        "count": 3
+      },
+      {
+        "name": "GX marker)",
+        "count": 1
+      },
+      {
+        "name": "Dividers to help organize)",
+        "count": 4
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A pack of 45 Basic Energy cards to get you started.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Elite Trainer Box",
+      "releaseDate": "2018-11-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175511
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175511/pokemon-sm-lost-thunder-lost-thunder-elite-trainer-box"
+      ]
+    }
+  ]
+}

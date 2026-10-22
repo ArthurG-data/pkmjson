@@ -1,0 +1,24 @@
+{
+  "id": "2023sv-mcdonald-s-2023-match-battle-pack",
+  "region": "international",
+  "set": "2023sv",
+  "category": "other",
+  "name": "McDonald's 2023 Match & Battle Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "McDonald's 2023 Match & Battle Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516527
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516527/pokemon-mcdonalds-promos-2023-mcdonalds-2023-match-and-battle-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "base3-theme-deck-bodyguard",
+  "region": "international",
+  "set": "base3",
+  "category": "theme_deck",
+  "name": "Fossil Theme Deck - \"BodyGuard\"",
+  "identifiers": {
+    "cardmarketProductId": 286496
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fossil Theme Deck - \"BodyGuard\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107607
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107607/pokemon-fossil-fossil-theme-deck-bodyguard"
+      ]
+    }
+  ]
+}

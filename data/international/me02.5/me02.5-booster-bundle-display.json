@@ -1,0 +1,34 @@
+{
+  "id": "me02.5-booster-bundle-display",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Ascended Heroes Booster Bundle Display",
+  "identifiers": {
+    "cardmarketProductId": 873607
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-bundle",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Booster Bundle Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692362
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692362/pokemon-me-ascended-heroes-ascended-heroes-booster-bundle-display"
+      ]
+    }
+  ]
+}

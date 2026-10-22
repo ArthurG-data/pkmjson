@@ -1,0 +1,24 @@
+{
+  "id": "xy3-mega-lucario-collection",
+  "region": "international",
+  "set": "xy3",
+  "category": "collection_box",
+  "name": "Mega Lucario Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Lucario Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97775
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97775/pokemon-xy-furious-fists-mega-lucario-collection"
+      ]
+    }
+  ]
+}

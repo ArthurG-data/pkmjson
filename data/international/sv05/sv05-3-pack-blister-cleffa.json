@@ -1,0 +1,44 @@
+{
+  "id": "sv05-3-pack-blister-cleffa",
+  "region": "international",
+  "set": "sv05",
+  "category": "blister",
+  "name": "Temporal Forces 3 Pack Blister [Cleffa]",
+  "identifiers": {
+    "cardmarketProductId": 750415
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-095",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 544201,
+        "cardmarketProductId": 751816,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces 3 Pack Blister [Cleffa]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          536229
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/536229/pokemon-sv05-temporal-forces-temporal-forces-3-pack-blister-cleffa"
+      ]
+    }
+  ]
+}

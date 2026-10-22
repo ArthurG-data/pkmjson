@@ -1,0 +1,27 @@
+{
+  "id": "xy11-booster-pack",
+  "region": "international",
+  "set": "xy11",
+  "category": "booster_pack",
+  "name": "Steam Siege Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 290087
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Steam Siege Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          130013
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/130013/pokemon-xy-steam-siege-steam-siege-booster-pack"
+      ]
+    }
+  ]
+}

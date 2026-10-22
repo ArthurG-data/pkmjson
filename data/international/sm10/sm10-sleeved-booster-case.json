@@ -1,0 +1,31 @@
+{
+  "id": "sm10-sleeved-booster-case",
+  "region": "international",
+  "set": "sm10",
+  "category": "case",
+  "name": "Unbroken Bonds Sleeved Booster Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Sleeved Booster Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656707
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656707/pokemon-sm-unbroken-bonds-unbroken-bonds-sleeved-booster-case"
+      ]
+    }
+  ]
+}

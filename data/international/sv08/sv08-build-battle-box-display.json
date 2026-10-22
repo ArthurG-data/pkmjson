@@ -1,0 +1,27 @@
+{
+  "id": "sv08-build-battle-box-display",
+  "region": "international",
+  "set": "sv08",
+  "category": "case",
+  "name": "Surging Sparks Build & Battle Box Display",
+  "identifiers": {
+    "cardmarketProductId": 784967
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565600
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565600/pokemon-sv08-surging-sparks-surging-sparks-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

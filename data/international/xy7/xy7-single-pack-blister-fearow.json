@@ -1,0 +1,40 @@
+{
+  "id": "xy7-single-pack-blister-fearow",
+  "region": "international",
+  "set": "xy7",
+  "category": "blister",
+  "name": "Ancient Origins Single Pack Blister [Fearow]",
+  "identifiers": {
+    "cardmarketProductId": 586375
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy7-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Fearow.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ancient Origins Single Pack Blister [Fearow]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          106215
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/106215/pokemon-xy-ancient-origins-ancient-origins-single-pack-blister-fearow"
+      ]
+    }
+  ]
+}

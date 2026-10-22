@@ -1,0 +1,24 @@
+{
+  "id": "pop7-pack",
+  "region": "international",
+  "set": "pop7",
+  "category": "other",
+  "name": "POP Series 7 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 7 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190535
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190535/pokemon-pop-series-7-pop-series-7-pack"
+      ]
+    }
+  ]
+}

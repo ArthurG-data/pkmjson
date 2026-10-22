@@ -1,0 +1,24 @@
+{
+  "id": "swsh4.5-collection-pikachu-v-case",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "case",
+  "name": "Shining Fates Collection Pikachu V Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Collection Pikachu V Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          268484
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/268484/pokemon-shining-fates-shining-fates-collection-pikachu-v-case"
+      ]
+    }
+  ]
+}

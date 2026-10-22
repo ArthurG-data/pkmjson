@@ -1,0 +1,51 @@
+{
+  "id": "sm7.5-ultra-necrozma-gx-figure-collection",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "collection_box",
+  "name": "Ultra Necrozma GX Figure Collection",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM126",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 179039,
+        "cardmarketProductId": 366054,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sculpted figure of Ultra Necrozma",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Necrozma GX Figure Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          179038
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/179038/pokemon-dragon-majesty-ultra-necrozma-gx-figure-collection"
+      ]
+    }
+  ]
+}

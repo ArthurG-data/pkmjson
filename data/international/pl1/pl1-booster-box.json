@@ -1,0 +1,27 @@
+{
+  "id": "pl1-booster-box",
+  "region": "international",
+  "set": "pl1",
+  "category": "booster_box",
+  "name": "Platinum Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271936
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Platinum Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98592
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98592/pokemon-platinum-platinum-booster-box"
+      ]
+    }
+  ]
+}

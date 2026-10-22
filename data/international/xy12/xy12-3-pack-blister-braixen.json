@@ -1,0 +1,27 @@
+{
+  "id": "xy12-3-pack-blister-braixen",
+  "region": "international",
+  "set": "xy12",
+  "category": "blister",
+  "name": "XY - Evolutions 3 Pack Blister [Braixen]",
+  "identifiers": {
+    "cardmarketProductId": 586328
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Evolutions 3 Pack Blister [Braixen]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          224945
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/224945/pokemon-xy-evolutions-xy-evolutions-3-pack-blister-braixen"
+      ]
+    }
+  ]
+}

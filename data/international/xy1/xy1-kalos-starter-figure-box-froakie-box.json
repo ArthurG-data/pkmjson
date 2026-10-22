@@ -1,0 +1,31 @@
+{
+  "id": "xy1-kalos-starter-figure-box-froakie-box",
+  "region": "international",
+  "set": "xy1",
+  "category": "collection_box",
+  "name": "Kalos Starter Figure Box [Froakie Box]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Commemorative figure",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a Sheen Holofoil XY03 Promo featuring Froakie; 3 Black & White Series Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Starter Figure Box [Froakie Box]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97715
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97715/pokemon-xy-base-set-kalos-starter-figure-box-froakie-box"
+      ]
+    }
+  ]
+}

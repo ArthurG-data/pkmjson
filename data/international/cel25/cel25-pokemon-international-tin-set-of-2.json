@@ -1,0 +1,24 @@
+{
+  "id": "cel25-pokemon-international-tin-set-of-2",
+  "region": "international",
+  "set": "cel25",
+  "category": "other",
+  "name": "Pokemon Celebrations International Tin [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Celebrations International Tin [Set of 2]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          252739
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/252739/pokemon-celebrations-pokemon-celebrations-international-tin-set-of-2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swsh10-3-pack-blister-case",
+  "region": "international",
+  "set": "swsh10",
+  "category": "case",
+  "name": "Astral Radiance 3 Pack Blister Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance 3 Pack Blister Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          679043
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/679043/pokemon-swsh10-astral-radiance-astral-radiance-3-pack-blister-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sm7-solgaleo-gx-box",
+  "region": "international",
+  "set": "sm7",
+  "category": "collection_box",
+  "name": "Solgaleo GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil cards of Solgaleo GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Solgaleo GX; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Solgaleo GX Box",
+      "releaseDate": "2018-10-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175558
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175558/pokemon-sm-celestial-storm-solgaleo-gx-box"
+      ]
+    }
+  ]
+}

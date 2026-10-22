@@ -1,0 +1,37 @@
+{
+  "id": "sm2-single-pack-blister-crobat",
+  "region": "international",
+  "set": "sm2",
+  "category": "blister",
+  "name": "Guardians Rising Single Pack Blister [Crobat]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Crobat.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Single Pack Blister [Crobat]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242963
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242963/pokemon-sm-guardians-rising-guardians-rising-single-pack-blister-crobat"
+      ]
+    }
+  ]
+}

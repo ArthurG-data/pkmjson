@@ -1,0 +1,69 @@
+{
+  "id": "sv10-pokemon-center-elite-trainer-box-exclusive",
+  "region": "international",
+  "set": "sv10",
+  "category": "elite_trainer_box",
+  "name": "Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
+  "identifiers": {
+    "cardmarketProductId": 818586
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 45
+      },
+      {
+        "name": "Player’s guide to the Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Box to hold everything, with 4 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624675
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624675/pokemon-sv10-destined-rivals-destined-rivals-pokemon-center-elite-trainer-box-exclusive"
+      ]
+    }
+  ]
+}

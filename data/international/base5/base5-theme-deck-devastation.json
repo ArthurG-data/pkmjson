@@ -1,0 +1,42 @@
+{
+  "id": "base5-theme-deck-devastation",
+  "region": "international",
+  "set": "base5",
+  "category": "theme_deck",
+  "name": "Team Rocket Theme Deck - \"Devastation\"",
+  "identifiers": {
+    "cardmarketProductId": 286502
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Rulebook",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Custom coin, card list",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket Theme Deck - \"Devastation\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          176942
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/176942/pokemon-team-rocket-team-rocket-theme-deck-devastation"
+      ]
+    }
+  ]
+}

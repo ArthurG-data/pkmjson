@@ -1,0 +1,28 @@
+{
+  "id": "swsh9-sleeved-booster-pack",
+  "region": "international",
+  "set": "swsh9",
+  "category": "sleeved_booster_pack",
+  "name": "Brilliant Stars Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 674710
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Sleeved Booster Pack",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256125
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256125/pokemon-swsh09-brilliant-stars-brilliant-stars-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "xy9-triple-power-tin-mewtwo-ex",
+  "region": "international",
+  "set": "xy9",
+  "category": "tin",
+  "name": "Triple Power Tin [Mewtwo EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Power Tin [Mewtwo EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117698
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117698/pokemon-xy-breakpoint-triple-power-tin-mewtwo-ex"
+      ]
+    }
+  ]
+}

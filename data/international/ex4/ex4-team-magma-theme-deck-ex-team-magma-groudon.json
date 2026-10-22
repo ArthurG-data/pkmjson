@@ -1,0 +1,35 @@
+{
+  "id": "ex4-team-magma-theme-deck-ex-team-magma-groudon",
+  "region": "international",
+  "set": "ex4",
+  "category": "theme_deck",
+  "name": "Team Magma Theme Deck - \"EX Team Magma\" [Groudon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Magma Theme Deck - \"EX Team Magma\" [Groudon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488301
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488301/pokemon-ex-team-magma-vs-team-aqua-team-magma-theme-deck-ex-team-magma-groudon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ex5-hidden-legends-theme-deck-display",
+  "region": "international",
+  "set": "ex5",
+  "category": "case",
+  "name": "Hidden Legends Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Legends Theme Deck Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          530143
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/530143/pokemon-ex-hidden-legends-hidden-legends-theme-deck-display"
+      ]
+    }
+  ]
+}

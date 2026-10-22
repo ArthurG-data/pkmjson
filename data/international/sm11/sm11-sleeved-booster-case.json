@@ -1,0 +1,24 @@
+{
+  "id": "sm11-sleeved-booster-case",
+  "region": "international",
+  "set": "sm11",
+  "category": "case",
+  "name": "Unified Minds Sleeved Booster Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each Unified Minds sleeved booster pack case contains 144 booster packs..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Sleeved Booster Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656716
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656716/pokemon-sm-unified-minds-unified-minds-sleeved-booster-case"
+      ]
+    }
+  ]
+}

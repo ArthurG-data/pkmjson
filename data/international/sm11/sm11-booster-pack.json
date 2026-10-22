@@ -1,0 +1,28 @@
+{
+  "id": "sm11-booster-pack",
+  "region": "international",
+  "set": "sm11",
+  "category": "booster_pack",
+  "name": "Unified Minds Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 377490
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Booster Pack",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191883
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191883/pokemon-sm-unified-minds-unified-minds-booster-pack"
+      ]
+    }
+  ]
+}

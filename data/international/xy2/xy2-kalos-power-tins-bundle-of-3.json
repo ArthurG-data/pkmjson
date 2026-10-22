@@ -1,0 +1,24 @@
+{
+  "id": "xy2-kalos-power-tins-bundle-of-3",
+  "region": "international",
+  "set": "xy2",
+  "category": "other",
+  "name": "Kalos Power Tins [Bundle of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Power Tins [Bundle of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91611
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91611/pokemon-xy-flashfire-kalos-power-tins-bundle-of-3"
+      ]
+    }
+  ]
+}

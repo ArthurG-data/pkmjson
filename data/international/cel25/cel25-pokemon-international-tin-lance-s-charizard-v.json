@@ -1,0 +1,24 @@
+{
+  "id": "cel25-pokemon-international-tin-lance-s-charizard-v",
+  "region": "international",
+  "set": "cel25",
+  "category": "tin",
+  "name": "Pokemon Celebrations International Tin [Lance's Charizard V]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Celebrations International Tin [Lance's Charizard V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251987
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251987/pokemon-celebrations-pokemon-celebrations-international-tin-lances-charizard-v"
+      ]
+    }
+  ]
+}

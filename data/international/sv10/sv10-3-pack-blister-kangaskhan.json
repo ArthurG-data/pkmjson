@@ -1,0 +1,35 @@
+{
+  "id": "sv10-3-pack-blister-kangaskhan",
+  "region": "international",
+  "set": "sv10",
+  "category": "blister",
+  "name": "Destined Rivals 3 Pack Blister [Kangaskhan]",
+  "identifiers": {
+    "cardmarketProductId": 818579
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Kangaskhan.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals 3 Pack Blister [Kangaskhan]",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625683
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625683/pokemon-sv10-destined-rivals-destined-rivals-3-pack-blister-kangaskhan"
+      ]
+    }
+  ]
+}

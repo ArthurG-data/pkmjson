@@ -1,0 +1,51 @@
+{
+  "id": "swsh9-3-pack-blister-leafeon",
+  "region": "international",
+  "set": "swsh9",
+  "category": "blister",
+  "name": "Brilliant Stars 3 Pack Blister [Leafeon]",
+  "identifiers": {
+    "cardmarketProductId": 606765
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH191",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 264284,
+        "cardmarketProductId": 606748,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars 3 Pack Blister [Leafeon]",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256130
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256130/pokemon-swsh09-brilliant-stars-brilliant-stars-3-pack-blister-leafeon"
+      ]
+    }
+  ]
+}

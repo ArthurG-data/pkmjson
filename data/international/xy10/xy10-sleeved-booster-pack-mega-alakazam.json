@@ -1,0 +1,24 @@
+{
+  "id": "xy10-sleeved-booster-pack-mega-alakazam",
+  "region": "international",
+  "set": "xy10",
+  "category": "sleeved_booster_pack",
+  "name": "XY - Fates Collide Sleeved Booster Pack [Mega Alakazam]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Fates Collide Sleeved Booster Pack [Mega Alakazam]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          504697
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/504697/pokemon-xy-fates-collide-xy-fates-collide-sleeved-booster-pack-mega-alakazam"
+      ]
+    }
+  ]
+}

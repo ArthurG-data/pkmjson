@@ -1,0 +1,38 @@
+{
+  "id": "xy8-theme-deck-burning-spark-raichu",
+  "region": "international",
+  "set": "xy8",
+  "category": "theme_deck",
+  "name": "BREAKthrough Theme Deck - \"Burning Spark\" [Raichu]",
+  "identifiers": {
+    "cardmarketProductId": 285624
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKthrough Theme Deck - \"Burning Spark\" [Raichu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107102
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107102/pokemon-xy-breakthrough-breakthrough-theme-deck-burning-spark-raichu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2021swsh-mcdonald-s-25th-anniversary-booster-pack",
+  "region": "international",
+  "set": "2021swsh",
+  "category": "booster_pack",
+  "name": "McDonald's 25th Anniversary Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "McDonald's 25th Anniversary Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          232748
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/232748/pokemon-mcdonalds-25th-anniversary-promos-mcdonalds-25th-anniversary-booster-pack"
+      ]
+    }
+  ]
+}

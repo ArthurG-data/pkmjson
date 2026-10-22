@@ -1,0 +1,53 @@
+{
+  "id": "sm7.5-super-premium-collection",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "premium_collection",
+  "name": "Dragon Majesty Super-Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7.5-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Awesome figure of Dragonite",
+        "count": 1
+      },
+      {
+        "name": "Collector’s boxes to store your cards",
+        "count": 3
+      },
+      {
+        "name": "Playmat for tournaments or for your desk",
+        "count": 1
+      },
+      {
+        "name": "Dragons Then & Now booklet",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Rare Rainbow Foil promo card featuring Kingdra-GX (SM155); 1 Rare Rainbow Foil promo card featuring Dragonite-GX (SM156).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Majesty Super-Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175560
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175560/pokemon-dragon-majesty-dragon-majesty-super-premium-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xy4-booster-pack",
+  "region": "international",
+  "set": "xy4",
+  "category": "booster_pack",
+  "name": "XY Phantom Forces Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271439
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Phantom Forces Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          94622
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/94622/pokemon-xy-phantom-forces-xy-phantom-forces-booster-pack"
+      ]
+    }
+  ]
+}

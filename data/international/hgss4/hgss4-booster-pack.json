@@ -1,0 +1,27 @@
+{
+  "id": "hgss4-booster-pack",
+  "region": "international",
+  "set": "hgss4",
+  "category": "booster_pack",
+  "name": "Triumphant Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271851
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triumphant Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98534
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98534/pokemon-triumphant-triumphant-booster-pack"
+      ]
+    }
+  ]
+}

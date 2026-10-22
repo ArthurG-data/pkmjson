@@ -1,0 +1,51 @@
+{
+  "id": "sv07-single-pack-blister-horsea",
+  "region": "international",
+  "set": "sv07",
+  "category": "blister",
+  "name": "Stellar Crown Single Pack Blister [Horsea]",
+  "identifiers": {
+    "cardmarketProductId": 776331
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-137",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 585578,
+        "cardmarketProductId": 785846,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Single Pack Blister [Horsea]",
+      "releaseDate": "2024-09-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557338
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557338/pokemon-sv07-stellar-crown-stellar-crown-single-pack-blister-horsea"
+      ]
+    }
+  ]
+}

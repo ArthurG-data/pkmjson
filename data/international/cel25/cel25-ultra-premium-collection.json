@@ -1,0 +1,41 @@
+{
+  "id": "cel25-ultra-premium-collection",
+  "region": "international",
+  "set": "cel25",
+  "category": "premium_collection",
+  "name": "Celebrations Ultra-Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 570907
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 17
+      }
+    ],
+    "other": [
+      {
+        "name": "Anniversary-themed metal coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Two commemorative metal cards featuring Base Set Pikachu and Base; One special gold version of Pikachu V, one special gold version of Poké Ball, a; Eight additional Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Ultra-Premium Collection",
+      "releaseDate": "2021-10-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245140
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245140/pokemon-celebrations-celebrations-ultra-premium-collection"
+      ]
+    }
+  ]
+}

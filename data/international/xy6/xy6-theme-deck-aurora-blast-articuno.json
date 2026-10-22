@@ -1,0 +1,38 @@
+{
+  "id": "xy6-theme-deck-aurora-blast-articuno",
+  "region": "international",
+  "set": "xy6",
+  "category": "theme_deck",
+  "name": "Roaring Skies Theme Deck - \"Aurora Blast\" [Articuno]",
+  "identifiers": {
+    "cardmarketProductId": 282799
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Roaring Skies Theme Deck - \"Aurora Blast\" [Articuno]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98029
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98029/pokemon-xy-roaring-skies-roaring-skies-theme-deck-aurora-blast-articuno"
+      ]
+    }
+  ]
+}

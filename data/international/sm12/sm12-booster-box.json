@@ -1,0 +1,35 @@
+{
+  "id": "sm12-booster-box",
+  "region": "international",
+  "set": "sm12",
+  "category": "booster_box",
+  "name": "Cosmic Eclipse Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 398439
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Booster Box",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199261
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199261/pokemon-sm-cosmic-eclipse-cosmic-eclipse-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "swsh4.5-mad-party-pin-collection-dedenne",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "collection_box",
+  "name": "Shining Fates Mad Party Pin Collection [Dedenne]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH080",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 232453,
+        "cardmarketProductId": 540626,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mad Party Pin Collection [Dedenne]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228827
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228827/pokemon-shining-fates-shining-fates-mad-party-pin-collection-dedenne"
+      ]
+    }
+  ]
+}

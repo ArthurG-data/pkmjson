@@ -1,0 +1,41 @@
+{
+  "id": "sm115-tin-charizard-gx",
+  "region": "international",
+  "set": "sm115",
+  "category": "tin",
+  "name": "Hidden Fates Tin [Charizard GX]",
+  "identifiers": {
+    "cardmarketProductId": 381213
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "PTCGO code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Charizard GX promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Tin [Charizard GX]",
+      "releaseDate": "2019-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193437
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193437/pokemon-hidden-fates-hidden-fates-tin-charizard-gx"
+      ]
+    }
+  ]
+}

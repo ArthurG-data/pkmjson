@@ -1,0 +1,27 @@
+{
+  "id": "ex5.5-poke-card-creator-pack",
+  "region": "international",
+  "set": "ex5.5",
+  "category": "other",
+  "name": "Poke Card Creator Pack",
+  "identifiers": {
+    "cardmarketProductId": 605997
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 promotional cards with illustrations from the Kids' WB.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Poke Card Creator Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          162279
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/162279/pokemon-kids-wb-promos-poke-card-creator-pack"
+      ]
+    }
+  ]
+}

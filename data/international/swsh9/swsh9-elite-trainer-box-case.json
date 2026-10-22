@@ -1,0 +1,27 @@
+{
+  "id": "swsh9-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh9",
+  "category": "case",
+  "name": "Brilliant Stars Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873118
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          264269
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/264269/pokemon-swsh09-brilliant-stars-brilliant-stars-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

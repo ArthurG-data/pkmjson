@@ -1,0 +1,41 @@
+{
+  "id": "swsh3-3-pack-blister-eevee",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Darkness Ablaze 3 Pack Blister [Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 585878
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a cosmos holofoil of Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze 3 Pack Blister [Eevee]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216857
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216857/pokemon-swsh03-darkness-ablaze-darkness-ablaze-3-pack-blister-eevee"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pl4-3-pack-blister-darkrai",
+  "region": "international",
+  "set": "pl4",
+  "category": "blister",
+  "name": "Arceus 3 Pack Blister [Darkrai]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus 3 Pack Blister [Darkrai]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          659591
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/659591/pokemon-arceus-arceus-3-pack-blister-darkrai"
+      ]
+    }
+  ]
+}

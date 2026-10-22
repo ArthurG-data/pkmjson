@@ -1,0 +1,27 @@
+{
+  "id": "xy1-single-pack-blister-salamence",
+  "region": "international",
+  "set": "xy1",
+  "category": "blister",
+  "name": "XY Single Pack Blister [Salamence]",
+  "identifiers": {
+    "cardmarketProductId": 586419
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Single Pack Blister [Salamence]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97736
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97736/pokemon-xy-base-set-xy-single-pack-blister-salamence"
+      ]
+    }
+  ]
+}

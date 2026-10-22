@@ -1,0 +1,27 @@
+{
+  "id": "sv03.5-151-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "case",
+  "name": "151 Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 719692
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each case contains 10 151 Elite Trainer Boxes..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          506640
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/506640/pokemon-sv-scarlet-and-violet-151-151-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

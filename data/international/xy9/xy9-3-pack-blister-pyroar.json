@@ -1,0 +1,40 @@
+{
+  "id": "xy9-3-pack-blister-pyroar",
+  "region": "international",
+  "set": "xy9",
+  "category": "blister",
+  "name": "BREAKpoint 3 Pack Blister [Pyroar]",
+  "identifiers": {
+    "cardmarketProductId": 586357
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy9-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Pyroar.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKpoint 3 Pack Blister [Pyroar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117272
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117272/pokemon-xy-breakpoint-breakpoint-3-pack-blister-pyroar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv04-3-pack-blister-cetitan",
+  "region": "international",
+  "set": "sv04",
+  "category": "blister",
+  "name": "Paradox Rift 3 Pack Blister [Cetitan]",
+  "identifiers": {
+    "cardmarketProductId": 728732
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Cetitan.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift 3 Pack Blister [Cetitan]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          513434
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/513434/pokemon-sv04-paradox-rift-paradox-rift-3-pack-blister-cetitan"
+      ]
+    }
+  ]
+}

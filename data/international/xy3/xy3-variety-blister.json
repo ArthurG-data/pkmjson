@@ -1,0 +1,24 @@
+{
+  "id": "xy3-variety-blister",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "XY Variety Blister",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 random booster packs from any Black & White or XY Series expansion (Furious Fists and older); 1 random holofoil promo card (Liligant not guaranteed like pictured).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Variety Blister",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97782
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97782/pokemon-xy-furious-fists-xy-variety-blister"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "base3-pokemon-unlimited-edition-booster-box",
+  "region": "international",
+  "set": "base3",
+  "category": "booster_box",
+  "name": "Pokemon Fossil [Unlimited Edition] Booster Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Fossil [Unlimited Edition] Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107600
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107600/pokemon-fossil-pokemon-fossil-unlimited-edition-booster-box"
+      ]
+    }
+  ]
+}

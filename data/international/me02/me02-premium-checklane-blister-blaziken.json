@@ -1,0 +1,45 @@
+{
+  "id": "me02-premium-checklane-blister-blaziken",
+  "region": "international",
+  "set": "me02",
+  "category": "blister",
+  "name": "Phantasmal Flames Premium Checklane Blister [Blaziken]",
+  "identifiers": {
+    "cardmarketProductId": 846735
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards featuring an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantasmal Flames Premium Checklane Blister [Blaziken]",
+      "releaseDate": "2025-11-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654147
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654147/pokemon-me02-phantasmal-flames-phantasmal-flames-premium-checklane-blister-blaziken"
+      ]
+    }
+  ]
+}

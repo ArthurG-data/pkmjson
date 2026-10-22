@@ -1,0 +1,24 @@
+{
+  "id": "me01-fun-pack",
+  "region": "international",
+  "set": "me01",
+  "category": "other",
+  "name": "Mega Evolution Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          715706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/715706/pokemon-me01-mega-evolution-mega-evolution-fun-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sm3-booster-box-case",
+  "region": "international",
+  "set": "sm3",
+  "category": "case",
+  "name": "Burning Shadows Booster Box Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Burning Shadows Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475436
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475436/pokemon-sm-burning-shadows-burning-shadows-booster-box-case"
+      ]
+    }
+  ]
+}

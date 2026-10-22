@@ -1,0 +1,35 @@
+{
+  "id": "me02.5-booster-bundle",
+  "region": "international",
+  "set": "me02.5",
+  "category": "booster_bundle",
+  "name": "Ascended Heroes Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 860578
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Booster Bundle",
+      "releaseDate": "2026-04-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668541
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668541/pokemon-me-ascended-heroes-ascended-heroes-booster-bundle"
+      ]
+    }
+  ]
+}

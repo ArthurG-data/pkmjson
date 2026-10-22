@@ -1,0 +1,39 @@
+{
+  "id": "sm9-theme-deck-relentless-flame-charizard",
+  "region": "international",
+  "set": "sm9",
+  "category": "theme_deck",
+  "name": "Team Up Theme Deck - \"Relentless Flame\" [Charizard]",
+  "identifiers": {
+    "cardmarketProductId": 367370
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Theme Deck - \"Relentless Flame\" [Charizard]",
+      "releaseDate": "2019-02-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181705
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181705/pokemon-sm-team-up-team-up-theme-deck-relentless-flame-charizard"
+      ]
+    }
+  ]
+}

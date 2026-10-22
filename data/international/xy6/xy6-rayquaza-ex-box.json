@@ -1,0 +1,24 @@
+{
+  "id": "xy6-rayquaza-ex-box",
+  "region": "international",
+  "set": "xy6",
+  "category": "collection_box",
+  "name": "Rayquaza EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rayquaza EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100499
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100499/pokemon-xy-roaring-skies-rayquaza-ex-box"
+      ]
+    }
+  ]
+}

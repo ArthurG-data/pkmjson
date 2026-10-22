@@ -1,0 +1,40 @@
+{
+  "id": "swsh1-3-pack-blister-galarian-ponyta",
+  "region": "international",
+  "set": "swsh1",
+  "category": "blister",
+  "name": "Sword & Shield 3 Pack Blister [Galarian Ponyta]",
+  "identifiers": {
+    "cardmarketProductId": 585897
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh1-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a cosmos holofoil of Galarian Ponyta.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield 3 Pack Blister [Galarian Ponyta]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206030
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206030/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-3-pack-blister-galarian-ponyta"
+      ]
+    }
+  ]
+}

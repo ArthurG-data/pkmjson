@@ -1,0 +1,45 @@
+{
+  "id": "sm7.5-pin-collection-latias",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "collection_box",
+  "name": "Dragon Majesty Pin Collection [Latias]",
+  "identifiers": {
+    "cardmarketProductId": 361538
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Latias",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card of Latias.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Majesty Pin Collection [Latias]",
+      "releaseDate": "2018-09-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175062
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175062/pokemon-dragon-majesty-dragon-majesty-pin-collection-latias"
+      ]
+    }
+  ]
+}

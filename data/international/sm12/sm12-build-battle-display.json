@@ -1,0 +1,24 @@
+{
+  "id": "sm12-build-battle-display",
+  "region": "international",
+  "set": "sm12",
+  "category": "case",
+  "name": "Cosmic Eclipse Build & Battle Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Build & Battle Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199309
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199309/pokemon-sm-cosmic-eclipse-cosmic-eclipse-build-and-battle-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "cel25-collector-chest",
+  "region": "international",
+  "set": "cel25",
+  "category": "other",
+  "name": "Celebrations Collector Chest",
+  "identifiers": {
+    "cardmarketProductId": 570908
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 6
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH137",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 251093,
+        "cardmarketProductId": 576736,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Information sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 additional Pokémon TCG booster packs (Packs and contents may vary.); 1 promo card featuring Mimikyu  Delta Species ; 1 promo card featuring Hydreigon C.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Collector Chest",
+      "releaseDate": "2021-10-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          244727
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/244727/pokemon-celebrations-celebrations-collector-chest"
+      ]
+    }
+  ]
+}

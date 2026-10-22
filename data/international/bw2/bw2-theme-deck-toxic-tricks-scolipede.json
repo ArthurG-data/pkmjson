@@ -1,0 +1,38 @@
+{
+  "id": "bw2-theme-deck-toxic-tricks-scolipede",
+  "region": "international",
+  "set": "bw2",
+  "category": "theme_deck",
+  "name": "Emerging Powers Theme Deck - \"Toxic Tricks\" [Scolipede]",
+  "identifiers": {
+    "cardmarketProductId": 286547
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Emerging Powers Theme Deck - \"Toxic Tricks\" [Scolipede]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98617
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98617/pokemon-emerging-powers-emerging-powers-theme-deck-toxic-tricks-scolipede"
+      ]
+    }
+  ]
+}

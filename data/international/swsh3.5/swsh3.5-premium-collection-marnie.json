@@ -1,0 +1,67 @@
+{
+  "id": "swsh3.5-premium-collection-marnie",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "premium_collection",
+  "name": "Champion's Path Premium Collection [Marnie]",
+  "identifiers": {
+    "cardmarketProductId": 519701
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3.5-booster-pack",
+        "count": 8
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH057",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 223758,
+        "cardmarketProductId": 510190,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH056",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 223757,
+        "cardmarketProductId": 510185,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pins featuring Morpeko and Grimmsnarl",
+        "count": 2
+      },
+      {
+        "name": "Awesome Pokémon TCG playmat featuring Marnie with her Pokémon partners",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Premium Collection [Marnie]",
+      "releaseDate": "2020-10-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218807
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218807/pokemon-champions-path-champions-path-premium-collection-marnie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sm3.5-special-collection-raichu-gx",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Special Collection: Raichu GX",
+  "identifiers": {
+    "cardmarketProductId": 311204
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Special Raichu coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a full art Raichu GX holofoil promo; a holofoil Pikachu promo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Special Collection: Raichu GX",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155062
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155062/pokemon-shining-legends-shining-legends-special-collection-raichu-gx"
+      ]
+    }
+  ]
+}

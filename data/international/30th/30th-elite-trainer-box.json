@@ -1,0 +1,65 @@
+{
+  "id": "30th-elite-trainer-box",
+  "region": "international",
+  "set": "30th",
+  "category": "elite_trainer_box",
+  "name": "30th Celebration Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 895551
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 9
+      }
+    ],
+    "other": [
+      {
+        "name": "-ct standard-sized card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Player's guide to the 30th Celebration expansion",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic coin",
+        "count": 1
+      },
+      {
+        "name": "Collector's box to hold everything, with 6 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo featuring Nidorina; 16 foil Basic Energy cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Elite Trainer Box",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704143
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704143/pokemon-me-30th-celebration-30th-celebration-elite-trainer-box"
+      ]
+    }
+  ]
+}

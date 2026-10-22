@@ -1,0 +1,37 @@
+{
+  "id": "xy5-single-blister-zoroark",
+  "region": "international",
+  "set": "xy5",
+  "category": "blister",
+  "name": "Primal Clash Single Blister [Zoroark]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy5-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Zoroark.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Primal Clash Single Blister [Zoroark]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97761
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97761/pokemon-xy-primal-clash-primal-clash-single-blister-zoroark"
+      ]
+    }
+  ]
+}

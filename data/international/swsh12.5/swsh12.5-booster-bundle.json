@@ -1,0 +1,40 @@
+{
+  "id": "swsh12.5-booster-bundle",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "booster_bundle",
+  "name": "Crown Zenith Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 800418
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 6
+      }
+    ],
+    "other": [
+      {
+        "name": "Expand your collection with this booster bundle",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Booster Bundle",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          527562
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/527562/pokemon-swsh-crown-zenith-crown-zenith-booster-bundle"
+      ]
+    }
+  ]
+}

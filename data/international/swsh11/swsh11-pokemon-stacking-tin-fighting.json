@@ -1,0 +1,32 @@
+{
+  "id": "swsh11-pokemon-stacking-tin-fighting",
+  "region": "international",
+  "set": "swsh11",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Fighting",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Fighting",
+      "releaseDate": "2022-10-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282403
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282403/pokemon-swsh11-lost-origin-pokemon-stacking-tin-fighting"
+      ]
+    }
+  ]
+}

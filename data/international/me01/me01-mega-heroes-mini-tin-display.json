@@ -1,0 +1,28 @@
+{
+  "id": "me01-mega-heroes-mini-tin-display",
+  "region": "international",
+  "set": "me01",
+  "category": "case",
+  "name": "Mega Heroes Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 834809
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Heroes Mini Tin Display",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649392
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649392/pokemon-me01-mega-evolution-mega-heroes-mini-tin-display"
+      ]
+    }
+  ]
+}

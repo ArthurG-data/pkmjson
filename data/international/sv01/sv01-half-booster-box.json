@@ -1,0 +1,34 @@
+{
+  "id": "sv01-half-booster-box",
+  "region": "international",
+  "set": "sv01",
+  "category": "half_booster_box",
+  "name": "Scarlet & Violet Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 692093
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649407
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649407/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-half-booster-box"
+      ]
+    }
+  ]
+}

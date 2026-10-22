@@ -1,0 +1,38 @@
+{
+  "id": "xy3-theme-deck-enchanted-echo-sylveon",
+  "region": "international",
+  "set": "xy3",
+  "category": "theme_deck",
+  "name": "Furious Fists Theme Deck - \"Enchanted Echo\" [Sylveon]",
+  "identifiers": {
+    "cardmarketProductId": 286621
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists Theme Deck - \"Enchanted Echo\" [Sylveon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          92218
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/92218/pokemon-xy-furious-fists-furious-fists-theme-deck-enchanted-echo-sylveon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gym2-booster-box-unlimited-edition",
+  "region": "international",
+  "set": "gym2",
+  "category": "booster_box",
+  "name": "Gym Challenge Booster Box [Unlimited Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Challenge Booster Box [Unlimited Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285314
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285314/pokemon-gym-challenge-gym-challenge-booster-box-unlimited-edition"
+      ]
+    }
+  ]
+}

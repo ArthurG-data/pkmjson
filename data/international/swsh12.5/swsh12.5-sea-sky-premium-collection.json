@@ -1,0 +1,50 @@
+{
+  "id": "swsh12.5-sea-sky-premium-collection",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "premium_collection",
+  "name": "Sea & Sky Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 789488
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 14
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH147",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 250577,
+        "cardmarketProductId": 576723,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Kyogre V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sea & Sky Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563307
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563307/pokemon-swsh-crown-zenith-sea-and-sky-premium-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "me03-build-battle-box",
+  "region": "international",
+  "set": "me03",
+  "category": "build_and_battle_box",
+  "name": "Perfect Order Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 865397
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards; 4 Pokémon booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order Build & Battle Box",
+      "releaseDate": "2026-04-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672400
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672400/pokemon-me03-perfect-order-perfect-order-build-and-battle-box"
+      ]
+    }
+  ]
+}

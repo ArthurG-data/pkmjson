@@ -1,0 +1,47 @@
+{
+  "id": "sm8-island-guardians-gx-premium-pin-collection",
+  "region": "international",
+  "set": "sm8",
+  "category": "collection_box",
+  "name": "Island Guardians GX Premium Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Colorful playmat featuring all four Island Guardians",
+        "count": 1
+      },
+      {
+        "name": "Bright metallic Tapu Lele coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pins of Tapu Fini, Tapu Bulu, Tapu Lele & Tapu Koko",
+        "count": 4
+      },
+      {
+        "name": "Foil oversize card featuring Tapu Lele GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Tapu Lele GX; 1 foil promo card featuring Tapu Fini GX; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Island Guardians GX Premium Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181707
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181707/pokemon-sm-lost-thunder-island-guardians-gx-premium-pin-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tk-xy-latia-trainer-kit",
+  "region": "international",
+  "set": "tk-xy-latia",
+  "category": "other",
+  "name": "XY Trainer Kit: Latias & Latios",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Trainer Kit: Latias & Latios",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98317
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98317/pokemon-xy-trainer-kit-latias-and-latios-xy-trainer-kit-latias-and-latios"
+      ]
+    }
+  ]
+}

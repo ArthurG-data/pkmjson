@@ -1,0 +1,27 @@
+{
+  "id": "swsh1-theme-deck-rillaboom",
+  "region": "international",
+  "set": "swsh1",
+  "category": "theme_deck",
+  "name": "Sword & Shield Theme Deck [Rillaboom]",
+  "identifiers": {
+    "cardmarketProductId": 427131
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Theme Deck [Rillaboom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206037
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206037/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-theme-deck-rillaboom"
+      ]
+    }
+  ]
+}

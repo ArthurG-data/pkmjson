@@ -1,0 +1,27 @@
+{
+  "id": "sm4-booster-box",
+  "region": "international",
+  "set": "sm4",
+  "category": "booster_box",
+  "name": "Crimson Invasion Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 301169
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crimson Invasion Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          146995
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/146995/pokemon-sm-crimson-invasion-crimson-invasion-booster-box"
+      ]
+    }
+  ]
+}

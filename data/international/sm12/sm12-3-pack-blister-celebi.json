@@ -1,0 +1,41 @@
+{
+  "id": "sm12-3-pack-blister-celebi",
+  "region": "international",
+  "set": "sm12",
+  "category": "blister",
+  "name": "Cosmic Eclipse 3 Pack Blister [Celebi]",
+  "identifiers": {
+    "cardmarketProductId": 585903
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a cosmos holofoil of Celebi.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse 3 Pack Blister [Celebi]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199767
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199767/pokemon-sm-cosmic-eclipse-cosmic-eclipse-3-pack-blister-celebi"
+      ]
+    }
+  ]
+}

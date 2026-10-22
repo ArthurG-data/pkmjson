@@ -1,0 +1,27 @@
+{
+  "id": "xy9-booster-box",
+  "region": "international",
+  "set": "xy9",
+  "category": "booster_box",
+  "name": "XY BREAKpoint Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 287244
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY BREAKpoint Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          111278
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/111278/pokemon-xy-breakpoint-xy-breakpoint-booster-box"
+      ]
+    }
+  ]
+}

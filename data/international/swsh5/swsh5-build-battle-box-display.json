@@ -1,0 +1,24 @@
+{
+  "id": "swsh5-build-battle-box-display",
+  "region": "international",
+  "set": "swsh5",
+  "category": "case",
+  "name": "Battle Styles Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Styles Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229279
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229279/pokemon-swsh05-battle-styles-battle-styles-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "swsh1-morpeko-pin-collection",
+  "region": "international",
+  "set": "swsh1",
+  "category": "collection_box",
+  "name": "Morpeko Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Morpeko Pin Collection",
+      "releaseDate": "2020-04-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210577
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210577/pokemon-swsh01-sword-and-shield-base-set-morpeko-pin-collection"
+      ]
+    }
+  ]
+}

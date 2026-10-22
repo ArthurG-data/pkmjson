@@ -1,0 +1,31 @@
+{
+  "id": "swsh1-galar-partners-box-inteleon-v",
+  "region": "international",
+  "set": "swsh1",
+  "category": "collection_box",
+  "name": "Galar Partners Box [Inteleon V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil SWSH016 Inteleon V promo; 1 foil SWSH016 Inteleon V promo Jumbo-sized; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Partners Box [Inteleon V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220752
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220752/pokemon-swsh01-sword-and-shield-base-set-galar-partners-box-inteleon-v"
+      ]
+    }
+  ]
+}

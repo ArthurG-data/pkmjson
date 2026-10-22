@@ -1,0 +1,38 @@
+{
+  "id": "pl1-theme-deck-rebellion",
+  "region": "international",
+  "set": "pl1",
+  "category": "theme_deck",
+  "name": "Platinum Theme Deck - \"Rebellion\"",
+  "identifiers": {
+    "cardmarketProductId": 286595
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Platinum Theme Deck - \"Rebellion\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229175
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229175/pokemon-platinum-platinum-theme-deck-rebellion"
+      ]
+    }
+  ]
+}

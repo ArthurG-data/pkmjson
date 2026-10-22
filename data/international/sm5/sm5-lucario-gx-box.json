@@ -1,0 +1,46 @@
+{
+  "id": "sm5-lucario-gx-box",
+  "region": "international",
+  "set": "sm5",
+  "category": "collection_box",
+  "name": "Lucario GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM100",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 162042,
+        "cardmarketProductId": 321162,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Jumbo version",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lucario GX Box",
+      "releaseDate": "2018-03-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          161256
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/161256/pokemon-sm-ultra-prism-lucario-gx-box"
+      ]
+    }
+  ]
+}

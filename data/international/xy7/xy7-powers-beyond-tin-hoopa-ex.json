@@ -1,0 +1,24 @@
+{
+  "id": "xy7-powers-beyond-tin-hoopa-ex",
+  "region": "international",
+  "set": "xy7",
+  "category": "tin",
+  "name": "Powers Beyond Tin [Hoopa EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Powers Beyond Tin [Hoopa EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          106213
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/106213/pokemon-xy-ancient-origins-powers-beyond-tin-hoopa-ex"
+      ]
+    }
+  ]
+}

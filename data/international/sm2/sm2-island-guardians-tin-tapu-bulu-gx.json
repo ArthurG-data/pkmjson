@@ -1,0 +1,24 @@
+{
+  "id": "sm2-island-guardians-tin-tapu-bulu-gx",
+  "region": "international",
+  "set": "sm2",
+  "category": "tin",
+  "name": "Island Guardians Tin [Tapu Bulu GX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Island Guardians Tin [Tapu Bulu GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131726
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131726/pokemon-sm-guardians-rising-island-guardians-tin-tapu-bulu-gx"
+      ]
+    }
+  ]
+}

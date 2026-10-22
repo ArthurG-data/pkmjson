@@ -1,0 +1,24 @@
+{
+  "id": "bw3-prime-challenge-box-espeon",
+  "region": "international",
+  "set": "bw3",
+  "category": "collection_box",
+  "name": "Prime Challenge Box [Espeon]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prime Challenge Box [Espeon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98628
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98628/pokemon-noble-victories-prime-challenge-box-espeon"
+      ]
+    }
+  ]
+}

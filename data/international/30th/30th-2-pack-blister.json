@@ -1,0 +1,38 @@
+{
+  "id": "30th-2-pack-blister",
+  "region": "international",
+  "set": "30th",
+  "category": "blister",
+  "name": "30th Celebration 2-Pack Blister",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Plastic coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration 2-Pack Blister",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704148
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704148/pokemon-me-30th-celebration-30th-celebration-2-pack-blister"
+      ]
+    }
+  ]
+}

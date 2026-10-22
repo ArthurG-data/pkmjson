@@ -1,0 +1,25 @@
+{
+  "id": "sm7-solgaleo-gx-box-lunala-gx-box",
+  "region": "international",
+  "set": "sm7",
+  "category": "collection_box",
+  "name": "Solgaleo GX Box & Lunala GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Solgaleo GX Box & Lunala GX Box",
+      "releaseDate": "2018-10-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175561
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175561/pokemon-sm-celestial-storm-solgaleo-gx-box-and-lunala-gx-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "swsh4.5-mini-tin-celebi",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "tin",
+  "name": "Shining Fates Mini Tin [Celebi]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin [Celebi]",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mini Tin [Celebi]",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230958
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230958/pokemon-shining-fates-shining-fates-mini-tin-celebi"
+      ]
+    }
+  ]
+}

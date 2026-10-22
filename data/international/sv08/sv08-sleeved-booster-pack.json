@@ -1,0 +1,28 @@
+{
+  "id": "sv08-sleeved-booster-pack",
+  "region": "international",
+  "set": "sv08",
+  "category": "sleeved_booster_pack",
+  "name": "Surging Sparks Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 784946
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Sleeved Booster Pack",
+      "releaseDate": "2024-11-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565602
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565602/pokemon-sv08-surging-sparks-surging-sparks-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

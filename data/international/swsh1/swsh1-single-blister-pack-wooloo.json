@@ -1,0 +1,45 @@
+{
+  "id": "swsh1-single-blister-pack-wooloo",
+  "region": "international",
+  "set": "swsh1",
+  "category": "blister",
+  "name": "Sword & Shield Single Blister Pack [Wooloo]",
+  "identifiers": {
+    "cardmarketProductId": 585894
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH011",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 206427,
+        "cardmarketProductId": 439963,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Single Blister Pack [Wooloo]",
+      "releaseDate": "2020-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206031
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206031/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-single-blister-pack-wooloo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sm2-decidueye-gx-premium-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "premium_collection",
+  "name": "Decidueye GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Decidueye GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133806
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133806/pokemon-sm-guardians-rising-decidueye-gx-premium-collection"
+      ]
+    }
+  ]
+}

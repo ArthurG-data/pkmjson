@@ -1,0 +1,44 @@
+{
+  "id": "sv08-premium-checklane-blister-chandelure",
+  "region": "international",
+  "set": "sv08",
+  "category": "blister",
+  "name": "Surging Sparks Premium Checklane Blister [Chandelure]",
+  "identifiers": {
+    "cardmarketProductId": 784960
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Premium Checklane Blister [Chandelure]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565639
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565639/pokemon-sv08-surging-sparks-surging-sparks-premium-checklane-blister-chandelure"
+      ]
+    }
+  ]
+}

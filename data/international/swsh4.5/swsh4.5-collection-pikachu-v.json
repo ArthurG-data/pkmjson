@@ -1,0 +1,34 @@
+{
+  "id": "swsh4.5-collection-pikachu-v",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "collection_box",
+  "name": "Shining Fates Collection [Pikachu V]",
+  "identifiers": {
+    "cardmarketProductId": 526080
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one foil oversize promo card featuring Pikachu V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Collection [Pikachu V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228825
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228825/pokemon-shining-fates-shining-fates-collection-pikachu-v"
+      ]
+    }
+  ]
+}

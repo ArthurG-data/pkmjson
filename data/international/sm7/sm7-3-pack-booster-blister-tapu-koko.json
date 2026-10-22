@@ -1,0 +1,37 @@
+{
+  "id": "sm7-3-pack-booster-blister-tapu-koko",
+  "region": "international",
+  "set": "sm7",
+  "category": "blister",
+  "name": "Celestial Storm 3 Pack Booster Blister [Tapu Koko]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional foil Tapu Koko.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm 3 Pack Booster Blister [Tapu Koko]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170275
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170275/pokemon-sm-celestial-storm-celestial-storm-3-pack-booster-blister-tapu-koko"
+      ]
+    }
+  ]
+}

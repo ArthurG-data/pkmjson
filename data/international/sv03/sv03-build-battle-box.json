@@ -1,0 +1,40 @@
+{
+  "id": "sv03-build-battle-box",
+  "region": "international",
+  "set": "sv03",
+  "category": "build_and_battle_box",
+  "name": "Obsidian Flames Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 715783
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501268
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501268/pokemon-sv03-obsidian-flames-obsidian-flames-build-and-battle-box"
+      ]
+    }
+  ]
+}

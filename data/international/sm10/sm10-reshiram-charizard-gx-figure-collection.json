@@ -1,0 +1,39 @@
+{
+  "id": "sm10-reshiram-charizard-gx-figure-collection",
+  "region": "international",
+  "set": "sm10",
+  "category": "collection_box",
+  "name": "Reshiram & Charizard GX Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Figure of Reshiram and Charizard together",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card featuring Reshiram & Charizard GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil TAG TEAM card featuring Reshiram & Charizard GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Reshiram & Charizard GX Figure Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          194597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/194597/pokemon-sm-unbroken-bonds-reshiram-and-charizard-gx-figure-collection"
+      ]
+    }
+  ]
+}

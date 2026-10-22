@@ -1,0 +1,38 @@
+{
+  "id": "bw7-theme-deck-cold-fire-white-kyurem",
+  "region": "international",
+  "set": "bw7",
+  "category": "theme_deck",
+  "name": "Boundaries Crossed Theme Deck - \"Cold Fire\" [White Kyurem]",
+  "identifiers": {
+    "cardmarketProductId": 286557
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Boundaries Crossed Theme Deck - \"Cold Fire\" [White Kyurem]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          208574
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/208574/pokemon-boundaries-crossed-boundaries-crossed-theme-deck-cold-fire-white-kyurem"
+      ]
+    }
+  ]
+}

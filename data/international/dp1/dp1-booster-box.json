@@ -1,0 +1,27 @@
+{
+  "id": "dp1-booster-box",
+  "region": "international",
+  "set": "dp1",
+  "category": "booster_box",
+  "name": "Diamond and Pearl Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271900
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Diamond and Pearl Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98524
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98524/pokemon-diamond-and-pearl-diamond-and-pearl-booster-box"
+      ]
+    }
+  ]
+}

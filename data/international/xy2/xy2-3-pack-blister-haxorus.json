@@ -1,0 +1,27 @@
+{
+  "id": "xy2-3-pack-blister-haxorus",
+  "region": "international",
+  "set": "xy2",
+  "category": "blister",
+  "name": "Flashfire 3 Pack Blister [Haxorus]",
+  "identifiers": {
+    "cardmarketProductId": 586412
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flashfire 3 Pack Blister [Haxorus]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97737
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97737/pokemon-xy-flashfire-flashfire-3-pack-blister-haxorus"
+      ]
+    }
+  ]
+}

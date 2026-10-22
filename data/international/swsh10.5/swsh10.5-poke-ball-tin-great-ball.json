@@ -1,0 +1,38 @@
+{
+  "id": "swsh10.5-poke-ball-tin-great-ball",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "tin",
+  "name": "Pokemon GO Poke Ball Tin - Great Ball",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Poke Ball Tin - Great Ball",
+      "releaseDate": "2022-08-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270733
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270733/pokemon-pokemon-go-pokemon-go-poke-ball-tin-great-ball"
+      ]
+    }
+  ]
+}

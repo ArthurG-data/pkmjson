@@ -1,0 +1,27 @@
+{
+  "id": "sm5-elite-trainer-box-dawn-wings-necrozma",
+  "region": "international",
+  "set": "sm5",
+  "category": "elite_trainer_box",
+  "name": "Ultra Prism Elite Trainer Box [Dawn Wings Necrozma]",
+  "identifiers": {
+    "cardmarketProductId": 315120
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism Elite Trainer Box [Dawn Wings Necrozma]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155663
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155663/pokemon-sm-ultra-prism-ultra-prism-elite-trainer-box-dawn-wings-necrozma"
+      ]
+    }
+  ]
+}

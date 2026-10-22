@@ -1,0 +1,49 @@
+{
+  "id": "me02.5-premium-poster-collection-mega-gardevoir",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Premium Poster Collection: Mega Gardevoir",
+  "identifiers": {
+    "cardmarketProductId": 860577
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Double-sided poster",
+        "count": 1
+      },
+      {
+        "name": "875 × 39",
+        "count": 26
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Lucario ex or Mega Gardevoir ex.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Premium Poster Collection: Mega Gardevoir",
+      "releaseDate": "2026-03-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668537
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668537/pokemon-me-ascended-heroes-premium-poster-collection-mega-gardevoir"
+      ]
+    }
+  ]
+}

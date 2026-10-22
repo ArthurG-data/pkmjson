@@ -1,0 +1,60 @@
+{
+  "id": "swsh11-ultra-premium-collection-charizard",
+  "region": "international",
+  "set": "swsh11",
+  "category": "premium_collection",
+  "name": "Sword & Shield Ultra-Premium Collection: Charizard",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Playmat featuring Gigantamax Charizard",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring Gigantamax Charizard",
+        "count": 65
+      },
+      {
+        "name": "Metal coin featuring Gigantamax Charizard",
+        "count": 1
+      },
+      {
+        "name": "Metal damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Metal condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Player’s guide to the entire Sword & Shield Series",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 etched foil promo cards: Charizard V, Charizard VMAX, Charizard VSTAR; 16 Pokémon TCG booster packs from the Sword & Shield Series.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Ultra-Premium Collection: Charizard",
+      "releaseDate": "2022-10-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          282401
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/282401/pokemon-swsh11-lost-origin-sword-and-shield-ultra-premium-collection-charizard"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bw2-starter-figure-boxes-outstanding-oshawott-box",
+  "region": "international",
+  "set": "bw2",
+  "category": "collection_box",
+  "name": "Starter Figure Boxes: Outstanding Oshawott Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "bw2-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Oshawott figure",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a jumbo promo card of ________'s Oshawott; a cosmo holofoil of Oshawott.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Starter Figure Boxes: Outstanding Oshawott Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177532
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177532/pokemon-emerging-powers-starter-figure-boxes-outstanding-oshawott-box"
+      ]
+    }
+  ]
+}

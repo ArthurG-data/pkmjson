@@ -1,0 +1,46 @@
+{
+  "id": "swsh3-true-steel-premium-collection-zamazenta",
+  "region": "international",
+  "set": "swsh3",
+  "category": "premium_collection",
+  "name": "True Steel Premium Collection [Zamazenta]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH034",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 220314,
+        "cardmarketProductId": 491184,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Finely sculpted figures of Zamazenta",
+        "count": 1
+      },
+      {
+        "name": "Collector's pins featuring Zamazenta",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "True Steel Premium Collection [Zamazenta]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218840
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218840/pokemon-swsh03-darkness-ablaze-true-steel-premium-collection-zamazenta"
+      ]
+    }
+  ]
+}

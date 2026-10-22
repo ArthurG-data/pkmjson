@@ -1,0 +1,27 @@
+{
+  "id": "dp5-booster-pack",
+  "region": "international",
+  "set": "dp5",
+  "category": "booster_pack",
+  "name": "Majestic Dawn Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271836
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Majestic Dawn Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98585
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98585/pokemon-majestic-dawn-majestic-dawn-booster-pack"
+      ]
+    }
+  ]
+}

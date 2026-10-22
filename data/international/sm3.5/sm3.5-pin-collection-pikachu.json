@@ -1,0 +1,44 @@
+{
+  "id": "sm3.5-pin-collection-pikachu",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Pin Collection: Pikachu",
+  "identifiers": {
+    "cardmarketProductId": 301160
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Pikachu",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card of Pikachu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Pin Collection: Pikachu",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          145849
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/145849/pokemon-shining-legends-shining-legends-pin-collection-pikachu"
+      ]
+    }
+  ]
+}

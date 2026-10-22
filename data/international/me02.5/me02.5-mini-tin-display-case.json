@@ -1,0 +1,24 @@
+{
+  "id": "me02.5-mini-tin-display-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Ascended Heroes Mini Tin Display Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Mini Tin Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          689031
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/689031/pokemon-me-ascended-heroes-ascended-heroes-mini-tin-display-case"
+      ]
+    }
+  ]
+}

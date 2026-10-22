@@ -1,0 +1,39 @@
+{
+  "id": "swsh1-spring-2020-collector-s-chest-tin",
+  "region": "international",
+  "set": "swsh1",
+  "category": "tin",
+  "name": "Spring 2020 Collector's Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Notepad",
+        "count": 1
+      },
+      {
+        "name": "Mini Portfolio",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Promotional Promos of Grookey, Scorbunny and Sobble; 5 Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Spring 2020 Collector's Chest Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          209531
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/209531/pokemon-swsh01-sword-and-shield-base-set-spring-2020-collectors-chest-tin"
+      ]
+    }
+  ]
+}

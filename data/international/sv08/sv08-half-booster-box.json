@@ -1,0 +1,34 @@
+{
+  "id": "sv08-half-booster-box",
+  "region": "international",
+  "set": "sv08",
+  "category": "half_booster_box",
+  "name": "Surging Sparks Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 784951
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          646039
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/646039/pokemon-sv08-surging-sparks-surging-sparks-half-booster-box"
+      ]
+    }
+  ]
+}

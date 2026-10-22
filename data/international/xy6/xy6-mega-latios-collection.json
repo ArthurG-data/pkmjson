@@ -1,0 +1,24 @@
+{
+  "id": "xy6-mega-latios-collection",
+  "region": "international",
+  "set": "xy6",
+  "category": "collection_box",
+  "name": "Mega Latios Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Latios Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100502
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100502/pokemon-xy-roaring-skies-mega-latios-collection"
+      ]
+    }
+  ]
+}

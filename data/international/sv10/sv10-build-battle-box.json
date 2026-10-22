@@ -1,0 +1,41 @@
+{
+  "id": "sv10-build-battle-box",
+  "region": "international",
+  "set": "sv10",
+  "category": "build_and_battle_box",
+  "name": "Destined Rivals Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 818583
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Build & Battle Box",
+      "releaseDate": "2025-06-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625677
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625677/pokemon-sv10-destined-rivals-destined-rivals-build-and-battle-box"
+      ]
+    }
+  ]
+}

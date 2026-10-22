@@ -1,0 +1,27 @@
+{
+  "id": "sm115-elite-trainer-box-case",
+  "region": "international",
+  "set": "sm115",
+  "category": "case",
+  "name": "Hidden Fates Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 690875
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          648466
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/648466/pokemon-hidden-fates-hidden-fates-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

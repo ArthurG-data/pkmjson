@@ -1,0 +1,45 @@
+{
+  "id": "sv03.5-151-poster-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "collection_box",
+  "name": "151 Poster Collection",
+  "identifiers": {
+    "cardmarketProductId": 719696
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03.5-151-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Poster with a Scarlet & Violet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Bulbasaur; 1 promo card featuring Charmander; 1 promo card featuring Squirtle.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Poster Collection",
+      "releaseDate": "2023-09-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502001
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502001/pokemon-sv-scarlet-and-violet-151-151-poster-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sm11-mini-pack",
+  "region": "international",
+  "set": "sm11",
+  "category": "other",
+  "name": "Unified Minds Mini Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Mini Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          686509
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/686509/pokemon-sm-unified-minds-unified-minds-mini-pack"
+      ]
+    }
+  ]
+}

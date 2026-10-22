@@ -1,0 +1,44 @@
+{
+  "id": "sv05-3-pack-blister-cyclizar",
+  "region": "international",
+  "set": "sv05",
+  "category": "blister",
+  "name": "Temporal Forces 3 Pack Blister [Cyclizar]",
+  "identifiers": {
+    "cardmarketProductId": 750416
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-096",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 544214,
+        "cardmarketProductId": 751817,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces 3 Pack Blister [Cyclizar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          536227
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/536227/pokemon-sv05-temporal-forces-temporal-forces-3-pack-blister-cyclizar"
+      ]
+    }
+  ]
+}

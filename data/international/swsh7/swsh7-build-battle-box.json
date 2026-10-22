@@ -1,0 +1,41 @@
+{
+  "id": "swsh7-build-battle-box",
+  "region": "international",
+  "set": "swsh7",
+  "category": "build_and_battle_box",
+  "name": "Evolving Skies Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 568793
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Build & Battle Box",
+      "releaseDate": "2021-08-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242449
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242449/pokemon-swsh07-evolving-skies-evolving-skies-build-and-battle-box"
+      ]
+    }
+  ]
+}

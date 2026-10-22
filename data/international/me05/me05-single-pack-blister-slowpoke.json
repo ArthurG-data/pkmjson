@@ -1,0 +1,35 @@
+{
+  "id": "me05-single-pack-blister-slowpoke",
+  "region": "international",
+  "set": "me05",
+  "category": "blister",
+  "name": "Pitch Black Single Pack Blister [Slowpoke]",
+  "identifiers": {
+    "cardmarketProductId": 885534
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 booster pack; a promotional cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Single Pack Blister [Slowpoke]",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692955
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692955/pokemon-me05-pitch-black-pitch-black-single-pack-blister-slowpoke"
+      ]
+    }
+  ]
+}

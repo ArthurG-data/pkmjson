@@ -1,0 +1,35 @@
+{
+  "id": "sm3.5-shiny-zygarde-gx-box",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends: Shiny Zygarde GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Shiny Zygarde-GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 never-before-seen foil promo card featuring Shiny Zygarde-GX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends: Shiny Zygarde GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          169543
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/169543/pokemon-shining-legends-shining-legends-shiny-zygarde-gx-box"
+      ]
+    }
+  ]
+}

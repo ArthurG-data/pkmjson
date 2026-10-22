@@ -1,0 +1,36 @@
+{
+  "id": "sm12-theme-deck-kyogre",
+  "region": "international",
+  "set": "sm12",
+  "category": "theme_deck",
+  "name": "Cosmic Eclipse Theme Deck [Kyogre]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Theme Deck [Kyogre]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199305
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199305/pokemon-sm-cosmic-eclipse-cosmic-eclipse-theme-deck-kyogre"
+      ]
+    }
+  ]
+}

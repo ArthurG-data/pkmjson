@@ -1,0 +1,31 @@
+{
+  "id": "swsh7-3-pack-hanger-box",
+  "region": "international",
+  "set": "swsh7",
+  "category": "collection_box",
+  "name": "Evolving Skies 3 Pack Hanger Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies 3 Pack Hanger Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650863
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650863/pokemon-swsh07-evolving-skies-evolving-skies-3-pack-hanger-box"
+      ]
+    }
+  ]
+}

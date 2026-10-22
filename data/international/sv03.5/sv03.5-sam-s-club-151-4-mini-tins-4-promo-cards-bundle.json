@@ -1,0 +1,43 @@
+{
+  "id": "sv03.5-sam-s-club-151-4-mini-tins-4-promo-cards-bundle",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "other",
+  "name": "Sam's Club 151 (4 Mini Tins + 4 Promo Cards Bundle)",
+  "contentsStatus": "complete",
+  "contents": {
+    "other": [
+      {
+        "name": "Raichu",
+        "count": 1
+      },
+      {
+        "name": "Machamp",
+        "count": 1
+      },
+      {
+        "name": "Gengar",
+        "count": 1
+      },
+      {
+        "name": "Dragonite",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sam's Club 151 (4 Mini Tins + 4 Promo Cards Bundle)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          662302
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/662302/pokemon-sv-scarlet-and-violet-151-sams-club-151-4-mini-tins-plus-4-promo-cards-bundle"
+      ]
+    }
+  ]
+}

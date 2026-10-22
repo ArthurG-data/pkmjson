@@ -1,0 +1,27 @@
+{
+  "id": "bw1-booster-pack",
+  "region": "international",
+  "set": "bw1",
+  "category": "booster_pack",
+  "name": "Black and White Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271825
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black and White Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98553
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98553/pokemon-black-and-white-black-and-white-booster-pack"
+      ]
+    }
+  ]
+}

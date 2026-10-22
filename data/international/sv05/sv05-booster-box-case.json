@@ -1,0 +1,35 @@
+{
+  "id": "sv05-booster-box-case",
+  "region": "international",
+  "set": "sv05",
+  "category": "case",
+  "name": "Temporal Forces Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 750407
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Booster Box Case",
+      "releaseDate": "2024-03-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          537417
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/537417/pokemon-sv05-temporal-forces-temporal-forces-booster-box-case"
+      ]
+    }
+  ]
+}

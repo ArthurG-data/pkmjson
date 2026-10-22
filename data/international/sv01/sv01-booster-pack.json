@@ -1,0 +1,27 @@
+{
+  "id": "sv01-booster-pack",
+  "region": "international",
+  "set": "sv01",
+  "category": "booster_pack",
+  "name": "Scarlet & Violet Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 692088
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          476451
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/476451/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-pack"
+      ]
+    }
+  ]
+}

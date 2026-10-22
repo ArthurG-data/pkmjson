@@ -1,0 +1,38 @@
+{
+  "id": "sm1-base-set-theme-deck-roaring-heat-incineroar",
+  "region": "international",
+  "set": "sm1",
+  "category": "theme_deck",
+  "name": "Sun & Moon Base Set Theme Deck - \"Roaring Heat\" [Incineroar]",
+  "identifiers": {
+    "cardmarketProductId": 295479
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Base Set Theme Deck - \"Roaring Heat\" [Incineroar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          126173
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/126173/pokemon-sm-base-set-sun-and-moon-base-set-theme-deck-roaring-heat-incineroar"
+      ]
+    }
+  ]
+}

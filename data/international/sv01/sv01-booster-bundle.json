@@ -1,0 +1,35 @@
+{
+  "id": "sv01-booster-bundle",
+  "region": "international",
+  "set": "sv01",
+  "category": "booster_bundle",
+  "name": "Scarlet & Violet Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 692096
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Booster Bundle",
+      "releaseDate": "2023-03-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478258
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478258/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-bundle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "sv06.5-kingambit-illustration-collection",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "collection_box",
+  "name": "Kingambit Illustration Collection",
+  "identifiers": {
+    "cardmarketProductId": 770967
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-130",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 562087,
+        "cardmarketProductId": 770950,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Pawniard; 1 promo card featuring Bisharp.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kingambit Illustration Collection",
+      "releaseDate": "2024-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553000
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553000/pokemon-sv-shrouded-fable-kingambit-illustration-collection"
+      ]
+    }
+  ]
+}

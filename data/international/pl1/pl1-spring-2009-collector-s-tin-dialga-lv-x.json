@@ -1,0 +1,31 @@
+{
+  "id": "pl1-spring-2009-collector-s-tin-dialga-lv-x",
+  "region": "international",
+  "set": "pl1",
+  "category": "tin",
+  "name": "Spring 2009 Collector's Tin [Dialga LV.X]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "From the Diamond & Pearl Series",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card; four booster packs: two from Platinum.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Spring 2009 Collector's Tin [Dialga LV.X]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485825
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/485825/pokemon-platinum-spring-2009-collectors-tin-dialga-lvx"
+      ]
+    }
+  ]
+}

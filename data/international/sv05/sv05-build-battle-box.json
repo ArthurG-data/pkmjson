@@ -1,0 +1,40 @@
+{
+  "id": "sv05-build-battle-box",
+  "region": "international",
+  "set": "sv05",
+  "category": "build_and_battle_box",
+  "name": "Temporal Forces Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 750408
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          537411
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/537411/pokemon-sv05-temporal-forces-temporal-forces-build-and-battle-box"
+      ]
+    }
+  ]
+}

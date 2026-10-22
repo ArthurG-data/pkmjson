@@ -1,0 +1,37 @@
+{
+  "id": "bw5-3-pack-blister-luxray",
+  "region": "international",
+  "set": "bw5",
+  "category": "blister",
+  "name": "Dark Explorers 3 Pack Blister [Luxray]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "bw5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Luxray.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dark Explorers 3 Pack Blister [Luxray]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477179
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477179/pokemon-dark-explorers-dark-explorers-3-pack-blister-luxray"
+      ]
+    }
+  ]
+}

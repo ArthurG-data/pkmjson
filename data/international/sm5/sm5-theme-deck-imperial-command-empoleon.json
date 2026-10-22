@@ -1,0 +1,38 @@
+{
+  "id": "sm5-theme-deck-imperial-command-empoleon",
+  "region": "international",
+  "set": "sm5",
+  "category": "theme_deck",
+  "name": "Ultra Prism Theme Deck - \"Imperial Command\" [Empoleon]",
+  "identifiers": {
+    "cardmarketProductId": 315117
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Custom coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism Theme Deck - \"Imperial Command\" [Empoleon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155666
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155666/pokemon-sm-ultra-prism-ultra-prism-theme-deck-imperial-command-empoleon"
+      ]
+    }
+  ]
+}

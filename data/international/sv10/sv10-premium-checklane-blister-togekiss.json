@@ -1,0 +1,45 @@
+{
+  "id": "sv10-premium-checklane-blister-togekiss",
+  "region": "international",
+  "set": "sv10",
+  "category": "blister",
+  "name": "Destined Rivals Premium Checklane Blister [Togekiss]",
+  "identifiers": {
+    "cardmarketProductId": 818582
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Premium Checklane Blister [Togekiss]",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625688
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625688/pokemon-sv10-destined-rivals-destined-rivals-premium-checklane-blister-togekiss"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bw4-mewtwo-collection",
+  "region": "international",
+  "set": "bw4",
+  "category": "collection_box",
+  "name": "Mewtwo Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mewtwo Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98635
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98635/pokemon-next-destinies-mewtwo-collection"
+      ]
+    }
+  ]
+}

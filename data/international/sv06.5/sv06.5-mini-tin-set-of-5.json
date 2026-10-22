@@ -1,0 +1,25 @@
+{
+  "id": "sv06.5-mini-tin-set-of-5",
+  "region": "international",
+  "set": "sv06.5",
+  "category": "other",
+  "name": "Shrouded Fable Mini Tin [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shrouded Fable Mini Tin [Set of 5]",
+      "releaseDate": "2024-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          553009
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/553009/pokemon-sv-shrouded-fable-shrouded-fable-mini-tin-set-of-5"
+      ]
+    }
+  ]
+}

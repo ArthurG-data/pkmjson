@@ -1,0 +1,24 @@
+{
+  "id": "g1-mythical-pokemon-collection-box-celebi",
+  "region": "international",
+  "set": "g1",
+  "category": "collection_box",
+  "name": "Mythical Pokemon Collection Box [Celebi]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical Pokemon Collection Box [Celebi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          114525
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/114525/pokemon-generations-mythical-pokemon-collection-box-celebi"
+      ]
+    }
+  ]
+}

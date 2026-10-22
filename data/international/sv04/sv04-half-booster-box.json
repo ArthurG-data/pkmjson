@@ -1,0 +1,34 @@
+{
+  "id": "sv04-half-booster-box",
+  "region": "international",
+  "set": "sv04",
+  "category": "half_booster_box",
+  "name": "Paradox Rift Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 729187
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649417
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649417/pokemon-sv04-paradox-rift-paradox-rift-half-booster-box"
+      ]
+    }
+  ]
+}

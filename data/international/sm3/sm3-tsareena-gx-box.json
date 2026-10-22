@@ -1,0 +1,24 @@
+{
+  "id": "sm3-tsareena-gx-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Tsareena GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tsareena GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          141243
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/141243/pokemon-sm-burning-shadows-tsareena-gx-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "me01-booster-bundle",
+  "region": "international",
+  "set": "me01",
+  "category": "booster_bundle",
+  "name": "Mega Evolution Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 834826
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me01-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Booster Bundle",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644362
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644362/pokemon-me01-mega-evolution-mega-evolution-booster-bundle"
+      ]
+    }
+  ]
+}

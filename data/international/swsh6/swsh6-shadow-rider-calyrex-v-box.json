@@ -1,0 +1,36 @@
+{
+  "id": "swsh6-shadow-rider-calyrex-v-box",
+  "region": "international",
+  "set": "swsh6",
+  "category": "collection_box",
+  "name": "Shadow Rider Calyrex V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Of 2 foil oversize cards featuring Shadow Rider Calyrex V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 2 promo cards featuring Shadow Rider Calyrex V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shadow Rider Calyrex V Box",
+      "releaseDate": "2021-08-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          240977
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/240977/pokemon-swsh06-chilling-reign-shadow-rider-calyrex-v-box"
+      ]
+    }
+  ]
+}

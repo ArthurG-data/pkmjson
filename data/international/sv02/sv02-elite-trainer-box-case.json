@@ -1,0 +1,27 @@
+{
+  "id": "sv02-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv02",
+  "category": "case",
+  "name": "Paldea Evolved Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 703177
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496911
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496911/pokemon-sv02-paldea-evolved-paldea-evolved-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

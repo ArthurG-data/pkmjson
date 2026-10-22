@@ -1,0 +1,24 @@
+{
+  "id": "xy4-sleeved-booster-pack",
+  "region": "international",
+  "set": "xy4",
+  "category": "sleeved_booster_pack",
+  "name": "Phantom Forces Sleeved Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Phantom Forces Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          550676
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/550676/pokemon-xy-phantom-forces-phantom-forces-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

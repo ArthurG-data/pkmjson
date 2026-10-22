@@ -1,0 +1,54 @@
+{
+  "id": "sm12-pikachu-gx-eevee-gx-special-collection",
+  "region": "international",
+  "set": "sm12",
+  "category": "collection_box",
+  "name": "Pikachu GX & Eevee GX Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM232",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 200273,
+        "cardmarketProductId": 412924,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "smp-SM235",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 200276,
+        "cardmarketProductId": 412939,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Pikachu GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Eevee GX; 1 foil promo card featuring Pikachu; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu GX & Eevee GX Special Collection",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199772
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199772/pokemon-sm-cosmic-eclipse-pikachu-gx-and-eevee-gx-special-collection"
+      ]
+    }
+  ]
+}

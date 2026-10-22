@@ -1,0 +1,24 @@
+{
+  "id": "xy5-flygon-ex-box",
+  "region": "international",
+  "set": "xy5",
+  "category": "collection_box",
+  "name": "Flygon EX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flygon EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97820
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97820/pokemon-xy-primal-clash-flygon-ex-box"
+      ]
+    }
+  ]
+}

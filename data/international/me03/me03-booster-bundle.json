@@ -1,0 +1,35 @@
+{
+  "id": "me03-booster-bundle",
+  "region": "international",
+  "set": "me03",
+  "category": "booster_bundle",
+  "name": "Perfect Order Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 865404
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me03-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Perfect Order Booster Bundle",
+      "releaseDate": "2026-03-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672396
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672396/pokemon-me03-perfect-order-perfect-order-booster-bundle"
+      ]
+    }
+  ]
+}

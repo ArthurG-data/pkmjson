@@ -1,0 +1,34 @@
+{
+  "id": "swsh1-booster-box-case",
+  "region": "international",
+  "set": "swsh1",
+  "category": "case",
+  "name": "Sword & Shield Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 668183
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh1-booster-box",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          530142
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/530142/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-booster-box-case"
+      ]
+    }
+  ]
+}

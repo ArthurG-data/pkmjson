@@ -1,0 +1,46 @@
+{
+  "id": "sm3-alolan-raichu-figure-collection",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Alolan Raichu Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM65",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 156111,
+        "cardmarketProductId": 314377,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Alolan Raichu Pokémon figure",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alolan Raichu Figure Collection",
+      "releaseDate": "2018-01-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155504
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155504/pokemon-sm-burning-shadows-alolan-raichu-figure-collection"
+      ]
+    }
+  ]
+}

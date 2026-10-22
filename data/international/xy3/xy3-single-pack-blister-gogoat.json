@@ -1,0 +1,40 @@
+{
+  "id": "xy3-single-pack-blister-gogoat",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "Furious Fists Single Pack Blister [Gogoat]",
+  "identifiers": {
+    "cardmarketProductId": 586403
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy3-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Gogoat.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists Single Pack Blister [Gogoat]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97770
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97770/pokemon-xy-furious-fists-furious-fists-single-pack-blister-gogoat"
+      ]
+    }
+  ]
+}

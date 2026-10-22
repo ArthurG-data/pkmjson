@@ -1,0 +1,37 @@
+{
+  "id": "sv06-premium-checklane-blister-lokix",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade Premium Checklane Blister [Lokix]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Lokix; 1 promo card featuring Nymble as well as.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Premium Checklane Blister [Lokix]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          617190
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/617190/pokemon-sv06-twilight-masquerade-twilight-masquerade-premium-checklane-blister-lokix"
+      ]
+    }
+  ]
+}

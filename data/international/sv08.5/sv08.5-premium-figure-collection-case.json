@@ -1,0 +1,25 @@
+{
+  "id": "sv08.5-premium-figure-collection-case",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "case",
+  "name": "Prismatic Evolutions Premium Figure Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Premium Figure Collection Case",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650804
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650804/pokemon-sv-prismatic-evolutions-prismatic-evolutions-premium-figure-collection-case"
+      ]
+    }
+  ]
+}

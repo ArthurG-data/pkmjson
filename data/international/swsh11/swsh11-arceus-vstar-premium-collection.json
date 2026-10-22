@@ -1,0 +1,40 @@
+{
+  "id": "swsh11-arceus-vstar-premium-collection",
+  "region": "international",
+  "set": "swsh11",
+  "category": "premium_collection",
+  "name": "Arceus VSTAR Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Arceus VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code cord for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Arceus VSTAR; 1 foil card featuring Arceus V; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus VSTAR Premium Collection",
+      "releaseDate": "2022-09-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          283325
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/283325/pokemon-swsh11-lost-origin-arceus-vstar-premium-collection"
+      ]
+    }
+  ]
+}

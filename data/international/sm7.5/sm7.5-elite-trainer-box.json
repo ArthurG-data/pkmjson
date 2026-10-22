@@ -1,0 +1,28 @@
+{
+  "id": "sm7.5-elite-trainer-box",
+  "region": "international",
+  "set": "sm7.5",
+  "category": "elite_trainer_box",
+  "name": "Dragon Majesty Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 361540
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Majesty Elite Trainer Box",
+      "releaseDate": "2018-09-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          173393
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/173393/pokemon-dragon-majesty-dragon-majesty-elite-trainer-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tk-bw-e-trainer-kit",
+  "region": "international",
+  "set": "tk-bw-e",
+  "category": "other",
+  "name": "BW Trainer Kit",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BW Trainer Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98640
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98640/pokemon-bw-trainer-kit-excadrill-and-zoroark-bw-trainer-kit"
+      ]
+    }
+  ]
+}

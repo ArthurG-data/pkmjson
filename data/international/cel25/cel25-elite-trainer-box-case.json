@@ -1,0 +1,27 @@
+{
+  "id": "cel25-elite-trainer-box-case",
+  "region": "international",
+  "set": "cel25",
+  "category": "case",
+  "name": "Celebrations Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 690878
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          251895
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/251895/pokemon-celebrations-celebrations-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

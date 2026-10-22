@@ -1,0 +1,24 @@
+{
+  "id": "pop8-pack",
+  "region": "international",
+  "set": "pop8",
+  "category": "other",
+  "name": "POP Series 8 Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "POP Series 8 Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190536
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190536/pokemon-pop-series-8-pop-series-8-pack"
+      ]
+    }
+  ]
+}

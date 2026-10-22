@@ -1,0 +1,27 @@
+{
+  "id": "swsh3-booster-box-case",
+  "region": "international",
+  "set": "swsh3",
+  "category": "case",
+  "name": "Darkness Ablaze Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 668181
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256971
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256971/pokemon-swsh03-darkness-ablaze-darkness-ablaze-booster-box-case"
+      ]
+    }
+  ]
+}

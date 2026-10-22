@@ -1,0 +1,34 @@
+{
+  "id": "swsh2-booster-box",
+  "region": "international",
+  "set": "swsh2",
+  "category": "booster_box",
+  "name": "Rebel Clash Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 453273
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh2-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210561
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210561/pokemon-swsh02-rebel-clash-rebel-clash-booster-box"
+      ]
+    }
+  ]
+}

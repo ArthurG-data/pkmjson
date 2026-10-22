@@ -1,0 +1,40 @@
+{
+  "id": "sm3.5-collection-shiny-darkrai-gx",
+  "region": "international",
+  "set": "sm3.5",
+  "category": "collection_box",
+  "name": "Shining Legends Collection: Shiny Darkrai GX",
+  "identifiers": {
+    "cardmarketProductId": 315686
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo card featuring Darkrai GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Legends Collection: Shiny Darkrai GX",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          600514
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/600514/pokemon-shining-legends-shining-legends-collection-shiny-darkrai-gx"
+      ]
+    }
+  ]
+}

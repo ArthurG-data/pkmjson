@@ -1,0 +1,27 @@
+{
+  "id": "sv07-elite-trainer-box-case",
+  "region": "international",
+  "set": "sv07",
+  "category": "case",
+  "name": "Stellar Crown Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 776338
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          559102
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/559102/pokemon-sv07-stellar-crown-stellar-crown-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "xy6-theme-deck-storm-rider-zapdos",
+  "region": "international",
+  "set": "xy6",
+  "category": "theme_deck",
+  "name": "Roaring Skies Theme Deck - \"Storm Rider\" [Zapdos]",
+  "identifiers": {
+    "cardmarketProductId": 282798
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Roaring Skies Theme Deck - \"Storm Rider\" [Zapdos]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98030
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98030/pokemon-xy-roaring-skies-roaring-skies-theme-deck-storm-rider-zapdos"
+      ]
+    }
+  ]
+}

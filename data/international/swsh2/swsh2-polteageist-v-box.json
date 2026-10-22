@@ -1,0 +1,46 @@
+{
+  "id": "swsh2-polteageist-v-box",
+  "region": "international",
+  "set": "swsh2",
+  "category": "collection_box",
+  "name": "Polteageist V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH021",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 214235,
+        "cardmarketProductId": 461664,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card of Polteageist V, suitable for display",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Polteageist V Box",
+      "releaseDate": "2020-05-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210563
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210563/pokemon-swsh02-rebel-clash-polteageist-v-box"
+      ]
+    }
+  ]
+}

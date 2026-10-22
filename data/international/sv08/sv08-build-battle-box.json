@@ -1,0 +1,40 @@
+{
+  "id": "sv08-build-battle-box",
+  "region": "international",
+  "set": "sv08",
+  "category": "build_and_battle_box",
+  "name": "Surging Sparks Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 784966
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 40-card ready-to-play deck, including 1 of 4 unique foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565599
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565599/pokemon-sv08-surging-sparks-surging-sparks-build-and-battle-box"
+      ]
+    }
+  ]
+}

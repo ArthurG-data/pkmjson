@@ -1,0 +1,28 @@
+{
+  "id": "swsh12-booster-pack",
+  "region": "international",
+  "set": "swsh12",
+  "category": "booster_pack",
+  "name": "Silver Tempest Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 672323
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Booster Pack",
+      "releaseDate": "2022-11-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          283388
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/283388/pokemon-swsh12-silver-tempest-silver-tempest-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "swsh9-premium-checklane-blister-salamence",
+  "region": "international",
+  "set": "swsh9",
+  "category": "blister",
+  "name": "Brilliant Stars Premium Checklane Blister [Salamence]",
+  "identifiers": {
+    "cardmarketProductId": 606763
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh9-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Brilliant Stars Premium Checklane Blister [Salamence]",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256142
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256142/pokemon-swsh09-brilliant-stars-brilliant-stars-premium-checklane-blister-salamence"
+      ]
+    }
+  ]
+}

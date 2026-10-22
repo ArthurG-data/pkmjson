@@ -1,0 +1,27 @@
+{
+  "id": "neo1-theme-deck-hotfoot",
+  "region": "international",
+  "set": "neo1",
+  "category": "theme_deck",
+  "name": "Neo Genesis Theme Deck - \"Hotfoot\"",
+  "identifiers": {
+    "cardmarketProductId": 286564
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Genesis Theme Deck - \"Hotfoot\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451098
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451098/pokemon-neo-genesis-neo-genesis-theme-deck-hotfoot"
+      ]
+    }
+  ]
+}

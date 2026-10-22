@@ -1,0 +1,40 @@
+{
+  "id": "swsh3-build-battle-box",
+  "region": "international",
+  "set": "swsh3",
+  "category": "build_and_battle_box",
+  "name": "Darkness Ablaze Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 487089
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 23-card Evolution pack featuring key cards from current and prior expansions (including 1 of 4 alternate-art promo cards).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Build & Battle Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216861
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216861/pokemon-swsh03-darkness-ablaze-darkness-ablaze-build-and-battle-box"
+      ]
+    }
+  ]
+}

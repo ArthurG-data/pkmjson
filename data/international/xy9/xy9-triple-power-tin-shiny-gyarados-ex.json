@@ -1,0 +1,24 @@
+{
+  "id": "xy9-triple-power-tin-shiny-gyarados-ex",
+  "region": "international",
+  "set": "xy9",
+  "category": "tin",
+  "name": "Triple Power Tin [Shiny Gyarados EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Power Tin [Shiny Gyarados EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117700
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117700/pokemon-xy-breakpoint-triple-power-tin-shiny-gyarados-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv05-half-booster-box",
+  "region": "international",
+  "set": "sv05",
+  "category": "half_booster_box",
+  "name": "Temporal Forces Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 750404
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649416
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649416/pokemon-sv05-temporal-forces-temporal-forces-half-booster-box"
+      ]
+    }
+  ]
+}

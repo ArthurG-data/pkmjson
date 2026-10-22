@@ -1,0 +1,31 @@
+{
+  "id": "sv04-single-pack-blister-glimmora",
+  "region": "international",
+  "set": "sv04",
+  "category": "blister",
+  "name": "Paradox Rift Single Pack Blister [Glimmora]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 coin, Glimmet and promotional card of Glimmora.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Single Pack Blister [Glimmora]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625581
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625581/pokemon-sv04-paradox-rift-paradox-rift-single-pack-blister-glimmora"
+      ]
+    }
+  ]
+}

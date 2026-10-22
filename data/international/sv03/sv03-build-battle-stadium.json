@@ -1,0 +1,57 @@
+{
+  "id": "sv03-build-battle-stadium",
+  "region": "international",
+  "set": "sv03",
+  "category": "other",
+  "name": "Obsidian Flames Build & Battle Stadium",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Individual Build & Battle Boxes",
+        "count": 2
+      },
+      {
+        "name": "Basic Energy cards",
+        "count": 121
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Collector’s box to hold everything",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 4 foil promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Build & Battle Stadium",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          501267
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/501267/pokemon-sv03-obsidian-flames-obsidian-flames-build-and-battle-stadium"
+      ]
+    }
+  ]
+}

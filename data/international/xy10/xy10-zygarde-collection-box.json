@@ -1,0 +1,35 @@
+{
+  "id": "xy10-zygarde-collection-box",
+  "region": "international",
+  "set": "xy10",
+  "category": "collection_box",
+  "name": "Zygarde Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sculpted figure of Zygarde Complete",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A never-before-seen foil promo card featuring Zygarde; 4 Pokemon TCG booster packs to expand your collection.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Zygarde Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          121391
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/121391/pokemon-xy-fates-collide-zygarde-collection-box"
+      ]
+    }
+  ]
+}

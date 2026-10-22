@@ -1,0 +1,24 @@
+{
+  "id": "xy6-collector-s-pin-blisters-latios",
+  "region": "international",
+  "set": "xy6",
+  "category": "blister",
+  "name": "Mega Evolution Collector's Pin Blisters [Latios]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution Collector's Pin Blisters [Latios]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          99150
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/99150/pokemon-xy-roaring-skies-mega-evolution-collectors-pin-blisters-latios"
+      ]
+    }
+  ]
+}

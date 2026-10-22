@@ -1,0 +1,35 @@
+{
+  "id": "swsh7-greninja-v-union-special-collection",
+  "region": "international",
+  "set": "swsh7",
+  "category": "collection_box",
+  "name": "Greninja V-UNION Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize card featuring the star Pokémon V-UNION",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 promo cards that make up a single Pokémon V-UNION for Greninja V-UNION; 1 helpful Supporter card featuring Professor Burnet; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Greninja V-UNION Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245878
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245878/pokemon-swsh07-evolving-skies-greninja-v-union-special-collection"
+      ]
+    }
+  ]
+}

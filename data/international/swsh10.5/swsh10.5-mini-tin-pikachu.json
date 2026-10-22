@@ -1,0 +1,39 @@
+{
+  "id": "swsh10.5-mini-tin-pikachu",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "tin",
+  "name": "Pokemon GO Mini Tin [Pikachu]",
+  "identifiers": {
+    "cardmarketProductId": 653716
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Mini Tin [Pikachu]",
+      "releaseDate": "2022-08-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270730
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270730/pokemon-pokemon-go-pokemon-go-mini-tin-pikachu"
+      ]
+    }
+  ]
+}

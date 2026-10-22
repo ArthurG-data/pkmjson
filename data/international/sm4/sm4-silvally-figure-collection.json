@@ -1,0 +1,46 @@
+{
+  "id": "sm4-silvally-figure-collection",
+  "region": "international",
+  "set": "sm4",
+  "category": "collection_box",
+  "name": "Silvally Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM64",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 152606,
+        "cardmarketProductId": 312549,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Detailed figure of Silvally",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silvally Figure Collection",
+      "releaseDate": "2017-11-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          152601
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/152601/pokemon-sm-crimson-invasion-silvally-figure-collection"
+      ]
+    }
+  ]
+}

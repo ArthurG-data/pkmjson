@@ -1,0 +1,31 @@
+{
+  "id": "swsh4.5-collection-shiny-eldegoss-v",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "collection_box",
+  "name": "Shining Fates Collection [Shiny Eldegoss V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 5
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one foil oversize promo card featuring Eldegoss V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Collection [Shiny Eldegoss V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          240192
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/240192/pokemon-shining-fates-shining-fates-collection-shiny-eldegoss-v"
+      ]
+    }
+  ]
+}

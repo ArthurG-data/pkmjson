@@ -1,0 +1,31 @@
+{
+  "id": "sm6-dawn-wings-necrozma-box",
+  "region": "international",
+  "set": "sm6",
+  "category": "collection_box",
+  "name": "Dawn Wings Necrozma Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Jumbo foil Dawn Wings Necrozma-GX",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Never-before-seen foil promo cards of Dawn Wings Necrozma (SM123); Three booster packs; Code Card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dawn Wings Necrozma Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          246414
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/246414/pokemon-sm-forbidden-light-dawn-wings-necrozma-box"
+      ]
+    }
+  ]
+}

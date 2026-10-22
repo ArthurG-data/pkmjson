@@ -1,0 +1,24 @@
+{
+  "id": "xy10-three-pack-blister-froakie",
+  "region": "international",
+  "set": "xy10",
+  "category": "blister",
+  "name": "Fates Collide Three Pack Blister [Froakie]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fates Collide Three Pack Blister [Froakie]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          118339
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/118339/pokemon-xy-fates-collide-fates-collide-three-pack-blister-froakie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sm3-tapu-lele-pin-collection",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Tapu Lele Pin Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tapu Lele Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          133775
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/133775/pokemon-sm-burning-shadows-tapu-lele-pin-collection"
+      ]
+    }
+  ]
+}

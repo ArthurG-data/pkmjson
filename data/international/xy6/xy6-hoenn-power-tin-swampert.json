@@ -1,0 +1,24 @@
+{
+  "id": "xy6-hoenn-power-tin-swampert",
+  "region": "international",
+  "set": "xy6",
+  "category": "tin",
+  "name": "Hoenn Power Tin [Swampert]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hoenn Power Tin [Swampert]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100498
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100498/pokemon-xy-roaring-skies-hoenn-power-tin-swampert"
+      ]
+    }
+  ]
+}

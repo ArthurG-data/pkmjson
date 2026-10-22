@@ -1,0 +1,24 @@
+{
+  "id": "sm10-kangaskhan-gx-box",
+  "region": "international",
+  "set": "sm10",
+  "category": "collection_box",
+  "name": "Kangaskhan GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kangaskhan GX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          192083
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/192083/pokemon-sm-unbroken-bonds-kangaskhan-gx-box"
+      ]
+    }
+  ]
+}

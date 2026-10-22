@@ -1,0 +1,44 @@
+{
+  "id": "sv08.5-mini-tin-leafeon",
+  "region": "international",
+  "set": "sv08.5",
+  "category": "tin",
+  "name": "Prismatic Evolutions Mini Tin [Leafeon]",
+  "identifiers": {
+    "cardmarketProductId": 798941
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Art card matching the tin, featuring Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon or Sylveon",
+        "count": 1
+      },
+      {
+        "name": "Coin featuring Eevee",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Prismatic Evolutions Mini Tin [Leafeon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          593460
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/593460/pokemon-sv-prismatic-evolutions-prismatic-evolutions-mini-tin-leafeon"
+      ]
+    }
+  ]
+}

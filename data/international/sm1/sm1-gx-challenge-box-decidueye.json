@@ -1,0 +1,41 @@
+{
+  "id": "sm1-gx-challenge-box-decidueye",
+  "region": "international",
+  "set": "sm1",
+  "category": "collection_box",
+  "name": "Sun & Moon GX Challenge Box [Decidueye]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM55",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 164460,
+        "cardmarketProductId": 312548,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Ready-to-play theme deck",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Sun & Moon booster packs; 1 Decidueye GX.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon GX Challenge Box [Decidueye]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          244314
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/244314/pokemon-sm-base-set-sun-and-moon-gx-challenge-box-decidueye"
+      ]
+    }
+  ]
+}

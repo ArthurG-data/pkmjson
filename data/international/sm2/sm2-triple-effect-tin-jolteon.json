@@ -1,0 +1,31 @@
+{
+  "id": "sm2-triple-effect-tin-jolteon",
+  "region": "international",
+  "set": "sm2",
+  "category": "tin",
+  "name": "Triple Effect Tin [Jolteon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; a cosmos holofoil promo of Jolteon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Effect Tin [Jolteon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177869
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177869/pokemon-sm-guardians-rising-triple-effect-tin-jolteon"
+      ]
+    }
+  ]
+}

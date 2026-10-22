@@ -1,0 +1,53 @@
+{
+  "id": "swsh12.5-premium-figure-collection-shiny-zacian",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "collection_box",
+  "name": "Crown Zenith Premium Figure Collection [Shiny Zacian]",
+  "identifiers": {
+    "cardmarketProductId": 683026
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Sculpted figure featuring Shiny Zacian or Shiny Zamazenta",
+        "count": 1
+      },
+      {
+        "name": "Collector’s pin featuring Shiny Zacian or Shiny Zamazenta",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves featuring both Shiny Zacian and Shiny Zamazenta",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Shiny Zacian V or Shiny Zamazenta V.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Premium Figure Collection [Shiny Zacian]",
+      "releaseDate": "2023-05-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475647
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475647/pokemon-swsh-crown-zenith-crown-zenith-premium-figure-collection-shiny-zacian"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "base4-theme-deck-lightning-bug",
+  "region": "international",
+  "set": "base4",
+  "category": "theme_deck",
+  "name": "Base Set 2 Theme Deck - \"Lightning Bug\"",
+  "identifiers": {
+    "cardmarketProductId": 286500
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set 2 Theme Deck - \"Lightning Bug\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107613
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107613/pokemon-base-set-2-base-set-2-theme-deck-lightning-bug"
+      ]
+    }
+  ]
+}

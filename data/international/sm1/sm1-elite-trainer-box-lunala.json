@@ -1,0 +1,27 @@
+{
+  "id": "sm1-elite-trainer-box-lunala",
+  "region": "international",
+  "set": "sm1",
+  "category": "elite_trainer_box",
+  "name": "Sun & Moon Elite Trainer Box [Lunala]",
+  "identifiers": {
+    "cardmarketProductId": 295477
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Elite Trainer Box [Lunala]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          126091
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/126091/pokemon-sm-base-set-sun-and-moon-elite-trainer-box-lunala"
+      ]
+    }
+  ]
+}

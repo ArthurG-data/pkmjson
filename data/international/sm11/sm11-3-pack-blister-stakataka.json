@@ -1,0 +1,51 @@
+{
+  "id": "sm11-3-pack-blister-stakataka",
+  "region": "international",
+  "set": "sm11",
+  "category": "blister",
+  "name": "Unified Minds 3 Pack Blister [Stakataka]",
+  "identifiers": {
+    "cardmarketProductId": 585910
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM209",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 197888,
+        "cardmarketProductId": 371773,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds 3 Pack Blister [Stakataka]",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191884
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191884/pokemon-sm-unified-minds-unified-minds-3-pack-blister-stakataka"
+      ]
+    }
+  ]
+}

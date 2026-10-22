@@ -1,0 +1,24 @@
+{
+  "id": "bw8-kanto-two-pack-blister-legendary-birds",
+  "region": "international",
+  "set": "bw8",
+  "category": "blister",
+  "name": "Kanto Two Pack Blister [Legendary Birds]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kanto Two Pack Blister [Legendary Birds]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          99153
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/99153/pokemon-plasma-storm-kanto-two-pack-blister-legendary-birds"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "xy0-deluxe-kalos-starter-deck-froakie",
+  "region": "international",
+  "set": "xy0",
+  "category": "battle_deck",
+  "name": "Deluxe Kalos Starter Deck [Froakie]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Froakie deckbox",
+        "count": 1
+      },
+      {
+        "name": "Code for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack from the Black & White Series; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Deluxe Kalos Starter Deck [Froakie]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97719
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97719/pokemon-kalos-starter-set-deluxe-kalos-starter-deck-froakie"
+      ]
+    }
+  ]
+}

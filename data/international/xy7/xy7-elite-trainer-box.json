@@ -1,0 +1,27 @@
+{
+  "id": "xy7-elite-trainer-box",
+  "region": "international",
+  "set": "xy7",
+  "category": "elite_trainer_box",
+  "name": "Ancient Origins Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 286947
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ancient Origins Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100495
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100495/pokemon-xy-ancient-origins-ancient-origins-elite-trainer-box"
+      ]
+    }
+  ]
+}

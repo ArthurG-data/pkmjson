@@ -1,0 +1,27 @@
+{
+  "id": "base4-2-player-cd-rom-starter-set",
+  "region": "international",
+  "set": "base4",
+  "category": "other",
+  "name": "Base Set 2 - 2-Player CD-ROM Starter Set",
+  "identifiers": {
+    "cardmarketProductId": 286497
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set 2 - 2-Player CD-ROM Starter Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107609
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107609/pokemon-base-set-2-base-set-2-2-player-cd-rom-starter-set"
+      ]
+    }
+  ]
+}

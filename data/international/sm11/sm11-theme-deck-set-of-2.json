@@ -1,0 +1,25 @@
+{
+  "id": "sm11-theme-deck-set-of-2",
+  "region": "international",
+  "set": "sm11",
+  "category": "other",
+  "name": "Unified Minds Theme Deck [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Theme Deck [Set of 2]",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          194708
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/194708/pokemon-sm-unified-minds-unified-minds-theme-deck-set-of-2"
+      ]
+    }
+  ]
+}

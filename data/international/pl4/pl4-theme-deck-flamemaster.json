@@ -1,0 +1,38 @@
+{
+  "id": "pl4-theme-deck-flamemaster",
+  "region": "international",
+  "set": "pl4",
+  "category": "theme_deck",
+  "name": "Arceus Theme Deck - \"Flamemaster\"",
+  "identifiers": {
+    "cardmarketProductId": 286601
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Arceus Theme Deck - \"Flamemaster\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          678179
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/678179/pokemon-arceus-arceus-theme-deck-flamemaster"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "swsh5-premium-checklane-blister-golisopod",
+  "region": "international",
+  "set": "swsh5",
+  "category": "blister",
+  "name": "Battle Styles Premium Checklane Blister [Golisopod]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh5-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Styles Premium Checklane Blister [Golisopod]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236457
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236457/pokemon-swsh05-battle-styles-battle-styles-premium-checklane-blister-golisopod"
+      ]
+    }
+  ]
+}

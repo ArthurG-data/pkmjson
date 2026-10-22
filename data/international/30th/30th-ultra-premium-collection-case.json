@@ -1,0 +1,25 @@
+{
+  "id": "30th-ultra-premium-collection-case",
+  "region": "international",
+  "set": "30th",
+  "category": "case",
+  "name": "30th Celebration Ultra-Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Ultra-Premium Collection Case",
+      "releaseDate": "2026-11-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709029
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709029/pokemon-me-30th-celebration-30th-celebration-ultra-premium-collection-case"
+      ]
+    }
+  ]
+}

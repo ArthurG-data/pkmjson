@@ -1,0 +1,68 @@
+{
+  "id": "me02.5-pokemon-center-elite-trainer-box-exclusive",
+  "region": "international",
+  "set": "me02.5",
+  "category": "elite_trainer_box",
+  "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+  "identifiers": {
+    "cardmarketProductId": 860575
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Pokémon TCG Energy cards",
+        "count": 40
+      },
+      {
+        "name": "Player’s guide to the Ascended Heroes expansion",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Plastic coin",
+        "count": 1
+      },
+      {
+        "name": "Collector’s box to hold everything, with 6 dividers to keep it organized",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 full-art foil promo cards; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668497
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668497/pokemon-me-ascended-heroes-ascended-heroes-pokemon-center-elite-trainer-box-exclusive"
+      ]
+    }
+  ]
+}

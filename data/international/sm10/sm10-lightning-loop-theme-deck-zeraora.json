@@ -1,0 +1,38 @@
+{
+  "id": "sm10-lightning-loop-theme-deck-zeraora",
+  "region": "international",
+  "set": "sm10",
+  "category": "theme_deck",
+  "name": "Unbroken Bonds Lightning Loop Theme Deck - [Zeraora]",
+  "identifiers": {
+    "cardmarketProductId": 370730
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Lightning Loop Theme Deck - [Zeraora]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          188400
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/188400/pokemon-sm-unbroken-bonds-unbroken-bonds-lightning-loop-theme-deck-zeraora"
+      ]
+    }
+  ]
+}

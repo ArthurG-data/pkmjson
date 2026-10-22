@@ -1,0 +1,24 @@
+{
+  "id": "base5-booster-box-1st-edition",
+  "region": "international",
+  "set": "base5",
+  "category": "booster_box",
+  "name": "Team Rocket Booster Box [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs of 1st Edition Team Rocket.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          209436
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/209436/pokemon-team-rocket-team-rocket-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

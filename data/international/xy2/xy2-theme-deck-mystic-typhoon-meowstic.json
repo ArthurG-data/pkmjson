@@ -1,0 +1,38 @@
+{
+  "id": "xy2-theme-deck-mystic-typhoon-meowstic",
+  "region": "international",
+  "set": "xy2",
+  "category": "theme_deck",
+  "name": "Flashfire Theme Deck - \"Mystic Typhoon\" [Meowstic]",
+  "identifiers": {
+    "cardmarketProductId": 286620
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flashfire Theme Deck - \"Mystic Typhoon\" [Meowstic]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91597/pokemon-xy-flashfire-flashfire-theme-deck-mystic-typhoon-meowstic"
+      ]
+    }
+  ]
+}

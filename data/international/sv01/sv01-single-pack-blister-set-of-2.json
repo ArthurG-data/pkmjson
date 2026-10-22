@@ -1,0 +1,25 @@
+{
+  "id": "sv01-single-pack-blister-set-of-2",
+  "region": "international",
+  "set": "sv01",
+  "category": "other",
+  "name": "Scarlet & Violet Single Pack Blister [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Scarlet & Violet booster pack; a promotional card of Espathra or Spidops; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Single Pack Blister [Set of 2]",
+      "releaseDate": "2023-03-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          478767
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/478767/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-single-pack-blister-set-of-2"
+      ]
+    }
+  ]
+}

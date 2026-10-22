@@ -1,0 +1,41 @@
+{
+  "id": "sm12-build-battle-box",
+  "region": "international",
+  "set": "sm12",
+  "category": "build_and_battle_box",
+  "name": "Cosmic Eclipse Build & Battle Box",
+  "identifiers": {
+    "cardmarketProductId": 399654
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm12-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Deck-building tip sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack featuring key cards from current and prior sets, including 1 of 4 alternate-art promo cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Build & Battle Box",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199310
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199310/pokemon-sm-cosmic-eclipse-cosmic-eclipse-build-and-battle-box"
+      ]
+    }
+  ]
+}

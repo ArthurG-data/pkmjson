@@ -1,0 +1,24 @@
+{
+  "id": "gym1-booster-box-1st-edition",
+  "region": "international",
+  "set": "gym1",
+  "category": "booster_box",
+  "name": "Gym Heroes Booster Box [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Heroes Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          208707
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/208707/pokemon-gym-heroes-gym-heroes-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

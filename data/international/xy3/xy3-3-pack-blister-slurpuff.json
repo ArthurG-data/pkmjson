@@ -1,0 +1,40 @@
+{
+  "id": "xy3-3-pack-blister-slurpuff",
+  "region": "international",
+  "set": "xy3",
+  "category": "blister",
+  "name": "Furious Fists 3 Pack Blister [Slurpuff]",
+  "identifiers": {
+    "cardmarketProductId": 586405
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy3-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Slurpuff.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists 3 Pack Blister [Slurpuff]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97768
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97768/pokemon-xy-furious-fists-furious-fists-3-pack-blister-slurpuff"
+      ]
+    }
+  ]
+}

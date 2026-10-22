@@ -1,0 +1,55 @@
+{
+  "id": "swsh3.5-collection-dubwool-v",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "collection_box",
+  "name": "Champion's Path Collection [Dubwool V]",
+  "identifiers": {
+    "cardmarketProductId": 488259
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH049",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 223752,
+        "cardmarketProductId": 505855,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Dubwool V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Collection [Dubwool V]",
+      "releaseDate": "2020-09-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218806
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218806/pokemon-champions-path-champions-path-collection-dubwool-v"
+      ]
+    }
+  ]
+}

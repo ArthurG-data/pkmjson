@@ -1,0 +1,38 @@
+{
+  "id": "dp1-diamond-pearl-theme-deck-inferno-zone",
+  "region": "international",
+  "set": "dp1",
+  "category": "theme_deck",
+  "name": "Diamond & Pearl Theme Deck - \"Inferno Zone\"",
+  "identifiers": {
+    "cardmarketProductId": 286579
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Diamond & Pearl Theme Deck - \"Inferno Zone\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228805
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228805/pokemon-diamond-and-pearl-diamond-and-pearl-theme-deck-inferno-zone"
+      ]
+    }
+  ]
+}

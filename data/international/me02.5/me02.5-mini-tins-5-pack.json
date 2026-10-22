@@ -1,0 +1,36 @@
+{
+  "id": "me02.5-mini-tins-5-pack",
+  "region": "international",
+  "set": "me02.5",
+  "category": "other",
+  "name": "Ascended Heroes Mini Tins 5-Pack",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Mini Tins 5-Pack",
+      "releaseDate": "2026-02-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668530
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668530/pokemon-me-ascended-heroes-ascended-heroes-mini-tins-5-pack"
+      ]
+    }
+  ]
+}

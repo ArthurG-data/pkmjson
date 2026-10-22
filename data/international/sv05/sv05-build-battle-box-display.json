@@ -1,0 +1,24 @@
+{
+  "id": "sv05-build-battle-box-display",
+  "region": "international",
+  "set": "sv05",
+  "category": "case",
+  "name": "Temporal Forces Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          537409
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/537409/pokemon-sv05-temporal-forces-temporal-forces-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

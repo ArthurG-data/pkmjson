@@ -1,0 +1,27 @@
+{
+  "id": "sv02-sleeved-booster-pack",
+  "region": "international",
+  "set": "sv02",
+  "category": "sleeved_booster_pack",
+  "name": "Paldea Evolved Sleeved Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 703159
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496927
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496927/pokemon-sv02-paldea-evolved-paldea-evolved-sleeved-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "xy1-elite-trainer-box-xerneas",
+  "region": "international",
+  "set": "xy1",
+  "category": "elite_trainer_box",
+  "name": "XY Elite Trainer Box [Xerneas]",
+  "identifiers": {
+    "cardmarketProductId": 286955
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "other": [
+      {
+        "name": "Themed card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Acrylic Special Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Dice as damage counters",
+        "count": 6
+      },
+      {
+        "name": "Larger die for coin flips",
+        "count": 1
+      },
+      {
+        "name": "Dividers, the XY Player's Guide detailing the XY expansion",
+        "count": 4
+      },
+      {
+        "name": "Collector's box",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Elite Trainer Box [Xerneas]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97747
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97747/pokemon-xy-base-set-xy-elite-trainer-box-xerneas"
+      ]
+    }
+  ]
+}

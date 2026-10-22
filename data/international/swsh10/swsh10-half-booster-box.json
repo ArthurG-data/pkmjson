@@ -1,0 +1,34 @@
+{
+  "id": "swsh10-half-booster-box",
+  "region": "international",
+  "set": "swsh10",
+  "category": "half_booster_box",
+  "name": "Astral Radiance Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 611351
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704916
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704916/pokemon-swsh10-astral-radiance-astral-radiance-half-booster-box"
+      ]
+    }
+  ]
+}

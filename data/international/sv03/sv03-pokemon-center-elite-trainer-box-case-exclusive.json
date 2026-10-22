@@ -1,0 +1,31 @@
+{
+  "id": "sv03-pokemon-center-elite-trainer-box-case-exclusive",
+  "region": "international",
+  "set": "sv03",
+  "category": "case",
+  "name": "Obsidian Flames Pokemon Center Elite Trainer Box Case (Exclusive)",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv03-pokemon-center-elite-trainer-box-exclusive",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Pokemon Center Elite Trainer Box Case (Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          618341
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/618341/pokemon-sv03-obsidian-flames-obsidian-flames-pokemon-center-elite-trainer-box-case-exclusive"
+      ]
+    }
+  ]
+}

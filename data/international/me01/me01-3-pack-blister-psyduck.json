@@ -1,0 +1,45 @@
+{
+  "id": "me01-3-pack-blister-psyduck",
+  "region": "international",
+  "set": "me01",
+  "category": "blister",
+  "name": "Mega Evolution 3 Pack Blister [Psyduck]",
+  "identifiers": {
+    "cardmarketProductId": 834819
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me01-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "mep-007",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 656257,
+        "cardmarketProductId": 851053,
+        "count": 1,
+        "role": "promo"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution 3 Pack Blister [Psyduck]",
+      "releaseDate": "2025-09-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644357
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644357/pokemon-me01-mega-evolution-mega-evolution-3-pack-blister-psyduck"
+      ]
+    }
+  ]
+}

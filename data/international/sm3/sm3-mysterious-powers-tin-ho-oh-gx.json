@@ -1,0 +1,31 @@
+{
+  "id": "sm3-mysterious-powers-tin-ho-oh-gx",
+  "region": "international",
+  "set": "sm3",
+  "category": "tin",
+  "name": "Mysterious Powers Tin [Ho-Oh GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a playable deck in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo of Ho-Oh GX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Powers Tin [Ho-Oh GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148418
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148418/pokemon-sm-burning-shadows-mysterious-powers-tin-ho-oh-gx"
+      ]
+    }
+  ]
+}

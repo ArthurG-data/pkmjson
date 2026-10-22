@@ -1,0 +1,24 @@
+{
+  "id": "bw2-zekrom-box",
+  "region": "international",
+  "set": "bw2",
+  "category": "collection_box",
+  "name": "Zekrom Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Zekrom Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98622
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98622/pokemon-emerging-powers-zekrom-box"
+      ]
+    }
+  ]
+}

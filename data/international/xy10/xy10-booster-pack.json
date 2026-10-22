@@ -1,0 +1,27 @@
+{
+  "id": "xy10-booster-pack",
+  "region": "international",
+  "set": "xy10",
+  "category": "booster_pack",
+  "name": "XY Fates Collide Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 289046
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Fates Collide Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          168114
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/168114/pokemon-xy-fates-collide-xy-fates-collide-booster-pack"
+      ]
+    }
+  ]
+}

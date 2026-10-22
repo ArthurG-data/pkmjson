@@ -1,0 +1,38 @@
+{
+  "id": "bw1-theme-deck-blue-assault-samurott",
+  "region": "international",
+  "set": "bw1",
+  "category": "theme_deck",
+  "name": "Black & White Theme Deck - \"Blue Assault\" [Samurott]",
+  "identifiers": {
+    "cardmarketProductId": 286545
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Black & White Theme Deck - \"Blue Assault\" [Samurott]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98612
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98612/pokemon-black-and-white-black-and-white-theme-deck-blue-assault-samurott"
+      ]
+    }
+  ]
+}

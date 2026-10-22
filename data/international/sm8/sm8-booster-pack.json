@@ -1,0 +1,28 @@
+{
+  "id": "sm8-booster-pack",
+  "region": "international",
+  "set": "sm8",
+  "category": "booster_pack",
+  "name": "Lost Thunder Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 363268
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Booster Pack",
+      "releaseDate": "2018-11-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175510
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175510/pokemon-sm-lost-thunder-lost-thunder-booster-pack"
+      ]
+    }
+  ]
+}

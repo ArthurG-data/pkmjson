@@ -1,0 +1,41 @@
+{
+  "id": "sv10.5w-binder-collection",
+  "region": "international",
+  "set": "sv10.5w",
+  "category": "collection_box",
+  "name": "White Flare Binder Collection",
+  "identifiers": {
+    "cardmarketProductId": 824095
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10.5w-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Nine-pocket album featuring Zekrom or Reshiram, respectively, to organize and store Pokémon TCG cards",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "White Flare Binder Collection",
+      "releaseDate": "2025-07-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          630695
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/630695/pokemon-sv-white-flare-white-flare-binder-collection"
+      ]
+    }
+  ]
+}

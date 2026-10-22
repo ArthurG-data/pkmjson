@@ -1,0 +1,41 @@
+{
+  "id": "30th-binder-collection",
+  "region": "international",
+  "set": "30th",
+  "category": "collection_box",
+  "name": "30th Celebration Binder Collection",
+  "identifiers": {
+    "cardmarketProductId": 895560
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Thematic 9-pocket binder",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Binder Collection",
+      "releaseDate": "2026-12-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704169
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704169/pokemon-me-30th-celebration-30th-celebration-binder-collection"
+      ]
+    }
+  ]
+}

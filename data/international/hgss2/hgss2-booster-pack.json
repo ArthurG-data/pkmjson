@@ -1,0 +1,27 @@
+{
+  "id": "hgss2-booster-pack",
+  "region": "international",
+  "set": "hgss2",
+  "category": "booster_pack",
+  "name": "Unleashed Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271852
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unleashed Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98582
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98582/pokemon-unleashed-unleashed-booster-pack"
+      ]
+    }
+  ]
+}

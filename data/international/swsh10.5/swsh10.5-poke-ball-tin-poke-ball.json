@@ -1,0 +1,38 @@
+{
+  "id": "swsh10.5-poke-ball-tin-poke-ball",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "tin",
+  "name": "Pokemon GO Poke Ball Tin - Poke Ball",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Poke Ball Tin - Poke Ball",
+      "releaseDate": "2022-08-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270734
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270734/pokemon-pokemon-go-pokemon-go-poke-ball-tin-poke-ball"
+      ]
+    }
+  ]
+}

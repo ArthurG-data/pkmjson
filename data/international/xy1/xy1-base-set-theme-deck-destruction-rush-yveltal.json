@@ -1,0 +1,38 @@
+{
+  "id": "xy1-base-set-theme-deck-destruction-rush-yveltal",
+  "region": "international",
+  "set": "xy1",
+  "category": "theme_deck",
+  "name": "XY Base Set Theme Deck - \"Destruction Rush\" [Yveltal]",
+  "identifiers": {
+    "cardmarketProductId": 286618
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Base Set Theme Deck - \"Destruction Rush\" [Yveltal]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          91604
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/91604/pokemon-xy-base-set-xy-base-set-theme-deck-destruction-rush-yveltal"
+      ]
+    }
+  ]
+}

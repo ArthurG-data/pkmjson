@@ -1,0 +1,28 @@
+{
+  "id": "swsh10.5-poke-ball-tin-display",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "case",
+  "name": "Pokemon GO Poke Ball Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 653721
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Poke Ball Tin Display",
+      "releaseDate": "2022-08-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271511
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271511/pokemon-pokemon-go-pokemon-go-poke-ball-tin-display"
+      ]
+    }
+  ]
+}

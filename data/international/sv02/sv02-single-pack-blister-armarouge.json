@@ -1,0 +1,37 @@
+{
+  "id": "sv02-single-pack-blister-armarouge",
+  "region": "international",
+  "set": "sv02",
+  "category": "blister",
+  "name": "Paldea Evolved Single Pack Blister [Armarouge]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Dondozo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Single Pack Blister [Armarouge]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          618829
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/618829/pokemon-sv02-paldea-evolved-paldea-evolved-single-pack-blister-armarouge"
+      ]
+    }
+  ]
+}

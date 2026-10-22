@@ -1,0 +1,41 @@
+{
+  "id": "swsh11-single-pack-blister-scorbunny",
+  "region": "international",
+  "set": "swsh11",
+  "category": "blister",
+  "name": "Lost Origin Single Pack Blister [Scorbunny]",
+  "identifiers": {
+    "cardmarketProductId": 666152
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh11-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Scorbunny.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Single Pack Blister [Scorbunny]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277328
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277328/pokemon-swsh11-lost-origin-lost-origin-single-pack-blister-scorbunny"
+      ]
+    }
+  ]
+}

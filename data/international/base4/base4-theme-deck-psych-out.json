@@ -1,0 +1,27 @@
+{
+  "id": "base4-theme-deck-psych-out",
+  "region": "international",
+  "set": "base4",
+  "category": "theme_deck",
+  "name": "Base Set 2 Theme Deck - \"Psych Out\"",
+  "identifiers": {
+    "cardmarketProductId": 286501
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set 2 Theme Deck - \"Psych Out\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107614
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107614/pokemon-base-set-2-base-set-2-theme-deck-psych-out"
+      ]
+    }
+  ]
+}

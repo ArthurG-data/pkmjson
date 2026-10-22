@@ -1,0 +1,44 @@
+{
+  "id": "swsh10.5-tin-snorlax",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "tin",
+  "name": "Pokemon GO Tin [Snorlax]",
+  "identifiers": {
+    "cardmarketProductId": 653711
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh10.5-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Pikachu; 1 additional foil card featuring Pikachu, Snorlax, or Blissey.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Tin [Snorlax]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          270727
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/270727/pokemon-pokemon-go-pokemon-go-tin-snorlax"
+      ]
+    }
+  ]
+}

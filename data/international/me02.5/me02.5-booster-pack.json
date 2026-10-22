@@ -1,0 +1,28 @@
+{
+  "id": "me02.5-booster-pack",
+  "region": "international",
+  "set": "me02.5",
+  "category": "booster_pack",
+  "name": "Ascended Heroes Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 860562
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Booster Pack",
+      "releaseDate": "2026-01-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672434
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672434/pokemon-me-ascended-heroes-ascended-heroes-booster-pack"
+      ]
+    }
+  ]
+}

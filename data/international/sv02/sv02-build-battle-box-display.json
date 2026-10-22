@@ -1,0 +1,24 @@
+{
+  "id": "sv02-build-battle-box-display",
+  "region": "international",
+  "set": "sv02",
+  "category": "case",
+  "name": "Paldea Evolved Build & Battle Box Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Build & Battle Box Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496931
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496931/pokemon-sv02-paldea-evolved-paldea-evolved-build-and-battle-box-display"
+      ]
+    }
+  ]
+}

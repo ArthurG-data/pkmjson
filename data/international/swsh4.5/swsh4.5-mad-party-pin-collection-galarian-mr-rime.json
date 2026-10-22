@@ -1,0 +1,31 @@
+{
+  "id": "swsh4.5-mad-party-pin-collection-galarian-mr-rime",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "collection_box",
+  "name": "Shining Fates Mad Party Pin Collection [Galarian Mr. Rime]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: one foil promo card featuring Galarian Mr.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mad Party Pin Collection [Galarian Mr. Rime]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228828
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228828/pokemon-shining-fates-shining-fates-mad-party-pin-collection-galarian-mr-rime"
+      ]
+    }
+  ]
+}

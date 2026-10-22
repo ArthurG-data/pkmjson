@@ -1,0 +1,28 @@
+{
+  "id": "swsh3-booster-pack",
+  "region": "international",
+  "set": "swsh3",
+  "category": "booster_pack",
+  "name": "Darkness Ablaze Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 462244
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Booster Pack",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216852
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216852/pokemon-swsh03-darkness-ablaze-darkness-ablaze-booster-pack"
+      ]
+    }
+  ]
+}

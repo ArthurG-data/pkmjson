@@ -1,0 +1,46 @@
+{
+  "id": "sm11-porygon-z-gx-box",
+  "region": "international",
+  "set": "sm11",
+  "category": "collection_box",
+  "name": "Porygon-Z GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM216",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 198531,
+        "cardmarketProductId": 403109,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize card featuring Porygon-Z GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Porygon-Z GX Box",
+      "releaseDate": "2019-09-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198521
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198521/pokemon-sm-unified-minds-porygon-z-gx-box"
+      ]
+    }
+  ]
+}

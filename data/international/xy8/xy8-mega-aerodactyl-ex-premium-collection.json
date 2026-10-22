@@ -1,0 +1,24 @@
+{
+  "id": "xy8-mega-aerodactyl-ex-premium-collection",
+  "region": "international",
+  "set": "xy8",
+  "category": "premium_collection",
+  "name": "Mega Aerodactyl EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Aerodactyl EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117277
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117277/pokemon-xy-breakthrough-mega-aerodactyl-ex-premium-collection"
+      ]
+    }
+  ]
+}

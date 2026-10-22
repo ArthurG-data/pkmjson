@@ -1,0 +1,66 @@
+{
+  "id": "me02.5-first-partners-deluxe-pin-collection",
+  "region": "international",
+  "set": "me02.5",
+  "category": "collection_box",
+  "name": "Ascended Heroes First Partners Deluxe Pin Collection",
+  "identifiers": {
+    "cardmarketProductId": 864106
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "me02.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "mep-046",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 699870,
+        "cardmarketProductId": 886615,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "mep-050",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 699874,
+        "cardmarketProductId": 886619,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "mep-048",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 699872,
+        "cardmarketProductId": 886617,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Deluxe pin featuring Chikorita, Tepig, Totodile",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes First Partners Deluxe Pin Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672391
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/672391/pokemon-me-ascended-heroes-ascended-heroes-first-partners-deluxe-pin-collection"
+      ]
+    }
+  ]
+}

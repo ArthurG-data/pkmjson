@@ -1,0 +1,24 @@
+{
+  "id": "xy12-mega-garchomp-ex-premium-collection",
+  "region": "international",
+  "set": "xy12",
+  "category": "premium_collection",
+  "name": "Mega Garchomp EX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Garchomp EX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          125738
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/125738/pokemon-xy-evolutions-mega-garchomp-ex-premium-collection"
+      ]
+    }
+  ]
+}

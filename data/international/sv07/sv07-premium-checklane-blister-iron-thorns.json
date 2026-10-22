@@ -1,0 +1,41 @@
+{
+  "id": "sv07-premium-checklane-blister-iron-thorns",
+  "region": "international",
+  "set": "sv07",
+  "category": "blister",
+  "name": "Stellar Crown Premium Checklane Blister [Iron Thorns]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards featuring Future Pokemon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Premium Checklane Blister [Iron Thorns]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          599943
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/599943/pokemon-sv07-stellar-crown-stellar-crown-premium-checklane-blister-iron-thorns"
+      ]
+    }
+  ]
+}

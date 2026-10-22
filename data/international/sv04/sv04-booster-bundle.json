@@ -1,0 +1,35 @@
+{
+  "id": "sv04-booster-bundle",
+  "region": "international",
+  "set": "sv04",
+  "category": "booster_bundle",
+  "name": "Paradox Rift Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 728731
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Rift Booster Bundle",
+      "releaseDate": "2023-11-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          512820
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/512820/pokemon-sv04-paradox-rift-paradox-rift-booster-bundle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "swsh3.5-special-pin-collection-circhester",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "collection_box",
+  "name": "Champion's Path Special Pin Collection [Circhester]",
+  "identifiers": {
+    "cardmarketProductId": 488269
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH051",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 222071,
+        "cardmarketProductId": 505895,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pins featuring both Gym logos",
+        "count": 2
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring both Gym Leaders’ partner Pokémon: Coalossal.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Special Pin Collection [Circhester]",
+      "releaseDate": "2020-10-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218803
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218803/pokemon-champions-path-champions-path-special-pin-collection-circhester"
+      ]
+    }
+  ]
+}

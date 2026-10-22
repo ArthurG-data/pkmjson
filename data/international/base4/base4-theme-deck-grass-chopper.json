@@ -1,0 +1,27 @@
+{
+  "id": "base4-theme-deck-grass-chopper",
+  "region": "international",
+  "set": "base4",
+  "category": "theme_deck",
+  "name": "Base Set 2 Theme Deck - \"Grass Chopper\"",
+  "identifiers": {
+    "cardmarketProductId": 286498
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set 2 Theme Deck - \"Grass Chopper\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107611
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107611/pokemon-base-set-2-base-set-2-theme-deck-grass-chopper"
+      ]
+    }
+  ]
+}

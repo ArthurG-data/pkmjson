@@ -1,0 +1,24 @@
+{
+  "id": "swsh2-build-battle-display",
+  "region": "international",
+  "set": "swsh2",
+  "category": "case",
+  "name": "Rebel Clash Build & Battle Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rebel Clash Build & Battle Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          212820
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/212820/pokemon-swsh02-rebel-clash-rebel-clash-build-and-battle-display"
+      ]
+    }
+  ]
+}

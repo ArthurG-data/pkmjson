@@ -1,0 +1,34 @@
+{
+  "id": "swsh11-booster-bundle",
+  "region": "international",
+  "set": "swsh11",
+  "category": "booster_bundle",
+  "name": "Lost Origin Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 666176
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh11-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Booster Bundle",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          278819
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/278819/pokemon-swsh11-lost-origin-lost-origin-booster-bundle"
+      ]
+    }
+  ]
+}

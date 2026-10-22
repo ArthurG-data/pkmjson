@@ -1,0 +1,42 @@
+{
+  "id": "swsh4.5-mini-tin-kyogre",
+  "region": "international",
+  "set": "swsh4.5",
+  "category": "tin",
+  "name": "Shining Fates Mini Tin [Kyogre]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh4.5-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin [Kyogre]",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shining Fates Mini Tin [Kyogre]",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230960
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230960/pokemon-shining-fates-shining-fates-mini-tin-kyogre"
+      ]
+    }
+  ]
+}

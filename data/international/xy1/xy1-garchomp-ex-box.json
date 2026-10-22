@@ -1,0 +1,31 @@
+{
+  "id": "xy1-garchomp-ex-box",
+  "region": "international",
+  "set": "xy1",
+  "category": "collection_box",
+  "name": "Garchomp EX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Black & White)",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional Garchomp EX card, both standard and Jumbo sized; 4 booster packs (3 XY.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Garchomp EX Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97729
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97729/pokemon-xy-base-set-garchomp-ex-box"
+      ]
+    }
+  ]
+}

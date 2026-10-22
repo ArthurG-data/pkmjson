@@ -1,0 +1,27 @@
+{
+  "id": "bw7-booster-pack",
+  "region": "international",
+  "set": "bw7",
+  "category": "booster_pack",
+  "name": "Boundaries Crossed Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271881
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Boundaries Crossed Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98554
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98554/pokemon-boundaries-crossed-boundaries-crossed-booster-pack"
+      ]
+    }
+  ]
+}

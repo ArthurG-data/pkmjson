@@ -1,0 +1,51 @@
+{
+  "id": "sm11-single-pack-blister-sudowoodo",
+  "region": "international",
+  "set": "sm11",
+  "category": "blister",
+  "name": "Unified Minds Single Pack Blister [Sudowoodo]",
+  "identifiers": {
+    "cardmarketProductId": 585906
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM207",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 199488,
+        "cardmarketProductId": 377535,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds Single Pack Blister [Sudowoodo]",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191887
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191887/pokemon-sm-unified-minds-unified-minds-single-pack-blister-sudowoodo"
+      ]
+    }
+  ]
+}

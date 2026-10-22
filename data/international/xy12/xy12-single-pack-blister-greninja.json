@@ -1,0 +1,40 @@
+{
+  "id": "xy12-single-pack-blister-greninja",
+  "region": "international",
+  "set": "xy12",
+  "category": "blister",
+  "name": "XY Evolutions Single Pack Blister [Greninja]",
+  "identifiers": {
+    "cardmarketProductId": 586325
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy12-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Greninja.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Evolutions Single Pack Blister [Greninja]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          603422
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/603422/pokemon-xy-evolutions-xy-evolutions-single-pack-blister-greninja"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "gym2-theme-deck-giovanni",
+  "region": "international",
+  "set": "gym2",
+  "category": "theme_deck",
+  "name": "Gym Challenge Theme Deck - \"Giovanni\"",
+  "identifiers": {
+    "cardmarketProductId": 286511
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Combination of cards from the Base Set 2 and Gym Challenge expansions: 28 Gym Challenge Energy cards",
+        "count": 1
+      },
+      {
+        "name": "Gym Challenge cards other than Energy, with some duplicates, for a total of 60 cards",
+        "count": 25
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 7 Base Set 2 cards, with some duplicates; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Gym Challenge Theme Deck - \"Giovanni\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277128
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277128/pokemon-gym-challenge-gym-challenge-theme-deck-giovanni"
+      ]
+    }
+  ]
+}

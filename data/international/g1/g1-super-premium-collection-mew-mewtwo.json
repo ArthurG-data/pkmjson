@@ -1,0 +1,52 @@
+{
+  "id": "g1-super-premium-collection-mew-mewtwo",
+  "region": "international",
+  "set": "g1",
+  "category": "premium_collection",
+  "name": "Super-Premium Collection [Mew & Mewtwo]",
+  "identifiers": {
+    "cardmarketProductId": 574337
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "g1-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Sculpted figure featuring Mew and Mewtwo",
+        "count": 1
+      },
+      {
+        "name": "Collector's boxes to hold everything, with 12 dividers to keep your collection organized",
+        "count": 3
+      },
+      {
+        "name": "Art book that goes behind the scenes with Pokémon TCG illustrators",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Mewtwo EX promo; 1 Mew EX promo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Super-Premium Collection [Mew & Mewtwo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          147223
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/147223/pokemon-generations-super-premium-collection-mew-and-mewtwo"
+      ]
+    }
+  ]
+}

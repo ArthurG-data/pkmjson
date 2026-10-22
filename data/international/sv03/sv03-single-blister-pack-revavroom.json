@@ -1,0 +1,31 @@
+{
+  "id": "sv03-single-blister-pack-revavroom",
+  "region": "international",
+  "set": "sv03",
+  "category": "blister",
+  "name": "Obsidian Flames Single Blister Pack [Revavroom]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Revavroom.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Obsidian Flames Single Blister Pack [Revavroom]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557087
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557087/pokemon-sv03-obsidian-flames-obsidian-flames-single-blister-pack-revavroom"
+      ]
+    }
+  ]
+}

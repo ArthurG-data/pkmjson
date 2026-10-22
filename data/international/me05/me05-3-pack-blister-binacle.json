@@ -1,0 +1,28 @@
+{
+  "id": "me05-3-pack-blister-binacle",
+  "region": "international",
+  "set": "me05",
+  "category": "blister",
+  "name": "Pitch Black 3-Pack Blister [Binacle]",
+  "identifiers": {
+    "cardmarketProductId": 885533
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs; a promotional card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black 3-Pack Blister [Binacle]",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692938
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692938/pokemon-me05-pitch-black-pitch-black-3-pack-blister-binacle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "swsh11-3-pack-blister-set-of-2",
+  "region": "international",
+  "set": "swsh11",
+  "category": "other",
+  "name": "Lost Origin 3 Pack Blister [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Regigigas or Weavile; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin 3 Pack Blister [Set of 2]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          278792
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/278792/pokemon-swsh11-lost-origin-lost-origin-3-pack-blister-set-of-2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sv08-single-pack-blister-wooper",
+  "region": "international",
+  "set": "sv08",
+  "category": "blister",
+  "name": "Surging Sparks Single Pack Blister [Wooper]",
+  "identifiers": {
+    "cardmarketProductId": 784955
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "svp-155",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 594389,
+        "cardmarketProductId": 796925,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Single Pack Blister [Wooper]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565636
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565636/pokemon-sv08-surging-sparks-surging-sparks-single-pack-blister-wooper"
+      ]
+    }
+  ]
+}

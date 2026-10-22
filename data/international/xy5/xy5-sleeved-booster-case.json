@@ -1,0 +1,31 @@
+{
+  "id": "xy5-sleeved-booster-case",
+  "region": "international",
+  "set": "xy5",
+  "category": "case",
+  "name": "Primal Clash Sleeved Booster Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy5-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Primal Clash Sleeved Booster Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656978
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656978/pokemon-xy-primal-clash-primal-clash-sleeved-booster-case"
+      ]
+    }
+  ]
+}

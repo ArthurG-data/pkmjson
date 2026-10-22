@@ -1,0 +1,24 @@
+{
+  "id": "xy4-hoenn-collection-primal-groudon-ex",
+  "region": "international",
+  "set": "xy4",
+  "category": "collection_box",
+  "name": "Hoenn Collection [Primal Groudon EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hoenn Collection [Primal Groudon EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97789
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97789/pokemon-xy-phantom-forces-hoenn-collection-primal-groudon-ex"
+      ]
+    }
+  ]
+}

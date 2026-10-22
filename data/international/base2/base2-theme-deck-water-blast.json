@@ -1,0 +1,27 @@
+{
+  "id": "base2-theme-deck-water-blast",
+  "region": "international",
+  "set": "base2",
+  "category": "theme_deck",
+  "name": "Jungle Theme Deck - \"Water Blast\"",
+  "identifiers": {
+    "cardmarketProductId": 286493
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Jungle Theme Deck - \"Water Blast\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234499
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234499/pokemon-jungle-jungle-theme-deck-water-blast"
+      ]
+    }
+  ]
+}

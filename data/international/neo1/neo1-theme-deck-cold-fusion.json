@@ -1,0 +1,27 @@
+{
+  "id": "neo1-theme-deck-cold-fusion",
+  "region": "international",
+  "set": "neo1",
+  "category": "theme_deck",
+  "name": "Neo Genesis Theme Deck - \"Cold Fusion\"",
+  "identifiers": {
+    "cardmarketProductId": 286565
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Genesis Theme Deck - \"Cold Fusion\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          234505
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/234505/pokemon-neo-genesis-neo-genesis-theme-deck-cold-fusion"
+      ]
+    }
+  ]
+}

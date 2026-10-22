@@ -1,0 +1,50 @@
+{
+  "id": "swsh12-single-pack-blister-cranidos",
+  "region": "international",
+  "set": "swsh12",
+  "category": "blister",
+  "name": "Silver Tempest Single Pack Blister [Cranidos]",
+  "identifiers": {
+    "cardmarketProductId": 672605
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12-booster-pack",
+        "count": 1
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH274",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 454227,
+        "cardmarketProductId": 684386,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Silver Tempest Single Pack Blister [Cranidos]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          285781
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/285781/pokemon-swsh12-silver-tempest-silver-tempest-single-pack-blister-cranidos"
+      ]
+    }
+  ]
+}

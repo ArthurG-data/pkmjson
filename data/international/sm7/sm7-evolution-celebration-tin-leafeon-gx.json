@@ -1,0 +1,31 @@
+{
+  "id": "sm7-evolution-celebration-tin-leafeon-gx",
+  "region": "international",
+  "set": "sm7",
+  "category": "tin",
+  "name": "Evolution Celebration Tin [Leafeon GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a playable deck in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Leafeon GX promo card; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolution Celebration Tin [Leafeon GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175556
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175556/pokemon-sm-celestial-storm-evolution-celebration-tin-leafeon-gx"
+      ]
+    }
+  ]
+}

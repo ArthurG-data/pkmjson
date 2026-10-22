@@ -1,0 +1,24 @@
+{
+  "id": "swsh3-fun-pack",
+  "region": "international",
+  "set": "swsh3",
+  "category": "other",
+  "name": "Darkness Ablaze Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653206
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653206/pokemon-swsh03-darkness-ablaze-darkness-ablaze-fun-pack"
+      ]
+    }
+  ]
+}

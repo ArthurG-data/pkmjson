@@ -1,0 +1,46 @@
+{
+  "id": "swsh5-rapid-strike-urshifu-v-box",
+  "region": "international",
+  "set": "swsh5",
+  "category": "collection_box",
+  "name": "Rapid Strike Urshifu V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH107",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 234297,
+        "cardmarketProductId": 546976,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize cards featuring Rapid Strike Urshifu V",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo Energy cards: Rapid Strike Energy; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rapid Strike Urshifu V Box",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231296
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231296/pokemon-swsh05-battle-styles-rapid-strike-urshifu-v-box"
+      ]
+    }
+  ]
+}

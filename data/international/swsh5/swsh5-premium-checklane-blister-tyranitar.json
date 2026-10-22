@@ -1,0 +1,45 @@
+{
+  "id": "swsh5-premium-checklane-blister-tyranitar",
+  "region": "international",
+  "set": "swsh5",
+  "category": "blister",
+  "name": "Battle Styles Premium Checklane Blister [Tyranitar]",
+  "identifiers": {
+    "cardmarketProductId": 585731
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh5-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Styles Premium Checklane Blister [Tyranitar]",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230191
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230191/pokemon-swsh05-battle-styles-battle-styles-premium-checklane-blister-tyranitar"
+      ]
+    }
+  ]
+}

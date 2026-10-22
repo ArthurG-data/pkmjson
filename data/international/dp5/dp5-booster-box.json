@@ -1,0 +1,27 @@
+{
+  "id": "dp5-booster-box",
+  "region": "international",
+  "set": "dp5",
+  "category": "booster_box",
+  "name": "Majestic Dawn Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271903
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Majestic Dawn Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98584
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98584/pokemon-majestic-dawn-majestic-dawn-booster-box"
+      ]
+    }
+  ]
+}

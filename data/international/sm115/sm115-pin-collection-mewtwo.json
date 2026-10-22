@@ -1,0 +1,42 @@
+{
+  "id": "sm115-pin-collection-mewtwo",
+  "region": "international",
+  "set": "sm115",
+  "category": "collection_box",
+  "name": "Hidden Fates Pin Collection [Mewtwo]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm115-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin of Mewtwo",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Promo card of Mewtwo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Fates Pin Collection [Mewtwo]",
+      "releaseDate": "2019-08-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          193440
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/193440/pokemon-hidden-fates-hidden-fates-pin-collection-mewtwo"
+      ]
+    }
+  ]
+}

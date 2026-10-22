@@ -1,0 +1,24 @@
+{
+  "id": "sm2-espeon-gx-premium-collection",
+  "region": "international",
+  "set": "sm2",
+  "category": "premium_collection",
+  "name": "Espeon GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: an oversized card of Espeon GX; an alternate art Promo of Espeon GX, collector's pin and coin; 6 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Espeon GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          137523
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/137523/pokemon-sm-guardians-rising-espeon-gx-premium-collection"
+      ]
+    }
+  ]
+}

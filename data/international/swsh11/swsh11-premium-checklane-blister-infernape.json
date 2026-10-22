@@ -1,0 +1,45 @@
+{
+  "id": "swsh11-premium-checklane-blister-infernape",
+  "region": "international",
+  "set": "swsh11",
+  "category": "blister",
+  "name": "Lost Origin Premium Checklane Blister [Infernape]",
+  "identifiers": {
+    "cardmarketProductId": 672595
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh11-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Premium Checklane Blister [Infernape]",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277331
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277331/pokemon-swsh11-lost-origin-lost-origin-premium-checklane-blister-infernape"
+      ]
+    }
+  ]
+}

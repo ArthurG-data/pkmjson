@@ -1,0 +1,39 @@
+{
+  "id": "sm7-booster-pack",
+  "region": "international",
+  "set": "sm7",
+  "category": "booster_pack",
+  "name": "Celestial Storm Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 357064
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "There are 36 packs per display",
+        "count": 1
+      },
+      {
+        "name": "Displays",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Booster Pack",
+      "releaseDate": "2018-08-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170274
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170274/pokemon-sm-celestial-storm-celestial-storm-booster-pack"
+      ]
+    }
+  ]
+}

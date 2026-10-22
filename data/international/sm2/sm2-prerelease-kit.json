@@ -1,0 +1,31 @@
+{
+  "id": "sm2-prerelease-kit",
+  "region": "international",
+  "set": "sm2",
+  "category": "other",
+  "name": "Guardians Rising Prerelease Kit",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 special 23-card prerelease pack with 1 of 4 exclusive foil prerelease promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Guardians Rising Prerelease Kit",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          131273
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/131273/pokemon-sm-guardians-rising-guardians-rising-prerelease-kit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "swsh10.5-mini-tin-set-of-5",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "other",
+  "name": "Pokemon GO Mini Tin [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Mini Tin [Set of 5]",
+      "releaseDate": "2022-08-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271500
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271500/pokemon-pokemon-go-pokemon-go-mini-tin-set-of-5"
+      ]
+    }
+  ]
+}

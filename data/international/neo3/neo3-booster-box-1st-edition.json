@@ -1,0 +1,24 @@
+{
+  "id": "neo3-booster-box-1st-edition",
+  "region": "international",
+  "set": "neo3",
+  "category": "booster_box",
+  "name": "Neo Revelation Booster Box [1st Edition]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 36 booster packs, each with 11 game cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Neo Revelation Booster Box [1st Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          634445
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/634445/pokemon-neo-revelation-neo-revelation-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

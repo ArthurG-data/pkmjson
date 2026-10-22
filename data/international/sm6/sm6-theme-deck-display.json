@@ -1,0 +1,25 @@
+{
+  "id": "sm6-theme-deck-display",
+  "region": "international",
+  "set": "sm6",
+  "category": "case",
+  "name": "Forbidden Light Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Forbidden Light Theme Deck Display",
+      "releaseDate": "2018-05-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164304
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164304/pokemon-sm-forbidden-light-forbidden-light-theme-deck-display"
+      ]
+    }
+  ]
+}

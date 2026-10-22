@@ -1,0 +1,36 @@
+{
+  "id": "sm7-lunala-gx-box",
+  "region": "international",
+  "set": "sm7",
+  "category": "collection_box",
+  "name": "Lunala GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil cards of Lunala GX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Lunala GX; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lunala GX Box",
+      "releaseDate": "2018-10-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175559
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175559/pokemon-sm-celestial-storm-lunala-gx-box"
+      ]
+    }
+  ]
+}

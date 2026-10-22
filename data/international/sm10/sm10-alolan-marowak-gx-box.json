@@ -1,0 +1,25 @@
+{
+  "id": "sm10-alolan-marowak-gx-box",
+  "region": "international",
+  "set": "sm10",
+  "category": "collection_box",
+  "name": "Alolan Marowak GX Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alolan Marowak GX Box",
+      "releaseDate": "2019-05-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          189658
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/189658/pokemon-sm-unbroken-bonds-alolan-marowak-gx-box"
+      ]
+    }
+  ]
+}

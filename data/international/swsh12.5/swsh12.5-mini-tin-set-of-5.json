@@ -1,0 +1,25 @@
+{
+  "id": "swsh12.5-mini-tin-set-of-5",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "other",
+  "name": "Crown Zenith Mini Tin [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Crown Zenith Mini Tin [Set of 5]",
+      "releaseDate": "2023-02-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          453494
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/453494/pokemon-swsh-crown-zenith-crown-zenith-mini-tin-set-of-5"
+      ]
+    }
+  ]
+}

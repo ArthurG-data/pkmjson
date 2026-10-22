@@ -1,0 +1,24 @@
+{
+  "id": "xy3-ex-power-trio-tin-charizard-ex",
+  "region": "international",
+  "set": "xy3",
+  "category": "tin",
+  "name": "EX Power Trio Tin [Charizard EX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Power Trio Tin [Charizard EX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97777
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97777/pokemon-xy-furious-fists-ex-power-trio-tin-charizard-ex"
+      ]
+    }
+  ]
+}

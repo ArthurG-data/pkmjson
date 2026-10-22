@@ -1,0 +1,31 @@
+{
+  "id": "swsh3-single-blister-pack-silicobra-sandaconda",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Sword & Shield Single Blister Pack [Silicobra & Sandaconda]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Silicobra, Sandaconda.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Single Blister Pack [Silicobra & Sandaconda]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668524
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668524/pokemon-swsh03-darkness-ablaze-sword-and-shield-single-blister-pack-silicobra-and-sandaconda"
+      ]
+    }
+  ]
+}

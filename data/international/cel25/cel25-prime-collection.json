@@ -1,0 +1,74 @@
+{
+  "id": "cel25-prime-collection",
+  "region": "international",
+  "set": "cel25",
+  "category": "collection_box",
+  "name": "Celebrations Prime Collection",
+  "identifiers": {
+    "cardmarketProductId": 576729
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cel25-booster-pack",
+        "count": 3
+      }
+    ],
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH137",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 251093,
+        "cardmarketProductId": 576736,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokémon 25 logo Collector Chest with a dozen additional treasures",
+        "count": 1
+      },
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Information sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 additional Pokémon TCG booster packs (Packs and contents may vary.); 1 promo card featuring Mimikyu  Delta Species ; 1 promo card featuring Dragapult  Prime; 1 promo card featuring Hydreigon C.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Prime Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          252416
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/252416/pokemon-celebrations-celebrations-prime-collection"
+      ]
+    }
+  ]
+}

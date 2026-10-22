@@ -1,0 +1,24 @@
+{
+  "id": "bw1-collector-s-album-box",
+  "region": "international",
+  "set": "bw1",
+  "category": "collection_box",
+  "name": "Collector's Album Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Collector's Album Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98614
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98614/pokemon-black-and-white-collectors-album-box"
+      ]
+    }
+  ]
+}

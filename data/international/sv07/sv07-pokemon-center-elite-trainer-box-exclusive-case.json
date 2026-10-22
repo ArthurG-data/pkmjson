@@ -1,0 +1,24 @@
+{
+  "id": "sv07-pokemon-center-elite-trainer-box-exclusive-case",
+  "region": "international",
+  "set": "sv07",
+  "category": "case",
+  "name": "Stellar Crown Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Pokemon Center Elite Trainer Box (Exclusive) Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557363
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557363/pokemon-sv07-stellar-crown-stellar-crown-pokemon-center-elite-trainer-box-exclusive-case"
+      ]
+    }
+  ]
+}

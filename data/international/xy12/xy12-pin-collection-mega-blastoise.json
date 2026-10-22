@@ -1,0 +1,37 @@
+{
+  "id": "xy12-pin-collection-mega-blastoise",
+  "region": "international",
+  "set": "xy12",
+  "category": "collection_box",
+  "name": "XY - Evolutions Pin Collection [Mega Blastoise]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy12-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible pin of Mega Blastoise",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 random XY booster pack.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY - Evolutions Pin Collection [Mega Blastoise]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229351
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229351/pokemon-xy-evolutions-xy-evolutions-pin-collection-mega-blastoise"
+      ]
+    }
+  ]
+}

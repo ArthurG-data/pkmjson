@@ -1,0 +1,35 @@
+{
+  "id": "ex4-ex-ruby-sapphire-theme-deck-ruby-blaziken",
+  "region": "international",
+  "set": "ex4",
+  "category": "theme_deck",
+  "name": "EX Ruby & Sapphire Theme Deck - \"Ruby\" [Blaziken]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Ruby & Sapphire Theme Deck - \"Ruby\" [Blaziken]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488309
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/488309/pokemon-ex-team-magma-vs-team-aqua-ex-ruby-and-sapphire-theme-deck-ruby-blaziken"
+      ]
+    }
+  ]
+}

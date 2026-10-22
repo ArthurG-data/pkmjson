@@ -1,0 +1,36 @@
+{
+  "id": "sm4-shiny-silvally-gx-box",
+  "region": "international",
+  "set": "sm4",
+  "category": "collection_box",
+  "name": "Shiny Silvally GX Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Jumbo version",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil promo card of Shiny Silvally GX (SM91); 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Shiny Silvally GX Box",
+      "releaseDate": "2017-11-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          152598
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/152598/pokemon-sm-crimson-invasion-shiny-silvally-gx-box"
+      ]
+    }
+  ]
+}

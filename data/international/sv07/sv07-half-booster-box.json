@@ -1,0 +1,34 @@
+{
+  "id": "sv07-half-booster-box",
+  "region": "international",
+  "set": "sv07",
+  "category": "half_booster_box",
+  "name": "Stellar Crown Half Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 776326
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 18
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Half Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649420
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649420/pokemon-sv07-stellar-crown-stellar-crown-half-booster-box"
+      ]
+    }
+  ]
+}

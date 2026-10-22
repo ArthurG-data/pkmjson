@@ -1,0 +1,31 @@
+{
+  "id": "sm2-triple-effect-tin-flareon",
+  "region": "international",
+  "set": "sm2",
+  "category": "tin",
+  "name": "Triple Effect Tin [Flareon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokemon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; a cosmos holofoil promo of Flareon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Effect Tin [Flareon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          177868
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/177868/pokemon-sm-guardians-rising-triple-effect-tin-flareon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sm4-ultra-beasts-gx-premium-collection-pheromosa-gx-celesteela-gx",
+  "region": "international",
+  "set": "sm4",
+  "category": "premium_collection",
+  "name": "Ultra Beasts GX Premium Collection [Pheromosa GX & Celesteela GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special plamat",
+        "count": 1
+      },
+      {
+        "name": "Collectible coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 Pokemon TCG booster packs; 1 Pheromosa GX holofoil promo; 1 Pheromosa GX holofoil Jumbo promo; 1 Celesteela GX holofoil promo.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Beasts GX Premium Collection [Pheromosa GX & Celesteela GX]",
+      "releaseDate": "2017-11-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          149375
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/149375/pokemon-sm-crimson-invasion-ultra-beasts-gx-premium-collection-pheromosa-gx-and-celesteela-gx"
+      ]
+    }
+  ]
+}

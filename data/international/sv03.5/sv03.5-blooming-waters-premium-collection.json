@@ -1,0 +1,38 @@
+{
+  "id": "sv03.5-blooming-waters-premium-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "premium_collection",
+  "name": "Blooming Waters Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 807118
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Blastoise ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Venusaur ex; 1 promo card featuring Blastoise ex; 1 promo card featuring Bulbasaur; 1 promo card featuring Squirtle; 12 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Blooming Waters Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          609597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/609597/pokemon-sv-scarlet-and-violet-151-blooming-waters-premium-collection"
+      ]
+    }
+  ]
+}

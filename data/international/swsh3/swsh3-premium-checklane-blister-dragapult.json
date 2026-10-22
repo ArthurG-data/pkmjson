@@ -1,0 +1,45 @@
+{
+  "id": "swsh3-premium-checklane-blister-dragapult",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Darkness Ablaze Premium Checklane Blister [Dragapult]",
+  "identifiers": {
+    "cardmarketProductId": 585876
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Premium Checklane Blister [Dragapult]",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220108
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220108/pokemon-swsh03-darkness-ablaze-darkness-ablaze-premium-checklane-blister-dragapult"
+      ]
+    }
+  ]
+}

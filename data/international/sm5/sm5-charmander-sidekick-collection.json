@@ -1,0 +1,31 @@
+{
+  "id": "sm5-charmander-sidekick-collection",
+  "region": "international",
+  "set": "sm5",
+  "category": "collection_box",
+  "name": "Charmander Sidekick Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Awesome dangler featuring Charmander",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A foil promo card featuring Charmander (18a/147); 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Charmander Sidekick Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          186105
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/186105/pokemon-sm-ultra-prism-charmander-sidekick-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swsh11-swsh11-build-battle-box-case",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Lost Origin SWSH11 Build & Battle Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin SWSH11 Build & Battle Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496024
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496024/pokemon-swsh11-lost-origin-lost-origin-swsh11-build-and-battle-box-case"
+      ]
+    }
+  ]
+}

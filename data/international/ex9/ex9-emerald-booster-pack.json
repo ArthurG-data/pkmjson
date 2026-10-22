@@ -1,0 +1,27 @@
+{
+  "id": "ex9-emerald-booster-pack",
+  "region": "international",
+  "set": "ex9",
+  "category": "booster_pack",
+  "name": "Emerald Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 271843
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Emerald Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98546
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98546/pokemon-ex-emerald-emerald-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sv10-premium-checklane-blister-gastrodon",
+  "region": "international",
+  "set": "sv10",
+  "category": "blister",
+  "name": "Destined Rivals Premium Checklane Blister [Gastrodon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards featuring an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Premium Checklane Blister [Gastrodon]",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628395
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628395/pokemon-sv10-destined-rivals-destined-rivals-premium-checklane-blister-gastrodon"
+      ]
+    }
+  ]
+}

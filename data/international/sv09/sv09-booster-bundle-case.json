@@ -1,0 +1,31 @@
+{
+  "id": "sv09-booster-bundle-case",
+  "region": "international",
+  "set": "sv09",
+  "category": "case",
+  "name": "Journey Together Booster Bundle Case",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv09-booster-bundle",
+        "count": 25
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Booster Bundle Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625584
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625584/pokemon-sv09-journey-together-journey-together-booster-bundle-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sv07-single-pack-blister-porygon2",
+  "region": "international",
+  "set": "sv07",
+  "category": "blister",
+  "name": "Stellar Crown Single Pack Blister [Porygon2]",
+  "identifiers": {
+    "cardmarketProductId": 776332
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv07-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Porygon2.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Stellar Crown Single Pack Blister [Porygon2]",
+      "releaseDate": "2024-09-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557341
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/557341/pokemon-sv07-stellar-crown-stellar-crown-single-pack-blister-porygon2"
+      ]
+    }
+  ]
+}

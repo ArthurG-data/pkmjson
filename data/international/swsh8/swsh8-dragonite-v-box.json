@@ -1,0 +1,32 @@
+{
+  "id": "swsh8-dragonite-v-box",
+  "region": "international",
+  "set": "swsh8",
+  "category": "collection_box",
+  "name": "Dragonite V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Dragonite V; 1 foil oversized card featuring Dragonite V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragonite V Box",
+      "releaseDate": "2021-11-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245876
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245876/pokemon-swsh08-fusion-strike-dragonite-v-box"
+      ]
+    }
+  ]
+}

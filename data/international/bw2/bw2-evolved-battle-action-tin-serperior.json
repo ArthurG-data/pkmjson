@@ -1,0 +1,24 @@
+{
+  "id": "bw2-evolved-battle-action-tin-serperior",
+  "region": "international",
+  "set": "bw2",
+  "category": "tin",
+  "name": "Evolved Battle Action Tin [Serperior]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolved Battle Action Tin [Serperior]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98623
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98623/pokemon-emerging-powers-evolved-battle-action-tin-serperior"
+      ]
+    }
+  ]
+}

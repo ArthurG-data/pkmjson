@@ -1,0 +1,25 @@
+{
+  "id": "sv03.5-151-poster-collection-case",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "case",
+  "name": "151 Poster Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Poster Collection Case",
+      "releaseDate": "2023-09-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502002
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502002/pokemon-sv-scarlet-and-violet-151-151-poster-collection-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sv09-single-pack-blister-archaludon",
+  "region": "international",
+  "set": "sv09",
+  "category": "blister",
+  "name": "Journey Together Single Pack Blister [Archaludon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Archaludon and Duraludon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Journey Together Single Pack Blister [Archaludon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          626562
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/626562/pokemon-sv09-journey-together-journey-together-single-pack-blister-archaludon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sv04.5-great-tusk-ex-iron-treads-ex-premium-collection",
+  "region": "international",
+  "set": "sv04.5",
+  "category": "premium_collection",
+  "name": "Paldean Fates Great Tusk ex & Iron Treads ex Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 866034
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv04.5-booster-pack",
+        "count": 11
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Shiny Great Tusk ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Shiny Great Tusk ex; 1 promo card featuring Shiny Iron Treads ex; 1 promo card featuring Great Tusk; 1 promo card featuring Iron Treads.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldean Fates Great Tusk ex & Iron Treads ex Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          665113
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/665113/pokemon-sv-paldean-fates-paldean-fates-great-tusk-ex-and-iron-treads-ex-premium-collection"
+      ]
+    }
+  ]
+}

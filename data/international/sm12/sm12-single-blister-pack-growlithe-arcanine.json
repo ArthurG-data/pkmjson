@@ -1,0 +1,31 @@
+{
+  "id": "sm12-single-blister-pack-growlithe-arcanine",
+  "region": "international",
+  "set": "sm12",
+  "category": "blister",
+  "name": "Sun & Moon Single Blister Pack [Growlithe & Arcanine]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Meltan, Melmetal.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sun & Moon Single Blister Pack [Growlithe & Arcanine]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668512
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668512/pokemon-sm-cosmic-eclipse-sun-and-moon-single-blister-pack-growlithe-and-arcanine"
+      ]
+    }
+  ]
+}

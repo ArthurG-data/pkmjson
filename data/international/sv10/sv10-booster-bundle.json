@@ -1,0 +1,35 @@
+{
+  "id": "sv10-booster-bundle",
+  "region": "international",
+  "set": "sv10",
+  "category": "booster_bundle",
+  "name": "Destined Rivals Booster Bundle",
+  "identifiers": {
+    "cardmarketProductId": 818578
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-booster-pack",
+        "count": 6
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Booster Bundle",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625670
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625670/pokemon-sv10-destined-rivals-destined-rivals-booster-bundle"
+      ]
+    }
+  ]
+}

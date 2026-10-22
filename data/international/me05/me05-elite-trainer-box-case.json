@@ -1,0 +1,28 @@
+{
+  "id": "me05-elite-trainer-box-case",
+  "region": "international",
+  "set": "me05",
+  "category": "case",
+  "name": "Pitch Black Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 885529
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pitch Black Elite Trainer Box Case",
+      "releaseDate": "2026-07-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692948
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692948/pokemon-me05-pitch-black-pitch-black-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

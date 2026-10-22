@@ -1,0 +1,27 @@
+{
+  "id": "xy12-booster-box",
+  "region": "international",
+  "set": "xy12",
+  "category": "booster_box",
+  "name": "XY Evolutions Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 293332
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Evolutions Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          123446
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/123446/pokemon-xy-evolutions-xy-evolutions-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "swsh3.5-pin-collection-ballonlea-gym",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "collection_box",
+  "name": "Champion's Path Pin Collection [Ballonlea Gym]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh3.5-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector’s pin featuring the Gym logo",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring the Gym Leader’s partner Pokémon: Alcremie.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Pin Collection [Ballonlea Gym]",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218799
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218799/pokemon-champions-path-champions-path-pin-collection-ballonlea-gym"
+      ]
+    }
+  ]
+}

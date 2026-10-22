@@ -1,0 +1,24 @@
+{
+  "id": "base1-pokemon-1st-edition-booster-pack",
+  "region": "international",
+  "set": "base1",
+  "category": "booster_pack",
+  "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          138132
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/138132/pokemon-base-set-shadowless-pokemon-base-set-shadowless-1st-edition-booster-pack"
+      ]
+    }
+  ]
+}

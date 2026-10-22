@@ -1,0 +1,27 @@
+{
+  "id": "sm7-theme-deck-leaf-charge-sceptile",
+  "region": "international",
+  "set": "sm7",
+  "category": "theme_deck",
+  "name": "Celestial Storm Theme Deck - \"Leaf Charge\" [Sceptile]",
+  "identifiers": {
+    "cardmarketProductId": 361597
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celestial Storm Theme Deck - \"Leaf Charge\" [Sceptile]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170278
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170278/pokemon-sm-celestial-storm-celestial-storm-theme-deck-leaf-charge-sceptile"
+      ]
+    }
+  ]
+}

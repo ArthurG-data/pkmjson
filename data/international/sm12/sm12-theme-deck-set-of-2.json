@@ -1,0 +1,25 @@
+{
+  "id": "sm12-theme-deck-set-of-2",
+  "region": "international",
+  "set": "sm12",
+  "category": "other",
+  "name": "Cosmic Eclipse Theme Deck [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cosmic Eclipse Theme Deck [Set of 2]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199304
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199304/pokemon-sm-cosmic-eclipse-cosmic-eclipse-theme-deck-set-of-2"
+      ]
+    }
+  ]
+}

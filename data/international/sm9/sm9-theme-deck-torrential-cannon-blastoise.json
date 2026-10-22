@@ -1,0 +1,38 @@
+{
+  "id": "sm9-theme-deck-torrential-cannon-blastoise",
+  "region": "international",
+  "set": "sm9",
+  "category": "theme_deck",
+  "name": "Team Up Theme Deck - \"Torrential Cannon\" [Blastoise]",
+  "identifiers": {
+    "cardmarketProductId": 367369
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Up Theme Deck - \"Torrential Cannon\" [Blastoise]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181706
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181706/pokemon-sm-team-up-team-up-theme-deck-torrential-cannon-blastoise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xy3-elite-trainer-box",
+  "region": "international",
+  "set": "xy3",
+  "category": "elite_trainer_box",
+  "name": "Furious Fists Elite Trainer Box",
+  "identifiers": {
+    "cardmarketProductId": 286948
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Furious Fists Elite Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          95284
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/95284/pokemon-xy-furious-fists-furious-fists-elite-trainer-box"
+      ]
+    }
+  ]
+}

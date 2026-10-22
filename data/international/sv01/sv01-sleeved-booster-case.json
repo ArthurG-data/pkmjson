@@ -1,0 +1,34 @@
+{
+  "id": "sv01-sleeved-booster-case",
+  "region": "international",
+  "set": "sv01",
+  "category": "case",
+  "name": "Scarlet & Violet Sleeved Booster Case",
+  "identifiers": {
+    "cardmarketProductId": 692094
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Sleeved Booster Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          600076
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/600076/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-case"
+      ]
+    }
+  ]
+}

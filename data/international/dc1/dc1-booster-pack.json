@@ -1,0 +1,27 @@
+{
+  "id": "dc1-booster-pack",
+  "region": "international",
+  "set": "dc1",
+  "category": "booster_pack",
+  "name": "Double Crisis Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 282553
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Double Crisis Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229226
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229226/pokemon-double-crisis-double-crisis-booster-pack"
+      ]
+    }
+  ]
+}

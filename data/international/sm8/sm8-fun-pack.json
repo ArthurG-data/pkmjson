@@ -1,0 +1,24 @@
+{
+  "id": "sm8-fun-pack",
+  "region": "international",
+  "set": "sm8",
+  "category": "other",
+  "name": "Lost Thunder Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Thunder Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684508
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684508/pokemon-sm-lost-thunder-lost-thunder-fun-pack"
+      ]
+    }
+  ]
+}

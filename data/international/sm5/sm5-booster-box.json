@@ -1,0 +1,28 @@
+{
+  "id": "sm5-booster-box",
+  "region": "international",
+  "set": "sm5",
+  "category": "booster_box",
+  "name": "Ultra Prism Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 315121
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism Booster Box",
+      "releaseDate": "2018-02-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          155661
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/155661/pokemon-sm-ultra-prism-ultra-prism-booster-box"
+      ]
+    }
+  ]
+}

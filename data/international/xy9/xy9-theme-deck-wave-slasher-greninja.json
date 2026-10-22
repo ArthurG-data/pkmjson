@@ -1,0 +1,38 @@
+{
+  "id": "xy9-theme-deck-wave-slasher-greninja",
+  "region": "international",
+  "set": "xy9",
+  "category": "theme_deck",
+  "name": "BREAKpoint Theme Deck - \"Wave Slasher\" [Greninja]",
+  "identifiers": {
+    "cardmarketProductId": 287834
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKpoint Theme Deck - \"Wave Slasher\" [Greninja]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          113530
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/113530/pokemon-xy-breakpoint-breakpoint-theme-deck-wave-slasher-greninja"
+      ]
+    }
+  ]
+}

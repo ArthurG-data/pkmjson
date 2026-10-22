@@ -1,0 +1,27 @@
+{
+  "id": "swsh10.5-mini-tin-display",
+  "region": "international",
+  "set": "swsh10.5",
+  "category": "case",
+  "name": "Pokemon GO Mini Tin Display",
+  "identifiers": {
+    "cardmarketProductId": 653717
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon GO Mini Tin Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271512
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271512/pokemon-pokemon-go-pokemon-go-mini-tin-display"
+      ]
+    }
+  ]
+}

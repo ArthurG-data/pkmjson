@@ -1,0 +1,41 @@
+{
+  "id": "det1-cafe-figure-collection",
+  "region": "international",
+  "set": "det1",
+  "category": "collection_box",
+  "name": "Detective Pikachu Cafe Figure Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "det1-booster-pack",
+        "count": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Figure of Detective Pikachu holding a cup of coffee",
+        "count": 1
+      },
+      {
+        "name": "Code card for the TCGO",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Detective Pikachu SM Black Star Promo; Two other Sun & Moon Series booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Detective Pikachu Cafe Figure Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          264420
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/264420/pokemon-detective-pikachu-detective-pikachu-cafe-figure-collection"
+      ]
+    }
+  ]
+}

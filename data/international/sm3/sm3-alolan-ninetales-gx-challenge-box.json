@@ -1,0 +1,45 @@
+{
+  "id": "sm3-alolan-ninetales-gx-challenge-box",
+  "region": "international",
+  "set": "sm3",
+  "category": "collection_box",
+  "name": "Alolan Ninetales GX Challenge Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM128",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 168245,
+        "cardmarketProductId": 358429,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Complete Pokemon TCG Theme Deck, ready to play",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Alolan Ninetales GX; 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Alolan Ninetales GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218320
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218320/pokemon-sm-burning-shadows-alolan-ninetales-gx-challenge-box"
+      ]
+    }
+  ]
+}

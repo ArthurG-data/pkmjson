@@ -1,0 +1,25 @@
+{
+  "id": "swsh3.5-pin-collection-display-ballonlea-spikemuth-hammerlocke-gyms",
+  "region": "international",
+  "set": "swsh3.5",
+  "category": "case",
+  "name": "Champion's Path Pin Collection Display: Ballonlea, Spikemuth, & Hammerlocke Gyms",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Champion's Path Pin Collection Display: Ballonlea, Spikemuth, & Hammerlocke Gyms",
+      "releaseDate": "2020-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218852
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218852/pokemon-champions-path-champions-path-pin-collection-display-ballonlea-spikemuth-and-hammerlocke-gyms"
+      ]
+    }
+  ]
+}

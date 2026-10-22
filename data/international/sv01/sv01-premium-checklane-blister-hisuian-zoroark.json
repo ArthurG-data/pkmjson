@@ -1,0 +1,41 @@
+{
+  "id": "sv01-premium-checklane-blister-hisuian-zoroark",
+  "region": "international",
+  "set": "sv01",
+  "category": "blister",
+  "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Zoroark]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv01-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Zoroark]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          497167
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/497167/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-premium-checklane-blister-hisuian-zoroark"
+      ]
+    }
+  ]
+}

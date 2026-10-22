@@ -1,0 +1,46 @@
+{
+  "id": "30th-mini-tin-mewtwo",
+  "region": "international",
+  "set": "30th",
+  "category": "tin",
+  "name": "30th Celebration Mini Tin [Mewtwo]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "30th-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "30th Celebration Mini Tin [Mewtwo]",
+      "releaseDate": "2026-10-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704183
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704183/pokemon-me-30th-celebration-30th-celebration-mini-tin-mewtwo"
+      ]
+    }
+  ]
+}

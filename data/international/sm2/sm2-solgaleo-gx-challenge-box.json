@@ -1,0 +1,35 @@
+{
+  "id": "sm2-solgaleo-gx-challenge-box",
+  "region": "international",
+  "set": "sm2",
+  "category": "collection_box",
+  "name": "Solgaleo GX Challenge Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Steel Sun Theme Deck",
+        "count": 1
+      },
+      {
+        "name": "Water Web Holofoil variant of Solgaleo from Guardians Rising",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs; a copy of Solgaleo-GX from Sun & Moon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Solgaleo GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218327
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218327/pokemon-sm-guardians-rising-solgaleo-gx-challenge-box"
+      ]
+    }
+  ]
+}

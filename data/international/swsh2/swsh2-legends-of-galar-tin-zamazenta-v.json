@@ -1,0 +1,32 @@
+{
+  "id": "swsh2-legends-of-galar-tin-zamazenta-v",
+  "region": "international",
+  "set": "swsh2",
+  "category": "tin",
+  "name": "Legends of Galar Tin [Zamazenta V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Zamazenta V; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Galar Tin [Zamazenta V]",
+      "releaseDate": "2020-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214231
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214231/pokemon-swsh02-rebel-clash-legends-of-galar-tin-zamazenta-v"
+      ]
+    }
+  ]
+}

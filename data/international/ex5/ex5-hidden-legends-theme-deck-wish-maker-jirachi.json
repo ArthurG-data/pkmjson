@@ -1,0 +1,38 @@
+{
+  "id": "ex5-hidden-legends-theme-deck-wish-maker-jirachi",
+  "region": "international",
+  "set": "ex5",
+  "category": "theme_deck",
+  "name": "Hidden Legends Theme Deck - \"Wish Maker\" [Jirachi]",
+  "identifiers": {
+    "cardmarketProductId": 286520
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Legends Theme Deck - \"Wish Maker\" [Jirachi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          215766
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/215766/pokemon-ex-hidden-legends-hidden-legends-theme-deck-wish-maker-jirachi"
+      ]
+    }
+  ]
+}

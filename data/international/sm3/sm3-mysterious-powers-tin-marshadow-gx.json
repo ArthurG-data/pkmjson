@@ -1,0 +1,41 @@
+{
+  "id": "sm3-mysterious-powers-tin-marshadow-gx",
+  "region": "international",
+  "set": "sm3",
+  "category": "tin",
+  "name": "Mysterious Powers Tin [Marshadow GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM59",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 148422,
+        "cardmarketProductId": 301980,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card to unlock a playable deck in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mysterious Powers Tin [Marshadow GX]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          148420
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/148420/pokemon-sm-burning-shadows-mysterious-powers-tin-marshadow-gx"
+      ]
+    }
+  ]
+}

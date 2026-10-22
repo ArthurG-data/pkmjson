@@ -1,0 +1,41 @@
+{
+  "id": "sm11-3-pack-blister-vikavolt",
+  "region": "international",
+  "set": "sm11",
+  "category": "blister",
+  "name": "Unified Minds 3 Pack Blister [Vikavolt]",
+  "identifiers": {
+    "cardmarketProductId": 585909
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm11-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Vikavolk.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unified Minds 3 Pack Blister [Vikavolt]",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          191885
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/191885/pokemon-sm-unified-minds-unified-minds-3-pack-blister-vikavolt"
+      ]
+    }
+  ]
+}

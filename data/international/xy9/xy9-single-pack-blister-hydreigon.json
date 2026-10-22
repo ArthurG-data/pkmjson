@@ -1,0 +1,40 @@
+{
+  "id": "xy9-single-pack-blister-hydreigon",
+  "region": "international",
+  "set": "xy9",
+  "category": "blister",
+  "name": "BREAKpoint Single Pack Blister [Hydreigon]",
+  "identifiers": {
+    "cardmarketProductId": 586355
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy9-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Hydreigon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKpoint Single Pack Blister [Hydreigon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117270
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117270/pokemon-xy-breakpoint-breakpoint-single-pack-blister-hydreigon"
+      ]
+    }
+  ]
+}

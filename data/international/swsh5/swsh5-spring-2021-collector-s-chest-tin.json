@@ -1,0 +1,48 @@
+{
+  "id": "swsh5-spring-2021-collector-s-chest-tin",
+  "region": "international",
+  "set": "swsh5",
+  "category": "tin",
+  "name": "Spring 2021 Collector's Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Cool Pokémon coins",
+        "count": 2
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 1 promo card featuring Single Strike Tepig; 1 promo card featuring Rapid Strike Shinx.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Spring 2021 Collector's Chest Tin",
+      "releaseDate": "2021-03-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231293
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231293/pokemon-swsh05-battle-styles-spring-2021-collectors-chest-tin"
+      ]
+    }
+  ]
+}

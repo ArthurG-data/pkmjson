@@ -1,0 +1,27 @@
+{
+  "id": "base1-base-set-theme-deck-brushfire",
+  "region": "international",
+  "set": "base1",
+  "category": "theme_deck",
+  "name": "Base Set Theme Deck - \"Brushfire\"",
+  "identifiers": {
+    "cardmarketProductId": 286491
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Base Set Theme Deck - \"Brushfire\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107604
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107604/pokemon-base-set-shadowless-base-set-theme-deck-brushfire"
+      ]
+    }
+  ]
+}

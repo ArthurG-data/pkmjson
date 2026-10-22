@@ -1,0 +1,28 @@
+{
+  "id": "cel25-booster-pack",
+  "region": "international",
+  "set": "cel25",
+  "category": "booster_pack",
+  "name": "Celebrations Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 570888
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Celebrations Booster Pack",
+      "releaseDate": "2021-10-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          248577
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/248577/pokemon-celebrations-celebrations-booster-pack"
+      ]
+    }
+  ]
+}

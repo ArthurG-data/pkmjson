@@ -1,0 +1,64 @@
+{
+  "id": "sv03.5-151-ultra-premium-collection",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "premium_collection",
+  "name": "151 Ultra-Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 719698
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-052",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 518872,
+        "cardmarketProductId": 720949,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin featuring Mew",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Plastic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Mew ex; 1 etched metal card featuring Mew ex; 16 booster packs from Pokémon TCG: Scarlet & Violet—151.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Ultra-Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502005
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502005/pokemon-sv-scarlet-and-violet-151-151-ultra-premium-collection"
+      ]
+    }
+  ]
+}

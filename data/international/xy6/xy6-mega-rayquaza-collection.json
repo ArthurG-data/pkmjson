@@ -1,0 +1,35 @@
+{
+  "id": "xy6-mega-rayquaza-collection",
+  "region": "international",
+  "set": "xy6",
+  "category": "collection_box",
+  "name": "Mega Rayquaza Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Detailed, swirling figure of Mega Rayquaza",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs; A never-before-seen foil promo card featuring Rayquaza.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Rayquaza Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          100500
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/100500/pokemon-xy-roaring-skies-mega-rayquaza-collection"
+      ]
+    }
+  ]
+}

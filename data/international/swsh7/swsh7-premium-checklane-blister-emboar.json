@@ -1,0 +1,45 @@
+{
+  "id": "swsh7-premium-checklane-blister-emboar",
+  "region": "international",
+  "set": "swsh7",
+  "category": "blister",
+  "name": "Evolving Skies Premium Checklane Blister [Emboar]",
+  "identifiers": {
+    "cardmarketProductId": 585713
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "TCGO Code",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Premium Checklane Blister [Emboar]",
+      "releaseDate": "2021-08-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242445
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242445/pokemon-swsh07-evolving-skies-evolving-skies-premium-checklane-blister-emboar"
+      ]
+    }
+  ]
+}

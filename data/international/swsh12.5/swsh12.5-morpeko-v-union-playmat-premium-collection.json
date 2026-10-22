@@ -1,0 +1,49 @@
+{
+  "id": "swsh12.5-morpeko-v-union-playmat-premium-collection",
+  "region": "international",
+  "set": "swsh12.5",
+  "category": "premium_collection",
+  "name": "Morpeko V-UNION Playmat Premium Collection",
+  "identifiers": {
+    "cardmarketProductId": 683025
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh12.5-booster-pack",
+        "count": 5
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card featuring Morpeko V-UNION",
+        "count": 1
+      },
+      {
+        "name": "Playmat featuring Marnie and Morpeko",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 etched promo cards that make up a single Morpeko V-UNION; 1 helpful Supporter card featuring Professor Burnet.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Morpeko V-UNION Playmat Premium Collection",
+      "releaseDate": "2023-04-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475644
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475644/pokemon-swsh-crown-zenith-morpeko-v-union-playmat-premium-collection"
+      ]
+    }
+  ]
+}

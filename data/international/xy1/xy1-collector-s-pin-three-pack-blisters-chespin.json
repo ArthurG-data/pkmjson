@@ -1,0 +1,31 @@
+{
+  "id": "xy1-collector-s-pin-three-pack-blisters-chespin",
+  "region": "international",
+  "set": "xy1",
+  "category": "blister",
+  "name": "Collector's Pin Three Pack Blisters (Chespin)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Commemorative collector's pin featuring one of the Kalos Starter pokemon Chespin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Booster Packs (1 Plasma Storm, Plasma Freeze, & Plasma Blast).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Collector's Pin Three Pack Blisters (Chespin)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97712
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97712/pokemon-xy-base-set-collectors-pin-three-pack-blisters-chespin"
+      ]
+    }
+  ]
+}

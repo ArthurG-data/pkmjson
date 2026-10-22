@@ -1,0 +1,37 @@
+{
+  "id": "xy8-collector-pin-3-pack-blister-mega-blaziken",
+  "region": "international",
+  "set": "xy8",
+  "category": "blister",
+  "name": "BREAKthrough Collector Pin 3 Pack Blister [Mega Blaziken]",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy9-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Collectible pin of Mega Blaziken",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "BREAKthrough Collector Pin 3 Pack Blister [Mega Blaziken]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          117275
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/117275/pokemon-xy-breakthrough-breakthrough-collector-pin-3-pack-blister-mega-blaziken"
+      ]
+    }
+  ]
+}

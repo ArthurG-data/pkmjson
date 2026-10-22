@@ -1,0 +1,40 @@
+{
+  "id": "sv08-single-pack-blister-pachirisu",
+  "region": "international",
+  "set": "sv08",
+  "category": "blister",
+  "name": "Surging Sparks Single Pack Blister [Pachirisu]",
+  "identifiers": {
+    "cardmarketProductId": 784956
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Parchirisu.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Surging Sparks Single Pack Blister [Pachirisu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565637
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565637/pokemon-sv08-surging-sparks-surging-sparks-single-pack-blister-pachirisu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sv06-premium-checklane-blister-porygon",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade Premium Checklane Blister [Porygon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Porygon; 1 promo card featuring Porygon2; 1 promo card featuring Porygon-Z as well as.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade Premium Checklane Blister [Porygon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544180
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544180/pokemon-sv06-twilight-masquerade-twilight-masquerade-premium-checklane-blister-porygon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "swsh3-theme-deck-display",
+  "region": "international",
+  "set": "swsh3",
+  "category": "case",
+  "name": "Darkness Ablaze Theme Deck Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Darkness Ablaze Theme Deck Display",
+      "releaseDate": "2020-08-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          216864
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/216864/pokemon-swsh03-darkness-ablaze-darkness-ablaze-theme-deck-display"
+      ]
+    }
+  ]
+}

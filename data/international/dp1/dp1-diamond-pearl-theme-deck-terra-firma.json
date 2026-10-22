@@ -1,0 +1,38 @@
+{
+  "id": "dp1-diamond-pearl-theme-deck-terra-firma",
+  "region": "international",
+  "set": "dp1",
+  "category": "theme_deck",
+  "name": "Diamond & Pearl Theme Deck - \"Terra Firma\"",
+  "identifiers": {
+    "cardmarketProductId": 286578
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card pre-constructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Diamond & Pearl Theme Deck - \"Terra Firma\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          228804
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/228804/pokemon-diamond-and-pearl-diamond-and-pearl-theme-deck-terra-firma"
+      ]
+    }
+  ]
+}

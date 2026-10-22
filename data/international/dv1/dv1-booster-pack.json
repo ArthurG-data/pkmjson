@@ -1,0 +1,27 @@
+{
+  "id": "dv1-booster-pack",
+  "region": "international",
+  "set": "dv1",
+  "category": "booster_pack",
+  "name": "Dragon Vault Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 463754
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragon Vault Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98948
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98948/pokemon-dragon-vault-dragon-vault-booster-pack"
+      ]
+    }
+  ]
+}

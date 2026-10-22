@@ -1,0 +1,31 @@
+{
+  "id": "swsh3-single-blister-pack-cufant-copperajah",
+  "region": "international",
+  "set": "swsh3",
+  "category": "blister",
+  "name": "Sword & Shield Single Blister Pack [Cufant & Copperajah]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 10 cards; a promotional foil Cufant, Copperajah.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sword & Shield Single Blister Pack [Cufant & Copperajah]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          668526
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/668526/pokemon-swsh03-darkness-ablaze-sword-and-shield-single-blister-pack-cufant-and-copperajah"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bw7-booster-box",
+  "region": "international",
+  "set": "bw7",
+  "category": "booster_box",
+  "name": "Boundaries Crossed Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271886
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Boundaries Crossed Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98555
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98555/pokemon-boundaries-crossed-boundaries-crossed-booster-box"
+      ]
+    }
+  ]
+}

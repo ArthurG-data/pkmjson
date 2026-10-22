@@ -1,0 +1,35 @@
+{
+  "id": "sv03.5-151-mini-tin-slowpoke-sandshrew",
+  "region": "international",
+  "set": "sv03.5",
+  "category": "tin",
+  "name": "151 Mini Tin [Slowpoke & Sandshrew]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "151 Mini Tin [Slowpoke & Sandshrew]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          522708
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/522708/pokemon-sv-scarlet-and-violet-151-151-mini-tin-slowpoke-and-sandshrew"
+      ]
+    }
+  ]
+}

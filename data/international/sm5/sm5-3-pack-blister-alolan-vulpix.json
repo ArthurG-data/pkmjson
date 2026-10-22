@@ -1,0 +1,34 @@
+{
+  "id": "sm5-3-pack-blister-alolan-vulpix",
+  "region": "international",
+  "set": "sm5",
+  "category": "blister",
+  "name": "Ultra Prism 3 Pack Blister [Alolan Vulpix]",
+  "identifiers": {
+    "cardmarketProductId": 585982
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm5-booster-pack",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Alolan Vulpix.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ultra Prism 3 Pack Blister [Alolan Vulpix]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          162037
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/162037/pokemon-sm-ultra-prism-ultra-prism-3-pack-blister-alolan-vulpix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dp3-booster-box",
+  "region": "international",
+  "set": "dp3",
+  "category": "booster_box",
+  "name": "Secret Wonders Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 271905
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Secret Wonders Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98568
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98568/pokemon-secret-wonders-secret-wonders-booster-box"
+      ]
+    }
+  ]
+}

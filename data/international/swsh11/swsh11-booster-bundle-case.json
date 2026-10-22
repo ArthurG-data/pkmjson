@@ -1,0 +1,24 @@
+{
+  "id": "swsh11-booster-bundle-case",
+  "region": "international",
+  "set": "swsh11",
+  "category": "case",
+  "name": "Lost Origin Booster Bundle Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lost Origin Booster Bundle Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          479361
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/479361/pokemon-swsh11-lost-origin-lost-origin-booster-bundle-case"
+      ]
+    }
+  ]
+}

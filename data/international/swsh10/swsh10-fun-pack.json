@@ -1,0 +1,24 @@
+{
+  "id": "swsh10-fun-pack",
+  "region": "international",
+  "set": "swsh10",
+  "category": "other",
+  "name": "Astral Radiance Fun Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Fun Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          509895
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/509895/pokemon-swsh10-astral-radiance-astral-radiance-fun-pack"
+      ]
+    }
+  ]
+}

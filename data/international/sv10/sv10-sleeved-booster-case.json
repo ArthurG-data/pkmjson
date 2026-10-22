@@ -1,0 +1,35 @@
+{
+  "id": "sv10-sleeved-booster-case",
+  "region": "international",
+  "set": "sv10",
+  "category": "case",
+  "name": "Destined Rivals Sleeved Booster Case",
+  "identifiers": {
+    "cardmarketProductId": 818577
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-sleeved-booster-pack",
+        "count": 144
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Destined Rivals Sleeved Booster Case",
+      "releaseDate": "2025-05-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628413
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628413/pokemon-sv10-destined-rivals-destined-rivals-sleeved-booster-case"
+      ]
+    }
+  ]
+}

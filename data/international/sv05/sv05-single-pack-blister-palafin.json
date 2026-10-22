@@ -1,0 +1,37 @@
+{
+  "id": "sv05-single-pack-blister-palafin",
+  "region": "international",
+  "set": "sv05",
+  "category": "blister",
+  "name": "Temporal Forces Single Pack Blister [Palafin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Palafin.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Single Pack Blister [Palafin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          617012
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/617012/pokemon-sv05-temporal-forces-temporal-forces-single-pack-blister-palafin"
+      ]
+    }
+  ]
+}

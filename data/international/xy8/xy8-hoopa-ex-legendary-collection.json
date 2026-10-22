@@ -1,0 +1,24 @@
+{
+  "id": "xy8-hoopa-ex-legendary-collection",
+  "region": "international",
+  "set": "xy8",
+  "category": "collection_box",
+  "name": "Hoopa EX Legendary Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hoopa EX Legendary Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          107115
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/107115/pokemon-xy-breakthrough-hoopa-ex-legendary-collection"
+      ]
+    }
+  ]
+}

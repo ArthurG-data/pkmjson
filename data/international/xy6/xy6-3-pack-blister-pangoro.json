@@ -1,0 +1,40 @@
+{
+  "id": "xy6-3-pack-blister-pangoro",
+  "region": "international",
+  "set": "xy6",
+  "category": "blister",
+  "name": "Roaring Skies 3 Pack Blister [Pangoro]",
+  "identifiers": {
+    "cardmarketProductId": 586384
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "xy6-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Pangoro.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Roaring Skies 3 Pack Blister [Pangoro]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          98031
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/98031/pokemon-xy-roaring-skies-roaring-skies-3-pack-blister-pangoro"
+      ]
+    }
+  ]
+}

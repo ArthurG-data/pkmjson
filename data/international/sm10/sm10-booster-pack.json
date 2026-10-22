@@ -1,0 +1,28 @@
+{
+  "id": "sm10-booster-pack",
+  "region": "international",
+  "set": "sm10",
+  "category": "booster_pack",
+  "name": "Unbroken Bonds Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 370621
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Booster Pack",
+      "releaseDate": "2019-05-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          185718
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/185718/pokemon-sm-unbroken-bonds-unbroken-bonds-booster-pack"
+      ]
+    }
+  ]
+}

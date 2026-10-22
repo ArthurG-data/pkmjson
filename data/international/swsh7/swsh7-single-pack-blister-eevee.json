@@ -1,0 +1,41 @@
+{
+  "id": "swsh7-single-pack-blister-eevee",
+  "region": "international",
+  "set": "swsh7",
+  "category": "blister",
+  "name": "Evolving Skies Single Pack Blister [Eevee]",
+  "identifiers": {
+    "cardmarketProductId": 585712
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh7-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Evolving Skies Single Pack Blister [Eevee]",
+      "releaseDate": "2021-08-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          242447
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/242447/pokemon-swsh07-evolving-skies-evolving-skies-single-pack-blister-eevee"
+      ]
+    }
+  ]
+}

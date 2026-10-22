@@ -1,0 +1,37 @@
+{
+  "id": "sm10-single-pack-blister-wailord",
+  "region": "international",
+  "set": "sm10",
+  "category": "blister",
+  "name": "Unbroken Bonds Single Pack Blister [Wailord]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Wailmer and Wailord.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Unbroken Bonds Single Pack Blister [Wailord]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          240189
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/240189/pokemon-sm-unbroken-bonds-unbroken-bonds-single-pack-blister-wailord"
+      ]
+    }
+  ]
+}

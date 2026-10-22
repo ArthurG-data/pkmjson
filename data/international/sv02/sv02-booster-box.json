@@ -1,0 +1,34 @@
+{
+  "id": "sv02-booster-box",
+  "region": "international",
+  "set": "sv02",
+  "category": "booster_box",
+  "name": "Paldea Evolved Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 703156
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv02-booster-pack",
+        "count": 36
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Evolved Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493975
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/493975/pokemon-sv02-paldea-evolved-paldea-evolved-booster-box"
+      ]
+    }
+  ]
+}

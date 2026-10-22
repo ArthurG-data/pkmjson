@@ -1,0 +1,37 @@
+{
+  "id": "sv05-single-pack-blister-scovillain",
+  "region": "international",
+  "set": "sv05",
+  "category": "blister",
+  "name": "Temporal Forces Single Pack Blister [Scovillain]",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv05-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Scovillain.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Temporal Forces Single Pack Blister [Scovillain]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          617011
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/617011/pokemon-sv05-temporal-forces-temporal-forces-single-pack-blister-scovillain"
+      ]
+    }
+  ]
+}

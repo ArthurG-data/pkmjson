@@ -1,0 +1,52 @@
+{
+  "id": "swsh8-league-battle-deck-mew-vmax",
+  "region": "international",
+  "set": "swsh8",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Mew VMAX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A full, playable 60-card deck loaded with power cards; 2 foil cards featuring Mew V; 2 foil cards featuring Mew VMAX; 2 foil cards featuring Genesect V; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Mew VMAX]",
+      "releaseDate": "2022-11-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          283599
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/283599/pokemon-swsh08-fusion-strike-league-battle-deck-mew-vmax"
+      ]
+    }
+  ]
+}

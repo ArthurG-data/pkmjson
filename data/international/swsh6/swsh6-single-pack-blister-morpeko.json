@@ -1,0 +1,41 @@
+{
+  "id": "swsh6-single-pack-blister-morpeko",
+  "region": "international",
+  "set": "swsh6",
+  "category": "blister",
+  "name": "Chilling Reign Single Pack Blister [Morpeko]",
+  "identifiers": {
+    "cardmarketProductId": 585717
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "swsh6-booster-pack",
+        "count": 1
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Morpeko.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Chilling Reign Single Pack Blister [Morpeko]",
+      "releaseDate": "2021-06-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          236273
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/236273/pokemon-swsh06-chilling-reign-chilling-reign-single-pack-blister-morpeko"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "swsh8-rapid-strike-urshifu-vmax-premium-collection",
+  "region": "international",
+  "set": "swsh8",
+  "category": "premium_collection",
+  "name": "Rapid Strike Urshifu VMAX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH107",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 234297,
+        "cardmarketProductId": 546976,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize card featuring Rapid Strike Urshifu VMAX",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Rapid Strike Urshifu VMAX; 1 foil special Rapid Strike Energy card; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rapid Strike Urshifu VMAX Premium Collection",
+      "releaseDate": "2021-11-12",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          253454
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/253454/pokemon-swsh08-fusion-strike-rapid-strike-urshifu-vmax-premium-collection"
+      ]
+    }
+  ]
+}

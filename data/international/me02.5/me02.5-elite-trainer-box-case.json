@@ -1,0 +1,27 @@
+{
+  "id": "me02.5-elite-trainer-box-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Ascended Heroes Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 860573
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ascended Heroes Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          679558
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/679558/pokemon-me-ascended-heroes-ascended-heroes-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

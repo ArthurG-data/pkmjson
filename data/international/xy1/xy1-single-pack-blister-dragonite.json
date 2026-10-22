@@ -1,0 +1,27 @@
+{
+  "id": "xy1-single-pack-blister-dragonite",
+  "region": "international",
+  "set": "xy1",
+  "category": "blister",
+  "name": "XY Single Pack Blister [Dragonite]",
+  "identifiers": {
+    "cardmarketProductId": 586418
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "XY Single Pack Blister [Dragonite]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97743
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97743/pokemon-xy-base-set-xy-single-pack-blister-dragonite"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sv06-3-pack-blister-snorlax",
+  "region": "international",
+  "set": "sv06",
+  "category": "blister",
+  "name": "Twilight Masquerade 3 Pack Blister [Snorlax]",
+  "identifiers": {
+    "cardmarketProductId": 761224
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv06-booster-pack",
+        "count": 3
+      }
+    ],
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Snorlax.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Twilight Masquerade 3 Pack Blister [Snorlax]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          544171
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/544171/pokemon-sv06-twilight-masquerade-twilight-masquerade-3-pack-blister-snorlax"
+      ]
+    }
+  ]
+}

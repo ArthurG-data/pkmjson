@@ -1,0 +1,39 @@
+{
+  "id": "xy0-kalos-starter-deck-froakie",
+  "region": "international",
+  "set": "xy0",
+  "category": "battle_deck",
+  "name": "Kalos Starter Deck [Froakie]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Custom coin",
+        "count": 1
+      },
+      {
+        "name": "Froakie deckbox",
+        "count": 1
+      },
+      {
+        "name": "Code for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kalos Starter Deck [Froakie]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          97718
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/97718/pokemon-kalos-starter-set-kalos-starter-deck-froakie"
+      ]
+    }
+  ]
+}

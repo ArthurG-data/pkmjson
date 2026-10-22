@@ -1,0 +1,49 @@
+{
+  "id": "sm5-legends-of-johto-gx-premium-collection-box",
+  "region": "international",
+  "set": "sm5",
+  "category": "premium_collection",
+  "name": "Legends of Johto GX Premium Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM121",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 164233,
+        "cardmarketProductId": 321007,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Collector's pin and coin featuring Suicune",
+        "count": 1
+      },
+      {
+        "name": "Oversize foil card featuring all three Legendary Pokémon",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 never-before-seen foil promo card featuring Entei-GX; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends of Johto GX Premium Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          164232
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/164232/pokemon-sm-ultra-prism-legends-of-johto-gx-premium-collection-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dp6-theme-deck-metal-surge",
+  "region": "international",
+  "set": "dp6",
+  "category": "theme_deck",
+  "name": "Legends Awakened Theme Deck - Metal Surge",
+  "identifiers": {
+    "cardmarketProductId": 286591
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Exclusive cosmos holo version of Heatran)",
+        "count": 1
+      },
+      {
+        "name": "1x custom coin",
+        "count": 1
+      },
+      {
+        "name": "1x rule book",
+        "count": 1
+      },
+      {
+        "name": "1x single-player paper playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1x Legends Awakened card list; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legends Awakened Theme Deck - Metal Surge",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693133
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693133/pokemon-legends-awakened-legends-awakened-theme-deck-metal-surge"
+      ]
+    }
+  ]
+}

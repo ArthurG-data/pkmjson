@@ -1,0 +1,35 @@
+{
+  "id": "sm2-lunala-gx-challenge-box",
+  "region": "international",
+  "set": "sm2",
+  "category": "collection_box",
+  "name": "Lunala GX Challenge Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Hidden Moon Theme Deck",
+        "count": 1
+      },
+      {
+        "name": "Water Web Holofoil variant of Lunala from Guardians Rising",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon TCG booster packs; a copy of Lunala-GX from Sun & Moon.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lunala GX Challenge Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218328
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218328/pokemon-sm-guardians-rising-lunala-gx-challenge-box"
+      ]
+    }
+  ]
+}

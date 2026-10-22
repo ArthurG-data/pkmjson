@@ -1,0 +1,24 @@
+{
+  "id": "me02.5-collection-case",
+  "region": "international",
+  "set": "me02.5",
+  "category": "case",
+  "name": "Mega Evolution: Ascended Heroes Collection case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Evolution: Ascended Heroes Collection case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          685195
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/685195/pokemon-me-ascended-heroes-mega-evolution-ascended-heroes-collection-case"
+      ]
+    }
+  ]
+}

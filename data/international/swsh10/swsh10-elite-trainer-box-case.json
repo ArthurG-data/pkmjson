@@ -1,0 +1,27 @@
+{
+  "id": "swsh10-elite-trainer-box-case",
+  "region": "international",
+  "set": "swsh10",
+  "category": "case",
+  "name": "Astral Radiance Elite Trainer Box Case",
+  "identifiers": {
+    "cardmarketProductId": 873119
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed Elite Trainer Box case contains 10 Elite Trainer Boxes..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Astral Radiance Elite Trainer Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          265545
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/265545/pokemon-swsh10-astral-radiance-astral-radiance-elite-trainer-box-case"
+      ]
+    }
+  ]
+}

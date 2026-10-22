@@ -1,0 +1,38 @@
+{
+  "id": "pl1-theme-deck-flourish",
+  "region": "international",
+  "set": "pl1",
+  "category": "theme_deck",
+  "name": "Platinum Theme Deck - \"Flourish\"",
+  "identifiers": {
+    "cardmarketProductId": 286594
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Platinum Theme Deck - \"Flourish\"",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          229173
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/229173/pokemon-platinum-platinum-theme-deck-flourish"
+      ]
+    }
+  ]
+}
