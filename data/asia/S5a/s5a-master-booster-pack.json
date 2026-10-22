@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Peerless Fighters Master Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "S5a"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

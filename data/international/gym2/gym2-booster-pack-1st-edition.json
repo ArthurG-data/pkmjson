@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Gym Challenge Booster Pack [1st Edition]",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "gym2"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

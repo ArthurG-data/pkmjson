@@ -8,7 +8,13 @@
     "cardmarketProductId": 550411
   },
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "SM10a"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

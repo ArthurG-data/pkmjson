@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Transformation Mask Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "SV6"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

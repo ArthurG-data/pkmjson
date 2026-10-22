@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Team Rocket Booster Pack [Unlimited Edition]",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "base5"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

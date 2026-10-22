@@ -5,7 +5,13 @@
   "category": "sleeved_booster_pack",
   "name": "XY - Primal Clash Sleeved Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "xy5"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

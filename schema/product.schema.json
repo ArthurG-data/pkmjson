@@ -51,7 +51,24 @@
       "properties": {
         "sealed": {"type": "array", "items": {"$ref": "#/$defs/sealedItem"}},
         "cards": {"type": "array", "items": {"$ref": "#/$defs/cardItem"}},
-        "other": {"type": "array", "items": {"$ref": "#/$defs/otherItem"}}
+        "other": {"type": "array", "items": {"$ref": "#/$defs/otherItem"}},
+        "pool": {
+          "description": "Only on booster_pack and sleeved_booster_pack. The sets whose cards the pack can hold, at random: any card of these sets, in the release's language, as TCGdex lists each set. It is random, so it says nothing about rarity slots or odds. It does not change contentsStatus.",
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/poolSet"}
+        }
+      }
+    },
+    "poolSet": {
+      "description": "One TCGdex set a booster pack can draw from.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["set"],
+      "properties": {
+        "set": {"description": "TCGdex set id, the same codes families use in `set`.", "type": "string", "minLength": 1},
+        "region": {"description": "The set's TCGdex tree. Defaults to the family's region.", "enum": ["international", "asia"]}
       }
     },
     "sealedItem": {

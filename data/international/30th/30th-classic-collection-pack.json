@@ -2,11 +2,17 @@
   "id": "30th-classic-collection-pack",
   "region": "international",
   "set": "30th",
-  "category": "collection_box",
+  "category": "booster_pack",
   "name": "30th Celebration Classic Collection Pack",
   "contentsStatus": "partial",
-  "contents": {},
-  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "contents": {
+    "pool": [
+      {
+        "set": "30th-c"
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {
       "language": "en",

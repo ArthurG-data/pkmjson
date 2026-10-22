@@ -43,7 +43,18 @@ product under one product and records the language on each offer.
 - **Nested products** (`sealed`) point at another family. They resolve to the same language as the release that
   holds them, so a French booster box holds French booster packs.
 - **`contentsStatus`** is `partial` when the file cannot list everything, for example a booster pack's random
-  cards. Which cards a pack can hold is out of scope.
+  cards.
+- **`contents.pool`** is on booster packs (`booster_pack`, `sleeved_booster_pack`) only. It lists the sets whose cards
+  the pack can hold, as `{"set": "sm115"}` entries, each with an optional `region` that defaults to the family's. A
+  pack can contain any card of those sets, in the release's language, as TCGdex lists each set. The cards are random,
+  so the pool says nothing about rarity slots or odds, and it does not change `contentsStatus`. Most packs hold their
+  own set. Some also hold a subset TCGdex files as a set of its own: a Hidden Fates pack lists `sm115` and `sma` (the
+  Shiny Vault). A pack whose set TCGdex does not list has no pool. `build.py` writes the pool into every release of
+  the pack, sorted by region and set, with the region spelled out.
+
+```json
+"contents": {"pool": [{"set": "sm115"}, {"set": "sma"}]}
+```
 
 The full format is `schema/product.schema.json`.
 
@@ -82,6 +93,11 @@ because the set has none of its own. `logoKind` marks a product image or set sym
 
 A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
 alone.
+
+- **Booster pack pools:** `tools/import_pools.py` gives each pack its `contents.pool` from the pack's `set`, TCGdex's
+  set lists (English for `international`, Japanese for `asia`) and `mappings/pack_pools.json`. Run it after
+  `import_tcgplayer.py`; it is idempotent and rewrites a pool another tool dropped. `import_tcgplayer.py` also keeps a
+  pool it finds in a file it regenerates. Packs it leaves without a pool are listed in `review/pack-pools.json`.
 
 ## Development
 

@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "General Mills 25th Anniversary Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "swshp"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

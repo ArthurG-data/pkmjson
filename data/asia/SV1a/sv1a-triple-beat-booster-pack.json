@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Triple Beat Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "SV1a"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {
