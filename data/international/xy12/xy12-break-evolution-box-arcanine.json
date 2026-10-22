@@ -19,6 +19,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/126570/pokemon-xy-evolutions-break-evolution-box-arcanine"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Évolution Arcanin",
+      "releaseDate": "2017-05-24",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_%C3%89volution_TURBO_Arcanin"
+      ]
     }
   ]
 }

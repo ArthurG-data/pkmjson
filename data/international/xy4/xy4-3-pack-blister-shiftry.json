@@ -35,6 +35,32 @@
       "sources": [
         "https://www.tcgplayer.com/product/97784/pokemon-xy-phantom-forces-phantom-forces-3-pack-blister-shiftry"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY04 Tengalice",
+      "releaseDate": "2014-11-08",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy4-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY04_Tengalice"
+      ]
     }
   ]
 }

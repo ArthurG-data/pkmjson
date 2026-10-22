@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/129895/pokemon-sm-base-set-mimikyu-pin-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Mimiqui",
+      "releaseDate": "2017-04-05",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Mimiqui"
+      ]
     }
   ]
 }

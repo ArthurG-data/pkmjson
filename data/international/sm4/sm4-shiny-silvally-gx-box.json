@@ -31,6 +31,44 @@
       "sources": [
         "https://www.tcgplayer.com/product/152598/pokemon-sm-crimson-invasion-shiny-silvally-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Silvallié chromatique",
+      "releaseDate": "2017-11-13",
+      "contents": {
+        "other": [
+          {
+            "name": "Jumbo version",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Silvalli%C3%A9-GX_chromatique"
+      ]
     }
   ]
 }

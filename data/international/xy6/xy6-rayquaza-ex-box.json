@@ -19,6 +19,29 @@
       "sources": [
         "https://www.tcgplayer.com/product/100499/pokemon-xy-roaring-skies-rayquaza-ex-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Rayquaza-EX",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 3
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Rayquaza-EX"
+      ]
     }
   ]
 }

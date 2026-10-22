@@ -19,6 +19,29 @@
       "sources": [
         "https://www.tcgplayer.com/product/100498/pokemon-xy-roaring-skies-hoenn-power-tin-swampert"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance de Hoenn Laggron",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy7-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_de_Hoenn_Laggron-EX"
+      ]
     }
   ]
 }

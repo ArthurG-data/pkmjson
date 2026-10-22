@@ -32,6 +32,32 @@
       "sources": [
         "https://www.tcgplayer.com/product/97758/pokemon-xy-primal-clash-primal-clash-three-pack-blister-ditto"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY05 Métamorph",
+      "releaseDate": "2015-02-21",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy5-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY05_M%C3%A9tamorph"
+      ]
     }
   ]
 }

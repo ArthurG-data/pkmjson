@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/123441/pokemon-xy-steam-siege-battle-heart-tin-pikachu-ex"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Cœur au Combat Pikachu",
+      "releaseDate": "2016-11-06",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy6-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_C%C5%93ur_au_Combat_Pikachu-EX"
+      ]
     }
   ]
 }

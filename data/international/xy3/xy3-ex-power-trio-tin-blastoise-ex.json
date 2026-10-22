@@ -19,6 +19,25 @@
       "sources": [
         "https://www.tcgplayer.com/product/97778/pokemon-xy-furious-fists-ex-power-trio-tin-blastoise-ex"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Trio Puissance EX Tortank",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy3-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Trio_Puissance_EX_Tortank-EX"
+      ]
     }
   ]
 }

@@ -19,6 +19,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/118339/pokemon-xy-fates-collide-fates-collide-three-pack-blister-froakie"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY10 Grenousse",
+      "releaseDate": "2016-05-07",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy10-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY10_Grenousse"
+      ]
     }
   ]
 }

@@ -35,6 +35,32 @@
       "sources": [
         "https://www.tcgplayer.com/product/98032/pokemon-xy-roaring-skies-roaring-skies-3-pack-blister-regirock"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY06 Regirock",
+      "releaseDate": "2015-05-23",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy6-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY06_Regirock"
+      ]
     }
   ]
 }

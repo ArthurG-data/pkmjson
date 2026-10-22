@@ -41,6 +41,50 @@
       "sources": [
         "https://www.tcgplayer.com/product/206424/pokemon-swsh01-sword-and-shield-base-set-toxtricity-v-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Salarsen",
+      "releaseDate": "2020-02-27",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "swshp-SWSH017",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 206425,
+            "cardmarketProductId": 450873,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Oversize foil card featuring Toxtricity V",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Salarsen-V"
+      ]
     }
   ]
 }

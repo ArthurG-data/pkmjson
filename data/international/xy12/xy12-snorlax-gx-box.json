@@ -19,6 +19,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/125736/pokemon-xy-evolutions-snorlax-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Ronflex",
+      "releaseDate": "2017-01-28",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy12-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Ronflex-GX"
+      ]
     }
   ]
 }

@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/137523/pokemon-sm-guardians-rising-espeon-gx-premium-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Mentali",
+      "releaseDate": "2017-09-05",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_Mentali-GX"
+      ]
     }
   ]
 }

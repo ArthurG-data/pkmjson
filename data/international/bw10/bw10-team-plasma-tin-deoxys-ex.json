@@ -19,6 +19,34 @@
       "sources": [
         "https://www.tcgplayer.com/product/137096/pokemon-plasma-blast-team-plasma-tin-deoxys-ex"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Team Plasma Deoxys",
+      "releaseDate": "2013-09-11",
+      "contents": {
+        "sealed": [
+          {
+            "product": "bw9-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw5-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw4-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw6-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX"
+      ]
     }
   ]
 }

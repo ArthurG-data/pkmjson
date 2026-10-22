@@ -19,6 +19,29 @@
       "sources": [
         "https://www.tcgplayer.com/product/99151/pokemon-xy-roaring-skies-mega-absol-ex-premium-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Absol",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Absol-EX"
+      ]
     }
   ]
 }

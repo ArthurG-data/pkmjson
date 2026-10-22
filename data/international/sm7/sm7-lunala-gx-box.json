@@ -31,6 +31,40 @@
       "sources": [
         "https://www.tcgplayer.com/product/175559/pokemon-sm-celestial-storm-lunala-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Lunala",
+      "releaseDate": "2018-10-05",
+      "contents": {
+        "other": [
+          {
+            "name": "Oversize foil cards of Lunala GX",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sm7-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Lunala-GX"
+      ]
     }
   ]
 }

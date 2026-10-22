@@ -20,6 +20,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/210576/pokemon-swsh01-sword-and-shield-base-set-snorlax-pin-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec pin's Ronflex",
+      "releaseDate": "2020-06-17",
+      "contents": {
+        "sealed": [
+          {
+            "product": "swsh2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_pin%27s_Ronflex"
+      ]
     }
   ]
 }

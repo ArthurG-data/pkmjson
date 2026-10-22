@@ -41,6 +41,50 @@
       "sources": [
         "https://www.tcgplayer.com/product/214227/pokemon-swsh02-rebel-clash-copperajah-v-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Pachyradjah",
+      "releaseDate": "2020-06-05",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "swshp-SWSH030",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 214228,
+            "cardmarketProductId": 477159,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Oversize card of Copperajah, suitable for display",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Pachyradjah-V"
+      ]
     }
   ]
 }

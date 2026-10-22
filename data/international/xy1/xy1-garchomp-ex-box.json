@@ -26,6 +26,32 @@
       "sources": [
         "https://www.tcgplayer.com/product/97729/pokemon-xy-base-set-garchomp-ex-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Carchacrok",
+      "releaseDate": "2014-09-30",
+      "contents": {
+        "other": [
+          {
+            "name": "Black & White)",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "xy1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 3
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Carchacrok-EX"
+      ]
     }
   ]
 }

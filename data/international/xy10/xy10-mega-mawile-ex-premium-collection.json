@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/118335/pokemon-xy-fates-collide-mega-mawile-ex-premium-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Méga-Mysdibule",
+      "releaseDate": "2016-10-12",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy9-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Mysdibule-EX"
+      ]
     }
   ]
 }

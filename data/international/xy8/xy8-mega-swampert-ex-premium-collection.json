@@ -19,6 +19,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/107105/pokemon-xy-breakthrough-mega-swampert-ex-premium-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Laggron",
+      "releaseDate": "2016-09-20",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 4
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-Laggron-EX"
+      ]
     }
   ]
 }

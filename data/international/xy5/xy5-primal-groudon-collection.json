@@ -19,6 +19,25 @@
       "sources": [
         "https://www.tcgplayer.com/product/97755/pokemon-xy-primal-clash-primal-groudon-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Groudon",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy7-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Groudon"
+      ]
     }
   ]
 }

@@ -19,6 +19,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/117278/pokemon-xy-breakthrough-aurorus-ex-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dragmara",
+      "releaseDate": "2016-09-07",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 4
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Dragmara-EX"
+      ]
     }
   ]
 }

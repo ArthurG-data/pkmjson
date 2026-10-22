@@ -19,6 +19,29 @@
       "sources": [
         "https://www.tcgplayer.com/product/100502/pokemon-xy-roaring-skies-mega-latios-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Latios",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy3-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Latios"
+      ]
     }
   ]
 }

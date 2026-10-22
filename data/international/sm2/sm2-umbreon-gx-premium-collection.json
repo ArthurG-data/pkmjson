@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/137524/pokemon-sm-guardians-rising-umbreon-gx-premium-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Noctali",
+      "releaseDate": "2017-09-05",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_Noctali-GX"
+      ]
     }
   ]
 }

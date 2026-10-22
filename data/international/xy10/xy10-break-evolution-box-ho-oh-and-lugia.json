@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/121392/pokemon-xy-fates-collide-break-evolution-box-ho-oh-and-lugia"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Lugia",
+      "releaseDate": "2016-08-27",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Lugia"
+      ]
     }
   ]
 }

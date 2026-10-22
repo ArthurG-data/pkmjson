@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/121396/pokemon-xy-fates-collide-shiny-kalos-tin-zygarde-ex"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Kalos chromatique Zygarde",
+      "releaseDate": "2016-06-12",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy10-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy9-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy4-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Kalos_chromatique_Zygarde-EX"
+      ]
     }
   ]
 }

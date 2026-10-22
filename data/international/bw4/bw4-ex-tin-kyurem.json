@@ -19,6 +19,29 @@
       "sources": [
         "https://www.tcgplayer.com/product/98637/pokemon-next-destinies-ex-tin-kyurem"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissance EX Kyurem Blanc",
+      "contents": {
+        "sealed": [
+          {
+            "product": "bw7-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw2-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX"
+      ]
     }
   ]
 }

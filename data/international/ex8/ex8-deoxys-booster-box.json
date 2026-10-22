@@ -22,6 +22,25 @@
       "sources": [
         "https://www.tcgplayer.com/product/98563/pokemon-ex-deoxys-deoxys-booster-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Deoxys",
+      "contents": {
+        "sealed": [
+          {
+            "product": "bw8-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "bw9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Deoxys"
+      ]
     }
   ]
 }

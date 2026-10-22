@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import hashlib
 import html
 import json
 import re
@@ -72,7 +73,10 @@ class Fetcher:
         self.cache, self.pause = cache, pause
 
     def get(self, url: str) -> dict | list | None:
-        path = self.cache / re.sub(r"[^A-Za-z0-9._-]+", "_", url.split("://", 1)[1])
+        name = re.sub(r"[^A-Za-z0-9._-]+", "_", url.split("://", 1)[1])
+        if len(name) > 120:   # batched API URLs are longer than a file name may be (eCryptfs: 143)
+            name = f"{name[:70]}_{hashlib.sha1(url.encode()).hexdigest()}"
+        path = self.cache / name
         if path.exists():
             body = json.loads(path.read_text(encoding="utf-8"))
             return None if body == {"__missing__": True} else body
@@ -623,9 +627,11 @@ def family_file(draft: Draft, cardmarket: dict[int, int]) -> dict:
 
 
 def is_generated(family: Family) -> bool:
-    releases = family.data.get("releases") or []
-    return len(releases) == 1 and len(releases[0].get("sources") or []) == 1 and \
-        "tcgplayer.com/product/" in releases[0]["sources"][0] and \
+    """Written by this tool: its notes say so and its English release cites only the TCGplayer page. Releases in
+    other languages come from other tools and do not make the family hand-written."""
+    english = [r for r in family.data.get("releases") or [] if r.get("language") == LANGUAGE]
+    return len(english) == 1 and len(english[0].get("sources") or []) == 1 and \
+        "tcgplayer.com/product/" in english[0]["sources"][0] and \
         str(family.data.get("notes", "")).startswith("Generated from TCGplayer")
 
 
@@ -717,6 +723,10 @@ def main(argv: list[str] | None = None) -> int:
     for family_id, (draft, data) in files.items():
         path = args.data / REGION / draft.group.set_id / f"{family_id}.json"
         path.parent.mkdir(parents=True, exist_ok=True)
+        if path.exists():
+            # Other tools add the other languages' releases: keep them.
+            previous = json.loads(path.read_text(encoding="utf-8"))
+            data["releases"] += [r for r in previous.get("releases", []) if r.get("language") != LANGUAGE]
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     review_path = ROOT / "review" / f"tcgplayer-{CATEGORY}.json"
     review_path.parent.mkdir(parents=True, exist_ok=True)

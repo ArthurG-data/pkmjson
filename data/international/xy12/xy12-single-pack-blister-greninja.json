@@ -35,6 +35,32 @@
       "sources": [
         "https://www.tcgplayer.com/product/603422/pokemon-xy-evolutions-xy-evolutions-single-pack-blister-greninja"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Duopack XY12 Amphinobi",
+      "releaseDate": "2016-11-19",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy8-booster-pack",
+            "count": 1
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_XY12_Amphinobi"
+      ]
     }
   ]
 }

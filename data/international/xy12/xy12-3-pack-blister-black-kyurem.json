@@ -22,6 +22,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/224946/pokemon-xy-evolutions-xy-evolutions-3-pack-blister-black-kyurem"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack XY12 Kyurem Noir",
+      "releaseDate": "2016-11-19",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy12-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "xy8-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_XY12_Kyurem_Noir"
+      ]
     }
   ]
 }

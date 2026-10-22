@@ -19,6 +19,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/131726/pokemon-sm-guardians-rising-island-guardians-tin-tapu-bulu-gx"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Gardiens des Îles Tokotoro",
+      "releaseDate": "2017-08-12",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm3-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Gardiens_des_%C3%8Eles_Tokotoro-GX"
+      ]
     }
   ]
 }

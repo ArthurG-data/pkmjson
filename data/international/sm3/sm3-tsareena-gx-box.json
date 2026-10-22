@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/141243/pokemon-sm-burning-shadows-tsareena-gx-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Sucreine",
+      "releaseDate": "2017-10-03",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Sucreine-GX"
+      ]
     }
   ]
 }

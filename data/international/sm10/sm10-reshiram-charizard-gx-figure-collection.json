@@ -34,6 +34,44 @@
       "sources": [
         "https://www.tcgplayer.com/product/194597/pokemon-sm-unbroken-bonds-reshiram-and-charizard-gx-figure-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection avec figurine Reshiram et Dracaufeu-GX",
+      "releaseDate": "2019-11-22",
+      "contents": {
+        "other": [
+          {
+            "name": "Figure of Reshiram and Charizard together",
+            "count": 1
+          },
+          {
+            "name": "Oversize foil card featuring Reshiram & Charizard GX",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sm11-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX"
+      ]
     }
   ]
 }

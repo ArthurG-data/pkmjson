@@ -19,6 +19,26 @@
       "sources": [
         "https://www.tcgplayer.com/product/118336/pokemon-xy-fates-collide-ash-greninja-ex-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Sachanobi",
+      "releaseDate": "2016-09-07",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy11-booster-pack",
+            "count": 4
+          },
+          {
+            "product": "xy10-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Sachanobi-EX"
+      ]
     }
   ]
 }

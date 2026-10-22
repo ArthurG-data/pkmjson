@@ -45,6 +45,42 @@
       "sources": [
         "https://www.tcgplayer.com/product/177872/pokemon-sm-crimson-invasion-crimson-invasion-3-pack-blister-decidueye"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Tripack SL04 Archéduc",
+      "releaseDate": "2017-11-04",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 2
+          }
+        ],
+        "cards": [
+          {
+            "tcgdexCardId": "smp-SM55",
+            "tcgdexVariantId": "endfynwn4n10gzq",
+            "tcgplayerProductId": 164460,
+            "cardmarketProductId": 312548,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Tripack_SL04_Arch%C3%A9duc"
+      ]
     }
   ]
 }

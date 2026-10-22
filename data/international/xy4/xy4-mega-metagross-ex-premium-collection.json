@@ -19,6 +19,25 @@
       "sources": [
         "https://www.tcgplayer.com/product/97791/pokemon-xy-phantom-forces-mega-metagross-ex-premium-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Méga-Métalosse",
+      "contents": {
+        "sealed": [
+          {
+            "product": "xy2-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy7-booster-pack",
+            "count": 4
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_M%C3%A9ga-M%C3%A9talosse-EX"
+      ]
     }
   ]
 }
