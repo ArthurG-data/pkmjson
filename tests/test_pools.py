@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 from import_pools import OUT_OF_SCOPE, check_mapping, pool_for, with_pool
-from import_tcgplayer import keep_pool
+from import_tcgplayer import classify, keep_pool
 from pkmjson import flatten, load, validate
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -105,6 +105,29 @@ def test_an_excluded_family_gets_no_pool():
     assert pool_for(_pack(), TCGDEX, {}, {"zz-booster-pack": "a bundle"}) == (None, "a bundle")
 
 
+def test_a_family_override_replaces_the_pool_of_its_own_set():
+    tcgdex = {"international": {"30th", "30th-c"}, "asia": set()}
+    pack = _pack("30th-classic-collection-pack", "30th")
+    assert pool_for(pack, tcgdex, {}, {}, {pack["id"]: ["30th-c"]}) == ([{"set": "30th-c"}], None)
+    regular = _pack("30th-booster-pack", "30th")
+    assert pool_for(regular, tcgdex, {}, {}, {pack["id"]: ["30th-c"]}) == ([{"set": "30th"}], None)
+
+
+def test_a_family_override_must_name_a_booster_pack_and_tcgdex_sets():
+    regions = {"zz-booster-pack": "international"}
+    assert check_mapping({"extraSets": {}, "pools": {"zz-booster-pack": ["sv08"]}}, TCGDEX, regions) == []
+    assert check_mapping({"extraSets": {}, "pools": {"zz-booster-pack": ["nope"]}}, TCGDEX, regions) == [
+        "mappings/pack_pools.json: pools zz-booster-pack names nope, which TCGdex does not list"]
+    assert check_mapping({"extraSets": {}, "pools": {"zz-box": ["sv08"]}}, TCGDEX, regions) == [
+        "mappings/pack_pools.json: pools names zz-box, which is no booster pack family"]
+
+
+def test_a_classic_collection_pack_is_a_booster_pack_not_a_collection_box():
+    assert classify("30th Celebration Classic Collection Pack") == "booster_pack"
+    assert classify("Classic Collection") == "collection_box"
+    assert classify("Pikachu Collection Box") == "collection_box"
+
+
 def test_a_mapped_set_must_exist_in_tcgdex():
     assert check_mapping({"extraSets": {"international/sm115": ["sma"]}}, TCGDEX) == []
     assert check_mapping({"extraSets": {"international/sm115": ["nope"]}}, TCGDEX) == [
@@ -131,6 +154,9 @@ def test_the_published_pools_name_tcgdex_sets_and_known_subsets():
     families = {f.data["id"]: f.data for f in load(ROOT / "data")}
     assert families["sm115-booster-pack"]["contents"]["pool"] == [{"set": "sm115"}, {"set": "sma"}]
     assert "pool" not in families["svp-2-booster-packs-celebi-collector-s-pin"]["contents"]
+    classic = families["30th-classic-collection-pack"]
+    assert classic["category"] == "booster_pack" and classic["contents"]["pool"] == [{"set": "30th-c"}]
+    assert families["30th-booster-pack"]["contents"]["pool"] == [{"set": "30th"}]
 
 
 # --- rebuilds ---------------------------------------------------------------------------------------------------

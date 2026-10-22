@@ -13,5 +13,7 @@ Lookup tables the import tools read. Each row is a fact another source states; n
   Vault), `swsh4.5` → `swsh4.5sv`, `cel25` → `cel25cc`, `swsh12.5` → `swsh12.5gg` (Galarian Gallery), the Trainer
   Galleries `swsh9tg` to `swsh12tg`, and `ex10` → `exu` (Unown Collection). Add a subset only when TCGdex lists it as
   a set id of its own and it is not already part of the main set (Legendary Treasures already holds its Radiant
-  Collection cards). `skip` maps a family id to why it gets no pool: bundles of packs from several sets that
+  Collection cards). `pools` maps a family id to the sets it holds instead of its own set: the 30th Celebration
+  Classic Collection pack holds `30th-c`, not `30th`. The regular 30th packs stay `30th`, since no source says they
+  hold Classic Collection cards. `skip` maps a family id to why it gets no pool: bundles of packs from several sets that
   TCGplayer files under a promo set. The tool refuses a mapped id TCGdex does not list.

@@ -10,6 +10,9 @@
   "international/swsh4.5": ["swsh4.5sv"],
   "international/swsh9": ["swsh9tg"]
  },
+ "pools": {
+  "30th-classic-collection-pack": ["30th-c"]
+ },
  "skip": {
   "svp-2-booster-packs-celebi-collector-s-pin": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp",
   "svp-2-booster-packs-jirachi-collector-s-pin": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp",

@@ -75,7 +75,7 @@ CATEGORY_RULES = [
     ("build_and_battle_box", r"build (?:and )?battle box"),
     ("sleeved_booster_pack", r"sleeved booster"),
     ("blister", r"blister|checklane"),
-    ("booster_pack", r"booster pack|\bbooster\b$"),
+    ("booster_pack", r"booster pack|\bbooster\b$|\bclassic collection pack\b"),   # a pack, not a "collection"
     ("tin", r"\btin\b"),
     ("battle_deck", r"\bstart(?:er)? (?:set|deck)\b"),   # before "collection": "Start Deck 100 Battle Collection"
     ("premium_collection", r"premium collection|ultra[- ]premium"),
