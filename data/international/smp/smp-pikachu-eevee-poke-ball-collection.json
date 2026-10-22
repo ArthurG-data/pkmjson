@@ -1,0 +1,77 @@
+{
+  "id": "smp-pikachu-eevee-poke-ball-collection",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Pikachu & Eevee Poke Ball Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM235",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 200276,
+        "cardmarketProductId": 412939,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Figure of Eevee and Pikachu playing together",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Pikachu; 1 Poke Ball big enough to hold a stack of Pokemon TCG cards; 5 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu & Eevee Poke Ball Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          179376
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/179376/pokemon-miscellaneous-cards-and-products-pikachu-and-eevee-poke-ball-collection"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Poké Ball Pikachu e Eevee",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-poke-ball-pikachu-e-eevee"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Pokéball-Kollektion Pikachu & Evoli",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pokeball-kollektion-pikachu-evoli"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Poké Ball Pikachu e Eevee",
+      "releaseDate": "2018-11-16",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-poke-ball-pikachu-e-eevee"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Poké Ball Pikachu et Évoli",
+      "releaseDate": "2018-11-05",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-poke-ball-pikachu-et-evoli"
+      ]
+    }
+  ]
+}

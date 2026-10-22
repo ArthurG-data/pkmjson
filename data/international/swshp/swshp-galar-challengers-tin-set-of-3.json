@@ -1,0 +1,24 @@
+{
+  "id": "swshp-galar-challengers-tin-set-of-3",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Galar Challengers Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Polteageist V, Copperajah V, or Toxtricity V; 4 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Challengers Tin [Set of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220292
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220292/pokemon-miscellaneous-cards-and-products-galar-challengers-tin-set-of-3"
+      ]
+    }
+  ]
+}

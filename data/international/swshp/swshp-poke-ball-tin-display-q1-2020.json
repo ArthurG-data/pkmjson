@@ -1,0 +1,24 @@
+{
+  "id": "swshp-poke-ball-tin-display-q1-2020",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Poke Ball Tin Display (Q1 2020)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Poke Ball Tin Display (Q1 2020)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          257715
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/257715/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q1-2020"
+      ]
+    }
+  ]
+}

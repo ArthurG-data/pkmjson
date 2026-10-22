@@ -1,0 +1,80 @@
+{
+  "id": "swshp-league-battle-decks-reshiram-charizard-gx",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "League Battle Decks [Reshiram & Charizard GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic TAG TEAM GX marker",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Pokémon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck, including 3 Pokémon-GX; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Decks [Reshiram & Charizard GX]",
+      "releaseDate": "2020-05-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          214270
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/214270/pokemon-miscellaneous-cards-and-products-league-battle-decks-reshiram-and-charizard-gx"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdecks Pikachu & Zekrom-GX und Reshiram & Glurak-GX",
+      "releaseDate": "2020-05-22",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdecks-pikachu-zekrom-gx-und-reshiram-glurak-gx"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Decks Combat de Ligue Pikachu et Zekrom-GX ou Reshiram et Dracaufeu-GX",
+      "releaseDate": "2020-05-22",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/decks-combat-de-ligue-pikachu-et-zekrom-gx-ou-reshiram-et-dracaufeu-gx"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte di Lega Pikachu e Zekrom-GX e mazzo Lotte di Lega Reshiram e Charizard-GX",
+      "releaseDate": "2020-05-22",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-pikachu-e-zekrom-gx-e-mazzo-lotte-di-lega-reshiram-e-charizard-gx"
+      ]
+    }
+  ]
+}

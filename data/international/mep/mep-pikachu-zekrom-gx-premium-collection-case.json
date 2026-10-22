@@ -1,0 +1,24 @@
+{
+  "id": "mep-pikachu-zekrom-gx-premium-collection-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Pikachu & Zekrom GX Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu & Zekrom GX Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693200
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693200/pokemon-miscellaneous-cards-and-products-pikachu-and-zekrom-gx-premium-collection-case"
+      ]
+    }
+  ]
+}

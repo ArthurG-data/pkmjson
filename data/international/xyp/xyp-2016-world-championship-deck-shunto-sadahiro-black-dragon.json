@@ -1,0 +1,31 @@
+{
+  "id": "xyp-2016-world-championship-deck-shunto-sadahiro-black-dragon",
+  "region": "international",
+  "set": "xyp",
+  "category": "battle_deck",
+  "name": "2016 World Championship Deck: Shunto Sadahiro (Black Dragon)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "2016 World Championships Deck Box",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-Card Champion Deck; 2016 World Championships Booklet, Special 2016 World Championships Deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2016 World Championship Deck: Shunto Sadahiro (Black Dragon)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          170459
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/170459/pokemon-world-championship-decks-2016-world-championship-deck-shunto-sadahiro-black-dragon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "svp-tyranitar-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Tyranitar Ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-120",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 554189,
+        "cardmarketProductId": 769420,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Tyranitar as a Tera Pokemon",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Tyranitar ex; 1 promo card featuring Larvitar; 6 Pokemon booster packs; 1 magnetic card protector with display base.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tyranitar Ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          596518
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/596518/pokemon-miscellaneous-cards-and-products-tyranitar-ex-box"
+      ]
+    }
+  ]
+}

@@ -5,23 +5,8 @@
   "category": "other",
   "name": "Costco Scarlet & Violet 151 Zapdos ex & Alakazam ex Bundle",
   "contentsStatus": "partial",
-  "contents": {
-    "other": [
-      {
-        "name": "(1) Oversize foil card featuring Zapdos ex",
-        "count": 1
-      },
-      {
-        "name": "Code card for Pokémon TCG Live",
-        "count": 1
-      },
-      {
-        "name": "Code card for Pokémon TCG Live",
-        "count": 1
-      }
-    ]
-  },
-  "notes": "Generated from TCGplayer's product text. Not resolved: (1) Foil promo card featuring Zapdos ex; (1) Foil card featuring Electabuzz; (1) Foil promo card featuring Alakazam ex; (1) Foil card featuring Kadabra; (1) Foil card featuring Abra.",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: (1) Foil promo card featuring Zapdos ex; (1) Foil card featuring Electabuzz; (1) Foil promo card featuring Alakazam ex; (1) Foil card featuring Kadabra; (1) Foil card featuring Abra; set of products.",
   "releases": [
     {
       "language": "en",

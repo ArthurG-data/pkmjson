@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pikachu-zekrom-gx-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Pikachu & Zekrom GX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "1x Code Card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1x Gold Foil [Pikachu and Zekrom GX] (Unreleased gold version); 1x Oversized foil card [Gold Pikachu & Zekrom GX].",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pikachu & Zekrom GX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          253396
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/253396/pokemon-miscellaneous-cards-and-products-pikachu-and-zekrom-gx-premium-collection"
+      ]
+    }
+  ]
+}

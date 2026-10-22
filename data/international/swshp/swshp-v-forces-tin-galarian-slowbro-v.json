@@ -1,0 +1,32 @@
+{
+  "id": "swshp-v-forces-tin-galarian-slowbro-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "V Forces Tin [Galarian Slowbro V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Forces Tin [Galarian Slowbro V]",
+      "releaseDate": "2021-02-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230400
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230400/pokemon-miscellaneous-cards-and-products-v-forces-tin-galarian-slowbro-v"
+      ]
+    }
+  ]
+}

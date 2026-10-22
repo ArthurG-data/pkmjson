@@ -1,0 +1,25 @@
+{
+  "id": "svp-pokemon-tcg-back-to-school-eraser-blister-2024-bellibolt",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Bellibolt]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Bellibolt]",
+      "releaseDate": "2024-07-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          549453
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/549453/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-2024-bellibolt"
+      ]
+    }
+  ]
+}

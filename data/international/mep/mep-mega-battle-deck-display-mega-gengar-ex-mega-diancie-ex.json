@@ -1,0 +1,24 @@
+{
+  "id": "mep-mega-battle-deck-display-mega-gengar-ex-mega-diancie-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Mega Battle Deck Display (Mega Gengar ex/Mega Diancie ex)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Battle Deck Display (Mega Gengar ex/Mega Diancie ex)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          661998
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/661998/pokemon-miscellaneous-cards-and-products-mega-battle-deck-display-mega-gengar-ex-mega-diancie-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "smp-knock-out-collection-lucario-bisharp-and-zoroark",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Lucario, Bisharp, and Zoroark]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Gleaming Pokémon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon Trading Card Game booster packs; 3 specially chosen foil cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Lucario, Bisharp, and Zoroark]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          186994
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/186994/pokemon-miscellaneous-cards-and-products-knock-out-collection-lucario-bisharp-and-zoroark"
+      ]
+    }
+  ]
+}

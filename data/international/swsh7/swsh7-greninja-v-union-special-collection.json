@@ -30,6 +30,22 @@
       "sources": [
         "https://www.tcgplayer.com/product/245878/pokemon-swsh07-evolving-skies-greninja-v-union-special-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collections spéciales Pokémon-V‑UNION (Mewtwo/Amphinobi/Zacian)",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collections-speciales-pokemon-v-union-mewtwo-amphinobi-zacian"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Pokémon-V-UNION (Mewtu/Quajutsu/Zacian)",
+      "releaseDate": "2021-09-24",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian"
+      ]
     }
   ]
 }

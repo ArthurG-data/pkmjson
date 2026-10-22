@@ -1,0 +1,25 @@
+{
+  "id": "swshp-first-partner-pack-unova",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "First Partner Pack (Unova)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: three oversize promo cards featuring the first partner Pokémon of the Unova region—Snivy, Tepig, Oshawott—plus two regular Pokémon TCG boosters.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Pack (Unova)",
+      "releaseDate": "2021-06-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          231302
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/231302/pokemon-first-partner-pack-first-partner-pack-unova"
+      ]
+    }
+  ]
+}

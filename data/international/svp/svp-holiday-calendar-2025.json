@@ -1,0 +1,40 @@
+{
+  "id": "svp-holiday-calendar-2025",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Holiday Calendar 2025",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coins",
+        "count": 2
+      },
+      {
+        "name": "Pokémon sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Plus, find a code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 foil Pokémon TCG cards with a festive stamp; 6 Pokémon TCG booster packs; 7 Pokémon TCG 3-card fun packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Holiday Calendar 2025",
+      "releaseDate": "2025-08-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          639828
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/639828/pokemon-miscellaneous-cards-and-products-holiday-calendar-2025"
+      ]
+    }
+  ]
+}

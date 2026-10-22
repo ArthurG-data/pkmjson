@@ -1,0 +1,35 @@
+{
+  "id": "svp-decidueye-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Decidueye ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil cards featuring Decidueye ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Rowlet; 1 promo card featuring Dartrix; 1 promo card featuring Decidueye ex; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Decidueye ex Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          604493
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/604493/pokemon-miscellaneous-cards-and-products-decidueye-ex-box"
+      ]
+    }
+  ]
+}

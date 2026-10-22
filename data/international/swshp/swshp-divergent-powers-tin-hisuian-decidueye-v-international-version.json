@@ -1,0 +1,42 @@
+{
+  "id": "swshp-divergent-powers-tin-hisuian-decidueye-v-international-version",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Divergent Powers Tin [Hisuian Decidueye V] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH238",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 275166,
+        "cardmarketProductId": 650948,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Divergent Powers Tin [Hisuian Decidueye V] (International Version)",
+      "releaseDate": "2022-06-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271942
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271942/pokemon-miscellaneous-cards-and-products-divergent-powers-tin-hisuian-decidueye-v-international-version"
+      ]
+    }
+  ]
+}

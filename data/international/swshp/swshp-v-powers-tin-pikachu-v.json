@@ -1,0 +1,32 @@
+{
+  "id": "swshp-v-powers-tin-pikachu-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "V Powers Tin [Pikachu V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Pikachu V; 5 Pokémon TCG Booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Powers Tin [Pikachu V]",
+      "releaseDate": "2020-09-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220308
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220308/pokemon-miscellaneous-cards-and-products-v-powers-tin-pikachu-v"
+      ]
+    }
+  ]
+}

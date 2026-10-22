@@ -1,0 +1,31 @@
+{
+  "id": "svp-2-booster-packs-celebi-collector-s-pin",
+  "region": "international",
+  "set": "svp",
+  "category": "booster_pack",
+  "name": "2 Booster Packs & Celebi Collector's Pin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2 Booster Packs & Celebi Collector's Pin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625049
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625049/pokemon-miscellaneous-cards-and-products-2-booster-packs-and-celebi-collectors-pin"
+      ]
+    }
+  ]
+}

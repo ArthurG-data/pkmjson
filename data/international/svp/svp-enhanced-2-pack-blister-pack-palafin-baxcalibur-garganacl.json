@@ -1,0 +1,35 @@
+{
+  "id": "svp-enhanced-2-pack-blister-pack-palafin-baxcalibur-garganacl",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Enhanced 2-Pack Blister Pack [Palafin, Baxcalibur & Garganacl]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards; 2 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Enhanced 2-Pack Blister Pack [Palafin, Baxcalibur & Garganacl]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616940
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616940/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-palafin-baxcalibur-and-garganacl"
+      ]
+    }
+  ]
+}

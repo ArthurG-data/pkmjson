@@ -1,0 +1,24 @@
+{
+  "id": "svp-paldea-friends-mini-tin-display-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Paldea Friends Mini Tin Display Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Friends Mini Tin Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          496020
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/496020/pokemon-miscellaneous-cards-and-products-paldea-friends-mini-tin-display-case"
+      ]
+    }
+  ]
+}

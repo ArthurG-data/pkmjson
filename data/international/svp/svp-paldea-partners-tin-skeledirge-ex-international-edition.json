@@ -1,0 +1,31 @@
+{
+  "id": "svp-paldea-partners-tin-skeledirge-ex-international-edition",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Paldea Partners Tin [Skeledirge ex] [International Edition]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Skeledirge ex promo; 4 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Partners Tin [Skeledirge ex] [International Edition]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          504435
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/504435/pokemon-miscellaneous-cards-and-products-paldea-partners-tin-skeledirge-ex-international-edition"
+      ]
+    }
+  ]
+}

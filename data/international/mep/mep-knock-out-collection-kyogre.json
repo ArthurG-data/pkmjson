@@ -1,0 +1,31 @@
+{
+  "id": "mep-knock-out-collection-kyogre",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Kyogre]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Kyogre; 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Kyogre]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          670782
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/670782/pokemon-miscellaneous-cards-and-products-knock-out-collection-kyogre"
+      ]
+    }
+  ]
+}

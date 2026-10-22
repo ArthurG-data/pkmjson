@@ -1,0 +1,24 @@
+{
+  "id": "mep-team-rocket-tin-set-of-3",
+  "region": "international",
+  "set": "mep",
+  "category": "other",
+  "name": "Team Rocket Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Team Rocket’s Mewtwo ex, Team Rocket’s Nidoking ex, or Team Rocket’s Persian ex; 5 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket Tin [Set of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653216
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653216/pokemon-miscellaneous-cards-and-products-team-rocket-tin-set-of-3"
+      ]
+    }
+  ]
+}

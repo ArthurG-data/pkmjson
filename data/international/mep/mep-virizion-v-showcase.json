@@ -1,0 +1,31 @@
+{
+  "id": "mep-virizion-v-showcase",
+  "region": "international",
+  "set": "mep",
+  "category": "other",
+  "name": "Virizion V Showcase",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Virizion V Promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Virizion V Showcase",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          659947
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/659947/pokemon-miscellaneous-cards-and-products-virizion-v-showcase"
+      ]
+    }
+  ]
+}

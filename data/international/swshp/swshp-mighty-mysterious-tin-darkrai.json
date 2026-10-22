@@ -1,0 +1,31 @@
+{
+  "id": "swshp-mighty-mysterious-tin-darkrai",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Mighty Mysterious Tin [Darkrai]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mighty Mysterious Tin [Darkrai]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          247819
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/247819/pokemon-miscellaneous-cards-and-products-mighty-mysterious-tin-darkrai"
+      ]
+    }
+  ]
+}

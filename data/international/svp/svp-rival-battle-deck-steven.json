@@ -1,0 +1,76 @@
+{
+  "id": "svp-rival-battle-deck-steven",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "Rival Battle Deck [Steven]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Set of damage counter",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Double-sided Playmat And Strategy Sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Rival Battle Deck [Steven]",
+      "releaseDate": "2025-05-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          623015
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/623015/pokemon-miscellaneous-cards-and-products-rival-battle-deck-steven"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat Rivalité – Rosemary et Pierre",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-rivalite-rosemary-et-pierre"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Rivalen-Kampfdeck Mary & Rivalen-Kampfdeck Troy",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/rivalen-kampfdeck-mary-rivalen-kampfdeck-troy"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Baraja Combate de Rivales Roxy y baraja Combate de Rivales Máximo",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-rivales-roxy-y-baraja-combate-de-rivales-maximo"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte tra Rivali Mary o Rocco",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-tra-rivali-mary-o-rocco"
+      ]
+    }
+  ]
+}

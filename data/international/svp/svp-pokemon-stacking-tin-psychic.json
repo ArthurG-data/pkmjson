@@ -1,0 +1,31 @@
+{
+  "id": "svp-pokemon-stacking-tin-psychic",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Psychic",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Psychic",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541168
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/541168/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-psychic"
+      ]
+    }
+  ]
+}

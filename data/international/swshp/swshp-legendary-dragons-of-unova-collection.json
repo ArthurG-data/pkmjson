@@ -1,0 +1,24 @@
+{
+  "id": "swshp-legendary-dragons-of-unova-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Legendary Dragons of Unova Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Dragons of Unova Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206316
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206316/pokemon-miscellaneous-cards-and-products-legendary-dragons-of-unova-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "swshp-legendary-birds-pin-3-pack-blister-moltres-pin",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Legendary Birds Pin 3 Pack Blister [Moltres Pin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of Moltres",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Birds Pin 3 Pack Blister [Moltres Pin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          266642
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/266642/pokemon-miscellaneous-cards-and-products-legendary-birds-pin-3-pack-blister-moltres-pin"
+      ]
+    }
+  ]
+}

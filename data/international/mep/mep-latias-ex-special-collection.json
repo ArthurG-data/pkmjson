@@ -1,0 +1,35 @@
+{
+  "id": "mep-latias-ex-special-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Latias ex Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Latias ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Latias ex; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Latias ex Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          657884
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/657884/pokemon-miscellaneous-cards-and-products-latias-ex-special-collection"
+      ]
+    }
+  ]
+}

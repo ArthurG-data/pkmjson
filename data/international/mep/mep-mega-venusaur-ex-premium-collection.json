@@ -1,0 +1,70 @@
+{
+  "id": "mep-mega-venusaur-ex-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Mega Venusaur ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "mep-013",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 666905,
+        "cardmarketProductId": 859011,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker featuring Mega Venusaur",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 oversize lenticular promo card featuring Mega Venusaur ex; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Venusaur ex Premium Collection",
+      "releaseDate": "2025-12-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          654212
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/654212/pokemon-miscellaneous-cards-and-products-mega-venusaur-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Mega Venusaur-ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-mega-venusaur-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Mega-Bisaflor-ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-mega-bisaflor-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium Mega-Venusaur ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-mega-venusaur-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Méga-Florizarre-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-mega-florizarre-ex"
+      ]
+    }
+  ]
+}

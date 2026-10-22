@@ -1,0 +1,56 @@
+{
+  "id": "svp-pokemon-tcg-trainer-s-toolkit-2024",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Pokemon TCG: Trainer's Toolkit (2024)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special Energy cards",
+        "count": 4
+      },
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Deck Builder’s Guide",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 Pokémon, including 2 copies of Squawkabilly ex; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Trainer's Toolkit (2024)",
+      "releaseDate": "2024-10-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          564274
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/564274/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2024"
+      ]
+    }
+  ]
+}

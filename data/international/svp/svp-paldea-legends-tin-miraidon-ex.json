@@ -1,0 +1,31 @@
+{
+  "id": "svp-paldea-legends-tin-miraidon-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Paldea Legends Tin [Miraidon ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Koraidon ex or Miraidon ex; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Legends Tin [Miraidon ex]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          497389
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/497389/pokemon-miscellaneous-cards-and-products-paldea-legends-tin-miraidon-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mep-checklane-2-pack-blister-archaludon-1-tab",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "Checklane 2-Pack Blister [Archaludon] (1-tab)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Blister [Archaludon] (1-tab)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          721885
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/721885/pokemon-miscellaneous-cards-and-products-checklane-2-pack-blister-archaludon-1-tab"
+      ]
+    }
+  ]
+}

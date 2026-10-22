@@ -1,0 +1,24 @@
+{
+  "id": "svp-eevee-evolution-vmax-premium-collection-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Eevee Evolution VMAX Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Eevee Evolution VMAX Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          604240
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/604240/pokemon-miscellaneous-cards-and-products-eevee-evolution-vmax-premium-collection-case"
+      ]
+    }
+  ]
+}

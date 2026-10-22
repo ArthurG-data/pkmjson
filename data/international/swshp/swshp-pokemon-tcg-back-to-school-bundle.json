@@ -1,0 +1,32 @@
+{
+  "id": "swshp-pokemon-tcg-back-to-school-bundle",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pokemon TCG: Back to School Bundle",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Back to School Pencil Case",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Back to School Eraser Blisters—featuring Pikachu and Eevee.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Back to School Bundle",
+      "releaseDate": "2022-07-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          273611
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/273611/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-bundle"
+      ]
+    }
+  ]
+}

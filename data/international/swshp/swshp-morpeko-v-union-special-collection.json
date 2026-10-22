@@ -1,0 +1,67 @@
+{
+  "id": "swshp-morpeko-v-union-special-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Morpeko V-UNION Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize card featuring Morpeko V-UNION",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 promo cards that make up a single Morpeko V-UNION; 1 helpful Supporter card featuring Professor Burnet; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Morpeko V-UNION Special Collection",
+      "releaseDate": "2022-04-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262646
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262646/pokemon-miscellaneous-cards-and-products-morpeko-v-union-special-collection"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección especial Morpeko V-UNIÓN",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-morpeko-v-union"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection spéciale Morpeko-V-UNION",
+      "releaseDate": "2022-04-08",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-morpeko-v-union"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione speciale Morpeko-V UNIONE",
+      "releaseDate": "2022-04-08",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-morpeko-v-unione"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial‑Kollektion Morpeko-V-UNION",
+      "releaseDate": "2022-04-08",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-morpeko-v-union"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "svp-2-pack-blister-pack-meganium-typhlosion-feraligatr",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "2-Pack Blister Pack [Meganium, Typhlosion & Feraligatr]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Basic Energy",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2-Pack Blister Pack [Meganium, Typhlosion & Feraligatr]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          482320
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/482320/pokemon-miscellaneous-cards-and-products-2-pack-blister-pack-meganium-typhlosion-and-feraligatr"
+      ]
+    }
+  ]
+}

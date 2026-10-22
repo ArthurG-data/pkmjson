@@ -7,7 +7,7 @@
   "identifiers": {
     "cardmarketProductId": 286956
   },
-  "contentsStatus": "complete",
+  "contentsStatus": "partial",
   "contents": {
     "other": [
       {
@@ -36,7 +36,7 @@
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
   "releases": [
     {
       "language": "en",

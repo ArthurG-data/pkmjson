@@ -1,0 +1,42 @@
+{
+  "id": "svp-team-rocket-tin-team-rocket-s-persian-ex-international-version",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Team Rocket Tin [Team Rocket's Persian ex] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-218",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 653259,
+        "cardmarketProductId": 832227,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket Tin [Team Rocket's Persian ex] (International Version)",
+      "releaseDate": "2025-09-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          649197
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/649197/pokemon-miscellaneous-cards-and-products-team-rocket-tin-team-rockets-persian-ex-international-version"
+      ]
+    }
+  ]
+}

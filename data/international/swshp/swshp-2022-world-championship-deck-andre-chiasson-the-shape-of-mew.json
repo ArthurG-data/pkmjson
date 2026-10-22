@@ -1,0 +1,52 @@
+{
+  "id": "swshp-2022-world-championship-deck-andre-chiasson-the-shape-of-mew",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "2022 World Championship Deck: Andre Chiasson (The Shape of Mew)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "World Championships booklet",
+        "count": 2022
+      },
+      {
+        "name": "Special 2022 World Championships pin",
+        "count": 1
+      },
+      {
+        "name": "World Championships coin",
+        "count": 2022
+      },
+      {
+        "name": "World Championships deck box",
+        "count": 2022
+      },
+      {
+        "name": "Playmat and poster",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-card World Championships Deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2022 World Championship Deck: Andre Chiasson (The Shape of Mew)",
+      "releaseDate": "2023-03-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          475656
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/475656/pokemon-world-championship-decks-2022-world-championship-deck-andre-chiasson-the-shape-of-mew"
+      ]
+    }
+  ]
+}

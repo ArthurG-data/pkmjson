@@ -1,0 +1,24 @@
+{
+  "id": "svp-charizard-ex-special-collection-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Charizard ex Special Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Charizard ex Special Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          639446
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/639446/pokemon-miscellaneous-cards-and-products-charizard-ex-special-collection-case"
+      ]
+    }
+  ]
+}

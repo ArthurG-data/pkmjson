@@ -1,0 +1,24 @@
+{
+  "id": "svp-yu-nagaba-x-pokemon-eevee-s-special-promo-pack",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Yu Nagaba x Pokemon - Eevee's Special Promo Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Yu Nagaba x Pokemon - Eevee's Special Promo Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          530756
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/530756/pokemon-miscellaneous-cards-and-products-yu-nagaba-x-pokemon-eevees-special-promo-pack"
+      ]
+    }
+  ]
+}

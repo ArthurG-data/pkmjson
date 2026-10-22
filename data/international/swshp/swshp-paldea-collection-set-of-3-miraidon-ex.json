@@ -1,0 +1,25 @@
+{
+  "id": "swshp-paldea-collection-set-of-3-miraidon-ex",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Paldea Collection [Set of 3] (Miraidon ex)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Sprigatito; 1 promo card featuring Fuecoco; 1 promo card featuring Quaxly; 4 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Collection [Set of 3] (Miraidon ex)",
+      "releaseDate": "2023-01-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          451121
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/451121/pokemon-miscellaneous-cards-and-products-paldea-collection-set-of-3-miraidon-ex"
+      ]
+    }
+  ]
+}

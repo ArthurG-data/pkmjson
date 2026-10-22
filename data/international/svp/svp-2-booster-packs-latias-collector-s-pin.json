@@ -1,0 +1,31 @@
+{
+  "id": "svp-2-booster-packs-latias-collector-s-pin",
+  "region": "international",
+  "set": "svp",
+  "category": "booster_pack",
+  "name": "2 Booster Packs & Latias Collector's Pin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2 Booster Packs & Latias Collector's Pin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625050
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625050/pokemon-miscellaneous-cards-and-products-2-booster-packs-and-latias-collectors-pin"
+      ]
+    }
+  ]
+}

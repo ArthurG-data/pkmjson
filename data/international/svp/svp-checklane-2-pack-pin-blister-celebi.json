@@ -1,0 +1,31 @@
+{
+  "id": "svp-checklane-2-pack-pin-blister-celebi",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Checklane 2-Pack Pin Blister [Celebi]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Celebi Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon Booster Packs (Booster packs will vary).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Pin Blister [Celebi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          489632
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/489632/pokemon-miscellaneous-cards-and-products-checklane-2-pack-pin-blister-celebi"
+      ]
+    }
+  ]
+}

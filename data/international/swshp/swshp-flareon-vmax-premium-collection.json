@@ -1,0 +1,43 @@
+{
+  "id": "swshp-flareon-vmax-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Flareon VMAX Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Etched oversize card featuring Flareon VMAX, suitable for display",
+        "count": 1
+      },
+      {
+        "name": "Colorful pin featuring Flareon",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched card featuring Flareon VMAX; 1 full-art card featuring Flareon V; 6 Pokémon TCG booster packs (packs vary per product).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Flareon VMAX Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          249705
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/249705/pokemon-miscellaneous-cards-and-products-flareon-vmax-premium-collection"
+      ]
+    }
+  ]
+}

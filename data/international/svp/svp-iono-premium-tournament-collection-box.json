@@ -1,0 +1,75 @@
+{
+  "id": "svp-iono-premium-tournament-collection-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Iono Premium Tournament Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-124",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 545661,
+        "cardmarketProductId": 751836,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Iono",
+        "count": 65
+      },
+      {
+        "name": "Sturdy deck box featuring Iono",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin featuring Iono",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Tournament-ready damage dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 additional foil Supporter cards featuring Iono; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Iono Premium Tournament Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545403
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545403/pokemon-miscellaneous-cards-and-products-iono-premium-tournament-collection-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección torneo prémium e‑Nigma",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-torneo-premium-e-nigma"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Tournoi Premium – Mashynn",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-tournoi-premium-mashynn"
+      ]
+    }
+  ]
+}

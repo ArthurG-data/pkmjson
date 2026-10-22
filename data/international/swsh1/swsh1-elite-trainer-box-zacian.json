@@ -57,6 +57,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/206038/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-elite-trainer-box-zacian"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Entrenador Élite de Espada y Escudo",
+      "releaseDate": "2020-02-07",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Dresseur d’élite d’Épée et Bouclier",
+      "releaseDate": "2020-02-07",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-dresseur-delite-depee-et-bouclier"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Top-Trainer-Box Schwert & Schild",
+      "releaseDate": "2020-02-07",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Set Allenatore Fuoriclasse dell’espansione Spada e Scudo",
+      "releaseDate": "2020-02-07",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo"
+      ]
     }
   ]
 }

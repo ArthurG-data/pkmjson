@@ -1,0 +1,35 @@
+{
+  "id": "swshp-pokemon-tcg-swsh-basic-energy-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Pokemon TCG: SWSH Basic Energy Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Assorted basic Energy cards to help you get started",
+        "count": 450
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: SWSH Basic Energy Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          209322
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/209322/pokemon-miscellaneous-cards-and-products-pokemon-tcg-swsh-basic-energy-box"
+      ]
+    }
+  ]
+}

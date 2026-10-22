@@ -1,0 +1,68 @@
+{
+  "id": "svp-back-to-school-2024-collector-chest",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Back-to-School 2024 Collector Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-065",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 526649,
+        "cardmarketProductId": 740403,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokémon coins featuring Scream Tail and Iron Valiant",
+        "count": 2
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favorite cards",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 6 Pokémon TCG booster packs; 1 promo card featuring Iron Valiant.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Back-to-School 2024 Collector Chest",
+      "releaseDate": "2024-07-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          549454
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/549454/pokemon-miscellaneous-cards-and-products-back-to-school-2024-collector-chest"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (Ritorno a scuola 2024)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-ritorno-a-scuola-2024"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (C’est la rentrée 2024)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-cest-la-rentree-2024"
+      ]
+    }
+  ]
+}

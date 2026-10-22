@@ -102,7 +102,8 @@ def stated_packs(items: list[str], language: str) -> int:
 
 
 class Catalog:
-    def __init__(self, families: list[Family]):
+    def __init__(self, families: list[Family], set_dates: dict[str, dt.date] | None = None):
+        self.set_dates = set_dates or {}
         self.families = [f for f in families if f.data["region"] == REGION]
         self.by_id = {f.data["id"]: f for f in self.families}
         # A "[Set of 3]" bundle or a case is several products sold together; pokemon.com shows the single product.
@@ -112,23 +113,47 @@ class Catalog:
                                      {r["name"] for r in f.data["releases"] if r["language"] == "en"}]
                       for f in self.families}
 
-    def match(self, english_name: str) -> tuple[list[Family], float]:
+    def match(self, english_name: str, launched: dt.date | None = None) -> tuple[list[Family], float]:
         """The families an English name is. One page often shows every variant of a product ("True Steel Premium
         Collection" is the [Zacian] and the [Zamazenta] family): variants tied for the best score, in one set and
         with the same name once the [variant] is dropped, all match."""
         wanted, kind = tokens(english_name), mechanics(english_name)
-        pool = [f for f in self.candidates if mechanics(f.data["name"]) == kind]
+        # Titles often leave the mechanic out ("Rayquaza vs. Keldeo" is "Keldeo EX vs Rayquaza EX"): only two named
+        # mechanics must agree.
+        pool = [f for f in self.candidates if not kind or not mechanics(f.data["name"]) or
+                mechanics(f.data["name"]) == kind]
+        if launched:
+            pool = [f for f in pool if self.fits_launch(f, launched)]
         scored = sorted(((max(similarity(wanted, t) for t in self.names[f.data["id"]]), f) for f in pool),
                         key=lambda t: -t[0])
         if not scored or scored[0][0] < MIN_SCORE:
             return [], scored[0][0] if scored else 0.0
         best = scored[0][0]
-        tied = [f for s, f in scored if s == best]
-        close = [f for s, f in scored if best - MARGIN < s < best]
-        variant_key = {(f.data["set"], fold(re.sub(r"\[[^\]]*\]", "", f.data["name"]))) for f in tied}
-        if close or len(variant_key) > 1:
-            return [], best
-        return tied, best
+        group = [f for s, f in scored if s > best - MARGIN]
+        if len(group) == 1 or self.variants(group, wanted):
+            return group, best
+        return [], best
+
+    @staticmethod
+    def variants(group: list[Family], wanted: set[str]) -> bool:
+        """Families that are variants of one product: in one set, with one name once the variant is dropped
+        ("[Zacian]", ": Darkness", " - Team Mystic"), or in one set and category, each named by the title ("Snorlax/
+        Morpeko Pin Collection" is the Snorlax and the Morpeko family)."""
+        if len({f.data["set"] for f in group}) != 1:
+            return False
+        # The brand is no variant: "Pokemon TCG: Trainer's Toolkit (2020)" and "(2021)" are two products.
+        names = [re.sub(r"^pok[eé]mon (?:tcg|trading card game):\s*", "", f.data["name"], flags=re.I) for f in group]
+        base = {fold(re.split(r"\s*(?:\[|:\s|\s-\s)", n, maxsplit=1)[0]) for n in names}
+        if len(base) == 1:
+            return True
+        common = set.intersection(*(tokens(f.data["name"]) for f in group))
+        return len({f.data["category"] for f in group}) == 1 and \
+            all(tokens(f.data["name"]) - common <= wanted for f in group)
+
+    def fits_launch(self, family: Family, launched: dt.date) -> bool:
+        """A product comes out from shortly before its set to a few years after it."""
+        released = self.set_dates.get(family.data["set"])
+        return released is None or -90 <= (launched - released).days <= 3 * 365
 
     def packs_of(self, family: Family) -> int:
         return sum(i["count"] for i in family.data["contents"].get("sealed", [])
@@ -148,7 +173,13 @@ def main(argv: list[str] | None = None) -> int:
     set_names = {lang: {s["id"]: s["name"] for s in fetcher.get(f"{TCGDEX_API}/{lang}/sets") or []}
                  for lang in LANGUAGES}
 
-    catalog = Catalog(load(args.data))
+    loaded = load(args.data)
+    set_dates = {}
+    for set_id in {f.data["set"] for f in loaded if f.data["region"] == REGION}:
+        released = (fetcher.get(f"{TCGDEX_API}/en/sets/{set_id}") or {}).get("releaseDate")
+        if released:
+            set_dates[set_id] = dt.date.fromisoformat(released)
+    catalog = Catalog(loaded, set_dates)
     printed = official_set_names()
     review, added, changed = [], {lang: 0 for lang in LANGUAGES}, {}
     claimed: dict[str, str] = {}
@@ -162,7 +193,8 @@ def main(argv: list[str] | None = None) -> int:
         # The packs the official page states. A page without a list cannot be checked against its versions.
         us_items = us.get("items") or []
         for index, name in enumerate(english):
-            families, score = catalog.match(name)
+            launched = launch_day(us.get("date"))
+            families, score = catalog.match(name, dt.date.fromisoformat(launched) if launched else None)
             if not families:
                 review.append({"page": path, "title": name, "reason": "no family", "score": round(score, 2)})
                 continue

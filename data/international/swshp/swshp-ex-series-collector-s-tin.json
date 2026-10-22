@@ -1,0 +1,41 @@
+{
+  "id": "swshp-ex-series-collector-s-tin",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "EX Series Collector's Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "ex2-sandstorm-booster-pack",
+        "count": 2
+      }
+    ],
+    "other": [
+      {
+        "name": "Double-sided poster, featuring Ruby & Sapphire characters",
+        "count": 1
+      },
+      {
+        "name": "Card checklist",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon-e TCG: EX Ruby & Sapphire Boosters; 2 holofoil cards (Pikachu & Meowth).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "EX Series Collector's Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          206390
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/206390/pokemon-miscellaneous-cards-and-products-ex-series-collectors-tin"
+      ]
+    }
+  ]
+}

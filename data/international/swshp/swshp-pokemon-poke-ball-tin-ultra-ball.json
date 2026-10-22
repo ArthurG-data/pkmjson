@@ -1,0 +1,31 @@
+{
+  "id": "swshp-pokemon-poke-ball-tin-ultra-ball",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Ultra Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Ultra Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210169
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210169/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-ultra-ball"
+      ]
+    }
+  ]
+}

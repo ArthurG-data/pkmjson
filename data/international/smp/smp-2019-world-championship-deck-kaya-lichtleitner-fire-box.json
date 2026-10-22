@@ -1,0 +1,25 @@
+{
+  "id": "smp-2019-world-championship-deck-kaya-lichtleitner-fire-box",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "2019 World Championship Deck: Kaya Lichtleitner (Fire Box)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2019 World Championship Deck: Kaya Lichtleitner (Fire Box)",
+      "releaseDate": "2019-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200137
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200137/pokemon-world-championship-decks-2019-world-championship-deck-kaya-lichtleitner-fire-box"
+      ]
+    }
+  ]
+}

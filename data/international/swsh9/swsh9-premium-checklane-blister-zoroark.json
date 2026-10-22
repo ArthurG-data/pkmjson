@@ -4,7 +4,7 @@
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Premium Checklane Blister [Zoroark]",
-  "contentsStatus": "complete",
+  "contentsStatus": "partial",
   "contents": {
     "other": [
       {
@@ -13,7 +13,7 @@
       }
     ]
   },
-  "notes": "Generated from TCGplayer's product text.",
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
   "releases": [
     {
       "language": "en",

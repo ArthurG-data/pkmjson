@@ -1,0 +1,69 @@
+{
+  "id": "svp-pokemon-tcg-battle-academy-2024",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Pokemon TCG: Battle Academy 2024",
+  "identifiers": {
+    "cardmarketProductId": 764568
+  },
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Tutorial guides to play right away",
+        "count": 2
+      },
+      {
+        "name": "Deck boxes to keep the cards organized",
+        "count": 3
+      },
+      {
+        "name": "Rulebook",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 complete Pokémon TCG decks (60 cards each); a powerful special Pokémon: Pikachu ex, Armarouge ex and Darkrai ex; 1 two-player game board.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Battle Academy 2024",
+      "releaseDate": "2024-06-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          551930
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/551930/pokemon-battle-academy-2024-pokemon-tcg-battle-academy-2024"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Accademia Lotta del Gioco di Carte Collezionabili Pokémon (2024)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/accademia-lotta-2024"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Jeu de Cartes à Collectionner Pokémon : Académie de Combat (2024)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/academie-de-combat-2024"
+      ]
+    }
+  ]
+}

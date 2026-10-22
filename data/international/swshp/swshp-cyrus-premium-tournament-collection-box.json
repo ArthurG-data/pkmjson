@@ -1,0 +1,52 @@
+{
+  "id": "swshp-cyrus-premium-tournament-collection-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Cyrus Premium Tournament Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves featuring Cyrus OR Klara",
+        "count": 65
+      },
+      {
+        "name": "Sturdy deck box featuring Cyrus OR Klara",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin featuring Cyrus OR Klara",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Tournament-ready damage dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil Supporter card featuring Cyrus OR Klara; 3 additional foil Supporter cards featuring Cyrus OR Klara; 7 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cyrus Premium Tournament Collection Box",
+      "releaseDate": "2023-03-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477286
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477286/pokemon-miscellaneous-cards-and-products-cyrus-premium-tournament-collection-box"
+      ]
+    }
+  ]
+}

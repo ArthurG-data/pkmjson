@@ -1,0 +1,45 @@
+{
+  "id": "swshp-vmax-dragons-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "VMAX Dragons Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH147",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 250577,
+        "cardmarketProductId": 576723,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Foil oversize cards featuring Rayquaza VMAX and Duraludon VMAX",
+        "count": 2
+      },
+      {
+        "name": "Code card usable in either the Pokémon TCG Online or Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Rayquaza VMAX; 1 promo card featuring Duraludon VMAX; 1 promo card featuring Duraludon V; 11 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "VMAX Dragons Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          287228
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/287228/pokemon-miscellaneous-cards-and-products-vmax-dragons-premium-collection"
+      ]
+    }
+  ]
+}

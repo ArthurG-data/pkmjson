@@ -48,6 +48,13 @@
       "sources": [
         "https://www.pokepedia.fr/Collection_sp%C3%A9ciale_Pok%C3%A9mon_GO_%C3%89quipe_Intuition"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Colecciones especiales de Pokémon GO (Equipo Valor, Equipo Instinto y Equipo Sabiduría)",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-de-pokemon-go-equipo-valor-equipo-instinto-y-equipo-sabiduria"
+      ]
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "swshp-hidden-potential-tin-set-of-3",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Hidden Potential Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Rotom V, Gallade V, or Giratina V; 5 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Potential Tin [Set of 3]",
+      "releaseDate": "2022-10-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          281993
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/281993/pokemon-miscellaneous-cards-and-products-hidden-potential-tin-set-of-3"
+      ]
+    }
+  ]
+}

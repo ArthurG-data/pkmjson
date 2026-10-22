@@ -1,0 +1,24 @@
+{
+  "id": "swshp-first-partner-packs-set-of-8-binder",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "First Partner Packs [Set of 8] + Binder",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Packs [Set of 8] + Binder",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          261803
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/261803/pokemon-first-partner-pack-first-partner-packs-set-of-8-plus-binder"
+      ]
+    }
+  ]
+}

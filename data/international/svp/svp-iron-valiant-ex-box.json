@@ -1,0 +1,60 @@
+{
+  "id": "svp-iron-valiant-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Iron Valiant ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-068",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 527879,
+        "cardmarketProductId": 740409,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Iron Valiant ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Iron Moth; 1 foil Trainer card featuring Ancient Booster Energy Capsule; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Iron Valiant ex Box",
+      "releaseDate": "2023-11-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516578
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/516578/pokemon-miscellaneous-cards-and-products-iron-valiant-ex-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Eisenkrieger‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-donnersichel-ex-kollektion-eisenkrieger-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Garde-de-Fer-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-rugit-lune-ex-coffret-garde-de-fer-ex"
+      ]
+    }
+  ]
+}

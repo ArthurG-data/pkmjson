@@ -1,0 +1,24 @@
+{
+  "id": "svp-paldea-legends-tins-bundle-of-2-international-version",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Paldea Legends Tins [Bundle of 2] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Legends Tins [Bundle of 2] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          543171
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/543171/pokemon-miscellaneous-cards-and-products-paldea-legends-tins-bundle-of-2-international-version"
+      ]
+    }
+  ]
+}

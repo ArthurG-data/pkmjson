@@ -1,0 +1,51 @@
+{
+  "id": "svp-2025-world-championship-deck-riley-mckay-flutter-devo-gardevoir",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "2025 World Championship Deck: Riley McKay (Flutter Devo Gardevoir)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "1x 2025 World Championships booklet",
+        "count": 1
+      },
+      {
+        "name": "1x 2025 World Champions-themed pin",
+        "count": 1
+      },
+      {
+        "name": "1x 2025 World Champions-themed coin",
+        "count": 1
+      },
+      {
+        "name": "1x 2025 World Champions-themed deck box",
+        "count": 1
+      },
+      {
+        "name": "1x paper playmat and poster",
+        "count": 1
+      },
+      {
+        "name": "1x code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2025 World Championship Deck: Riley McKay (Flutter Devo Gardevoir)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          696636
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/696636/pokemon-world-championship-decks-2025-world-championship-deck-riley-mckay-flutter-devo-gardevoir"
+      ]
+    }
+  ]
+}

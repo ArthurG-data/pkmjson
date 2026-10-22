@@ -1,0 +1,25 @@
+{
+  "id": "mep-mega-forces-tin-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Mega Forces Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Forces Tin Case",
+      "releaseDate": "2026-08-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          702509
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/702509/pokemon-miscellaneous-cards-and-products-mega-forces-tin-case"
+      ]
+    }
+  ]
+}

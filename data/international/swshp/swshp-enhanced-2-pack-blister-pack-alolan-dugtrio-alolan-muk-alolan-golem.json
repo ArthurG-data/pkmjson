@@ -1,0 +1,31 @@
+{
+  "id": "swshp-enhanced-2-pack-blister-pack-alolan-dugtrio-alolan-muk-alolan-golem",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Enhanced 2-Pack Blister Pack [Alolan Dugtrio, Alolan Muk, & Alolan Golem]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Basic Energy",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Enhanced 2-Pack Blister Pack [Alolan Dugtrio, Alolan Muk, & Alolan Golem]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          283135
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/283135/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-alolan-dugtrio-alolan-muk-and-alolan-golem"
+      ]
+    }
+  ]
+}

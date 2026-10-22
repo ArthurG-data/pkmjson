@@ -1,0 +1,63 @@
+{
+  "id": "swshp-hidden-potential-tin-rotom-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Hidden Potential Tin [Rotom V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH257",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 450653,
+        "cardmarketProductId": 674373,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hidden Potential Tin [Rotom V]",
+      "releaseDate": "2022-10-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          281981
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/281981/pokemon-miscellaneous-cards-and-products-hidden-potential-tin-rotom-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box Verborgenes Potenzial",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-verborgenes-potenzial"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Potencial Oculto",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-potencial-oculto"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatole da collezione Potenziale Nascosto",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-potenziale-nascosto"
+      ]
+    }
+  ]
+}

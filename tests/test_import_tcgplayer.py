@@ -116,7 +116,7 @@ def test_boosters_are_packs_and_a_named_booster_box_is_a_product():
 
 
 def test_an_item_that_names_no_accessory_is_not_other():
-    bundle = _parse(SV01, "Sam's Club Bundle", "• 1 coin\n• Raichu\n• Machamp")
+    bundle = _parse(SV01, "Kanto Friends Collection", "• 1 coin\n• Raichu\n• Machamp")
     assert [o["name"] for o in bundle.other] == ["Coin"]
     assert [u["line"] for u in bundle.unresolved] == ["Raichu", "Machamp"]
     trainer_box = _parse(SV01, "Premium Trainer Box ex",
@@ -139,6 +139,19 @@ def test_random_and_promos_are_never_other():
 def test_a_starter_set_is_a_deck():
     assert classify("ex Starter Set Pikachu ex & Pawmot") == "battle_deck"
     assert classify("Start Deck 100 Battle Collection") == "battle_deck"
+
+
+def test_a_store_bundle_of_two_products_lists_nothing():
+    for name in ("Costco Evolving Skies Elite Trainer Box and Tin", "Paldea Legends Tins [Bundle of 2]"):
+        bundle = _parse(SV01, name, "• 8 Scarlet & Violet booster packs\n• 65 card sleeves")
+        assert bundle.sealed == [] and bundle.other == [] and not bundle.complete
+
+
+def test_a_product_that_always_holds_packs_is_not_complete_without_them():
+    tin = _parse(SV01, "Galar Power Mini Tin [Dragapult]", "• 1 Metallic Pokemon coin")
+    assert [o["name"] for o in tin.other] == ["Metallic Pokemon coin"] and not tin.complete
+    blister = _parse(SV01, "Mythical 2-Pack Blister [Celebi]", "• 1 Scarlet & Violet booster pack\n• 1 coin")
+    assert not blister.complete
 
 
 def test_a_rerun_keeps_the_name_and_date_another_tool_gave_the_release():

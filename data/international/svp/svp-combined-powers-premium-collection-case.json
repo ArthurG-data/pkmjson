@@ -1,0 +1,24 @@
+{
+  "id": "svp-combined-powers-premium-collection-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Combined Powers Premium Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Combined Powers Premium Collection Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532402
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532402/pokemon-miscellaneous-cards-and-products-combined-powers-premium-collection-case"
+      ]
+    }
+  ]
+}

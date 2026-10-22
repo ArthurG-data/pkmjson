@@ -1,0 +1,40 @@
+{
+  "id": "svp-hop-s-zacian-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Hop's Zacian ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Hop's Zacian ex",
+        "count": 1
+      },
+      {
+        "name": "Photo sticker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Hop's Zacian ex 2 foil cards featuring Hap's Wootoo and Hop's Dubwool; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hop's Zacian ex Box",
+      "releaseDate": "2025-03-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616303
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616303/pokemon-miscellaneous-cards-and-products-hops-zacian-ex-box"
+      ]
+    }
+  ]
+}

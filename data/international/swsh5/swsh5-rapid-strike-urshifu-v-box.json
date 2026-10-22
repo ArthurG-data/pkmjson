@@ -41,6 +41,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/231296/pokemon-swsh05-battle-styles-rapid-strike-urshifu-v-box"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Shifours Poing Final‑V et Coffret Shifours Mille Poings‑V",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-shifours-poing-final-v-et-coffret-shifours-mille-poings-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Urshifu Golpe Brusco V y Colección Urshifu Golpe Fluido V",
+      "releaseDate": "2021-04-02",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-urshifu-golpe-brusco-v-y-coleccion-urshifu-golpe-fluido-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Fokussierter-Angriff-Wulaosu-V und Kollektion Fließender-Angriff-Wulaosu-V",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-fokussierter-angriff-wulaosu-v-und-kollektion-fliessender-angriff-wulaosu-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Urshifu Singolcolpo-V e collezione Urshifu Pluricolpo-V",
+      "releaseDate": "2021-03-19",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-urshifu-singolcolpo-v-e-collezione-urshifu-pluricolpo-v"
+      ]
     }
   ]
 }

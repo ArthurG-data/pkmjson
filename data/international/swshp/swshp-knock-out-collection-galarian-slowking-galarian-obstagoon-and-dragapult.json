@@ -1,0 +1,45 @@
+{
+  "id": "swshp-knock-out-collection-galarian-slowking-galarian-obstagoon-and-dragapult",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Galarian Slowking, Galarian Obstagoon, and Dragapult]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH132",
+        "tcgdexVariantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "tcgplayerProductId": 251088,
+        "cardmarketProductId": 576731,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Pokémon TCG Live code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Galarian Slowking; 1 foil card featuring Galarian Obstagoon; 2 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Galarian Slowking, Galarian Obstagoon, and Dragapult]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477475
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477475/pokemon-miscellaneous-cards-and-products-knock-out-collection-galarian-slowking-galarian-obstagoon-and-dragapult"
+      ]
+    }
+  ]
+}

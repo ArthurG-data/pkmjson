@@ -1,0 +1,44 @@
+{
+  "id": "smp-let-s-play-pokemon-tcg-box",
+  "region": "international",
+  "set": "smp",
+  "category": "collection_box",
+  "name": "Let's Play Pokemon TCG Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic coins",
+        "count": 2
+      },
+      {
+        "name": "Deck boxes",
+        "count": 2
+      },
+      {
+        "name": "Single-player playmats",
+        "count": 2
+      },
+      {
+        "name": "Damage counter sheets",
+        "count": 2
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 decks of 60 Pokemon cards; 2 rulebooks to teach you the basics of the game—one for each deck.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Let's Play Pokemon TCG Box",
+      "releaseDate": "2019-12-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          202117
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/202117/pokemon-miscellaneous-cards-and-products-lets-play-pokemon-tcg-box"
+      ]
+    }
+  ]
+}

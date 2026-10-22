@@ -1,0 +1,41 @@
+{
+  "id": "mep-mega-greninja-ex-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Mega Greninja ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "mep-081",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 704879,
+        "cardmarketProductId": 885516,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Tech sticker featuring Mega Greninja",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 oversize lenticular promo card featuring Mega Greninja ex; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Greninja ex Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          690660
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/690660/pokemon-miscellaneous-cards-and-products-mega-greninja-ex-premium-collection"
+      ]
+    }
+  ]
+}

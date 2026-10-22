@@ -1,0 +1,52 @@
+{
+  "id": "smp-battle-arena-deck-rayquaza-gx",
+  "region": "international",
+  "set": "smp",
+  "category": "battle_deck",
+  "name": "Battle Arena Deck: Rayquaza GX",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special Supporter card with all-new art",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "-player paper playmat and rulesheet",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Quick guide to unlock power strategies within",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil cards featuring Rayquaza GX; 1 foil Prism Star card; 6 foil basic Energy cards; A code card of this deck for Pokemon Trading Card Game Online; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Battle Arena Deck: Rayquaza GX",
+      "releaseDate": "2019-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198526
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198526/pokemon-miscellaneous-cards-and-products-battle-arena-deck-rayquaza-gx"
+      ]
+    }
+  ]
+}

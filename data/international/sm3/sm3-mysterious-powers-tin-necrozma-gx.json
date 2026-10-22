@@ -44,6 +44,30 @@
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Pouvoirs_Myst%C3%A9rieux_Necrozma-GX"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Poderes Misteriosos",
+      "releaseDate": "2017-10-20",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-misteriosos"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box Mysteriöse Mächte",
+      "releaseDate": "2017-10-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-mysterioese-maechte"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatole da collezione Poteri Misteriosi",
+      "releaseDate": "2017-10-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-poteri-misteriosi"
+      ]
     }
   ]
 }

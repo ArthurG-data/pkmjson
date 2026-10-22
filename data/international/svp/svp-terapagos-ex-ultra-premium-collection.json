@@ -1,0 +1,96 @@
+{
+  "id": "svp-terapagos-ex-ultra-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Terapagos ex Ultra-Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-165",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 596422,
+        "cardmarketProductId": 796944,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-164",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 596421,
+        "cardmarketProductId": 796941,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-163",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 596420,
+        "cardmarketProductId": 796939,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Magnetic 3-card protector with base",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 foil Basic Energy cards; 18 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Terapagos ex Ultra-Premium Collection",
+      "releaseDate": "2024-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575198
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575198/pokemon-miscellaneous-cards-and-products-terapagos-ex-ultra-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Ultra‑Premium Terapagos‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-ultra-premium-terapagos-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione ultra premium Terapagos‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultra-premium-terapagos-ex"
+      ]
+    }
+  ]
+}

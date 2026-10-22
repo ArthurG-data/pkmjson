@@ -1,0 +1,25 @@
+{
+  "id": "swshp-v-forces-tin-display",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "V Forces Tin Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Forces Tin Display",
+      "releaseDate": "2021-02-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230399
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230399/pokemon-miscellaneous-cards-and-products-v-forces-tin-display"
+      ]
+    }
+  ]
+}

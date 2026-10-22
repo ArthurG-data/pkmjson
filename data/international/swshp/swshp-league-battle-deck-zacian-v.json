@@ -1,0 +1,83 @@
+{
+  "id": "swshp-league-battle-deck-zacian-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Zacian V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Acrylic condition markers",
+        "count": 2
+      },
+      {
+        "name": "Acrylic TAG TEAM GX marker",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock the strategies within",
+        "count": 1
+      },
+      {
+        "name": "Pokemon TCG rulebook",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck, including 2 Pokemon V; 1 TAG TEAM Pokemon-GX; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Zacian V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          226138
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/226138/pokemon-miscellaneous-cards-and-products-league-battle-deck-zacian-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Liga-Kampfdeck Zacian-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-zacian-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat de Ligue – Zacian-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-zacian-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Mazzo Lotte di Lega Zacian-V",
+      "releaseDate": "2020-11-20",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-zacian-v"
+      ]
+    }
+  ]
+}

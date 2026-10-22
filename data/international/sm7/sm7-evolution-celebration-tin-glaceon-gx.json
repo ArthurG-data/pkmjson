@@ -26,6 +26,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/175555/pokemon-sm-celestial-storm-evolution-celebration-tin-glaceon-gx"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Celebración de Evolución",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-celebracion-de-evolucion"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Festa Evolutiva",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-festa-evolutiva"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box Entwicklungsfest",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-entwicklungsfest"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Célébration d’Évolutions",
+      "releaseDate": "2018-09-21",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/jcc-pokemon-boite-celebration-devolutions"
+      ]
     }
   ]
 }

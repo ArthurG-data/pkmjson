@@ -19,6 +19,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/107109/pokemon-xy-breakthrough-xy-breakthrough-collector-chest"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection",
+      "releaseDate": "2018-03-23",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione",
+      "releaseDate": "2018-03-23",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-primavera-2018"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer",
+      "releaseDate": "2018-03-23",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-des-pokemon-sammelkartenspiels"
+      ]
     }
   ]
 }

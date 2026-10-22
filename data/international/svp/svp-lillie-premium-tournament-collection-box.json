@@ -1,0 +1,86 @@
+{
+  "id": "svp-lillie-premium-tournament-collection-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Lillie Premium Tournament Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-195",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 628317,
+        "cardmarketProductId": 810396,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Lillie",
+        "count": 65
+      },
+      {
+        "name": "Sturdy deck box featuring Lillie",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin featuring Lillie",
+        "count": 1
+      },
+      {
+        "name": "Photo sticker featuring Lillie",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Tournament-ready damage dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 foil Pokémon Tool cards featuring Lillie’s Pearl; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lillie Premium Tournament Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          626605
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/626605/pokemon-miscellaneous-cards-and-products-lillie-premium-tournament-collection-box"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Turnierkollektion Lilly",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-turnierkollektion-lilly"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Tournoi Premium – Lilie",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-tournoi-premium-lilie"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione torneo premium Lylia",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-torneo-premium-lylia"
+      ]
+    }
+  ]
+}

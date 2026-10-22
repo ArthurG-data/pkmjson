@@ -1,0 +1,31 @@
+{
+  "id": "swshp-2-pack-blister-snorlax-morpeko-applin-cards",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "2 Pack Blister [Snorlax, Morpeko & Applin Cards]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 booster packs; three promotional cards: Snorlax, Morpeko & Applin.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2 Pack Blister [Snorlax, Morpeko & Applin Cards]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          248714
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/248714/pokemon-miscellaneous-cards-and-products-2-pack-blister-snorlax-morpeko-and-applin-cards"
+      ]
+    }
+  ]
+}

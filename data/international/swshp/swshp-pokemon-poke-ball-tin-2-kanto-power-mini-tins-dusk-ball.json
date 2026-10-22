@@ -1,0 +1,39 @@
+{
+  "id": "swshp-pokemon-poke-ball-tin-2-kanto-power-mini-tins-dusk-ball",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin + 2 Kanto Power Mini Tins - Dusk Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokemon art card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; 2 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin + 2 Kanto Power Mini Tins - Dusk Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245519
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245519/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-plus-2-kanto-power-mini-tins-dusk-ball"
+      ]
+    }
+  ]
+}

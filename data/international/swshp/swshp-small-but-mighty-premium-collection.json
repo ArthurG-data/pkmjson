@@ -1,0 +1,32 @@
+{
+  "id": "swshp-small-but-mighty-premium-collection",
+  "region": "international",
+  "set": "swshp",
+  "category": "premium_collection",
+  "name": "Small But Mighty Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Togepi, Cleffa & Igglybuff Enamel Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 Booster Packs; 1 Togepi, Cleffa & Igglybuff Tag Team Promo Card; 1 Togepi, Cleffa & Igglybuff Promo Coin; 1 Togepi, Cleffa & Igglybuff Keyring.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Small But Mighty Premium Collection",
+      "releaseDate": "2020-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          226128
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/226128/pokemon-miscellaneous-cards-and-products-small-but-mighty-premium-collection"
+      ]
+    }
+  ]
+}

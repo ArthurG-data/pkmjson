@@ -1,0 +1,31 @@
+{
+  "id": "mep-blastoise-ex-tin-retail-exclusive",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Blastoise EX Tin (Retail Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A foil card featuring Blastoise-EX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Blastoise EX Tin (Retail Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          711498
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/711498/pokemon-miscellaneous-cards-and-products-blastoise-ex-tin-retail-exclusive"
+      ]
+    }
+  ]
+}

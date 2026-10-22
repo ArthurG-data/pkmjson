@@ -1,0 +1,24 @@
+{
+  "id": "swshp-v-powers-tin-set-of-3-international-version",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "V Powers Tin [Set of 3] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG Booster packs (per tin); set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Powers Tin [Set of 3] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          256833
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/256833/pokemon-miscellaneous-cards-and-products-v-powers-tin-set-of-3-international-version"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "smp-2017-world-championship-deck-zachary-bokhari-ice-path-ftw",
+  "region": "international",
+  "set": "smp",
+  "category": "battle_deck",
+  "name": "2017 World Championship Deck: Zachary Bokhari (Ice Path FTW)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2017 World Championship Deck: Zachary Bokhari (Ice Path FTW)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          175266
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/175266/pokemon-world-championship-decks-2017-world-championship-deck-zachary-bokhari-ice-path-ftw"
+      ]
+    }
+  ]
+}

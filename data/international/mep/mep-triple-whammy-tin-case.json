@@ -1,0 +1,24 @@
+{
+  "id": "mep-triple-whammy-tin-case",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "Triple Whammy Tin Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Triple Whammy Tin Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          692924
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/692924/pokemon-miscellaneous-cards-and-products-triple-whammy-tin-case"
+      ]
+    }
+  ]
+}

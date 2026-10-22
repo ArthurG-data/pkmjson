@@ -1,0 +1,35 @@
+{
+  "id": "svp-knock-out-collection-shaymin-zeraora-and-marshadow",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Shaymin, Zeraora, and Marshadow]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Pokémon TCG Live code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Shaymin; 1 foil card featuring Zeraora; 1 foil card featuring Marshadow; 2 Pokemon TCG Booster Packs (packs may vary).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Shaymin, Zeraora, and Marshadow]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          543172
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/543172/pokemon-miscellaneous-cards-and-products-knock-out-collection-shaymin-zeraora-and-marshadow"
+      ]
+    }
+  ]
+}

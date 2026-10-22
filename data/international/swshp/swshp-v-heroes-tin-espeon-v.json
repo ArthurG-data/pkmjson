@@ -1,0 +1,64 @@
+{
+  "id": "swshp-v-heroes-tin-espeon-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "V Heroes Tin [Espeon V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH201",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 268710,
+        "cardmarketProductId": 609460,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Heroes Tin [Espeon V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262969
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262969/pokemon-miscellaneous-cards-and-products-v-heroes-tin-espeon-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Héroes V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-heroes-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Tin-Box V-Helden",
+      "releaseDate": "2022-04-08",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-v-helden"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Eroi V",
+      "releaseDate": "2022-04-08",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-eroi-v"
+      ]
+    }
+  ]
+}

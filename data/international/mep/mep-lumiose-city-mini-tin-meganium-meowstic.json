@@ -1,0 +1,40 @@
+{
+  "id": "mep-lumiose-city-mini-tin-meganium-meowstic",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Lumiose City Mini Tin [Meganium & Meowstic]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lumiose City Mini Tin [Meganium & Meowstic]",
+      "releaseDate": "2026-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          685576
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/685576/pokemon-miscellaneous-cards-and-products-lumiose-city-mini-tin-meganium-and-meowstic"
+      ]
+    }
+  ]
+}

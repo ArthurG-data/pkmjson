@@ -1,0 +1,41 @@
+{
+  "id": "swshp-knock-out-collection-boltund-eiscue-galarian-sirfetch-d",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Boltund, Eiscue, Galarian Sirfetch'd]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH128",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 247292,
+        "cardmarketProductId": 568800,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Metallic Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Boltund; 1 foil card featuring Galarian Sirfetch'd; 2 Pokemon TCG Booster Packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Boltund, Eiscue, Galarian Sirfetch'd]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          264422
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/264422/pokemon-miscellaneous-cards-and-products-knock-out-collection-boltund-eiscue-galarian-sirfetchd"
+      ]
+    }
+  ]
+}

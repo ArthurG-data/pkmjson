@@ -1,0 +1,24 @@
+{
+  "id": "mep-2-pack-blister-raikou-1-tab",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "2-Pack Blister [Raikou] (1-tab)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2-Pack Blister [Raikou] (1-tab)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          671274
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/671274/pokemon-miscellaneous-cards-and-products-2-pack-blister-raikou-1-tab"
+      ]
+    }
+  ]
+}

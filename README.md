@@ -60,7 +60,9 @@ because the set has none of its own. `logoKind` marks a product image or set sym
 - **English and Japanese contents:** `tools/import_tcgplayer.py` reads TCGplayer's product text through tcgcsv.com,
   from category 3 for English and, with `--category 85`, category 85 for Japanese. A file stays `partial` when the text
   leaves something out or names something the tool cannot pin to a product or card. What was left over goes to
-  `review/tcgplayer-<category>.json`.
+  `review/tcgplayer-<category>.json`. Products TCGplayer files outside any expansion ("Miscellaneous Cards &
+  Products", World Championships decks) go under the promo set of the era they were released in, such as `svp` or
+  `swshp`, because that is where their promo cards are.
 - **Japanese names and dates:** `tools/import_pokemon_card_jp.py` matches pokemon-card.com's product search to
   those families. A match requires both the TCGdex set's name and its release date. Where it matches, the `ja`
   release gets the official name, date and search page.

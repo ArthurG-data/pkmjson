@@ -1,0 +1,36 @@
+{
+  "id": "swshp-kyurem-v-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Kyurem V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Kyurem V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Kyurem V; 1 foil card featuring Zekrom; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kyurem V Box",
+      "releaseDate": "2022-11-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          286477
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/286477/pokemon-miscellaneous-cards-and-products-kyurem-v-box"
+      ]
+    }
+  ]
+}

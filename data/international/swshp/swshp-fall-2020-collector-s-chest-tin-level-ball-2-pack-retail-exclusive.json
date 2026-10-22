@@ -1,0 +1,77 @@
+{
+  "id": "swshp-fall-2020-collector-s-chest-tin-level-ball-2-pack-retail-exclusive",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Fall 2020 Collector's Chest Tin + Level Ball 2-Pack (Retail Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH277",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475621,
+        "cardmarketProductId": 682974,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH278",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475622,
+        "cardmarketProductId": 682975,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "swshp-SWSH279",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 475623,
+        "cardmarketProductId": 682976,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Cool Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Colorful sticker sheets",
+        "count": 4
+      },
+      {
+        "name": "Mini portfolio to store your favourite cards",
+        "count": 1
+      },
+      {
+        "name": "Pokémon notepad",
+        "count": 1
+      },
+      {
+        "name": "Code card for the Pokémon TCG Online",
+        "count": 1
+      },
+      {
+        "name": "Pokemon coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs; 3 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2020 Collector's Chest Tin + Level Ball 2-Pack (Retail Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          263033
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/263033/pokemon-miscellaneous-cards-and-products-fall-2020-collectors-chest-tin-plus-level-ball-2-pack-retail-exclusive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mep-greninja-ex-kingdra-ex-special-collection-box",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Greninja EX & Kingdra EX Special Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Greninja ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Greninja ex; 1 foil promo card featuring Kingdra ex; 8 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Greninja EX & Kingdra EX Special Collection Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656950
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656950/pokemon-miscellaneous-cards-and-products-greninja-ex-and-kingdra-ex-special-collection-box"
+      ]
+    }
+  ]
+}

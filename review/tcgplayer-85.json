@@ -621,6 +621,10 @@
   "listed": false,
   "unresolved": [
    {
+    "line": "product text",
+    "reason": "no booster packs listed"
+   },
+   {
     "line": "deck list",
     "reason": "deck list not listed"
    }
@@ -2035,7 +2039,12 @@
   "tcgplayerProductId": 576965,
   "name": "Pikachu's New Friends Collection",
   "listed": false,
-  "unresolved": []
+  "unresolved": [
+   {
+    "line": "product text",
+    "reason": "no booster packs listed"
+   }
+  ]
  },
  {
   "family": "cp6-booster-pack-1st-edition",
@@ -2059,14 +2068,24 @@
   "tcgplayerProductId": 610189,
   "name": "Gaia Volcano Booster Box",
   "listed": false,
-  "unresolved": []
+  "unresolved": [
+   {
+    "line": "product text",
+    "reason": "no booster packs listed"
+   }
+  ]
  },
  {
   "family": "xy5b-booster-box",
   "tcgplayerProductId": 610190,
   "name": "Tidal Storm Booster Box",
   "listed": false,
-  "unresolved": []
+  "unresolved": [
+   {
+    "line": "product text",
+    "reason": "no booster packs listed"
+   }
+  ]
  },
  {
   "family": "si-tropical-island-jungle-box-set",

@@ -1,0 +1,24 @@
+{
+  "id": "swshp-pokemon-tcg-thunderstorm-gift-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Pokemon TCG: Thunderstorm Gift Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: a unique Thunderstorm preconstructed Theme Deck featuring cards from Base Set, Jungle, Fossil, Team Rocket, Gym Heroes expansions; three booster packs; one each from Fossil, Team Rocket, Gym Heroes, the Pokémon Play It.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Thunderstorm Gift Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          210200
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/210200/pokemon-miscellaneous-cards-and-products-pokemon-tcg-thunderstorm-gift-box"
+      ]
+    }
+  ]
+}

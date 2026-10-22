@@ -1,0 +1,31 @@
+{
+  "id": "mep-checklane-2-pack-pin-blister-mega-gengar",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "Checklane 2-Pack Pin Blister [Mega Gengar]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collector's pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Pin Blister [Mega Gengar]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          713200
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/713200/pokemon-miscellaneous-cards-and-products-checklane-2-pack-pin-blister-mega-gengar"
+      ]
+    }
+  ]
+}

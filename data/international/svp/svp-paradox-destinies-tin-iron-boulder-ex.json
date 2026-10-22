@@ -1,0 +1,42 @@
+{
+  "id": "svp-paradox-destinies-tin-iron-boulder-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Paradox Destinies Tin [Iron Boulder ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-147",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 583851,
+        "cardmarketProductId": 775961,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Destinies Tin [Iron Boulder ex]",
+      "releaseDate": "2024-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          562356
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/562356/pokemon-miscellaneous-cards-and-products-paradox-destinies-tin-iron-boulder-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "swshp-collector-s-pin-two-pack-blisters-umbreon",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Collector's Pin Two Pack Blisters [Umbreon]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collectible pin",
+        "count": 1
+      },
+      {
+        "name": "Basic Energy",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: two Pokemon TCG booster packs; 10 cards; 10 cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Collector's Pin Two Pack Blisters [Umbreon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          230086
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/230086/pokemon-miscellaneous-cards-and-products-collectors-pin-two-pack-blisters-umbreon"
+      ]
+    }
+  ]
+}

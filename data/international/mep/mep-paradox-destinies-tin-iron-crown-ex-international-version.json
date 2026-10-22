@@ -1,0 +1,31 @@
+{
+  "id": "mep-paradox-destinies-tin-iron-crown-ex-international-version",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Paradox Destinies Tin [Iron Crown ex] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Iron Crown ex; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Destinies Tin [Iron Crown ex] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          698545
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/698545/pokemon-miscellaneous-cards-and-products-paradox-destinies-tin-iron-crown-ex-international-version"
+      ]
+    }
+  ]
+}

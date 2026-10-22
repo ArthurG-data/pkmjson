@@ -1,0 +1,35 @@
+{
+  "id": "swshp-galar-pal-mini-tin-grookey-wooloo",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Galar Pal Mini Tin [Grookey & Wooloo]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Pal Mini Tin [Grookey & Wooloo]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          207987
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/207987/pokemon-miscellaneous-cards-and-products-galar-pal-mini-tin-grookey-and-wooloo"
+      ]
+    }
+  ]
+}

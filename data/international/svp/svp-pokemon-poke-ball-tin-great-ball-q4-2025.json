@@ -1,0 +1,35 @@
+{
+  "id": "svp-pokemon-poke-ball-tin-great-ball-q4-2025",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Great Ball (Q4 2025)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Great Ball (Q4 2025)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          688966
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/688966/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-great-ball-q4-2025"
+      ]
+    }
+  ]
+}

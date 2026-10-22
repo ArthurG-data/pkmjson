@@ -1,0 +1,73 @@
+{
+  "id": "svp-ex-battle-deck-greninja-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "ex Battle Deck [Greninja ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Reference cards",
+        "count": 3
+      },
+      {
+        "name": "Rules booklet",
+        "count": 1
+      },
+      {
+        "name": "Single-player playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "ex Battle Deck [Greninja ex]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          527671
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/527671/pokemon-miscellaneous-cards-and-products-ex-battle-deck-greninja-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kampfdeck Quajutsu‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-kangama-ex-kampfdeck-quajutsu-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Deck Combat Amphinobi-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-kangourex-ex-deck-combat-amphinobi-ex"
+      ]
+    }
+  ]
+}

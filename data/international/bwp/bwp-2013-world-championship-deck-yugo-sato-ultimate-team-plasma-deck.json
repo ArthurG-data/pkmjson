@@ -1,0 +1,39 @@
+{
+  "id": "bwp-2013-world-championship-deck-yugo-sato-ultimate-team-plasma-deck",
+  "region": "international",
+  "set": "bwp",
+  "category": "battle_deck",
+  "name": "2013 World Championship Deck: Yugo Sato (Ultimate Team Plasma Deck))",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "World Championships Booklet",
+        "count": 2013
+      },
+      {
+        "name": "Special 2013 World Championships Pin",
+        "count": 1
+      },
+      {
+        "name": "World Championships Deckbox",
+        "count": 2013
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 60-Card Champion Deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2013 World Championship Deck: Yugo Sato (Ultimate Team Plasma Deck))",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          645309
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/645309/pokemon-world-championship-decks-2013-world-championship-deck-yugo-sato-ultimate-team-plasma-deck"
+      ]
+    }
+  ]
+}

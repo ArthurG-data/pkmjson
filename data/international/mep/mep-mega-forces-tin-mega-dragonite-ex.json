@@ -1,0 +1,32 @@
+{
+  "id": "mep-mega-forces-tin-mega-dragonite-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "tin",
+  "name": "Mega Forces Tin [Mega Dragonite ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Dragonite ex; 4 Pokémon TCG booster packs (Pokemon TCG booster packs and contents vary by product.).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Forces Tin [Mega Dragonite ex]",
+      "releaseDate": "2026-08-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          702505
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/702505/pokemon-miscellaneous-cards-and-products-mega-forces-tin-mega-dragonite-ex"
+      ]
+    }
+  ]
+}

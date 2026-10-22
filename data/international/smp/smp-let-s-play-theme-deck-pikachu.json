@@ -1,0 +1,51 @@
+{
+  "id": "smp-let-s-play-theme-deck-pikachu",
+  "region": "international",
+  "set": "smp",
+  "category": "theme_deck",
+  "name": "Let's Play Theme Deck [Pikachu]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "2-player playmat",
+        "count": 1
+      },
+      {
+        "name": "Rule sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokemon Trading Card Game Online code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Let's Play Theme Deck [Pikachu]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          181696
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/181696/pokemon-miscellaneous-cards-and-products-lets-play-theme-deck-pikachu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "svp-vibrant-paldea-mini-tin-palafin",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Vibrant Paldea Mini Tin [Palafin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Vibrant Paldea Mini Tin [Palafin]",
+      "releaseDate": "2024-06-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          554182
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/554182/pokemon-miscellaneous-cards-and-products-vibrant-paldea-mini-tin-palafin"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini‑boîte Magnifique Paldea",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-magnifique-paldea"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Miniscatola da collezione Paldea Sfavillante",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-paldea-sfavillante"
+      ]
+    }
+  ]
+}

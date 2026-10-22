@@ -1,0 +1,24 @@
+{
+  "id": "mep-first-partner-collection-2026-series-1-booster-pack",
+  "region": "international",
+  "set": "mep",
+  "category": "booster_pack",
+  "name": "First Partner Collection 2026 Series 1 Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Collection 2026 Series 1 Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          694977
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/694977/pokemon-first-partner-collection-2026-first-partner-collection-2026-series-1-booster-pack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swshp-professor-juniper-premium-tournament-collection-box-case",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Professor Juniper Premium Tournament Collection Box Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Professor Juniper Premium Tournament Collection Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          278924
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/278924/pokemon-miscellaneous-cards-and-products-professor-juniper-premium-tournament-collection-box-case"
+      ]
+    }
+  ]
+}

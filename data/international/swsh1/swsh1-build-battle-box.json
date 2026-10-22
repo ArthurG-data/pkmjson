@@ -30,6 +30,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/206040/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-build-and-battle-box"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Caja de Combina y Combate de Espada y Escudo",
+      "releaseDate": "2020-02-21",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-combina-y-combate-de-espada-y-escudo"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Schwert & Schild Build & Battle Box",
+      "releaseDate": "2020-02-21",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/schwert-schild-build-battle-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîtier Stratégies et Combats d’Épée et Bouclier",
+      "releaseDate": "2020-02-21",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boitier-strategies-et-combats-depee-et-bouclier"
+      ]
     }
   ]
 }

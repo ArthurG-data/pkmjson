@@ -1,0 +1,70 @@
+{
+  "id": "svp-annihilape-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Annihilape ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-032",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 502981,
+        "cardmarketProductId": 709541,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Primeape; 1 foil card featuring Mankey; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Annihilape ex Box",
+      "releaseDate": "2023-07-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          497177
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/497177/pokemon-miscellaneous-cards-and-products-annihilape-ex-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Annihilape ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-annihilape-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Courrousinge-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-courrousinge-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Annihilape‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-annihilape-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Epitaff‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-epitaff-ex"
+      ]
+    }
+  ]
+}

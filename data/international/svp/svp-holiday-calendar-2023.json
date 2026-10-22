@@ -1,0 +1,39 @@
+{
+  "id": "svp-holiday-calendar-2023",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Holiday Calendar 2023",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 25 surprises to discover:.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Holiday Calendar 2023",
+      "releaseDate": "2023-09-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          505939
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/505939/pokemon-miscellaneous-cards-and-products-holiday-calendar-2023"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Festtagskalender (2023)",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/festtagskalender-2023"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Calendrier des fêtes du JCC Pokémon (2023)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/calendrier-des-fetes-2023"
+      ]
+    }
+  ]
+}

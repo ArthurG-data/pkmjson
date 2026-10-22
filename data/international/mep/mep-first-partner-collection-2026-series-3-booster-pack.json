@@ -1,0 +1,25 @@
+{
+  "id": "mep-first-partner-collection-2026-series-3-booster-pack",
+  "region": "international",
+  "set": "mep",
+  "category": "booster_pack",
+  "name": "First Partner Collection 2026 Series 3 Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "First Partner Collection 2026 Series 3 Booster Pack",
+      "releaseDate": "2026-08-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701485
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701485/pokemon-first-partner-collection-2026-first-partner-collection-2026-series-3-booster-pack"
+      ]
+    }
+  ]
+}

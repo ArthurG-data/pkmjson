@@ -1,0 +1,52 @@
+{
+  "id": "mep-league-battle-deck-mega-lucario-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Mega Lucario ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Mega Lucario ex]",
+      "releaseDate": "2026-05-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          684106
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/684106/pokemon-miscellaneous-cards-and-products-league-battle-deck-mega-lucario-ex"
+      ]
+    }
+  ]
+}

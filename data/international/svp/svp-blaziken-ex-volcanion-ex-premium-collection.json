@@ -1,0 +1,36 @@
+{
+  "id": "svp-blaziken-ex-volcanion-ex-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Blaziken ex & Volcanion ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Blaziken ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Blaziken ex; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Blaziken ex & Volcanion ex Premium Collection",
+      "releaseDate": "2025-09-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650229
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650229/pokemon-miscellaneous-cards-and-products-blaziken-ex-and-volcanion-ex-premium-collection"
+      ]
+    }
+  ]
+}

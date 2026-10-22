@@ -1,0 +1,59 @@
+{
+  "id": "swshp-trainer-s-legendary-box-lugia",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Trainer's Legendary Box [Lugia]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Ready-to-play 60-card deck box including two Pokémon-EX",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin and Quick Guide to unlock the powerful strategies within",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "-player playmat and rulesheet",
+        "count": 2
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock powerful strategies",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: eight foil basic Energy cards; Six additional Booster Packs from past iconic Pokemon releases (Boosters may vary by bundle box); Lugia deck; two Pokemon EX; eight foil basic Energy cards; six additional Boosters.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Trainer's Legendary Box [Lugia]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477254
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477254/pokemon-miscellaneous-cards-and-products-trainers-legendary-box-lugia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mep-deck-crafter-s-collection-meowth-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "collection_box",
+  "name": "Deck Crafter's Collection - Meowth ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck Crafter’s Guide",
+        "count": 1
+      },
+      {
+        "name": "Labeled dividers for organizing cards",
+        "count": 9
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Meowth ex; 39 tournament-ready Trainer cards; 1 Pokémon TCG booster pack; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Deck Crafter's Collection - Meowth ex",
+      "releaseDate": "2026-10-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          710570
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/710570/pokemon-miscellaneous-cards-and-products-deck-crafters-collection-meowth-ex"
+      ]
+    }
+  ]
+}

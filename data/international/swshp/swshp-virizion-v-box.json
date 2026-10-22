@@ -1,0 +1,74 @@
+{
+  "id": "swshp-virizion-v-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Virizion V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH295",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 449515,
+        "cardmarketProductId": 669623,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Virizion V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Keldeo; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Virizion V Box",
+      "releaseDate": "2022-10-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          280847
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/280847/pokemon-miscellaneous-cards-and-products-virizion-v-box"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Virizion V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-virizion-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Viridium-V",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-viridium-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Viridium-V",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-viridium-v"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Virizion-V",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-virizion-v"
+      ]
+    }
+  ]
+}

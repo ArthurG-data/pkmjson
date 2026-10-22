@@ -1,0 +1,35 @@
+{
+  "id": "svp-legendary-warriors-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Legendary Warriors Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Zacian V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Zacian V; 1 promo card featuring Zamazenta V; 1 promo card featuring Zacian; 1 promo card featuring Zamazenta; 14 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Warriors Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594495
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594495/pokemon-miscellaneous-cards-and-products-legendary-warriors-premium-collection"
+      ]
+    }
+  ]
+}

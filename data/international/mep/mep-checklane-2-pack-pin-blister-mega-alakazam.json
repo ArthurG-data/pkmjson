@@ -1,0 +1,31 @@
+{
+  "id": "mep-checklane-2-pack-pin-blister-mega-alakazam",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "Checklane 2-Pack Pin Blister [Mega Alakazam]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Collector's pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Pin Blister [Mega Alakazam]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          713198
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/713198/pokemon-miscellaneous-cards-and-products-checklane-2-pack-pin-blister-mega-alakazam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mep-team-rocket-s-moltres-ex-ultra-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Team Rocket’s Moltres ex Ultra-Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 foil cards featuring Team Rocket's Moltres ex; 18 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Team Rocket’s Moltres ex Ultra-Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656997
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656997/pokemon-miscellaneous-cards-and-products-team-rockets-moltres-ex-ultra-premium-collection"
+      ]
+    }
+  ]
+}

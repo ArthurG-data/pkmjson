@@ -1,0 +1,25 @@
+{
+  "id": "swshp-pokemon-tcg-back-to-school-pencil-case",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Pokemon TCG: Back to School Pencil Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Back to School Pencil Case",
+      "releaseDate": "2022-07-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          273613
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/273613/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-pencil-case"
+      ]
+    }
+  ]
+}

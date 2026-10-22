@@ -1,0 +1,31 @@
+{
+  "id": "svp-mabosstiff-ex-showcase",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Mabosstiff ex Showcase",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Mabosstiff ex Promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mabosstiff ex Showcase",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          633081
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/633081/pokemon-miscellaneous-cards-and-products-mabosstiff-ex-showcase"
+      ]
+    }
+  ]
+}

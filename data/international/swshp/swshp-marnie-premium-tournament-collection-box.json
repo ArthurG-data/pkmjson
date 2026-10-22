@@ -1,0 +1,76 @@
+{
+  "id": "swshp-marnie-premium-tournament-collection-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Marnie Premium Tournament Collection Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves featuring Marnie",
+        "count": 65
+      },
+      {
+        "name": "Sturdy deck box featuring Marnie",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin featuring Marnie",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Tournament-ready damage dice",
+        "count": 6
+      },
+      {
+        "name": "Code card for the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil Supporter card featuring Marnie; 3 additional foil Supporter cards featuring Marnie; 7 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Marnie Premium Tournament Collection Box",
+      "releaseDate": "2021-08-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          241093
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/241093/pokemon-miscellaneous-cards-and-products-marnie-premium-tournament-collection-box"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione torneo premium Mary",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-torneo-premium-mary"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Tournoi Premium – Rosemary",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-tournoi-premium-rosemary"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Turnierkollektion Mary",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-turnierkollektion-mary"
+      ]
+    }
+  ]
+}

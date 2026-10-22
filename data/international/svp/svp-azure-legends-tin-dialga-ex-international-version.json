@@ -1,0 +1,41 @@
+{
+  "id": "svp-azure-legends-tin-dialga-ex-international-version",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Azure Legends Tin [Dialga ex] (International Version)",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-180",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 619587,
+        "cardmarketProductId": 810395,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Azure Legends Tin [Dialga ex] (International Version)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628094
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628094/pokemon-miscellaneous-cards-and-products-azure-legends-tin-dialga-ex-international-version"
+      ]
+    }
+  ]
+}

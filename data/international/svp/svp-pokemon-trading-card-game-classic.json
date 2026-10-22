@@ -1,0 +1,63 @@
+{
+  "id": "svp-pokemon-trading-card-game-classic",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Pokemon Trading Card Game Classic",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Toolbox for storing stackable damage counters, Poison and Burn markers, metal orbs",
+        "count": 1
+      },
+      {
+        "name": "Deck boxes featuring Energy symbols matching the included Pokémon TCG decks",
+        "count": 3
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: A game board that folds up to store all the items included in Pokémon Trading Card Game Classic; Three Pokémon TCG decks featuring Venusaur, Charizard, Blastoise, as well as newly printed cards to go along with the classics.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Trading Card Game Classic",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          518886
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/518886/pokemon-trading-card-game-classic-pokemon-trading-card-game-classic"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Pokémon Trading Card Game Classic",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pokemon-trading-card-game-classic"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Pokémon Trading Card Game Classic",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/pokemon-trading-card-game-classic"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Pokémon Trading Card Game Classic",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/pokemon-trading-card-game-classic"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Pokémon Trading Card Game Classic",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/pokemon-trading-card-game-classic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swshp-poke-ball-tin-display-q4-2021",
+  "region": "international",
+  "set": "swshp",
+  "category": "case",
+  "name": "Poke Ball Tin Display (Q4 2021)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Poke Ball Tin Display (Q4 2021)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          257718
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/257718/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q4-2021"
+      ]
+    }
+  ]
+}

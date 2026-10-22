@@ -1,0 +1,24 @@
+{
+  "id": "swshp-galar-power-mini-tin-set-of-5",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Galar Power Mini Tin [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: two booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Galar Power Mini Tin [Set of 5]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          449727
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/449727/pokemon-miscellaneous-cards-and-products-galar-power-mini-tin-set-of-5"
+      ]
+    }
+  ]
+}

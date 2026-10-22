@@ -35,6 +35,38 @@
       "sources": [
         "https://www.tcgplayer.com/product/600514/pokemon-shining-legends-shining-legends-collection-shiny-darkrai-gx"
       ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Légendes Brillantes – Darkrai-GX chromatique",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-legendes-brillantes-darkrai-gx-chromatique"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Schillerndes Darkrai-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-schillerndes-darkrai-gx"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Darkrai-GX variocolor de Leyendas Luminosas",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-darkrai-gx-variocolor-de-leyendas-luminosas"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Darkrai-GX cromatico dell’espansione Leggende Iridescenti",
+      "releaseDate": "2018-03-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-darkrai-gx-cromatico-dellespansione-leggende-iridescenti"
+      ]
     }
   ]
 }

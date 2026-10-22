@@ -1,0 +1,41 @@
+{
+  "id": "swshp-checklane-2-mini-pack-blister-machamp",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Checklane 2 Mini-Pack Blister [Machamp]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH053",
+        "tcgdexVariantId": "5zs5af49g93yryvw1ftj",
+        "tcgplayerProductId": 222073,
+        "cardmarketProductId": 505885,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Metallic coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokemon Trading Card Game mini-packs. Each mini-pack contains 3 random cards.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2 Mini-Pack Blister [Machamp]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          237106
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/237106/pokemon-miscellaneous-cards-and-products-checklane-2-mini-pack-blister-machamp"
+      ]
+    }
+  ]
+}

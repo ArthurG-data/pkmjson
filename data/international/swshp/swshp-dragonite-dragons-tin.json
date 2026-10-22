@@ -1,0 +1,31 @@
+{
+  "id": "swshp-dragonite-dragons-tin",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Dragonite Dragons Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code Card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1x cosmos holofoil promo of Dragonite.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dragonite Dragons Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          218437
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/218437/pokemon-miscellaneous-cards-and-products-dragonite-dragons-tin"
+      ]
+    }
+  ]
+}

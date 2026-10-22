@@ -1,0 +1,74 @@
+{
+  "id": "swshp-infernape-v-box",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "Infernape V Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH252",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 283369,
+        "cardmarketProductId": 665992,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Infernape V",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Empoleon; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Infernape V Box",
+      "releaseDate": "2022-09-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          277568
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/277568/pokemon-miscellaneous-cards-and-products-infernape-v-box"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Infernape-V",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-infernape-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Kollektion Panferno-V",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-panferno-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección Infernape V",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-infernape-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Simiabraz-V",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-simiabraz-v"
+      ]
+    }
+  ]
+}

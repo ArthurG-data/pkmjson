@@ -1,0 +1,24 @@
+{
+  "id": "smp-general-mills-promo-booster-pack-sun-moon",
+  "region": "international",
+  "set": "smp",
+  "category": "booster_pack",
+  "name": "General Mills Promo Booster Pack [Sun & Moon]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "General Mills Promo Booster Pack [Sun & Moon]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          190360
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/190360/pokemon-miscellaneous-cards-and-products-general-mills-promo-booster-pack-sun-and-moon"
+      ]
+    }
+  ]
+}

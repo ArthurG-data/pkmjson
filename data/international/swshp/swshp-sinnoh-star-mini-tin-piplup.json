@@ -1,0 +1,35 @@
+{
+  "id": "swshp-sinnoh-star-mini-tin-piplup",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Sinnoh Star Mini Tin [Piplup]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sinnoh Star Mini Tin [Piplup]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262638
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262638/pokemon-miscellaneous-cards-and-products-sinnoh-star-mini-tin-piplup"
+      ]
+    }
+  ]
+}

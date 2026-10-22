@@ -1,0 +1,32 @@
+{
+  "id": "swshp-v-powers-tin-eevee-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "V Powers Tin [Eevee V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Eevee V; 5 Pokémon TCG Booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Powers Tin [Eevee V]",
+      "releaseDate": "2020-09-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          220310
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/220310/pokemon-miscellaneous-cards-and-products-v-powers-tin-eevee-v"
+      ]
+    }
+  ]
+}

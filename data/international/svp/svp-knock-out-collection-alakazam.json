@@ -1,0 +1,35 @@
+{
+  "id": "svp-knock-out-collection-alakazam",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Alakazam]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Alakazam; 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Alakazam]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628493
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628493/pokemon-miscellaneous-cards-and-products-knock-out-collection-alakazam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "svp-holiday-calendar-2024",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Holiday Calendar 2024",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon coins",
+        "count": 2
+      },
+      {
+        "name": "Pokémon sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Sidekick dangler featuring Chien-Pao",
+        "count": 1
+      },
+      {
+        "name": "Plus, find a code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 8 foil Pokémon TCG cards with a festive stamp; 5 Pokémon TCG booster packs; 7 Pokémon TCG 3-card fun packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Holiday Calendar 2024",
+      "releaseDate": "2024-08-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          559089
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/559089/pokemon-miscellaneous-cards-and-products-holiday-calendar-2024"
+      ]
+    }
+  ]
+}

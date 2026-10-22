@@ -1,0 +1,32 @@
+{
+  "id": "mep-hydreigon-ex-dragapult-ex-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Hydreigon ex & Dragapult ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Dragapult ex",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Dragapult ex; 1 foil promo card featuring Hydreigon ex; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Hydreigon ex & Dragapult ex Premium Collection",
+      "releaseDate": "2025-10-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653199
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653199/pokemon-miscellaneous-cards-and-products-hydreigon-ex-and-dragapult-ex-premium-collection"
+      ]
+    }
+  ]
+}

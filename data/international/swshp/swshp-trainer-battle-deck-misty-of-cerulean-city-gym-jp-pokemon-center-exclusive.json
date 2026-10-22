@@ -1,0 +1,55 @@
+{
+  "id": "swshp-trainer-battle-deck-misty-of-cerulean-city-gym-jp-pokemon-center-exclusive",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "Trainer Battle Deck - Misty of Cerulean City Gym (JP Pokemon Center Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of card sleeves with artwork mirroring the box design",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "GX marker",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Trainer Battle Deck - Misty of Cerulean City Gym (JP Pokemon Center Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          272000
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/272000/pokemon-miscellaneous-cards-and-products-trainer-battle-deck-misty-of-cerulean-city-gym-jp-pokemon-center-exclusive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "svp-kanto-friends-mini-tin-set-of-5",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Kanto Friends Mini Tin [Set of 5]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Mini Tins designs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kanto Friends Mini Tin [Set of 5]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          550688
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/550688/pokemon-miscellaneous-cards-and-products-kanto-friends-mini-tin-set-of-5"
+      ]
+    }
+  ]
+}

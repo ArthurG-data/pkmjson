@@ -2126,6 +2126,46 @@
    }
   }
  },
+ "international/bwp": {
+  "region": "international",
+  "set": "bwp",
+  "languages": {
+   "en": {
+    "name": "BW Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/en/sets/bwp",
+    "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "de": {
+    "name": "SW Promokarten",
+    "source": "https://api.tcgdex.net/v2/de/sets/bwp",
+    "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "it": {
+    "name": "NB Promo",
+    "source": "https://api.tcgdex.net/v2/it/sets/bwp",
+    "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "es": {
+    "name": "NB Promo",
+    "source": "https://api.tcgdex.net/v2/es/sets/bwp",
+    "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "fr": {
+    "name": "Promo BW",
+    "source": "https://api.tcgdex.net/v2/fr/sets/bwp",
+    "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   }
+  }
+ },
  "international/cel25": {
   "region": "international",
   "set": "cel25",
@@ -3664,6 +3704,32 @@
    }
   }
  },
+ "international/mep": {
+  "region": "international",
+  "set": "mep",
+  "languages": {
+   "en": {
+    "name": "MEP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/en/sets/mep"
+   },
+   "de": {
+    "name": "MEP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/de/sets/mep"
+   },
+   "it": {
+    "name": "MEP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/it/sets/mep"
+   },
+   "es": {
+    "name": "MEP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/es/sets/mep"
+   },
+   "fr": {
+    "name": "MEP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/fr/sets/mep"
+   }
+  }
+ },
  "international/mfb": {
   "region": "international",
   "set": "mfb",
@@ -4771,6 +4837,46 @@
    }
   }
  },
+ "international/smp": {
+  "region": "international",
+  "set": "smp",
+  "languages": {
+   "en": {
+    "name": "SM Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/en/sets/smp",
+    "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "de": {
+    "name": "SM Promokarten",
+    "source": "https://api.tcgdex.net/v2/de/sets/smp",
+    "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "it": {
+    "name": "SL Promo",
+    "source": "https://api.tcgdex.net/v2/it/sets/smp",
+    "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "es": {
+    "name": "SL Cartas de promoción",
+    "source": "https://api.tcgdex.net/v2/es/sets/smp",
+    "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "fr": {
+    "name": "Promo SM",
+    "source": "https://api.tcgdex.net/v2/fr/sets/smp",
+    "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   }
+  }
+ },
  "international/sv01": {
   "region": "international",
   "set": "sv01",
@@ -5420,6 +5526,32 @@
     "source": "https://www.pokemon.com/fr/jcc-pokemon/ecarlate-et-violet-flamme-blanche",
     "releaseDate": "2025-07-18",
     "logoSource": "pokemon.com"
+   }
+  }
+ },
+ "international/svp": {
+  "region": "international",
+  "set": "svp",
+  "languages": {
+   "en": {
+    "name": "SVP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/en/sets/svp"
+   },
+   "de": {
+    "name": "SVP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/de/sets/svp"
+   },
+   "it": {
+    "name": "SVP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/it/sets/svp"
+   },
+   "es": {
+    "name": "SVP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/es/sets/svp"
+   },
+   "fr": {
+    "name": "SVP Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/fr/sets/svp"
    }
   }
  },
@@ -6076,6 +6208,42 @@
     "source": "https://www.pokemon.com/fr/jcc-pokemon/epee-et-bouclier-stars-etincelantes",
     "releaseDate": "2022-02-25",
     "logoSource": "pokemon.com"
+   }
+  }
+ },
+ "international/swshp": {
+  "region": "international",
+  "set": "swshp",
+  "languages": {
+   "en": {
+    "name": "SWSH Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/en/sets/swshp",
+    "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "de": {
+    "name": "SCSC Promokarten",
+    "source": "https://api.tcgdex.net/v2/de/sets/swshp",
+    "logo": "https://assets.tcgdex.net/de/swsh/swshp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "it": {
+    "name": "SPSC Promo",
+    "source": "https://api.tcgdex.net/v2/it/sets/swshp",
+    "logo": "https://assets.tcgdex.net/it/swsh/swshp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "es": {
+    "name": "Cartas de promoción ESES",
+    "source": "https://api.tcgdex.net/v2/es/sets/swshp",
+    "logo": "https://assets.tcgdex.net/es/swsh/swshp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "fr": {
+    "name": "Promo SWSH",
+    "source": "https://api.tcgdex.net/v2/fr/sets/swshp",
+    "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png",
+    "logoSource": "tcgdex"
    }
   }
  },
@@ -6914,6 +7082,46 @@
     "source": "https://www.pokemon.com/fr/jcc-pokemon/xy-rupture-turbo",
     "releaseDate": "2016-02-06",
     "logoSource": "pokemon.com"
+   }
+  }
+ },
+ "international/xyp": {
+  "region": "international",
+  "set": "xyp",
+  "languages": {
+   "en": {
+    "name": "XY Black Star Promos",
+    "source": "https://api.tcgdex.net/v2/en/sets/xyp",
+    "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png",
+    "logoSource": "tcgdex"
+   },
+   "de": {
+    "name": "XY Promokarten",
+    "source": "https://api.tcgdex.net/v2/de/sets/xyp",
+    "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "it": {
+    "name": "XY Promo",
+    "source": "https://api.tcgdex.net/v2/it/sets/xyp",
+    "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "es": {
+    "name": "XY Cartas de promoción",
+    "source": "https://api.tcgdex.net/v2/es/sets/xyp",
+    "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
+   },
+   "fr": {
+    "name": "Promo XY",
+    "source": "https://api.tcgdex.net/v2/fr/sets/xyp",
+    "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png",
+    "logoSource": "tcgdex",
+    "logoLanguage": "en"
    }
   }
  }

@@ -1,0 +1,31 @@
+{
+  "id": "swshp-checklane-2-pack-pin-blister-latias",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Checklane 2-Pack Pin Blister [Latias]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Latias Pin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon Booster Packs (Booster packs will vary).",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Pin Blister [Latias]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          456111
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/456111/pokemon-miscellaneous-cards-and-products-checklane-2-pack-pin-blister-latias"
+      ]
+    }
+  ]
+}

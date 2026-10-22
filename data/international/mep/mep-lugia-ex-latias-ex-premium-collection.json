@@ -1,0 +1,32 @@
+{
+  "id": "mep-lugia-ex-latias-ex-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Lugia ex & Latias ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Lugia ex",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Lugia ex; 1 foil promo card featuring Latias ex; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lugia ex & Latias ex Premium Collection",
+      "releaseDate": "2025-10-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          655739
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/655739/pokemon-miscellaneous-cards-and-products-lugia-ex-and-latias-ex-premium-collection"
+      ]
+    }
+  ]
+}

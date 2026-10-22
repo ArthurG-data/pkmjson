@@ -1,0 +1,68 @@
+{
+  "id": "swshp-v-battle-deck-rayquaza-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "V Battle Deck [Rayquaza V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Reference cards",
+        "count": 3
+      },
+      {
+        "name": "Rules booklet",
+        "count": 1
+      },
+      {
+        "name": "Single-player playmat",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Quick Guide to unlock the strategies within",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Battle Deck [Rayquaza V]",
+      "releaseDate": "2021-10-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          245732
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/245732/pokemon-miscellaneous-cards-and-products-v-battle-deck-rayquaza-v"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "V-Kampfdeck Rayquaza-V und",
+      "releaseDate": "2021-10-08",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/v-kampfdeck-rayquaza-v-und-pokemon-sammelkartenspiel-v-kampfdeck-uhafnir-v"
+      ]
+    }
+  ]
+}

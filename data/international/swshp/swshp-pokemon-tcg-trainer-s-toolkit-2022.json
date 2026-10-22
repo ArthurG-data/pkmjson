@@ -1,0 +1,91 @@
+{
+  "id": "swshp-pokemon-tcg-trainer-s-toolkit-2022",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Pokemon TCG: Trainer's Toolkit (2022)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Special Energy cards",
+        "count": 6
+      },
+      {
+        "name": "More than 100 basic Energy cards",
+        "count": 1
+      },
+      {
+        "name": "Card sleeves",
+        "count": 65
+      },
+      {
+        "name": "Deck Builder's Guide",
+        "count": 1
+      },
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Competition-legal coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Condition markers",
+        "count": 2
+      },
+      {
+        "name": "VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 copies of Lumineon V; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon TCG: Trainer's Toolkit (2022)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          275938
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/275938/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2022"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Trainer-Toolkit (2022)",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainer-toolkit-2022"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Herramientas de Entrenador de JCC Pokémon (2022)",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/herramientas-de-entrenador-2022"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Inventario dell’Allenatore del GCC Pokémon (2022)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/inventario-dellallenatore-2022"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Nécessaire du Dresseur (2022)",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/necessaire-du-dresseur-2022"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "svp-charizard-ex-special-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Charizard ex Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize lenticular card",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Charizard ex; 1 promo card featuring Charmander; 1 promo card featuring Charmeleon; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Charizard ex Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616305
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616305/pokemon-miscellaneous-cards-and-products-charizard-ex-special-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection spéciale Dracaufeu-ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-dracaufeu-ex"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Spezial-Kollektion Glurak-ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-glurak-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione speciale Charizard-ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-charizard-ex"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección especial Charizard ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-charizard-ex"
+      ]
+    }
+  ]
+}

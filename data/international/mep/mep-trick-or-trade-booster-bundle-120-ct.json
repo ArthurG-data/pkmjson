@@ -1,0 +1,24 @@
+{
+  "id": "mep-trick-or-trade-booster-bundle-120-ct",
+  "region": "international",
+  "set": "mep",
+  "category": "booster_bundle",
+  "name": "Trick or Trade BOOster Bundle (120 ct)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Trick or Trade BOOster Bundle (120 ct)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          659627
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/659627/pokemon-trick-or-trade-booster-bundle-trick-or-trade-booster-bundle-120-ct"
+      ]
+    }
+  ]
+}

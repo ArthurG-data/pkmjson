@@ -47,3 +47,18 @@ def test_variants_on_one_page_all_match_and_a_set_bundle_or_another_mechanic_nev
     families, _ = catalog.match("True Steel Premium Collection")
     assert sorted(f.data["id"] for f in families) == ["zacian", "zamazenta"]
     assert catalog.match("Melmetal ex Battle Deck")[0] == []
+
+
+def test_one_page_for_two_named_products_matches_both_but_an_unnamed_one_does_not():
+    catalog = Catalog([_family("snorlax", "Snorlax Pin Collection"), _family("morpeko", "Morpeko Pin Collection"),
+                       _family("greninja", "Greninja V-UNION Special Collection"),
+                       _family("mewtwo", "Mewtwo V-UNION Special Collection")])
+    assert sorted(f.data["id"] for f in catalog.match("Snorlax/Morpeko Pin Collection")[0]) == ["morpeko", "snorlax"]
+    assert catalog.match("Morpeko V-UNION Special Collection")[0] == []
+
+
+def test_a_product_never_matches_a_family_from_a_set_years_older():
+    import datetime as dt
+    catalog = Catalog([_family("xy3-box", "Mega Lucario Collection", set_id="xy3")], {"xy3": dt.date(2014, 5, 7)})
+    assert catalog.match("Mega Lucario Collection", dt.date(2025, 9, 26))[0] == []
+    assert [f.data["id"] for f in catalog.match("Mega Lucario Collection", dt.date(2014, 8, 1))[0]] == ["xy3-box"]

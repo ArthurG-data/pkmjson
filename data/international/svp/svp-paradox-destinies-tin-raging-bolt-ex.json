@@ -1,0 +1,42 @@
+{
+  "id": "svp-paradox-destinies-tin-raging-bolt-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Paradox Destinies Tin [Raging Bolt ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-145",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 583850,
+        "cardmarketProductId": 775959,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Destinies Tin [Raging Bolt ex]",
+      "releaseDate": "2024-09-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          562357
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/562357/pokemon-miscellaneous-cards-and-products-paradox-destinies-tin-raging-bolt-ex"
+      ]
+    }
+  ]
+}

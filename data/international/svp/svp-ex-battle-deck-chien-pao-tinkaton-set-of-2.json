@@ -1,0 +1,25 @@
+{
+  "id": "svp-ex-battle-deck-chien-pao-tinkaton-set-of-2",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "ex Battle Deck (Chien-Pao/Tinkaton] [Set of 2]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "ex Battle Deck (Chien-Pao/Tinkaton] [Set of 2]",
+      "releaseDate": "2023-07-14",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          497967
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/497967/pokemon-miscellaneous-cards-and-products-ex-battle-deck-chien-pao-tinkaton-set-of-2"
+      ]
+    }
+  ]
+}

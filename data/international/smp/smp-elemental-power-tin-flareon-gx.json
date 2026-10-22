@@ -1,0 +1,32 @@
+{
+  "id": "smp-elemental-power-tin-flareon-gx",
+  "region": "international",
+  "set": "smp",
+  "category": "tin",
+  "name": "Elemental Power Tin [Flareon GX]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card to unlock a playable deck in the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Flareon GX; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Elemental Power Tin [Flareon GX]",
+      "releaseDate": "2019-11-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          199787
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/199787/pokemon-miscellaneous-cards-and-products-elemental-power-tin-flareon-gx"
+      ]
+    }
+  ]
+}

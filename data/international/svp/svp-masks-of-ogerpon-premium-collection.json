@@ -1,0 +1,35 @@
+{
+  "id": "svp-masks-of-ogerpon-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Masks of Ogerpon Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Hearthflame Mask Ogerpon ex",
+        "count": 1
+      },
+      {
+        "name": "Code for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Hearthflame Mask Ogerpon ex; 1 foil card featuring Wellspring Mask Ogerpon ex; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Masks of Ogerpon Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          629647
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/629647/pokemon-miscellaneous-cards-and-products-masks-of-ogerpon-premium-collection"
+      ]
+    }
+  ]
+}

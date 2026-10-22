@@ -1,0 +1,55 @@
+{
+  "id": "swshp-trainer-battle-deck-brock-of-pewter-city-gym-jp-pokemon-center-exclusive",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "Trainer Battle Deck - Brock of Pewter City Gym (JP Pokemon Center Exclusive)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of card sleeves with artwork mirroring the box design",
+        "count": 1
+      },
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "GX marker",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list; product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Trainer Battle Deck - Brock of Pewter City Gym (JP Pokemon Center Exclusive)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271999
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271999/pokemon-miscellaneous-cards-and-products-trainer-battle-deck-brock-of-pewter-city-gym-jp-pokemon-center-exclusive"
+      ]
+    }
+  ]
+}

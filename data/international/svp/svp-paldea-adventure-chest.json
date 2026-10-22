@@ -1,0 +1,56 @@
+{
+  "id": "svp-paldea-adventure-chest",
+  "region": "international",
+  "set": "svp",
+  "category": "other",
+  "name": "Paldea Adventure Chest",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-087",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 542468,
+        "cardmarketProductId": 751812,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-040",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 512043,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sheet of tech stickers",
+        "count": 1
+      },
+      {
+        "name": "Mini portfolio",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Pikachu; 1 promo card featuring Pawmo; 1 promo card featuring Pawmot ex; 1 promo card featuring Tandemaus; 1 promo card featuring and Maushold ex; 1 squishy toy Pikachu; 6 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Adventure Chest",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532025
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/532025/pokemon-miscellaneous-cards-and-products-paldea-adventure-chest"
+      ]
+    }
+  ]
+}

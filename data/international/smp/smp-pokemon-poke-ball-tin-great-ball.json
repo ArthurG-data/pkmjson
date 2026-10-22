@@ -1,0 +1,31 @@
+{
+  "id": "smp-pokemon-poke-ball-tin-great-ball",
+  "region": "international",
+  "set": "smp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Great Ball",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Great Ball",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          198519
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/198519/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-great-ball"
+      ]
+    }
+  ]
+}

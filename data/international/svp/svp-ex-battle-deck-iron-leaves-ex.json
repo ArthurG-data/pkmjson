@@ -1,0 +1,60 @@
+{
+  "id": "svp-ex-battle-deck-iron-leaves-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "ex Battle Deck [Iron Leaves ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Reference cards",
+        "count": 3
+      },
+      {
+        "name": "Rules booklet",
+        "count": 1
+      },
+      {
+        "name": "Single-player playmat",
+        "count": 1
+      },
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "ex Battle Deck [Iron Leaves ex]",
+      "releaseDate": "2024-10-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          564278
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/564278/pokemon-miscellaneous-cards-and-products-ex-battle-deck-iron-leaves-ex"
+      ]
+    }
+  ]
+}

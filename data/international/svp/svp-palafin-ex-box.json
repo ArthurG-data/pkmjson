@@ -1,0 +1,60 @@
+{
+  "id": "svp-palafin-ex-box",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Palafin ex Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-126",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 556449,
+        "cardmarketProductId": 769423,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Oversize foil card featuring Palafin ex",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Finizen; 1 promo card featuring Palafin; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Palafin ex Box",
+      "releaseDate": "2024-06-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          547129
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/547129/pokemon-miscellaneous-cards-and-products-palafin-ex-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffret Superdofin‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-superdofin-ex"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione Palafin‑ex",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-palafin-ex"
+      ]
+    }
+  ]
+}

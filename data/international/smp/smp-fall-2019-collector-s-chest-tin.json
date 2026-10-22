@@ -1,0 +1,93 @@
+{
+  "id": "smp-fall-2019-collector-s-chest-tin",
+  "region": "international",
+  "set": "smp",
+  "category": "tin",
+  "name": "Fall 2019 Collector's Chest Tin",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "smp-SM228",
+        "tcgdexVariantId": "endfynwn4n10gzq",
+        "tcgplayerProductId": 205169,
+        "cardmarketProductId": 412919,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Pokemon Coin",
+        "count": 1
+      },
+      {
+        "name": "Sticker Sheets",
+        "count": 2
+      },
+      {
+        "name": "Mini Portfolio",
+        "count": 1
+      },
+      {
+        "name": "Pokemon Notepad",
+        "count": 1
+      },
+      {
+        "name": "Pencils",
+        "count": 4
+      },
+      {
+        "name": "Code Card for the Pokemon Trading Card Game Online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon TCG Booster Packs; 1 promo card featuring Pikachu; 1 promo card featuring Charizard.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Fall 2019 Collector's Chest Tin",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200142
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200142/pokemon-miscellaneous-cards-and-products-fall-2019-collectors-chest-tin"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Coffre de collection (Automne 2019)",
+      "releaseDate": "2019-11-22",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2019"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2019)",
+      "releaseDate": "2019-11-22",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/maletin-de-coleccionistas-de-jcc-pokemon-otono-2019"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Sammelkoffer (Herbst 2019)",
+      "releaseDate": "2019-11-22",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2019"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Bauletto da collezione del GCC Pokémon (autunno 2019)",
+      "releaseDate": "2019-11-22",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-autunno-2019"
+      ]
+    }
+  ]
+}

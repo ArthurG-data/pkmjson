@@ -1,0 +1,25 @@
+{
+  "id": "mep-league-battle-deck-case-mega-greninja-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "case",
+  "name": "League Battle Deck Case [Mega Greninja ex]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck Case [Mega Greninja ex]",
+      "releaseDate": "2026-11-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          718644
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/718644/pokemon-miscellaneous-cards-and-products-league-battle-deck-case-mega-greninja-ex"
+      ]
+    }
+  ]
+}

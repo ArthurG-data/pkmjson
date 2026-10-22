@@ -1,0 +1,24 @@
+{
+  "id": "mep-checklane-2-pack-blister-pawmot-3-tab",
+  "region": "international",
+  "set": "mep",
+  "category": "blister",
+  "name": "Checklane 2-Pack Blister [Pawmot] (3-tab)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Checklane 2-Pack Blister [Pawmot] (3-tab)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          653625
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/653625/pokemon-miscellaneous-cards-and-products-checklane-2-pack-blister-pawmot-3-tab"
+      ]
+    }
+  ]
+}

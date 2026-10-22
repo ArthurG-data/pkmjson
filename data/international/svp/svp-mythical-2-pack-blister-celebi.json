@@ -1,0 +1,35 @@
+{
+  "id": "svp-mythical-2-pack-blister-celebi",
+  "region": "international",
+  "set": "svp",
+  "category": "blister",
+  "name": "Mythical 2-Pack Blister [Celebi]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metal pin",
+        "count": 1
+      },
+      {
+        "name": "Code card",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mythical 2-Pack Blister [Celebi]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          517119
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/517119/pokemon-miscellaneous-cards-and-products-mythical-2-pack-blister-celebi"
+      ]
+    }
+  ]
+}

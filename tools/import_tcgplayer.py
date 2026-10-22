@@ -5,6 +5,9 @@ contents: booster packs and boxes become nested products, promo cards are pinned
 through TCGplayer's promo listings, and everything else becomes an `other` item. A product whose text cannot be
 fully resolved is written as `partial`, and what was left over goes to review/tcgplayer-<category>.json.
 
+Products in groups that match no TCGdex set ("Miscellaneous Cards & Products") are filed under the promo set of
+the era they came out in (see era_groups).
+
 A file this tool wrote cites only the TCGplayer product page, and a re-run rewrites it. A file with any other
 source was written by hand and is never touched; its TCGplayer ids still anchor nested products.
 
@@ -38,6 +41,9 @@ TCGDEX_API = "https://api.tcgdex.net/v2"
 USER_AGENT = "pkmjson/0.1 (+https://github.com/ArthurG-data/pkmjson)"
 PROMO_WINDOW_DAYS = 45
 PACKS = ("booster_pack", "sleeved_booster_pack")  # random cards: never complete
+# Products that always hold booster packs (or boxes of them): one listed without any is not complete.
+HOLDS_PACKS = ("booster_box", "half_booster_box", "booster_bundle", "elite_trainer_box", "build_and_battle_box",
+               "blister", "tin", "premium_collection", "collection_box")
 SERIES_PREFIX = r"^(?:xy|sm|sun moon|swsh|sword shield|sv|scarlet violet|bw|black white|me|mega evolution|hgss|dp)\b"
 
 NUMBER_WORDS = {"a": 1, "an": 1, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
@@ -479,10 +485,24 @@ class Parser:
                 draft.other = [o for o in draft.other if not re.search(r"\b(?:packs?|displays?)\b", fold(o["name"]))]
                 self.add_sealed(draft, child, count_of(per.group(1)), per.group(0), "text")
                 draft.listed = True
-        if re.search(r"\bset of \d+\b|\b\d+ pack set\b", name):
-            # A bundle of N whole products: one unit's text would undercount it, so nothing is listed.
+        if re.search(r"\bset of \d+\b|\b\d+ pack set\b|\bbundle of \d+\b|\bcostco\b|\bsam s club\b|"
+                     r"\b(?:and|&) (?:\w+ )?(?:tin|box|elite trainer box)\b", name):
+            # A bundle of N whole products, or a store's bundle of two products ("Costco ... Elite Trainer Box and
+            # Tin"): one unit's text would undercount it, so nothing is listed.
             draft.sealed, draft.cards, draft.other = [], [], []
             draft.unresolved.append({"line": "set of products", "reason": "set of several products"})
+        if draft.category == "case" and draft.group.group_id < 0:
+            # A mixed group ("Miscellaneous Cards & Products") has no one unit a case could hold.
+            draft.sealed = []
+            draft.unresolved.append({"line": "case unit", "reason": "case unit not identified"})
+        if draft.listed and not (draft.sealed or draft.cards or draft.other or draft.unresolved):
+            draft.unresolved.append({"line": "product text", "reason": "text lists nothing usable"})
+        if draft.category in HOLDS_PACKS and not draft.sealed and not draft.unresolved:
+            # Every tin, blister, box and collection holds booster packs: a list without them left them out.
+            draft.unresolved.append({"line": "product text", "reason": "no booster packs listed"})
+        if (stated := re.search(r"\b(\d+) pack\b", name)) and draft.category not in PACKS and draft.sealed and \
+                sum(i["count"] for i in draft.sealed) != int(stated.group(1)):
+            draft.unresolved.append({"line": "product name", "reason": "name states another pack count"})
         if draft.category in ("theme_deck", "battle_deck") or re.search(r"\bdecks?\b|\btrainer kit\b", name):
             draft.unresolved.append({"line": "deck list", "reason": "deck list not listed"})
         if text and ("pokemon center" in name) != ("pokemon center" in text):
@@ -679,6 +699,49 @@ def family_file(draft: Draft, cardmarket: dict[int, int]) -> dict:
     return data
 
 
+# An unmapped group named like an expansion ("ME06: Delta Reign") is a set TCGdex does not list yet: it waits.
+EXPANSION_GROUP_RE = re.compile(r"^[A-Za-z]{1,5}\d+[A-Za-z0-9.]*:\s")
+
+
+def era_groups(fetcher: Fetcher, edition: Edition, mapped: set[int], product_groups: list[Group],
+               promo_groups: list[Group]) -> list[Group]:
+    """Products TCGplayer files in groups that match no TCGdex set ("Miscellaneous Cards & Products", "World
+    Championship Decks") belong to no one expansion. Each goes under the promo set of the era it was released in,
+    where its promo cards are: the era is the series of the last expansion released on or before it. TCGplayer
+    gives many of them no release date; TCGplayer numbers products in the order it lists them, so such a product
+    takes the date of the nearest dated product listed before it, which is close enough to place it in its era."""
+    tcgdex = f"{TCGDEX_API}/{edition.language}"
+    starts = sorted((released, g.serie) for g in product_groups if g.serie and
+                    (released := (fetcher.get(f"{tcgdex}/sets/{g.set_id}") or {}).get("releaseDate")))
+    promo_by_serie = {g.serie: g for g in promo_groups if g.serie}
+    unmapped = [g for g in _results(fetcher.get(f"{TCGCSV}/{edition.category}/groups"))
+                if g["groupId"] not in mapped and not EXPANSION_GROUP_RE.match(g["name"])]
+    products = {g["groupId"]: [p for p in _results(fetcher.get(f"{TCGCSV}/{edition.category}/{g['groupId']}/products"))
+                               if is_sealed(p)] for g in unmapped}
+    dated = sorted((p["productId"], day) for p in [*(p for g in product_groups for p in g.products if is_sealed(p)),
+                                                    *(p for ps in products.values() for p in ps)]
+                   if (day := release_date(p)))
+    out: dict[tuple[int, str], Group] = {}
+    for g in unmapped:
+        for product in products[g["groupId"]]:
+            # A year in the name ("2013 World Championship Deck", "Trainer's Toolkit (2020)") beats the listing
+            # order: TCGplayer listed some old products years later.
+            year = re.search(r"\b(?:19|20)\d{2}\b", f"{product['name']} {g['name']}")
+            day = release_date(product) or (f"{year.group(0)}-07-01" if year else None) or \
+                next((d for pid, d in reversed(dated) if pid < product["productId"]), None)
+            if not day:
+                continue
+            serie = next((s for released, s in reversed(starts) if released <= day), None)
+            if (promo := promo_by_serie.get(serie)) is None:
+                continue
+            if (g["groupId"], promo.set_id) not in out:
+                # Negative ids keep these apart from TCGplayer's groups.
+                out[(g["groupId"], promo.set_id)] = Group(-(len(out) + 1), promo.set_id, g["name"], "",
+                                                          g.get("publishedOn"), serie)
+            out[(g["groupId"], promo.set_id)].products.append(product)
+    return list(out.values())
+
+
 def is_generated(family: Family, language: str = "en") -> bool:
     """Written by this tool: its notes say so and its release in the edition's language cites the TCGplayer page
     first. Other releases, and sources another tool added after that page, do not make the family hand-written."""
@@ -730,6 +793,7 @@ def main(argv: list[str] | None = None) -> int:
     set_names = {g.group_id: tcgdex_sets.get(g.set_id, {}).get("name", g.name) for g in groups}
     promo_groups = [g for g in groups if "promo" in fold(set_names[g.group_id]) or "プロモ" in set_names[g.group_id]]
     product_groups = [g for g in groups if g not in promo_groups]
+    product_groups += era_groups(fetcher, edition, set(mapping), product_groups, promo_groups)
 
     existing = load(args.data)
     by_tcgplayer: dict[int, Family] = {}
@@ -753,7 +817,9 @@ def main(argv: list[str] | None = None) -> int:
                 family_id = family.data["id"]
                 curated = not is_generated(family, edition.language)
             else:
-                stem = re.sub(rf"\b{re.escape(group.expansion)}\b", "", fold(product["name"])).strip()
+                stem = fold(product["name"])
+                if group.expansion:
+                    stem = re.sub(rf"\b{re.escape(group.expansion)}\b", "", stem).strip()
                 # "XY BREAKthrough Booster Pack" leaves "xy booster pack": the series is already in the set id.
                 stem = re.sub(SERIES_PREFIX, "", stem).strip() or stem or category
                 # Japanese set ids can hold a "+" ("SM1+"), which a family id may not.
@@ -769,13 +835,15 @@ def main(argv: list[str] | None = None) -> int:
     # The set's own pack or box is the one named "<expansion> booster pack|booster|booster box".
     canonical = {"booster_pack": ("booster pack", "booster"), "booster_box": ("booster box",)}
     for (group_id, category), ids in kinds.items():
+        if group_id < 0:
+            continue   # an era group is no expansion: it has no pack or box of its own
         group = next(g for g in product_groups if g.group_id == group_id)
         plain = [i for i in ids if names[i] in {f"{group.expansion} {s}" for s in canonical.get(category, ())}]
         if len(plain) == 1 or len(ids) == 1:
             child_of[(group_id, category)] = (plain or ids)[0]
 
     resolver = PromoResolver(fetcher, promo_groups, edition.language)
-    by_expansion = {g.expansion: g for g in product_groups}
+    by_expansion = {g.expansion: g for g in product_groups if g.group_id > 0}
     families = {key: [(fid, names[fid]) for fid in ids] for key, ids in kinds.items()}
     content_parser = Parser(by_expansion, child_of, families, resolver)
     review = []

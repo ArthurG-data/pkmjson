@@ -1,0 +1,47 @@
+{
+  "id": "svp-kleavor-vstar-premium-collection-international",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Kleavor VSTAR Premium Collection (International)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Kleavor VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Collector's pin featuring Kleavor",
+        "count": 1
+      },
+      {
+        "name": "Metallic coin featuring Kleavor",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card usable in either the Pokémon TCG Online or Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Kleavor V; 1 etched foil promo card featuring Kleavor VSTAR; 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Kleavor VSTAR Premium Collection (International)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          637464
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/637464/pokemon-miscellaneous-cards-and-products-kleavor-vstar-premium-collection-international"
+      ]
+    }
+  ]
+}

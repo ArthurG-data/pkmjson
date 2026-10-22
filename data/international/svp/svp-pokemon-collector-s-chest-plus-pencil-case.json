@@ -1,0 +1,24 @@
+{
+  "id": "svp-pokemon-collector-s-chest-plus-pencil-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Pokémon Collector's Chest Plus Pencil Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokémon Collector's Chest Plus Pencil Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514256
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514256/pokemon-miscellaneous-cards-and-products-pokemon-collectors-chest-plus-pencil-case"
+      ]
+    }
+  ]
+}

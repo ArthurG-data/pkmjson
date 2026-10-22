@@ -27,6 +27,22 @@
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Triple_Puissance_Mewtwo-EX"
       ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Triple Poder",
+      "releaseDate": "2016-03-09",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-triple-poder"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatole da collezione Triplo Poteredel GCC Pokémon",
+      "releaseDate": "2016-03-09",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-triplo-potere"
+      ]
     }
   ]
 }

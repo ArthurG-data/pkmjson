@@ -1,0 +1,58 @@
+{
+  "id": "svp-paradox-wisdom-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Paradox Wisdom Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-128",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 554299,
+        "cardmarketProductId": 769426,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-146",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 579992,
+        "cardmarketProductId": 775960,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Magnetic 3-card holder",
+        "count": 1
+      },
+      {
+        "name": "Magnetic 3-card holder base",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring and Iron Boulder ex; 1 oversize promo card featuring Iron Crown ex.; 7 Pokémon TCG booster packs..",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paradox Wisdom Premium Collection",
+      "releaseDate": "2024-10-04",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          583521
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/583521/pokemon-miscellaneous-cards-and-products-paradox-wisdom-premium-collection"
+      ]
+    }
+  ]
+}

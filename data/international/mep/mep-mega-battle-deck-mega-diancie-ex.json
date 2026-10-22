@@ -1,0 +1,48 @@
+{
+  "id": "mep-mega-battle-deck-mega-diancie-ex",
+  "region": "international",
+  "set": "mep",
+  "category": "battle_deck",
+  "name": "Mega Battle Deck (Mega Diancie ex)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Set of damage counters",
+        "count": 1
+      },
+      {
+        "name": "Large metallic coin",
+        "count": 1
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Double-sided playmat and strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mega Battle Deck (Mega Diancie ex)",
+      "releaseDate": "2025-10-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          659193
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/659193/pokemon-miscellaneous-cards-and-products-mega-battle-deck-mega-diancie-ex"
+      ]
+    }
+  ]
+}

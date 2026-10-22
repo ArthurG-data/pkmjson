@@ -1,0 +1,24 @@
+{
+  "id": "svp-paldea-adventure-chest-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Paldea Adventure Chest Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Adventure Chest Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          621135
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/621135/pokemon-miscellaneous-cards-and-products-paldea-adventure-chest-case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "swshp-boltund-v-showcase",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "Boltund V Showcase",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Boltund V Promo card.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Boltund V Showcase",
+      "releaseDate": "2022-04-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          268069
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/268069/pokemon-miscellaneous-cards-and-products-boltund-v-showcase"
+      ]
+    }
+  ]
+}

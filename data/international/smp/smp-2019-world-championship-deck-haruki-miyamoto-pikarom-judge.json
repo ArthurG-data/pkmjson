@@ -1,0 +1,25 @@
+{
+  "id": "smp-2019-world-championship-deck-haruki-miyamoto-pikarom-judge",
+  "region": "international",
+  "set": "smp",
+  "category": "battle_deck",
+  "name": "2019 World Championship Deck: Haruki Miyamoto (Pikarom Judge)",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "2019 World Championship Deck: Haruki Miyamoto (Pikarom Judge)",
+      "releaseDate": "2019-11-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          200138
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/200138/pokemon-world-championship-decks-2019-world-championship-deck-haruki-miyamoto-pikarom-judge"
+      ]
+    }
+  ]
+}

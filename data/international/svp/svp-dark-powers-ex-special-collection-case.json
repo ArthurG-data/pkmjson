@@ -1,0 +1,25 @@
+{
+  "id": "svp-dark-powers-ex-special-collection-case",
+  "region": "international",
+  "set": "svp",
+  "category": "case",
+  "name": "Dark Powers ex Special Collection Case",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Dark Powers ex Special Collection Case",
+      "releaseDate": "2024-08-30",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          558747
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/558747/pokemon-miscellaneous-cards-and-products-dark-powers-ex-special-collection-case"
+      ]
+    }
+  ]
+}

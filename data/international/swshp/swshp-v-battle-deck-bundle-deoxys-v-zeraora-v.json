@@ -1,0 +1,59 @@
+{
+  "id": "swshp-v-battle-deck-bundle-deoxys-v-zeraora-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "battle_deck",
+  "name": "V Battle Deck Bundle [Deoxys V / Zeraora V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Large metallic coins",
+        "count": 2
+      },
+      {
+        "name": "Deck boxes",
+        "count": 2
+      },
+      {
+        "name": "Quick Guides to unlock the strategies within",
+        "count": 2
+      },
+      {
+        "name": "Single-player playmats",
+        "count": 2
+      },
+      {
+        "name": "Reference cards",
+        "count": 6
+      },
+      {
+        "name": "Damage counters",
+        "count": 1
+      },
+      {
+        "name": "Guide to upgrading your decks",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 ready-to-play V Battle Decks (60 cards each); a powerful special Pokémon: Zeraora V or Deoxys V; 8 additional Trainer cards, including 2 foil cards; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Battle Deck Bundle [Deoxys V / Zeraora V]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          280864
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/280864/pokemon-miscellaneous-cards-and-products-v-battle-deck-bundle-deoxys-v-zeraora-v"
+      ]
+    }
+  ]
+}

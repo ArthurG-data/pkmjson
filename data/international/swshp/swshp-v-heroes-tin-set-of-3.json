@@ -1,0 +1,24 @@
+{
+  "id": "swshp-v-heroes-tin-set-of-3",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "V Heroes Tin [Set of 3]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil card featuring Sylveon V, Umbreon V, Espeon V (respectively); 5 Pokémon TCG booster packs; set of products.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "V Heroes Tin [Set of 3]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262972
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262972/pokemon-miscellaneous-cards-and-products-v-heroes-tin-set-of-3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "svp-armarouge-ex-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Armarouge ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Card sleeves featuring Armarouge and Ceruledge",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Armarouge ex; 1 promo card featuring Charcadet; 1 promo card featuring Ceruledge; 6 Pokémon TCG booster packs; 1 magnetic card protector with display base.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Armarouge ex Premium Collection",
+      "releaseDate": "2024-04-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          539305
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/539305/pokemon-miscellaneous-cards-and-products-armarouge-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium Armarouge ex",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-armarouge-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Carmadura‑ex",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-carmadura-ex"
+      ]
+    }
+  ]
+}

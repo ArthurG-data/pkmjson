@@ -1,0 +1,42 @@
+{
+  "id": "svp-pokemon-poke-ball-tin-premier-ball-q4-2024",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon - Poke Ball Tin - Premier Ball (Q4 2024)",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheets",
+        "count": 2
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three random Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon - Poke Ball Tin - Premier Ball (Q4 2024)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          587367
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/587367/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-premier-ball-q4-2024"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Poké Ball (autunno 2024)",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-autunno-2024"
+      ]
+    }
+  ]
+}

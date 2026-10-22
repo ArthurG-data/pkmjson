@@ -1,0 +1,56 @@
+{
+  "id": "svp-league-battle-deck-gardevoir-ex",
+  "region": "international",
+  "set": "svp",
+  "category": "battle_deck",
+  "name": "League Battle Deck [Gardevoir ex]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage-counter dice",
+        "count": 6
+      },
+      {
+        "name": "Coin-flip die",
+        "count": 1
+      },
+      {
+        "name": "Coin condition markers",
+        "count": 2
+      },
+      {
+        "name": "Deck box",
+        "count": 1
+      },
+      {
+        "name": "Accessory box",
+        "count": 1
+      },
+      {
+        "name": "Strategy sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card to play this deck online",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; deck list.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "League Battle Deck [Gardevoir ex]",
+      "releaseDate": "2024-04-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          539385
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/539385/pokemon-miscellaneous-cards-and-products-league-battle-deck-gardevoir-ex"
+      ]
+    }
+  ]
+}

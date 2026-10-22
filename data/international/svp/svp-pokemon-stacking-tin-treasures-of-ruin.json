@@ -1,0 +1,32 @@
+{
+  "id": "svp-pokemon-stacking-tin-treasures-of-ruin",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Pokemon Stacking Tin: Treasures of Ruin",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Pokémon sticker sheets",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Pokemon Stacking Tin: Treasures of Ruin",
+      "releaseDate": "2025-03-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          616294
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/616294/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-treasures-of-ruin"
+      ]
+    }
+  ]
+}

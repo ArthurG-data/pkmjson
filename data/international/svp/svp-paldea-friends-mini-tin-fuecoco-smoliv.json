@@ -1,0 +1,64 @@
+{
+  "id": "svp-paldea-friends-mini-tin-fuecoco-smoliv",
+  "region": "international",
+  "set": "svp",
+  "category": "tin",
+  "name": "Paldea Friends Mini Tin [Fuecoco & Smoliv]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Paldea Friends Mini Tin [Fuecoco & Smoliv]",
+      "releaseDate": "2023-05-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          484357
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/484357/pokemon-miscellaneous-cards-and-products-paldea-friends-mini-tin-fuecoco-and-smoliv"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Mini-boîte Amis de Paldea",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-amis-de-paldea"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Mini-Tin-Box Paldea-Freunde",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-paldea-freunde"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Minilata Amigos de Paldea",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-amigos-de-paldea"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Miniscatola da collezione Amici di Paldea",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-amici-di-paldea"
+      ]
+    }
+  ]
+}

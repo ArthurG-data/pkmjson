@@ -1,0 +1,65 @@
+{
+  "id": "swshp-divergent-powers-tin-hisuian-samurott-v",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Divergent Powers Tin [Hisuian Samurott V]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "swshp-SWSH239",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 275165,
+        "cardmarketProductId": 650949,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Divergent Powers Tin [Hisuian Samurott V]",
+      "releaseDate": "2022-06-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          271939
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/271939/pokemon-miscellaneous-cards-and-products-divergent-powers-tin-hisuian-samurott-v"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Lata Poderes Divergentes",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-divergentes"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Boîte Puissances Divergentes",
+      "releaseDate": "2022-06-17",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-puissances-divergentes"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Scatola da collezione Poteri Divergenti",
+      "releaseDate": "2022-06-17",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poteri-divergenti"
+      ]
+    }
+  ]
+}

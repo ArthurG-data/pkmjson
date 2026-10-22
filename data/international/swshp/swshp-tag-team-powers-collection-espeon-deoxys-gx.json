@@ -1,0 +1,25 @@
+{
+  "id": "swshp-tag-team-powers-collection-espeon-deoxys-gx",
+  "region": "international",
+  "set": "swshp",
+  "category": "collection_box",
+  "name": "TAG TEAM Powers Collection [Espeon & Deoxys GX]",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "TAG TEAM Powers Collection [Espeon & Deoxys GX]",
+      "releaseDate": "2020-03-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          209532
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/209532/pokemon-miscellaneous-cards-and-products-tag-team-powers-collection-espeon-and-deoxys-gx"
+      ]
+    }
+  ]
+}

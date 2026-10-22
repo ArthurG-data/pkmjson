@@ -1,0 +1,39 @@
+{
+  "id": "svp-lucario-vstar-special-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Lucario VSTAR Special Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Etched oversize card featuring Lucario VSTAR",
+        "count": 1
+      },
+      {
+        "name": "Acrylic VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon Trading Card Game Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Lucario V; 1 etched promo card featuring Lucario VSTAR; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Lucario VSTAR Special Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          497728
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/497728/pokemon-miscellaneous-cards-and-products-lucario-vstar-special-collection"
+      ]
+    }
+  ]
+}

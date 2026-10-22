@@ -1,0 +1,24 @@
+{
+  "id": "swshp-10th-movie-commemoration-set",
+  "region": "international",
+  "set": "swshp",
+  "category": "other",
+  "name": "10th Movie Commemoration Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 11 cards with central Pokémon from the previous nine movies.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "10th Movie Commemoration Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          266002
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/266002/pokemon-miscellaneous-cards-and-products-"
+      ]
+    }
+  ]
+}

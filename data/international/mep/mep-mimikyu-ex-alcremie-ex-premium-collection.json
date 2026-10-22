@@ -1,0 +1,31 @@
+{
+  "id": "mep-mimikyu-ex-alcremie-ex-premium-collection",
+  "region": "international",
+  "set": "mep",
+  "category": "premium_collection",
+  "name": "Mimikyu ex & Alcremie ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Oversize foil card featuring Mimikyu ex",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mimikyu ex; 1 foil promo card featuring Alcremie ex; 10 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Mimikyu ex & Alcremie ex Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          655747
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/655747/pokemon-miscellaneous-cards-and-products-mimikyu-ex-and-alcremie-ex-premium-collection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "swshp-legendary-birds-pin-3-pack-blister-zapdos-pin",
+  "region": "international",
+  "set": "swshp",
+  "category": "blister",
+  "name": "Legendary Birds Pin 3 Pack Blister [Zapdos Pin]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Collectible pin of Zapdos",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 3 booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Legendary Birds Pin 3 Pack Blister [Zapdos Pin]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          266641
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/266641/pokemon-miscellaneous-cards-and-products-legendary-birds-pin-3-pack-blister-zapdos-pin"
+      ]
+    }
+  ]
+}

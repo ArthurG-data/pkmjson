@@ -1,0 +1,24 @@
+{
+  "id": "svp-grand-adventure-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Grand Adventure Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 Sprigatito foil promo card featuring art of Liko and Sprigatito from Pokémon Horizons: The Series; 1 Fuecoco foil promo card featuring art of Roy and Fuecoco from Pokémon Horizons: The Series; 1 oversize foil promo card featuring Terapagos & Friends; 4 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Grand Adventure Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594896
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594896/pokemon-miscellaneous-cards-and-products-grand-adventure-collection"
+      ]
+    }
+  ]
+}

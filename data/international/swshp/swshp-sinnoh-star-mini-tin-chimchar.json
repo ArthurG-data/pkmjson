@@ -1,0 +1,36 @@
+{
+  "id": "swshp-sinnoh-star-mini-tin-chimchar",
+  "region": "international",
+  "set": "swshp",
+  "category": "tin",
+  "name": "Sinnoh Star Mini Tin [Chimchar]",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Metallic Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "Pokémon art card showing the art from this Mini Tin",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Sinnoh Star Mini Tin [Chimchar]",
+      "releaseDate": "2022-04-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          262641
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/262641/pokemon-miscellaneous-cards-and-products-sinnoh-star-mini-tin-chimchar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "svp-tera-brawlers-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Tera Brawlers Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Charizard ex; 1 promo card featuring Dragonite ex; 1 promo card featuring Dedenne ex; 1 promo card featuring Greedent ex; 1 promo card featuring Skeledirge ex; 9 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Tera Brawlers Premium Collection",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563857
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563857/pokemon-miscellaneous-cards-and-products-tera-brawlers-premium-collection"
+      ]
+    }
+  ]
+}

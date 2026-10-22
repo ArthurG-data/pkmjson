@@ -1,0 +1,54 @@
+{
+  "id": "svp-ogerpon-ex-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Ogerpon ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-166",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 596439,
+        "cardmarketProductId": 796946,
+        "count": 1,
+        "role": "promo"
+      },
+      {
+        "tcgdexCardId": "svp-123",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 552785,
+        "cardmarketProductId": 765994,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Card sleeves featuring Ogerpon",
+        "count": 65
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Ogre’s Mask Trainer card; 6 Pokémon TCG booster packs; 1 magnetic card protector with display base.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Ogerpon ex Premium Collection",
+      "releaseDate": "2024-11-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576482
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576482/pokemon-miscellaneous-cards-and-products-ogerpon-ex-premium-collection"
+      ]
+    }
+  ]
+}

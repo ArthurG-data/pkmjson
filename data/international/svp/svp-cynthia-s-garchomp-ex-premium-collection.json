@@ -1,0 +1,78 @@
+{
+  "id": "svp-cynthia-s-garchomp-ex-premium-collection",
+  "region": "international",
+  "set": "svp",
+  "category": "premium_collection",
+  "name": "Cynthia's Garchomp ex Premium Collection",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-204",
+        "tcgdexVariantId": "jr7oetx1mqug9",
+        "tcgplayerProductId": 637613,
+        "cardmarketProductId": 830109,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sheet of acrylic standees featuring Cynthia, Garchomp, more",
+        "count": 1
+      },
+      {
+        "name": "Photo sticker featuring Cynthia and Garchomp",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokemon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Cynthia's Gible; 1 promo card featuring Cynthia's Gabite; 1 double-sided backdrop display; 6 Pokemon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Cynthia's Garchomp ex Premium Collection",
+      "releaseDate": "2025-06-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          625952
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/625952/pokemon-miscellaneous-cards-and-products-cynthias-garchomp-ex-premium-collection"
+      ]
+    },
+    {
+      "language": "it",
+      "name": "Collezione premium Garchomp‑ex di Camilla",
+      "sources": [
+        "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-garchomp-ex-di-camilla"
+      ]
+    },
+    {
+      "language": "de",
+      "name": "Premium-Kollektion Cynthias Knakrack‑ex",
+      "sources": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-cynthias-knakrack-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "name": "Collection Premium Carchacrok‑ex de Cynthia",
+      "sources": [
+        "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-carchacrok-ex-de-cynthia"
+      ]
+    },
+    {
+      "language": "es",
+      "name": "Colección prémium Garchomp ex de Cintia",
+      "sources": [
+        "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-garchomp-ex-de-cintia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "svp-knock-out-collection-chien-pao",
+  "region": "international",
+  "set": "svp",
+  "category": "collection_box",
+  "name": "Knock Out Collection [Chien-Pao]",
+  "contentsStatus": "partial",
+  "contents": {
+    "cards": [
+      {
+        "tcgdexCardId": "svp-152",
+        "tcgdexVariantId": "555jb0efopmyclvkikic41",
+        "tcgplayerProductId": 594383,
+        "cardmarketProductId": 793742,
+        "count": 1,
+        "role": "promo"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sticker sheet",
+        "count": 1
+      },
+      {
+        "name": "Code card for Pokémon TCG Live",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs.",
+  "releases": [
+    {
+      "language": "en",
+      "name": "Knock Out Collection [Chien-Pao]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628494
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628494/pokemon-miscellaneous-cards-and-products-knock-out-collection-chien-pao"
+      ]
+    }
+  ]
+}
