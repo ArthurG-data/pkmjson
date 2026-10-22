@@ -1,0 +1,34 @@
+{
+ "skipped": [
+  {
+   "family": "svp-2-booster-packs-celebi-collector-s-pin",
+   "region": "international",
+   "set": "svp",
+   "reason": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp"
+  },
+  {
+   "family": "svp-2-booster-packs-jirachi-collector-s-pin",
+   "region": "international",
+   "set": "svp",
+   "reason": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp"
+  },
+  {
+   "family": "svp-2-booster-packs-latias-collector-s-pin",
+   "region": "international",
+   "set": "svp",
+   "reason": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp"
+  },
+  {
+   "family": "svp-2-booster-packs-latios-collector-s-pin",
+   "region": "international",
+   "set": "svp",
+   "reason": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp"
+  },
+  {
+   "family": "svp-pokemon-tcg-twin-mini-portfolio-booster-packs-mega-mewtwo-guzzlord",
+   "region": "international",
+   "set": "svp",
+   "reason": "a portfolio with booster packs, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp"
+  }
+ ]
+}

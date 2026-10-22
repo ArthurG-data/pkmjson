@@ -806,6 +806,13 @@ def is_generated(family: Family, language: str = "en") -> bool:
         str(family.data.get("notes", "")).startswith("Generated from TCGplayer")
 
 
+def keep_pool(data: dict, previous: dict) -> None:
+    """A regenerated booster pack keeps the contents.pool import_pools.py gave it."""
+    pool = (previous.get("contents") or {}).get("pool")
+    if pool and data["category"] in PACKS:
+        data["contents"]["pool"] = pool
+
+
 def merge_release(release: dict, previous: dict | None) -> dict:
     """Keep what another tool added to this release: its sources after TCGplayer's page, and the name and release
     date those sources state."""
@@ -924,6 +931,7 @@ def main(argv: list[str] | None = None) -> int:
             own = next((r for r in previous.get("releases", []) if r.get("language") == edition.language), None)
             data["releases"] = [merge_release(data["releases"][0], own)] + \
                 [r for r in previous.get("releases", []) if r.get("language") != edition.language]
+            keep_pool(data, previous)
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     review_path = ROOT / "review" / f"tcgplayer-{edition.category}.json"
     review_path.parent.mkdir(parents=True, exist_ok=True)

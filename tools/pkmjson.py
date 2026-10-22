@@ -15,6 +15,8 @@ SCHEMA = json.loads((ROOT / "schema" / "product.schema.json").read_text(encoding
 # TCGdex keeps Japanese, Korean, Chinese, Thai and Indonesian cards in its Asian tree.
 ASIA_LANGUAGES = {"ja", "ko", "zh-tw", "zh-cn", "th", "id"}
 TCGDEX_API = "https://api.tcgdex.net/v2"
+# Random cards: the only products that may carry contents.pool.
+PACK_CATEGORIES = ("booster_pack", "sleeved_booster_pack")
 
 
 SETS = ROOT / "sets" / "sets.json"
@@ -45,6 +47,31 @@ def _contents_of(family: dict, release: dict) -> dict:
     return release.get("contents", family["contents"])
 
 
+def pool_of(family: dict, release: dict) -> list[dict]:
+    """The sets a booster pack can hold, each with its region spelled out and sorted by (region, set). A release
+    that lists its own pool replaces the family's, like the rest of its contents."""
+    pool = _contents_of(family, release).get("pool") or family["contents"].get("pool") or []
+    return sorted(({"set": p["set"], "region": p.get("region", family["region"])} for p in pool),
+                  key=lambda p: (p["region"], p["set"]))
+
+
+def _pool_errors(family: dict, where: Path) -> list[str]:
+    """contents.pool belongs to booster packs, and names each set once (a missing region means the family's)."""
+    errors = []
+    scopes = [("", family["contents"])] + [(f"{r['language']} ", r["contents"]) for r in family["releases"]
+                                           if "contents" in r]
+    for label, contents in scopes:
+        pool = contents.get("pool")
+        if pool is None:
+            continue
+        if family["category"] not in PACK_CATEGORIES:
+            errors.append(f"{where}: {label}contents.pool is only for booster packs, not {family['category']}")
+        named = [(p.get("region", family["region"]), p["set"]) for p in pool]
+        for dup in sorted({n for n in named if named.count(n) > 1}):
+            errors.append(f"{where}: {label}contents.pool names {dup[0]}/{dup[1]} twice")
+    return errors
+
+
 def validate(families: Iterable[Family], data_dir: Path) -> list[str]:
     """Every problem found offline, as 'path: message'. Empty when the data is valid."""
     families = list(families)
@@ -73,6 +100,7 @@ def validate(families: Iterable[Family], data_dir: Path) -> list[str]:
         seen = [r["language"] for r in f.data["releases"]]
         if len(seen) != len(set(seen)):
             errors.append(f"{where}: a language is released twice")
+        errors += _pool_errors(f.data, where)
         for release in f.data["releases"]:
             lang = release["language"]
             if (lang in ASIA_LANGUAGES) != (f.data["region"] == "asia"):
@@ -186,6 +214,8 @@ def flatten(families: Iterable[Family]) -> dict[str, dict]:
                 },
                 "sources": r["sources"],
             }
+            if pool := pool_of(d, r):
+                entry["contents"]["pool"] = pool
             if "notes" in d:
                 entry["notes"] = d["notes"]
             out[entry["uuid"]] = entry

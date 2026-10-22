@@ -1,0 +1,20 @@
+{
+ "extraSets": {
+  "international/cel25": ["cel25cc"],
+  "international/ex10": ["exu"],
+  "international/sm115": ["sma"],
+  "international/swsh10": ["swsh10tg"],
+  "international/swsh11": ["swsh11tg"],
+  "international/swsh12": ["swsh12tg"],
+  "international/swsh12.5": ["swsh12.5gg"],
+  "international/swsh4.5": ["swsh4.5sv"],
+  "international/swsh9": ["swsh9tg"]
+ },
+ "skip": {
+  "svp-2-booster-packs-celebi-collector-s-pin": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp",
+  "svp-2-booster-packs-jirachi-collector-s-pin": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp",
+  "svp-2-booster-packs-latias-collector-s-pin": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp",
+  "svp-2-booster-packs-latios-collector-s-pin": "a bundle of two booster packs and a pin, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp",
+  "svp-pokemon-tcg-twin-mini-portfolio-booster-packs-mega-mewtwo-guzzlord": "a portfolio with booster packs, not one set's pack; TCGplayer lists it outside any expansion, so it sits under svp"
+ }
+}
