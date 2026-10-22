@@ -64,8 +64,9 @@ because the set has none of its own. `logoKind` marks a product image or set sym
   Products", World Championships decks) go under the promo set of the era they were released in, such as `svp` or
   `swshp`, because that is where their promo cards are.
 - **Japanese names and dates:** `tools/import_pokemon_card_jp.py` matches pokemon-card.com's product search to
-  those families. A match requires both the TCGdex set's name and its release date. Where it matches, the `ja`
-  release gets the official name, date and search page.
+  those families. A match requires both the TCGdex set's name and its release date. A deck or set with no set of its
+  own matches instead by the Pokémon it is named after (translated with PokéAPI's species names) and the kind of
+  product. Where it matches, the `ja` release gets the official name, date and search page.
 - **French releases:** `tools/import_pokepedia.py` reads Poképédia's product pages.
 - **German, Italian, Spanish and more French releases:** pokemon.com's product gallery links each US product page
   to its other-language versions. pokemon.com refuses scripted clients, so `tools/pokemon_com_crawl.js` runs in a

@@ -12,6 +12,19 @@
    }
   }
  },
+ "asia/M-P": {
+  "region": "asia",
+  "set": "M-P",
+  "languages": {
+   "ja": {
+    "name": "メガ プロモカード",
+    "source": "https://api.tcgdex.net/v2/ja/sets/M-P",
+    "logo": "https://www.pokemon-card.com/products/2026/images/mfbox.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
  "asia/M1L": {
   "region": "asia",
   "set": "M1L",
@@ -695,19 +708,6 @@
    }
   }
  },
- "asia/SM1p": {
-  "region": "asia",
-  "set": "SM1p",
-  "languages": {
-   "ja": {
-    "name": "サン＆ムーン",
-    "source": "https://api.tcgdex.net/v2/ja/sets/SM1p",
-    "logo": "https://www.pokemon-card.com/assets/images/products/archive/sm/sm1-plus_l.jpeg",
-    "logoSource": "pokemon-card.com",
-    "logoKind": "product image"
-   }
-  }
- },
  "asia/SM2K": {
   "region": "asia",
   "set": "SM2K",
@@ -1033,6 +1033,19 @@
    }
   }
  },
+ "asia/SV-P": {
+  "region": "asia",
+  "set": "SV-P",
+  "languages": {
+   "ja": {
+    "name": "スカーレット&バイオレット プロモカード",
+    "source": "https://api.tcgdex.net/v2/ja/sets/SV-P",
+    "logo": "https://www.pokemon-card.com/products/2024/images/SVJP.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
  "asia/SV10": {
   "region": "asia",
   "set": "SV10",
@@ -1350,6 +1363,72 @@
     "name": "熱風のアリーナ",
     "source": "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E7%86%B1%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "logo": "https://www.pokemon-card.com/products/2025/images/sv9a.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
+ "asia/SVAL": {
+  "region": "asia",
+  "set": "SVAL",
+  "languages": {
+   "ja": {
+    "logo": "https://www.pokemon-card.com/products/2023/images/SVAL.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
+ "asia/SVAM": {
+  "region": "asia",
+  "set": "SVAM",
+  "languages": {
+   "ja": {
+    "logo": "https://www.pokemon-card.com/products/2023/images/SVAM.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
+ "asia/SVAW": {
+  "region": "asia",
+  "set": "SVAW",
+  "languages": {
+   "ja": {
+    "logo": "https://www.pokemon-card.com/products/2023/images/SVAW.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
+ "asia/SVC": {
+  "region": "asia",
+  "set": "SVC",
+  "languages": {
+   "ja": {
+    "logo": "https://www.pokemon-card.com/products/2023/images/SVC.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
+ "asia/SVD": {
+  "region": "asia",
+  "set": "SVD",
+  "languages": {
+   "ja": {
+    "logo": "https://www.pokemon-card.com/products/2023/images/HONO.jpg",
+    "logoSource": "pokemon-card.com",
+    "logoKind": "product image"
+   }
+  }
+ },
+ "asia/SVEM": {
+  "region": "asia",
+  "set": "SVEM",
+  "languages": {
+   "ja": {
+    "logo": "https://www.pokemon-card.com/products/2023/images/SVEM_thumbnail.jpg",
     "logoSource": "pokemon-card.com",
     "logoKind": "product image"
    }

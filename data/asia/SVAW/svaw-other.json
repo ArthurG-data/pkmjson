@@ -33,14 +33,16 @@
   "releases": [
     {
       "language": "ja",
-      "name": "ex Starter Set Quaxly & Mimikyu ex",
+      "name": "スターターセットex クワッス&ミミッキュex",
+      "releaseDate": "2023-01-20",
       "identifiers": {
         "tcgplayerProductIds": [
           594377
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/594377/pokemon-japan-sv-ex-starter-set-quaxly-and-mimikyu-ex-ex-starter-set-quaxly-and-mimikyu-ex"
+        "https://www.tcgplayer.com/product/594377/pokemon-japan-sv-ex-starter-set-quaxly-and-mimikyu-ex-ex-starter-set-quaxly-and-mimikyu-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88%3Cbig%3Eex%3C%2Fbig%3E+%E3%82%AF%E3%83%AF%E3%83%83%E3%82%B9%26%E3%83%9F%E3%83%9F%E3%83%83%E3%82%AD%E3%83%A5%3Cbig%3Eex%3C%2Fbig%3E"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "id": "m-p-30th-celebration-premium-deck-set-espeon-umbreon",
+  "region": "asia",
+  "set": "M-P",
+  "category": "battle_deck",
+  "name": "30th CELEBRATION Premium Deck Set Espeon & Umbreon",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "2x sheets of damage counters/markers",
+        "count": 1
+      },
+      {
+        "name": "2x Pokémon coins featuring Espeon and Umbreon",
+        "count": 1
+      },
+      {
+        "name": "1x Slide-type double-deck case",
+        "count": 1
+      },
+      {
+        "name": "1x playmat",
+        "count": 1
+      },
+      {
+        "name": "First time user guide",
+        "count": 1
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1x 60-card pre-constructed Espeon ex deck; 1x 60-card pre-constructed Umbreon ex deck; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
+      "releaseDate": "2026-09-16",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          716802
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/716802/pokemon-japan-mf-30th-celebration-premium-deck-set-espeon-and-umbreon-30th-celebration-premium-deck-set-espeon-and-umbreon",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=30th+CELEBRATION+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%87%E3%83%83%E3%82%AD%E3%82%BB%E3%83%83%E3%83%88+%E3%82%A8%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC"
+      ]
+    }
+  ]
+}

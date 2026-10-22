@@ -1,0 +1,33 @@
+{
+  "id": "m-p-starter-set-ex-meowscarada-ex",
+  "region": "asia",
+  "set": "M-P",
+  "category": "battle_deck",
+  "name": "Starter Set ex Meowscarada ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Player's guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 pre-constructed deck ready to play; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スターターセットex ニャオハ＆マスカーニャex",
+      "releaseDate": "2026-07-31",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709113
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709113/pokemon-japan-mem-starter-set-ex-meowscarada-ex-starter-set-ex-meowscarada-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88ex+%E3%83%8B%E3%83%A3%E3%82%AA%E3%83%8F%EF%BC%86%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%A3ex"
+      ]
+    }
+  ]
+}

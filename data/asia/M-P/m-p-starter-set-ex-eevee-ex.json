@@ -1,0 +1,31 @@
+{
+  "id": "m-p-starter-set-ex-eevee-ex",
+  "region": "asia",
+  "set": "M-P",
+  "category": "battle_deck",
+  "name": "Starter Set ex Eevee ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Player's guide",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 pre-constructed deck ready to play; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Starter Set ex Eevee ex",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709112
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709112/pokemon-japan-mee-starter-set-ex-eevee-ex-starter-set-ex-eevee-ex"
+      ]
+    }
+  ]
+}

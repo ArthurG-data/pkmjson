@@ -185,9 +185,11 @@ def classify(name: str) -> str:
 
 
 def is_sealed(product: dict) -> bool:
-    """Not a single card, and not a 'Code Card - ...' listing (a digital code TCGplayer sells on its own)."""
+    """Not a single card, and not a 'Code Card - ...' listing (a digital code TCGplayer sells on its own). Some card
+    listings have no number ("Quick Starter Gift Set" cards): a card type or HP marks them."""
     names = {e.get("name") for e in product.get("extendedData") or []}
-    return not names & {"Number", "Rarity"} and not fold(product.get("name", "")).startswith("code card")
+    return not names & {"Number", "Rarity", "CardType", "HP"} and \
+        not fold(product.get("name", "")).startswith("code card")
 
 
 def card_text(product: dict, text_field: str = "CardText") -> str:
@@ -710,6 +712,8 @@ def era_groups(fetcher: Fetcher, edition: Edition, mapped: set[int], product_gro
     where its promo cards are: the era is the series of the last expansion released on or before it. TCGplayer
     gives many of them no release date; TCGplayer numbers products in the order it lists them, so such a product
     takes the date of the nearest dated product listed before it, which is close enough to place it in its era."""
+    if edition.language == "ja":
+        return japanese_era_groups(fetcher, edition, mapped, product_groups, promo_groups)
     tcgdex = f"{TCGDEX_API}/{edition.language}"
     starts = sorted((released, g.serie) for g in product_groups if g.serie and
                     (released := (fetcher.get(f"{tcgdex}/sets/{g.set_id}") or {}).get("releaseDate")))
@@ -739,6 +743,52 @@ def era_groups(fetcher: Fetcher, edition: Edition, mapped: set[int], product_gro
                 out[(g["groupId"], promo.set_id)] = Group(-(len(out) + 1), promo.set_id, g["name"], "",
                                                           g.get("publishedOn"), serie)
             out[(g["groupId"], promo.set_id)].products.append(product)
+    return list(out.values())
+
+
+def japanese_era_groups(fetcher: Fetcher, edition: Edition, mapped: set[int], product_groups: list[Group],
+                        promo_groups: list[Group]) -> list[Group]:
+    """The Japanese groups that match no TCGdex set are mostly decks and starter sets, and TCGplayer dates none of
+    their products. The group's code says where each belongs instead:
+    - a code that is a TCGdex set ("s8a-G: 25th Anniversary Golden Box") is that set;
+    - a code of letters only ("SVM: Generations Start Decks", "MEE: Starter Set ex Eevee ex") names the era: the
+      promo set whose id starts the same way (SV-P, M-P, S-P);
+    - another code with a digit ("M6a: ...") is an expansion TCGdex does not list yet: it waits.
+    A group without a code goes by a year in its name. Without one it is left out: TCGplayer listed many old
+    Japanese decks years after they came out, so the listing order would put them in the wrong era."""
+    tcgdex = f"{TCGDEX_API}/{edition.language}"
+    sets = {s["id"].lower(): s["id"] for s in fetcher.get(f"{tcgdex}/sets") or []}
+    promo_by_prefix = {re.sub(r"-?P$", "", g.set_id): g for g in promo_groups}
+
+    def promo_for(code: str) -> Group | None:
+        prefixes = [p for p in promo_by_prefix if code.upper().startswith(p.upper())]
+        return promo_by_prefix[max(prefixes, key=len)] if prefixes else None
+
+    starts = sorted((released, promo) for g in product_groups if (promo := promo_for(g.set_id)) and
+                    (released := (fetcher.get(f"{tcgdex}/sets/{g.set_id}") or {}).get("releaseDate")))
+    out: dict[tuple[int, str], Group] = {}
+    for g in _results(fetcher.get(f"{TCGCSV}/{edition.category}/groups")):
+        if g["groupId"] in mapped:
+            continue
+        code = (m.group(1) if (m := re.match(r"^([A-Za-z][\w.-]*):\s", g["name"])) else "")
+        if code and (set_id := sets.get(re.sub(r"-[a-z]$", "", code.lower()))):
+            home = (set_id, None)
+        elif code and not re.search(r"\d", code):
+            home = (promo.set_id, promo.serie) if (promo := promo_for(code)) else None
+        elif code:
+            continue
+        elif (year := re.search(r"\b(?:19|20)\d{2}\b", g["name"])):
+            day = f"{year.group(0)}-07-01"
+            promo = next((p for released, p in reversed(starts) if released <= day), None)
+            home = (promo.set_id, promo.serie) if promo else None
+        else:
+            home = None
+        if home is None:
+            continue
+        group = out.setdefault((g["groupId"], home[0]), Group(-(len(out) + 1), home[0], g["name"], "",
+                                                              g.get("publishedOn"), home[1]))
+        group.products += [p for p in _results(fetcher.get(f"{TCGCSV}/{edition.category}/{g['groupId']}/products"))
+                           if is_sealed(p)]
     return list(out.values())
 
 

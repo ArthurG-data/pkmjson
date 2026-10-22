@@ -1,0 +1,35 @@
+{
+  "id": "sv-p-battle-partners-deck-build-box",
+  "region": "asia",
+  "set": "SV-P",
+  "category": "collection_box",
+  "name": "Battle Partners Deck Build Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Total of 171 cards that were used in official tournaments such as Kichikigisu EX and Yoru no Tanka, as well as a card box",
+        "count": 1
+      },
+      {
+        "name": "Dividers to store those cards",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 10 packs of the expansion pack Battle Partners; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Battle Partners Deck Build Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          614704
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/614704/pokemon-japan-svn-battle-partners-deck-build-box-battle-partners-deck-build-box"
+      ]
+    }
+  ]
+}

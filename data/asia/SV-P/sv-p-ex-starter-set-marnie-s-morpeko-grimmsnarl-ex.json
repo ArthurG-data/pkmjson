@@ -1,0 +1,49 @@
+{
+  "id": "sv-p-ex-starter-set-marnie-s-morpeko-grimmsnarl-ex",
+  "region": "asia",
+  "set": "SV-P",
+  "category": "battle_deck",
+  "name": "ex Starter Set Marnie's Morpeko & Grimmsnarl ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "Play guide",
+        "count": 1
+      },
+      {
+        "name": "Gold Pikachu coin",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a fixed selection of 60 cards including a number of basic Trainer cards and supporting basic Energy cards; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+      "releaseDate": "2025-02-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          619294
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/619294/pokemon-japan-sv-ex-starter-set-marnies-morpeko-and-grimmsnarl-ex-ex-starter-set-marnies-morpeko-and-grimmsnarl-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88ex+%E3%83%9E%E3%83%AA%E3%82%A3%E3%81%AE%E3%83%A2%E3%83%AB%E3%83%9A%E3%82%B3%EF%BC%86%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B2ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sv-p-venusaur-charizard-blastoise-special-deck-set-ex",
+  "region": "asia",
+  "set": "SV-P",
+  "category": "battle_deck",
+  "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Coins of Venusaur, Charizard, Blastoise",
+        "count": 3
+      },
+      {
+        "name": "Sheets containing 44 damage counters",
+        "count": 2
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "Damage counter case, player's guides",
+        "count": 1
+      },
+      {
+        "name": "Two-player playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: three Standard decks, each one headlined by a Pokémon ex which is the final evolution of the first partner Pokémon of the Kanto region; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スペシャルデッキセットex フシギバナ・リザードン・カメックス",
+      "releaseDate": "2023-11-10",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594075
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594075/pokemon-japan-sv-venusaur-charizard-and-blastoise-special-deck-set-venusaur-charizard-and-blastoise-special-deck-set-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%87%E3%83%83%E3%82%AD%E3%82%BB%E3%83%83%E3%83%88ex+%E3%83%95%E3%82%B7%E3%82%AE%E3%83%90%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9"
+      ]
+    }
+  ]
+}

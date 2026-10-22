@@ -583,114 +583,6 @@
  },
  {
   "kind": "construction",
-  "title": "スターターセットex ゾロア＆ゾロアークex",
-  "releaseDate": "2026-07-31",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex ニャオハ＆マスカーニャex",
-  "releaseDate": "2026-07-31",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
-  "releaseDate": "2026-09-16",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットMEGA メガゲンガーex",
-  "releaseDate": "2025-09-05",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットMEGA メガディアンシーex",
-  "releaseDate": "2025-09-05",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex マリィのモルペコ＆オーロンゲex",
-  "releaseDate": "2025-02-21",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex ダイゴのダンバル＆メタグロスex",
-  "releaseDate": "2025-02-21",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations ピカチュウex・カビゴンex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations ルギアex・バンギラスex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations カイオーガex・バシャーモex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations ディアルガex・ルカリオex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations レシラムex・モロバレルex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations ゼルネアスex・オンバーンex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations カプ・コケコex・ミミッキュex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations ザシアンex・マホイップex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スタートデッキGenerations コライドンex・パルデアドオーex",
-  "releaseDate": "2024-11-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "バトルマスターデッキ テラスタル リザードンex",
-  "releaseDate": "2024-05-17",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "バトルマスターデッキ パオジアンex",
-  "releaseDate": "2024-05-17",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
   "title": "バトルアカデミー",
   "releaseDate": "2024-03-08",
   "reason": "no TCGdex set with this name and date"
@@ -727,18 +619,6 @@
  },
  {
   "kind": "construction",
-  "title": "スペシャルデッキセットex フシギバナ・リザードン・カメックス",
-  "releaseDate": "2023-11-10",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセット テラスタル ミュウツーex",
-  "releaseDate": "2023-09-22",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
   "title": "スターターセット テラスタル ラウドボーンex",
   "releaseDate": "2023-09-22",
   "reason": "no TCGdex set with this name and date"
@@ -757,19 +637,7 @@
  },
  {
   "kind": "construction",
-  "title": "exスタートデッキ 炎 ビクティニ",
-  "releaseDate": "2023-07-07",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
   "title": "exスタートデッキ 水 ゲッコウガ",
-  "releaseDate": "2023-07-07",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "exスタートデッキ 雷 ミライドン",
   "releaseDate": "2023-07-07",
   "reason": "no TCGdex set with this name and date"
  },
@@ -793,38 +661,8 @@
  },
  {
   "kind": "construction",
-  "title": "exスタートデッキ 鋼 メルメタル",
-  "releaseDate": "2023-07-07",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
   "title": "おまかせexスタートデッキ",
   "releaseDate": "2023-07-07",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex ピカチュウex&パーモット",
-  "releaseDate": "2023-03-24",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex ニャオハ&ルカリオex",
-  "releaseDate": "2023-01-20",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex ホゲータ&デンリュウex",
-  "releaseDate": "2023-01-20",
-  "reason": "no TCGdex set with this name and date"
- },
- {
-  "kind": "construction",
-  "title": "スターターセットex クワッス&ミミッキュex",
-  "releaseDate": "2023-01-20",
   "reason": "no TCGdex set with this name and date"
  },
  {

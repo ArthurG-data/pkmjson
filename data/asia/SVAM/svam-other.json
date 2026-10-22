@@ -33,14 +33,16 @@
   "releases": [
     {
       "language": "ja",
-      "name": "ex Starter Set Sprigatito & Lucario ex",
+      "name": "スターターセットex ニャオハ&ルカリオex",
+      "releaseDate": "2023-01-20",
       "identifiers": {
         "tcgplayerProductIds": [
           594375
         ]
       },
       "sources": [
-        "https://www.tcgplayer.com/product/594375/pokemon-japan-sv-ex-starter-set-sprigatito-and-lucario-ex-ex-starter-set-sprigatito-and-lucario-ex"
+        "https://www.tcgplayer.com/product/594375/pokemon-japan-sv-ex-starter-set-sprigatito-and-lucario-ex-ex-starter-set-sprigatito-and-lucario-ex",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88%3Cbig%3Eex%3C%2Fbig%3E+%E3%83%8B%E3%83%A3%E3%82%AA%E3%83%8F%26%E3%83%AB%E3%82%AB%E3%83%AA%E3%82%AA%3Cbig%3Eex%3C%2Fbig%3E"
       ]
     }
   ]

@@ -1959,41 +1959,6 @@
   ]
  },
  {
-  "family": "sm1p-basic-fairy-energy",
-  "tcgplayerProductId": 597805,
-  "name": "Basic Fairy Energy",
-  "listed": false,
-  "unresolved": []
- },
- {
-  "family": "sm1p-basic-fire-energy",
-  "tcgplayerProductId": 597806,
-  "name": "Basic Fire Energy",
-  "listed": false,
-  "unresolved": []
- },
- {
-  "family": "sm1p-basic-grass-energy",
-  "tcgplayerProductId": 597807,
-  "name": "Basic Grass Energy",
-  "listed": false,
-  "unresolved": []
- },
- {
-  "family": "sm1p-basic-metal-energy",
-  "tcgplayerProductId": 597808,
-  "name": "Basic Metal Energy",
-  "listed": false,
-  "unresolved": []
- },
- {
-  "family": "sm1p-basic-psychic-energy",
-  "tcgplayerProductId": 597809,
-  "name": "Basic Psychic Energy",
-  "listed": false,
-  "unresolved": []
- },
- {
   "family": "sm1plus-booster-pack",
   "tcgplayerProductId": 576920,
   "name": "Sun & Moon Booster Pack",
@@ -2251,6 +2216,459 @@
    {
     "line": "deck list",
     "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m-p-30th-celebration-premium-deck-set-espeon-umbreon",
+  "tcgplayerProductId": 716802,
+  "name": "30th CELEBRATION Premium Deck Set Espeon & Umbreon",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1x 60-card pre-constructed Espeon ex deck",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "1x 60-card pre-constructed Umbreon ex deck",
+    "where": "line[2]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m-p-starter-set-ex-eevee-ex",
+  "tcgplayerProductId": 709112,
+  "name": "Starter Set ex Eevee ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 pre-constructed deck ready to play",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m-p-starter-set-ex-meowscarada-ex",
+  "tcgplayerProductId": 709113,
+  "name": "Starter Set ex Meowscarada ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 pre-constructed deck ready to play",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m-p-starter-set-ex-zoroark-ex",
+  "tcgplayerProductId": 709114,
+  "name": "Starter Set ex Zoroark ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 pre-constructed deck ready to play",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m-p-starter-set-mega-mega-gengar-ex",
+  "tcgplayerProductId": 653844,
+  "name": "Starter Set MEGA Mega Gengar ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 Deck (60 cards)",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "1 Gastly (AR) (022/021)",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "How-to-Play Manual",
+    "where": "line[7]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m-p-mega-starter-set-mega-diancie-ex",
+  "tcgplayerProductId": 653859,
+  "name": "MEGA Starter Set Mega Diancie ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 Deck (60 cards)",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "How-to-Play Manual",
+    "where": "line[6]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-ex-starter-set-marnie-s-morpeko-grimmsnarl-ex",
+  "tcgplayerProductId": 619294,
+  "name": "ex Starter Set Marnie's Morpeko & Grimmsnarl ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a fixed selection of 60 cards including a number of basic Trainer cards and supporting basic Energy cards",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-ex-starter-set-steven-s-beldum-metagross-ex",
+  "tcgplayerProductId": 619293,
+  "name": "ex Starter Set Steven's Beldum & Metagross ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a fixed selection of 60 cards including a number of basic Trainer cards and supporting basic Energy cards",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-battle-partners-deck-build-box",
+  "tcgplayerProductId": 614704,
+  "name": "Battle Partners Deck Build Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "10 packs of the expansion pack Battle Partners",
+    "where": "line[1]",
+    "reason": "booster pack set not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-pikachu-ex-snorlax-ex",
+  "tcgplayerProductId": 643132,
+  "name": "Generations Start Deck - Pikachu ex & Snorlax ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-lugia-ex-tyranitar-ex",
+  "tcgplayerProductId": 643133,
+  "name": "Generations Start Deck - Lugia ex & Tyranitar ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-kyogre-ex-blaziken-ex",
+  "tcgplayerProductId": 643134,
+  "name": "Generations Start Deck - Kyogre ex & Blaziken ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-dialga-ex-lucario-ex",
+  "tcgplayerProductId": 643135,
+  "name": "Generations Start Deck - Dialga ex & Lucario ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-reshiram-ex-amoonguss-ex",
+  "tcgplayerProductId": 643136,
+  "name": "Generations Start Deck - Reshiram ex & Amoonguss ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-xerneas-ex-noivern-ex",
+  "tcgplayerProductId": 643137,
+  "name": "Generations Start Deck - Xerneas ex & Noivern ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-tapu-koko-ex-mimikyu-ex",
+  "tcgplayerProductId": 643138,
+  "name": "Generations Start Deck - Tapu Koko ex & Mimikyu ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-zacian-ex-alcremie-ex",
+  "tcgplayerProductId": 643139,
+  "name": "Generations Start Deck - Zacian ex & Alcremie ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-generations-start-deck-koraidon-ex-paldean-clodsire-ex",
+  "tcgplayerProductId": 643140,
+  "name": "Generations Start Deck - Koraidon ex & Paldean Clodsire ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "60 cards",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-start-deck-generations-special-battle-set",
+  "tcgplayerProductId": 656152,
+  "name": "Start Deck Generations Special Battle Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 Start Deck Generations Pikachu ex, Snorlax ex (60 cards)",
+    "where": "line[3]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "1 Start Deck Generations Lugia ex, Tyranitar ex (60 cards)",
+    "where": "line[4]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "1 Start Deck Generations Zacian ex, Mawhip ex (60 cards)",
+    "where": "line[5]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "1 Start Deck Generations Corydon ex, Paldea Doa ex (60 cards)",
+    "where": "line[6]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "1 Promo card Meowth (shiny)",
+    "where": "line[7]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "1 Promo card Pardeauper (shiny)",
+    "where": "line[8]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "1 Promo card Suicune (shiny)",
+    "where": "line[9]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "1 Promo card Duraludon (shiny)",
+    "where": "line[10]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "1 Instruction manual",
+    "where": "line[15]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-chien-pao-ex-battle-master-deck",
+  "tcgplayerProductId": 593967,
+  "name": "Chien-Pao ex Battle Master Deck",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-terastal-charizard-ex-battle-master-deck",
+  "tcgplayerProductId": 593968,
+  "name": "Terastal Charizard ex Battle Master Deck",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv-p-venusaur-charizard-blastoise-special-deck-set-ex",
+  "tcgplayerProductId": 594075,
+  "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "three Standard decks, each one headlined by a Pokémon ex which is the final evolution of the first partner Pokémon of the Kanto region",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "s8a-25th-anniversary-golden-box",
+  "tcgplayerProductId": 647455,
+  "name": "25th Anniversary Golden Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "product text",
+    "reason": "no booster packs listed"
+   }
+  ]
+ },
+ {
+  "family": "s8a-promo-card-25th-anniversary-collection-booster-pack",
+  "tcgplayerProductId": 657880,
+  "name": "Promo Card 25th Anniversary Collection Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 random card each",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
    }
   ]
  }

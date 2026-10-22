@@ -9,6 +9,8 @@ product is, and gives that family's `ja` release the official name, date and sea
   date keeps a wrong name from matching.
 - any other product whose name is a TCGdex set (デッキビルドBOX ステラミラクル, スタートデッキ100 …) is that set's
   one family that is not a pack, box or case.
+- a deck or set with no TCGdex set of its own ("Starter Set ex Eevee ex", filed under SV-P) matches the official
+  product that names the same Pokémon, in Japanese (PokéAPI's species names), and the same kind of product.
 
 An official product that matches nothing goes to review/pokemon-card-jp.json.
 
@@ -17,16 +19,18 @@ An official product that matches nothing goes to review/pokemon-card-jp.json.
 from __future__ import annotations
 
 import argparse
+import csv
 import datetime as dt
 import json
 import re
 import sys
 import unicodedata
 import urllib.parse
+import urllib.request
 from collections import defaultdict
 from pathlib import Path
 
-from import_tcgplayer import TCGDEX_API, Fetcher
+from import_tcgplayer import TCGDEX_API, Fetcher, fold
 from pkmjson import ROOT, Family, load, validate
 
 SEARCH_API = ("https://www.pokemon-card.com/products/resultAPI.php?productType={kind}&dateLowerY=1996&dateLowerM=1"
@@ -39,6 +43,15 @@ DATE_WINDOW_DAYS = 7
 PREFIX_RE = re.compile(r"^(?:第\d+弾)?(?:基本)?(?:強化)?(?:拡張|ハイクラス|コンセプト|スペシャル|プレミアムチャンピオン)?パック"
                        r"(?:ex\d+)?")
 ROLES_NOT_OWN_SET = {"booster_pack", "booster_box", "case"}
+SPECIES_CSV = "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_species_names.csv"
+ENGLISH_ID, JAPANESE_ID = "9", "1"   # PokéAPI language ids: English, Japanese (kana)
+# The kind of product, as a TCGplayer name and an official Japanese title write it. Longest first.
+KIND_WORDS = [
+    ("battle master deck", "バトルマスターデッキ"), ("premium deck set", "プレミアムデッキセット"),
+    ("special deck set", "スペシャルデッキセット"), ("deck build box", "デッキビルドBOX"),
+    ("starter set", "スターターセット"), ("start deck", "スタートデッキ"), ("special box", "スペシャルBOX"),
+    ("premium trainer box", "プレミアムトレーナーボックス"), ("battle academy", "バトルアカデミー"),
+]
 
 
 def clean_title(title: str) -> str:
@@ -123,6 +136,46 @@ def family_for(product: dict, sets: SetIndex, by_set: dict[str, list[Family]]) -
     return families[0], ""
 
 
+def species_names(fetcher: Fetcher) -> dict[str, str]:
+    """English Pokémon species name (folded) -> its Japanese name, from PokéAPI's species names table."""
+    path = fetcher.cache / "pokeapi_pokemon_species_names.csv"
+    if not path.exists():
+        request = urllib.request.Request(SPECIES_CSV, headers={"User-Agent": "pkmjson/0.1"})
+        path.write_bytes(urllib.request.urlopen(request, timeout=60).read())
+    rows = list(csv.DictReader(path.read_text(encoding="utf-8").splitlines()))
+    by_id = defaultdict(dict)
+    for row in rows:
+        by_id[row["pokemon_species_id"]][row["local_language_id"]] = row["name"]
+    return {fold(names[ENGLISH_ID]): names[JAPANESE_ID] for names in by_id.values()
+            if ENGLISH_ID in names and JAPANESE_ID in names}
+
+
+def pokemon_matches(families: list[Family], products: list[dict], species: dict[str, str]) -> list[tuple[Family, dict]]:
+    """Families and official products that name the same Pokémon and the same kind of product. Every Pokémon the
+    English name holds must appear, in Japanese, in the official title, and so must the kind ("Starter Set" is
+    スターターセット). One family to one product only: anything matching twice is left out."""
+    names = sorted(species, key=len, reverse=True)
+    pairs = []
+    for family in families:
+        english = fold(family.data["name"])
+        found, rest = [], f" {english} "
+        for name in names:
+            if f" {name} " in rest:
+                found.append(species[name])
+                rest = rest.replace(f" {name} ", " ")
+        kinds = [ja for en, ja in KIND_WORDS if f" {en} " in f" {english} "]
+        if not found or not kinds:
+            continue
+        hits = [p for p in products if all(key(n) in key(p["productTitle"]) for n in found)
+                and key(kinds[0]) in key(p["productTitle"])]
+        if len(hits) == 1:
+            pairs.append((family, hits[0]))
+    per_product = defaultdict(list)
+    for family, product in pairs:
+        per_product[id(product)].append(family)
+    return [(f, p) for f, p in pairs if len(per_product[id(p)]) == 1]
+
+
 def name_release(family: Family, product: dict) -> bool:
     """Give the family's ja release the official name, date and source. False when it already has them."""
     release = next(r for r in family.data["releases"] if r["language"] == LANGUAGE)
@@ -152,13 +205,25 @@ def main(argv: list[str] | None = None) -> int:
             by_set[family.data["set"]].append(family)
     sets = SetIndex(fetcher)
     changed, claimed, review = {}, defaultdict(list), []
-    for product in official_products(fetcher):
+    official = official_products(fetcher)
+    unplaced = []
+    for product in official:
         family, why = family_for(product, sets, by_set)
         if family is None:
-            review.append({"kind": product["kind"], "title": clean_title(product["productTitle"]),
-                           "releaseDate": release_day(product["releaseDate"]), "reason": why})
+            unplaced.append((product, why))
         else:
             claimed[family.data["id"]].append((family, product))
+    # Decks and sets with no TCGdex set of their own ("Starter Set ex Eevee ex" under SV-P) match by the Pokémon
+    # they are named after and the kind of product.
+    taken = set(claimed)
+    unnamed = [f for families in by_set.values() for f in families if f.data["id"] not in taken
+               and f.data["category"] not in ROLES_NOT_OWN_SET]
+    by_pokemon = pokemon_matches(unnamed, [p for p, _ in unplaced if p["kind"] != "expansion"], species_names(fetcher))
+    for family, product in by_pokemon:
+        claimed[family.data["id"]].append((family, product))
+    placed = {id(p) for _, p in by_pokemon}
+    review += [{"kind": p["kind"], "title": clean_title(p["productTitle"]), "releaseDate": release_day(p["releaseDate"]),
+                "reason": why} for p, why in unplaced if id(p) not in placed]
     for fid, matches in claimed.items():
         if len(matches) > 1:
             # Two official products for one family (a reprint, a re-release): neither name is certain.
