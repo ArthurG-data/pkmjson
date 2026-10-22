@@ -30,6 +30,6 @@ jobs:
       - uses: astral-sh/setup-uv@v5
       - run: uv sync
       - run: uv run python tools/build.py --version "${GITHUB_REF_NAME#v}"
-      - run: gh release create "$GITHUB_REF_NAME" dist/AllProducts.json --generate-notes
+      - run: gh release create "$GITHUB_REF_NAME" dist/AllProducts.json dist/AllSets.json --generate-notes
         env:
           GH_TOKEN: ${{ github.token }}
