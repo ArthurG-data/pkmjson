@@ -1,0 +1,29 @@
+{
+  "id": "sv1s-booster-pack",
+  "region": "asia",
+  "set": "SV1S",
+  "category": "booster_pack",
+  "name": "Scarlet ex Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 689085
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「スカーレットex」",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565246
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565246/pokemon-japan-sv1s-scarlet-ex-scarlet-ex-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88ex"
+      ]
+    }
+  ]
+}

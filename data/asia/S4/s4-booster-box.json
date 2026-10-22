@@ -1,0 +1,31 @@
+{
+  "id": "s4-booster-box",
+  "region": "asia",
+  "set": "S4",
+  "category": "booster_box",
+  "name": "Amazing Volt Tackle Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s4-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Amazing Volt Tackle Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565373
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565373/pokemon-japan-s4-amazing-volt-tackle-amazing-volt-tackle-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s6k-booster-box",
+  "region": "asia",
+  "set": "S6K",
+  "category": "booster_box",
+  "name": "Jet-Black Spirit Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 557965
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s6k-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Jet-Black Spirit Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565347
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565347/pokemon-japan-s6k-jet-black-spirit-jet-black-spirit-booster-box"
+      ]
+    }
+  ]
+}

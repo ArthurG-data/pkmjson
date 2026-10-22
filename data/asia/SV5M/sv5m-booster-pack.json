@@ -1,0 +1,29 @@
+{
+  "id": "sv5m-booster-pack",
+  "region": "asia",
+  "set": "SV5M",
+  "category": "booster_pack",
+  "name": "Cyber Judge Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 749454
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「サイバージャッジ」",
+      "releaseDate": "2024-01-26",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565223
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565223/pokemon-japan-sv5m-cyber-judge-cyber-judge-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%83%E3%82%B8"
+      ]
+    }
+  ]
+}

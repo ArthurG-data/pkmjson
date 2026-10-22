@@ -1,0 +1,26 @@
+{
+  "id": "s4-booster-pack",
+  "region": "asia",
+  "set": "S4",
+  "category": "booster_pack",
+  "name": "Amazing Volt Tackle Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック 「仰天のボルテッカー 」",
+      "releaseDate": "2020-09-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565374
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565374/pokemon-japan-s4-amazing-volt-tackle-amazing-volt-tackle-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E4%BB%B0%E5%A4%A9%E3%81%AE%E3%83%9C%E3%83%AB%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC+"
+      ]
+    }
+  ]
+}

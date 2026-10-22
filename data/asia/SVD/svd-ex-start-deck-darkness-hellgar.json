@@ -1,0 +1,24 @@
+{
+  "id": "svd-ex-start-deck-darkness-hellgar",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Darkness Hellgar",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Start Deck Darkness Hellgar",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594600
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594600/pokemon-japan-sv-ex-start-decks-ex-start-deck-darkness-hellgar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s11a-booster-box",
+  "region": "asia",
+  "set": "S11a",
+  "category": "booster_box",
+  "name": "Incandescent Arcana Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 669629
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s11a-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Incandescent Arcana Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574876
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574876/pokemon-japan-s11a-incandescent-arcana-incandescent-arcana-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sm3n-booster-box",
+  "region": "asia",
+  "set": "SM3N",
+  "category": "booster_box",
+  "name": "Darkness that Consumes Light Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551826
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm3n-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Darkness that Consumes Light Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576867
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576867/pokemon-japan-sm3n-darkness-that-consumes-light-darkness-that-consumes-light-booster-box"
+      ]
+    }
+  ]
+}

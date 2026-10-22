@@ -1,0 +1,24 @@
+{
+  "id": "svf-collection-box",
+  "region": "asia",
+  "set": "SVF",
+  "category": "collection_box",
+  "name": "Ruler of the Black Flame Deck Build Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Ruler of the Black Flame Deck Build Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594102
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594102/pokemon-japan-sv-ruler-of-the-black-flame-deck-build-box-ruler-of-the-black-flame-deck-build-box"
+      ]
+    }
+  ]
+}

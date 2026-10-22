@@ -1,0 +1,31 @@
+{
+  "id": "sv11b-white-flare-card-file-set",
+  "region": "asia",
+  "set": "SV11B",
+  "category": "other",
+  "name": "Black Bolt & White Flare Card File Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Binder",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 promos; 3 Expansion packs of Black Bolt; 3 Expansion packs of White Flare.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Black Bolt & White Flare Card File Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          637445
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/637445/pokemon-japan-sv11b-black-bolt-black-bolt-and-white-flare-card-file-set"
+      ]
+    }
+  ]
+}

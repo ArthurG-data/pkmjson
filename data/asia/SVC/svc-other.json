@@ -1,0 +1,47 @@
+{
+  "id": "svc-other",
+  "region": "asia",
+  "set": "SVC",
+  "category": "battle_deck",
+  "name": "ex Starter Set Pikachu ex & Pawmot",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "Play guide",
+        "count": 1
+      },
+      {
+        "name": "Gold Pikachu coin",
+        "count": 1
+      },
+      {
+        "name": "Playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: a fixed selection of 60 cards including a number of basic Trainer cards and supporting basic Energy cards; deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Starter Set Pikachu ex & Pawmot",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594169
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594169/pokemon-japan-sv-ex-starter-set-pikachu-ex-and-pawmot-ex-starter-set-pikachu-ex-and-pawmot"
+      ]
+    }
+  ]
+}

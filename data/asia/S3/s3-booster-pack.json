@@ -1,0 +1,29 @@
+{
+  "id": "s3-booster-pack",
+  "region": "asia",
+  "set": "S3",
+  "category": "booster_pack",
+  "name": "Infinity Zone Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 463839
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「ムゲンゾーン」",
+      "releaseDate": "2020-06-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571837
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571837/pokemon-japan-s3-infinity-zone-infinity-zone-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%A0%E3%82%B2%E3%83%B3%E3%82%BE%E3%83%BC%E3%83%B3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s10b-booster-pack",
+  "region": "asia",
+  "set": "S10b",
+  "category": "booster_pack",
+  "name": "Pokemon GO Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック 「Pokémon GO」",
+      "releaseDate": "2022-06-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575039
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575039/pokemon-japan-s10b-pokemon-go-pokemon-go-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=Pok%C3%A9mon+GO"
+      ]
+    }
+  ]
+}

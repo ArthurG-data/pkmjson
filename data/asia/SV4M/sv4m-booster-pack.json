@@ -1,0 +1,29 @@
+{
+  "id": "sv4m-booster-pack",
+  "region": "asia",
+  "set": "SV4M",
+  "category": "booster_pack",
+  "name": "Future Flash Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 732594
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「未来の一閃」",
+      "releaseDate": "2023-10-27",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565229
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565229/pokemon-japan-sv4m-future-flash-future-flash-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E6%9C%AA%E6%9D%A5%E3%81%AE%E4%B8%80%E9%96%83"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s1a-booster-box",
+  "region": "asia",
+  "set": "S1a",
+  "category": "booster_box",
+  "name": "VMAX Rising Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 468319
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s1a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "VMAX Rising Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574874
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574874/pokemon-japan-s1a-vmax-rising-vmax-rising-booster-box"
+      ]
+    }
+  ]
+}

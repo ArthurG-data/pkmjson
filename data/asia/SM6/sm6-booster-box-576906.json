@@ -1,0 +1,31 @@
+{
+  "id": "sm6-booster-box-576906",
+  "region": "asia",
+  "set": "SM6",
+  "category": "booster_box",
+  "name": "Forbidden Light Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm6-booster-pack-576905",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Forbidden Light Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576906
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576906/pokemon-japan-sm6-forbidden-light-forbidden-light-booster-box"
+      ]
+    }
+  ]
+}

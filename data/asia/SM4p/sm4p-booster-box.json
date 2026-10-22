@@ -1,0 +1,34 @@
+{
+  "id": "sm4p-booster-box",
+  "region": "asia",
+  "set": "SM4p",
+  "category": "booster_box",
+  "name": "GX Battle Boost Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551801
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm4p-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "GX Battle Boost Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576959
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576959/pokemon-japan-sm4plus-gx-battle-boost-gx-battle-boost-booster-box"
+      ]
+    }
+  ]
+}

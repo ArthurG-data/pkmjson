@@ -1,0 +1,29 @@
+{
+  "id": "m1s-booster-pack",
+  "region": "asia",
+  "set": "M1S",
+  "category": "booster_pack",
+  "name": "Mega Symphonia Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 831333
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「メガシンフォニア」",
+      "releaseDate": "2025-08-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          647499
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/647499/pokemon-japan-m1s-mega-symphonia-mega-symphonia-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%A1%E3%82%AC%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2"
+      ]
+    }
+  ]
+}

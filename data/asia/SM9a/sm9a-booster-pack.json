@@ -1,0 +1,29 @@
+{
+  "id": "sm9a-booster-pack",
+  "region": "asia",
+  "set": "SM9a",
+  "category": "booster_pack",
+  "name": "Night Unison Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550451
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「ナイトユニゾン」",
+      "releaseDate": "2019-01-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576945
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576945/pokemon-japan-sm9a-night-unison-night-unison-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A6%E3%83%8B%E3%82%BE%E3%83%B3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sm7b-booster-box",
+  "region": "asia",
+  "set": "SM7b",
+  "category": "booster_box",
+  "name": "Fairy Rise Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551751
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7b-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Fairy Rise Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576942
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576942/pokemon-japan-sm7b-fairy-rise-fairy-rise-booster-box"
+      ]
+    }
+  ]
+}

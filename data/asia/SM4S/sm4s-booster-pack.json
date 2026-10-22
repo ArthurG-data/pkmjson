@@ -1,0 +1,29 @@
+{
+  "id": "sm4s-booster-pack",
+  "region": "asia",
+  "set": "SM4S",
+  "category": "booster_pack",
+  "name": "Awakened Heroes Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551921
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「覚醒の勇者」",
+      "releaseDate": "2017-09-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576868
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576868/pokemon-japan-sm4s-awakened-heroes-awakened-heroes-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E8%A6%9A%E9%86%92%E3%81%AE%E5%8B%87%E8%80%85"
+      ]
+    }
+  ]
+}

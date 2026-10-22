@@ -1,0 +1,47 @@
+{
+  "id": "svem-other",
+  "region": "asia",
+  "set": "SVEM",
+  "category": "battle_deck",
+  "name": "Mewtwo ex Terastal Starter Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Two-player playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Mewtwo ex Terastal Starter Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594100
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594100/pokemon-japan-sv-mewtwo-ex-terastal-starter-set-mewtwo-ex-terastal-starter-set"
+      ]
+    }
+  ]
+}

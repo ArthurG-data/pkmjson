@@ -1,0 +1,31 @@
+{
+  "id": "sv4a-high-class-booster-box",
+  "region": "asia",
+  "set": "SV4a",
+  "category": "booster_box",
+  "name": "Shiny Treasure ex High Class Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv4a-high-class-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Shiny Treasure ex High Class Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565232
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565232/pokemon-japan-sv4a-shiny-treasure-ex-shiny-treasure-ex-high-class-booster-box"
+      ]
+    }
+  ]
+}

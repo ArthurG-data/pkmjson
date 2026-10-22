@@ -1,0 +1,26 @@
+{
+  "id": "s2a-booster-pack",
+  "region": "asia",
+  "set": "S2a",
+  "category": "booster_pack",
+  "name": "Explosive Walker Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「爆炎ウォーカー」",
+      "releaseDate": "2020-04-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          571839
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/571839/pokemon-japan-s2a-explosive-walker-explosive-walker-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E7%88%86%E7%82%8E%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sm10a-booster-pack",
+  "region": "asia",
+  "set": "SM10a",
+  "category": "booster_pack",
+  "name": "GG End Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550411
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「ジージーエンド」",
+      "releaseDate": "2019-04-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576950
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576950/pokemon-japan-sm10a-gg-end-gg-end-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%B8%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89"
+      ]
+    }
+  ]
+}

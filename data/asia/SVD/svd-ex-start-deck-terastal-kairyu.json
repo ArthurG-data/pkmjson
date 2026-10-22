@@ -1,0 +1,24 @@
+{
+  "id": "svd-ex-start-deck-terastal-kairyu",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Terastal Kairyu",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Start Deck Terastal Kairyu",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594602
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594602/pokemon-japan-sv-ex-start-decks-ex-start-deck-terastal-kairyu"
+      ]
+    }
+  ]
+}

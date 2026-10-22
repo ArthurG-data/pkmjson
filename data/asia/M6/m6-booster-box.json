@@ -1,0 +1,34 @@
+{
+  "id": "m6-booster-box",
+  "region": "asia",
+  "set": "M6",
+  "category": "booster_box",
+  "name": "Storm Emeralda Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 895668
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "m6-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Storm Emeralda Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          709110
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/709110/pokemon-japan-m6-storm-emeralda-storm-emeralda-booster-box"
+      ]
+    }
+  ]
+}

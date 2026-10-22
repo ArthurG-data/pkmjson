@@ -1,0 +1,26 @@
+{
+  "id": "sv10-glory-of-team-rocket-booster-pack",
+  "region": "asia",
+  "set": "SV10",
+  "category": "booster_pack",
+  "name": "Glory of Team Rocket Booster Pack",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「ロケット団の栄光」",
+      "releaseDate": "2025-04-18",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          629198
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/629198/pokemon-japan-sv10-the-glory-of-team-rocket-glory-of-team-rocket-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E5%9B%A3%E3%81%AE%E6%A0%84%E5%85%89"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "s8-booster-pack",
+  "region": "asia",
+  "set": "S8",
+  "category": "booster_pack",
+  "name": "Fusion Arts Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 573598
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「フュージョンアーツ」",
+      "releaseDate": "2021-09-24",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565263
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565263/pokemon-japan-s8-fusion-arts-fusion-arts-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%83%84"
+      ]
+    }
+  ]
+}

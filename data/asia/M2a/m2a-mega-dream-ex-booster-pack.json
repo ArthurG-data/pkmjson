@@ -1,0 +1,29 @@
+{
+  "id": "m2a-mega-dream-ex-booster-pack",
+  "region": "asia",
+  "set": "M2a",
+  "category": "booster_pack",
+  "name": "Mega Dream ex Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 858381
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ハイクラスパック 「MEGAドリームex」",
+      "releaseDate": "2025-11-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666255
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666255/pokemon-japan-m2a-high-class-pack-mega-dream-ex-mega-dream-ex-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=MEGA%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0ex"
+      ]
+    }
+  ]
+}

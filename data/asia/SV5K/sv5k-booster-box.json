@@ -1,0 +1,34 @@
+{
+  "id": "sv5k-booster-box",
+  "region": "asia",
+  "set": "SV5K",
+  "category": "booster_box",
+  "name": "Wild Force Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 749455
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv5k-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Wild Force Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565225
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565225/pokemon-japan-sv5k-wild-force-wild-force-booster-box"
+      ]
+    }
+  ]
+}

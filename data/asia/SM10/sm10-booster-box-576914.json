@@ -1,0 +1,34 @@
+{
+  "id": "sm10-booster-box-576914",
+  "region": "asia",
+  "set": "SM10",
+  "category": "booster_box",
+  "name": "Double Blaze Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550396
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm10-booster-pack-576913",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Double Blaze Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576914
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576914/pokemon-japan-sm10-double-blaze-double-blaze-booster-box"
+      ]
+    }
+  ]
+}

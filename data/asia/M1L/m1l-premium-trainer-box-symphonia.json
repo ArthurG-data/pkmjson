@@ -1,0 +1,53 @@
+{
+  "id": "m1l-premium-trainer-box-symphonia",
+  "region": "asia",
+  "set": "M1L",
+  "category": "collection_box",
+  "name": "Premium Trainer Box MEGA Brave & Symphonia",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "m1l-booster-pack",
+        "count": 10
+      },
+      {
+        "product": "m1s-booster-pack",
+        "count": 10
+      }
+    ],
+    "other": [
+      {
+        "name": "Card Box",
+        "count": 1
+      },
+      {
+        "name": "Pokémon Coin",
+        "count": 1
+      },
+      {
+        "name": "Acrylic Damage Counter Set (6x 100 Damage, 8x 50 Damage, 10x 20 Damage & 1 case)",
+        "count": 1
+      },
+      {
+        "name": "Premium Markers (1Poison & 1 Burn)",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: Cards: 172 cards (51 types in total) 13 Pokemon cards / 59 Trainers cards / 4 Special Energy cards / 96 Basic Energy cards.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Premium Trainer Box MEGA Brave & Symphonia",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          648589
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/648589/pokemon-japan-m1l-mega-brave-premium-trainer-box-mega-brave-and-symphonia"
+      ]
+    }
+  ]
+}

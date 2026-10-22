@@ -1,0 +1,27 @@
+{
+  "id": "svd-ex-start-deck-lightning-miraidon",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Lightning Miraidon",
+  "identifiers": {
+    "cardmarketProductId": 712636
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Start Deck Lightning Miraidon",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594597
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594597/pokemon-japan-sv-ex-start-decks-ex-start-deck-lightning-miraidon"
+      ]
+    }
+  ]
+}

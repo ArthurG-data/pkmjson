@@ -1,0 +1,29 @@
+{
+  "id": "sm7b-booster-pack",
+  "region": "asia",
+  "set": "SM7b",
+  "category": "booster_pack",
+  "name": "Fairy Rise Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551866
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「フェアリーライズ」",
+      "releaseDate": "2018-08-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576941
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576941/pokemon-japan-sm7b-fairy-rise-fairy-rise-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%BA"
+      ]
+    }
+  ]
+}

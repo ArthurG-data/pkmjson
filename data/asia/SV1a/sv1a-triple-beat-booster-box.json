@@ -1,0 +1,31 @@
+{
+  "id": "sv1a-triple-beat-booster-box",
+  "region": "asia",
+  "set": "SV1a",
+  "category": "booster_box",
+  "name": "Triple Beat Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv1a-triple-beat-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Triple Beat Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565248
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565248/pokemon-japan-sv1a-triplet-beat-triple-beat-booster-box"
+      ]
+    }
+  ]
+}

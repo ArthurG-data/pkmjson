@@ -1,0 +1,29 @@
+{
+  "id": "sv3-booster-pack",
+  "region": "asia",
+  "set": "SV3",
+  "category": "booster_pack",
+  "name": "Ruler of the Black Flame Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 719787
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「黒炎の支配者」",
+      "releaseDate": "2023-07-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565237
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565237/pokemon-japan-sv3-ruler-of-the-black-flame-ruler-of-the-black-flame-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E9%BB%92%E7%82%8E%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85"
+      ]
+    }
+  ]
+}

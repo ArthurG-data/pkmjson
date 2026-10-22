@@ -1,0 +1,29 @@
+{
+  "id": "s6a-booster-pack",
+  "region": "asia",
+  "set": "S6a",
+  "category": "booster_pack",
+  "name": "Eevee Heroes Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 564172
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「イーブイヒーローズ」",
+      "releaseDate": "2021-05-28",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565350
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565350/pokemon-japan-s6a-eevee-heroes-eevee-heroes-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%A4%E3%83%BC%E3%83%96%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA"
+      ]
+    }
+  ]
+}

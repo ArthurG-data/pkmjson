@@ -1,0 +1,31 @@
+{
+  "id": "cp6-booster-box-1st-edition",
+  "region": "asia",
+  "set": "CP6",
+  "category": "booster_box",
+  "name": "Expansion Pack 20th Anniversary - Booster Box (1st Edition)",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "cp6-booster-pack-1st-edition",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Expansion Pack 20th Anniversary - Booster Box (1st Edition)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          660024
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/660024/pokemon-japan-cp6-expansion-pack-20th-anniversary-expansion-pack-20th-anniversary-booster-box-1st-edition"
+      ]
+    }
+  ]
+}

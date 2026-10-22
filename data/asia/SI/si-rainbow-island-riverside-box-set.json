@@ -1,0 +1,24 @@
+{
+  "id": "si-rainbow-island-riverside-box-set",
+  "region": "asia",
+  "set": "SI",
+  "category": "collection_box",
+  "name": "Rainbow Island Riverside Box Set",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Togepi; Ivysaur; Raticate.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Rainbow Island Riverside Box Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701544
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/701544/pokemon-japan-southern-island-rainbow-island-riverside-box-set"
+      ]
+    }
+  ]
+}

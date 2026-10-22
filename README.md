@@ -52,6 +52,20 @@ The full format is `schema/product.schema.json`.
 `python tools/build.py` writes `dist/AllProducts.json`, with one entry per product and language, keyed
 `<id>:<language>` (`sv08-etb:fr`). Each entry's `identifiers` holds the family's ids and the release's. Tagged releases attach that file to a GitHub release.
 
+## Where the data comes from
+
+- **English and Japanese contents:** `tools/import_tcgplayer.py` reads TCGplayer's product text through tcgcsv.com,
+  from category 3 for English and, with `--category 85`, category 85 for Japanese. A file stays `partial` when the text
+  leaves something out or names something the tool cannot pin to a product or card. What was left over goes to
+  `review/tcgplayer-<category>.json`.
+- **Japanese names and dates:** `tools/import_pokemon_card_jp.py` matches pokemon-card.com's product search to
+  those families. A match requires both the TCGdex set's name and its release date. Where it matches, the `ja`
+  release gets the official name, date and search page.
+- **French releases:** `tools/import_pokepedia.py` reads Poképédia's product pages.
+
+A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
+alone.
+
 ## Development
 
 ```

@@ -1,0 +1,27 @@
+{
+  "id": "sv7a-booster-box-case",
+  "region": "asia",
+  "set": "SV7a",
+  "category": "case",
+  "name": "Paradise Dragona Booster Box Case",
+  "identifiers": {
+    "cardmarketProductId": 800363
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Paradise Dragona Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          716009
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/716009/pokemon-japan-sv7a-paradise-dragona-paradise-dragona-booster-box-case"
+      ]
+    }
+  ]
+}

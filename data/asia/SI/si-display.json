@@ -1,0 +1,24 @@
+{
+  "id": "si-display",
+  "region": "asia",
+  "set": "SI",
+  "category": "case",
+  "name": "Start Deck 100 Display",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Start Deck 100 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          644826
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/644826/pokemon-japan-si-start-deck-100-start-deck-100-display"
+      ]
+    }
+  ]
+}

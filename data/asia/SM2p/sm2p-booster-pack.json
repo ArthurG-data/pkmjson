@@ -1,0 +1,29 @@
+{
+  "id": "sm2p-booster-pack",
+  "region": "asia",
+  "set": "SM2p",
+  "category": "booster_pack",
+  "name": "Facing a New Trial Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551941
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「新たなる試練の向こう」",
+      "releaseDate": "2017-04-21",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576922
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576922/pokemon-japan-sm2plus-facing-a-new-trial-facing-a-new-trial-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E8%A9%A6%E7%B7%B4%E3%81%AE%E5%90%91%E3%81%93%E3%81%86"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sv11b-deluxe-booster-box",
+  "region": "asia",
+  "set": "SV11B",
+  "category": "booster_box",
+  "name": "Black Bolt Deluxe Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv11b-deluxe-booster-pack",
+        "count": 4
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Black Bolt Deluxe Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          637491
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/637491/pokemon-japan-sv11b-black-bolt-black-bolt-deluxe-booster-box"
+      ]
+    }
+  ]
+}

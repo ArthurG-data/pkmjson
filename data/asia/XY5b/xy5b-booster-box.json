@@ -1,0 +1,24 @@
+{
+  "id": "xy5b-booster-box",
+  "region": "asia",
+  "set": "XY5b",
+  "category": "booster_box",
+  "name": "Tidal Storm Booster Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Tidal Storm Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610190
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610190/pokemon-japan-xy5-bt-tidal-storm-tidal-storm-booster-box"
+      ]
+    }
+  ]
+}

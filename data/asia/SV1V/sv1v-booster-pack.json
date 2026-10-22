@@ -1,0 +1,29 @@
+{
+  "id": "sv1v-booster-pack",
+  "region": "asia",
+  "set": "SV1V",
+  "category": "booster_pack",
+  "name": "Violet ex Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 689086
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「バイオレットex」",
+      "releaseDate": "2023-01-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565245
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565245/pokemon-japan-sv1v-violet-ex-violet-ex-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "svd-ex-start-deck-fire-victini",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Fire Victini",
+  "identifiers": {
+    "cardmarketProductId": 712634
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Start Deck Fire Victini",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594595
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594595/pokemon-japan-sv-ex-start-decks-ex-start-deck-fire-victini"
+      ]
+    }
+  ]
+}

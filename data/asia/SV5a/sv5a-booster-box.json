@@ -1,0 +1,34 @@
+{
+  "id": "sv5a-booster-box",
+  "region": "asia",
+  "set": "SV5a",
+  "category": "booster_box",
+  "name": "Crimson Haze Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 757141
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv5a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Crimson Haze Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565226
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565226/pokemon-japan-sv5a-crimson-haze-crimson-haze-booster-box"
+      ]
+    }
+  ]
+}

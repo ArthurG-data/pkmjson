@@ -1,0 +1,34 @@
+{
+  "id": "sm4s-booster-box",
+  "region": "asia",
+  "set": "SM4S",
+  "category": "booster_box",
+  "name": "Awakened Heroes Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551816
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm4s-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Awakened Heroes Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576897
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576897/pokemon-japan-sm4s-awakened-heroes-awakened-heroes-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "s10p-booster-box",
+  "region": "asia",
+  "set": "S10P",
+  "category": "booster_box",
+  "name": "Space Juggler Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 611243
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s10p-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Space Juggler Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575036
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575036/pokemon-japan-s10p-space-juggler-space-juggler-booster-box"
+      ]
+    }
+  ]
+}

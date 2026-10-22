@@ -1,0 +1,34 @@
+{
+  "id": "sv4m-booster-box",
+  "region": "asia",
+  "set": "SV4M",
+  "category": "booster_box",
+  "name": "Future Flash Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 732596
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv4m-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Future Flash Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565228
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565228/pokemon-japan-sv4m-future-flash-future-flash-booster-box"
+      ]
+    }
+  ]
+}

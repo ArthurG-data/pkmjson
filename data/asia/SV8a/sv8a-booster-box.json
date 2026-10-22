@@ -1,0 +1,31 @@
+{
+  "id": "sv8a-booster-box",
+  "region": "asia",
+  "set": "SV8a",
+  "category": "booster_box",
+  "name": "Terastal Fest ex Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv8a-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Terastal Fest ex Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          603428
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/603428/pokemon-japan-sv8a-terastal-fest-ex-terastal-fest-ex-booster-box"
+      ]
+    }
+  ]
+}

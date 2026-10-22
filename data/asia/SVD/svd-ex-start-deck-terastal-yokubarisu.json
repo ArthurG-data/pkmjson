@@ -1,0 +1,24 @@
+{
+  "id": "svd-ex-start-deck-terastal-yokubarisu",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Terastal Yokubarisu",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Start Deck Terastal Yokubarisu",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594603
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594603/pokemon-japan-sv-ex-start-decks-ex-start-deck-terastal-yokubarisu"
+      ]
+    }
+  ]
+}

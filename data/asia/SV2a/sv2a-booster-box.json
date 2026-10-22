@@ -1,0 +1,34 @@
+{
+  "id": "sv2a-booster-box",
+  "region": "asia",
+  "set": "SV2a",
+  "category": "booster_box",
+  "name": "Pokemon Card 151 Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 718514
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv2a-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Pokemon Card 151 Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565243
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565243/pokemon-japan-sv2a-pokemon-card-151-pokemon-card-151-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pmcg1-starter-deck-1996",
+  "region": "asia",
+  "set": "PMCG1",
+  "category": "battle_deck",
+  "name": "Starter Deck 1996",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Starter Deck 1996",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          648615
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/648615/pokemon-japan-expansion-pack-starter-deck-1996"
+      ]
+    }
+  ]
+}

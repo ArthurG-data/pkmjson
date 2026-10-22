@@ -1,0 +1,34 @@
+{
+  "id": "sv6a-booster-box",
+  "region": "asia",
+  "set": "SV6a",
+  "category": "booster_box",
+  "name": "Night Wanderer Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 769158
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv6a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Night Wanderer Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565218
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565218/pokemon-japan-sv6a-night-wanderer-night-wanderer-booster-box"
+      ]
+    }
+  ]
+}

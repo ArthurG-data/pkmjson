@@ -1,0 +1,29 @@
+{
+  "id": "sm11b-booster-pack",
+  "region": "asia",
+  "set": "SM11b",
+  "category": "booster_pack",
+  "name": "Dream League Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 550366
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「ドリームリーグ」",
+      "releaseDate": "2019-08-02",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576956
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576956/pokemon-japan-sm11b-dream-league-dream-league-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%AA%E3%83%BC%E3%82%B0"
+      ]
+    }
+  ]
+}

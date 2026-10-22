@@ -1,0 +1,47 @@
+{
+  "id": "svam-other",
+  "region": "asia",
+  "set": "SVAM",
+  "category": "battle_deck",
+  "name": "ex Starter Set Sprigatito & Lucario ex",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Damage counters",
+        "count": 44
+      },
+      {
+        "name": "Status markers",
+        "count": 2
+      },
+      {
+        "name": "Player's guide",
+        "count": 1
+      },
+      {
+        "name": "Coin",
+        "count": 1
+      },
+      {
+        "name": "Two-player playmat",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: deck list.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Starter Set Sprigatito & Lucario ex",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594375
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594375/pokemon-japan-sv-ex-starter-set-sprigatito-and-lucario-ex-ex-starter-set-sprigatito-and-lucario-ex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "svd-ex-start-deck-metal-melmetal",
+  "region": "asia",
+  "set": "SVD",
+  "category": "battle_deck",
+  "name": "ex Start Deck Metal Melmetal",
+  "identifiers": {
+    "cardmarketProductId": 712640
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ex Start Deck Metal Melmetal",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594601
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/594601/pokemon-japan-sv-ex-start-decks-ex-start-deck-metal-melmetal"
+      ]
+    }
+  ]
+}

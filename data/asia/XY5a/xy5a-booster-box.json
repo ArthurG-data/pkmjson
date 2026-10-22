@@ -1,0 +1,24 @@
+{
+  "id": "xy5a-booster-box",
+  "region": "asia",
+  "set": "XY5a",
+  "category": "booster_box",
+  "name": "Gaia Volcano Booster Box",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Gaia Volcano Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          610189
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/610189/pokemon-japan-xy5-bg-gaia-volcano-gaia-volcano-booster-box"
+      ]
+    }
+  ]
+}

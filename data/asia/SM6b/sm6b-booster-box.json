@@ -1,0 +1,34 @@
+{
+  "id": "sm6b-booster-box",
+  "region": "asia",
+  "set": "SM6b",
+  "category": "booster_box",
+  "name": "Champion Road Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551771
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm6b-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Champion Road Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576931
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576931/pokemon-japan-sm6b-champion-road-champion-road-booster-box"
+      ]
+    }
+  ]
+}

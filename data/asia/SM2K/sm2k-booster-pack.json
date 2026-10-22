@@ -1,0 +1,29 @@
+{
+  "id": "sm2k-booster-pack",
+  "region": "asia",
+  "set": "SM2K",
+  "category": "booster_pack",
+  "name": "Islands Await You Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551951
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「キミを待つ島々」",
+      "releaseDate": "2017-03-17",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576858
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576858/pokemon-japan-sm2k-islands-await-you-islands-await-you-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%82%AD%E3%83%9F%E3%82%92%E5%BE%85%E3%81%A4%E5%B3%B6%E3%80%85"
+      ]
+    }
+  ]
+}

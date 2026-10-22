@@ -1,0 +1,29 @@
+{
+  "id": "sm4p-booster-pack",
+  "region": "asia",
+  "set": "SM4p",
+  "category": "booster_pack",
+  "name": "GX Battle Boost Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551911
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "ハイクラスパック「GXバトルブースト」",
+      "releaseDate": "2017-10-20",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576958
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576958/pokemon-japan-sm4plus-gx-battle-boost-gx-battle-boost-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=GX%E3%83%90%E3%83%88%E3%83%AB%E3%83%96%E3%83%BC%E3%82%B9%E3%83%88"
+      ]
+    }
+  ]
+}

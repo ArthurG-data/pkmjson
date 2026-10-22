@@ -1,0 +1,34 @@
+{
+  "id": "s8b-booster-box",
+  "region": "asia",
+  "set": "S8b",
+  "category": "booster_box",
+  "name": "VMAX Climax Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 576800
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s8b-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "VMAX Climax Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565259
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565259/pokemon-japan-s8b-vmax-climax-vmax-climax-booster-box"
+      ]
+    }
+  ]
+}

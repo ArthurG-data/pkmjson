@@ -1,0 +1,34 @@
+{
+  "id": "m1s-booster-box",
+  "region": "asia",
+  "set": "M1S",
+  "category": "booster_box",
+  "name": "Mega Symphonia Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 831328
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "m1s-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Mega Symphonia Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          647501
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/647501/pokemon-japan-m1s-mega-symphonia-mega-symphonia-booster-box"
+      ]
+    }
+  ]
+}

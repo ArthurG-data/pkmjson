@@ -1,0 +1,24 @@
+{
+  "id": "sv9-collection-file-set-n",
+  "region": "asia",
+  "set": "SV9",
+  "category": "collection_box",
+  "name": "Collection File Set N",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Not resolved: Cards are randomly included in 5 pieces each..",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Collection File Set N",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          614705
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/614705/pokemon-japan-sv9-battle-partners-collection-file-set-n"
+      ]
+    }
+  ]
+}

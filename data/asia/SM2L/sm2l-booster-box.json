@@ -1,0 +1,34 @@
+{
+  "id": "sm2l-booster-box",
+  "region": "asia",
+  "set": "SM2L",
+  "category": "booster_box",
+  "name": "Alolan Moonlight Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551841
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm2l-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Alolan Moonlight Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576861
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576861/pokemon-japan-sm2l-alolan-moonlight-alolan-moonlight-booster-box"
+      ]
+    }
+  ]
+}

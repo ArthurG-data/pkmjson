@@ -1,0 +1,29 @@
+{
+  "id": "sv3a-booster-pack",
+  "region": "asia",
+  "set": "SV3a",
+  "category": "booster_pack",
+  "name": "Raging Surf Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 726557
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「レイジングサーフ」",
+      "releaseDate": "2023-09-22",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565234
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565234/pokemon-japan-sv3a-raging-surf-raging-surf-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%95"
+      ]
+    }
+  ]
+}

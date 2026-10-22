@@ -1,0 +1,34 @@
+{
+  "id": "smp2-booster-box",
+  "region": "asia",
+  "set": "SMP2",
+  "category": "booster_box",
+  "name": "Great Detective Pikachu Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550421
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "smp2-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Great Detective Pikachu Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          656901
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/656901/pokemon-japan-smp2-great-detective-pikachu-great-detective-pikachu-booster-box"
+      ]
+    }
+  ]
+}

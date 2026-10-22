@@ -1,0 +1,29 @@
+{
+  "id": "m3-booster-pack",
+  "region": "asia",
+  "set": "M3",
+  "category": "booster_pack",
+  "name": "Nihil Zero Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 864284
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「ムニキスゼロ」",
+      "releaseDate": "2026-01-23",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          674454
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/674454/pokemon-japan-m3-nihil-zero-nihil-zero-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%A0%E3%83%8B%E3%82%AD%E3%82%B9%E3%82%BC%E3%83%AD"
+      ]
+    }
+  ]
+}

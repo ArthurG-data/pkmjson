@@ -1,0 +1,29 @@
+{
+  "id": "s1a-booster-pack",
+  "region": "asia",
+  "set": "S1a",
+  "category": "booster_pack",
+  "name": "VMAX Rising Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 468304
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「VMAXライジング」",
+      "releaseDate": "2020-02-07",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          574872
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/574872/pokemon-japan-s1a-vmax-rising-vmax-rising-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=VMAX%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0"
+      ]
+    }
+  ]
+}

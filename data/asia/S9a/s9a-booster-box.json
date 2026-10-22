@@ -1,0 +1,34 @@
+{
+  "id": "s9a-booster-box",
+  "region": "asia",
+  "set": "S9a",
+  "category": "booster_box",
+  "name": "Battle Region Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 609612
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s9a-booster-pack",
+        "count": 10
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Battle Region Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565255
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565255/pokemon-japan-s9a-battle-region-battle-region-booster-box"
+      ]
+    }
+  ]
+}

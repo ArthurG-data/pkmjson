@@ -1,0 +1,29 @@
+{
+  "id": "sm4a-booster-pack",
+  "region": "asia",
+  "set": "SM4A",
+  "category": "booster_pack",
+  "name": "Ultradimensional Beasts Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 551916
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "拡張パック「超次元の暴獣」",
+      "releaseDate": "2017-09-15",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576898
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576898/pokemon-japan-sm4a-ultradimensional-beasts-ultradimensional-beasts-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E8%B6%85%E6%AC%A1%E5%85%83%E3%81%AE%E6%9A%B4%E7%8D%A3"
+      ]
+    }
+  ]
+}

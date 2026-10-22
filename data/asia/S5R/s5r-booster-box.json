@@ -1,0 +1,34 @@
+{
+  "id": "s5r-booster-box",
+  "region": "asia",
+  "set": "S5R",
+  "category": "booster_box",
+  "name": "Rapid Strike Master Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 534132
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s5r-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Rapid Strike Master Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565358
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565358/pokemon-japan-s5r-rapid-strike-master-rapid-strike-master-booster-box"
+      ]
+    }
+  ]
+}

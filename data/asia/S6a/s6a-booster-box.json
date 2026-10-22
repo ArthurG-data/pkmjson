@@ -1,0 +1,34 @@
+{
+  "id": "s6a-booster-box",
+  "region": "asia",
+  "set": "S6a",
+  "category": "booster_box",
+  "name": "Eevee Heroes Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 564175
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s6a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Eevee Heroes Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565351
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565351/pokemon-japan-s6a-eevee-heroes-eevee-heroes-booster-box"
+      ]
+    }
+  ]
+}

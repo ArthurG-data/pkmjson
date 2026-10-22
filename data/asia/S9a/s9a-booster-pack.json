@@ -1,0 +1,29 @@
+{
+  "id": "s9a-booster-pack",
+  "region": "asia",
+  "set": "S9a",
+  "category": "booster_pack",
+  "name": "Battle Region Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 609613
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「バトルリージョン」",
+      "releaseDate": "2022-02-25",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565254
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565254/pokemon-japan-s9a-battle-region-battle-region-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%90%E3%83%88%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3"
+      ]
+    }
+  ]
+}

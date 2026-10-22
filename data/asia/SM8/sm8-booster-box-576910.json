@@ -1,0 +1,34 @@
+{
+  "id": "sm8-booster-box-576910",
+  "region": "asia",
+  "set": "SM8",
+  "category": "booster_box",
+  "name": "Super-Burst Impact Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 550471
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm8-booster-pack-576909",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Super-Burst Impact Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576910
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576910/pokemon-japan-sm8-super-burst-impact-super-burst-impact-booster-box"
+      ]
+    }
+  ]
+}

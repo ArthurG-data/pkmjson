@@ -1,0 +1,55 @@
+{
+  "id": "sk-collection-box",
+  "region": "asia",
+  "set": "SK",
+  "category": "collection_box",
+  "name": "VStar Premium Trainer Box",
+  "contentsStatus": "partial",
+  "contents": {
+    "other": [
+      {
+        "name": "Deck Box",
+        "count": 1
+      },
+      {
+        "name": "Pokémon coin",
+        "count": 1
+      },
+      {
+        "name": "VSTAR marker",
+        "count": 1
+      },
+      {
+        "name": "Damage counters (8 pieces)",
+        "count": 50
+      },
+      {
+        "name": "Damage counters (20 pieces)",
+        "count": 10
+      },
+      {
+        "name": "Premium burn marker",
+        "count": 1
+      },
+      {
+        "name": "Damage counter case",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 4 special energies (2 types); 128 basic energies (8 types × 16 each).",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "VStar Premium Trainer Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          678055
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/678055/pokemon-japan-sk-vstar-premium-trainer-box-vstar-premium-trainer-box"
+      ]
+    }
+  ]
+}

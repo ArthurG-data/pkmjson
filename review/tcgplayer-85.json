@@ -1,0 +1,2238 @@
+[
+ {
+  "family": "m6-booster-pack",
+  "tcgplayerProductId": 709111,
+  "name": "Storm Emeralda Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m5-booster-pack",
+  "tcgplayerProductId": 695111,
+  "name": "Abyss Eye Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m4-booster-pack",
+  "tcgplayerProductId": 683776,
+  "name": "Ninja Spinner Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m3-booster-pack",
+  "tcgplayerProductId": 674454,
+  "name": "Nihil Zero Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m3-mega-special-card-set-mega-gallade-ex",
+  "tcgplayerProductId": 674457,
+  "name": "Mega Special Card Set: Mega Gallade ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 Promo card Mega Gallade",
+    "where": "line[1]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "2 Promo card Power Protein",
+    "where": "line[2]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "1 Promo card Ralts",
+    "where": "line[3]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "1 Promo card Kirlia",
+    "where": "line[4]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "8 Expansion pack Nihil Zero",
+    "where": "line[5]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
+  "family": "mc-collection-box",
+  "tcgplayerProductId": 670145,
+  "name": "Start Deck 100 Battle Collection",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "m2a-mega-dream-ex-booster-pack",
+  "tcgplayerProductId": 666255,
+  "name": "Mega Dream ex Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m2-booster-pack",
+  "tcgplayerProductId": 655970,
+  "name": "Inferno X Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m1l-booster-pack",
+  "tcgplayerProductId": 647498,
+  "name": "Mega Brave Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "m1l-premium-trainer-box-symphonia",
+  "tcgplayerProductId": 648589,
+  "name": "Premium Trainer Box MEGA Brave & Symphonia",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Cards: 172 cards (51 types in total) 13 Pokemon cards / 59 Trainers cards / 4 Special Energy cards / 96 Basic Energy cards",
+    "where": "line[3]",
+    "reason": "cards not named"
+   }
+  ]
+ },
+ {
+  "family": "m1s-booster-pack",
+  "tcgplayerProductId": 647499,
+  "name": "Mega Symphonia Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv11b-booster-pack",
+  "tcgplayerProductId": 636736,
+  "name": "Black Bolt Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv11b-deluxe-booster-pack",
+  "tcgplayerProductId": 636739,
+  "name": "Black Bolt Deluxe Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv11b-white-flare-card-file-set",
+  "tcgplayerProductId": 637445,
+  "name": "Black Bolt & White Flare Card File Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 promos",
+    "where": "line[0]",
+    "reason": "promo set not pinned to one card"
+   },
+   {
+    "line": "3 Expansion packs of Black Bolt",
+    "where": "line[0]",
+    "reason": "booster pack set not identified"
+   },
+   {
+    "line": "3 Expansion packs of White Flare",
+    "where": "line[0]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
+  "family": "sv11w-booster-pack",
+  "tcgplayerProductId": 636737,
+  "name": "White Flare Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv11w-deluxe-booster-pack",
+  "tcgplayerProductId": 636738,
+  "name": "White Flare Deluxe Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv10-glory-of-team-rocket-booster-pack",
+  "tcgplayerProductId": 629198,
+  "name": "Glory of Team Rocket Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv10-glory-of-team-rocket-gang-briefcase",
+  "tcgplayerProductId": 690290,
+  "name": "Glory of Team Rocket Gang Briefcase",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "30 Glory of Team Rocket packs",
+    "where": "line[0]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
+  "family": "sv9a-booster-pack",
+  "tcgplayerProductId": 623311,
+  "name": "Heat Wave Arena Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv9-battle-partner-booster-pack",
+  "tcgplayerProductId": 614703,
+  "name": "Battle Partner Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "four Trainer's Pokemon: N, Lillie, Hop, Nanjamo",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv9-collection-file-set-n",
+  "tcgplayerProductId": 614705,
+  "name": "Collection File Set N",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Cards are randomly included in 5 pieces each.",
+    "where": "line[3]",
+    "reason": "random cards"
+   }
+  ]
+ },
+ {
+  "family": "sv9-collection-file-set-lillie",
+  "tcgplayerProductId": 614706,
+  "name": "Collection File Set Lillie",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Cards are randomly included in 5 pieces each.",
+    "where": "line[3]",
+    "reason": "random cards"
+   }
+  ]
+ },
+ {
+  "family": "sv9-booster-box",
+  "tcgplayerProductId": 614707,
+  "name": "Battle Partners Booster Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "four Trainer's Pokemon: N, Lillie, Hop, Nanjamo",
+    "where": "line[2]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "sv8a-booster-pack",
+  "tcgplayerProductId": 603429,
+  "name": "Terastal Fest ex Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv8-booster-pack",
+  "tcgplayerProductId": 587727,
+  "name": "Super Electric Breaker Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv7a-booster-pack",
+  "tcgplayerProductId": 580710,
+  "name": "Paradise Dragona Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv7a-booster-box-case",
+  "tcgplayerProductId": 716009,
+  "name": "Paradise Dragona Booster Box Case",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "svls-other",
+  "tcgplayerProductId": 593910,
+  "name": "Ceruledge ex Stellar Tera Type Starter Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svln-other",
+  "tcgplayerProductId": 593911,
+  "name": "Sylveon ex Stellar Tera Type Starter Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv7-deck-build-box",
+  "tcgplayerProductId": 565215,
+  "name": "Stellar Miracle Deck Build Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "A fixed card assortment of 171 total cards (16 Pokémon",
+    "where": "line[3]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "53 Trainer",
+    "where": "line[3]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv7-booster-pack",
+  "tcgplayerProductId": 565216,
+  "name": "Stellar Miracle Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv6a-booster-pack",
+  "tcgplayerProductId": 565219,
+  "name": "Night Wanderer Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv6-booster-pack",
+  "tcgplayerProductId": 565220,
+  "name": "Transformation Mask Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv5a-booster-pack",
+  "tcgplayerProductId": 565227,
+  "name": "Crimson Haze Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "svhk-battle-deck",
+  "tcgplayerProductId": 593969,
+  "name": "Ancient Koraidon ex Starter Deck & Build Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a fixed selection of 228 cards: a 60-card deck",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "168 cards to help build and enhance it",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "a card with deck modification tips",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svhm-battle-deck",
+  "tcgplayerProductId": 593970,
+  "name": "Future Miraidon ex Starter Deck & Build Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a fixed selection of 228 cards: a 60-card deck",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "168 cards to help build and enhance it",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "a card with deck modification tips",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv5k-booster-pack",
+  "tcgplayerProductId": 565224,
+  "name": "Wild Force Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv5m-booster-pack",
+  "tcgplayerProductId": 565223,
+  "name": "Cyber Judge Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv4a-high-class-booster-pack",
+  "tcgplayerProductId": 565233,
+  "name": "Shiny Treasure ex High Class Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "10 random cards",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv4k-booster-pack",
+  "tcgplayerProductId": 565230,
+  "name": "Ancient Roar Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv4m-booster-pack",
+  "tcgplayerProductId": 565229,
+  "name": "Future Flash Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "svem-other",
+  "tcgplayerProductId": 594100,
+  "name": "Mewtwo ex Terastal Starter Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svel-skeledirge-ex-terastal-starter-deck",
+  "tcgplayerProductId": 594101,
+  "name": "Skeledirge ex Terastal Starter Deck",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv3a-booster-pack",
+  "tcgplayerProductId": 565234,
+  "name": "Raging Surf Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "svf-collection-box",
+  "tcgplayerProductId": 594102,
+  "name": "Ruler of the Black Flame Deck Build Box",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv3-booster-pack",
+  "tcgplayerProductId": 565237,
+  "name": "Ruler of the Black Flame Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards each",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-grass-junaiper",
+  "tcgplayerProductId": 594594,
+  "name": "ex Start Deck Grass Junaiper",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-fire-victini",
+  "tcgplayerProductId": 594595,
+  "name": "ex Start Deck Fire Victini",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-water-gekkouga",
+  "tcgplayerProductId": 594596,
+  "name": "ex Start Deck Water Gekkouga",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-lightning-miraidon",
+  "tcgplayerProductId": 594597,
+  "name": "ex Start Deck Lightning Miraidon",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-psychic-pixy",
+  "tcgplayerProductId": 594598,
+  "name": "ex Start Deck Psychic Pixy",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-fighting-koraidon",
+  "tcgplayerProductId": 594599,
+  "name": "ex Start Deck Fighting Koraidon",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-darkness-hellgar",
+  "tcgplayerProductId": 594600,
+  "name": "ex Start Deck Darkness Hellgar",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-metal-melmetal",
+  "tcgplayerProductId": 594601,
+  "name": "ex Start Deck Metal Melmetal",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-terastal-kairyu",
+  "tcgplayerProductId": 594602,
+  "name": "ex Start Deck Terastal Kairyu",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svd-ex-start-deck-terastal-yokubarisu",
+  "tcgplayerProductId": 594603,
+  "name": "ex Start Deck Terastal Yokubarisu",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv2a-booster-pack",
+  "tcgplayerProductId": 565242,
+  "name": "Pokemon Card 151 Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "7 random cards each",
+    "where": "line[1]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv2a-card-file-set-venusaur-charizard-blastoise",
+  "tcgplayerProductId": 618704,
+  "name": "Pokemon Card 151 Card File Set - Venusaur, Charizard, Blastoise",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "3 promos",
+    "where": "line[0]",
+    "reason": "promo set not pinned to one card"
+   }
+  ]
+ },
+ {
+  "family": "sv2a-card-file-set-poke-ball",
+  "tcgplayerProductId": 618706,
+  "name": "Pokemon Card 151 Card File Set - Poke Ball",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "3 promos",
+    "where": "line[0]",
+    "reason": "promo set not pinned to one card"
+   }
+  ]
+ },
+ {
+  "family": "svp1-other",
+  "tcgplayerProductId": 594104,
+  "name": "ex Special Set",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "sv2d-booster-pack",
+  "tcgplayerProductId": 565241,
+  "name": "Clay Burst Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv2p-booster-pack",
+  "tcgplayerProductId": 565238,
+  "name": "Snow Hazard Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "svc-other",
+  "tcgplayerProductId": 594169,
+  "name": "ex Starter Set Pikachu ex & Pawmot",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a fixed selection of 60 cards including a number of basic Trainer cards and supporting basic Energy cards",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sv1a-triple-beat-booster-pack",
+  "tcgplayerProductId": 565249,
+  "name": "Triple Beat Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sval-other",
+  "tcgplayerProductId": 594376,
+  "name": "ex Starter Set Fuecoco & Ampharos ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svaw-other",
+  "tcgplayerProductId": 594377,
+  "name": "ex Starter Set Quaxly & Mimikyu ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svam-other",
+  "tcgplayerProductId": 594375,
+  "name": "ex Starter Set Sprigatito & Lucario ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "svb-collection-box",
+  "tcgplayerProductId": 594110,
+  "name": "Premium Trainer Box ex",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "an assortment of popular Pokémon, Trainer, Energy cards from the Sword & Shield Era, in addition to some updated favorites",
+    "where": "line[0]",
+    "reason": "cards not named"
+   }
+  ]
+ },
+ {
+  "family": "sv1s-booster-pack",
+  "tcgplayerProductId": 565246,
+  "name": "Scarlet ex Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sv1v-booster-pack",
+  "tcgplayerProductId": 565245,
+  "name": "Violet ex Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s12a-booster-pack",
+  "tcgplayerProductId": 565253,
+  "name": "VSTAR Universe Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s12-booster-pack",
+  "tcgplayerProductId": 565251,
+  "name": "Paradigm Trigger Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[1]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s11a-booster-pack",
+  "tcgplayerProductId": 574875,
+  "name": "Incandescent Arcana Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s11-booster-pack",
+  "tcgplayerProductId": 574878,
+  "name": "Lost Abyss Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s11-special-set",
+  "tcgplayerProductId": 618176,
+  "name": "Lost Abyss Special Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 V&VSTAR promo card pack",
+    "where": "line[1]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
+  "family": "s10b-booster-pack",
+  "tcgplayerProductId": 575039,
+  "name": "Pokemon GO Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s10b-card-file-set-teams",
+  "tcgplayerProductId": 627702,
+  "name": "Pokemon Go Card File Set - Pokemon Go Teams",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 promos",
+    "where": "line[0]",
+    "reason": "promo set not pinned to one card"
+   }
+  ]
+ },
+ {
+  "family": "s10a-booster-pack",
+  "tcgplayerProductId": 575041,
+  "name": "Dark Phantasma Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a Pokémon VSTAR, as well as a standard evolutionary line",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s10a-booster-box",
+  "tcgplayerProductId": 575042,
+  "name": "Dark Phantasma Booster Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "a Pokémon VSTAR, as well as a standard evolutionary line",
+    "where": "line[0]",
+    "reason": "cards not named"
+   }
+  ]
+ },
+ {
+  "family": "s10d-booster-pack",
+  "tcgplayerProductId": 571833,
+  "name": "Time Gazer Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s10p-booster-pack",
+  "tcgplayerProductId": 575035,
+  "name": "Space Juggler Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s9a-booster-pack",
+  "tcgplayerProductId": 565254,
+  "name": "Battle Region Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s9-booster-pack",
+  "tcgplayerProductId": 565257,
+  "name": "Star Birth Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sk-collection-box",
+  "tcgplayerProductId": 678055,
+  "name": "VStar Premium Trainer Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "4 special energies (2 types)",
+    "where": "line[4]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "128 basic energies (8 types × 16 each)",
+    "where": "line[4]",
+    "reason": "cards not named"
+   }
+  ]
+ },
+ {
+  "family": "si-display",
+  "tcgplayerProductId": 644826,
+  "name": "Start Deck 100 Display",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "si-battle-deck",
+  "tcgplayerProductId": 644827,
+  "name": "Start Deck 100",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 deck at random of a possible 101 different complete decks (100 standard",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "1 secret)",
+    "where": "line[0]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "s8b-booster-pack",
+  "tcgplayerProductId": 565258,
+  "name": "VMAX Climax Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s8a-booster-pack",
+  "tcgplayerProductId": 565261,
+  "name": "25th Anniversary Collection Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards each",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s8-booster-pack",
+  "tcgplayerProductId": 565263,
+  "name": "Fusion Arts Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s7d-booster-pack",
+  "tcgplayerProductId": 565345,
+  "name": "Skyscraping Perfection Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s7r-booster-pack",
+  "tcgplayerProductId": 565342,
+  "name": "Blue Sky Stream Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards each",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s6a-booster-pack",
+  "tcgplayerProductId": 565350,
+  "name": "Eevee Heroes Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s6a-vmax-special-set",
+  "tcgplayerProductId": 606718,
+  "name": "Eevee Heroes VMAX Special Set",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "s6a-gym-box",
+  "tcgplayerProductId": 608794,
+  "name": "Eevee Heroes Gym Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards each pack)",
+    "where": "line[2]",
+    "reason": "booster pack set not identified"
+   },
+   {
+    "line": "Espeon VMAX promo card",
+    "where": "line[5]",
+    "reason": "promo set not pinned to one card"
+   }
+  ]
+ },
+ {
+  "family": "s6h-booster-pack",
+  "tcgplayerProductId": 565349,
+  "name": "Silver Lance Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s6k-booster-pack",
+  "tcgplayerProductId": 565346,
+  "name": "Jet-Black Spirit Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s5a-master-booster-pack",
+  "tcgplayerProductId": 565363,
+  "name": "Peerless Fighters Master Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s5a-matchless-fighters-klara-and-avery-set",
+  "tcgplayerProductId": 638076,
+  "name": "Matchless Fighters Klara and Avery Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "1 Japanese Matchless Fighters booster box",
+    "where": "line[1]",
+    "reason": "booster pack set not identified"
+   }
+  ]
+ },
+ {
+  "family": "s5i-booster-pack",
+  "tcgplayerProductId": 565360,
+  "name": "Single Strike Master Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s5r-booster-pack",
+  "tcgplayerProductId": 565359,
+  "name": "Rapid Strike Master Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[2]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s4a-booster-pack",
+  "tcgplayerProductId": 565366,
+  "name": "Shiny Star V Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s4-booster-pack",
+  "tcgplayerProductId": 565374,
+  "name": "Amazing Volt Tackle Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s3a-booster-pack",
+  "tcgplayerProductId": 571834,
+  "name": "Legendary Heartbeat Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s3-booster-pack",
+  "tcgplayerProductId": 571837,
+  "name": "Infinity Zone Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s2a-booster-pack",
+  "tcgplayerProductId": 571839,
+  "name": "Explosive Walker Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s2-booster-pack",
+  "tcgplayerProductId": 574176,
+  "name": "Rebellion Crash Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s2-toxtricity-v-special-set",
+  "tcgplayerProductId": 626514,
+  "name": "Toxtricity V Special Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Promo Card \"Toxtricity V\" x1",
+    "where": "line[3]",
+    "reason": "promo set not pinned to one card"
+   }
+  ]
+ },
+ {
+  "family": "s1a-booster-pack",
+  "tcgplayerProductId": 574872,
+  "name": "VMAX Rising Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s1h-booster-pack",
+  "tcgplayerProductId": 574870,
+  "name": "Shield Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "s1w-booster-pack",
+  "tcgplayerProductId": 574619,
+  "name": "Sword Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm12a-booster-pack",
+  "tcgplayerProductId": 576963,
+  "name": "TAG TEAM GX: Tag All Stars Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "11 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm12a-tag-team-gx-deck-build-box",
+  "tcgplayerProductId": 686300,
+  "name": "TAG TEAM GX: Deck Build Box",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "an assortment of 49 Trainer and Special Energy cards",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "one foil copy of Tapu Lele-GX",
+    "where": "line[0]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ },
+ {
+  "family": "sm12-booster-pack-576918",
+  "tcgplayerProductId": 576918,
+  "name": "Alter Genesis Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm11b-booster-pack",
+  "tcgplayerProductId": 576956,
+  "name": "Dream League Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm11a-booster-pack",
+  "tcgplayerProductId": 576954,
+  "name": "Remix Bout Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm11-booster-pack-576916",
+  "tcgplayerProductId": 576916,
+  "name": "Miracle Twin Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm10b-booster-pack",
+  "tcgplayerProductId": 576952,
+  "name": "Sky Legend Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "smp2-booster-pack",
+  "tcgplayerProductId": 656885,
+  "name": "Great Detective Pikachu Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "4 random cards each",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm10a-booster-pack",
+  "tcgplayerProductId": 576950,
+  "name": "GG End Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm10-booster-pack-576913",
+  "tcgplayerProductId": 576913,
+  "name": "Double Blaze Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm9b-booster-pack",
+  "tcgplayerProductId": 576947,
+  "name": "Full Metal Wall Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm9a-booster-pack",
+  "tcgplayerProductId": 576945,
+  "name": "Night Unison Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm9-booster-pack-576911",
+  "tcgplayerProductId": 576911,
+  "name": "Tag Bolt Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm8b-booster-pack",
+  "tcgplayerProductId": 576960,
+  "name": "GX Ultra Shiny Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "10 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm8a-booster-pack",
+  "tcgplayerProductId": 576943,
+  "name": "Dark Order Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm8-booster-pack-576909",
+  "tcgplayerProductId": 576909,
+  "name": "Super-Burst Impact Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm7b-booster-pack",
+  "tcgplayerProductId": 576941,
+  "name": "Fairy Rise Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm7a-booster-pack",
+  "tcgplayerProductId": 576932,
+  "name": "Thunderclap Spark Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm7-booster-pack-576907",
+  "tcgplayerProductId": 576907,
+  "name": "Sky-Splitting Charisma Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm6b-booster-pack",
+  "tcgplayerProductId": 576930,
+  "name": "Champion Road Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm6a-booster-pack",
+  "tcgplayerProductId": 576928,
+  "name": "Dragon Storm Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm6-booster-pack-576905",
+  "tcgplayerProductId": 576905,
+  "name": "Forbidden Light Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm5p-booster-pack",
+  "tcgplayerProductId": 576926,
+  "name": "Ultra Force Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm5m-booster-pack",
+  "tcgplayerProductId": 576903,
+  "name": "Ultra Moon Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm5s-booster-pack",
+  "tcgplayerProductId": 576901,
+  "name": "Ultra Sun Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm4p-booster-pack",
+  "tcgplayerProductId": 576958,
+  "name": "GX Battle Boost Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "7 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm4a-booster-pack",
+  "tcgplayerProductId": 576898,
+  "name": "Ultradimensional Beasts Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm4s-booster-pack",
+  "tcgplayerProductId": 576868,
+  "name": "Awakened Heroes Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm3p-booster-pack",
+  "tcgplayerProductId": 576924,
+  "name": "Shining Legends Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm3h-booster-pack",
+  "tcgplayerProductId": 576863,
+  "name": "To Have Seen the Battle Rainbow Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm3n-booster-pack",
+  "tcgplayerProductId": 576866,
+  "name": "Darkness that Consumes Light Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm2p-booster-pack",
+  "tcgplayerProductId": 576922,
+  "name": "Facing a New Trial Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm2k-booster-pack",
+  "tcgplayerProductId": 576858,
+  "name": "Islands Await You Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm2l-booster-pack",
+  "tcgplayerProductId": 576860,
+  "name": "Alolan Moonlight Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm1p-basic-fairy-energy",
+  "tcgplayerProductId": 597805,
+  "name": "Basic Fairy Energy",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "sm1p-basic-fire-energy",
+  "tcgplayerProductId": 597806,
+  "name": "Basic Fire Energy",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "sm1p-basic-grass-energy",
+  "tcgplayerProductId": 597807,
+  "name": "Basic Grass Energy",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "sm1p-basic-metal-energy",
+  "tcgplayerProductId": 597808,
+  "name": "Basic Metal Energy",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "sm1p-basic-psychic-energy",
+  "tcgplayerProductId": 597809,
+  "name": "Basic Psychic Energy",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "sm1plus-booster-pack",
+  "tcgplayerProductId": 576920,
+  "name": "Sun & Moon Booster Pack",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "5 random cards",
+    "where": "line[0]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm1m-booster-pack",
+  "tcgplayerProductId": 576856,
+  "name": "Collection Moon Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm1s-booster-pack",
+  "tcgplayerProductId": 576854,
+  "name": "Collection Sun Booster Pack",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "sm0-collection",
+  "tcgplayerProductId": 576965,
+  "name": "Pikachu's New Friends Collection",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "cp6-booster-pack-1st-edition",
+  "tcgplayerProductId": 722950,
+  "name": "Expansion Pack 20th Anniversary Booster Pack (1st Edition)",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "10 random cards",
+    "where": "line[1]",
+    "reason": "random cards"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "xy5a-booster-box",
+  "tcgplayerProductId": 610189,
+  "name": "Gaia Volcano Booster Box",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "xy5b-booster-box",
+  "tcgplayerProductId": 610190,
+  "name": "Tidal Storm Booster Box",
+  "listed": false,
+  "unresolved": []
+ },
+ {
+  "family": "si-tropical-island-jungle-box-set",
+  "tcgplayerProductId": 701538,
+  "name": "Tropical Island Jungle Box Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Vileplume",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Lickitung",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Primeape",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "si-tropical-island-beach-box-set",
+  "tcgplayerProductId": 701539,
+  "name": "Tropical Island Beach Box Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Exeggutor",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Slowking",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Wartortle",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "si-rainbow-island-sky-box-set",
+  "tcgplayerProductId": 701543,
+  "name": "Rainbow Island Sky Box Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Mew",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Pidgeot",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Onix",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "si-rainbow-island-riverside-box-set",
+  "tcgplayerProductId": 701544,
+  "name": "Rainbow Island Riverside Box Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Togepi",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Ivysaur",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Raticate",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "si-rainbow-island-fields-of-flowers-box-set",
+  "tcgplayerProductId": 701545,
+  "name": "Rainbow Island Fields of Flowers Box Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Ledyba",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Jigglypuff",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Butterfree",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "si-tropical-island-sea-box-set",
+  "tcgplayerProductId": 701546,
+  "name": "Tropical Island Sea Box Set",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "Tentacruel",
+    "where": "line[1]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Marill",
+    "where": "line[2]",
+    "reason": "item not identified"
+   },
+   {
+    "line": "Lapras",
+    "where": "line[3]",
+    "reason": "item not identified"
+   }
+  ]
+ },
+ {
+  "family": "pmcg2-booster-pack-291-yen",
+  "tcgplayerProductId": 677751,
+  "name": "Pokemon Jungle Booster Pack (291 Yen)",
+  "listed": true,
+  "unresolved": [
+   {
+    "line": "48 new Pokémon cards in the exciting Jungle expansion for the Pokémon trading card game",
+    "where": "line[1]",
+    "reason": "cards not named"
+   },
+   {
+    "line": "random cards",
+    "reason": "booster pack cards are random"
+   }
+  ]
+ },
+ {
+  "family": "pmcg1-starter-deck-1996",
+  "tcgplayerProductId": 648615,
+  "name": "Starter Deck 1996",
+  "listed": false,
+  "unresolved": [
+   {
+    "line": "deck list",
+    "reason": "deck list not listed"
+   }
+  ]
+ }
+]

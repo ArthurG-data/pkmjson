@@ -1,0 +1,31 @@
+{
+  "id": "sv10-glory-of-team-rocket-booster-box",
+  "region": "asia",
+  "set": "SV10",
+  "category": "booster_box",
+  "name": "Glory of Team Rocket Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv10-glory-of-team-rocket-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Glory of Team Rocket Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          629197
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/629197/pokemon-japan-sv10-the-glory-of-team-rocket-glory-of-team-rocket-booster-box"
+      ]
+    }
+  ]
+}

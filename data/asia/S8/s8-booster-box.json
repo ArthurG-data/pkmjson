@@ -1,0 +1,34 @@
+{
+  "id": "s8-booster-box",
+  "region": "asia",
+  "set": "S8",
+  "category": "booster_box",
+  "name": "Fusion Arts Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 573595
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s8-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Fusion Arts Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565262
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565262/pokemon-japan-s8-fusion-arts-fusion-arts-booster-box"
+      ]
+    }
+  ]
+}

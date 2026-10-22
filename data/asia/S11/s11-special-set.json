@@ -1,0 +1,37 @@
+{
+  "id": "s11-special-set",
+  "region": "asia",
+  "set": "S11",
+  "category": "other",
+  "name": "Lost Abyss Special Set",
+  "contentsStatus": "partial",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s11-booster-pack",
+        "count": 16
+      }
+    ],
+    "other": [
+      {
+        "name": "VSTAR Marker",
+        "count": 1
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text. Not resolved: 1 V&VSTAR promo card pack.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Lost Abyss Special Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          618176
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/618176/pokemon-japan-s11-lost-abyss-lost-abyss-special-set"
+      ]
+    }
+  ]
+}

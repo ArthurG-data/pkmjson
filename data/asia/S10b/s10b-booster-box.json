@@ -1,0 +1,31 @@
+{
+  "id": "s10b-booster-box",
+  "region": "asia",
+  "set": "S10b",
+  "category": "booster_box",
+  "name": "Pokemon GO Booster Box",
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "s10b-booster-pack",
+        "count": 20
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Pokemon GO Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575040
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575040/pokemon-japan-s10b-pokemon-go-pokemon-go-booster-box"
+      ]
+    }
+  ]
+}

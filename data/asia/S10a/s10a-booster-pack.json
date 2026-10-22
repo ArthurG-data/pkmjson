@@ -1,0 +1,29 @@
+{
+  "id": "s10a-booster-pack",
+  "region": "asia",
+  "set": "S10a",
+  "category": "booster_pack",
+  "name": "Dark Phantasma Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 653291
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "強化拡張パック「ダークファンタズマ」",
+      "releaseDate": "2022-05-13",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          575041
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/575041/pokemon-japan-s10a-dark-phantasma-dark-phantasma-booster-pack",
+        "https://www.pokemon-card.com/products/index.html?productType=expansion&keyword=%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9E"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mc-collection-box",
+  "region": "asia",
+  "set": "MC",
+  "category": "battle_deck",
+  "name": "Start Deck 100 Battle Collection",
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. The text states no contents.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "スタートデッキ100 バトルコレクション",
+      "releaseDate": "2025-12-19",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          670145
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/670145/pokemon-japan-start-deck-100-battle-collection-start-deck-100-battle-collection",
+        "https://www.pokemon-card.com/products/index.html?productType=construction&keyword=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%AD100+%E3%83%90%E3%83%88%E3%83%AB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
+      ]
+    }
+  ]
+}

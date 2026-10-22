@@ -1,0 +1,27 @@
+{
+  "id": "s8a-booster-pack",
+  "region": "asia",
+  "set": "S8a",
+  "category": "booster_pack",
+  "name": "25th Anniversary Collection Booster Pack",
+  "identifiers": {
+    "cardmarketProductId": 570886
+  },
+  "contentsStatus": "partial",
+  "contents": {},
+  "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "25th Anniversary Collection Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565261
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565261/pokemon-japan-s8a-25th-anniversary-collection-25th-anniversary-collection-booster-pack"
+      ]
+    }
+  ]
+}

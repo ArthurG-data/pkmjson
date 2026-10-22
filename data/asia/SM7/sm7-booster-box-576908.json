@@ -1,0 +1,34 @@
+{
+  "id": "sm7-booster-box-576908",
+  "region": "asia",
+  "set": "SM7",
+  "category": "booster_box",
+  "name": "Sky-Splitting Charisma Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551761
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7-booster-pack-576907",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Sky-Splitting Charisma Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576908
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576908/pokemon-japan-sm7-sky-splitting-charisma-sky-splitting-charisma-booster-box"
+      ]
+    }
+  ]
+}

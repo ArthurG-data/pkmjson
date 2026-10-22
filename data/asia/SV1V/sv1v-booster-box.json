@@ -1,0 +1,34 @@
+{
+  "id": "sv1v-booster-box",
+  "region": "asia",
+  "set": "SV1V",
+  "category": "booster_box",
+  "name": "Violet ex Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 689088
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sv1v-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Violet ex Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565244
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/565244/pokemon-japan-sv1v-violet-ex-violet-ex-booster-box"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sm7a-booster-box",
+  "region": "asia",
+  "set": "SM7a",
+  "category": "booster_box",
+  "name": "Thunderclap Spark Booster Box",
+  "identifiers": {
+    "cardmarketProductId": 551756
+  },
+  "contentsStatus": "complete",
+  "contents": {
+    "sealed": [
+      {
+        "product": "sm7a-booster-pack",
+        "count": 30
+      }
+    ]
+  },
+  "notes": "Generated from TCGplayer's product text.",
+  "releases": [
+    {
+      "language": "ja",
+      "name": "Thunderclap Spark Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          576940
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/576940/pokemon-japan-sm7a-thunderclap-spark-thunderclap-spark-booster-box"
+      ]
+    }
+  ]
+}
