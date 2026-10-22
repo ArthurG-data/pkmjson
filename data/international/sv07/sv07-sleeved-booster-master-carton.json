@@ -5,7 +5,13 @@
   "category": "sleeved_booster_pack",
   "name": "Stellar Crown Sleeved Booster Master Carton",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "sv07"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

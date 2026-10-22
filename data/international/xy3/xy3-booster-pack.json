@@ -14,6 +14,11 @@
         "name": "Pokémon Trading Card Game Online code card",
         "count": 1
       }
+    ],
+    "pool": [
+      {
+        "set": "xy3"
+      }
     ]
   },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",

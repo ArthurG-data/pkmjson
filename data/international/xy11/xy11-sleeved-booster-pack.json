@@ -5,7 +5,13 @@
   "category": "sleeved_booster_pack",
   "name": "XY Steam Siege Sleeved Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "xy11"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

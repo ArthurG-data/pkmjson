@@ -5,7 +5,13 @@
   "category": "sleeved_booster_pack",
   "name": "Flashfire Sleeved Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "xy2"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

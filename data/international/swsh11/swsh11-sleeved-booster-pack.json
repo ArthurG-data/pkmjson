@@ -8,7 +8,16 @@
     "cardmarketProductId": 674698
   },
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "swsh11"
+      },
+      {
+        "set": "swsh11tg"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

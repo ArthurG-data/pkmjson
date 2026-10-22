@@ -8,8 +8,14 @@
     "cardmarketProductId": 784945
   },
   "contentsStatus": "partial",
-  "contents": {},
-  "notes": "Booster pack cards are random. Which cards a pack can hold is out of scope for this dataset.",
+  "contents": {
+    "pool": [
+      {
+        "set": "sv08"
+      }
+    ]
+  },
+  "notes": "Booster pack cards are random. Which sets' cards it can hold is listed in contents.pool.",
   "releases": [
     {
       "language": "en",

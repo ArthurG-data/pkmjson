@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Pokemon Jungle Booster Pack (291 Yen)",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "PMCG2"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

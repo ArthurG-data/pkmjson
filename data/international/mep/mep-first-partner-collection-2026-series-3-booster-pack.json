@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "First Partner Collection 2026 Series 3 Booster Pack",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "mep"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {

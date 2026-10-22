@@ -5,7 +5,13 @@
   "category": "booster_pack",
   "name": "Expansion Pack 20th Anniversary Booster Pack (1st Edition)",
   "contentsStatus": "partial",
-  "contents": {},
+  "contents": {
+    "pool": [
+      {
+        "set": "CP6"
+      }
+    ]
+  },
   "notes": "Generated from TCGplayer's product text. Booster pack cards are random.",
   "releases": [
     {
