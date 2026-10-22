@@ -184,12 +184,18 @@ def classify(name: str) -> str:
     return "other"
 
 
+BASIC_ENERGY_RE = re.compile(r"^(?:basic )?(?:grass|fire|water|lightning|psychic|fighting|darkness|metal|fairy|"
+                             r"colorless) energy(?: |$)")
+
+
 def is_sealed(product: dict) -> bool:
     """Not a single card, and not a 'Code Card - ...' listing (a digital code TCGplayer sells on its own). Some card
-    listings have no number ("Quick Starter Gift Set" cards): a card type or HP marks them."""
+    listings have no number ("Quick Starter Gift Set" cards): a card type or HP marks them. A basic Energy listed with
+    no card fields at all ("Water Energy (Unnumbered)" in Deck Exclusives) is a card by its name."""
     names = {e.get("name") for e in product.get("extendedData") or []}
-    return not names & {"Number", "Rarity", "CardType", "HP"} and \
-        not fold(product.get("name", "")).startswith("code card")
+    name = fold(product.get("name", ""))
+    return not names & {"Number", "Rarity", "CardType", "HP"} and not name.startswith("code card") and \
+        not BASIC_ENERGY_RE.match(name)
 
 
 def card_text(product: dict, text_field: str = "CardText") -> str:

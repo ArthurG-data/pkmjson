@@ -1,6 +1,13 @@
 """Regressions from the import audits: each test is a product text the generator once got wrong."""
-from import_tcgplayer import (EDITIONS, Draft, Group, Parser, PromoResolver, classify, expansion_of, fold, list_items,
-                              merge_release)
+from import_tcgplayer import (EDITIONS, Draft, Group, Parser, PromoResolver, classify, expansion_of, fold, is_sealed,
+                              list_items, merge_release)
+
+
+def test_a_basic_energy_without_card_fields_is_a_card_but_an_energy_product_is_not():
+    assert not is_sealed({"name": "Water Energy (Unnumbered) (No E Reader)"})
+    assert not is_sealed({"name": "Basic Fire Energy"})
+    assert is_sealed({"name": "Pokemon TCG: Energy Booster Pack"})
+    assert is_sealed({"name": "Scarlet & Violet Elite Trainer Box"})
 
 
 class NoPromos(PromoResolver):
