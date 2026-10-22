@@ -4,6 +4,7 @@
   "set": "sv08",
   "category": "booster_pack",
   "name": "Surging Sparks Booster Pack",
+  "identifiers": {"cardmarketProductId": 784945},
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Booster pack cards are random. Which cards a pack can hold is out of scope for this dataset.",

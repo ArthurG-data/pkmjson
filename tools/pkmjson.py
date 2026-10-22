@@ -163,7 +163,7 @@ def flatten(families: Iterable[Family]) -> dict[str, dict]:
                 "category": d["category"],
                 "name": r["name"],
                 "releaseDate": r.get("releaseDate"),
-                "identifiers": r.get("identifiers", {}),
+                "identifiers": {**d.get("identifiers", {}), **r.get("identifiers", {})},
                 "contentsStatus": d["contentsStatus"],
                 "contents": {
                     "sealed": [{"product": f"{i['product']}:{lang}", "count": i["count"]}

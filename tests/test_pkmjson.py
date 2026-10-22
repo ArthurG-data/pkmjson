@@ -67,6 +67,22 @@ def test_flatten_gives_one_entry_per_language_with_nested_products_in_that_langu
     assert out["zz-box:fr"]["name"] == "zz-box fr"
 
 
+def test_every_language_carries_the_family_cardmarket_id(tmp_path):
+    box = _family("zz-box", languages=("en", "fr"))
+    box["identifiers"] = {"cardmarketProductId": 784949}
+    box["releases"][0]["identifiers"] = {"tcgplayerProductIds": [565606]}
+    out = flatten(_write(tmp_path, box))
+    assert out["zz-box:en"]["identifiers"] == {"cardmarketProductId": 784949, "tcgplayerProductIds": [565606]}
+    assert out["zz-box:fr"]["identifiers"] == {"cardmarketProductId": 784949}
+
+
+def test_a_release_cannot_carry_a_cardmarket_id(tmp_path):
+    box = _family("zz-box")
+    box["releases"][0]["identifiers"] = {"cardmarketProductId": 784949}
+    errors = validate(_write(tmp_path, box), tmp_path)
+    assert len(errors) == 1 and "cardmarketProductId" in errors[0]
+
+
 CARD = {"tcgdexCardId": "svp-159", "tcgdexVariantId": "v1", "tcgplayerProductId": 594386, "count": 1, "role": "promo"}
 
 

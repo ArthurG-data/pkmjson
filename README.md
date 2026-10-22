@@ -15,8 +15,9 @@ One file per product family, at `data/<region>/<set>/<id>.json`:
 - `id` is the stable pkmjson id of the product, without language (`sv08-etb`).
 
 A family lists its `contents` once and its `releases`, one per language. Each release has its own name, release
-date, TCGplayer and Cardmarket ids, and the sources that state its contents. A release can carry its own
-`contents` when that language's box differs.
+date, TCGplayer ids and the sources that state its contents. A release can carry its own `contents` when that
+language's box differs. The Cardmarket id sits on the family, because Cardmarket sells every language of a sealed
+product under one product and records the language on each offer.
 
 ```json
 {
@@ -24,6 +25,7 @@ date, TCGplayer and Cardmarket ids, and the sources that state its contents. A r
   "region": "international",
   "set": "sv08",
   "category": "elite_trainer_box",
+  "identifiers": {"cardmarketProductId": 784963},
   "contents": {
     "sealed": [{"product": "sv08-booster", "count": 9}],
     "cards": [{"tcgdexCardId": "svp-159", "tcgdexVariantId": "jr7oetx1mqug9",
@@ -48,7 +50,7 @@ The full format is `schema/product.schema.json`.
 ## Build output
 
 `python tools/build.py` writes `dist/AllProducts.json`, with one entry per product and language, keyed
-`<id>:<language>` (`sv08-etb:fr`). Tagged releases attach that file to a GitHub release.
+`<id>:<language>` (`sv08-etb:fr`). Each entry's `identifiers` holds the family's ids and the release's. Tagged releases attach that file to a GitHub release.
 
 ## Development
 

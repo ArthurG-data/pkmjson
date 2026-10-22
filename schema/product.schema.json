@@ -23,6 +23,14 @@
                "tin", "theme_deck", "battle_deck", "case", "other"]
     },
     "name": {"description": "The product's English name, for people browsing the files.", "type": "string"},
+    "identifiers": {
+      "description": "Ids that name the product in every language. Cardmarket sells every language of a sealed product under one product id and records the language on each offer.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "cardmarketProductId": {"type": "integer"}
+      }
+    },
     "contentsStatus": {
       "description": "complete: every item in the box is listed. partial: some contents are missing, for example the random cards of a booster pack.",
       "enum": ["complete", "partial"]
@@ -89,11 +97,11 @@
         "name": {"description": "The product's name as sold in this language.", "type": "string"},
         "releaseDate": {"type": "string", "format": "date"},
         "identifiers": {
+          "description": "Ids of this language's release. TCGplayer lists each language as its own product.",
           "type": "object",
           "additionalProperties": false,
           "properties": {
-            "tcgplayerProductIds": {"type": "array", "items": {"type": "integer"}, "minItems": 1, "uniqueItems": true},
-            "cardmarketProductId": {"type": "integer"}
+            "tcgplayerProductIds": {"type": "array", "items": {"type": "integer"}, "minItems": 1, "uniqueItems": true}
           }
         },
         "contents": {
