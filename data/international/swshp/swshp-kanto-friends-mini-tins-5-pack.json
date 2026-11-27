@@ -33,6 +33,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/253839/pokemon-miscellaneous-cards-and-products-kanto-friends-mini-tins-5-pack"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "fb475d69-6320-5abe-9ab9-ad180e90c088",
+      "name": "Mini-boîte Amitiés de Kanto",
+      "releaseDate": "2019-05-03",
+      "sources": [
+        "https://www.pokepedia.fr/Mini-bo%C3%AEte_Amiti%C3%A9s_de_Kanto"
+      ]
     }
   ]
 }

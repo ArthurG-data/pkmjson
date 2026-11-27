@@ -22,6 +22,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/670914/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-eight"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "f7587be6-879d-5237-b068-697592f5bb25",
+      "name": "Pack Récompense Play! Pokémon Série 8",
+      "releaseDate": "2026-01-01",
+      "sources": [
+        "https://www.pokepedia.fr/Pack_R%C3%A9compense_Play%21_Pok%C3%A9mon_S%C3%A9rie_8"
+      ]
     }
   ]
 }

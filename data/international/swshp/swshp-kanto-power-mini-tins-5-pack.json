@@ -33,6 +33,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/245522/pokemon-miscellaneous-cards-and-products-kanto-power-mini-tins-5-pack"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "11c2d051-4d83-5394-83bc-d21a669558aa",
+      "name": "Mini-boîte Puissance de Kanto",
+      "releaseDate": "2019-09-13",
+      "sources": [
+        "https://www.pokepedia.fr/Mini-bo%C3%AEte_Puissance_de_Kanto"
+      ]
     }
   ]
 }

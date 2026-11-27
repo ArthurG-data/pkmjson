@@ -22,6 +22,31 @@
       "sources": [
         "https://www.tcgplayer.com/product/197563/pokemon-detective-pikachu-detective-pikachu-on-the-case-figure-collection"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "7a3fabee-1030-5353-8418-d9667755dcb4",
+      "name": "Collection avec figurine Détective Pikachu En pleine enquête",
+      "releaseDate": "2019-08-23",
+      "contents": {
+        "sealed": [
+          {
+            "product": "det1-booster-pack",
+            "count": 3
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_avec_figurine_D%C3%A9tective_Pikachu_En_pleine_enqu%C3%AAte"
+      ]
     }
   ]
 }

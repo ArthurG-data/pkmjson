@@ -33,6 +33,14 @@
         "https://www.tcgplayer.com/product/654144/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-phantasmal-flames"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "736c010d-a07d-56da-b61c-2d55683286fa",
+      "name": "Méga-Évolution – Flammes Fantasmagoriques",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Amphinobi-ex"
+      ]
     }
   ]
 }

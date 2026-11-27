@@ -29,6 +29,33 @@
       "sources": [
         "https://www.tcgplayer.com/product/616953/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-armarouge-revavroom-and-houndstone"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "76417ff2-af16-5036-b0fa-13d14e43d3a0",
+      "name": "Duopack Carmadura, Vrombotor et Tomberro",
+      "releaseDate": "2023-10-27",
+      "contents": {
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv02-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "swsh7-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Carmadura%2C_Vrombotor_et_Tomberro"
+      ]
     }
   ]
 }

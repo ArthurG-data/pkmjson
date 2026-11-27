@@ -32,6 +32,14 @@
         "https://www.tcgplayer.com/product/476451/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "a758ab5b-3b25-56a5-94a7-a5de517a8050",
+      "name": "Écarlate et Violet",
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Mystherbe%2C_Ortide_et_Rafflesia"
+      ]
     }
   ]
 }

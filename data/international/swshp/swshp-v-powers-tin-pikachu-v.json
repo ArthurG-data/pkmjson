@@ -30,6 +30,37 @@
       "sources": [
         "https://www.tcgplayer.com/product/220308/pokemon-miscellaneous-cards-and-products-v-powers-tin-pikachu-v"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "c2675758-2f4a-54f8-8ba2-2377a1a5ef47",
+      "name": "Boîte Puissances-V Pikachu",
+      "releaseDate": "2020-09-04",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh3-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissances-V_Pikachu-V"
+      ]
     }
   ]
 }

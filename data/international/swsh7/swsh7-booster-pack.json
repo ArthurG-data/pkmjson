@@ -33,6 +33,14 @@
         "https://www.tcgplayer.com/product/244337/pokemon-swsh07-evolving-skies-evolving-skies-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/sword-shield-evolving-skies"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "e3279a52-c067-549a-8f55-886d795940e1",
+      "name": "Épée et Bouclier – Évolution Céleste",
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Carmadura%2C_Vrombotor_et_Tomberro"
+      ]
     }
   ]
 }

@@ -32,6 +32,14 @@
         "https://www.tcgplayer.com/product/187239/pokemon-detective-pikachu-detective-pikachu-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/detective-pikachu"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "972f0870-a8a4-50e3-9d39-2da7d2dc784b",
+      "name": "Détective Pikachu",
+      "sources": [
+        "https://www.pokepedia.fr/Dossier_D%C3%A9tective_Pikachu"
+      ]
     }
   ]
 }

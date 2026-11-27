@@ -5,8 +5,8 @@ the packs, promo cards and accessories in an Elite Trainer Box, and so on, for e
 sold in. Card, set and listing data are already published elsewhere (TCGdex, pokemon-tcg-data, TCGCSV);
 this dataset covers product contents, which none of them publish.
 
-The data holds 3189 product families in 4394 language releases, in 286 sets. 2905 families are international and
-284 are Japanese. By language, the releases are 2905 English, 502 French, 284 Japanese, 249 German, 230 Italian and
+The data holds 3189 product families in 4445 language releases, in 286 sets. 2905 families are international and
+284 are Japanese. By language, the releases are 2905 English, 553 French, 284 Japanese, 249 German, 230 Italian and
 224 Spanish. 454 families list their whole contents. Every family and every release has a UUID that never changes.
 
 ## Layout

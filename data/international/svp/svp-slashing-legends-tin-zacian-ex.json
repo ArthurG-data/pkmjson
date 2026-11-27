@@ -47,6 +47,15 @@
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-sovrane"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "d0a19a64-6331-510a-910f-64feaf9c2202",
+      "name": "Boîte Légendes Tranchantes Zacian",
+      "releaseDate": "2025-05-16",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_L%C3%A9gendes_Tranchantes_Zacian-ex"
+      ]
     }
   ]
 }

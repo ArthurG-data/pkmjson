@@ -22,6 +22,27 @@
       "sources": [
         "https://www.tcgplayer.com/product/683264/pokemon-miscellaneous-cards-and-products-2-pack-blister-pack-oddish-gloom-and-vileplume"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "f4e54791-ad6c-5260-ab1c-0ef1549e0317",
+      "name": "Duopack Mystherbe, Ortide et Rafflesia",
+      "releaseDate": "2026-03-06",
+      "contents": {
+        "sealed": [
+          {
+            "product": "sv01-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv06-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Mystherbe%2C_Ortide_et_Rafflesia"
+      ]
     }
   ]
 }

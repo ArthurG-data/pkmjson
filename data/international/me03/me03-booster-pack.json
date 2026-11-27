@@ -33,6 +33,14 @@
         "https://www.tcgplayer.com/product/672398/pokemon-me03-perfect-order-perfect-order-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-perfect-order"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "fabbeace-e3b5-5f16-b3cb-7ee9ed8816b2",
+      "name": "Méga-Évolution – Équilibre Parfait",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Amphinobi-ex"
+      ]
     }
   ]
 }

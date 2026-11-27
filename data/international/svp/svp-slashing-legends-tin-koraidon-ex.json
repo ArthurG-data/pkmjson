@@ -37,6 +37,15 @@
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-sovrane"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "a6e6aeef-d169-5ba4-83c5-47d3ff14c865",
+      "name": "Boîte Légendes Tranchantes Koraidon",
+      "releaseDate": "2025-05-16",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_L%C3%A9gendes_Tranchantes_Koraidon-ex"
+      ]
     }
   ]
 }

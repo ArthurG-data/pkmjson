@@ -22,6 +22,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/482138/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-one"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "0ee8e029-ea0c-5f9d-9725-fa63b9adb49d",
+      "name": "Pack Récompense Play! Pokémon Série 1",
+      "releaseDate": "2022-11-09",
+      "sources": [
+        "https://www.pokepedia.fr/Pack_R%C3%A9compense_Play%21_Pok%C3%A9mon_S%C3%A9rie_1"
+      ]
     }
   ]
 }

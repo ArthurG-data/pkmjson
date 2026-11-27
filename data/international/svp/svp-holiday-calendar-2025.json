@@ -38,6 +38,41 @@
       "sources": [
         "https://www.tcgplayer.com/product/639828/pokemon-miscellaneous-cards-and-products-holiday-calendar-2025"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "89ef3f31-a06c-5446-a6b5-31d6504639a7",
+      "name": "Calendrier des fêtes JCC (2025)",
+      "releaseDate": "2025-08-22",
+      "contents": {
+        "other": [
+          {
+            "name": "Pokémon coins",
+            "count": 2
+          },
+          {
+            "name": "Pokémon sticker sheets",
+            "count": 2
+          },
+          {
+            "name": "Plus, find a code card for Pokémon TCG Live",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv10-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sv01-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Calendrier_des_f%C3%AAtes_JCC_%282025%29"
+      ]
     }
   ]
 }

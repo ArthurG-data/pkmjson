@@ -22,6 +22,30 @@
       "sources": [
         "https://www.tcgplayer.com/product/625906/pokemon-miscellaneous-cards-and-products-ex-tin-keldeo"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "61e8484b-f161-522b-b365-bc5fca6a97bc",
+      "name": "Boîte Puissance EX Keldeo",
+      "contents": {
+        "sealed": [
+          {
+            "product": "bw7-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw2-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Keldeo-EX"
+      ]
     }
   ]
 }

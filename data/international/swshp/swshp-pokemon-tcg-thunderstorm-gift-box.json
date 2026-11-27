@@ -22,6 +22,14 @@
       "sources": [
         "https://www.tcgplayer.com/product/210200/pokemon-miscellaneous-cards-and-products-pokemon-tcg-thunderstorm-gift-box"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "3a425c3d-a2d1-584f-9474-0018fb7174f6",
+      "name": "Tempête",
+      "sources": [
+        "https://www.pokepedia.fr/Temp%C3%AAte_%28Coffret_cadeau%29"
+      ]
     }
   ]
 }

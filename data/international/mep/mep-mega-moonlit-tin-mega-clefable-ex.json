@@ -40,6 +40,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/686438/pokemon-miscellaneous-cards-and-products-mega-moonlit-tin-mega-clefable-ex"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "fce2baef-188e-5706-baa2-d6f64a38c41a",
+      "name": "Boîte Méga Clair de Lune Méga-Mélodelfe",
+      "releaseDate": "2026-06-05",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_M%C3%A9ga_Clair_de_Lune_M%C3%A9ga-M%C3%A9lodelfe-ex"
+      ]
     }
   ]
 }

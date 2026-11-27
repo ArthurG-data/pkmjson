@@ -33,6 +33,14 @@
         "https://www.tcgplayer.com/product/644352/pokemon-me01-mega-evolution-mega-evolution-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/mega-evolution"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "94a7ca03-6e07-5eb3-ab6b-1c93227cf3c3",
+      "name": "Méga-Évolution",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Journ%C3%A9e_Pok%C3%A9mon_2026"
+      ]
     }
   ]
 }

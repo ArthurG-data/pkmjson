@@ -42,6 +42,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/202117/pokemon-miscellaneous-cards-and-products-lets-play-pokemon-tcg-box"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "4a28e993-bb14-534a-a566-d112748f23e8",
+      "name": "Let's Play Pokémon",
+      "releaseDate": "2020-05-15",
+      "sources": [
+        "https://www.pokepedia.fr/Let%27s_Play_Pok%C3%A9mon_%28Kit_du_Dresseur%29"
+      ]
     }
   ]
 }

@@ -50,6 +50,15 @@
       "sources": [
         "https://www.tcgplayer.com/product/241109/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2021"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "6350d101-7861-50e9-b5da-f4688541eaf2",
+      "name": "Nécessaire du Dresseur",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokepedia.fr/N%C3%A9cessaire_du_Dresseur_%282021%29"
+      ]
     }
   ]
 }

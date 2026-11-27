@@ -33,6 +33,41 @@
       "sources": [
         "https://www.tcgplayer.com/product/583776/pokemon-miscellaneous-cards-and-products-jirachi-v-box"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "524b1b80-51c8-5f76-8304-cfd4acdec49e",
+      "name": "Coffret Jirachi",
+      "releaseDate": "2023-09-01",
+      "contents": {
+        "other": [
+          {
+            "name": "Oversize foil card featuring Jirachi V",
+            "count": 1
+          },
+          {
+            "name": "Code card for Pokémon TCG Live",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv03-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sv02-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "swsh9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Coffret_Jirachi-V"
+      ]
     }
   ]
 }

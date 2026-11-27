@@ -23,6 +23,27 @@
       "sources": [
         "https://www.tcgplayer.com/product/185245/pokemon-detective-pikachu-detective-pikachu-case-file"
       ]
+    },
+    {
+      "language": "fr",
+      "uuid": "1494eb3f-17dc-5014-a877-eea8629d572d",
+      "name": "Dossier Détective Pikachu",
+      "releaseDate": "2019-04-15",
+      "contents": {
+        "sealed": [
+          {
+            "product": "det1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Dossier_D%C3%A9tective_Pikachu"
+      ]
     }
   ]
 }
