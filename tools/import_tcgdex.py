@@ -134,7 +134,7 @@ def set_entry(previous: dict | None, s: dict, region: str, groups: list[int]) ->
     if third.get("cardmarket"):
         identifiers["cardmarketExpansionIds"] = [third["cardmarket"]]
     facts = {"name": s["name"], "releaseDate": s["releaseDate"], "cardCount": s["cardCount"]}
-    facts.update({k: s[k] for k in ("abbreviations", "tcgOnline") if s.get(k)})
+    facts.update({k: s[k] for k in ("abbreviations", "tcgOnline", "logos", "symbol") if s.get(k)})
     entry = {"region": region, "set": s["id"]}
     if previous and "uuid" in previous:
         entry["uuid"] = previous["uuid"]

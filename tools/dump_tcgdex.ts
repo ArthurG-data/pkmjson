@@ -40,8 +40,14 @@ for (const folder of FOLDERS) {
 		const set = await load(file)
 		// The repository holds placeholders (serie id 'null', a set id copied from another file): the file name
 		// tells them apart.
+		// The compiler's rule for a set's pictures: a logo per language, and one symbol for all, where the asset exists.
+		const logos = Object.fromEntries(Object.keys(set.name)
+			.filter((lang) => assets[lang]?.[set.serie.id]?.[set.id]?.logo)
+			.map((lang) => [lang, `https://assets.tcgdex.net/${lang}/${set.serie.id}/${set.id}/logo`]))
+		const symbol = assets.univ?.[set.serie.id]?.[set.id]?.symbol
+			? `https://assets.tcgdex.net/univ/${set.serie.id}/${set.id}/symbol` : undefined
 		sets.push({ ...set, serie: set.serie.id, folder, file: path.basename(file, '.ts'),
-			serieFile: path.basename(path.dirname(file)) })
+			serieFile: path.basename(path.dirname(file)), logos, symbol })
 	}
 	for (const file of files('*/*/*.ts', root)) {
 		const card = await load(file)

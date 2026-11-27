@@ -157,6 +157,19 @@
             "tcgOnline": {
               "description": "The set's code in Pokémon TCG Online.",
               "type": "string"
+            },
+            "logos": {
+              "description": "TCGdex's logo of the set per language, without an extension (add .png or .webp).",
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "symbol": {
+              "description": "TCGdex's set symbol, without an extension.",
+              "type": "string",
+              "format": "uri"
             }
           }
         },
