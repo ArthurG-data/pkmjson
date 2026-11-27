@@ -5,31 +5,107 @@ on:
   push:
     branches: [main]
     tags: ["v*"]
+  # A release published from the GitHub UI or app: CI fills it with the release files.
+  release:
+    types: [published]
+  # TCGdex, TCGplayer and the other sources change under the data. A weekly online check reports drift without
+  # failing pull requests.
+  schedule:
+    - cron: "23 6 * * 1"
+  workflow_dispatch:
 
 permissions:
   contents: read
+
+# Publishing a release in the UI also creates its tag, so one release can start two runs. Queue the second
+# rather than race it; the release step below is safe to run twice.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v5
-      - run: uv sync
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 2
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+      - run: uv sync --locked --group dev
+      - run: uv run ruff check tools tests
       - run: uv run pytest -q
+      # The ref to compare with: the branch a PR targets, or where the branch was before a push (every commit of
+      # the push at once), else the commit before.
+      - id: base
+        run: |
+          if [ -n "$BASE_REF" ]; then
+            git fetch --depth=1 origin "$BASE_REF" && since=FETCH_HEAD
+          elif [ -n "$BEFORE" ] && [ "$BEFORE" != 0000000000000000000000000000000000000000 ] \
+               && git fetch --depth=1 origin "$BEFORE"; then
+            since=FETCH_HEAD
+          elif git rev-parse --verify --quiet HEAD^ > /dev/null; then
+            since=HEAD^
+          fi
+          echo "since=$since" >> "$GITHUB_OUTPUT"
+        env:
+          BASE_REF: ${{ github.base_ref }}
+          BEFORE: ${{ github.event.before }}
+      # A UUID, once given, never changes: data/uuids.json must extend the one at the base.
+      - run: uv run python tools/validate.py ${SINCE:+--since "$SINCE"}
+        env:
+          SINCE: ${{ steps.base.outputs.since }}
+      # A pull request may not lose more than a few of anything, unless its title says the loss is meant.
+      - if: github.event_name == 'pull_request' && !contains(github.event.pull_request.title, '[allow-loss]')
+        run: uv run python tools/check_losses.py --base "$SINCE"
+        env:
+          SINCE: ${{ steps.base.outputs.since }}
+
+  # The online checks compare the data with the live sources. A source can change at any time (TCGdex fixes a
+  # card), which says nothing about a pull request, so they run on a schedule, by hand and before a release.
+  online:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || github.event_name == 'release' || startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+      - run: uv sync --locked --group dev
       - run: uv run python tools/validate.py --online
 
   release:
-    needs: validate
-    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [validate, online]
+    if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'release'
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v5
-      - run: uv sync
+      # The whole history, so build.py dates the release by the last commit that changed the data.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+      - run: uv sync --locked --group dev
       - run: uv run python tools/build.py --version "${GITHUB_REF_NAME#v}"
-      - run: gh release create "$GITHUB_REF_NAME" dist/AllProducts.json dist/AllSets.json --generate-notes
+      # A pushed tag has no release yet, so create it. A release published in the UI already exists, so attach
+      # the files to it (--clobber replaces them when a second run gets here).
+      - run: |
+          files="dist/AllProducts.json dist/AllSets.json dist/AllProducts.schema.json dist/AllSets.schema.json"
+          if gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" $files --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" $files --generate-notes
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  # A release published in the UI is public before CI checks it. If the checks or the build fail, turn it back
+  # into a draft so `releases/latest` keeps pointing at the last good release, not at one with no files.
+  unpublish:
+    needs: [validate, online, release]
+    if: failure() && github.event_name == 'release'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - run: gh release edit "$GITHUB_REF_NAME" --repo "$GITHUB_REPOSITORY" --draft=true
         env:
           GH_TOKEN: ${{ github.token }}
