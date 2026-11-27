@@ -1,9 +1,11 @@
 {
   "id": "swsh7-pokemon-center-elite-trainer-box-jolteon-flareon-umbreon-leafeon-exclusive",
+  "uuid": "56f49941-8b23-5027-ae22-0bd29c55e943",
   "region": "international",
   "set": "swsh7",
   "category": "elite_trainer_box",
   "name": "Evolving Skies Pokemon Center Elite Trainer Box [Jolteon/Flareon/Umbreon/Leafeon] (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -63,6 +65,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be775db7-72cd-5fc8-9007-8f7e4cd8bda8",
       "name": "Evolving Skies Pokemon Center Elite Trainer Box [Jolteon/Flareon/Umbreon/Leafeon] (Exclusive)",
       "releaseDate": "2021-08-27",
       "identifiers": {

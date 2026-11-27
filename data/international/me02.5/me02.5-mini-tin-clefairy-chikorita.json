@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mini-tin-clefairy-chikorita",
+  "uuid": "c09d666e-d367-53ba-976b-a01b5f0dcead",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Mini Tin [Clefairy & Chikorita]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "970bc9a3-eb92-575a-92d1-9519321a83c2",
       "name": "Ascended Heroes Mini Tin [Clefairy & Chikorita]",
       "releaseDate": "2026-02-20",
       "identifiers": {

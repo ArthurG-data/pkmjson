@@ -1,9 +1,11 @@
 {
   "id": "swsh6-elite-trainer-box-ice-rider-calyrex",
+  "uuid": "60ca03ea-e51d-5380-b1f7-91f11128c34c",
   "region": "international",
   "set": "swsh6",
   "category": "elite_trainer_box",
   "name": "Chilling Reign Elite Trainer Box [Ice Rider Calyrex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557971
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6ccb57b-b8d4-59d8-9d5c-ad763cd7071d",
       "name": "Chilling Reign Elite Trainer Box [Ice Rider Calyrex]",
       "identifiers": {
         "tcgplayerProductIds": [

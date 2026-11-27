@@ -1,9 +1,11 @@
 {
   "id": "svp-fall-2025-collector-chest",
+  "uuid": "4d0dd6ae-ca79-515d-a6af-72dc73fab099",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Fall 2025 Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c8d149b6-edfe-5501-8c30-70e9567726dd",
       "name": "Fall 2025 Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -37,6 +40,7 @@
     },
     {
       "language": "de",
+      "uuid": "fc80be71-19b0-5341-a46a-8cefd100389c",
       "name": "Sammelkoffer (Herbst 2025)",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/sammelkoffer-herbst-2025"
@@ -44,6 +48,7 @@
     },
     {
       "language": "es",
+      "uuid": "b6629a68-18db-52d6-a07e-38d0df7d9f96",
       "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2025)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/maletin-de-coleccionistas-otono-2025"
@@ -51,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "0a3f8aa5-5f39-5410-8e6e-745751a6bc53",
       "name": "Coffre de collection (automne 2025)",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-automne-2025"
@@ -58,6 +64,7 @@
     },
     {
       "language": "it",
+      "uuid": "cb7c94a7-539f-5f55-b149-3fc75b32ff5a",
       "name": "Bauletto da collezione del GCC Pokémon (autunno 2025)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-autunno-2025"

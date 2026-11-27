@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-partners-tin-quaquaval-ex",
+  "uuid": "3cce4e43-266a-507e-875b-98f4be4146b2",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Partners Tin [Quaquaval ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6bc5ad17-d975-5169-a0f8-d78c14047c5e",
       "name": "Paldea Partners Tin [Quaquaval ex]",
       "identifiers": {
         "tcgplayerProductIds": [

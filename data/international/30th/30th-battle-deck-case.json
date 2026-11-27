@@ -1,15 +1,18 @@
 {
   "id": "30th-battle-deck-case",
+  "uuid": "b7648029-b742-5d72-9b0c-3bdc561140c5",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Battle Deck Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ff0ae8b5-1708-5f5e-80fc-e5aadfbae9e3",
       "name": "30th Celebration Battle Deck Case",
       "releaseDate": "2026-10-30",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "xy12-theme-deck-mewtwo-mayhem-mewtwo",
+  "uuid": "c78080b7-69c2-535c-82db-362c172de029",
   "region": "international",
   "set": "xy12",
   "category": "theme_deck",
   "name": "Evolutions Theme Deck - \"Mewtwo Mayhem\" [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293334
   },
@@ -32,6 +34,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de3a90a7-c5c1-5a91-ad87-5cc351b453b1",
       "name": "Evolutions Theme Deck - \"Mewtwo Mayhem\" [Mewtwo]",
       "identifiers": {
         "tcgplayerProductIds": [

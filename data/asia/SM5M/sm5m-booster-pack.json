@@ -1,9 +1,11 @@
 {
   "id": "sm5m-booster-pack",
+  "uuid": "5fad5305-c761-58aa-835c-a0a426acbfce",
   "region": "asia",
   "set": "SM5M",
   "category": "booster_pack",
   "name": "Ultra Moon Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551901
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "69978852-269a-5505-93cc-d6da3d9a9ba0",
       "name": "拡張パック「ウルトラムーン」",
       "releaseDate": "2017-12-08",
       "identifiers": {

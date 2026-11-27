@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-booster-pack",
+  "uuid": "ee4bfda7-5ea6-58ac-9047-9390b82b557a",
   "region": "international",
   "set": "sv04.5",
   "category": "booster_pack",
   "name": "Paldean Fates Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745544
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4081bb85-ead3-52c0-b103-e639195b42b9",
       "name": "Scarlet & Violet—Paldean Fates",
       "releaseDate": "2024-01-26",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fe3893a4-3956-56b2-8ec3-317540d725c0",
       "name": "Écarlate et Violet – Destinées de Paldea",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Destin%C3%A9es_de_Paldea",
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "b755b035-380a-52b6-a086-86fafe8e4e58",
       "name": "Scarlatto e Violetto - Destino di Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-destino-di-paldea",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "8885b121-78db-57a2-8057-c0b01f6e3ebc",
       "name": "Karmesin & Purpur – Paldeas Schicksale",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-paldeas-schicksale",

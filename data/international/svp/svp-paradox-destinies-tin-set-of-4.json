@@ -1,15 +1,18 @@
 {
   "id": "svp-paradox-destinies-tin-set-of-4",
+  "uuid": "6bd4c5c9-ee1f-56f0-9739-66900940642a",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Paradox Destinies Tin [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Gouging Fire ex, Raging Bolt ex, Iron Boulder ex, or Iron Crown ex; 5 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "03704853-9e04-519f-87fe-bc9a1a7050a7",
       "name": "Paradox Destinies Tin [Set of 4]",
       "releaseDate": "2024-09-06",
       "identifiers": {

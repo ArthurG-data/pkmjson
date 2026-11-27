@@ -1,9 +1,11 @@
 {
   "id": "sm9-booster-pack",
+  "uuid": "8ec9e28d-ecae-5f6c-94b8-1d77d1c20474",
   "region": "international",
   "set": "sm9",
   "category": "booster_pack",
   "name": "Team Up Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 366887
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2a180353-ab80-5ce6-a6d7-162e3eabbaec",
       "name": "Sun & Moon—Team Up",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "63ba4ab4-dfe9-52a6-b36f-7ba7dfdbe693",
       "name": "Soleil et Lune – Duo de Choc",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Duo_de_Choc",
@@ -40,6 +44,7 @@
     },
     {
       "language": "de",
+      "uuid": "9ce95976-a16c-5c07-9b00-34f6ace40496",
       "name": "Sonne & Mond – Teams sind Trumpf",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-teams-sind-trumpf",
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "20e03d54-98c2-5d14-92da-ac7ceccddf31",
       "name": "Sol y Luna-Unión de Aliados",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-union-de-aliados",
@@ -56,6 +62,7 @@
     },
     {
       "language": "it",
+      "uuid": "cf92cd3c-57f9-543a-a81f-f95614a107e1",
       "name": "Sole e Luna - Gioco di Squadra",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-gioco-di-squadra",

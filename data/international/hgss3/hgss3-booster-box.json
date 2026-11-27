@@ -1,9 +1,11 @@
 {
   "id": "hgss3-booster-box",
+  "uuid": "0ab5ca92-06d8-5f56-8d0e-040265685be5",
   "region": "international",
   "set": "hgss3",
   "category": "booster_box",
   "name": "Undaunted Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271928
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9010bd40-9164-5b39-b2c1-0447a48b55e2",
       "name": "Undaunted Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

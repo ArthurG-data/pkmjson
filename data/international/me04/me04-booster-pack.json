@@ -1,9 +1,11 @@
 {
   "id": "me04-booster-pack",
+  "uuid": "d090de50-5f3c-5707-bf53-d5863c100b0e",
   "region": "international",
   "set": "me04",
   "category": "booster_pack",
   "name": "Chaos Rising Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877296
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d245fdd-4935-54aa-a1bc-39a92574bc40",
       "name": "Mega Evolution—Chaos Rising",
       "releaseDate": "2026-05-22",
       "identifiers": {

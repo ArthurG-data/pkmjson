@@ -1,15 +1,18 @@
 {
   "id": "sm2-booster-pack-art-bundle-set-of-5",
+  "uuid": "b4a6deb2-c79c-5d54-9904-f0140fa9e835",
   "region": "international",
   "set": "sm2",
   "category": "other",
   "name": "Guardians Rising Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a72871da-6795-58b4-9230-ce27ec603a90",
       "name": "Guardians Rising Booster Pack Art Bundle [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

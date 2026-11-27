@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-booster-pack-art-bundle-set-of-4",
+  "uuid": "9711cc06-e752-5034-9995-34b4fb9a9301",
   "region": "international",
   "set": "sv08.5",
   "category": "other",
   "name": "Prismatic Evolutions Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c461b649-6813-525b-abf0-72714762f80f",
       "name": "Prismatic Evolutions Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy7-elite-trainer-box",
+  "uuid": "717f523f-1879-5312-982a-ace39a6705f7",
   "region": "international",
   "set": "xy7",
   "category": "elite_trainer_box",
   "name": "Ancient Origins Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286947
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "89ec2170-ec84-5df9-beaa-73c6194402a2",
       "name": "Ancient Origins Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

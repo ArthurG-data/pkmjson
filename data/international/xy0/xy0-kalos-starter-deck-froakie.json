@@ -1,9 +1,11 @@
 {
   "id": "xy0-kalos-starter-deck-froakie",
+  "uuid": "584273c3-a363-541b-9015-265e894e572d",
   "region": "international",
   "set": "xy0",
   "category": "battle_deck",
   "name": "Kalos Starter Deck [Froakie]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "70f005e1-bc82-5ee2-97cd-1e6ae57d0df1",
       "name": "Kalos Starter Deck [Froakie]",
       "identifiers": {
         "tcgplayerProductIds": [

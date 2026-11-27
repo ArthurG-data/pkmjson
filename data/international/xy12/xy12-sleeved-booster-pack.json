@@ -1,9 +1,11 @@
 {
   "id": "xy12-sleeved-booster-pack",
+  "uuid": "cf976410-1150-54a7-bc98-cb3517cce9e0",
   "region": "international",
   "set": "xy12",
   "category": "sleeved_booster_pack",
   "name": "XY - Evolutions Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ed65315c-2945-5e31-98a5-8622f2815b9c",
       "name": "XY - Evolutions Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

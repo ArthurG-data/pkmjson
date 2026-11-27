@@ -1,9 +1,11 @@
 {
   "id": "base1-base-set-theme-deck-zap",
+  "uuid": "74f48fe5-a8d6-5cb9-a86c-ba5b82d79861",
   "region": "international",
   "set": "base1",
   "category": "theme_deck",
   "name": "Base Set Theme Deck - \"Zap!\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286490
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d4293f6b-ecee-5b56-a4b3-b3efb6fbf3e6",
       "name": "Base Set Theme Deck - \"Zap!\"",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-elite-trainer-box-case",
+  "uuid": "62b30e41-f05e-53be-aa13-a346c6faf6fc",
   "region": "international",
   "set": "swsh4.5",
   "category": "case",
   "name": "Shining Fates Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 690877
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e270341-9579-5ef9-84e6-a6973e878232",
       "name": "Shining Fates Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

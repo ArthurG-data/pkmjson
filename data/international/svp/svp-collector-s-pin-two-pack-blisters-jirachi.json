@@ -1,9 +1,11 @@
 {
   "id": "svp-collector-s-pin-two-pack-blisters-jirachi",
+  "uuid": "27d59835-49ae-5d88-9cf0-32bded9d6e8f",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Collector's Pin Two Pack Blisters [Jirachi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3c9d343f-b0b7-5121-9ca9-cb7b90728137",
       "name": "Collector's Pin Two Pack Blisters [Jirachi]",
       "identifiers": {
         "tcgplayerProductIds": [

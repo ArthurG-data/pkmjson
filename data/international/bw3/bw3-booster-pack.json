@@ -1,9 +1,11 @@
 {
   "id": "bw3-booster-pack",
+  "uuid": "a279457c-7dc2-5ebe-8702-61e2161fb46a",
   "region": "international",
   "set": "bw3",
   "category": "booster_pack",
   "name": "Noble Victories Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271831
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "711deb09-1ca2-5253-ba07-442928960d62",
       "name": "Black & White—Noble Victories",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "66332be4-3320-5857-8a04-a2f8c91fbc66",
       "name": "JCC Pokémon : Noir & Blanc – Nobles Victoires",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Lugia-EX",

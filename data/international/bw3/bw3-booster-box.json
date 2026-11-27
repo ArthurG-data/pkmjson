@@ -1,9 +1,11 @@
 {
   "id": "bw3-booster-box",
+  "uuid": "2d7c3290-6473-55e3-aad0-7d4689f8e0e3",
   "region": "international",
   "set": "bw3",
   "category": "booster_box",
   "name": "Noble Victories Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271897
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "22bed13a-c5f7-5e0a-a63c-adf26ada67ea",
       "name": "Noble Victories Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

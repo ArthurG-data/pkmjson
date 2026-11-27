@@ -1,15 +1,18 @@
 {
   "id": "pop7-pack",
+  "uuid": "967c7617-8245-5ae2-b8ef-53f550cd0111",
   "region": "international",
   "set": "pop7",
   "category": "other",
   "name": "POP Series 7 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4b8fb99f-ea23-531d-9c67-c1844a8d9662",
       "name": "POP Series 7 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

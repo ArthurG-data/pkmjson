@@ -1,9 +1,11 @@
 {
   "id": "sv01-premium-checklane-blister-hisuian-arcanine",
+  "uuid": "b78f0a95-346f-5c76-bec8-4136306fff54",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Arcanine]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a3ec1be1-622b-56ad-af6c-76f8670b145e",
       "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Arcanine]",
       "identifiers": {
         "tcgplayerProductIds": [

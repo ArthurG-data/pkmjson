@@ -1,15 +1,18 @@
 {
   "id": "sv09-fun-pack",
+  "uuid": "6bedac4e-b333-5c53-b30e-e442d375d809",
   "region": "international",
   "set": "sv09",
   "category": "other",
   "name": "Journey Together Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1cc90414-d024-53c9-8070-59a03c03cc7a",
       "name": "Journey Together Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

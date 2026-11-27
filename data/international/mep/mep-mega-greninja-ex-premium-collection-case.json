@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-greninja-ex-premium-collection-case",
+  "uuid": "7fd72bb9-3503-566d-8de4-f2b77a57b344",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Greninja ex Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4f52bae0-cbfb-5b8c-8780-66063029efb8",
       "name": "Mega Greninja ex Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

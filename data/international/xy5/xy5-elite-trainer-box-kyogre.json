@@ -1,9 +1,11 @@
 {
   "id": "xy5-elite-trainer-box-kyogre",
+  "uuid": "fae8010f-9da9-58cb-95f3-231f3b0e8113",
   "region": "international",
   "set": "xy5",
   "category": "elite_trainer_box",
   "name": "Elite Trainer Box [Kyogre]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286954
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "29cf8917-9210-59ba-b0bc-a3aa5f2de53c",
       "name": "Elite Trainer Box [Kyogre]",
       "identifiers": {
         "tcgplayerProductIds": [

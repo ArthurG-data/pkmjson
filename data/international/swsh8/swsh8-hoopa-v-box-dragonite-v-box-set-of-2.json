@@ -1,15 +1,18 @@
 {
   "id": "swsh8-hoopa-v-box-dragonite-v-box-set-of-2",
+  "uuid": "fa52ddb2-5681-5097-895e-db8941d20b73",
   "region": "international",
   "set": "swsh8",
   "category": "other",
   "name": "Hoopa V Box / Dragonite V Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Hoopa V/ Dragonite V; 1 foil oversized card featuring Hoopa V/ Dragonite V; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "29363672-9745-5018-99da-933561e4a0f2",
       "name": "Hoopa V Box / Dragonite V Box [Set of 2]",
       "releaseDate": "2021-11-17",
       "identifiers": {

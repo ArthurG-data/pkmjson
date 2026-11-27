@@ -1,9 +1,11 @@
 {
   "id": "sm9-prerelease-kit",
+  "uuid": "7a376ae1-6097-5ab0-998f-1c781712daeb",
   "region": "international",
   "set": "sm9",
   "category": "other",
   "name": "Team Up Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5df44e94-7448-53e8-9798-3347e18d0863",
       "name": "Team Up Prerelease Kit",
       "releaseDate": "2019-02-01",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm7-solgaleo-gx-box",
+  "uuid": "7d774d3d-79b0-55f0-af9d-850cf87e27f1",
   "region": "international",
   "set": "sm7",
   "category": "collection_box",
   "name": "Solgaleo GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "781f8f9e-1c75-5fa7-9a59-1c180e0bf92d",
       "name": "Solgaleo GX Box",
       "releaseDate": "2018-10-05",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "37168ac2-40f2-553a-bf96-e85ef9c58ba1",
       "name": "Coffret Solgaleo",
       "releaseDate": "2018-10-05",
       "contents": {

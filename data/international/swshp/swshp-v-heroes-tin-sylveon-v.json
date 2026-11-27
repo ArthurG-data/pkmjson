@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-heroes-tin-sylveon-v",
+  "uuid": "b0353fef-9e78-5442-ae57-22ed8b364ac7",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Heroes Tin [Sylveon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9a586377-a338-5a2d-9e6b-c7d81f586146",
       "name": "V Heroes Tin [Sylveon V]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "es",
+      "uuid": "60c840a9-4b4a-58a5-b3cb-160d4b2f818f",
       "name": "Lata Héroes V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-heroes-v"
@@ -46,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "741693f3-a7c0-5fe1-aac2-08d6a5a9eb35",
       "name": "Tin-Box V-Helden",
       "releaseDate": "2022-04-08",
       "sources": [
@@ -54,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "fbc73ece-e651-5f75-9609-52ca6851f8fd",
       "name": "Scatola da collezione Eroi V",
       "releaseDate": "2022-04-08",
       "sources": [

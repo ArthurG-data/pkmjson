@@ -1,15 +1,18 @@
 {
   "id": "xy3-mega-charizard-y-collection",
+  "uuid": "08953734-05ca-5220-bc6b-5723c53f0c1e",
   "region": "international",
   "set": "xy3",
   "category": "collection_box",
   "name": "Mega Charizard Y Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "562512a8-c6d1-538b-8c94-c4a7617024f1",
       "name": "Mega Charizard Y Collection",
       "identifiers": {
         "tcgplayerProductIds": [

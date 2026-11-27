@@ -1,9 +1,11 @@
 {
   "id": "swsh4-3-pack-blister-sobble",
+  "uuid": "5f4d1e46-706b-5586-b1d3-158d98eae6f2",
   "region": "international",
   "set": "swsh4",
   "category": "blister",
   "name": "Vivid Voltage 3 Pack Blister [Sobble]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585833
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2a00a3b8-254b-50b7-8494-fa76f994fac1",
       "name": "Vivid Voltage 3 Pack Blister [Sobble]",
       "releaseDate": "2020-11-13",
       "identifiers": {

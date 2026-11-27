@@ -1,9 +1,11 @@
 {
   "id": "sm6-theme-deck-twilight-rogue-lycanroc",
+  "uuid": "389b3659-2baf-5241-8f91-a419aa2484c6",
   "region": "international",
   "set": "sm6",
   "category": "theme_deck",
   "name": "Forbidden Light Theme Deck - \"Twilight Rogue\" [Lycanroc]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 320014
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "faf8122f-6222-57f2-97ae-be6c0829b583",
       "name": "Forbidden Light Theme Deck - \"Twilight Rogue\" [Lycanroc]",
       "identifiers": {
         "tcgplayerProductIds": [

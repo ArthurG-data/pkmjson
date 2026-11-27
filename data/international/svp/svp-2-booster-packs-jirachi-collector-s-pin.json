@@ -1,9 +1,11 @@
 {
   "id": "svp-2-booster-packs-jirachi-collector-s-pin",
+  "uuid": "d425cfeb-ab98-58c4-bf00-3bba4e517c6e",
   "region": "international",
   "set": "svp",
   "category": "booster_pack",
   "name": "2 Booster Packs & Jirachi Collector's Pin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4f0c350-d414-5b20-a1bd-494ffe9040f4",
       "name": "2 Booster Packs & Jirachi Collector's Pin",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-hidden-potential-tin-giratina-v-international-version",
+  "uuid": "ae3d36b2-dd6a-52e9-8761-2e46906a38f1",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Hidden Potential Tin [Giratina V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "56e29d24-8ce4-5527-a863-bc4e2e479349",
       "name": "Hidden Potential Tin [Giratina V] (International Version)",
       "releaseDate": "2022-10-14",
       "identifiers": {

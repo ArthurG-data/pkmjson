@@ -1,9 +1,11 @@
 {
   "id": "mep-lumiose-city-mini-tin-feraligatr-budew",
+  "uuid": "b3fcb85e-09e4-542c-80a2-ee381e6a836c",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Lumiose City Mini Tin [Feraligatr & Budew]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1a696d59-9c41-532a-9a50-cdcd6c09d6e8",
       "name": "Lumiose City Mini Tin [Feraligatr & Budew]",
       "releaseDate": "2026-06-05",
       "identifiers": {

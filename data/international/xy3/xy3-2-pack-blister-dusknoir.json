@@ -1,9 +1,11 @@
 {
   "id": "xy3-2-pack-blister-dusknoir",
+  "uuid": "17526b82-158b-574b-a3b5-8895c3bde5e1",
   "region": "international",
   "set": "xy3",
   "category": "blister",
   "name": "Furious Fists 2 Pack Blister [Dusknoir]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c58aa644-25c1-5b04-8b4d-0fba07d84229",
       "name": "Furious Fists 2 Pack Blister [Dusknoir]",
       "identifiers": {
         "tcgplayerProductIds": [

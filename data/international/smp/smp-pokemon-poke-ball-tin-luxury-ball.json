@@ -1,9 +1,11 @@
 {
   "id": "smp-pokemon-poke-ball-tin-luxury-ball",
+  "uuid": "ddbf0370-6b5b-5c80-aa28-dfed4e571960",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Luxury Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc67d4b3-d065-58dd-a3b6-b87d943ddf7f",
       "name": "Pokemon - Poke Ball Tin - Luxury Ball",
       "identifiers": {
         "tcgplayerProductIds": [

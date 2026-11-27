@@ -1,9 +1,11 @@
 {
   "id": "swsh2-booster-box",
+  "uuid": "932e33bb-bedf-5257-99eb-69e66d515e2c",
   "region": "international",
   "set": "swsh2",
   "category": "booster_box",
   "name": "Rebel Clash Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 453273
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cddc6c62-6846-5a3f-a62d-90439a56f308",
       "name": "Rebel Clash Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

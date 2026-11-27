@@ -1,9 +1,11 @@
 {
   "id": "sm8a-booster-box",
+  "uuid": "202fbc4a-8c63-5367-a038-f6df6040b2eb",
   "region": "asia",
   "set": "SM8a",
   "category": "booster_box",
   "name": "Dark Order Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550466
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "bffce697-9d94-59e8-ab33-16f5efb0d596",
       "name": "Dark Order Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

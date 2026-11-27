@@ -1,9 +1,11 @@
 {
   "id": "swsh8-3-pack-hanger-box",
+  "uuid": "5f2bd26b-3d75-5ce0-a4fb-bb23c18f3d47",
   "region": "international",
   "set": "swsh8",
   "category": "collection_box",
   "name": "Fusion Strike 3 Pack Hanger Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6e7b8f23-0465-5fd6-9972-983733b05c55",
       "name": "Fusion Strike 3 Pack Hanger Box",
       "identifiers": {
         "tcgplayerProductIds": [

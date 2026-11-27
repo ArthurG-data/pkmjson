@@ -1,9 +1,11 @@
 {
   "id": "xy11-collectible-pin-3-pack-blister-shiny-mega-gardevoir",
+  "uuid": "48c9c23d-16ba-5ce1-a373-3dcd6280ec0c",
   "region": "international",
   "set": "xy11",
   "category": "blister",
   "name": "Steam Siege Collectible Pin 3 Pack Blister [Shiny Mega Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "55866a3b-644b-59c5-8b04-e1d0af7e6458",
       "name": "Steam Siege Collectible Pin 3 Pack Blister [Shiny Mega Gardevoir]",
       "identifiers": {
         "tcgplayerProductIds": [

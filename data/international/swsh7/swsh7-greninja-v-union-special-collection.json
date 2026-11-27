@@ -1,9 +1,11 @@
 {
   "id": "swsh7-greninja-v-union-special-collection",
+  "uuid": "94a1f49d-9533-586f-a0dd-4d9cd7010943",
   "region": "international",
   "set": "swsh7",
   "category": "collection_box",
   "name": "Greninja V-UNION Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "051997e6-3bdd-5484-bd01-2819b6233b68",
       "name": "Greninja V-UNION Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1d8bea74-56c2-5d5e-aebd-a9f2823a11da",
       "name": "Collections spéciales Pokémon-V‑UNION (Mewtwo/Amphinobi/Zacian)",
       "releaseDate": "2021-09-24",
       "sources": [
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "7da67ff9-a1c8-5a3e-a28c-b1072ea7f73c",
       "name": "Spezial-Kollektion Pokémon-V-UNION (Mewtu/Quajutsu/Zacian)",
       "releaseDate": "2021-09-24",
       "sources": [

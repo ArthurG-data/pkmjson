@@ -1,9 +1,11 @@
 {
   "id": "me05-booster-bundle",
+  "uuid": "5f092700-3fba-5576-996e-055767ffebe2",
   "region": "international",
   "set": "me05",
   "category": "booster_bundle",
   "name": "Pitch Black Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885539
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de8c6dfa-fcc8-5d41-bde5-c3780455835f",
       "name": "Pitch Black Booster Bundle",
       "releaseDate": "2026-07-17",
       "identifiers": {

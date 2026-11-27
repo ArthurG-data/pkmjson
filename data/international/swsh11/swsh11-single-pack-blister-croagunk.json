@@ -1,9 +1,11 @@
 {
   "id": "swsh11-single-pack-blister-croagunk",
+  "uuid": "fda820a5-ca95-55c4-890e-b029e0094bfe",
   "region": "international",
   "set": "swsh11",
   "category": "blister",
   "name": "Lost Origin Single Pack Blister [Croagunk]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666153
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b64e2e3e-9332-5001-b4bf-6cd5806bae22",
       "name": "Lost Origin Single Pack Blister [Croagunk]",
       "releaseDate": "2022-09-09",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-hidden-potential-tin-rotom-v-international-version",
+  "uuid": "6b02356d-d832-54eb-b352-ee273a8c6d7d",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Hidden Potential Tin [Rotom V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "022cb71a-c226-5c63-b5db-e657019ee1f9",
       "name": "Hidden Potential Tin [Rotom V] (International Version)",
       "releaseDate": "2022-10-14",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-2-pack-blister-pack-raikou-entei-suicune",
+  "uuid": "be425af7-8479-52a4-b642-4544cbe2794c",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "2-Pack Blister Pack [Raikou, Entei, & Suicune]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eedb10d6-c4d1-5467-9fd0-0603246a1e0f",
       "name": "2-Pack Blister Pack [Raikou, Entei, & Suicune]",
       "identifiers": {
         "tcgplayerProductIds": [

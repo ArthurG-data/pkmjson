@@ -1,9 +1,11 @@
 {
   "id": "svp-2024-world-championship-deck-jesse-parker-the-don",
+  "uuid": "56455e63-8b9b-5024-819d-100ea17886dc",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2024 World Championship Deck: Jesse Parker (The 'Don)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9937fa5c-d5b3-56b1-8802-0dd5348e762d",
       "name": "2024 World Championship Deck: Jesse Parker (The 'Don)",
       "releaseDate": "2025-05-16",
       "identifiers": {

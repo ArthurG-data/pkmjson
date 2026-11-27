@@ -1,9 +1,11 @@
 {
   "id": "s1a-booster-pack",
+  "uuid": "0e00f473-1b32-50f6-a0d3-0ddfca68c905",
   "region": "asia",
   "set": "S1a",
   "category": "booster_pack",
   "name": "VMAX Rising Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 468304
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7a20ea71-1306-5396-a14f-bac50ab1bf91",
       "name": "強化拡張パック「VMAXライジング」",
       "releaseDate": "2020-02-07",
       "identifiers": {

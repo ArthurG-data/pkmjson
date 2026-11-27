@@ -1,9 +1,11 @@
 {
   "id": "ex13-holon-phantoms-theme-deck-firemist",
+  "uuid": "6e6fadbe-c33c-5ac9-838c-607fe106f017",
   "region": "international",
   "set": "ex13",
   "category": "theme_deck",
   "name": "Holon Phantoms Theme Deck - \"FireMist\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286534
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0398532b-4c5c-58cb-a9fa-5ae3481ce0c3",
       "name": "Holon Phantoms Theme Deck - \"FireMist\"",
       "identifiers": {
         "tcgplayerProductIds": [

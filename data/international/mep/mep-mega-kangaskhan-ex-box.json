@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-kangaskhan-ex-box",
+  "uuid": "7a10f102-2266-5b58-8d11-37dbd259da1e",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Mega Kangaskhan ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd8c635b-0901-5987-9911-d8df29c1150b",
       "name": "Mega Kangaskhan ex Box",
       "releaseDate": "2025-12-05",
       "identifiers": {

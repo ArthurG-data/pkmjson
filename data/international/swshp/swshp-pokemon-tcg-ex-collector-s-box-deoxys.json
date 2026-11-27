@@ -1,15 +1,18 @@
 {
   "id": "swshp-pokemon-tcg-ex-collector-s-box-deoxys",
+  "uuid": "0c74409e-d75c-57dd-ab6c-ebdf352a3f26",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Pokemon TCG: EX Collector's Box [Deoxys]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: three booster packs; two POP Series 1 packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c34a38e0-dcd8-5e2a-8b43-2a8b29f5ebf4",
       "name": "Pokemon TCG: EX Collector's Box [Deoxys]",
       "identifiers": {
         "tcgplayerProductIds": [

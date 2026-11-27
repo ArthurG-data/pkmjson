@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "2e71a2e5-cd67-5db4-8d67-bd478d8d8432",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3be075ba-ebd7-50b0-b220-1814a2e98c6a",
       "name": "Prismatic Evolutions Pokemon Center Elite Trainer Box (Exclusive) Case",
       "identifiers": {
         "tcgplayerProductIds": [

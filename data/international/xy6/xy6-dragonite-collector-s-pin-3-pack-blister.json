@@ -1,9 +1,11 @@
 {
   "id": "xy6-dragonite-collector-s-pin-3-pack-blister",
+  "uuid": "5e9b7d10-6427-5f41-87fc-8d2a197bd6da",
   "region": "international",
   "set": "xy6",
   "category": "blister",
   "name": "Dragonite Collector's Pin 3 Pack Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eca99323-c4c4-52c9-abbd-53f493162972",
       "name": "Dragonite Collector's Pin 3 Pack Blister",
       "identifiers": {
         "tcgplayerProductIds": [

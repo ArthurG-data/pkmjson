@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mad-party-pin-collection-dedenne",
+  "uuid": "43c38917-c43d-5d17-baf4-e07529156c0d",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Mad Party Pin Collection [Dedenne]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a692151-0d53-5f31-bd6f-90fab238fff4",
       "name": "Shining Fates Mad Party Pin Collection [Dedenne]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "43bce1b0-ef14-5035-a6e9-e0c5e044b9a9",
       "name": "Collection Folle Aventure avec pin's Destinées Radieuses Dedenne",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "c13ee77e-5ffd-57cb-9138-76dc6b0b893b",
       "name": "Pokémon-Sammelkartenspiel-Pin-Kollektionen Verrückte Party der Erweiterung Glänzendes Schicksal",
       "releaseDate": "2021-02-19",
       "sources": [

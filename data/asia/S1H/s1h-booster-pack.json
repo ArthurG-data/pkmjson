@@ -1,9 +1,11 @@
 {
   "id": "s1h-booster-pack",
+  "uuid": "e59138bb-35e9-57fa-91f8-34273a9e1941",
   "region": "asia",
   "set": "S1H",
   "category": "booster_pack",
   "name": "Shield Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 468314
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "756e95b7-050c-55d5-86d3-de6f156b018e",
       "name": "拡張パック「シールド」",
       "releaseDate": "2019-12-06",
       "identifiers": {

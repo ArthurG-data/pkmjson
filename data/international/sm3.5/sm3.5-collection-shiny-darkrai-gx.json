@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-collection-shiny-darkrai-gx",
+  "uuid": "9df3dc51-da46-59df-bcfa-007dac97b11f",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Collection: Shiny Darkrai GX",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 315686
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "383017a1-cbd0-558e-90ac-46e816b3f038",
       "name": "Shining Legends Collection: Shiny Darkrai GX",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f3ec05fe-45c4-5a04-8187-cab3a95bb872",
       "name": "Collection Légendes Brillantes – Darkrai-GX chromatique",
       "releaseDate": "2018-03-09",
       "sources": [
@@ -46,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "4987c692-af6f-5fb6-a876-3bb8f8df96c2",
       "name": "Kollektion Schillerndes Darkrai-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
       "releaseDate": "2018-03-09",
       "sources": [
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "3aa70baf-45a1-5fd8-ac00-db69c2e2089f",
       "name": "Colección Darkrai-GX variocolor de Leyendas Luminosas",
       "releaseDate": "2018-03-09",
       "sources": [
@@ -62,6 +68,7 @@
     },
     {
       "language": "it",
+      "uuid": "83e62659-900b-5332-bc97-4550251e5bef",
       "name": "Collezione Darkrai-GX cromatico dell’espansione Leggende Iridescenti",
       "releaseDate": "2018-03-09",
       "sources": [

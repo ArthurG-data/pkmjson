@@ -1,9 +1,11 @@
 {
   "id": "sv04-single-pack-blister-ceruledge",
+  "uuid": "87a2320e-bb3b-5023-bc97-cd143ffdd85b",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift Single Pack Blister [Ceruledge]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e295513f-72e2-50ba-b28c-1050eba241e2",
       "name": "Paradox Rift Single Pack Blister [Ceruledge]",
       "identifiers": {
         "tcgplayerProductIds": [

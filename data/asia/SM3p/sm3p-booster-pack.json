@@ -1,9 +1,11 @@
 {
   "id": "sm3p-booster-pack",
+  "uuid": "342b1a15-3ed9-591d-8042-5572be58161d",
   "region": "asia",
   "set": "SM3p",
   "category": "booster_pack",
   "name": "Shining Legends Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "603be841-390f-508b-a75a-371141bdb9ca",
       "name": "強化拡張パック「ひかる伝説」",
       "releaseDate": "2017-07-15",
       "identifiers": {

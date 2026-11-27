@@ -1,9 +1,11 @@
 {
   "id": "s10a-booster-pack",
+  "uuid": "ebcf8052-c0ad-5767-a8e2-515b0ea13ec4",
   "region": "asia",
   "set": "S10a",
   "category": "booster_pack",
   "name": "Dark Phantasma Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653291
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9ae8cb83-0c9a-534b-97c1-a2f8d6869dbc",
       "name": "強化拡張パック「ダークファンタズマ」",
       "releaseDate": "2022-05-13",
       "identifiers": {

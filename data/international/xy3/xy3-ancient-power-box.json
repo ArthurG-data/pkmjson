@@ -1,15 +1,18 @@
 {
   "id": "xy3-ancient-power-box",
+  "uuid": "7ff3fc43-3bae-5c8d-b902-b50f0002e446",
   "region": "international",
   "set": "xy3",
   "category": "collection_box",
   "name": "Ancient Power Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8d04b221-3cde-5947-a28b-bbff1e76bfa2",
       "name": "Ancient Power Box",
       "identifiers": {
         "tcgplayerProductIds": [

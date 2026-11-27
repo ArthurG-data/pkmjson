@@ -1,9 +1,11 @@
 {
   "id": "swsh9-sleeved-booster-pack-case",
+  "uuid": "c89de4a8-f712-555a-b151-ff9694a3c4ee",
   "region": "international",
   "set": "swsh9",
   "category": "case",
   "name": "Brilliant Stars Sleeved Booster Pack Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674720
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "20af46f2-e406-59c9-b7aa-addaf33a60d8",
       "name": "Brilliant Stars Sleeved Booster Pack Case",
       "identifiers": {
         "tcgplayerProductIds": [

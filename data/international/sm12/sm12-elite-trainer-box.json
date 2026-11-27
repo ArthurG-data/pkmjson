@@ -1,9 +1,11 @@
 {
   "id": "sm12-elite-trainer-box",
+  "uuid": "4a9458a9-37d7-57ee-bd4c-ac4c496b3335",
   "region": "international",
   "set": "sm12",
   "category": "elite_trainer_box",
   "name": "Cosmic Eclipse Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 398434
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d98d964f-6ad9-5bad-ac8a-695ef556809b",
       "name": "Cosmic Eclipse Elite Trainer Box",
       "releaseDate": "2019-11-01",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bf14b976-0fea-574f-b1b0-8a26574701f4",
       "name": "Coffret Dresseur d'élite Soleil et Lune Éclipse Cosmique",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -79,6 +83,7 @@
     },
     {
       "language": "es",
+      "uuid": "15faa73e-233b-5772-b517-56e9a05c9fb5",
       "name": "Caja de Entrenador Élite de Sol y Luna-Eclipse Cósmico",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -87,6 +92,7 @@
     },
     {
       "language": "de",
+      "uuid": "8d62dfa3-4cb0-5dc3-a5de-d131e5bc62e2",
       "name": "Top-Trainer-Box Sonne & Mond – Welten im Wandel",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -95,6 +101,7 @@
     },
     {
       "language": "it",
+      "uuid": "67b00f32-e80b-5d25-9568-91bc427b120a",
       "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Eclissi Cosmica",
       "releaseDate": "2019-11-01",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "mep-melmetal-ex-box",
+  "uuid": "0ce5701d-37ac-5f7f-b97d-7897e5553e54",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Melmetal ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9b5e14d-1bc0-56c0-9143-a1036b90b7e1",
       "name": "Melmetal ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

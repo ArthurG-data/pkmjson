@@ -1,9 +1,11 @@
 {
   "id": "sm10-battle-minds-theme-deck-mewtwo",
+  "uuid": "9814f913-bc6d-595d-a6b5-7ed26267d76a",
   "region": "international",
   "set": "sm10",
   "category": "theme_deck",
   "name": "Unbroken Bonds Battle Minds Theme Deck - [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8ab28ade-ffd4-51ed-af0d-b8bacf29b615",
       "name": "Unbroken Bonds Battle Minds Theme Deck - [Mewtwo]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "dp5-theme-deck-polar-frost",
+  "uuid": "18344672-a9ac-55ff-a90c-4015db724ad6",
   "region": "international",
   "set": "dp5",
   "category": "theme_deck",
   "name": "Majestic Dawn Theme Deck - \"Polar Frost\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286589
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5b4ac062-1111-5923-bd2e-ae4fef6eb0b4",
       "name": "Majestic Dawn Theme Deck - \"Polar Frost\"",
       "identifiers": {
         "tcgplayerProductIds": [

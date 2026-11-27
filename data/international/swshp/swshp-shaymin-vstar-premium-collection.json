@@ -1,9 +1,11 @@
 {
   "id": "swshp-shaymin-vstar-premium-collection",
+  "uuid": "326b3d5d-d972-5c1d-ac03-f4efb20644d0",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Shaymin VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d85d5f0-ab72-59e2-9468-bc92e8ba5665",
       "name": "Shaymin VSTAR Premium Collection",
       "releaseDate": "2022-11-01",
       "identifiers": {

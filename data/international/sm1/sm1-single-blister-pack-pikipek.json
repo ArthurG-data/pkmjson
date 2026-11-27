@@ -1,9 +1,11 @@
 {
   "id": "sm1-single-blister-pack-pikipek",
+  "uuid": "6b397662-561f-5032-a419-3ddaf33ddec2",
   "region": "international",
   "set": "sm1",
   "category": "blister",
   "name": "Sun & Moon Single Blister Pack [Pikipek]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586015
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6743f19e-8081-50a7-a4a7-f5c1f452970d",
       "name": "Sun & Moon Single Blister Pack [Pikipek]",
       "identifiers": {
         "tcgplayerProductIds": [

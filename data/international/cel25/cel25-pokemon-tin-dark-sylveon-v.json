@@ -1,9 +1,11 @@
 {
   "id": "cel25-pokemon-tin-dark-sylveon-v",
+  "uuid": "1f3f1d5e-d51b-5613-8113-5e7546a19ade",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Pokemon Celebrations Tin [Dark Sylveon V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 574579
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5c51b70b-f618-5042-8a9f-9540d3c3e798",
       "name": "Pokemon Celebrations Tin [Dark Sylveon V]",
       "identifiers": {
         "tcgplayerProductIds": [

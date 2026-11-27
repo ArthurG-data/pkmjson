@@ -1,15 +1,18 @@
 {
   "id": "xy10-three-pack-pin-blisters-zygarde",
+  "uuid": "06105c85-81fa-50a7-a9ee-475e2c070b8f",
   "region": "international",
   "set": "xy10",
   "category": "blister",
   "name": "Fates Collide Three Pack Pin Blisters [Zygarde]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3cb85517-e317-5f51-9e92-7c97a471bccc",
       "name": "Fates Collide Three Pack Pin Blisters [Zygarde]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh1-single-blister-pack-type-null-silvally",
+  "uuid": "b30e29b6-e5e1-54a3-b0d3-b749b8eb8e3e",
   "region": "international",
   "set": "swsh1",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Type:Null & Silvally]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c8aff87d-0b6d-5562-bf7e-a37dd03425dd",
       "name": "Sword & Shield Single Blister Pack [Type:Null & Silvally]",
       "identifiers": {
         "tcgplayerProductIds": [

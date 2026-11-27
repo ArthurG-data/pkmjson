@@ -1,9 +1,11 @@
 {
   "id": "m4-booster-box",
+  "uuid": "ced86490-1cb2-5711-8034-8da7663f3d10",
   "region": "asia",
   "set": "M4",
   "category": "booster_box",
   "name": "Ninja Spinner Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873182
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "fd3e37f5-a4eb-5b33-9baa-848373c12a65",
       "name": "Ninja Spinner Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

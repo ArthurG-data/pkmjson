@@ -1,15 +1,18 @@
 {
   "id": "swsh3-booster-pack-art-bundle-set-of-4",
+  "uuid": "5844cd40-14d4-55d4-b91f-67d138e74e79",
   "region": "international",
   "set": "swsh3",
   "category": "other",
   "name": "Darkness Ablaze Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "77bdbd03-04a3-5ac6-8a06-3cfcd556a645",
       "name": "Darkness Ablaze Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

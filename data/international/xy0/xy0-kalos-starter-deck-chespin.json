@@ -1,9 +1,11 @@
 {
   "id": "xy0-kalos-starter-deck-chespin",
+  "uuid": "49aee973-d97d-513f-adbc-c8e3ddb1d210",
   "region": "international",
   "set": "xy0",
   "category": "battle_deck",
   "name": "Kalos Starter Deck [Chespin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3e6523fc-de8a-5c90-970d-d01af0a26969",
       "name": "Kalos Starter Deck [Chespin]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-2-pack-blister-pack-meganium-typhlosion-feraligatr",
+  "uuid": "11d40c14-5b5b-5b1a-8fc7-59c82660bdf1",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "2-Pack Blister Pack [Meganium, Typhlosion & Feraligatr]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "89af48c8-9a46-5006-b706-1d9290003954",
       "name": "2-Pack Blister Pack [Meganium, Typhlosion & Feraligatr]",
       "identifiers": {
         "tcgplayerProductIds": [

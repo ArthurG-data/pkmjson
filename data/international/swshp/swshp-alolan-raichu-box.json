@@ -1,9 +1,11 @@
 {
   "id": "swshp-alolan-raichu-box",
+  "uuid": "26935e26-fd57-554d-9072-bb501d35e22b",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Alolan Raichu Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d42f5b0f-3ee2-5598-a80e-a84309534a35",
       "name": "Alolan Raichu Box",
       "identifiers": {
         "tcgplayerProductIds": [

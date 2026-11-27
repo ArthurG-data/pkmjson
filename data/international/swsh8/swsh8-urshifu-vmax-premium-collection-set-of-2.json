@@ -1,15 +1,18 @@
 {
   "id": "swsh8-urshifu-vmax-premium-collection-set-of-2",
+  "uuid": "2a50b554-28f3-52d9-ad6a-111eb795d511",
   "region": "international",
   "set": "swsh8",
   "category": "other",
   "name": "Urshifu VMAX Premium Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Single Strike Urshifu VMAX; 1 foil special Single Strike Energy card; 8 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9aad2dd9-18f9-5c82-987b-7667862bdc2b",
       "name": "Urshifu VMAX Premium Collection [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

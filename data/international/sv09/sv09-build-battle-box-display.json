@@ -1,9 +1,11 @@
 {
   "id": "sv09-build-battle-box-display",
+  "uuid": "062a0801-0b1b-541c-9321-3868bf5882ee",
   "region": "international",
   "set": "sv09",
   "category": "case",
   "name": "Journey Together Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805592
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d42ec414-475c-5a05-83d0-95c7a9b6f11c",
       "name": "Journey Together Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

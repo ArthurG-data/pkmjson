@@ -1,15 +1,18 @@
 {
   "id": "svp-play-pokemon-prize-pack-series-one",
+  "uuid": "0bcf87da-a88b-55f8-8426-8178053405bf",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Play! Pokemon Prize Pack Series One",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cdc5f972-7b87-5264-8b7c-4c4c41b97f8d",
       "name": "Play! Pokemon Prize Pack Series One",
       "identifiers": {
         "tcgplayerProductIds": [

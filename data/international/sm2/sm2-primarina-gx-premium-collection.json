@@ -1,15 +1,18 @@
 {
   "id": "sm2-primarina-gx-premium-collection",
+  "uuid": "62455f47-a4db-5763-921b-28643d4c35ac",
   "region": "international",
   "set": "sm2",
   "category": "premium_collection",
   "name": "Primarina GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b614f441-408a-5fc4-a6b9-9ab796e698df",
       "name": "Primarina GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cffa8cb4-c77d-5ac2-9544-3ed78b7432c1",
       "name": "Coffret Oratoria",
       "releaseDate": "2017-08-24",
       "sources": [

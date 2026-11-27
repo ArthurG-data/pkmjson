@@ -1,9 +1,11 @@
 {
   "id": "sm11-porygon-z-gx-box",
+  "uuid": "ccbd18c4-a255-59c0-a25b-9c054fc7f25f",
   "region": "international",
   "set": "sm11",
   "category": "collection_box",
   "name": "Porygon-Z GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0e2748d-b55a-56b6-ab23-aee7533e045a",
       "name": "Porygon-Z GX Box",
       "releaseDate": "2019-09-20",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6c6983cb-f726-589e-86a0-0ffbab0fa228",
       "name": "Coffret Porygon-Z",
       "releaseDate": "2019-08-20",
       "contents": {
@@ -88,6 +92,7 @@
     },
     {
       "language": "de",
+      "uuid": "9317cabb-487f-53a2-a9b8-ed3eddd20265",
       "name": "Kollektion Porygon-Z-GX",
       "releaseDate": "2019-09-20",
       "sources": [
@@ -96,6 +101,7 @@
     },
     {
       "language": "es",
+      "uuid": "03160c7b-2411-54b8-a26b-3bc4c5d1fddb",
       "name": "Colección Porygon-Z-GX",
       "releaseDate": "2019-09-20",
       "sources": [
@@ -104,6 +110,7 @@
     },
     {
       "language": "it",
+      "uuid": "0b554ac7-c472-5b90-b113-7106140597db",
       "name": "Collezione Porygon-Z-GX",
       "releaseDate": "2019-09-20",
       "sources": [

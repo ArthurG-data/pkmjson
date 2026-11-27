@@ -1,15 +1,18 @@
 {
   "id": "xy6-hoenn-power-tin-sceptile",
+  "uuid": "731cf31f-cdda-5284-90a1-f82be77bb4cb",
   "region": "international",
   "set": "xy6",
   "category": "tin",
   "name": "Hoenn Power Tin [Sceptile]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "023306c4-d15a-5642-8ae4-a56539ff9866",
       "name": "Hoenn Power Tin [Sceptile]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "25861ddb-1825-57b5-b08a-8b543aea8893",
       "name": "Boîte Puissance de Hoenn Jungko",
       "contents": {
         "sealed": [

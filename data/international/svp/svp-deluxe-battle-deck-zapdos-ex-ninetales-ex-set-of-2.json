@@ -1,15 +1,18 @@
 {
   "id": "svp-deluxe-battle-deck-zapdos-ex-ninetales-ex-set-of-2",
+  "uuid": "23e164c9-32f2-5431-af1a-fdf34e55b18f",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Deluxe Battle Deck: Zapdos ex/Ninetales ex [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "06f71962-48a1-501b-90b7-eeb4d25d32c2",
       "name": "Deluxe Battle Deck: Zapdos ex/Ninetales ex [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

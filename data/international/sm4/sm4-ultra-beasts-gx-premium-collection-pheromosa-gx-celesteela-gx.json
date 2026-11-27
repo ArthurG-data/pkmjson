@@ -1,9 +1,11 @@
 {
   "id": "sm4-ultra-beasts-gx-premium-collection-pheromosa-gx-celesteela-gx",
+  "uuid": "56fdef18-f026-515b-a08c-121aeea64b66",
   "region": "international",
   "set": "sm4",
   "category": "premium_collection",
   "name": "Ultra Beasts GX Premium Collection [Pheromosa GX & Celesteela GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "330c08b4-9d5d-544d-9865-10d7738910f2",
       "name": "Ultra Beasts GX Premium Collection [Pheromosa GX & Celesteela GX]",
       "releaseDate": "2017-11-03",
       "identifiers": {

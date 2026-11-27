@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mad-party-pin-collection-bunnelby",
+  "uuid": "60894f40-88bd-5867-a19d-9ac3568909d2",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Mad Party Pin Collection [Bunnelby]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "06179597-ba46-59f3-a9f3-647ea41c8577",
       "name": "Shining Fates Mad Party Pin Collection [Bunnelby]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "0b69b5eb-d82a-5135-b898-d33039a9d741",
       "name": "Collection Folle Aventure avec pin's Destinées Radieuses Sapereau",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "efd5cd16-f33e-5cd6-a3c8-93de315fa68e",
       "name": "Pokémon-Sammelkartenspiel-Pin-Kollektionen Verrückte Party der Erweiterung Glänzendes Schicksal",
       "releaseDate": "2021-02-19",
       "sources": [

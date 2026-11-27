@@ -1,9 +1,11 @@
 {
   "id": "swshp-meowth-vmax-special-collection-international-version",
+  "uuid": "8e45f67f-4a00-59a8-b757-da88842d8bee",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Meowth VMAX Special Collection (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dd688838-3daf-5886-9068-5c5de1deaf60",
       "name": "Meowth VMAX Special Collection (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

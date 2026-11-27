@@ -1,9 +1,11 @@
 {
   "id": "sv10.5w-elite-trainer-box",
+  "uuid": "4e659e9d-d807-5080-95ca-e924f5be23db",
   "region": "international",
   "set": "sv10.5w",
   "category": "elite_trainer_box",
   "name": "White Flare Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824089
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e415e9f3-a26e-57af-b369-ae084c70be80",
       "name": "White Flare Elite Trainer Box",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -67,6 +70,7 @@
     },
     {
       "language": "fr",
+      "uuid": "67f7fd73-a446-5388-8d40-75fa66c868b4",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Flamme Blanche",
       "releaseDate": "2025-07-18",
       "sources": [

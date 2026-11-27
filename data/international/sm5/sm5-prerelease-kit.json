@@ -1,9 +1,11 @@
 {
   "id": "sm5-prerelease-kit",
+  "uuid": "7ed9ae4a-8e15-5ef9-a9a8-1ec125a7c09b",
   "region": "international",
   "set": "sm5",
   "category": "other",
   "name": "Ultra Prism Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf697b89-4e3b-566f-af3a-25c4bc677cf0",
       "name": "Ultra Prism Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

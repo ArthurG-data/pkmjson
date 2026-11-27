@@ -1,15 +1,18 @@
 {
   "id": "mep-triple-whammy-tin-case",
+  "uuid": "2cbcc55b-04a8-5a41-9f78-dec7e3393c43",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Triple Whammy Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ecd74f74-b56c-59f0-ad7b-3e3cca6061e2",
       "name": "Triple Whammy Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

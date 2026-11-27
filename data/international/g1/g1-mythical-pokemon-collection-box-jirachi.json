@@ -1,15 +1,18 @@
 {
   "id": "g1-mythical-pokemon-collection-box-jirachi",
+  "uuid": "065db2f9-d4bb-5eed-850f-c7f4cde99a08",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Mythical Pokemon Collection Box [Jirachi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "03975afc-7148-5e40-8499-47b9f7cdb5bc",
       "name": "Mythical Pokemon Collection Box [Jirachi]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c720a7b0-8a24-5853-82d9-a548d42ff92b",
       "name": "Collection Pokémon fabuleux Jirachi",
       "releaseDate": "2016-05-28",
       "sources": [

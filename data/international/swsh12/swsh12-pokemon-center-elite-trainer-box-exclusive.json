@@ -1,9 +1,11 @@
 {
   "id": "swsh12-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "67334e62-e0ee-5f0a-871f-e794fd41fb1e",
   "region": "international",
   "set": "swsh12",
   "category": "elite_trainer_box",
   "name": "Silver Tempest Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672611
   },
@@ -66,6 +68,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ee3af605-55ee-5118-b37d-04a256478e3f",
       "name": "Silver Tempest Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2022-11-11",
       "identifiers": {

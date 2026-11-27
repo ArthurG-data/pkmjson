@@ -1,9 +1,11 @@
 {
   "id": "sv04-elite-trainer-box-iron-valiant",
+  "uuid": "29ad7938-f1da-5ebc-a97b-c7c6a06524db",
   "region": "international",
   "set": "sv04",
   "category": "elite_trainer_box",
   "name": "Paradox Rift Elite Trainer Box [Iron Valiant]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728730
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "54b30eb3-f070-5b46-979f-00021621bf96",
       "name": "Paradox Rift Elite Trainer Box [Iron Valiant]",
       "identifiers": {
         "tcgplayerProductIds": [

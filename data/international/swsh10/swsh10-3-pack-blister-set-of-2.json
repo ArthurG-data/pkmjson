@@ -1,15 +1,18 @@
 {
   "id": "swsh10-3-pack-blister-set-of-2",
+  "uuid": "c399bab0-9756-503a-a8e3-e212b6fa8ae5",
   "region": "international",
   "set": "swsh10",
   "category": "other",
   "name": "Astral Radiance 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Eevee or Sylveon; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "01ee89c1-0bb2-5417-8a00-ce3d9f92889e",
       "name": "Astral Radiance 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

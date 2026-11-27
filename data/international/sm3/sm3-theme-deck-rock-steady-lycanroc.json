@@ -1,9 +1,11 @@
 {
   "id": "sm3-theme-deck-rock-steady-lycanroc",
+  "uuid": "db65cd28-fe93-549c-acbf-6743094d1ec0",
   "region": "international",
   "set": "sm3",
   "category": "theme_deck",
   "name": "Burning Shadows Theme Deck - \"Rock Steady\" [Lycanroc]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 298773
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2e72ea33-6169-5283-8d27-b8f99de4a72f",
       "name": "Burning Shadows Theme Deck - \"Rock Steady\" [Lycanroc]",
       "identifiers": {
         "tcgplayerProductIds": [

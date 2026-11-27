@@ -1,9 +1,11 @@
 {
   "id": "swshp-legendary-birds-pin-3-pack-blister-moltres-pin",
+  "uuid": "06ade76a-ee68-5385-8386-714efe50d06a",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Legendary Birds Pin 3 Pack Blister [Moltres Pin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "81d5a60c-c09d-5b08-b46d-0b0e7ce316b9",
       "name": "Legendary Birds Pin 3 Pack Blister [Moltres Pin]",
       "identifiers": {
         "tcgplayerProductIds": [

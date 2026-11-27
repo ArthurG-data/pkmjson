@@ -1,9 +1,11 @@
 {
   "id": "swshp-hidden-potential-tin-rotom-v",
+  "uuid": "acce423c-25dd-5766-8f9a-875143e0a190",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Hidden Potential Tin [Rotom V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d9a6688f-a8fa-5742-b70d-7be9781f5959",
       "name": "Hidden Potential Tin [Rotom V]",
       "releaseDate": "2022-10-14",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "de",
+      "uuid": "a829a4db-e40c-5f37-b38d-6568632d224d",
       "name": "Tin-Box Verborgenes Potenzial",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-verborgenes-potenzial"
@@ -47,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "e7d92b54-a476-55dd-96c6-32bd369d1d21",
       "name": "Lata Potencial Oculto",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-potencial-oculto"
@@ -54,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "ac2612ad-2a76-561a-872e-40ed8a61c517",
       "name": "Scatole da collezione Potenziale Nascosto",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-potenziale-nascosto"

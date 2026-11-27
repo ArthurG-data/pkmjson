@@ -1,9 +1,11 @@
 {
   "id": "swsh6-elite-trainer-box-case",
+  "uuid": "7ce73f60-b268-5050-bcb5-18af601f2bc2",
   "region": "international",
   "set": "swsh6",
   "category": "case",
   "name": "Chilling Reign Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873115
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a9a7ac27-cadd-59d7-8c3c-1a86468e27ec",
       "name": "Chilling Reign Elite Trainer Box Case",
       "releaseDate": "2021-06-18",
       "identifiers": {

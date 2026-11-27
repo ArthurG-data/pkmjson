@@ -1,9 +1,11 @@
 {
   "id": "s8a-25th-anniversary-golden-box",
+  "uuid": "ce7f7b27-4566-5e2f-b1a8-5d3da78a89c2",
   "region": "asia",
   "set": "S8a",
   "category": "collection_box",
   "name": "25th Anniversary Golden Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "710de474-de90-51b5-b07b-03045e5adaff",
       "name": "25th Anniversary Golden Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10-premium-checklane-blister-melmetal",
+  "uuid": "e67853c9-ad1e-58e0-aab3-1d45e3782681",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance Premium Checklane Blister [Melmetal]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d623e808-93e6-52cd-b418-3b36908b6c14",
       "name": "Astral Radiance Premium Checklane Blister [Melmetal]",
       "identifiers": {
         "tcgplayerProductIds": [

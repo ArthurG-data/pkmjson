@@ -1,9 +1,11 @@
 {
   "id": "svp-2023-world-championship-deck-tord-reklev-psychic-elegance",
+  "uuid": "4532b9a5-117b-5305-9cc2-797646912ac8",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2023 World Championship Deck: Tord Reklev (Psychic Elegance)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8fefdee2-1446-590f-9491-083363ca61a5",
       "name": "2023 World Championship Deck: Tord Reklev (Psychic Elegance)",
       "identifiers": {
         "tcgplayerProductIds": [

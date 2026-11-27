@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-tech-sticker-collection-glaceon",
+  "uuid": "965d6e61-346a-5ef0-a70c-0e1597ae7f02",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Tech Sticker Collection [Glaceon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798927
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0bc6f558-add2-5df0-9527-f6c126d027fc",
       "name": "Prismatic Evolutions Tech Sticker Collection [Glaceon]",
       "releaseDate": "2025-01-17",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3e67f016-c218-541a-ab3b-77c82f708d15",
       "name": "Collection autocollant réajustable Écarlate et Violet Évolutions Prismatiques Givrali",
       "releaseDate": "2025-01-17",
       "sources": [

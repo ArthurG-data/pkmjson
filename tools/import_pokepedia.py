@@ -12,14 +12,28 @@ review/pokepedia.json.
 from __future__ import annotations
 
 import argparse
-import json
 import re
 import sys
 import urllib.parse
 from pathlib import Path
 
-from import_tcgplayer import NUMBER_WORDS, TCGDEX_API, Fetcher, fold
-from pkmjson import ROOT, load, official_set_names, validate
+import uuids
+from import_tcgplayer import NUMBER_WORDS
+from net import Fetcher
+from pkmjson import (
+    PACK_CATEGORIES,
+    REVIEW,
+    ROOT,
+    SETS,
+    TCGDEX_API,
+    fold,
+    is_plain_pack,
+    load,
+    official_set_names,
+    validate,
+    write_family,
+    write_json,
+)
 
 API = "https://www.pokepedia.fr/api.php"
 PAGE = "https://www.pokepedia.fr/"
@@ -163,15 +177,40 @@ class Catalog:
 
     def booster_family(self, set_id: str) -> str | None:
         packs = [f for f in self.families if f.data["set"] == set_id and f.data["category"] == "booster_pack"]
-        plain_packs = [f for f in packs if re.search(r"-booster(?:-pack)?$", f.data["id"])]
+        plain_packs = [f for f in packs if is_plain_pack(f.data)]
         chosen = plain_packs if len(plain_packs) == 1 else packs
         return chosen[0].data["id"] if len(chosen) == 1 else None
 
 
+def is_pack(product: str, catalog: Catalog) -> bool:
+    return product in catalog.by_id and catalog.by_id[product].data["category"] in PACK_CATEGORIES
+
+
 def pack_count(contents: dict, catalog: Catalog) -> int:
-    return sum(item["count"] for item in contents.get("sealed", [])
-               if catalog.by_id.get(item["product"]) and
-               catalog.by_id[item["product"]].data["category"] in ("booster_pack", "sleeved_booster_pack"))
+    return sum(item["count"] for item in contents.get("sealed", []) if is_pack(item["product"], catalog))
+
+
+def french_contents(family: dict, packs: list[dict], catalog: Catalog) -> dict:
+    """A French release's own contents: the family's, with the French packs in place of the family's packs."""
+    others = [i for i in family["contents"].get("sealed", []) if not is_pack(i["product"], catalog)]
+    return {**family["contents"], "sealed": packs + others}
+
+
+def refresh_french_contents(catalog: Catalog) -> list:
+    """A French release this tool gave its own contents follows the family's other contents when the family is
+    regenerated: only the packs are the French release's own. The families it changed."""
+    changed = []
+    for family in catalog.families:
+        for release in family.data["releases"]:
+            if release["language"] != LANGUAGE or "contents" not in release or \
+                    not any(s.startswith(PAGE) for s in release["sources"]):
+                continue
+            packs = [i for i in release["contents"].get("sealed", []) if is_pack(i["product"], catalog)]
+            fresh = french_contents(family.data, packs, catalog)
+            if fresh != release["contents"]:
+                release["contents"] = fresh
+                changed.append(family)
+    return changed
 
 
 # --- main ---------------------------------------------------------------------------------------------------------
@@ -181,18 +220,22 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--data", default=ROOT / "data", type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
+    parser.add_argument("--review", default=REVIEW, type=Path)
+    parser.add_argument("--sets", default=SETS, type=Path)
+    parser.add_argument("--refresh", action="store_true", help="fetch every page again")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
-    fetcher = Fetcher(args.cache, pause=0.5)
+    fetcher = Fetcher(args.cache, pause=0.5, refresh=args.refresh)
 
     french_sets = {s["id"]: s["name"] for s in fetcher.get(f"{TCGDEX_API}/fr/sets") or []}
     families = load(args.data)
     catalog = Catalog(families, french_sets)
-    printed = official_set_names()
+    printed = official_set_names(args.sets)
     titles = product_titles(fetcher)
     texts = wikitexts(fetcher, titles)
 
-    review, added, changed_paths = [], 0, set()
+    review, changed_paths = [], set()
+    added: list[int] = []   # id() of each release this run added
     for title in titles:
         text = texts.get(title, "")
         box = infobox(text)
@@ -205,7 +248,11 @@ def main(argv: list[str] | None = None) -> int:
         if family is None:
             review.append({"page": title, "nomen": english, "set": set_id, "reason": "no family", "score": score})
             continue
-        if any(r["language"] == LANGUAGE for r in family.data["releases"]):
+        page = PAGE + urllib.parse.quote(title.replace(" ", "_"))
+        if (french := next((r for r in family.data["releases"] if r["language"] == LANGUAGE), None)):
+            if page not in french["sources"]:
+                review.append({"page": title, "family": family.data["id"],
+                               "reason": "the family already has a French release from another page"})
             continue
         release = {"language": LANGUAGE, "name": box.get("nom") or title}
         if re.fullmatch(r"\d{4}-\d{2}-\d{2}", box.get("date-france", "")):
@@ -222,14 +269,12 @@ def main(argv: list[str] | None = None) -> int:
                 review.append({"page": title, "family": family.data["id"], "reason": "French packs differ",
                                "stated": stated, "ours": ours, "french": packs})
                 continue
-            others = [i for i in family.data["contents"].get("sealed", [])
-                      if catalog.by_id.get(i["product"]) and catalog.by_id[i["product"]].data["category"]
-                      not in ("booster_pack", "sleeved_booster_pack")]
-            release["contents"] = {**family.data["contents"], "sealed": sealed + others}
-        release["sources"] = [PAGE + urllib.parse.quote(title.replace(" ", "_"))]
+            release["contents"] = french_contents(family.data, sealed, catalog)
+        release["sources"] = [page]
         family.data["releases"].append(release)
         changed_paths.add(family.path)
-        added += 1
+        added.append(id(release))
+    changed_paths |= {f.path for f in refresh_french_contents(catalog)}
 
     # A French release holds French nested products: give each booster pack it needs a French release too.
     for family in catalog.families:
@@ -238,12 +283,12 @@ def main(argv: list[str] | None = None) -> int:
                 child = catalog.by_id.get(item["product"])
                 if child is None or any(r["language"] == LANGUAGE for r in child.data["releases"]):
                     continue
-                if child.data["category"] == "booster_pack" and child.data["set"] in french_sets:
-                    child.data["releases"].append({
-                        "language": LANGUAGE,
-                        "name": printed.get((REGION, child.data["set"], LANGUAGE))
-                        or f"Booster {french_sets[child.data['set']]}",
-                        "sources": [release["sources"][0]]})
+                # The pack is named as printed, from sets/sets.json; a name Poképédia's page does not state is not
+                # made up, and the box waits for it.
+                name = printed.get((REGION, child.data["set"], LANGUAGE))
+                if child.data["category"] == "booster_pack" and name:
+                    child.data["releases"].append({"language": LANGUAGE, "name": name,
+                                                   "sources": [release["sources"][0]]})
                     changed_paths.add(child.path)
     # A French release whose nested products still have no French release cannot stand.
     for family in catalog.families:
@@ -256,19 +301,20 @@ def main(argv: list[str] | None = None) -> int:
                 review.append({"page": release["sources"][0], "family": family.data["id"],
                                "reason": "a nested product has no French release"})
                 changed_paths.add(family.path)
-                added -= 1
+                if id(release) in added:
+                    added.remove(id(release))
                 continue
             kept.append(release)
         family.data["releases"] = kept
 
-    print(f"{len(titles)} Poképédia pages, {added} French releases added, {len(review)} to review")
+    print(f"{len(titles)} Poképédia pages, {len(added)} French releases added, {len(review)} to review")
     if args.dry_run:
         return 0
+    uuids.stamp(families)
     for family in catalog.families:
         if family.path in changed_paths:
-            family.path.write_text(json.dumps(family.data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    review_path = ROOT / "review" / "pokepedia.json"
-    review_path.write_text(json.dumps(review, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            write_family(family)
+    write_json(args.review / "pokepedia.json", review, indent=1)
     errors = validate(load(args.data), args.data)
     if errors:
         print("\n".join(errors[:50]), file=sys.stderr)

@@ -1,9 +1,11 @@
 {
   "id": "xy5-theme-deck-earth-s-pulse-groudon",
+  "uuid": "6e8c90f9-d216-5ca5-8641-4e69c829bc4c",
   "region": "international",
   "set": "xy5",
   "category": "theme_deck",
   "name": "Primal Clash Theme Deck - \"Earth's Pulse\" [Groudon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286626
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6b219948-b498-5874-ab38-0a827395b753",
       "name": "Primal Clash Theme Deck - \"Earth's Pulse\" [Groudon]",
       "identifiers": {
         "tcgplayerProductIds": [

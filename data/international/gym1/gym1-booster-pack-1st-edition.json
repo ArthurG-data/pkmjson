@@ -1,9 +1,11 @@
 {
   "id": "gym1-booster-pack-1st-edition",
+  "uuid": "f3705275-fa02-568d-868c-3ec878aad05e",
   "region": "international",
   "set": "gym1",
   "category": "booster_pack",
   "name": "Gym Heroes Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e3b36714-59d6-523b-8b01-99e144b9dee2",
       "name": "Gym Heroes Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

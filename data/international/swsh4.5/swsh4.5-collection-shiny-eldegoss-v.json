@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-collection-shiny-eldegoss-v",
+  "uuid": "1ef014ea-a8d0-5346-aa72-0d2676e1dbe7",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Collection [Shiny Eldegoss V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "36b6c7c8-5a51-52e0-8220-b5a108102c92",
       "name": "Shining Fates Collection [Shiny Eldegoss V]",
       "identifiers": {
         "tcgplayerProductIds": [

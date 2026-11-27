@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-collector-chest",
+  "uuid": "3004cc13-5210-5b00-80d6-9f71960b4466",
   "region": "international",
   "set": "sm3.5",
   "category": "other",
   "name": "Shining Legends Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 371782
   },
@@ -46,6 +48,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "25b29643-1a1e-5844-83db-0ba1835450d9",
       "name": "Shining Legends Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "62e167df-5a5b-5a8e-ad25-b6af03a9f65e",
       "name": "Coffre de collection Légendes Brillantes",
       "releaseDate": "2017-11-21",
       "sources": [
@@ -66,6 +70,7 @@
     },
     {
       "language": "it",
+      "uuid": "8df3fb15-b335-59ba-9dfa-fa242adcb40c",
       "name": "Bauletto da collezione Leggende Iridescenti",
       "releaseDate": "2017-11-17",
       "sources": [

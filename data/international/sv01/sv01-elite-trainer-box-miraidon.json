@@ -1,9 +1,11 @@
 {
   "id": "sv01-elite-trainer-box-miraidon",
+  "uuid": "34829471-4664-5ce8-a395-b7222cdc7778",
   "region": "international",
   "set": "sv01",
   "category": "elite_trainer_box",
   "name": "Scarlet & Violet Elite Trainer Box [Miraidon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692102
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c6ceb4ae-f5c3-56ba-b0b7-b6d57a5601b1",
       "name": "Scarlet & Violet Elite Trainer Box [Miraidon]",
       "identifiers": {
         "tcgplayerProductIds": [

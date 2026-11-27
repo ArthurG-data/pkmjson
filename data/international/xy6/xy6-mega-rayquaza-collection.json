@@ -1,9 +1,11 @@
 {
   "id": "xy6-mega-rayquaza-collection",
+  "uuid": "bfe3e96d-04d8-50dc-82b4-2319f6fb73fa",
   "region": "international",
   "set": "xy6",
   "category": "collection_box",
   "name": "Mega Rayquaza Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "12514d27-3fcf-5040-807e-11981b7ddd6f",
       "name": "Mega Rayquaza Collection",
       "identifiers": {
         "tcgplayerProductIds": [

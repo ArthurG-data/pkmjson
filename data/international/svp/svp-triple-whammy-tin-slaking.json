@@ -1,9 +1,11 @@
 {
   "id": "svp-triple-whammy-tin-slaking",
+  "uuid": "ae8fff73-f303-5fd0-9cff-ceb6588e5b5a",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Triple Whammy Tin [Slaking]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2b0b36a7-2732-5fa5-ad08-36757d1ba615",
       "name": "Triple Whammy Tin [Slaking]",
       "identifiers": {
         "tcgplayerProductIds": [

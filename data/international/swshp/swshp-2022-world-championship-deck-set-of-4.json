@@ -1,15 +1,18 @@
 {
   "id": "swshp-2022-world-championship-deck-set-of-4",
+  "uuid": "1d079b63-54b2-5f8d-ad51-862906209771",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "2022 World Championship Deck [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 60-card World Championships Deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ecb749ff-8c33-5799-a735-bb81a5ee739b",
       "name": "2022 World Championship Deck [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-decidueye-ex-box",
+  "uuid": "537d12cb-4a12-59d1-8803-9866ea42ff14",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Decidueye ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f91dccbd-4eaa-5f59-b539-82a123525f3c",
       "name": "Decidueye ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

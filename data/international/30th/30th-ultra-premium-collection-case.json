@@ -1,15 +1,18 @@
 {
   "id": "30th-ultra-premium-collection-case",
+  "uuid": "b67d29bb-cf1a-51fc-8674-48942121a38b",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Ultra-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2f1eff90-bec1-5f29-b851-6b53de882ee6",
       "name": "30th Celebration Ultra-Premium Collection Case",
       "releaseDate": "2026-11-06",
       "identifiers": {

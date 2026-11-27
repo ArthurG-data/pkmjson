@@ -1,15 +1,18 @@
 {
   "id": "sm2-umbreon-gx-premium-collection",
+  "uuid": "2264b209-764c-5391-8127-180ffa623b64",
   "region": "international",
   "set": "sm2",
   "category": "premium_collection",
   "name": "Umbreon GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: an oversized card of Umbreon GX; an alternate art Promo of Umbreon GX, collector's pin and coin; 6 booster packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "aa703d29-4f03-53da-b3b2-984f901fcc50",
       "name": "Umbreon GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4d1f1d91-de74-5311-92ab-bd6d0e27fadc",
       "name": "Collection Premium Noctali",
       "releaseDate": "2017-09-05",
       "contents": {

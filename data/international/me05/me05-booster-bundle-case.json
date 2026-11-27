@@ -1,15 +1,18 @@
 {
   "id": "me05-booster-bundle-case",
+  "uuid": "240e5599-1181-51ff-9e17-e887cc83ecf7",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4114403c-1e7e-5ecf-ab2e-1a7adededbb6",
       "name": "Pitch Black Booster Bundle Case",
       "releaseDate": "2026-07-17",
       "identifiers": {

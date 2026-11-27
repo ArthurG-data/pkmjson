@@ -1,9 +1,11 @@
 {
   "id": "svp-enhanced-2-pack-blister-pack-latios-zekrom-palkia",
+  "uuid": "41da5855-fe1e-5ae8-967f-e1211d90c896",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Enhanced 2-Pack Blister Pack [Latios, Zekrom & Palkia]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a2a1709c-452d-5d9e-9c99-731de73e8ee8",
       "name": "Enhanced 2-Pack Blister Pack [Latios, Zekrom & Palkia]",
       "identifiers": {
         "tcgplayerProductIds": [

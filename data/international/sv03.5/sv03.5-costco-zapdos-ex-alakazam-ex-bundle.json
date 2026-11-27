@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-costco-zapdos-ex-alakazam-ex-bundle",
+  "uuid": "b625ab11-c011-5825-8ff8-3c0c77dde17a",
   "region": "international",
   "set": "sv03.5",
   "category": "other",
   "name": "Costco Scarlet & Violet 151 Zapdos ex & Alakazam ex Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: (1) Foil promo card featuring Zapdos ex; (1) Foil card featuring Electabuzz; (1) Foil promo card featuring Alakazam ex; (1) Foil card featuring Kadabra; (1) Foil card featuring Abra; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6d79fad9-6fe7-52d1-a62d-ba3313c300ed",
       "name": "Costco Scarlet & Violet 151 Zapdos ex & Alakazam ex Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-legends-tin-miraidon-ex-international-version",
+  "uuid": "9cf36b04-3ee1-50cb-aaa6-1f0c0930220a",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Legends Tin [Miraidon ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "60f4edfb-7714-53d1-8017-328d61beb72a",
       "name": "Paldea Legends Tin [Miraidon ex] (International Version)",
       "releaseDate": "2023-06-09",
       "identifiers": {

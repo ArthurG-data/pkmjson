@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-power-mini-tin-galarian-sirfetch-d",
+  "uuid": "f5da9b94-229a-529b-893a-86bdf9e47c01",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Power Mini Tin [Galarian Sirfetch'd]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "39f983ec-ff3c-5f03-a534-1d65c0ae6426",
       "name": "Galar Power Mini Tin [Galarian Sirfetch'd]",
       "releaseDate": "2020-10-02",
       "identifiers": {

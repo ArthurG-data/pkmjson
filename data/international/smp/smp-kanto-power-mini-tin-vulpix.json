@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-power-mini-tin-vulpix",
+  "uuid": "b6b8882d-182e-59f5-9f1c-665b917210f1",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Power Mini Tin [Vulpix]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "98a37c82-213d-5205-b80d-c90d330689fb",
       "name": "Kanto Power Mini Tin [Vulpix]",
       "identifiers": {
         "tcgplayerProductIds": [

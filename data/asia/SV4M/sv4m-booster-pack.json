@@ -1,9 +1,11 @@
 {
   "id": "sv4m-booster-pack",
+  "uuid": "2775c5c8-d209-5f9d-9e86-e2668525134e",
   "region": "asia",
   "set": "SV4M",
   "category": "booster_pack",
   "name": "Future Flash Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 732594
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2a0876f7-3917-547f-a0cc-564cd9939ef0",
       "name": "拡張パック「未来の一閃」",
       "releaseDate": "2023-10-27",
       "identifiers": {

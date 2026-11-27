@@ -1,15 +1,18 @@
 {
   "id": "swshp-divergent-powers-tin-set-of-3-international-edition",
+  "uuid": "e58c331d-d557-5241-bb7e-ff23509521a0",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Divergent Powers Tin [Set of 3] (International Edition)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card; 5 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7c30957b-46c2-5a8a-826e-444fe6bb642f",
       "name": "Divergent Powers Tin [Set of 3] (International Edition)",
       "identifiers": {
         "tcgplayerProductIds": [

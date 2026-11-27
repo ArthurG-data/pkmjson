@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-victini-illustration-collection",
+  "uuid": "e99b5be6-d52a-59d2-ab2a-a35d7ff6593a",
   "region": "international",
   "set": "sv10.5b",
   "category": "collection_box",
   "name": "Unova Victini Illustration Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -22,15 +24,7 @@
         "tcgdexVariantId": "jr7oetx1mqug9",
         "tcgplayerProductId": 646169,
         "cardmarketProductId": 836653,
-        "count": 1,
-        "role": "promo"
-      },
-      {
-        "tcgdexCardId": "svp-208",
-        "tcgdexVariantId": "jr7oetx1mqug9",
-        "tcgplayerProductId": 646169,
-        "cardmarketProductId": 836653,
-        "count": 1,
+        "count": 2,
         "role": "promo"
       }
     ]
@@ -39,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1326b9a0-6331-57e5-8e57-56ca51b8670e",
       "name": "Unova Victini Illustration Collection",
       "releaseDate": "2025-08-01",
       "identifiers": {
@@ -52,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "12a953d3-4ad3-5d2c-8b60-9a23cd6abc3b",
       "name": "Collection Illustration Unys Victini",
       "releaseDate": "2025-08-01",
       "sources": [
@@ -60,6 +56,7 @@
     },
     {
       "language": "es",
+      "uuid": "2281ec07-bd82-5f6c-99ad-c1bf2caee242",
       "name": "Colección Ilustración Teselia Victini",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ilustracion-teselia-victini"
@@ -67,6 +64,7 @@
     },
     {
       "language": "it",
+      "uuid": "b83e2c47-5ebf-51a7-bd04-27adb9d3729b",
       "name": "Collezione illustrazione Victini - Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-illustrazione-victini-unima"
@@ -74,6 +72,7 @@
     },
     {
       "language": "de",
+      "uuid": "658c3bef-0bb3-5acf-89e6-b4f0367df7ec",
       "name": "Illustrations-Kollektion Einall: Victini",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/illustrations-kollektion-einall-victini"

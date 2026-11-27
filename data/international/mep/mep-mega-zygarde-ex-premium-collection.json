@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-zygarde-ex-premium-collection",
+  "uuid": "c62dc9e6-e5d6-5686-b23f-3dcffac0ce1a",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Mega Zygarde ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "664b19b8-9543-5f4c-aed9-a0e05df45816",
       "name": "Mega Zygarde ex Premium Collection",
       "releaseDate": "2026-05-22",
       "identifiers": {

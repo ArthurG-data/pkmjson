@@ -1,15 +1,18 @@
 {
   "id": "swsh7-v-union-special-collection-set-of-3",
+  "uuid": "b5839da9-08ad-5f6c-8070-23ad56c36086",
   "region": "international",
   "set": "swsh7",
   "category": "other",
   "name": "V-UNION Special Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 4 promo cards that make up a single Pokémon V-UNION for Mewtwo/Greninja/Zacian V-UNION; 1 helpful Supporter card featuring Professor Burnet; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "32fd1746-8e30-5079-9794-7372d8d73bc4",
       "name": "V-UNION Special Collection [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

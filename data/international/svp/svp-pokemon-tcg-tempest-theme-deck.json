@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-tcg-tempest-theme-deck",
+  "uuid": "5e40369e-b8b8-50b1-9c8d-3403bc12fbd1",
   "region": "international",
   "set": "svp",
   "category": "theme_deck",
   "name": "Pokemon TCG: Tempest Theme Deck",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9a1ec596-9b3a-511d-b538-0d753fc3d776",
       "name": "Pokemon TCG: Tempest Theme Deck",
       "identifiers": {
         "tcgplayerProductIds": [

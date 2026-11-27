@@ -1,15 +1,18 @@
 {
   "id": "xy11-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "5e765267-75c0-549a-a201-ec2e3a83f739",
   "region": "international",
   "set": "xy11",
   "category": "other",
   "name": "Steam Siege Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9765e2ce-7cc5-5504-84f9-0b3c8df676e1",
       "name": "Steam Siege Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

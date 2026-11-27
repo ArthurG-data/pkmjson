@@ -1,15 +1,18 @@
 {
   "id": "swsh12-booster-bundle-case",
+  "uuid": "e23dcf82-5fa7-5b88-bb7f-bb8095914960",
   "region": "international",
   "set": "swsh12",
   "category": "case",
   "name": "Silver Tempest Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "deaa7ef8-38be-5cd1-bb50-9bb13180c78e",
       "name": "Silver Tempest Booster Bundle Case",
       "identifiers": {
         "tcgplayerProductIds": [

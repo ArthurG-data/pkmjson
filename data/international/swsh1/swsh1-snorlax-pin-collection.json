@@ -1,15 +1,18 @@
 {
   "id": "swsh1-snorlax-pin-collection",
+  "uuid": "ba61d2ff-843e-5dc7-bf8c-eefa249e23d8",
   "region": "international",
   "set": "swsh1",
   "category": "collection_box",
   "name": "Snorlax Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "50819b92-7323-5942-a563-e671ea76062b",
       "name": "Snorlax Pin Collection",
       "releaseDate": "2020-04-03",
       "identifiers": {
@@ -23,6 +26,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5cd07730-5113-54cc-9d59-ac170e38c802",
       "name": "Collection avec pin's Ronflex",
       "releaseDate": "2020-06-17",
       "contents": {

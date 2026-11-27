@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-tin-team-rocket-s-nidoking-ex",
+  "uuid": "05c9a21a-18a1-5ed9-b700-7d073e128546",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Team Rocket Tin [Team Rocket's Nidoking ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ecb16a59-8aec-5786-9158-4be8d9104e5a",
       "name": "Team Rocket Tin [Team Rocket's Nidoking ex]",
       "releaseDate": "2025-09-05",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "xy8-3-pack-blister-sableye",
+  "uuid": "15f292d8-ebaf-563c-a2d9-e66e35ca61c6",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough 3 Pack Blister [Sableye]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586369
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "62f89533-7849-5d97-99cf-a0d02e4be276",
       "name": "BREAKthrough 3 Pack Blister [Sableye]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1e237883-d462-5e7f-a78d-2da5f13a1be6",
       "name": "Tripack XY08 Ténéfix",
       "releaseDate": "2015-11-07",
       "contents": {

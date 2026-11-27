@@ -1,9 +1,11 @@
 {
   "id": "s12-booster-pack",
+  "uuid": "85e611c2-9415-5efd-8ae1-a389af69e51d",
   "region": "asia",
   "set": "S12",
   "category": "booster_pack",
   "name": "Paradigm Trigger Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 675866
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3ac01db6-ea14-526e-a1f9-62b4671fb667",
       "name": "拡張パック「パラダイムトリガー」",
       "releaseDate": "2022-10-21",
       "identifiers": {

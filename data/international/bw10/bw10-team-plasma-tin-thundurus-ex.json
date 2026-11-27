@@ -1,15 +1,18 @@
 {
   "id": "bw10-team-plasma-tin-thundurus-ex",
+  "uuid": "8d3c32a4-06b5-5dc8-b1c9-2b5f02df4177",
   "region": "international",
   "set": "bw10",
   "category": "tin",
   "name": "Team Plasma Tin [Thundurus EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0272f6c9-e59b-5160-a247-b0029050c634",
       "name": "Team Plasma Tin [Thundurus EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fa04e493-e411-517e-93ec-7599fd6393ca",
       "name": "Boîte Team Plasma Fulguris",
       "releaseDate": "2013-09-11",
       "contents": {

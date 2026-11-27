@@ -1,9 +1,11 @@
 {
   "id": "mep-lumiose-city-mini-tin-salamence-litleo",
+  "uuid": "3dc0e6db-0015-5b2b-80fc-a19e72aede02",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Lumiose City Mini Tin [Salamence & Litleo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4347424e-b906-5790-85bb-b750f108b6f8",
       "name": "Lumiose City Mini Tin [Salamence & Litleo]",
       "releaseDate": "2026-06-05",
       "identifiers": {

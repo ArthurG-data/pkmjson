@@ -1,15 +1,18 @@
 {
   "id": "me03-booster-pack-art-bundle-set-of-4",
+  "uuid": "effef081-bf1d-5433-8be4-2259c99c6da1",
   "region": "international",
   "set": "me03",
   "category": "other",
   "name": "Perfect Order Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "aa737a2b-3880-5db9-b356-cc1f980b71b7",
       "name": "Perfect Order Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2026-03-27",
       "identifiers": {

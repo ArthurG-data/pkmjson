@@ -1,9 +1,11 @@
 {
   "id": "sv-p-ex-starter-set-steven-s-beldum-metagross-ex",
+  "uuid": "6eac85ee-fdbb-58b4-a732-81831efcec28",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "ex Starter Set Steven's Beldum & Metagross ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "846b9c8f-dbf9-5f64-9d42-6b46509a80da",
       "name": "スターターセットex ダイゴのダンバル＆メタグロスex",
       "releaseDate": "2025-02-21",
       "identifiers": {

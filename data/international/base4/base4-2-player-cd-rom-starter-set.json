@@ -1,9 +1,11 @@
 {
   "id": "base4-2-player-cd-rom-starter-set",
+  "uuid": "2c3e9349-76c2-5c99-aa12-4fbe00dd148c",
   "region": "international",
   "set": "base4",
   "category": "battle_deck",
   "name": "Base Set 2 - 2-Player CD-ROM Starter Set",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286497
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fca5cb3a-4b7b-51ac-ae76-10ee61fa6a31",
       "name": "Base Set 2 - 2-Player CD-ROM Starter Set",
       "identifiers": {
         "tcgplayerProductIds": [

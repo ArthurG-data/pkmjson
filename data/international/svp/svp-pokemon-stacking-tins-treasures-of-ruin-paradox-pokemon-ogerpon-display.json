@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-stacking-tins-treasures-of-ruin-paradox-pokemon-ogerpon-display",
+  "uuid": "99fb8391-7577-5bd9-b9d4-7572c1092b6a",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Pokemon Stacking Tins: Treasures of Ruin, Paradox Pokemon, Ogerpon Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "69953fed-37a7-58c3-96d6-0ebb84b343e7",
       "name": "Pokemon Stacking Tins: Treasures of Ruin, Paradox Pokemon, Ogerpon Display",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "smp-premium-trainer-s-xy-collection",
+  "uuid": "7f44fb8c-8a56-56de-a08f-6c624cdb23ac",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Premium Trainer's XY Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a6e0c93d-3302-5cb3-b12a-7f5faa34a565",
       "name": "Premium Trainer's XY Collection",
       "identifiers": {
         "tcgplayerProductIds": [

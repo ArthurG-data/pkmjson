@@ -1,15 +1,18 @@
 {
   "id": "swsh1-galar-partners-tin-set-of-3",
+  "uuid": "179def2c-affa-516d-9d1e-76787c6b6f9d",
   "region": "international",
   "set": "swsh1",
   "category": "other",
   "name": "Galar Partners Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 3 foil Pokemon V cards: Rillaboom V, Cinderace V, or Inteleon V; 5 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7d8bcc8e-0a80-5ba4-adaf-ed73f29136d4",
       "name": "Galar Partners Tin [Set of 3]",
       "releaseDate": "2020-02-27",
       "identifiers": {

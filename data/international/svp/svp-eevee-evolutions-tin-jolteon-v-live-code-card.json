@@ -1,15 +1,18 @@
 {
   "id": "svp-eevee-evolutions-tin-jolteon-v-live-code-card",
+  "uuid": "986cbe8d-33cd-5941-97f5-a58005f994d4",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Eevee Evolutions Tin [Jolteon V] (Live Code Card)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Flareon V; 4 Pokémon TCG booster packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1ad146e7-dfa9-517a-9039-e91b16386565",
       "name": "Eevee Evolutions Tin [Jolteon V] (Live Code Card)",
       "identifiers": {
         "tcgplayerProductIds": [

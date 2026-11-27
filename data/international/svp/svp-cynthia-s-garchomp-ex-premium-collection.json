@@ -1,9 +1,11 @@
 {
   "id": "svp-cynthia-s-garchomp-ex-premium-collection",
+  "uuid": "ee38fe8a-64ed-5b7d-bc56-9aed07a1957b",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Cynthia's Garchomp ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67bf24a5-eb8b-57bb-b3ed-e98d203b119c",
       "name": "Cynthia's Garchomp ex Premium Collection",
       "releaseDate": "2025-06-13",
       "identifiers": {
@@ -48,6 +51,7 @@
     },
     {
       "language": "it",
+      "uuid": "3186daf4-8c13-5ebc-9086-92ccfc480c1a",
       "name": "Collezione premium Garchomp‑ex di Camilla",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-garchomp-ex-di-camilla"
@@ -55,6 +59,7 @@
     },
     {
       "language": "de",
+      "uuid": "22d008f5-d7b8-5f19-ba95-3918b40e700a",
       "name": "Premium-Kollektion Cynthias Knakrack‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-cynthias-knakrack-ex"
@@ -62,6 +67,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8f6d2aea-a217-5e7c-af2e-f6672caaf48b",
       "name": "Collection Premium Carchacrok‑ex de Cynthia",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-carchacrok-ex-de-cynthia"
@@ -69,6 +75,7 @@
     },
     {
       "language": "es",
+      "uuid": "67f58b07-1db7-5b98-875b-082bbaceddde",
       "name": "Colección prémium Garchomp ex de Cintia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-garchomp-ex-de-cintia"

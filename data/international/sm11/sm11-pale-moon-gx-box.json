@@ -1,9 +1,11 @@
 {
   "id": "sm11-pale-moon-gx-box",
+  "uuid": "2f98a127-e549-5d95-a238-d5af3683fe0e",
   "region": "international",
   "set": "sm11",
   "category": "collection_box",
   "name": "Pale Moon GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0aa4be5d-3a6a-5b95-8caf-4c628f311ecd",
       "name": "Pale Moon GX Box",
       "releaseDate": "2019-10-18",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "0a5214ac-ee48-551e-9da6-0d2c7fc18462",
       "name": "Kollektion Fahler Mond-GX",
       "releaseDate": "2019-10-18",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "es",
+      "uuid": "9bf3d07c-87cc-5c2d-a7c3-9d4c8bcbed85",
       "name": "Colección Luna Pálida-GX",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "fr",
+      "uuid": "acacd684-4b5f-5b82-a232-87d89aaeba56",
       "name": "Coffret Lune Pâle-GX",
       "releaseDate": "2019-10-18",
       "sources": [
@@ -68,6 +74,7 @@
     },
     {
       "language": "it",
+      "uuid": "4d9bc760-657d-5752-ae5f-247a2ae53aba",
       "name": "Collezione Luna Pallida-GX",
       "releaseDate": "2019-10-18",
       "sources": [

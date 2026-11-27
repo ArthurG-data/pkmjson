@@ -1,9 +1,11 @@
 {
   "id": "swsh6-3-pack-blister-snorlax",
+  "uuid": "3541b7c1-2929-595f-8191-d887dcb85ad4",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign 3 Pack Blister [Snorlax]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585724
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bded38c2-277e-5801-b18f-7f4ce0291f3d",
       "name": "Chilling Reign 3 Pack Blister [Snorlax]",
       "releaseDate": "2021-06-18",
       "identifiers": {

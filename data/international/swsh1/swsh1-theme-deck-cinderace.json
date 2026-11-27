@@ -1,9 +1,11 @@
 {
   "id": "swsh1-theme-deck-cinderace",
+  "uuid": "e36e0e37-3904-5036-b511-109005427198",
   "region": "international",
   "set": "swsh1",
   "category": "theme_deck",
   "name": "Sword & Shield Theme Deck [Cinderace]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 427126
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c4f378c8-ecd1-597f-a5c1-f7e090dbd564",
       "name": "Sword & Shield Theme Deck [Cinderace]",
       "identifiers": {
         "tcgplayerProductIds": [

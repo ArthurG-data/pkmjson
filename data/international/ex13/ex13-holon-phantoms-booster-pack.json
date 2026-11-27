@@ -1,9 +1,11 @@
 {
   "id": "ex13-holon-phantoms-booster-pack",
+  "uuid": "8986a038-2e2b-583e-a886-2f1c99213e78",
   "region": "international",
   "set": "ex13",
   "category": "booster_pack",
   "name": "Holon Phantoms Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271846
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "76f168f9-14bb-588e-97a6-5e7bbd6a6af4",
       "name": "EX Holon Phantoms",
       "identifiers": {
         "tcgplayerProductIds": [

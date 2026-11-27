@@ -1,15 +1,18 @@
 {
   "id": "swsh1-build-battle-display",
+  "uuid": "f1ca19c5-0a23-5153-ae9f-4a58ebc39959",
   "region": "international",
   "set": "swsh1",
   "category": "case",
   "name": "Sword & Shield Build & Battle Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b0002df6-ef7c-5e4a-919d-4c02d66e2dfc",
       "name": "Sword & Shield Build & Battle Display",
       "identifiers": {
         "tcgplayerProductIds": [

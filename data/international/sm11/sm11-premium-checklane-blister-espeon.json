@@ -1,9 +1,11 @@
 {
   "id": "sm11-premium-checklane-blister-espeon",
+  "uuid": "95360aea-818f-5df9-9ab4-b9044be3367f",
   "region": "international",
   "set": "sm11",
   "category": "blister",
   "name": "Unified Minds Premium Checklane Blister [Espeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae1607c9-f2db-51c0-b643-76a0b755321a",
       "name": "Unified Minds Premium Checklane Blister [Espeon]",
       "identifiers": {
         "tcgplayerProductIds": [

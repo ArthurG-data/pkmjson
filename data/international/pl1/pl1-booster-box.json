@@ -1,9 +1,11 @@
 {
   "id": "pl1-booster-box",
+  "uuid": "641f38c6-9ff9-5567-b22c-f7d5c6227c50",
   "region": "international",
   "set": "pl1",
   "category": "booster_box",
   "name": "Platinum Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271936
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "030395ba-996a-5ac1-8708-4db554eeaaad",
       "name": "Platinum Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

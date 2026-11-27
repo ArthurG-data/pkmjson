@@ -1,15 +1,18 @@
 {
   "id": "xy3-ex-power-trio-tin-charizard-ex",
+  "uuid": "adbfea88-d180-543c-94a7-9339882c6ce4",
   "region": "international",
   "set": "xy3",
   "category": "tin",
   "name": "EX Power Trio Tin [Charizard EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ca3f2d45-45ab-5606-8162-4ceb3a26e125",
       "name": "EX Power Trio Tin [Charizard EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bb947adb-79fd-500d-bc45-1b864fef33dd",
       "name": "Boîte Trio Puissance EX Dracaufeu",
       "contents": {
         "sealed": [

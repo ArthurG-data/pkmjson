@@ -1,9 +1,11 @@
 {
   "id": "swsh1-spring-2020-collector-s-chest-tin",
+  "uuid": "69c15b34-9998-586d-ace3-34e297da4dfe",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Spring 2020 Collector's Chest Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f179688-bee6-5f6a-9c2e-7f5599900694",
       "name": "Spring 2020 Collector's Chest Tin",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -37,6 +40,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5fdc12f6-b4e0-56b6-8637-7154cf88369d",
       "name": "Coffre de collection (Printemps 2020)",
       "releaseDate": "2020-08-14",
       "contents": {
@@ -79,6 +83,7 @@
     },
     {
       "language": "de",
+      "uuid": "75039b04-4d7a-51cb-9f07-cae7c485351e",
       "name": "Sammelkoffer (Frühling 2020)",
       "releaseDate": "2020-04-03",
       "sources": [

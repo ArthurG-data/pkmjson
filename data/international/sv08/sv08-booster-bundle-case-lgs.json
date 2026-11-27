@@ -1,15 +1,18 @@
 {
   "id": "sv08-booster-bundle-case-lgs",
+  "uuid": "8e59b1a4-12e3-52c7-b9fe-1b7a48b9cd9b",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Booster Bundle Case (LGS)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "530293cb-6e4c-5f32-a4ee-b9b709055ed0",
       "name": "Surging Sparks Booster Bundle Case (LGS)",
       "identifiers": {
         "tcgplayerProductIds": [

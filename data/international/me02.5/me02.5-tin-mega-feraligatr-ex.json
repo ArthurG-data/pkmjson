@@ -1,9 +1,11 @@
 {
   "id": "me02.5-tin-mega-feraligatr-ex",
+  "uuid": "34d49177-39de-593a-a585-2a210896e319",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Tin [Mega Feraligatr ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f083f5e9-ca98-568a-83e1-9caf22b40b65",
       "name": "Ascended Heroes Tin [Mega Feraligatr ex]",
       "releaseDate": "2026-08-28",
       "identifiers": {

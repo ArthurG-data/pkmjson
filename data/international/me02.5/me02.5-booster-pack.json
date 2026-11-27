@@ -1,9 +1,11 @@
 {
   "id": "me02.5-booster-pack",
+  "uuid": "c9f8bc72-ca7a-5c98-8f15-5dcdc5e6d1f9",
   "region": "international",
   "set": "me02.5",
   "category": "booster_pack",
   "name": "Ascended Heroes Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860562
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "396dd2cb-86e1-56b6-8c81-3d67c6692639",
       "name": "Mega Evolution—Ascended Heroes",
       "releaseDate": "2026-01-30",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c1fe7f86-0587-5b59-a6e2-eff8db634f80",
       "name": "Méga-Évolution – Héros Transcendants",
       "sources": [
         "https://www.pokepedia.fr/Coffret_M%C3%A9ga-%C3%89volution_H%C3%A9ros_Transcendants_M%C3%A9ga-Roitiflam-ex",

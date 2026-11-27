@@ -1,9 +1,11 @@
 {
   "id": "m-p-starter-set-mega-mega-gengar-ex",
+  "uuid": "188ce738-2131-5588-b283-e9e0c9c8ea2a",
   "region": "asia",
   "set": "M-P",
   "category": "battle_deck",
   "name": "Starter Set MEGA Mega Gengar ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "979b975b-5dbc-500c-a512-049911dd103e",
       "name": "スターターセットMEGA メガゲンガーex",
       "releaseDate": "2025-09-05",
       "identifiers": {

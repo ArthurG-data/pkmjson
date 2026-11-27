@@ -1,9 +1,11 @@
 {
   "id": "sv10-build-battle-box",
+  "uuid": "2a7b4cd6-94e4-513e-a38c-f140d2a56074",
   "region": "international",
   "set": "sv10",
   "category": "build_and_battle_box",
   "name": "Destined Rivals Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818583
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b88975bb-b9bb-5c06-b065-d858a77da54f",
       "name": "Destined Rivals Build & Battle Box",
       "releaseDate": "2025-06-13",
       "identifiers": {
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8b777e78-a084-5303-a2bd-5ac30067d29e",
       "name": "Boîtier Stratégies et Combats Écarlate et Violet Rivalités Destinées",
       "releaseDate": "2025-05-17",
       "sources": [

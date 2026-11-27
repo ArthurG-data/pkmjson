@@ -1,15 +1,18 @@
 {
   "id": "mep-pikachu-zekrom-gx-premium-collection-case",
+  "uuid": "fee03a2b-83ca-5566-a484-032ae75938da",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Pikachu & Zekrom GX Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2fd97224-0549-5e80-bc79-4b798e5a3de2",
       "name": "Pikachu & Zekrom GX Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

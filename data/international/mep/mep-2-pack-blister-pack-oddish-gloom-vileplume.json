@@ -1,15 +1,18 @@
 {
   "id": "mep-2-pack-blister-pack-oddish-gloom-vileplume",
+  "uuid": "1add58b8-f452-576c-a186-49ac43ec7212",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "2-Pack Blister Pack [Oddish, Gloom, & Vileplume]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "861d3ac6-8b00-5ea4-ab78-503aac7b1465",
       "name": "2-Pack Blister Pack [Oddish, Gloom, & Vileplume]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv07-premium-checklane-blister-roaring-moon",
+  "uuid": "bde7557f-71ed-5f6a-be41-99f9da4d8dd7",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown Premium Checklane Blister [Roaring Moon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bd664489-da49-5f80-827e-1723ea673603",
       "name": "Stellar Crown Premium Checklane Blister [Roaring Moon]",
       "identifiers": {
         "tcgplayerProductIds": [

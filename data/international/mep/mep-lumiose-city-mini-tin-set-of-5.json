@@ -1,15 +1,18 @@
 {
   "id": "mep-lumiose-city-mini-tin-set-of-5",
+  "uuid": "f0d54834-ce42-5f62-8375-53a232a50774",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Lumiose City Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d55a0aec-3b4c-591d-87be-b400eb20bd0e",
       "name": "Lumiose City Mini Tin [Set of 5]",
       "releaseDate": "2026-06-05",
       "identifiers": {

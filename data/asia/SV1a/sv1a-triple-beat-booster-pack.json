@@ -1,9 +1,11 @@
 {
   "id": "sv1a-triple-beat-booster-pack",
+  "uuid": "d31c62fe-bdd0-5595-a0ea-40e42916d477",
   "region": "asia",
   "set": "SV1a",
   "category": "booster_pack",
   "name": "Triple Beat Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "05e22660-1e1d-5010-8224-e8e374dbefdb",
       "name": "強化拡張パック「トリプレットビート」",
       "releaseDate": "2023-03-10",
       "identifiers": {

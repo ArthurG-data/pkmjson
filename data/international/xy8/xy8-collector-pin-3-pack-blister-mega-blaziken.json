@@ -1,9 +1,11 @@
 {
   "id": "xy8-collector-pin-3-pack-blister-mega-blaziken",
+  "uuid": "832623bb-9021-5786-8ff3-ac37157a9e28",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough Collector Pin 3 Pack Blister [Mega Blaziken]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8b260a1f-1aa8-5e65-9a54-3c6d42175733",
       "name": "BREAKthrough Collector Pin 3 Pack Blister [Mega Blaziken]",
       "identifiers": {
         "tcgplayerProductIds": [

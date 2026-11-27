@@ -1,15 +1,18 @@
 {
   "id": "me04-build-battle-display",
+  "uuid": "770c3038-a73f-5f5e-acba-4ace925bbabb",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising Build & Battle Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c5ca2b99-2609-5c4d-a35f-d1c7a4cf9594",
       "name": "Chaos Rising Build & Battle Display",
       "releaseDate": "2026-06-05",
       "identifiers": {

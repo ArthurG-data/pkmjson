@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "b2cd1df9-d27f-5e40-ac03-edac3d89073f",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6721ea02-acc4-5f29-ae96-4e315e201bd6",
       "name": "151 Pokemon Center Elite Trainer Box (Exclusive) Case",
       "identifiers": {
         "tcgplayerProductIds": [

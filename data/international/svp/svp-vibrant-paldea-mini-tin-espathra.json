@@ -1,9 +1,11 @@
 {
   "id": "svp-vibrant-paldea-mini-tin-espathra",
+  "uuid": "d967c61f-783a-57d2-8d36-02abd396bf91",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Vibrant Paldea Mini Tin [Espathra]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "494d816f-5d2f-5d37-8733-c0194231d8f9",
       "name": "Vibrant Paldea Mini Tin [Espathra]",
       "releaseDate": "2024-06-07",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "44b8fc8a-5650-5737-9aec-a61dc7dc6276",
       "name": "Mini‑boîte Magnifique Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-magnifique-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "24ab3816-ac91-5d84-a6d4-c98603e76327",
       "name": "Miniscatola da collezione Paldea Sfavillante",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-paldea-sfavillante"

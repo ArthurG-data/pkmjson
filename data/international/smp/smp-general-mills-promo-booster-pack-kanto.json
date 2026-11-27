@@ -1,9 +1,11 @@
 {
   "id": "smp-general-mills-promo-booster-pack-kanto",
+  "uuid": "5503121c-c998-5a62-b308-71af7e7512bb",
   "region": "international",
   "set": "smp",
   "category": "booster_pack",
   "name": "General Mills Promo Booster Pack [Kanto]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8c770163-d33f-550d-aefa-92286224a5a8",
       "name": "General Mills Promo Booster Pack [Kanto]",
       "identifiers": {
         "tcgplayerProductIds": [

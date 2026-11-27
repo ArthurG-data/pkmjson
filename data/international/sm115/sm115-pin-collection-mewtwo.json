@@ -1,9 +1,11 @@
 {
   "id": "sm115-pin-collection-mewtwo",
+  "uuid": "11a9a003-8de0-5653-a994-47d52104d486",
   "region": "international",
   "set": "sm115",
   "category": "collection_box",
   "name": "Hidden Fates Pin Collection [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a95b9d2f-cd07-531f-a5f6-9c76fd4ca5d5",
       "name": "Hidden Fates Pin Collection [Mewtwo]",
       "releaseDate": "2019-08-23",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2d663689-76c9-5480-9c0f-e6951cf22e5d",
       "name": "Collection avec pin's Destinées Occultes Mewtwo",
       "releaseDate": "2019-08-19",
       "sources": [

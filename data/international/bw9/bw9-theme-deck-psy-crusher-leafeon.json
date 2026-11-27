@@ -1,9 +1,11 @@
 {
   "id": "bw9-theme-deck-psy-crusher-leafeon",
+  "uuid": "d4fae8fe-2218-5b08-895d-23d83bfce8fc",
   "region": "international",
   "set": "bw9",
   "category": "theme_deck",
   "name": "Plasma Freeze Theme Deck - \"Psy Crusher\" [Leafeon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286561
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6e2a9ddb-fedc-5112-a330-1eb5932078d8",
       "name": "Plasma Freeze Theme Deck - \"Psy Crusher\" [Leafeon]",
       "identifiers": {
         "tcgplayerProductIds": [

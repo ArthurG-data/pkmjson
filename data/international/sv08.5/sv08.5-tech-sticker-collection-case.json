@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-tech-sticker-collection-case",
+  "uuid": "a04cab7e-eb78-5cec-afed-40deeb900349",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Tech Sticker Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b8e4128a-db3e-5bca-aebd-1475a9797af4",
       "name": "Prismatic Evolutions Tech Sticker Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

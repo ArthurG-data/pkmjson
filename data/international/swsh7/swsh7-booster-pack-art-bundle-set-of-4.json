@@ -1,15 +1,18 @@
 {
   "id": "swsh7-booster-pack-art-bundle-set-of-4",
+  "uuid": "7561a0da-4d43-5e90-a7b0-888a512f8447",
   "region": "international",
   "set": "swsh7",
   "category": "other",
   "name": "Evolving Skies Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "28bc9c04-bff1-5f31-b4f8-d088b671ce86",
       "name": "Evolving Skies Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm4p-booster-box",
+  "uuid": "57fbfcb1-1fa8-51cd-859d-1f519bef098d",
   "region": "asia",
   "set": "SM4p",
   "category": "booster_box",
   "name": "GX Battle Boost Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551801
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d4b3cb31-d69e-56a8-8c47-a2b07861cb7b",
       "name": "GX Battle Boost Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

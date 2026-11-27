@@ -1,9 +1,11 @@
 {
   "id": "sm8-flareon-gx-special-collection",
+  "uuid": "e7f16398-1b41-527c-ab20-1f32489de36f",
   "region": "international",
   "set": "sm8",
   "category": "collection_box",
   "name": "Flareon GX Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2482b796-66df-53c4-a7f0-9eb9afa990e9",
       "name": "Flareon GX Special Collection",
       "releaseDate": "2019-01-18",
       "identifiers": {

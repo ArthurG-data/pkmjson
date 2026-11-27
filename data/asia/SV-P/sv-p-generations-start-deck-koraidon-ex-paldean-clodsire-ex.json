@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-koraidon-ex-paldean-clodsire-ex",
+  "uuid": "48d3e4b0-b535-5293-a385-347cef5b9296",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Koraidon ex & Paldean Clodsire ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "be7d3498-4de7-5b99-b710-755e03577069",
       "name": "スタートデッキGenerations コライドンex・パルデアドオーex",
       "releaseDate": "2024-11-22",
       "identifiers": {

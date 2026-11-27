@@ -1,9 +1,11 @@
 {
   "id": "swshp-boltund-v-showcase",
+  "uuid": "b43ca99f-8a7c-531d-bbed-31d392b41e7b",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Boltund V Showcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d32942ff-1861-5bef-bc4c-0776517202c9",
       "name": "Boltund V Showcase",
       "releaseDate": "2022-04-22",
       "identifiers": {

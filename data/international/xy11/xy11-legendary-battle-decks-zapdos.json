@@ -1,15 +1,18 @@
 {
   "id": "xy11-legendary-battle-decks-zapdos",
+  "uuid": "0950381b-a6b6-5822-ac7c-4f220f96ad4f",
   "region": "international",
   "set": "xy11",
   "category": "battle_deck",
   "name": "Legendary Battle Decks [Zapdos]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck featuring Zapdos; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "65efa2f8-e301-5e5d-b829-15b788c94509",
       "name": "Legendary Battle Decks [Zapdos]",
       "identifiers": {
         "tcgplayerProductIds": [

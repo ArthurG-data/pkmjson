@@ -1,9 +1,11 @@
 {
   "id": "sm6b-booster-box",
+  "uuid": "1f1ae927-dd5d-55ca-972a-cc5fbf56e361",
   "region": "asia",
   "set": "SM6b",
   "category": "booster_box",
   "name": "Champion Road Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551771
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d66ac82a-e90c-5812-b7f2-136f1101c6ac",
       "name": "Champion Road Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

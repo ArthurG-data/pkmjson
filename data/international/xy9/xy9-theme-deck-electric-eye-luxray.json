@@ -1,9 +1,11 @@
 {
   "id": "xy9-theme-deck-electric-eye-luxray",
+  "uuid": "b2f70b45-f364-5806-9c9a-d5618295ee06",
   "region": "international",
   "set": "xy9",
   "category": "theme_deck",
   "name": "BREAKpoint Theme Deck - \"Electric Eye\" [Luxray]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 287835
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1b6ea525-4c63-52e0-b42f-d954d025a670",
       "name": "BREAKpoint Theme Deck - \"Electric Eye\" [Luxray]",
       "identifiers": {
         "tcgplayerProductIds": [

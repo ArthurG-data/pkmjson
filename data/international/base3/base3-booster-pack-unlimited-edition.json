@@ -1,9 +1,11 @@
 {
   "id": "base3-booster-pack-unlimited-edition",
+  "uuid": "4066e86e-0f58-5858-823b-290cd35f3d26",
   "region": "international",
   "set": "base3",
   "category": "booster_pack",
   "name": "Fossil Booster Pack [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f97f8cb0-aa23-591b-894f-5df71bfb3b84",
       "name": "Fossil Booster Pack [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

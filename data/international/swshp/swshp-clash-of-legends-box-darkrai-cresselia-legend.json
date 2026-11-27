@@ -1,15 +1,18 @@
 {
   "id": "swshp-clash-of-legends-box-darkrai-cresselia-legend",
+  "uuid": "fc4ec8ee-1a4b-50dd-bf28-8053f70debbb",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Clash of Legends Box - Darkrai & Cresselia Legend",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e3268b2b-6f00-55fd-ab2e-6406b9157205",
       "name": "Clash of Legends Box - Darkrai & Cresselia Legend",
       "identifiers": {
         "tcgplayerProductIds": [

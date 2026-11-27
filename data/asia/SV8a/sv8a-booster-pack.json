@@ -1,9 +1,11 @@
 {
   "id": "sv8a-booster-pack",
+  "uuid": "20fa23d8-aebf-5c76-a65a-676445728b4b",
   "region": "asia",
   "set": "SV8a",
   "category": "booster_pack",
   "name": "Terastal Fest ex Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f5a23356-3e61-50e4-aa59-9ccf40628db0",
       "name": "ハイクラスパック 「テラスタルフェスex」",
       "releaseDate": "2024-12-06",
       "identifiers": {

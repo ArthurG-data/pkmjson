@@ -1,9 +1,11 @@
 {
   "id": "sv05-premium-checklane-blister-baxcalibur",
+  "uuid": "b04ff24a-d3a2-5ab3-9442-9085e5dc3e60",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces Premium Checklane Blister [Baxcalibur]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750420
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3c5dc6ca-c13a-52ac-b707-d834600d1cd4",
       "name": "Temporal Forces Premium Checklane Blister [Baxcalibur]",
       "identifiers": {
         "tcgplayerProductIds": [

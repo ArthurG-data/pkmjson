@@ -1,15 +1,18 @@
 {
   "id": "me03-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "e1db2c09-170d-5c97-aa80-ce822e819bb9",
   "region": "international",
   "set": "me03",
   "category": "other",
   "name": "Perfect Order Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3495fa7d-383c-5a17-b740-e0a88de06d32",
       "name": "Perfect Order Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2026-03-27",
       "identifiers": {

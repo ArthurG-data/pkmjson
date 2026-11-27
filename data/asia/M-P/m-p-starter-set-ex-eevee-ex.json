@@ -1,9 +1,11 @@
 {
   "id": "m-p-starter-set-ex-eevee-ex",
+  "uuid": "edd51a62-3aa0-54fc-b5c7-e8c2edfe0b98",
   "region": "asia",
   "set": "M-P",
   "category": "battle_deck",
   "name": "Starter Set ex Eevee ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2ea74e7a-5dd9-505b-9763-9f99eca6df78",
       "name": "Starter Set ex Eevee ex",
       "identifiers": {
         "tcgplayerProductIds": [

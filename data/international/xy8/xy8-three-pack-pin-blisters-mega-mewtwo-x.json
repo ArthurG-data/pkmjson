@@ -1,15 +1,18 @@
 {
   "id": "xy8-three-pack-pin-blisters-mega-mewtwo-x",
+  "uuid": "77118efe-52e1-5a31-b071-5eb397e212ab",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough Three Pack Pin Blisters [Mega Mewtwo X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a790976b-694a-5db3-8162-1dc6a6ad247e",
       "name": "BREAKthrough Three Pack Pin Blisters [Mega Mewtwo X]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "mep-paradox-destinies-tin-iron-crown-ex-international-version",
+  "uuid": "acfe43d2-4701-5451-a8ae-78347b436465",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Paradox Destinies Tin [Iron Crown ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "23b1ac30-c52a-50b0-b176-85feee313cdf",
       "name": "Paradox Destinies Tin [Iron Crown ex] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

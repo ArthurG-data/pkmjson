@@ -1,9 +1,11 @@
 {
   "id": "swsh10-build-battle-stadium",
+  "uuid": "b40b4f70-51b7-5f63-bdee-80b05545928a",
   "region": "international",
   "set": "swsh10",
   "category": "other",
   "name": "Astral Radiance Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f360e88c-5224-56b4-b5d2-5d69c767949f",
       "name": "Astral Radiance Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [

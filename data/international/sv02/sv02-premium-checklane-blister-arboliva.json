@@ -1,9 +1,11 @@
 {
   "id": "sv02-premium-checklane-blister-arboliva",
+  "uuid": "cd8e725e-8aa5-59d2-92c2-042129f75164",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved Premium Checklane Blister [Arboliva]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703172
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "816eb89f-baf4-5f5b-9bb4-5362a2fc8ba4",
       "name": "Paldea Evolved Premium Checklane Blister [Arboliva]",
       "identifiers": {
         "tcgplayerProductIds": [

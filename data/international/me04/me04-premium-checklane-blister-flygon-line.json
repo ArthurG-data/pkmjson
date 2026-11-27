@@ -1,15 +1,18 @@
 {
   "id": "me04-premium-checklane-blister-flygon-line",
+  "uuid": "eed35cab-6a3c-59ce-954e-a563b108343c",
   "region": "international",
   "set": "me04",
   "category": "blister",
   "name": "Chaos Rising Premium Checklane Blister [Flygon Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 coin, features cards from an evolutionary line. (Pokémon TCG booster packs and contents vary by product).",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a8c2cd2-7bda-566c-9f30-cdb9ad0d2346",
       "name": "Chaos Rising Premium Checklane Blister [Flygon Line]",
       "releaseDate": "2026-05-22",
       "identifiers": {

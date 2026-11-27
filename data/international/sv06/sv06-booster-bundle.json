@@ -1,9 +1,11 @@
 {
   "id": "sv06-booster-bundle",
+  "uuid": "a10a9ade-456c-5c01-ab2b-4d188a740ddc",
   "region": "international",
   "set": "sv06",
   "category": "booster_bundle",
   "name": "Twilight Masquerade Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761221
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fca33669-821e-58de-ad54-c09e3ce77aad",
       "name": "Twilight Masquerade Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

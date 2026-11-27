@@ -1,15 +1,18 @@
 {
   "id": "30th-booster-bundle-case",
+  "uuid": "d8e01403-37d5-54c3-ab61-b79bc3d4dad3",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d03c5853-7bca-50e7-9a65-2681173ad364",
       "name": "30th Celebration Booster Bundle Case",
       "releaseDate": "2026-10-02",
       "identifiers": {

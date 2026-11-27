@@ -1,15 +1,18 @@
 {
   "id": "sm2-island-guardians-tin-tapu-bulu-gx",
+  "uuid": "4c23ea49-814f-5da9-9318-bb67c2a24bbf",
   "region": "international",
   "set": "sm2",
   "category": "tin",
   "name": "Island Guardians Tin [Tapu Bulu GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a2a382ef-3582-5d34-b5ea-4a134bf3c619",
       "name": "Island Guardians Tin [Tapu Bulu GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "09e6648f-72a6-5a4c-b40c-884a98c54ced",
       "name": "Boîte Gardiens des Îles Tokotoro",
       "releaseDate": "2017-08-12",
       "contents": {

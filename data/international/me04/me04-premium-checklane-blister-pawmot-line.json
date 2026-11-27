@@ -1,15 +1,18 @@
 {
   "id": "me04-premium-checklane-blister-pawmot-line",
+  "uuid": "e6c60f58-657b-5ab9-b801-01e782c76ca5",
   "region": "international",
   "set": "me04",
   "category": "blister",
   "name": "Chaos Rising Premium Checklane Blister [Pawmot Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 coin, features cards from an evolutionary line. (Pokémon TCG booster packs and contents vary by product).",
   "releases": [
     {
       "language": "en",
+      "uuid": "292a99f6-65c4-5bf8-abc4-e2cd81f4c251",
       "name": "Chaos Rising Premium Checklane Blister [Pawmot Line]",
       "releaseDate": "2026-05-22",
       "identifiers": {

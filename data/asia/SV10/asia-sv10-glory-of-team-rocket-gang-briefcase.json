@@ -1,15 +1,18 @@
 {
-  "id": "sv10-glory-of-team-rocket-gang-briefcase",
+  "id": "asia-sv10-glory-of-team-rocket-gang-briefcase",
+  "uuid": "e221a061-3c12-5318-9c53-5505d6cef8a2",
   "region": "asia",
   "set": "SV10",
   "category": "other",
   "name": "Glory of Team Rocket Gang Briefcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 30 Glory of Team Rocket packs.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "2b2c950e-2d40-55ba-a91d-2eec64b9b5df",
       "name": "Glory of Team Rocket Gang Briefcase",
       "identifiers": {
         "tcgplayerProductIds": [

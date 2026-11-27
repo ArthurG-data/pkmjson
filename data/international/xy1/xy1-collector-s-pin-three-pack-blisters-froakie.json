@@ -1,9 +1,11 @@
 {
   "id": "xy1-collector-s-pin-three-pack-blisters-froakie",
+  "uuid": "461c9c2d-fd37-55d5-aaa9-8647a8736ef5",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "Collector's Pin Three Pack Blisters (Froakie)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bd2ce992-4b82-5cb5-9497-87380f9795f6",
       "name": "Collector's Pin Three Pack Blisters (Froakie)",
       "identifiers": {
         "tcgplayerProductIds": [

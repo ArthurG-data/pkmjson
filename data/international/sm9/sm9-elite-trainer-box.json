@@ -1,9 +1,11 @@
 {
   "id": "sm9-elite-trainer-box",
+  "uuid": "ba8d0358-dda0-5cef-8cc9-9e55eabe1126",
   "region": "international",
   "set": "sm9",
   "category": "elite_trainer_box",
   "name": "Team Up Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 366885
   },
@@ -62,6 +64,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9afc29f-d40a-531e-bd46-fcbabebf8fe6",
       "name": "Team Up Elite Trainer Box",
       "releaseDate": "2019-02-01",
       "identifiers": {
@@ -75,6 +78,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3d2b3903-d731-5209-99e4-f25f58a0896f",
       "name": "Coffret Dresseur d'élite Soleil et Lune Duo de Choc",
       "releaseDate": "2019-02-01",
       "sources": [
@@ -83,6 +87,7 @@
     },
     {
       "language": "de",
+      "uuid": "5f55c947-cfd6-5408-95b0-a4a837fd8ac4",
       "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Sonne & Mond – Teams sind Trumpf",
       "releaseDate": "2019-02-01",
       "sources": [
@@ -91,6 +96,7 @@
     },
     {
       "language": "es",
+      "uuid": "1ce14f25-7f5a-5bf8-b11b-c388f9a725db",
       "name": "Caja de Entrenador Élite de Sol y Luna-Unión de Aliados",
       "releaseDate": "2019-02-01",
       "sources": [
@@ -99,6 +105,7 @@
     },
     {
       "language": "it",
+      "uuid": "27a3fe62-77ac-5cd3-90ac-31f75c09ba92",
       "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Gioco di Squadra",
       "releaseDate": "2019-02-01",
       "sources": [

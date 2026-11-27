@@ -1,9 +1,11 @@
 {
   "id": "sm2-3-pack-blister-turtonator",
+  "uuid": "cddfc36a-b753-53ca-90e9-75a9148aa4e6",
   "region": "international",
   "set": "sm2",
   "category": "blister",
   "name": "Guardians Rising 3 Pack Blister [Turtonator]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586007
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4201e19f-4e64-52f2-997e-bf8f2d15421a",
       "name": "Guardians Rising 3 Pack Blister [Turtonator]",
       "identifiers": {
         "tcgplayerProductIds": [

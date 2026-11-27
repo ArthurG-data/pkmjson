@@ -1,9 +1,11 @@
 {
   "id": "sm8-build-battle-box",
+  "uuid": "c4c11b88-fc72-505f-a4d4-e20ffdf1453b",
   "region": "international",
   "set": "sm8",
   "category": "build_and_battle_box",
   "name": "Lost Thunder Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 372085
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3ee8b809-72f7-5916-9f2c-715dddee64bb",
       "name": "Lost Thunder Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

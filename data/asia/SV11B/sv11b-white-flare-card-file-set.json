@@ -1,9 +1,11 @@
 {
   "id": "sv11b-white-flare-card-file-set",
+  "uuid": "10148b1a-cadf-53dc-b68e-996b5861b823",
   "region": "asia",
   "set": "SV11B",
   "category": "other",
   "name": "Black Bolt & White Flare Card File Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0e83fc3b-b39d-5ed2-9cfc-e45e553455d0",
       "name": "Black Bolt & White Flare Card File Set",
       "identifiers": {
         "tcgplayerProductIds": [

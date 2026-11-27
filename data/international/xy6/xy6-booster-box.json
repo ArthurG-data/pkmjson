@@ -1,9 +1,11 @@
 {
   "id": "xy6-booster-box",
+  "uuid": "bfd57768-cf09-5407-88a6-059be4347b4b",
   "region": "international",
   "set": "xy6",
   "category": "booster_box",
   "name": "XY Roaring Skies Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 282788
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "84b50fa3-8b2e-567b-9ce3-1a99e60e1d14",
       "name": "XY Roaring Skies Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

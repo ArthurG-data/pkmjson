@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-collection-case",
+  "uuid": "3e88c335-9a6c-5f81-b6d2-7b9669115916",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "acf3ea5e-cb26-5bfd-aa57-1d7ab65718f7",
       "name": "Crown Zenith Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

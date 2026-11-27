@@ -1,15 +1,18 @@
 {
   "id": "cel25-pokemon-international-tin-dark-sylveon-v",
+  "uuid": "8683e4c2-9804-5678-8d1e-0c19e73a78b0",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Pokemon Celebrations International Tin [Dark Sylveon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "027afee6-d74e-5086-8f8a-4831278a1a25",
       "name": "Pokemon Celebrations International Tin [Dark Sylveon V]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh8-3-pack-blister-case",
+  "uuid": "44199a3e-dcce-578b-999c-4bce020dfa3a",
   "region": "international",
   "set": "swsh8",
   "category": "case",
   "name": "Fusion Strike 3-Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d18a6745-d08d-5a42-9724-82c82c74e6d0",
       "name": "Fusion Strike 3-Pack Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

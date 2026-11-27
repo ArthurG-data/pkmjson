@@ -1,9 +1,11 @@
 {
   "id": "cel25-premium-figure-collection-pikachu-vmax",
+  "uuid": "88eaa088-7635-59b4-9397-4142bcb3f9a9",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Premium Figure Collection [Pikachu VMAX]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570906
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a53b145f-ca31-548f-be86-25921a78702a",
       "name": "Celebrations Premium Figure Collection [Pikachu VMAX]",
       "releaseDate": "2021-10-22",
       "identifiers": {

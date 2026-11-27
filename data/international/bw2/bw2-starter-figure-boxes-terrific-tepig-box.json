@@ -1,9 +1,11 @@
 {
   "id": "bw2-starter-figure-boxes-terrific-tepig-box",
+  "uuid": "50888181-9404-5cac-85a0-ddf2125ff24e",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Starter Figure Boxes: Terrific Tepig Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8e4ec7f4-f411-5d10-83fb-084a2afcd4f2",
       "name": "Starter Figure Boxes: Terrific Tepig Box",
       "identifiers": {
         "tcgplayerProductIds": [

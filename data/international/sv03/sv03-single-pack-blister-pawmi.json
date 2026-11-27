@@ -1,9 +1,11 @@
 {
   "id": "sv03-single-pack-blister-pawmi",
+  "uuid": "aef14881-48b6-59db-8457-bc2f0ab06c89",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames Single Pack Blister [Pawmi]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715774
   },
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d34b62bb-ad84-5733-a441-394e878d1cb6",
       "name": "Obsidian Flames Single Pack Blister [Pawmi]",
       "identifiers": {
         "tcgplayerProductIds": [

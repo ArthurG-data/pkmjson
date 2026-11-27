@@ -1,9 +1,11 @@
 {
   "id": "me02.5-collection-erika-1-tab",
+  "uuid": "5234f4ef-48e2-5849-beff-9c2e9382ff61",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Mega Evolution: Ascended Heroes Collection - Erika (1-Tab)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b80532f6-6601-5c74-8007-4a42fccefe35",
       "name": "Mega Evolution: Ascended Heroes Collection - Erika (1-Tab)",
       "identifiers": {
         "tcgplayerProductIds": [

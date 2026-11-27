@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-eevee-v",
+  "uuid": "3072eebe-b660-5606-a865-ed830071063b",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Eevee V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "40365480-cca7-5aab-b9d5-af23b3e28cd4",
       "name": "V Powers Tin [Eevee V]",
       "releaseDate": "2020-09-04",
       "identifiers": {

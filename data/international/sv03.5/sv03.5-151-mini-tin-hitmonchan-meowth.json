@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-hitmonchan-meowth",
+  "uuid": "416cb4aa-630d-5d50-a38e-048dd9a738dc",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Hitmonchan & Meowth]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24c0d24f-e1a5-5135-90ff-aaa52cf79b9c",
       "name": "151 Mini Tin [Hitmonchan & Meowth]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-alola",
+  "uuid": "f3773f8a-57c1-53bb-9560-d14f851470ea",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Alola]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3241d10c-3b47-5087-9b3e-a188876cdd0f",
       "name": "Celebrations Mini Tin [Alola]",
       "identifiers": {
         "tcgplayerProductIds": [

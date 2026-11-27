@@ -1,9 +1,11 @@
 {
   "id": "swsh4-booster-pack",
+  "uuid": "a198baab-36ca-56c9-bc92-2ff645e8a9a7",
   "region": "international",
   "set": "swsh4",
   "category": "booster_pack",
   "name": "Vivid Voltage Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 494514
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "237446c1-b690-5ab2-898a-8b255e1e1892",
       "name": "Sword & Shield—Vivid Voltage",
       "releaseDate": "2020-11-13",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b39ee675-728b-589e-bd24-7e1fc1cba196",
       "name": "Épée et Bouclier – Voltage Éclatant",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Voltage_%C3%89clatant",
@@ -41,6 +45,7 @@
     },
     {
       "language": "es",
+      "uuid": "06706321-15fb-5dd6-8817-e50f69041784",
       "name": "Espada y Escudo-Voltaje Vívido",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-voltaje-vivido",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "afbd3aee-c81e-5891-9f5e-6a51e375b434",
       "name": "Schwert & Schild – Farbenschock",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-farbenschock",

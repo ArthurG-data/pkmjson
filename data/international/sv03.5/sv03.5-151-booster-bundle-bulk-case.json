@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-booster-bundle-bulk-case",
+  "uuid": "2e13c0fc-dab1-5a95-9b0e-7b85ea637249",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Booster Bundle Bulk Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Each sealed case contains 25 Booster Bundles..",
   "releases": [
     {
       "language": "en",
+      "uuid": "a79b81f7-cf78-52cf-9d16-82c59eb08cbc",
       "name": "151 Booster Bundle Bulk Case",
       "identifiers": {
         "tcgplayerProductIds": [

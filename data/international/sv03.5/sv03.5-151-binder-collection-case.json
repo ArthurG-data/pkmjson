@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-binder-collection-case",
+  "uuid": "41d05692-0b86-5388-a2ef-c55d6ba4c8f9",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Binder Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5f9c4c7b-6b3c-5531-999b-48bec712a613",
       "name": "151 Binder Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

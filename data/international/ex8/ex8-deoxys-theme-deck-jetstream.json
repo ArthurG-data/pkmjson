@@ -1,9 +1,11 @@
 {
   "id": "ex8-deoxys-theme-deck-jetstream",
+  "uuid": "754dd2ae-fb9a-55fe-a78d-9e8b5f8e70ee",
   "region": "international",
   "set": "ex8",
   "category": "theme_deck",
   "name": "Deoxys Theme Deck - \"Jetstream\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286527
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a380fce1-36cb-5776-8af3-43663b42aecb",
       "name": "Deoxys Theme Deck - \"Jetstream\"",
       "identifiers": {
         "tcgplayerProductIds": [

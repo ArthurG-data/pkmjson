@@ -1,9 +1,11 @@
 {
-  "id": "sm6-booster-pack-576905",
+  "id": "asia-sm6-booster-pack",
+  "uuid": "9cce6090-ebba-5708-a29c-b6baf344a1a4",
   "region": "asia",
   "set": "SM6",
   "category": "booster_pack",
   "name": "Forbidden Light Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "a9eb11db-7d50-50e5-8db0-75a1ec5062e0",
       "name": "拡張パック「禁断の光」",
       "releaseDate": "2018-03-02",
       "identifiers": {

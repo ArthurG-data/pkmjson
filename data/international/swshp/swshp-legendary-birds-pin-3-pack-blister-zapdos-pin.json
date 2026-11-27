@@ -1,9 +1,11 @@
 {
   "id": "swshp-legendary-birds-pin-3-pack-blister-zapdos-pin",
+  "uuid": "964b695e-787b-5450-94df-767147b90819",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Legendary Birds Pin 3 Pack Blister [Zapdos Pin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ea3c067c-699c-51de-bac0-e442fd85ca9f",
       "name": "Legendary Birds Pin 3 Pack Blister [Zapdos Pin]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me02.5-tin-mega-meganium-ex",
+  "uuid": "9a7eba8f-42fe-5aa3-9d43-db9e542186d5",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Tin [Mega Meganium ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "31b578ac-f22b-521f-9d3c-842cdfcd2170",
       "name": "Ascended Heroes Tin [Mega Meganium ex]",
       "releaseDate": "2026-08-28",
       "identifiers": {

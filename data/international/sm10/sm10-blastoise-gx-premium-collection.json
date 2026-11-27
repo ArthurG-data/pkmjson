@@ -1,9 +1,11 @@
 {
   "id": "sm10-blastoise-gx-premium-collection",
+  "uuid": "af4df1a0-d44f-5434-a386-521fcacd5309",
   "region": "international",
   "set": "sm10",
   "category": "premium_collection",
   "name": "Blastoise GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0596fb8a-83f2-51c4-af12-61a0aff6190a",
       "name": "Blastoise GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -51,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "847d51bb-2e6e-5589-89d6-b7f8804d474f",
       "name": "Premium-Kollektion Turtok-GX",
       "releaseDate": "2019-07-05",
       "sources": [
@@ -59,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "e0188477-c857-5ae6-9162-ce8ac0353109",
       "name": "Colección premium Blastoise-GX",
       "releaseDate": "2019-07-05",
       "sources": [
@@ -67,6 +72,7 @@
     },
     {
       "language": "fr",
+      "uuid": "31a0debd-8b3f-5746-a40a-f9a6b2c2eb9a",
       "name": "Collection Premium Tortank-GX",
       "releaseDate": "2019-06-05",
       "sources": [
@@ -75,6 +81,7 @@
     },
     {
       "language": "it",
+      "uuid": "d4f18d6f-dc4d-5ec5-bc3c-a5f94002fe65",
       "name": "Collezione premium Blastoise-GX",
       "releaseDate": "2019-07-05",
       "sources": [

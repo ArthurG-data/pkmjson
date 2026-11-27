@@ -1,9 +1,11 @@
 {
   "id": "svp-charizard-ex-super-premium-collection",
+  "uuid": "dd322889-7fed-551b-8a29-2ed0946146a1",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Charizard ex Super-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "69e5c9e0-b325-538f-a136-10ff6922c8c6",
       "name": "Charizard ex Super-Premium Collection",
       "releaseDate": "2024-10-04",
       "identifiers": {
@@ -38,6 +41,7 @@
     },
     {
       "language": "de",
+      "uuid": "a7c05997-cc30-5430-9a56-efb36823d97d",
       "name": "Super-Premium-Kollektion Glurak‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/super-premium-kollektion-glurak-ex"
@@ -45,6 +49,7 @@
     },
     {
       "language": "es",
+      "uuid": "c5ca0383-2c5a-509d-a76a-9a5126e29953",
       "name": "Colección superprémium Charizard ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-superpremium-charizard-ex"
@@ -52,6 +57,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7fbf0d1c-a789-581b-b230-2135473694b7",
       "name": "Collection Super-Premium Dracaufeu‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-super-premium-dracaufeu-ex"
@@ -59,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "d5437a2a-3930-58b0-ae91-dc0c2f155011",
       "name": "Collezione super premium Charizard‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-super-premium-charizard-ex"

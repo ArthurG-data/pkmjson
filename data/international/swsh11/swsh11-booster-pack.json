@@ -1,9 +1,11 @@
 {
   "id": "swsh11-booster-pack",
+  "uuid": "1d59a58f-5589-525e-8047-1d327fd4feee",
   "region": "international",
   "set": "swsh11",
   "category": "booster_pack",
   "name": "Lost Origin Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 665527
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "71fd1075-73be-5327-abe3-531e231a3e15",
       "name": "Sword & Shield—Lost Origin",
       "releaseDate": "2022-09-09",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cc539e2b-5cdf-5d24-9928-3347aa575f42",
       "name": "Épée et Bouclier – Origine Perdue",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Origine_Perdue",
@@ -44,6 +48,7 @@
     },
     {
       "language": "es",
+      "uuid": "0ed7a6e4-cc2b-5d1c-b44e-7b2185e61e04",
       "name": "Espada y Escudo-Origen Perdido",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-origen-perdido",
@@ -52,6 +57,7 @@
     },
     {
       "language": "it",
+      "uuid": "d837697a-6c52-57d6-accd-30b8185d70a1",
       "name": "Spada e Scudo - Origine Perduta",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-origine-perduta",
@@ -60,6 +66,7 @@
     },
     {
       "language": "de",
+      "uuid": "0a7b87dc-100a-58bb-b91c-aa7e11b7d15f",
       "name": "Schwert & Schild – Verlorener Ursprung",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-verlorener-ursprung",

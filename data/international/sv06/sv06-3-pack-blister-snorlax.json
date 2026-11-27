@@ -1,9 +1,11 @@
 {
   "id": "sv06-3-pack-blister-snorlax",
+  "uuid": "281dc03f-ff95-5de1-a184-52f212790c04",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade 3 Pack Blister [Snorlax]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761224
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d7264f24-70f1-54a6-80e2-b39670a3673d",
       "name": "Twilight Masquerade 3 Pack Blister [Snorlax]",
       "identifiers": {
         "tcgplayerProductIds": [

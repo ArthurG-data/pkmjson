@@ -1,15 +1,18 @@
 {
   "id": "swshp-pokemon-tcg-starter-gift-set",
+  "uuid": "2493d170-e615-57a6-83f1-eaf2036d81db",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon TCG: Starter Gift Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "004aae92-e434-52a5-9a2b-fbc537568b4d",
       "name": "Pokemon TCG: Starter Gift Set",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "svd-ex-start-deck-psychic-pixy",
+  "uuid": "a0e16d76-7ed3-534c-8803-698ff9e86a93",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Psychic Pixy",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "d0f29b58-bac7-5342-b3d8-139b3705d099",
       "name": "ex Start Deck Psychic Pixy",
       "identifiers": {
         "tcgplayerProductIds": [

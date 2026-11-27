@@ -1,9 +1,11 @@
 {
   "id": "swsh6-sleeved-booster-case",
+  "uuid": "5596683e-2dcc-58a1-bc9f-52abe47bfa04",
   "region": "international",
   "set": "swsh6",
   "category": "case",
   "name": "Chilling Reign Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674717
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8c01ccc1-5347-5e20-87ee-bffe1a76b1eb",
       "name": "Chilling Reign Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

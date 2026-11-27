@@ -1,9 +1,11 @@
 {
   "id": "svp-2023-world-championship-deck-gabriel-fernandez-colorless-lugia",
+  "uuid": "1fce9245-2433-5b18-bce9-bd733af30e76",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2023 World Championship Deck: Gabriel Fernandez (Colorless Lugia)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "16296054-a920-5ec6-bcfc-ee92674d4f21",
       "name": "2023 World Championship Deck: Gabriel Fernandez (Colorless Lugia)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sm1-gx-challenge-box-incineroar",
+  "uuid": "5c8332f4-8ce2-5c7f-bc96-cd99f835057b",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Sun & Moon GX Challenge Box [Incineroar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play theme deck; 2 Sun & Moon booster packs; 1 water web holo of Incineroar; 1 Incineroar GX.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8d1ededa-7a1d-5026-a891-06679128733a",
       "name": "Sun & Moon GX Challenge Box [Incineroar]",
       "identifiers": {
         "tcgplayerProductIds": [

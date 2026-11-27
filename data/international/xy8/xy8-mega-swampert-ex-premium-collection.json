@@ -1,15 +1,18 @@
 {
   "id": "xy8-mega-swampert-ex-premium-collection",
+  "uuid": "e50de134-57ec-54ff-b10c-338f051da4da",
   "region": "international",
   "set": "xy8",
   "category": "premium_collection",
   "name": "Mega Swampert EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "99f31022-65b0-5755-9237-b3b806442eac",
       "name": "Mega Swampert EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d08b2fed-02d7-53ea-bc18-acb8411d7f04",
       "name": "Coffret Méga-Laggron",
       "releaseDate": "2016-09-20",
       "contents": {

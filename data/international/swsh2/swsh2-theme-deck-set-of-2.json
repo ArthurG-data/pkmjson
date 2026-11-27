@@ -1,15 +1,18 @@
 {
   "id": "swsh2-theme-deck-set-of-2",
+  "uuid": "9d475b20-1c69-5993-8ab9-0077451ac9ba",
   "region": "international",
   "set": "swsh2",
   "category": "other",
   "name": "Rebel Clash Theme Deck [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3e97974b-8815-58b8-9af3-7cc3185eb86a",
       "name": "Rebel Clash Theme Deck [Set of 2]",
       "releaseDate": "2020-05-01",
       "identifiers": {

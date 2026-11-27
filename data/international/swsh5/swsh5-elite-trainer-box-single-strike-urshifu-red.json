@@ -1,9 +1,11 @@
 {
   "id": "swsh5-elite-trainer-box-single-strike-urshifu-red",
+  "uuid": "eab81e78-6c44-5e17-afc7-1f2e59dda15c",
   "region": "international",
   "set": "swsh5",
   "category": "elite_trainer_box",
   "name": "Battle Styles Elite Trainer Box [Single Strike Urshifu] (Red)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -55,6 +57,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c46d659c-6f2c-5b28-a3c0-ebdf3630cd96",
       "name": "Battle Styles Elite Trainer Box [Single Strike Urshifu] (Red)",
       "releaseDate": "2021-03-19",
       "identifiers": {

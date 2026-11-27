@@ -1,9 +1,11 @@
 {
   "id": "ecard1-booster-pack",
+  "uuid": "65df5e76-2bcc-516f-955b-564fdcff96e8",
   "region": "international",
   "set": "ecard1",
   "category": "booster_pack",
   "name": "Expedition Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "40d6a419-9da4-52dc-ac8c-7a7688d72d26",
       "name": "Expedition Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

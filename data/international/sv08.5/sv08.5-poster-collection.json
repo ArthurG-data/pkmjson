@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-poster-collection",
+  "uuid": "98959fef-2372-5965-8f41-b67039c6c181",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Poster Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798946
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6a0dbf2c-8051-5053-bffc-538a953a8e0f",
       "name": "Prismatic Evolutions Poster Collection",
       "releaseDate": "2025-01-17",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b3c8abfa-14d5-590a-b7fb-4c53e39f7b95",
       "name": "Collection poster Écarlate et Violet Évolutions Prismatiques",
       "releaseDate": "2025-01-17",
       "sources": [

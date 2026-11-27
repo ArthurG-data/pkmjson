@@ -1,9 +1,11 @@
 {
   "id": "me05-booster-box-case",
+  "uuid": "6b3bfcb1-f163-55b1-acb2-8b4972598c96",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885528
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf27f7e0-8f36-551f-bd3b-8146c3ea8e41",
       "name": "Pitch Black Booster Box Case",
       "releaseDate": "2026-07-17",
       "identifiers": {

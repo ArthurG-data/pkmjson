@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-friends-mini-tin-sprigatito-fidough",
+  "uuid": "ec3a2b84-3068-5e3b-9efa-98974068bf1f",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Friends Mini Tin [Sprigatito & Fidough]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "074b2eea-993b-52bf-a071-65385cd97e44",
       "name": "Paldea Friends Mini Tin [Sprigatito & Fidough]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ee820b38-cc55-571c-adc1-edb7d0c20592",
       "name": "Mini-boîte Amis de Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-amis-de-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "884f98d2-c81a-5e69-9b0a-52c08ed60ce6",
       "name": "Mini-Tin-Box Paldea-Freunde",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-paldea-freunde"
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "a0554113-a6c0-5cb1-b635-0b267cc4cca2",
       "name": "Minilata Amigos de Paldea",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-amigos-de-paldea"
@@ -55,6 +61,7 @@
     },
     {
       "language": "it",
+      "uuid": "fee59978-9e82-5b1f-ac68-32e1726aef4b",
       "name": "Miniscatola da collezione Amici di Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-amici-di-paldea"

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-level-ball",
+  "uuid": "710bd93c-bf62-50eb-875e-de1856530d5c",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Level Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f72c6c9b-52a0-5dd6-ae7e-b455347ec3c7",
       "name": "Pokemon - Poke Ball Tin - Level Ball",
       "releaseDate": "2021-03-05",
       "identifiers": {

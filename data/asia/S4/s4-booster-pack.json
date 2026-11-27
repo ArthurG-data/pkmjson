@@ -1,9 +1,11 @@
 {
   "id": "s4-booster-pack",
+  "uuid": "04399b9a-37d6-549c-baeb-85c9a121026c",
   "region": "asia",
   "set": "S4",
   "category": "booster_pack",
   "name": "Amazing Volt Tackle Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "563e47f2-3edb-5035-8ed2-86daf395e5b2",
       "name": "拡張パック 「仰天のボルテッカー 」",
       "releaseDate": "2020-09-18",
       "identifiers": {

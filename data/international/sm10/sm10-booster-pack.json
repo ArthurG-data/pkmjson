@@ -1,9 +1,11 @@
 {
   "id": "sm10-booster-pack",
+  "uuid": "8f403966-7e3e-52fb-b250-7499a3bd9104",
   "region": "international",
   "set": "sm10",
   "category": "booster_pack",
   "name": "Unbroken Bonds Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370621
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0586280-2079-5a11-8aae-c1b5fe056ff2",
       "name": "Sun & Moon—Unbroken Bonds",
       "releaseDate": "2019-05-03",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d8490ed5-122b-5526-93b6-9872efec5c57",
       "name": "Soleil et Lune – Alliance Infaillible",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Alliance_Infaillible",
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "c5e740df-fe14-5004-88b7-1ba0e378b78b",
       "name": "Sonne & Mond – Kräfte im Einklang",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-kraefte-im-einklang",
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "6ad0655a-2ad7-5c9a-893a-706319f7c2e0",
       "name": "Sole e Luna - Legami Inossidabili",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-legami-inossidabili",
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "b1a04f30-0cd3-586c-8f20-18d3b6782a4a",
       "name": "Sol y Luna-Vínculos Indestructibles",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-vinculos-indestructibles",

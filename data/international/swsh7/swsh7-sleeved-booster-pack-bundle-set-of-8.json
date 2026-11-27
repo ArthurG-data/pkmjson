@@ -1,15 +1,18 @@
 {
   "id": "swsh7-sleeved-booster-pack-bundle-set-of-8",
+  "uuid": "80fe0db6-edfe-587a-93c4-22d9fe8545ff",
   "region": "international",
   "set": "swsh7",
   "category": "other",
   "name": "Evolving Skies Sleeved Booster Pack Bundle [Set of 8]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sleeved Booster Packs of Sword & Shield—Evolving Skies; 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4d452023-b5ed-5110-8bbb-5a6e86c06987",
       "name": "Evolving Skies Sleeved Booster Pack Bundle [Set of 8]",
       "identifiers": {
         "tcgplayerProductIds": [

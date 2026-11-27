@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-2-pack-blister-case",
+  "uuid": "5b71e082-a033-5498-a454-c0a1473aa66e",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions 2-Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5670577c-b6dc-56b4-b849-bc682cc0b431",
       "name": "Prismatic Evolutions 2-Pack Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

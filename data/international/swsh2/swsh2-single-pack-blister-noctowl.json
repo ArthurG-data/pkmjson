@@ -1,9 +1,11 @@
 {
   "id": "swsh2-single-pack-blister-noctowl",
+  "uuid": "9fee2ec7-a783-50cc-a7b7-390a0ae7ab5b",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Rebel Clash Single Pack Blister [Noctowl]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585885
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2580be6b-e062-5578-a33c-be5049f1121d",
       "name": "Rebel Clash Single Pack Blister [Noctowl]",
       "releaseDate": "2020-05-01",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-tech-sticker-collection-set-of-3",
+  "uuid": "f56ae91c-9167-585b-8117-3cf7585afe36",
   "region": "international",
   "set": "sv08.5",
   "category": "other",
   "name": "Prismatic Evolutions Tech Sticker Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Leafeon, Glaceon, or Sylveon; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "26adaa51-a95c-5a4b-8293-3a86edbe7a17",
       "name": "Prismatic Evolutions Tech Sticker Collection [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

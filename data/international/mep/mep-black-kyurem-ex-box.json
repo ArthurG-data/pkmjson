@@ -1,9 +1,11 @@
 {
   "id": "mep-black-kyurem-ex-box",
+  "uuid": "a150257b-c3c7-598e-81e9-7e005413fb8f",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Black Kyurem ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9b410fc1-cfa8-5453-abd7-f07331c4c806",
       "name": "Black Kyurem ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

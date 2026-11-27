@@ -1,9 +1,11 @@
 {
   "id": "me01-single-pack-blister-drifloon",
+  "uuid": "5a801fae-a74c-584c-ba5f-1577f5365bc0",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution Single Pack Blister [Drifloon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834817
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24879db2-a724-5fb9-8168-4d14848e8483",
       "name": "Mega Evolution Single Pack Blister [Drifloon]",
       "releaseDate": "2025-09-26",
       "identifiers": {

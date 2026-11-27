@@ -1,9 +1,11 @@
 {
   "id": "swsh11-build-battle-box",
+  "uuid": "49453634-5256-5aa9-8d15-5d43a570a76c",
   "region": "international",
   "set": "swsh11",
   "category": "build_and_battle_box",
   "name": "Lost Origin Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666148
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "644ec427-2eb9-570a-8499-8005e8172af4",
       "name": "Lost Origin Build & Battle Box",
       "releaseDate": "2022-09-09",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "mep-archaludon-ex-box",
+  "uuid": "92b49b46-9326-53e8-8422-60cbf44cb181",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Archaludon ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be05d378-9660-5fa1-8df0-3a4b6ba9a2b6",
       "name": "Archaludon ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

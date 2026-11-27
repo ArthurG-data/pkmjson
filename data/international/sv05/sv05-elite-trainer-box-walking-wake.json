@@ -1,9 +1,11 @@
 {
   "id": "sv05-elite-trainer-box-walking-wake",
+  "uuid": "615e5edd-e011-53e3-bf86-39ef34700de8",
   "region": "international",
   "set": "sv05",
   "category": "elite_trainer_box",
   "name": "Temporal Forces Elite Trainer Box [Walking Wake]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750412
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "35c4c1e9-7321-5766-a6ec-60cb046a5d7a",
       "name": "Temporal Forces Elite Trainer Box [Walking Wake]",
       "releaseDate": "2024-03-22",
       "identifiers": {

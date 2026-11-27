@@ -1,15 +1,18 @@
 {
   "id": "swsh4-booster-pack-art-bundle-set-of-4",
+  "uuid": "fe9fccf6-69c7-50c7-b42c-da589aca72ed",
   "region": "international",
   "set": "swsh4",
   "category": "other",
   "name": "Vivid Voltage Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e4d4de29-f5a5-52d3-a11c-640f97d3588f",
       "name": "Vivid Voltage Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

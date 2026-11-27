@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-tin-great-tusk-ex",
+  "uuid": "938d07a0-5d85-5599-84a5-a270253f9428",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Tin [Great Tusk ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750587
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "03b37ea4-9c4f-5311-be5c-83ab1943d303",
       "name": "Paldean Fates Tin [Great Tusk ex]",
       "releaseDate": "2024-02-09",
       "identifiers": {

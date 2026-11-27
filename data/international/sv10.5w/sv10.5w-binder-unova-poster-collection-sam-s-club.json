@@ -1,15 +1,18 @@
 {
   "id": "sv10.5w-binder-unova-poster-collection-sam-s-club",
+  "uuid": "3e0674fa-6235-5b75-a572-662386b22600",
   "region": "international",
   "set": "sv10.5w",
   "category": "collection_box",
   "name": "White Flare Binder & Unova Poster Collection (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cb325978-6db0-5de9-be3d-b7af9d43e416",
       "name": "White Flare Binder & Unova Poster Collection (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

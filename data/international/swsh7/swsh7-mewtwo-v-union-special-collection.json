@@ -1,9 +1,11 @@
 {
   "id": "swsh7-mewtwo-v-union-special-collection",
+  "uuid": "afbbf459-83d9-5478-b439-09902666a971",
   "region": "international",
   "set": "swsh7",
   "category": "collection_box",
   "name": "Mewtwo V-UNION Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f4d797b-3dee-5b68-8a50-7d8b62de98e2",
       "name": "Mewtwo V-UNION Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "858ee117-9b06-5ec8-b64f-f63787a4597f",
       "name": "Collections spéciales Pokémon-V‑UNION (Mewtwo/Amphinobi/Zacian)",
       "releaseDate": "2021-09-24",
       "sources": [
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "ef1b336e-efa5-5bc8-b331-d1fef3c8dd32",
       "name": "Spezial-Kollektion Pokémon-V-UNION (Mewtu/Quajutsu/Zacian)",
       "releaseDate": "2021-09-24",
       "sources": [

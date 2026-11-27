@@ -1,9 +1,11 @@
 {
   "id": "smp-battle-arena-deck-ultra-necrozma-gx-rayquaza-gx",
+  "uuid": "0570ba75-5bc7-583f-b537-6dcee621f3f6",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "Battle Arena Deck: Ultra Necrozma GX & Rayquaza GX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b8e5dc09-eb16-56e8-9af2-c0b77707c0d6",
       "name": "Battle Arena Deck: Ultra Necrozma GX & Rayquaza GX",
       "releaseDate": "2019-10-04",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "it",
+      "uuid": "21a804ca-eb59-5e9b-a15e-c48c26ca57c6",
       "name": "Mazzi Arena Lotta Rayquaza-GX e UltraNecrozma-GX",
       "releaseDate": "2019-10-04",
       "sources": [
@@ -58,6 +62,7 @@
     },
     {
       "language": "de",
+      "uuid": "959b00a2-2005-5d78-8686-1bf082f4bf26",
       "name": "Kampfarena-Decks Rayquaza-GX vs. Ultra-Necrozma-GX",
       "releaseDate": "2019-10-04",
       "sources": [
@@ -66,6 +71,7 @@
     },
     {
       "language": "fr",
+      "uuid": "412c6dad-13ba-5ac1-a34e-e2e86268ecf7",
       "name": "Decks Arène de Combat : Rayquaza-GX contre Ultra-Necrozma-GX",
       "releaseDate": "2019-10-04",
       "sources": [

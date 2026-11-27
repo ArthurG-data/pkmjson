@@ -1,9 +1,11 @@
 {
   "id": "sm8-booster-pack",
+  "uuid": "5c787539-184d-56b9-9a57-7030bbd8e7ba",
   "region": "international",
   "set": "sm8",
   "category": "booster_pack",
   "name": "Lost Thunder Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 363268
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c3597a7-ed09-56ed-9fbf-b5873b70280c",
       "name": "Sun & Moon—Lost Thunder",
       "releaseDate": "2018-11-02",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1bcec119-9ead-5aa6-8472-1d9b56af712a",
       "name": "Soleil et Lune – Tonnerre Perdu",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Tonnerre_Perdu",
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "e2bc33c9-565a-5ba9-9568-618868199bd5",
       "name": "Sole e Luna - Tuoni Perduti",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-tuoni-perduti",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "5ab0d0d6-e49c-5433-9136-2e3b4b8eb2ba",
       "name": "Sonne & Mond – Echo des Donners",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-der-pokemon-sammelkartenspiel-erweiterung-sonne-mond-echo-des-donners",
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "29c9642a-97c4-53f2-a7b0-f8f893c8e55e",
       "name": "Sol y Luna-Truenos Perdidos",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-truenos-perdidos",

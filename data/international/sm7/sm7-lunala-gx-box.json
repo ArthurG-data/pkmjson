@@ -1,9 +1,11 @@
 {
   "id": "sm7-lunala-gx-box",
+  "uuid": "7274cc01-9bba-5e6b-8b24-5024a267a7c1",
   "region": "international",
   "set": "sm7",
   "category": "collection_box",
   "name": "Lunala GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c73aaa3-e17f-5554-b5b9-89b237987e1a",
       "name": "Lunala GX Box",
       "releaseDate": "2018-10-05",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "71cab655-feca-53af-bd4c-18a175783511",
       "name": "Coffret Lunala",
       "releaseDate": "2018-10-05",
       "contents": {

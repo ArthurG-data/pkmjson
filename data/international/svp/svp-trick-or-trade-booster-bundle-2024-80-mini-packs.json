@@ -1,15 +1,18 @@
 {
   "id": "svp-trick-or-trade-booster-bundle-2024-80-mini-packs",
+  "uuid": "c427a046-b5db-5daf-a57b-d6aa187f23a0",
   "region": "international",
   "set": "svp",
   "category": "booster_bundle",
   "name": "Trick or Trade BOOster Bundle 2024 (80 mini packs)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 80 mini packs of Pokémon TCG cards.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7ea9bcb2-6099-5b56-afc4-dc0caf652366",
       "name": "Trick or Trade BOOster Bundle 2024 (80 mini packs)",
       "identifiers": {
         "tcgplayerProductIds": [

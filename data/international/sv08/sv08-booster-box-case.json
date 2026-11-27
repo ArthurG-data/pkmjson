@@ -1,21 +1,36 @@
 {
   "id": "sv08-booster-box-case",
+  "uuid": "53405fa3-7a03-5169-b393-f19790dcb40c",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Booster Box Case",
-  "identifiers": {"cardmarketProductId": 784950},
+  "identifiers": {
+    "cardmarketProductId": 784950
+  },
   "contentsStatus": "complete",
   "contents": {
-    "sealed": [{"product": "sv08-booster-box", "count": 6}]
+    "sealed": [
+      {
+        "product": "sv08-booster-box",
+        "count": 6
+      }
+    ]
   },
   "releases": [
     {
       "language": "en",
+      "uuid": "d3248e00-3526-5865-b798-dab0e3058960",
       "name": "Surging Sparks Booster Box Case",
       "releaseDate": "2024-11-08",
-      "identifiers": {"tcgplayerProductIds": [580708]},
-      "sources": ["https://www.pokeboxusa.com/products/surging-sparks-booster-box-case"]
+      "identifiers": {
+        "tcgplayerProductIds": [
+          580708
+        ]
+      },
+      "sources": [
+        "https://www.pokeboxusa.com/products/surging-sparks-booster-box-case"
+      ]
     }
   ]
 }

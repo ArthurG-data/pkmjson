@@ -1,9 +1,11 @@
 {
   "id": "sv05-elite-trainer-box-case",
+  "uuid": "22d581c0-6451-5a03-86a3-69c1d7830f22",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750414
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a8342b51-3922-533d-97f2-a0b537ee5bd6",
       "name": "Temporal Forces Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

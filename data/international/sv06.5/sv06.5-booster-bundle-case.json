@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-booster-bundle-case",
+  "uuid": "10277ed6-250b-552c-b7cd-e24e9e35a9ad",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c5db3ff-8912-5dab-baab-ce9acc5353b6",
       "name": "Shrouded Fable Booster Bundle Case",
       "identifiers": {
         "tcgplayerProductIds": [

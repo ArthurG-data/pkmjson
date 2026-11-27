@@ -1,9 +1,11 @@
 {
   "id": "smp-battle-arena-deck-ultra-necrozma-gx",
+  "uuid": "1d255dfe-d575-573f-8213-d175e3baf7d3",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "Battle Arena Deck: Ultra Necrozma GX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -47,6 +49,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1a0ddb4e-265e-590e-9228-d4181b485781",
       "name": "Battle Arena Deck: Ultra Necrozma GX",
       "releaseDate": "2019-10-04",
       "identifiers": {

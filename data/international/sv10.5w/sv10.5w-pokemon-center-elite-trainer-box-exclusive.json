@@ -1,9 +1,11 @@
 {
   "id": "sv10.5w-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "125d3a86-10fc-5cae-bb43-73ef603e7b72",
   "region": "international",
   "set": "sv10.5w",
   "category": "elite_trainer_box",
   "name": "White Flare Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824093
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "63cbd2df-8c9f-567f-a87f-a06bc5cde713",
       "name": "White Flare Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2025-07-18",
       "identifiers": {

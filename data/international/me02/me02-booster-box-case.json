@@ -1,9 +1,11 @@
 {
   "id": "me02-booster-box-case",
+  "uuid": "3c9823ba-204d-558b-bfb7-38fc45fa0ec7",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846733
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "70c619ef-cd8d-5ced-b6db-7bd289d4de58",
       "name": "Phantasmal Flames Booster Box Case",
       "releaseDate": "2025-11-14",
       "identifiers": {

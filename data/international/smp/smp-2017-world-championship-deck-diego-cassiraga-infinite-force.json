@@ -1,15 +1,18 @@
 {
   "id": "smp-2017-world-championship-deck-diego-cassiraga-infinite-force",
+  "uuid": "5b4fc9a7-1cf6-5279-99a1-0bf25e631acf",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2017 World Championship Deck: Diego Cassiraga (Infinite Force)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "aff4dec8-539c-52cf-94bc-f64c613e3e76",
       "name": "2017 World Championship Deck: Diego Cassiraga (Infinite Force)",
       "identifiers": {
         "tcgplayerProductIds": [

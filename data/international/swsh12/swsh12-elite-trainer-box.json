@@ -1,9 +1,11 @@
 {
   "id": "swsh12-elite-trainer-box",
+  "uuid": "2522d396-848f-5ddf-a342-ea27cb362001",
   "region": "international",
   "set": "swsh12",
   "category": "elite_trainer_box",
   "name": "Silver Tempest Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672338
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "164b615f-fcf4-554a-bf2c-527763fdfb40",
       "name": "Silver Tempest Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -66,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "78edb003-c050-538b-b0cc-1b80dd71360c",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Tempête Argentée",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Temp%C3%AAte_Argent%C3%A9e"
@@ -73,6 +77,7 @@
     },
     {
       "language": "it",
+      "uuid": "ac9b5817-9828-508c-9f0c-cb685a788189",
       "name": "Set Allenatore Fuoriclasse di Spada e Scudo - Tempesta Argentata",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-di-spada-e-scudo-tempesta-argentata"
@@ -80,6 +85,7 @@
     },
     {
       "language": "es",
+      "uuid": "fab1c64c-e4c6-5b39-b4ad-720facf46859",
       "name": "Caja de Entrenador Élite de Espada y Escudo-Tempestad Plateada",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-espada-y-escudo-tempestad-plateada"
@@ -87,6 +93,7 @@
     },
     {
       "language": "de",
+      "uuid": "5fbb71f9-7ace-54fb-a84a-994a1c4d985d",
       "name": "Top-Trainer-Box Schwert & Schild – Silberne Sturmwinde",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-silberne-sturmwinde"

@@ -1,9 +1,11 @@
 {
   "id": "swsh11-3-pack-blister-weavile",
+  "uuid": "18e8b86c-c4af-58df-a649-01c92bcbeb0a",
   "region": "international",
   "set": "swsh11",
   "category": "blister",
   "name": "Lost Origin 3 Pack Blister [Weavile]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666154
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0ec98295-0dc4-5ad6-a075-0b4f0864d72e",
       "name": "Lost Origin 3 Pack Blister [Weavile]",
       "releaseDate": "2022-09-09",
       "identifiers": {

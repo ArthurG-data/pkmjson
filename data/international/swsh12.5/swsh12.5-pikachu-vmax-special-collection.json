@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-pikachu-vmax-special-collection",
+  "uuid": "9a0cf3c4-3474-5032-8bb5-3665d719bc87",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Pikachu VMAX Special Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683018
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d550943-67e3-540f-b43a-980b8db1aed8",
       "name": "Pikachu VMAX Special Collection",
       "releaseDate": "2023-02-17",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "de",
+      "uuid": "90baa172-12a4-5bcc-bcd7-a6d8fe0861b0",
       "name": "Spezial-Kollektion Zenit der Könige: Pikachu-VMAX",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-zenit-der-koenige-pikachu-vmax"
@@ -40,6 +44,7 @@
     },
     {
       "language": "es",
+      "uuid": "d15d0083-6a14-5f64-9456-61e4e51d51d5",
       "name": "Colección especial Pikachu VMAX de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-pikachu-vmax-de-cenit-supremo"
@@ -47,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8d4e0d86-1a08-5828-8cda-11caad42ac44",
       "name": "Collection spéciale Zénith Suprême – Pikachu‑VMAX",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-zenith-supreme-pikachu-vmax"

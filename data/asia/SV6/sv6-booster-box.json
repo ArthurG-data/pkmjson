@@ -1,9 +1,11 @@
 {
   "id": "sv6-booster-box",
+  "uuid": "67681638-b6f6-5f7b-a5dc-d47ab75f501c",
   "region": "asia",
   "set": "SV6",
   "category": "booster_box",
   "name": "Transformation Mask Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ff38694b-fe20-5f51-a035-95332a1ec233",
       "name": "Transformation Mask Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

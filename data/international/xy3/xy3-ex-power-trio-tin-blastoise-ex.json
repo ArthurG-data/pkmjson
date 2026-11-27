@@ -1,15 +1,18 @@
 {
   "id": "xy3-ex-power-trio-tin-blastoise-ex",
+  "uuid": "42b26996-c672-5d20-89c2-5fcded876b60",
   "region": "international",
   "set": "xy3",
   "category": "tin",
   "name": "EX Power Trio Tin [Blastoise EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8ea135e8-8521-5589-bba1-167e53a7ce26",
       "name": "EX Power Trio Tin [Blastoise EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c0c0a8ca-eeac-5d5f-84fc-4bea35700e9d",
       "name": "Boîte Trio Puissance EX Tortank",
       "contents": {
         "sealed": [

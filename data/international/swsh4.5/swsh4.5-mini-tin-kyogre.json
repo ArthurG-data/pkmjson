@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mini-tin-kyogre",
+  "uuid": "a492ab73-2600-5c30-8668-fa966f02ae0e",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates Mini Tin [Kyogre]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a9e35b53-9f9a-5c72-b77c-2dd0e06a15ba",
       "name": "Shining Fates Mini Tin [Kyogre]",
       "releaseDate": "2021-03-19",
       "identifiers": {

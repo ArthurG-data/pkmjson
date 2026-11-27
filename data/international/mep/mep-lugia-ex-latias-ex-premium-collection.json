@@ -1,9 +1,11 @@
 {
   "id": "mep-lugia-ex-latias-ex-premium-collection",
+  "uuid": "add61fa0-c7ca-59fc-aedf-cbe0d1ebb1be",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Lugia ex & Latias ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "74609ce2-3f13-5f0f-8fea-0304c7a23139",
       "name": "Lugia ex & Latias ex Premium Collection",
       "releaseDate": "2025-10-17",
       "identifiers": {

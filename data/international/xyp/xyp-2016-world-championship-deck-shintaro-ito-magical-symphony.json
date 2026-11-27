@@ -1,9 +1,11 @@
 {
   "id": "xyp-2016-world-championship-deck-shintaro-ito-magical-symphony",
+  "uuid": "c00a0743-bf67-57fc-95f3-5b4b0b27eb6f",
   "region": "international",
   "set": "xyp",
   "category": "battle_deck",
   "name": "2016 World Championship Deck: Shintaro Ito (Magical Symphony)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d96db84e-7fa8-5314-8db7-07b79cf7a702",
       "name": "2016 World Championship Deck: Shintaro Ito (Magical Symphony)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-hoenn",
+  "uuid": "25a16782-7bc4-5a71-9739-60750b24bf96",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Hoenn]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6589c94b-eb15-57ea-abc3-7a443ef49b49",
       "name": "Celebrations Mini Tin [Hoenn]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "base4-booster-box",
+  "uuid": "5e70e529-0870-5ea4-a22c-6da6b92ff8ca",
   "region": "international",
   "set": "base4",
   "category": "booster_box",
   "name": "Base Set 2 Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271890
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d95a4b46-0026-531e-b482-e3f2f50191ce",
       "name": "Base Set 2 Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

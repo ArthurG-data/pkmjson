@@ -1,9 +1,11 @@
 {
   "id": "sm4-marshadow-figure-collection",
+  "uuid": "5d6263c5-b6f5-5d5c-b8b9-55a2b2c401e0",
   "region": "international",
   "set": "sm4",
   "category": "collection_box",
   "name": "Marshadow Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "94ba43a3-ca39-5497-9315-840f9fa722bb",
       "name": "Marshadow Figure Collection",
       "releaseDate": "2017-11-16",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "734010b8-a7a6-5245-8258-db0db6ac2504",
       "name": "Coffret Marshadow",
       "releaseDate": "2017-11-17",
       "contents": {

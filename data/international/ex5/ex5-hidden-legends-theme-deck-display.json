@@ -1,15 +1,18 @@
 {
   "id": "ex5-hidden-legends-theme-deck-display",
+  "uuid": "845b2475-8ec3-5529-a6e3-6cbd3be997ce",
   "region": "international",
   "set": "ex5",
   "category": "case",
   "name": "Hidden Legends Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6ee3047d-844f-5a0e-846a-0514703cf2b0",
       "name": "Hidden Legends Theme Deck Display",
       "identifiers": {
         "tcgplayerProductIds": [

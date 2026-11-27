@@ -1,9 +1,11 @@
 {
   "id": "ex2-sandstorm-booster-pack",
+  "uuid": "34c74ea4-cc89-5fe1-b460-46bd730f1108",
   "region": "international",
   "set": "ex2",
   "category": "booster_pack",
   "name": "Sandstorm Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271885
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "11cddb09-31e7-58d0-b12b-6cc522190417",
       "name": "EX Sandstorm",
       "identifiers": {
         "tcgplayerProductIds": [

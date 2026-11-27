@@ -1,9 +1,11 @@
 {
   "id": "sm8-theme-deck-storm-caller-raikou",
+  "uuid": "1db788f8-44be-5504-8f36-97760dc4b6e7",
   "region": "international",
   "set": "sm8",
   "category": "theme_deck",
   "name": "Lost Thunder Theme Deck - \"Storm Caller\" [Raikou]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 363376
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "77a73243-7a36-5931-a725-40c0d0916d3c",
       "name": "Lost Thunder Theme Deck - \"Storm Caller\" [Raikou]",
       "identifiers": {
         "tcgplayerProductIds": [

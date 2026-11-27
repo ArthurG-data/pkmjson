@@ -1,9 +1,11 @@
 {
   "id": "sm5-single-pack-blister-kirlia",
+  "uuid": "73055fa5-20bf-5a81-8c6b-8dcb8c597455",
   "region": "international",
   "set": "sm5",
   "category": "blister",
   "name": "Ultra Prism Single Pack Blister [Kirlia]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585981
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "27701873-0346-5045-86d0-970af1e0ec11",
       "name": "Ultra Prism Single Pack Blister [Kirlia]",
       "identifiers": {
         "tcgplayerProductIds": [

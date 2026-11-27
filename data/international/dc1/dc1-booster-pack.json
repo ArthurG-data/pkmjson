@@ -1,9 +1,11 @@
 {
   "id": "dc1-booster-pack",
+  "uuid": "8b2c29af-01ac-52ef-91a3-f3d42aaf9d0d",
   "region": "international",
   "set": "dc1",
   "category": "booster_pack",
   "name": "Double Crisis Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 282553
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4d59cd5c-c015-5fe3-ae64-776c5930448e",
       "name": "Double Crisis",
       "identifiers": {
         "tcgplayerProductIds": [

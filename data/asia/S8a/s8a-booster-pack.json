@@ -1,9 +1,11 @@
 {
   "id": "s8a-booster-pack",
+  "uuid": "28bd7506-7681-5ee9-a6c0-494186f14673",
   "region": "asia",
   "set": "S8a",
   "category": "booster_pack",
   "name": "25th Anniversary Collection Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570886
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "18f05fc2-749d-5569-a655-30ac580b2c8c",
       "name": "25th Anniversary Collection Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

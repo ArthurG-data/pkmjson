@@ -1,9 +1,11 @@
 {
   "id": "smp-pokemon-poke-ball-tin-poke-ball",
+  "uuid": "80c927d4-5e0e-5726-a15b-fda3a51ecbea",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Poke Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f315131-7eed-50e6-b457-ed16c99be7e2",
       "name": "Pokemon - Poke Ball Tin - Poke Ball",
       "identifiers": {
         "tcgplayerProductIds": [

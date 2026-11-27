@@ -1,9 +1,11 @@
 {
   "id": "sm12-single-blister-pack-growlithe-arcanine",
+  "uuid": "67f5314c-fbe3-5556-87cb-a135d0bf9c4a",
   "region": "international",
   "set": "sm12",
   "category": "blister",
   "name": "Sun & Moon Single Blister Pack [Growlithe & Arcanine]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eeffceb0-bc0c-5f10-8de6-cbee4aaaa3a7",
       "name": "Sun & Moon Single Blister Pack [Growlithe & Arcanine]",
       "identifiers": {
         "tcgplayerProductIds": [

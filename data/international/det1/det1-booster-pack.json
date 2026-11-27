@@ -1,9 +1,11 @@
 {
   "id": "det1-booster-pack",
+  "uuid": "0df51301-941e-5676-9100-e31ae7b9ed12",
   "region": "international",
   "set": "det1",
   "category": "booster_pack",
   "name": "Detective Pikachu Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370625
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c347f810-b40a-5883-b501-79c68f6b63d6",
       "name": "Detective Pikachu",
       "identifiers": {
         "tcgplayerProductIds": [

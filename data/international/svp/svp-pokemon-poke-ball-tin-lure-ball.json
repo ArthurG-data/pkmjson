@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-lure-ball",
+  "uuid": "7af3a814-c846-5dab-8c30-24fd9e79a57e",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Lure Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df06bb5c-d326-5730-96fd-7ebfd1077f28",
       "name": "Pokemon - Poke Ball Tin - Lure Ball",
       "releaseDate": "2023-09-22",
       "identifiers": {

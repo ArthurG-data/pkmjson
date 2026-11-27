@@ -1,9 +1,11 @@
 {
   "id": "s4-booster-box",
+  "uuid": "6a2fe10c-9329-52b9-9b98-bf311e44e0c1",
   "region": "asia",
   "set": "S4",
   "category": "booster_box",
   "name": "Amazing Volt Tackle Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "fa858887-d950-5972-863d-e6192edcea65",
       "name": "Amazing Volt Tackle Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

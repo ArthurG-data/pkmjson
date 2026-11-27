@@ -1,9 +1,11 @@
 {
   "id": "sm8-fall-2018-collector-chest",
+  "uuid": "7734f07c-b906-52d3-9d45-8c1872972c1f",
   "region": "international",
   "set": "sm8",
   "category": "other",
   "name": "Fall 2018 Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -63,6 +65,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7b80b8c6-44c0-50fb-8384-cf9f20d1992e",
       "name": "Fall 2018 Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -75,6 +78,7 @@
     },
     {
       "language": "it",
+      "uuid": "76d30f6f-fd57-50d8-b0c2-f82e94cccd6f",
       "name": "Bauletto da collezione",
       "releaseDate": "2018-11-16",
       "sources": [
@@ -83,6 +87,7 @@
     },
     {
       "language": "de",
+      "uuid": "171acec4-d049-55ab-a77d-16a111ff9f48",
       "name": "Sammelkoffer (Herbst 2018)",
       "releaseDate": "2018-11-16",
       "sources": [
@@ -91,6 +96,7 @@
     },
     {
       "language": "es",
+      "uuid": "45db30e2-9eed-54d7-9e77-731fb3c83097",
       "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2018)",
       "releaseDate": "2018-11-16",
       "sources": [
@@ -99,6 +105,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3af0cc4e-f822-589e-b682-409938be27a0",
       "name": "Coffre de collection (Automne 2018)",
       "releaseDate": "2018-11-16",
       "sources": [

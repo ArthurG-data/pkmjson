@@ -1,9 +1,11 @@
 {
   "id": "swshp-ex-series-collector-s-tin",
+  "uuid": "5f8a2f1c-e706-5cc8-9f66-43be6308d38d",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "EX Series Collector's Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c7b39541-22e0-5fd7-833e-109909b5bc92",
       "name": "EX Series Collector's Tin",
       "identifiers": {
         "tcgplayerProductIds": [

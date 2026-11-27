@@ -1,9 +1,11 @@
 {
   "id": "swsh11-sleeved-booster-pack-case",
+  "uuid": "bef6804a-5029-59ec-b81d-1fe6838d25e9",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin Sleeved Booster Pack Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674700
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cca4286c-5865-55d3-8da1-50d5d4c9d749",
       "name": "Lost Origin Sleeved Booster Pack Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-mini-tin-leafeon",
+  "uuid": "5948a149-08c2-57fe-bfc5-9bd5f8fdb33e",
   "region": "international",
   "set": "sv08.5",
   "category": "tin",
   "name": "Prismatic Evolutions Mini Tin [Leafeon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798941
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d42a54a6-0712-5655-a9f8-1d33a416fe19",
       "name": "Prismatic Evolutions Mini Tin [Leafeon]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "c6cd1d26-fb7b-58fe-8993-8956c079b39f",
       "name": "Mini-Tin-Box Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-karmesin-purpur-prismatische-entwicklungen"
@@ -49,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "cb4ccd85-6893-5544-b537-3eaad3f040b0",
       "name": "Minilata Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-escarlata-y-purpura-evoluciones-prismaticas"
@@ -56,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "682c0dfb-b588-5349-8fc7-03d5e49f9b41",
       "name": "Mini‑boîte Écarlate et Violet – Évolutions Prismatiques",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-ecarlate-et-violet-evolutions-prismatiques"

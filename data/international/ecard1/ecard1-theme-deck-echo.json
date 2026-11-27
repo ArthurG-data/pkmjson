@@ -1,9 +1,11 @@
 {
   "id": "ecard1-theme-deck-echo",
+  "uuid": "186ca632-89db-5ca0-9036-cd07372b8f5a",
   "region": "international",
   "set": "ecard1",
   "category": "theme_deck",
   "name": "Expedition Theme Deck - \"Echo\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286572
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae448495-cea3-5cfa-997a-c2582c403691",
       "name": "Expedition Theme Deck - \"Echo\"",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm9b-booster-box",
+  "uuid": "402ff2b4-62de-52fb-b7ac-17f073445cef",
   "region": "asia",
   "set": "SM9b",
   "category": "booster_box",
   "name": "Full Metal Wall Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550431
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "404b1d44-30ee-5df8-9244-f01798d7c0e5",
       "name": "Full Metal Wall Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-greninja-ex-premium-collection",
+  "uuid": "6e0631e8-e2f4-50c1-af5f-c3262199d10c",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Mega Greninja ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24a60eca-83b8-5101-aba3-de45c77aa51f",
       "name": "Mega Greninja ex Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

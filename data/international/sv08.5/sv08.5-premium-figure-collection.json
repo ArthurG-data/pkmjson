@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-premium-figure-collection",
+  "uuid": "13d16db9-3ed1-5c7b-900c-e5f35824440a",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Premium Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834800
   },
@@ -38,6 +40,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3ed67cd8-e88f-5f16-b300-a05d2a8935bc",
       "name": "Prismatic Evolutions Premium Figure Collection",
       "releaseDate": "2025-09-26",
       "identifiers": {
@@ -51,6 +54,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f1c0d541-2aa2-55f7-aa3f-d2c6af3b3c46",
       "name": "Collection Premium avec figurine Écarlate et Violet Évolutions Prismatiques",
       "releaseDate": "2025-10-10",
       "sources": [
@@ -59,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "18153aaf-1fee-5515-8c9e-18697cc05249",
       "name": "Colección prémium con figura de Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-con-figura-de-escarlata-y-purpura-evoluciones-prismaticas"
@@ -66,6 +71,7 @@
     },
     {
       "language": "de",
+      "uuid": "2c4fc87a-8606-51fe-93a0-2118f07b0323",
       "name": "Premium-Figuren-Kollektion Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-figuren-kollektion-karmesin-purpur-prismatische-entwicklungen"
@@ -73,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "a943905f-0d59-53c7-8eef-89660e33d303",
       "name": "Collezione premium con statuina dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-statuina-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"

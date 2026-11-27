@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-booster-bundle-display",
+  "uuid": "343e2a39-e4f6-5522-82fd-8241703eba9e",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Booster Bundle Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798925
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "69eac4f1-34e5-5ec6-827d-4f379ef27e99",
       "name": "Prismatic Evolutions Booster Bundle Display",
       "identifiers": {
         "tcgplayerProductIds": [

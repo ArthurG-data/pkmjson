@@ -1,9 +1,11 @@
 {
   "id": "sv09-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "fb1995c2-3b39-5604-a64c-86543a2d5103",
   "region": "international",
   "set": "sv09",
   "category": "elite_trainer_box",
   "name": "Journey Together Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805594
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d49a8c10-0955-51d4-b883-ee71e8f3a6db",
       "name": "Journey Together Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

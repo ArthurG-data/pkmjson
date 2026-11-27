@@ -1,15 +1,18 @@
 {
   "id": "xy12-mini-pack",
+  "uuid": "db33e3d1-6145-5703-ab3b-243adeed9184",
   "region": "international",
   "set": "xy12",
   "category": "other",
   "name": "Evolutions Mini Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5b1bb87d-8320-591e-b65a-23c4610e623d",
       "name": "Evolutions Mini Pack",
       "identifiers": {
         "tcgplayerProductIds": [

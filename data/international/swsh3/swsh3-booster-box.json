@@ -1,9 +1,11 @@
 {
   "id": "swsh3-booster-box",
+  "uuid": "75ec643d-27cf-5788-b954-7442b0f21e88",
   "region": "international",
   "set": "swsh3",
   "category": "booster_box",
   "name": "Darkness Ablaze Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 462239
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "99613849-d470-57ab-8a8e-d3177ea772e3",
       "name": "Darkness Ablaze Booster Box",
       "releaseDate": "2020-08-14",
       "identifiers": {

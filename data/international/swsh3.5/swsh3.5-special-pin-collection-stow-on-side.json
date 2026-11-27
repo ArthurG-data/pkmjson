@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-special-pin-collection-stow-on-side",
+  "uuid": "d9433210-70d6-5cb0-a985-e24843464047",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Special Pin Collection [Stow-on-Side]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 488264
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "69be7456-c9f9-5cde-9a77-a6f1d8f880c4",
       "name": "Champion's Path Special Pin Collection [Stow-on-Side]",
       "releaseDate": "2020-10-02",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "33bbd3c6-6b65-55ef-bc31-1ca0aa1e6673",
       "name": "Collection spéciale avec pin's La Voie du Maître Arène d'Old Chister",
       "releaseDate": "2020-10-16",
       "sources": [

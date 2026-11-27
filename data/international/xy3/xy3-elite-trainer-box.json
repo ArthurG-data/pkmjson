@@ -1,9 +1,11 @@
 {
   "id": "xy3-elite-trainer-box",
+  "uuid": "bf8ef47f-a83f-5c0f-8c5f-e2557684578a",
   "region": "international",
   "set": "xy3",
   "category": "elite_trainer_box",
   "name": "Furious Fists Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286948
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c6cff789-2c22-54ac-aaa3-1948bc8dad66",
       "name": "Furious Fists Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv01-sleeved-booster-pack-bundle-set-of-8",
+  "uuid": "b7209ffe-5ef1-5a4e-9f95-d5fc1b05d12c",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet Sleeved Booster Pack Bundle [Set of 8]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sleeved Booster packs for Scarlet & Violet; 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "afa9dc41-c911-54f1-bf2e-c406df9224d8",
       "name": "Scarlet & Violet Sleeved Booster Pack Bundle [Set of 8]",
       "releaseDate": "2023-03-31",
       "identifiers": {

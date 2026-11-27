@@ -1,9 +1,11 @@
 {
   "id": "mep-alola-trio-pin-blister",
+  "uuid": "6848612b-5fe3-512a-bb17-969d1774c2ac",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Alola Trio Pin Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "83ce1a14-1631-5121-b016-4b405dddc502",
       "name": "Alola Trio Pin Blister",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-zeraora-v",
+  "uuid": "c30db691-8248-5c3b-b914-ffb7362f3e56",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Zeraora V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "65845e32-ed98-5600-b919-e5a0e0979a49",
       "name": "V Battle Deck [Zeraora V]",
       "identifiers": {
         "tcgplayerProductIds": [

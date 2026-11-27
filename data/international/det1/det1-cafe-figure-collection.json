@@ -1,9 +1,11 @@
 {
   "id": "det1-cafe-figure-collection",
+  "uuid": "aa7bddf9-311a-5f51-9cff-5ecad7a055c3",
   "region": "international",
   "set": "det1",
   "category": "collection_box",
   "name": "Detective Pikachu Cafe Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ea4be0e1-f700-56b9-bd4c-66dc3b30203b",
       "name": "Detective Pikachu Cafe Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [

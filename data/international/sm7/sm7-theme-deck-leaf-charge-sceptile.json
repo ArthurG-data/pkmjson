@@ -1,9 +1,11 @@
 {
   "id": "sm7-theme-deck-leaf-charge-sceptile",
+  "uuid": "53ecc769-d44d-5a37-8c03-bdfc731a39f2",
   "region": "international",
   "set": "sm7",
   "category": "theme_deck",
   "name": "Celestial Storm Theme Deck - \"Leaf Charge\" [Sceptile]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 361597
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f000b547-bc67-5233-8e77-447fbb9d657d",
       "name": "Celestial Storm Theme Deck - \"Leaf Charge\" [Sceptile]",
       "identifiers": {
         "tcgplayerProductIds": [

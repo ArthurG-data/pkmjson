@@ -1,9 +1,11 @@
 {
   "id": "swshp-divergent-powers-tin-hisuian-samurott-v",
+  "uuid": "1b9ca303-d123-5272-b980-913e3af05baa",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Divergent Powers Tin [Hisuian Samurott V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "938def7d-f092-561a-afb9-e791219173e6",
       "name": "Divergent Powers Tin [Hisuian Samurott V]",
       "releaseDate": "2022-06-17",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "es",
+      "uuid": "69c5cc4d-7ca8-5b62-9906-adf8ace90f2b",
       "name": "Lata Poderes Divergentes",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-divergentes"
@@ -47,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "058a9ed1-5ac0-5c8b-849c-3b294f4f3e03",
       "name": "Boîte Puissances Divergentes",
       "releaseDate": "2022-06-17",
       "sources": [
@@ -55,6 +60,7 @@
     },
     {
       "language": "it",
+      "uuid": "7b89ed90-af59-5217-b5ec-f8ccd633971c",
       "name": "Scatola da collezione Poteri Divergenti",
       "releaseDate": "2022-06-17",
       "sources": [

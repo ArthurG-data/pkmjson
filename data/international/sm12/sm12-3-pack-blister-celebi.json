@@ -1,9 +1,11 @@
 {
   "id": "sm12-3-pack-blister-celebi",
+  "uuid": "c8659d0c-4b58-512f-adc6-9d83c02c4295",
   "region": "international",
   "set": "sm12",
   "category": "blister",
   "name": "Cosmic Eclipse 3 Pack Blister [Celebi]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585903
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ff55404c-3252-52f5-8ad6-e12e1d612e96",
       "name": "Cosmic Eclipse 3 Pack Blister [Celebi]",
       "releaseDate": "2019-11-01",
       "identifiers": {

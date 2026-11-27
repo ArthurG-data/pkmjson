@@ -1,9 +1,11 @@
 {
   "id": "swsh6-single-pack-blister-phanpy",
+  "uuid": "ac8a767f-41ef-5823-ab3e-4f378a735201",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign Single Pack Blister [Phanpy]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585718
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c62bc285-081e-55e4-8686-a1a277db702d",
       "name": "Chilling Reign Single Pack Blister [Phanpy]",
       "releaseDate": "2021-06-18",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "swshp-trainer-kit-alolan-sandslash-alolan-ninetales-display",
+  "uuid": "acc66630-e169-5ec9-b031-7333d93fa0c8",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "30f50e65-9f7f-5a06-829b-f0749e148e7b",
       "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales Display",
       "identifiers": {
         "tcgplayerProductIds": [

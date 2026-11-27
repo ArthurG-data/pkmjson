@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-collection-shiny-cramorant-v",
+  "uuid": "f25c173c-41b9-5168-ac4f-639951b08cf2",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Collection [Shiny Cramorant V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6f4fdd46-df9a-527d-8c2a-a811cc49a2c7",
       "name": "Shining Fates Collection [Shiny Cramorant V]",
       "identifiers": {
         "tcgplayerProductIds": [

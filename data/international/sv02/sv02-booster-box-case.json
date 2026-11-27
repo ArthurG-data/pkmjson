@@ -1,9 +1,11 @@
 {
   "id": "sv02-booster-box-case",
+  "uuid": "2909c6b8-3840-551d-9286-6d67d5798d2b",
   "region": "international",
   "set": "sv02",
   "category": "case",
   "name": "Paldea Evolved Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703162
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c1db593-7ce1-542b-9bb1-d3834114def5",
       "name": "Paldea Evolved Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

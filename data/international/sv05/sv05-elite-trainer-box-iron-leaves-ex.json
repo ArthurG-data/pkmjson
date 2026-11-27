@@ -1,9 +1,11 @@
 {
   "id": "sv05-elite-trainer-box-iron-leaves-ex",
+  "uuid": "c0459ddd-91dc-5bc7-a7a2-69f3486e5769",
   "region": "international",
   "set": "sv05",
   "category": "elite_trainer_box",
   "name": "Temporal Forces Elite Trainer Box [Iron Leaves ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -51,6 +53,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cabab116-05e9-5082-9263-28d10506aed7",
       "name": "Temporal Forces Elite Trainer Box [Iron Leaves ex]",
       "identifiers": {
         "tcgplayerProductIds": [

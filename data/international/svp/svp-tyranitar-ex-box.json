@@ -1,9 +1,11 @@
 {
   "id": "svp-tyranitar-ex-box",
+  "uuid": "8e8686ba-a710-5909-b968-c7d4e34e6e61",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Tyranitar Ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f44c729a-c743-5af1-ac30-b0dc6a1af631",
       "name": "Tyranitar Ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "base1-base-set-theme-deck-brushfire",
+  "uuid": "2ef7ec9e-ff84-5419-92f2-f0e3d1482d64",
   "region": "international",
   "set": "base1",
   "category": "theme_deck",
   "name": "Base Set Theme Deck - \"Brushfire\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286491
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "136b2a70-bc48-507d-9a73-68d1ce4d4a51",
       "name": "Base Set Theme Deck - \"Brushfire\"",
       "identifiers": {
         "tcgplayerProductIds": [

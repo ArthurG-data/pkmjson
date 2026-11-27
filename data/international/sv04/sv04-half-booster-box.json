@@ -1,9 +1,11 @@
 {
   "id": "sv04-half-booster-box",
+  "uuid": "25c39418-f832-5bed-ac3e-5f0eaf4e5be5",
   "region": "international",
   "set": "sv04",
   "category": "half_booster_box",
   "name": "Paradox Rift Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 729187
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9dc7914f-ebaf-5f80-9843-55a2863b4cc8",
       "name": "Paradox Rift Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv05-premium-checklane-blister-togekiss",
+  "uuid": "1ea1abce-a2b7-5080-a69d-de945e1d8650",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces Premium Checklane Blister [Togekiss]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750419
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "da0a987c-f68c-5932-9d50-73984d57d945",
       "name": "Temporal Forces Premium Checklane Blister [Togekiss]",
       "identifiers": {
         "tcgplayerProductIds": [

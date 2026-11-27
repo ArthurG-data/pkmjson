@@ -1,9 +1,11 @@
 {
   "id": "sv02-build-battle-box",
+  "uuid": "d9cf7bd5-d21b-58e5-90c1-7e16c4c4aac4",
   "region": "international",
   "set": "sv02",
   "category": "build_and_battle_box",
   "name": "Paldea Evolved Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703173
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "81996770-3489-5e32-b076-27480ef61138",
       "name": "Paldea Evolved Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

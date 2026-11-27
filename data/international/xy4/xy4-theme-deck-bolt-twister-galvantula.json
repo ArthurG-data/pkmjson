@@ -1,9 +1,11 @@
 {
   "id": "xy4-theme-deck-bolt-twister-galvantula",
+  "uuid": "ce687e4f-418c-54e2-874d-4fc777761250",
   "region": "international",
   "set": "xy4",
   "category": "theme_deck",
   "name": "Phantom Forces Theme Deck - \"Bolt Twister\" [Galvantula]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286624
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "406706b4-f6fd-5964-b6c0-7ddac1c06d1f",
       "name": "Phantom Forces Theme Deck - \"Bolt Twister\" [Galvantula]",
       "identifiers": {
         "tcgplayerProductIds": [

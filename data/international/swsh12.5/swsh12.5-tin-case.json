@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-tin-case",
+  "uuid": "2691e5ec-7814-5e18-a842-a37aabdfc4f7",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "765d63ff-bc05-516a-bd36-e66d459d8ac0",
       "name": "Crown Zenith Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

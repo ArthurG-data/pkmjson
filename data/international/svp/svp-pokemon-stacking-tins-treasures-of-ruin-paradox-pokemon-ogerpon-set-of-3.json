@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-stacking-tins-treasures-of-ruin-paradox-pokemon-ogerpon-set-of-3",
+  "uuid": "d86a3efb-bdd0-5ecd-9b17-62fe64c7020c",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon Stacking Tins: Treasures of Ruin, Paradox Pokemon, Ogerpon [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1ae97bee-9470-5795-a491-19be315413cf",
       "name": "Pokemon Stacking Tins: Treasures of Ruin, Paradox Pokemon, Ogerpon [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

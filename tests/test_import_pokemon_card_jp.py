@@ -1,10 +1,19 @@
 """The official Japanese list's names and dates, and the set match that keeps TCGdex's misnamed sets out."""
 import datetime as dt
 from collections import defaultdict
-
 from pathlib import Path
 
-from import_pokemon_card_jp import SetIndex, clean_title, key, pack_name, pokemon_matches, release_day
+from import_pokemon_card_jp import (
+    SEARCH_PAGE,
+    SetIndex,
+    clean_title,
+    key,
+    name_release,
+    names_in,
+    pack_name,
+    pokemon_matches,
+    release_day,
+)
 from pkmjson import Family
 
 
@@ -59,3 +68,24 @@ def test_a_match_that_is_not_one_to_one_is_left_out():
     one = [_product("スターターセットex ピカチュウex")]
     twins = [_family("a", "Starter Set ex Pikachu ex"), _family("b", "Pikachu ex Starter Set")]
     assert pokemon_matches(twins, one, SPECIES) == []
+
+
+def test_a_name_counts_only_where_it_is_not_the_start_of_a_longer_name():
+    assert names_in("ミュウ", "スターターセット ミュウex")
+    assert not names_in("ミュウ", "スターターセット テラスタル ミュウツーex")
+    assert names_in("ゲンガー", "スターターセットMEGA メガゲンガーex")
+    assert names_in("ゾロア", "スターターセットex ゾロア＆ゾロアークex")
+
+
+def test_naming_a_release_keeps_its_other_sources_and_replaces_its_old_search_page():
+    old_search = SEARCH_PAGE + "keyword=old"
+    family = Family(None, {"releases": [{"language": "ja", "uuid": "u", "name": "Booster",
+                                         "sources": ["https://www.tcgplayer.com/product/1", "https://example.com/",
+                                                     old_search]}]})
+    product = {"kind": "expansion", "productTitle": "拡張パック「バトルパートナーズ」", "releaseDate": "2025年1月24日"}
+    assert name_release(family, product)
+    release = family.data["releases"][0]
+    assert release["sources"][:2] == ["https://www.tcgplayer.com/product/1", "https://example.com/"]
+    assert len(release["sources"]) == 3 and release["sources"][2] != old_search
+    assert release["uuid"] == "u" and release["releaseDate"] == "2025-01-24"
+    assert not name_release(family, product)

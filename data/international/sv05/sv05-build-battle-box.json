@@ -1,9 +1,11 @@
 {
   "id": "sv05-build-battle-box",
+  "uuid": "68788df6-efd0-5f61-b907-d3ccbaf4ee4c",
   "region": "international",
   "set": "sv05",
   "category": "build_and_battle_box",
   "name": "Temporal Forces Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750408
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ce6afcdf-4722-5c7a-a2d3-17cc111407e7",
       "name": "Temporal Forces Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

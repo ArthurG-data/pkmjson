@@ -1,15 +1,18 @@
 {
   "id": "xy1-two-pack-blister-kanto-trio",
+  "uuid": "386d1a7f-9920-51ff-873a-bdd9055ef384",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Two Pack Blister [Kanto Trio]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2d777cf8-d34e-5034-b0b9-5f8b31c6376b",
       "name": "XY Two Pack Blister [Kanto Trio]",
       "identifiers": {
         "tcgplayerProductIds": [

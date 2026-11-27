@@ -1,9 +1,11 @@
 {
   "id": "swsh7-elite-trainer-box-case",
+  "uuid": "5fd2a9a0-b906-5725-8177-9a6669064e22",
   "region": "international",
   "set": "swsh7",
   "category": "case",
   "name": "Evolving Skies Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873116
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9f60b425-96f3-5306-8e61-dab4459cdb3a",
       "name": "Evolving Skies Elite Trainer Box Case",
       "releaseDate": "2021-08-27",
       "identifiers": {

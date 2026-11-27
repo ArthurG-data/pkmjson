@@ -1,9 +1,11 @@
 {
   "id": "swshp-kanto-power-mini-tins-5-pack",
+  "uuid": "9f4de116-2703-5039-95d3-1db46b8fcef0",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Kanto Power Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a0e85e66-91b2-5539-8df8-001b4fcfa553",
       "name": "Kanto Power Mini Tins 5-Pack",
       "identifiers": {
         "tcgplayerProductIds": [

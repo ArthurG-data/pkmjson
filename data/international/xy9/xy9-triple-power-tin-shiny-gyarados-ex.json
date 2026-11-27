@@ -1,15 +1,18 @@
 {
   "id": "xy9-triple-power-tin-shiny-gyarados-ex",
+  "uuid": "928337de-4b8e-5f03-9e02-1eef766a6f33",
   "region": "international",
   "set": "xy9",
   "category": "tin",
   "name": "Triple Power Tin [Shiny Gyarados EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "73b5352d-2afe-5a85-9195-07ae35d70815",
       "name": "Triple Power Tin [Shiny Gyarados EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "50a7d3d1-0a35-5965-afbd-700fc9d844cc",
       "name": "Boîte Triple Puissance Léviator",
       "releaseDate": "2016-03-12",
       "sources": [

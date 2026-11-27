@@ -1,9 +1,11 @@
 {
   "id": "ex4-ex-ruby-sapphire-theme-deck-sapphire-swampert",
+  "uuid": "30ed71c1-5273-5e84-8334-e6e196c14ad6",
   "region": "international",
   "set": "ex4",
   "category": "theme_deck",
   "name": "EX Ruby & Sapphire Theme Deck - \"Sapphire\" [Swampert]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cdd6ae23-b3d2-5102-88fa-09c01151ece5",
       "name": "EX Ruby & Sapphire Theme Deck - \"Sapphire\" [Swampert]",
       "identifiers": {
         "tcgplayerProductIds": [

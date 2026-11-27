@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-challengers-tin-toxtricity-v",
+  "uuid": "d3ea812b-e0ab-585a-95d6-e71d72d9a0f9",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Challengers Tin [Toxtricity V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1b693695-b626-511d-916e-e22114d2bdae",
       "name": "Galar Challengers Tin [Toxtricity V]",
       "identifiers": {
         "tcgplayerProductIds": [

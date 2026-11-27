@@ -1,9 +1,11 @@
 {
   "id": "swsh10-booster-pack",
+  "uuid": "845c8189-fa8c-5d28-9674-db9e692b1393",
   "region": "international",
   "set": "swsh10",
   "category": "booster_pack",
   "name": "Astral Radiance Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611350
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "30e0173b-fc8d-513f-8e39-081955bde01b",
       "name": "Sword & Shield—Astral Radiance",
       "releaseDate": "2022-05-27",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7e715cfe-49b4-58e2-a09a-b4880116df22",
       "name": "Épée et Bouclier – Astres Radieux",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Astres_Radieux",
@@ -44,6 +48,7 @@
     },
     {
       "language": "de",
+      "uuid": "85647eab-1ca1-5893-a6f3-62aed06cb37e",
       "name": "Schwert & Schild – Astralglanz",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-astralglanz",
@@ -52,6 +57,7 @@
     },
     {
       "language": "es",
+      "uuid": "1badc0f2-71ea-5b65-b58d-50a312871f62",
       "name": "Espada y Escudo-Resplandor Astral",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-eite-de-espada-y-escudo-resplandor-astral",
@@ -60,6 +66,7 @@
     },
     {
       "language": "it",
+      "uuid": "fc505a93-f311-540e-8960-3759c08825c4",
       "name": "Spada e Scudo - Lucentezza Siderale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-spada-e-scudo-lucentezza-siderale",

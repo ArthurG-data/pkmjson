@@ -1,15 +1,18 @@
 {
   "id": "svp-team-rocket-s-mewtwo-ex-box-case",
+  "uuid": "8d3f8209-a624-5e36-9987-a0fa792c4af4",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Team Rocket's Mewtwo ex Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6279ed8f-7c14-5d68-aa21-5cc0759c439c",
       "name": "Team Rocket's Mewtwo ex Box Case",
       "releaseDate": "2025-06-13",
       "identifiers": {

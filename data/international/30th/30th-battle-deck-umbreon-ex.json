@@ -1,9 +1,11 @@
 {
   "id": "30th-battle-deck-umbreon-ex",
+  "uuid": "48f846d1-5d79-5bd0-abf8-e2c90e29089b",
   "region": "international",
   "set": "30th",
   "category": "battle_deck",
   "name": "30th Celebration Battle Deck [Umbreon ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895563
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "49254682-9fc6-5761-8362-aab929d4012d",
       "name": "30th Celebration Battle Deck [Umbreon ex]",
       "releaseDate": "2026-10-30",
       "identifiers": {

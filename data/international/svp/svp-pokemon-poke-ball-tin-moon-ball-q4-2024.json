@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-moon-ball-q4-2024",
+  "uuid": "6a0d8230-9021-5a2c-bd40-962a4be7e663",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Moon Ball (Q4 2024)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6079f575-41c0-50cf-a7d0-4cf383addb5e",
       "name": "Pokemon - Poke Ball Tin - Moon Ball (Q4 2024)",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "it",
+      "uuid": "2e3b423e-c884-5d24-9180-04c3b3afe4c2",
       "name": "Scatola da collezione Poké Ball (autunno 2024)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-autunno-2024"

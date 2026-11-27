@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-super-premium-collection",
+  "uuid": "5ec7c204-1568-5df0-af83-793ccc3b37fb",
   "region": "international",
   "set": "sm7.5",
   "category": "premium_collection",
   "name": "Dragon Majesty Super-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6855f48c-255d-51b7-bc45-b209982fe79e",
       "name": "Dragon Majesty Super-Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

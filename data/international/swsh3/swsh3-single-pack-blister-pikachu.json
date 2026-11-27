@@ -1,9 +1,11 @@
 {
   "id": "swsh3-single-pack-blister-pikachu",
+  "uuid": "b6c86bf5-8c2c-59bb-9121-c5bc72ab495e",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze Single Pack Blister [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585872
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b926c60b-8740-5708-9b6f-65f8eb251fef",
       "name": "Darkness Ablaze Single Pack Blister [Pikachu]",
       "releaseDate": "2020-08-14",
       "identifiers": {

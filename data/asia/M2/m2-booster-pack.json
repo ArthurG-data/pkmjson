@@ -1,9 +1,11 @@
 {
   "id": "m2-booster-pack",
+  "uuid": "cce42a08-2e45-54a1-a01c-7289bc446956",
   "region": "asia",
   "set": "M2",
   "category": "booster_pack",
   "name": "Inferno X Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 845911
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8b92c89f-fae1-5e4d-9608-48ec914d9e27",
       "name": "拡張パック 「インフェルノX」",
       "releaseDate": "2025-09-26",
       "identifiers": {

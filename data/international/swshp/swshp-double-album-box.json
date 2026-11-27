@@ -1,15 +1,18 @@
 {
   "id": "swshp-double-album-box",
+  "uuid": "8f8958bd-34ac-5ba1-bf36-67d9372d7167",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Double Album Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "714eb6d9-cd1f-538a-9d7d-5862883f25f9",
       "name": "Double Album Box",
       "identifiers": {
         "tcgplayerProductIds": [

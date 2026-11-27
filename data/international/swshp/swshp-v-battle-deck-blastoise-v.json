@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-blastoise-v",
+  "uuid": "068b2d7a-da45-5f6c-aee1-0b96936e745e",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Blastoise V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f79176e9-7fe7-5aa5-bc58-266733c3bf8c",
       "name": "V Battle Deck [Blastoise V]",
       "identifiers": {
         "tcgplayerProductIds": [

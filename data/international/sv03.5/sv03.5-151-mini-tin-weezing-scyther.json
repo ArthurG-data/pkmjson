@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-weezing-scyther",
+  "uuid": "cf955d43-238a-5050-9bee-acc4c04e09d3",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Weezing & Scyther]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d41a6479-27c4-5629-8a3e-e19a146f9d2d",
       "name": "151 Mini Tin [Weezing & Scyther]",
       "identifiers": {
         "tcgplayerProductIds": [

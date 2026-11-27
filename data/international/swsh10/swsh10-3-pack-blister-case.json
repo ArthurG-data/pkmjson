@@ -1,15 +1,18 @@
 {
   "id": "swsh10-3-pack-blister-case",
+  "uuid": "5bf54377-bf4f-5a07-afc6-76b93fee8e71",
   "region": "international",
   "set": "swsh10",
   "category": "case",
   "name": "Astral Radiance 3 Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b7803221-d7e9-53ea-bd9d-64fc2efb1ac1",
       "name": "Astral Radiance 3 Pack Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

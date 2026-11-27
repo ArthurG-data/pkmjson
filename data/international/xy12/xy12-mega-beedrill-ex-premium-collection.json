@@ -1,15 +1,18 @@
 {
   "id": "xy12-mega-beedrill-ex-premium-collection",
+  "uuid": "b05f449c-a2ee-5d8d-ac8b-1566d02c9533",
   "region": "international",
   "set": "xy12",
   "category": "premium_collection",
   "name": "Mega Beedrill EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9c60aca4-55c0-571b-af81-21dae382b974",
       "name": "Mega Beedrill EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "53afb8a2-2832-5b1e-9cee-974b2fb8f809",
       "name": "Coffret Méga-Dardargnan",
       "releaseDate": "2017-09-08",
       "sources": [

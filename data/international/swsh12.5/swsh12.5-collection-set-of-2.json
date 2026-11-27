@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-collection-set-of-2",
+  "uuid": "ae2d16ff-3c8d-5a19-8216-ff4082b594d1",
   "region": "international",
   "set": "swsh12.5",
   "category": "other",
   "name": "Crown Zenith Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Regieleki V or Regidrago V; 1 foil card featuring Regidrago or Regieleki; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "15e242b6-d1dd-54fe-800a-fc2e7f4e632a",
       "name": "Crown Zenith Collection [Set of 2]",
       "releaseDate": "2023-01-20",
       "identifiers": {

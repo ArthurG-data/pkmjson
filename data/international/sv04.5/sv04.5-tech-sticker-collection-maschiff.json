@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-tech-sticker-collection-maschiff",
+  "uuid": "784977e4-6369-58d8-80c2-2ff90bf64989",
   "region": "international",
   "set": "sv04.5",
   "category": "collection_box",
   "name": "Paldean Fates Tech Sticker Collection [Maschiff]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745546
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "914a0659-1f8f-5722-9c3f-81de642c546c",
       "name": "Paldean Fates Tech Sticker Collection [Maschiff]",
       "releaseDate": "2024-01-26",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cf5aed16-e64b-5016-8757-4d674410fd3c",
       "name": "Collection autocollant réajustable Écarlate et Violet Destinées de Paldea Grondogue",
       "releaseDate": "2024-01-26",
       "sources": [

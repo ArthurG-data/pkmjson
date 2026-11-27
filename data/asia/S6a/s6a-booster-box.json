@@ -1,9 +1,11 @@
 {
   "id": "s6a-booster-box",
+  "uuid": "a4847783-b30f-5880-9270-ffae595a1415",
   "region": "asia",
   "set": "S6a",
   "category": "booster_box",
   "name": "Eevee Heroes Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 564175
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6f242812-28f0-5619-b1a9-6b7c4e5d76bb",
       "name": "Eevee Heroes Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

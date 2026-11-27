@@ -1,15 +1,18 @@
 {
   "id": "g1-red-blue-collection-charizard-ex",
+  "uuid": "c79af72f-0cd9-56fa-b230-ca90deff45cd",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Red & Blue Collection [Charizard EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7e49ad49-9bc4-58e7-b113-927167360fc4",
       "name": "Red & Blue Collection [Charizard EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4b6b6523-a62c-51bb-a072-56091ce9bc23",
       "name": "Collection Rouge & Bleu Dracaufeu",
       "releaseDate": "2016-06-18",
       "sources": [

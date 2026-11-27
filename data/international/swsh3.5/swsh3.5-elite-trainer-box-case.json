@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-elite-trainer-box-case",
+  "uuid": "f7d86c3b-01aa-5bd1-b515-b920f5102097",
   "region": "international",
   "set": "swsh3.5",
   "category": "case",
   "name": "Champion's Path Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 690876
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bfcec1f3-4ea6-587d-9edf-8365c6348c88",
       "name": "Champion's Path Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

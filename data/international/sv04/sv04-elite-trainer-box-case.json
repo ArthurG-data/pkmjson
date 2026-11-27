@@ -1,9 +1,11 @@
 {
   "id": "sv04-elite-trainer-box-case",
+  "uuid": "c2a5dfa3-289e-516e-a78e-9b497d808561",
   "region": "international",
   "set": "sv04",
   "category": "case",
   "name": "Paradox Rift Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 729190
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "512db795-5e10-5189-8454-8e8a85c10e8d",
       "name": "Paradox Rift Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh11-premium-checklane-blister-torterra",
+  "uuid": "58565f80-f792-55a7-b418-ded5ac96087b",
   "region": "international",
   "set": "swsh11",
   "category": "blister",
   "name": "Lost Origin Premium Checklane Blister [Torterra]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672599
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4c02b354-cb56-5ba8-be79-902cbcd67c89",
       "name": "Lost Origin Premium Checklane Blister [Torterra]",
       "releaseDate": "2022-09-09",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "xy9-single-pack-blister-pikachu",
+  "uuid": "e57171d5-b24a-5337-94e1-d06ba2f67102",
   "region": "international",
   "set": "xy9",
   "category": "blister",
   "name": "BREAKpoint Single Pack Blister [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586354
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "49f9b77d-948f-5056-a03e-90f6c78e0722",
       "name": "BREAKpoint Single Pack Blister [Pikachu]",
       "identifiers": {
         "tcgplayerProductIds": [

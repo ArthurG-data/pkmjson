@@ -1,9 +1,11 @@
 {
   "id": "svel-skeledirge-ex-terastal-starter-deck",
+  "uuid": "dbb4e6c4-a51a-58bd-8748-f916bb1e6930",
   "region": "asia",
   "set": "SVEL",
   "category": "battle_deck",
   "name": "Skeledirge ex Terastal Starter Deck",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "778b5ab8-a23a-5651-9631-7e336c04e6a9",
       "name": "Skeledirge ex Terastal Starter Deck",
       "identifiers": {
         "tcgplayerProductIds": [

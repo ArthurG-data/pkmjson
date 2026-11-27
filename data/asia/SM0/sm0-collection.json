@@ -1,15 +1,18 @@
 {
   "id": "sm0-collection",
+  "uuid": "9a9e5b3e-5ec5-556a-b8ac-09465a4139df",
   "region": "asia",
   "set": "SM0",
   "category": "collection_box",
   "name": "Pikachu's New Friends Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "5ed9a13c-a3d9-54fa-aec4-49e2be5d89b4",
       "name": "「ピカチュウと新しい仲間たち」",
       "releaseDate": "2016-11-18",
       "identifiers": {

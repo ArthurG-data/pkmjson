@@ -1,9 +1,11 @@
 {
   "id": "sv05-sleeved-booster-pack",
+  "uuid": "4bc935eb-3af9-5bce-beaf-f4087f2af755",
   "region": "international",
   "set": "sv05",
   "category": "sleeved_booster_pack",
   "name": "Temporal Forces Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750400
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9776beed-e09c-59bd-8b10-819ddccff565",
       "name": "Temporal Forces Sleeved Booster Pack",
       "releaseDate": "2024-03-22",
       "identifiers": {

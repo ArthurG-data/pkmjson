@@ -1,9 +1,11 @@
 {
   "id": "swsh7-premium-checklane-blister-houndoom",
+  "uuid": "d51ace90-e957-510f-b06a-2d40812ce19a",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies Premium Checklane Blister [Houndoom]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a46ae066-59b5-55d4-877d-07a703013330",
       "name": "Evolving Skies Premium Checklane Blister [Houndoom]",
       "identifiers": {
         "tcgplayerProductIds": [

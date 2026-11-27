@@ -1,9 +1,11 @@
 {
   "id": "swsh12-booster-box-case",
+  "uuid": "9b2ef1b9-bd87-54fd-a4fd-8d5733658b9d",
   "region": "international",
   "set": "swsh12",
   "category": "case",
   "name": "Silver Tempest Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672310
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0959fd26-994b-5c97-86bc-9924cf48c373",
       "name": "Silver Tempest Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

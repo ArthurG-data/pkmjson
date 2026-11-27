@@ -1,9 +1,11 @@
 {
   "id": "dp5-theme-deck-forest-force",
+  "uuid": "1f8f365f-d60c-57cf-8fc0-99862735b45f",
   "region": "international",
   "set": "dp5",
   "category": "theme_deck",
   "name": "Majestic Dawn Theme Deck - \"Forest Force\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286588
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "424a4716-767a-5a1a-963c-da0ed9687872",
       "name": "Majestic Dawn Theme Deck - \"Forest Force\"",
       "identifiers": {
         "tcgplayerProductIds": [

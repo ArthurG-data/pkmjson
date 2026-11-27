@@ -1,9 +1,11 @@
 {
   "id": "swsh1-elite-trainer-box-zamazenta",
+  "uuid": "c31f8dc8-92c4-5a25-add6-21780e38cc5d",
   "region": "international",
   "set": "swsh1",
   "category": "elite_trainer_box",
   "name": "Sword & Shield Elite Trainer Box [Zamazenta]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 427141
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3a7fcf8e-3c00-5a9c-a2b0-ba209d12368a",
       "name": "Sword & Shield Elite Trainer Box [Zamazenta]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -60,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "7c252b68-0a06-5080-9a9a-db597b085664",
       "name": "Caja de Entrenador Élite de Espada y Escudo",
       "releaseDate": "2020-02-07",
       "sources": [
@@ -68,6 +72,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8d8c1eb3-7644-5a6f-8b76-1f9e737d8c49",
       "name": "Coffret Dresseur d’élite d’Épée et Bouclier",
       "releaseDate": "2020-02-07",
       "sources": [
@@ -76,6 +81,7 @@
     },
     {
       "language": "de",
+      "uuid": "1b945b21-2858-55e6-9228-a3d2adfacd44",
       "name": "Top-Trainer-Box Schwert & Schild",
       "releaseDate": "2020-02-07",
       "sources": [
@@ -84,6 +90,7 @@
     },
     {
       "language": "it",
+      "uuid": "17eb5832-4c17-51ec-92b3-48dbad34af78",
       "name": "Set Allenatore Fuoriclasse dell’espansione Spada e Scudo",
       "releaseDate": "2020-02-07",
       "sources": [

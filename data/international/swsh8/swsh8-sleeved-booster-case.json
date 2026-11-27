@@ -1,9 +1,11 @@
 {
   "id": "swsh8-sleeved-booster-case",
+  "uuid": "acbfdc69-f6e3-56fe-a007-9ce7008b2d4f",
   "region": "international",
   "set": "swsh8",
   "category": "case",
   "name": "Fusion Strike Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674719
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "20429bb3-dab6-5bf9-aac1-796bc58258ea",
       "name": "Fusion Strike Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

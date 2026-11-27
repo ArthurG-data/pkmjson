@@ -1,9 +1,11 @@
 {
   "id": "cel25-pokemon-tin-lance-s-charizard-v",
+  "uuid": "392aa31a-8bf6-54bf-a3dc-3b9b1ef342e0",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Pokemon Celebrations Tin [Lance's Charizard V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 574580
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8e766ba8-df7c-56bc-b30c-1c9f7d61a714",
       "name": "Pokemon Celebrations Tin [Lance's Charizard V]",
       "identifiers": {
         "tcgplayerProductIds": [

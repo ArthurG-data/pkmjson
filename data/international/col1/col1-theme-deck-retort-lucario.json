@@ -1,9 +1,11 @@
 {
   "id": "col1-theme-deck-retort-lucario",
+  "uuid": "f63dcfb8-229d-5f90-b54a-f26d891143c1",
   "region": "international",
   "set": "col1",
   "category": "theme_deck",
   "name": "Call Of Legends Theme Deck - \"Retort\" [Lucario]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286612
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a06b625d-14b0-5993-9b01-3c5035384702",
       "name": "Call Of Legends Theme Deck - \"Retort\" [Lucario]",
       "identifiers": {
         "tcgplayerProductIds": [

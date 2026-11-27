@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-forces-tin-mega-dragonite-ex",
+  "uuid": "24e08fd7-8af5-5de3-b4aa-55a872f1944a",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Mega Forces Tin [Mega Dragonite ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8bc0b975-8c22-5601-bd3d-27ea2133778b",
       "name": "Mega Forces Tin [Mega Dragonite ex]",
       "releaseDate": "2026-08-28",
       "identifiers": {

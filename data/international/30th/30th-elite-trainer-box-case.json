@@ -1,9 +1,11 @@
 {
   "id": "30th-elite-trainer-box-case",
+  "uuid": "58236587-4b6f-50e9-84e0-6aeac2ddbaf6",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 909598
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "05f8e372-1f0a-5572-9ae8-d358c8396762",
       "name": "30th Celebration Elite Trainer Box Case",
       "releaseDate": "2026-09-16",
       "identifiers": {

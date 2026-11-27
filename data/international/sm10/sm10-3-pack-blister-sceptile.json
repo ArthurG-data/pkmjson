@@ -1,9 +1,11 @@
 {
   "id": "sm10-3-pack-blister-sceptile",
+  "uuid": "ebcba471-8745-5950-a985-20f2e93e05e6",
   "region": "international",
   "set": "sm10",
   "category": "blister",
   "name": "Unbroken Bonds 3 Pack Blister [Sceptile]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585916
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a0d55b72-00fa-510a-bcf4-e04ea646f9fc",
       "name": "Unbroken Bonds 3 Pack Blister [Sceptile]",
       "releaseDate": "2019-05-03",
       "identifiers": {

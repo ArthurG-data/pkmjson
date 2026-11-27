@@ -1,9 +1,11 @@
 {
   "id": "swsh5-booster-pack",
+  "uuid": "ab14c94f-1219-5488-8c8c-950ee1f009e2",
   "region": "international",
   "set": "swsh5",
   "category": "booster_pack",
   "name": "Battle Styles Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 527435
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "271e8337-45d1-5a52-8643-83452bfbba05",
       "name": "Sword & Shield—Battle Styles",
       "releaseDate": "2021-03-19",
       "identifiers": {

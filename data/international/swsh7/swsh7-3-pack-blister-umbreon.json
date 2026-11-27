@@ -1,9 +1,11 @@
 {
   "id": "swsh7-3-pack-blister-umbreon",
+  "uuid": "03dc0423-eea9-5fbb-b5d1-5298b5cde093",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies 3 Pack Blister [Umbreon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585716
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fdb53895-7dd7-5ab2-98f1-a4031eb50143",
       "name": "Evolving Skies 3 Pack Blister [Umbreon]",
       "releaseDate": "2021-08-27",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "me04-pokemon-center-elite-trainer-box-case",
+  "uuid": "a75edd0a-e8c4-5a3c-8e8e-1a4c6c6d0f59",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising Pokemon Center Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c12e3741-ab55-5745-89bd-66f1a6689b76",
       "name": "Chaos Rising Pokemon Center Elite Trainer Box Case",
       "releaseDate": "2026-05-22",
       "identifiers": {

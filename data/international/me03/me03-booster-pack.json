@@ -1,9 +1,11 @@
 {
   "id": "me03-booster-pack",
+  "uuid": "3b902f47-6d6f-520a-afa1-e8390c7f467a",
   "region": "international",
   "set": "me03",
   "category": "booster_pack",
   "name": "Perfect Order Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865410
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6476352a-8d18-5b32-beb0-5429db4fab4e",
       "name": "Mega Evolution—Perfect Order",
       "releaseDate": "2026-03-27",
       "identifiers": {

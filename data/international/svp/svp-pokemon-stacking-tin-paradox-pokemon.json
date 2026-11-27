@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-stacking-tin-paradox-pokemon",
+  "uuid": "283d4cc6-3f78-5514-b0ec-dfa7a32c0578",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Paradox Pokemon",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6ae4eefc-3074-5b86-bb3a-9b3255727007",
       "name": "Pokemon Stacking Tin: Paradox Pokemon",
       "releaseDate": "2025-03-07",
       "identifiers": {

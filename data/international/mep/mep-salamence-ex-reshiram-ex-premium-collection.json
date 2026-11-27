@@ -1,9 +1,11 @@
 {
   "id": "mep-salamence-ex-reshiram-ex-premium-collection",
+  "uuid": "05f3897d-09e0-5ba0-8c11-cfd35f4bb1c1",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Salamence ex & Reshiram ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "db1b7f19-532e-5fa4-8cbc-b5520b4ca6f7",
       "name": "Salamence ex & Reshiram ex Premium Collection",
       "releaseDate": "2025-10-10",
       "identifiers": {

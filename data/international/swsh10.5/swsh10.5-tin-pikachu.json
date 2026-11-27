@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-tin-pikachu",
+  "uuid": "09848402-0248-55a7-92dd-decf9932d1e3",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Tin [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653742
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c0ec4ee5-ba19-51ea-b282-fc4ba2144b3a",
       "name": "Pokemon GO Tin [Pikachu]",
       "releaseDate": "2022-07-15",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "329f1ea8-b18b-5559-a33a-b777d9d4777d",
       "name": "Boîte Pokémon GO Pikachu",
       "releaseDate": "2022-11-15",
       "sources": [

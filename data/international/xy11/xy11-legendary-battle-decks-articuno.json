@@ -1,15 +1,18 @@
 {
   "id": "xy11-legendary-battle-decks-articuno",
+  "uuid": "e4abe005-71e0-584b-b2f8-10d6f4eb7a72",
   "region": "international",
   "set": "xy11",
   "category": "battle_deck",
   "name": "Legendary Battle Decks [Articuno]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck featuring Articuno; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9e4236f3-af58-5681-89de-f10796b5b647",
       "name": "Legendary Battle Decks [Articuno]",
       "identifiers": {
         "tcgplayerProductIds": [

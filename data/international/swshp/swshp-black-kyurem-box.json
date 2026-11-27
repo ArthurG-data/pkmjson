@@ -1,15 +1,18 @@
 {
   "id": "swshp-black-kyurem-box",
+  "uuid": "77fe3f33-6371-5eac-ad96-d3ad5e59b8b1",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Black Kyurem Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a cool promo card — Plus, you get four booster packs from the Pokemon TCG: Black & White series expansions.",
   "releases": [
     {
       "language": "en",
+      "uuid": "509ff17f-fac3-52b4-a0d6-6af9d58766f6",
       "name": "Black Kyurem Box",
       "identifiers": {
         "tcgplayerProductIds": [

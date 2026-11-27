@@ -1,15 +1,18 @@
 {
   "id": "sv04-pokemon-center-elite-trainer-box-exclusive-set-of-2",
+  "uuid": "536c71ba-ed79-50a6-b59e-3321271fb3de",
   "region": "international",
   "set": "sv04",
   "category": "other",
   "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Scream Tail or Iron Bundle; 1 additional illustration rare promo card featuring the Pokémon Center logo; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2aadc5f3-bee2-5ef2-aad9-652c28749ad7",
       "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

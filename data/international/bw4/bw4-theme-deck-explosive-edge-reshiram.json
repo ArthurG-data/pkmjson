@@ -1,9 +1,11 @@
 {
   "id": "bw4-theme-deck-explosive-edge-reshiram",
+  "uuid": "39649ba3-2b52-5ba9-b0b8-1aca6876d296",
   "region": "international",
   "set": "bw4",
   "category": "theme_deck",
   "name": "Next Destinies Theme Deck - \"Explosive Edge\" [Reshiram]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286550
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9bd2d49e-17f3-543e-9da4-9dfa2b381308",
       "name": "Next Destinies Theme Deck - \"Explosive Edge\" [Reshiram]",
       "identifiers": {
         "tcgplayerProductIds": [

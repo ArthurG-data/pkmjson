@@ -1,9 +1,11 @@
 {
   "id": "xy12-pin-collection-mega-venusaur",
+  "uuid": "29df7c07-8f89-56b9-82da-7739e070a725",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "XY - Evolutions Pin Collection [Mega Venusaur]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7df825bc-95dc-5cde-a274-112910e06d23",
       "name": "XY - Evolutions Pin Collection [Mega Venusaur]",
       "identifiers": {
         "tcgplayerProductIds": [

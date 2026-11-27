@@ -1,9 +1,11 @@
 {
   "id": "bw2-starter-figure-boxes-outstanding-oshawott-box",
+  "uuid": "a3f9305f-003e-5ade-9a02-418c7426a52d",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Starter Figure Boxes: Outstanding Oshawott Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "58983102-4fbe-58db-af42-6ec7b1fc0419",
       "name": "Starter Figure Boxes: Outstanding Oshawott Box",
       "identifiers": {
         "tcgplayerProductIds": [

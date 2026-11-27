@@ -1,15 +1,18 @@
 {
   "id": "me04-booster-pack-art-bundle-set-of-4",
+  "uuid": "1523b8cc-c468-52e1-9275-f37e45ced612",
   "region": "international",
   "set": "me04",
   "category": "other",
   "name": "Chaos Rising Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b1d002c8-8cb1-50cc-a8d8-1e7bc8a105e6",
       "name": "Chaos Rising Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2026-05-22",
       "identifiers": {

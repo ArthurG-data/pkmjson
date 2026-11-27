@@ -1,15 +1,18 @@
 {
   "id": "sv10-booster-pack-art-bundle-set-of-4",
+  "uuid": "5b5e6579-0d21-5b6b-bbec-647aba64df95",
   "region": "international",
   "set": "sv10",
   "category": "other",
   "name": "Destined Rivals Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c24654be-42d3-56fa-a8b7-9cd9f3f4dd7f",
       "name": "Destined Rivals Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

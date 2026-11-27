@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-kingambit-illustration-collection",
+  "uuid": "e51557e7-3ca8-5bf5-9685-e7fee15487b9",
   "region": "international",
   "set": "sv06.5",
   "category": "collection_box",
   "name": "Kingambit Illustration Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770967
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67350756-6d7c-5def-8e6a-780735e14751",
       "name": "Kingambit Illustration Collection",
       "releaseDate": "2024-08-02",
       "identifiers": {

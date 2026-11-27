@@ -1,15 +1,18 @@
 {
   "id": "sv10.5b-binder-unova-poster-collection-sam-s-club",
+  "uuid": "7e33f5cc-47b3-506a-b8c7-5efcaac807ec",
   "region": "international",
   "set": "sv10.5b",
   "category": "collection_box",
   "name": "Black Bolt Binder & Unova Poster Collection (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "45722511-9101-5e7b-8c2c-fd82199689c0",
       "name": "Black Bolt Binder & Unova Poster Collection (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

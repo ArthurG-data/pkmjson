@@ -1,9 +1,11 @@
 {
   "id": "me01-build-battle-box-display",
+  "uuid": "7e573525-1eae-5505-9168-069ab19da89b",
   "region": "international",
   "set": "me01",
   "category": "case",
   "name": "Mega Evolution Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834821
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a81d68c1-6094-5ccb-89b2-162222143634",
       "name": "Mega Evolution Build & Battle Box Display",
       "releaseDate": "2025-10-10",
       "identifiers": {

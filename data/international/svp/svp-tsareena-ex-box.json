@@ -1,9 +1,11 @@
 {
   "id": "svp-tsareena-ex-box",
+  "uuid": "9d19b9e3-0c48-5a23-b582-c5c4ae0ead3b",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Tsareena Ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "35655d3c-e950-5fc3-95c0-8dcaa65f6722",
       "name": "Tsareena Ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

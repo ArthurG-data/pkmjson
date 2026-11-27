@@ -1,15 +1,18 @@
 {
   "id": "bw10-team-plasma-tin-deoxys-ex",
+  "uuid": "8f4750ff-30b5-5d74-ab84-f795f373ed58",
   "region": "international",
   "set": "bw10",
   "category": "tin",
   "name": "Team Plasma Tin [Deoxys EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9df1f246-d43a-5140-b91f-eaf60473ce1a",
       "name": "Team Plasma Tin [Deoxys EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fc230661-11d8-5d98-a25b-0b5df125ba81",
       "name": "Boîte Team Plasma Deoxys",
       "releaseDate": "2013-09-11",
       "contents": {

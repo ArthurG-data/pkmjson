@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-heroes-tin-sylveon-v-international-version",
+  "uuid": "7a46df41-5ad0-5ab5-be39-3fd01d49c0f5",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Heroes Tin [Sylveon V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa8afb23-8ca3-5f4c-bc95-088a3f83ae7f",
       "name": "V Heroes Tin [Sylveon V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

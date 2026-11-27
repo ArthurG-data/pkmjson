@@ -1,9 +1,11 @@
 {
   "id": "sm7-3-pack-booster-blister-tapu-koko",
+  "uuid": "d8fb9804-e72e-5e36-b003-dacf678ef995",
   "region": "international",
   "set": "sm7",
   "category": "blister",
   "name": "Celestial Storm 3 Pack Booster Blister [Tapu Koko]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3c100585-a220-521e-b69d-85d213f31190",
       "name": "Celestial Storm 3 Pack Booster Blister [Tapu Koko]",
       "identifiers": {
         "tcgplayerProductIds": [

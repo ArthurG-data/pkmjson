@@ -1,15 +1,18 @@
 {
   "id": "30th-ditto-premium-collection-case",
+  "uuid": "3c5de819-4d63-5189-a0e3-455d526ae668",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Ditto Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4c7aaa0d-0d10-5df9-9cd4-f2abacf8e865",
       "name": "30th Celebration Ditto Premium Collection Case",
       "releaseDate": "2026-11-06",
       "identifiers": {

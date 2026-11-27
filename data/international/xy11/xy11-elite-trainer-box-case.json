@@ -1,9 +1,11 @@
 {
   "id": "xy11-elite-trainer-box-case",
+  "uuid": "6ba39e3b-ea3b-5fae-a831-32f6cc4b8038",
   "region": "international",
   "set": "xy11",
   "category": "case",
   "name": "Steam Siege Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8eaeabd7-5277-5834-814e-720cd8f220ef",
       "name": "Steam Siege Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

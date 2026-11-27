@@ -1,15 +1,18 @@
 {
   "id": "swsh3.5-booster-pack-art-bundle-set-of-4",
+  "uuid": "018e2094-69c5-5375-8be8-62b1ee504baa",
   "region": "international",
   "set": "swsh3.5",
   "category": "other",
   "name": "Champion's Path Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3529391b-e77f-5127-824a-83efcf63b08e",
       "name": "Champion's Path Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

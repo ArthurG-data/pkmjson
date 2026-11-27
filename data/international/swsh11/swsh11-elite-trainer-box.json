@@ -1,9 +1,11 @@
 {
   "id": "swsh11-elite-trainer-box",
+  "uuid": "a6356260-b82e-558d-934d-cdc859795e31",
   "region": "international",
   "set": "swsh11",
   "category": "elite_trainer_box",
   "name": "Lost Origin Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666150
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "116eae26-9c18-55ef-82d7-b06c348cbbd1",
       "name": "Lost Origin Elite Trainer Box",
       "releaseDate": "2022-09-09",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "0b60dca3-571b-5eb2-9764-3626d5e95c39",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Origine Perdue",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Origine_Perdue"
@@ -78,6 +82,7 @@
     },
     {
       "language": "es",
+      "uuid": "533179a2-7b3a-5733-86fc-ef9321f70511",
       "name": "Caja de Entrenador Élite de Espada y Escudo-Origen Perdido",
       "releaseDate": "2022-09-09",
       "sources": [
@@ -86,6 +91,7 @@
     },
     {
       "language": "it",
+      "uuid": "9c018577-e742-5f0c-a011-7866def1132d",
       "name": "Set Allenatore Fuoriclasse Spada e Scudo - Origine Perduta",
       "releaseDate": "2022-09-09",
       "sources": [
@@ -94,6 +100,7 @@
     },
     {
       "language": "de",
+      "uuid": "7680478b-a81e-5120-8f82-08b346f23e88",
       "name": "Top-Trainer Box Schwert & Schild – Verlorener Ursprung",
       "releaseDate": "2022-09-09",
       "sources": [

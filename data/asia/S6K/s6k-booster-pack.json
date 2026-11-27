@@ -1,9 +1,11 @@
 {
   "id": "s6k-booster-pack",
+  "uuid": "48d2f040-cccd-5a96-a91b-9e0184903d6b",
   "region": "asia",
   "set": "S6K",
   "category": "booster_pack",
   "name": "Jet-Black Spirit Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557967
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c04e376e-3f78-5e55-a93c-f875a66a5037",
       "name": "拡張パック「漆黒のガイスト」",
       "releaseDate": "2021-04-23",
       "identifiers": {

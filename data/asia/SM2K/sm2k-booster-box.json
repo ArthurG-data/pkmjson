@@ -1,9 +1,11 @@
 {
   "id": "sm2k-booster-box",
+  "uuid": "c6fd51e9-325b-5c60-9cdb-47d3bfdb8d64",
   "region": "asia",
   "set": "SM2K",
   "category": "booster_box",
   "name": "Islands Await You Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551846
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "af8b23f4-6013-5e5b-a4ce-3ace0d6d665f",
       "name": "Islands Await You Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

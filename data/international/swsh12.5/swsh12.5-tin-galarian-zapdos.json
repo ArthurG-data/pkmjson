@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-tin-galarian-zapdos",
+  "uuid": "86bc8533-f9a8-5289-a292-842c34a4f1c1",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Tin [Galarian Zapdos]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683020
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "211c5f92-1e10-55f5-abf0-fcf1f7039b4c",
       "name": "Crown Zenith Tin [Galarian Zapdos]",
       "releaseDate": "2023-03-17",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "swsh11-build-battle-box-display",
+  "uuid": "c52235ac-c316-57b3-8cb0-3fe8bd652db8",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9c0564fb-85ec-56f7-a840-06d69dd9ae94",
       "name": "Lost Origin Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

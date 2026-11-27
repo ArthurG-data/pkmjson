@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-power-mini-tin-galarian-rapidash",
+  "uuid": "9d04dd72-1651-5f0d-8417-17873b166283",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Power Mini Tin [Galarian Rapidash]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a9d5df70-901e-59da-8726-6f386810129e",
       "name": "Galar Power Mini Tin [Galarian Rapidash]",
       "releaseDate": "2020-10-02",
       "identifiers": {

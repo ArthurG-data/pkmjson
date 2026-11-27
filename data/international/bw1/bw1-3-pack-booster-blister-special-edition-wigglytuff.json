@@ -1,9 +1,11 @@
 {
   "id": "bw1-3-pack-booster-blister-special-edition-wigglytuff",
+  "uuid": "54851347-b541-5c19-9bdd-8ad8f952b1df",
   "region": "international",
   "set": "bw1",
   "category": "blister",
   "name": "Black & White 3 Pack Booster Blister Special Edition [Wigglytuff]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "11c5fa94-6ea5-55d4-a3b8-3fd11889e904",
       "name": "Black & White 3 Pack Booster Blister Special Edition [Wigglytuff]",
       "identifiers": {
         "tcgplayerProductIds": [

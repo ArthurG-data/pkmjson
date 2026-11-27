@@ -1,9 +1,11 @@
 {
   "id": "smp-knock-out-collection-chesnaught-delphox-greninja",
+  "uuid": "a8714758-b18a-5554-a6d0-b3bff32dc278",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Knock Out Collection [Chesnaught, Delphox, Greninja]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "516eddbc-216b-5a3b-b23e-bf6508b050f2",
       "name": "Knock Out Collection [Chesnaught, Delphox, Greninja]",
       "identifiers": {
         "tcgplayerProductIds": [

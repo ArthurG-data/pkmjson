@@ -1,15 +1,18 @@
 {
   "id": "swsh10.5-v-battle-deck-bundle-case-mewtwo-v-melmetal-v",
+  "uuid": "37562b3e-8cd7-5655-b3ec-e3ec7aaedf68",
   "region": "international",
   "set": "swsh10.5",
   "category": "case",
   "name": "Pokemon GO V Battle Deck Bundle Case [Mewtwo V/Melmetal V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "18403076-ca3e-51dc-8061-36af503ba701",
       "name": "Pokemon GO V Battle Deck Bundle Case [Mewtwo V/Melmetal V]",
       "identifiers": {
         "tcgplayerProductIds": [

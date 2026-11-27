@@ -1,9 +1,11 @@
 {
   "id": "cel25-ultra-premium-collection",
+  "uuid": "b79edea3-98f7-58d8-ae56-990a5a57efa0",
   "region": "international",
   "set": "cel25",
   "category": "premium_collection",
   "name": "Celebrations Ultra-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570907
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6e158904-f14c-5ed1-9f26-240e73442b7f",
       "name": "Celebrations Ultra-Premium Collection",
       "releaseDate": "2021-10-22",
       "identifiers": {

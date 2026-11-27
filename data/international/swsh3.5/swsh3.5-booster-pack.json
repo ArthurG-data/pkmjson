@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-booster-pack",
+  "uuid": "7ed331e3-2e05-5dec-8580-1c4630b22b88",
   "region": "international",
   "set": "swsh3.5",
   "category": "booster_pack",
   "name": "Champion's Path Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 488309
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5713578d-3680-57d1-8713-073f4a5a82e6",
       "name": "Champion’s Path",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "74660162-7190-5089-8b24-dec01f9a35d6",
       "name": "La Voie du Maître",
       "sources": [
         "https://www.pokepedia.fr/Collection_La_Voie_du_Ma%C3%AEtre_Moumouflon-V",
@@ -41,6 +45,7 @@
     },
     {
       "language": "es",
+      "uuid": "88c749c1-890b-5b7a-a74c-888fedb3e7bd",
       "name": "Camino de Campeones",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-dubwool-v-de-camino-de-campeones",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "e4656c1a-0823-534b-9f1f-fa621f970686",
       "name": "Weg des Champs",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-zwollock-v-der-erweiterung-weg-des-champs",
@@ -57,6 +63,7 @@
     },
     {
       "language": "it",
+      "uuid": "9bd986dd-93f8-5ad2-bff7-27d75d9e662a",
       "name": "Futuri Campioni",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-dubwool-v-dellespansione-futuri-campioni",

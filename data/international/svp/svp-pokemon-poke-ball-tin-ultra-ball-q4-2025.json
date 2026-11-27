@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-ultra-ball-q4-2025",
+  "uuid": "8512e61f-6a44-50d7-8859-98eb400c449f",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Ultra Ball (Q4 2025)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "83743aa5-be3a-5d28-a698-9faf2291aae4",
       "name": "Pokemon - Poke Ball Tin - Ultra Ball (Q4 2025)",
       "identifiers": {
         "tcgplayerProductIds": [

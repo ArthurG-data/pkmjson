@@ -1,9 +1,11 @@
 {
   "id": "svp-palafin-ex-box",
+  "uuid": "fccdf174-6799-533d-a3ba-aa00422cc127",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Palafin ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "663ba28f-b1cc-5448-9b78-090147e7937e",
       "name": "Palafin ex Box",
       "releaseDate": "2024-06-21",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6829c35f-8c8a-5924-b268-bbe819b058d3",
       "name": "Coffret Superdofin‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-superdofin-ex"
@@ -51,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "58c28d5a-d9bf-5b59-a822-6286a2058dd2",
       "name": "Collezione Palafin‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-palafin-ex"

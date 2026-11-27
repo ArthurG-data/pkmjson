@@ -1,9 +1,11 @@
 {
   "id": "pl4-booster-box",
+  "uuid": "f63ba9a7-422c-5de5-929f-032eaf5ccc68",
   "region": "international",
   "set": "pl4",
   "category": "booster_box",
   "name": "Arceus Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271937
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b4da49dd-f900-5366-9769-2ad772ef1893",
       "name": "Arceus Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

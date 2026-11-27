@@ -1,9 +1,11 @@
 {
   "id": "xy11-theme-deck-gears-of-fire-volcanion",
+  "uuid": "be4372b9-7fb6-5ad3-af2c-5cbe34a57780",
   "region": "international",
   "set": "xy11",
   "category": "theme_deck",
   "name": "Steam Siege Theme Deck - \"Gears of Fire\" [Volcanion]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293303
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6c589552-1301-5106-81cc-ddeab3c43ac4",
       "name": "Steam Siege Theme Deck - \"Gears of Fire\" [Volcanion]",
       "identifiers": {
         "tcgplayerProductIds": [

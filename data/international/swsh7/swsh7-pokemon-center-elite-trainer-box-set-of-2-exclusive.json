@@ -1,15 +1,18 @@
 {
   "id": "swsh7-pokemon-center-elite-trainer-box-set-of-2-exclusive",
+  "uuid": "e51a0b0e-9ddc-5f58-a66b-07d89e935338",
   "region": "international",
   "set": "swsh7",
   "category": "other",
   "name": "Evolving Skies Pokemon Center Elite Trainer Box [Set of 2] (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products; product text.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5d0cb684-ce55-559c-aafa-e7a873c7f9e3",
       "name": "Evolving Skies Pokemon Center Elite Trainer Box [Set of 2] (Exclusive)",
       "releaseDate": "2021-08-27",
       "identifiers": {

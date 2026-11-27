@@ -1,9 +1,11 @@
 {
   "id": "swsh7-single-pack-blister-octillery",
+  "uuid": "ce9f0c7b-aa8d-5d8b-92f0-26bc85aa4bdb",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies Single Pack Blister [Octillery]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e800638-9cc5-5702-9d89-ed73e1a0824a",
       "name": "Evolving Skies Single Pack Blister [Octillery]",
       "identifiers": {
         "tcgplayerProductIds": [

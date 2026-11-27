@@ -1,9 +1,11 @@
 {
   "id": "30th-elite-trainer-box",
+  "uuid": "069062fb-4242-5bda-b1d9-61eb2e408439",
   "region": "international",
   "set": "30th",
   "category": "elite_trainer_box",
   "name": "30th Celebration Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895551
   },
@@ -50,6 +52,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8306e81e-c8a7-5e13-9f2d-9ec618483b0e",
       "name": "30th Celebration Elite Trainer Box",
       "releaseDate": "2026-09-16",
       "identifiers": {
@@ -63,6 +66,7 @@
     },
     {
       "language": "fr",
+      "uuid": "19bf0b8d-c394-50a2-898f-03feeee46c5b",
       "name": "Coffret Dresseur d'élite 30e Anniversaire",
       "releaseDate": "2026-09-16",
       "sources": [

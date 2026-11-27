@@ -1,9 +1,11 @@
 {
   "id": "dp2-booster-box",
+  "uuid": "22a184e4-2f93-5b8a-ae0b-ebb73a03c343",
   "region": "international",
   "set": "dp2",
   "category": "booster_box",
   "name": "Mysterious Treasures Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271904
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0e5a1752-6498-5d00-af38-6ae0f30c3d39",
       "name": "Mysterious Treasures Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

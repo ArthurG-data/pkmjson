@@ -1,15 +1,18 @@
 {
   "id": "svd-ex-start-deck-darkness-hellgar",
+  "uuid": "1f3d779a-6c4c-5789-ac95-e29fa4c5448c",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Darkness Hellgar",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "d1ae895f-2dbc-5cd8-9454-3bea4cfe997d",
       "name": "ex Start Deck Darkness Hellgar",
       "identifiers": {
         "tcgplayerProductIds": [

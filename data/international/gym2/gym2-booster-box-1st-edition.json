@@ -1,9 +1,11 @@
 {
   "id": "gym2-booster-box-1st-edition",
+  "uuid": "719c98a3-b879-5406-a3e0-37e1ef24619c",
   "region": "international",
   "set": "gym2",
   "category": "booster_box",
   "name": "Gym Challenge Booster Box [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e69c07d-0cb3-56c6-8994-893f49e699d2",
       "name": "Gym Challenge Booster Box [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

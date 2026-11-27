@@ -1,9 +1,11 @@
 {
   "id": "xy1-single-pack-blister-dragonite",
+  "uuid": "13af5a8e-c1a0-5342-b0c0-bb2383c7fab1",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Single Pack Blister [Dragonite]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586418
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6b973a62-d7de-5474-a0c7-3dc12db29714",
       "name": "XY Single Pack Blister [Dragonite]",
       "identifiers": {
         "tcgplayerProductIds": [

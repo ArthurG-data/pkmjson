@@ -1,9 +1,11 @@
 {
   "id": "sm1-elite-trainer-box-lunala",
+  "uuid": "bb81a50c-dd07-5410-9a65-5863f6fcd75b",
   "region": "international",
   "set": "sm1",
   "category": "elite_trainer_box",
   "name": "Sun & Moon Elite Trainer Box [Lunala]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 295477
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1413b671-6d11-5572-a54f-353c297ba8d6",
       "name": "Sun & Moon Elite Trainer Box [Lunala]",
       "identifiers": {
         "tcgplayerProductIds": [

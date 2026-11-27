@@ -1,9 +1,11 @@
 {
   "id": "xy8-sleeved-booster-pack",
+  "uuid": "a7d15a9c-36c4-54bc-b209-2b0a15533417",
   "region": "international",
   "set": "xy8",
   "category": "sleeved_booster_pack",
   "name": "BREAKthrough Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d36ecbcc-26de-5b47-bc8b-3c670f213ffe",
       "name": "BREAKthrough Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

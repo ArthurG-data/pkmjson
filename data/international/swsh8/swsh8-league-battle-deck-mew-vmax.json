@@ -1,9 +1,11 @@
 {
   "id": "swsh8-league-battle-deck-mew-vmax",
+  "uuid": "51d7ed81-4535-579e-85d6-e4d6ec72162c",
   "region": "international",
   "set": "swsh8",
   "category": "battle_deck",
   "name": "League Battle Deck [Mew VMAX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "452fc46d-63ab-5ad7-bb77-bc741e111800",
       "name": "League Battle Deck [Mew VMAX]",
       "releaseDate": "2022-11-11",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "38a82567-9e3e-59eb-8224-eadf9733313b",
       "name": "Baraja Combate de Liga de Inteleon VMAX",
       "releaseDate": "2021-05-21",
       "sources": [
@@ -58,6 +62,7 @@
     },
     {
       "language": "it",
+      "uuid": "d8653bff-c2a6-57dc-ab03-d3ca463af35c",
       "name": "Mazzo Lotte di Lega Inteleon-VMAX",
       "releaseDate": "2021-05-21",
       "sources": [
@@ -66,6 +71,7 @@
     },
     {
       "language": "de",
+      "uuid": "98656797-0f4b-5394-82fb-effd8511f84a",
       "name": "Liga-Kampfdeck Intelleon-VMAX",
       "releaseDate": "2021-05-21",
       "sources": [
@@ -74,6 +80,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6e13e4dd-fe23-5ff7-9e7d-d94cbbf44414",
       "name": "Deck Combat de Ligue – Lézargus-VMAX",
       "releaseDate": "2021-05-21",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "sm2-tapu-koko-figure-collection",
+  "uuid": "d4599247-73c7-53aa-90e4-0b705d7f4c41",
   "region": "international",
   "set": "sm2",
   "category": "collection_box",
   "name": "Tapu Koko Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "da3f7b04-026f-5a33-9334-091d721f2744",
       "name": "Tapu Koko Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [

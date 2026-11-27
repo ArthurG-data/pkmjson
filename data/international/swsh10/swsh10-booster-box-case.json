@@ -1,9 +1,11 @@
 {
   "id": "swsh10-booster-box-case",
+  "uuid": "aa86ca68-8df1-5d6b-901b-b9978b19609f",
   "region": "international",
   "set": "swsh10",
   "category": "case",
   "name": "Astral Radiance Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 668174
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8970cbb2-2ae6-51dc-bfbe-d5130b060af9",
       "name": "Astral Radiance Booster Box Case",
       "releaseDate": "2022-05-27",
       "identifiers": {

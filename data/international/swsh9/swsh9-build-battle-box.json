@@ -1,9 +1,11 @@
 {
   "id": "swsh9-build-battle-box",
+  "uuid": "2128e937-fb8f-5507-b4c3-403cd4397812",
   "region": "international",
   "set": "swsh9",
   "category": "build_and_battle_box",
   "name": "Brilliant Stars Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 583507
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "17842f53-d9b4-5eee-a7a9-ec2ac3be99f4",
       "name": "Brilliant Stars Build & Battle Box",
       "releaseDate": "2022-02-25",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv03-sleeved-booster-pack",
+  "uuid": "1dadca66-0abf-52b9-8f76-531f9afda043",
   "region": "international",
   "set": "sv03",
   "category": "sleeved_booster_pack",
   "name": "Obsidian Flames Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715769
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b5d1431b-6639-5267-ba48-0a1fac7cfdd9",
       "name": "Obsidian Flames Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

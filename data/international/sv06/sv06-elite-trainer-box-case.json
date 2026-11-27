@@ -1,9 +1,11 @@
 {
   "id": "sv06-elite-trainer-box-case",
+  "uuid": "703db3b4-63c8-5718-b2f2-a725084de8cd",
   "region": "international",
   "set": "sv06",
   "category": "case",
   "name": "Twilight Masquerade Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761231
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7f45594b-c2d5-56c7-b9f5-09d07e004ffb",
       "name": "Twilight Masquerade Elite Trainer Box Case",
       "releaseDate": "2024-05-24",
       "identifiers": {

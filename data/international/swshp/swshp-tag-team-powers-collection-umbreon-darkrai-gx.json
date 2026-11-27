@@ -1,15 +1,18 @@
 {
   "id": "swshp-tag-team-powers-collection-umbreon-darkrai-gx",
+  "uuid": "998c66ae-767a-5e7c-af98-e6f49b83cccc",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "TAG TEAM Powers Collection [Umbreon & Darkrai GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fd736a37-e35a-5c4c-9479-51db839a2248",
       "name": "TAG TEAM Powers Collection [Umbreon & Darkrai GX]",
       "releaseDate": "2020-03-27",
       "identifiers": {

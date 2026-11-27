@@ -1,9 +1,11 @@
 {
   "id": "sv06-single-pack-blister-toxel",
+  "uuid": "3702af90-d2df-5276-8004-32b60b61a272",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade Single Pack Blister [Toxel]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761226
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7a786078-987b-59ba-88bb-d90ad980463b",
       "name": "Twilight Masquerade Single Pack Blister [Toxel]",
       "identifiers": {
         "tcgplayerProductIds": [

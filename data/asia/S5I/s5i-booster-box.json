@@ -1,9 +1,11 @@
 {
   "id": "s5i-booster-box",
+  "uuid": "47a1f7bc-3873-5500-b73b-046fbce99d41",
   "region": "asia",
   "set": "S5I",
   "category": "booster_box",
   "name": "Single Strike Master Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 534137
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "72382474-4e57-5947-98a0-f3aa5ecd214c",
       "name": "Single Strike Master Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

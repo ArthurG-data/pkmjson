@@ -1,9 +1,11 @@
 {
   "id": "30th-pokemon-center-elite-trainer-box",
+  "uuid": "02656997-6a83-5b30-afa0-f0e7601b5dd1",
   "region": "international",
   "set": "30th",
   "category": "elite_trainer_box",
   "name": "30th Celebration Pokemon Center Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895552
   },
@@ -50,6 +52,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "721bf934-c216-5c04-bf18-94ca75332843",
       "name": "30th Celebration Pokemon Center Elite Trainer Box",
       "releaseDate": "2026-09-16",
       "identifiers": {

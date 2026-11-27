@@ -1,9 +1,11 @@
 {
   "id": "xy3-theme-deck-enchanted-echo-sylveon",
+  "uuid": "2a08f392-6d21-562a-a4e6-643a4515dd98",
   "region": "international",
   "set": "xy3",
   "category": "theme_deck",
   "name": "Furious Fists Theme Deck - \"Enchanted Echo\" [Sylveon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286621
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ace28ae7-143d-51c0-8906-c8370415c7eb",
       "name": "Furious Fists Theme Deck - \"Enchanted Echo\" [Sylveon]",
       "identifiers": {
         "tcgplayerProductIds": [

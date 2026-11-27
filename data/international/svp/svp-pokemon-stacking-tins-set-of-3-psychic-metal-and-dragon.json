@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-stacking-tins-set-of-3-psychic-metal-and-dragon",
+  "uuid": "48971e0d-fa19-5a08-b688-8945265293a5",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon Stacking Tins [Set of 3] (Psychic, Metal, and Dragon)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f2bf59cd-db23-5146-b49f-6fdbfe33d0e3",
       "name": "Pokemon Stacking Tins [Set of 3] (Psychic, Metal, and Dragon)",
       "identifiers": {
         "tcgplayerProductIds": [

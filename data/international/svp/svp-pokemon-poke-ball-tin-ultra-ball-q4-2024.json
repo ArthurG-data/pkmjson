@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-ultra-ball-q4-2024",
+  "uuid": "8c1cd9c6-99b2-5cd0-bb71-a218a7ff89cc",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Ultra Ball (Q4 2024)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "77b3a2d3-d468-560d-9116-ac4e851fbfc4",
       "name": "Pokemon - Poke Ball Tin - Ultra Ball (Q4 2024)",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "it",
+      "uuid": "14fcdb49-4327-53f9-a304-15042d466eeb",
       "name": "Scatola da collezione Poké Ball (autunno 2024)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-autunno-2024"

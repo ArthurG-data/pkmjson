@@ -1,9 +1,11 @@
 {
   "id": "swsh12-single-pack-blister-cranidos",
+  "uuid": "c0d8f6ab-1787-5ff6-a312-a201c3f3ea37",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest Single Pack Blister [Cranidos]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672605
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "42b6236b-0af4-558e-9e49-e3e8c64a9203",
       "name": "Silver Tempest Single Pack Blister [Cranidos]",
       "identifiers": {
         "tcgplayerProductIds": [

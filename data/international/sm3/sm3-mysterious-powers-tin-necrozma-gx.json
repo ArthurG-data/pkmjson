@@ -1,9 +1,11 @@
 {
   "id": "sm3-mysterious-powers-tin-necrozma-gx",
+  "uuid": "50a9dfad-719e-580b-af3e-7cd98adb9828",
   "region": "international",
   "set": "sm3",
   "category": "tin",
   "name": "Mysterious Powers Tin [Necrozma GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1bde0c8b-6e6f-5c97-8e32-0e883d2e8173",
       "name": "Mysterious Powers Tin [Necrozma GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d07cadfe-7ea9-5cc5-ad1d-7cc983de541e",
       "name": "Boîte Pouvoirs Mystérieux Necrozma",
       "releaseDate": "2017-10-20",
       "sources": [
@@ -47,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "9211a38e-82ef-5575-a4ee-33e213d71324",
       "name": "Lata Poderes Misteriosos",
       "releaseDate": "2017-10-20",
       "sources": [
@@ -55,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "3e16e560-0290-50c9-8a5a-d68da0def75e",
       "name": "Tin-Box Mysteriöse Mächte",
       "releaseDate": "2017-10-20",
       "sources": [
@@ -63,6 +69,7 @@
     },
     {
       "language": "it",
+      "uuid": "c6eadea2-948c-5147-a6f0-1c501878efda",
       "name": "Scatole da collezione Poteri Misteriosi",
       "releaseDate": "2017-10-20",
       "sources": [

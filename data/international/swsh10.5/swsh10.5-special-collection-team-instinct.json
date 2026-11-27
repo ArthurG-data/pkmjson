@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-special-collection-team-instinct",
+  "uuid": "73104391-b697-5a90-a975-66f2bdd23f36",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Special Collection - Team Instinct",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653705
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a3de1a4-9062-55c3-b229-7fe67e0d5697",
       "name": "Pokemon GO Special Collection - Team Instinct",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "27a067c5-2501-528e-acd4-13e27e325dd2",
       "name": "Collection spéciale Pokémon GO Équipe Intuition",
       "releaseDate": "2022-08-26",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "es",
+      "uuid": "32c100d8-97c6-556f-bdb0-05dba41c3ca7",
       "name": "Colecciones especiales de Pokémon GO (Equipo Valor, Equipo Instinto y Equipo Sabiduría)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-de-pokemon-go-equipo-valor-equipo-instinto-y-equipo-sabiduria"

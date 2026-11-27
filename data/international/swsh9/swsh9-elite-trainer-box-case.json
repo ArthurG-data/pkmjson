@@ -1,9 +1,11 @@
 {
   "id": "swsh9-elite-trainer-box-case",
+  "uuid": "a85dfc6f-e461-5a38-a631-7ae7df7e652b",
   "region": "international",
   "set": "swsh9",
   "category": "case",
   "name": "Brilliant Stars Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873118
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d98e6086-53ed-5b05-8200-bb3cb3b0ce40",
       "name": "Brilliant Stars Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

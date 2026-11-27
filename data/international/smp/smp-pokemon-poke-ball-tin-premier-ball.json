@@ -1,9 +1,11 @@
 {
   "id": "smp-pokemon-poke-ball-tin-premier-ball",
+  "uuid": "f51e4d37-029b-5719-ade3-669f848df3c4",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Premier Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67cdd118-ce0b-5489-a5af-fc946c0dc703",
       "name": "Pokemon - Poke Ball Tin - Premier Ball",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me05-build-battle-box-display",
+  "uuid": "879dcc34-6982-512e-ac0d-4f3b715a2138",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885541
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a54f10fc-b7cf-5a1b-81e7-ed7766e729b5",
       "name": "Pitch Black Build & Battle Box Display",
       "releaseDate": "2026-07-31",
       "identifiers": {

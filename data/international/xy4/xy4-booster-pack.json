@@ -1,9 +1,11 @@
 {
   "id": "xy4-booster-pack",
+  "uuid": "01dd4c81-a14e-5515-b5f0-56873ecab704",
   "region": "international",
   "set": "xy4",
   "category": "booster_pack",
   "name": "XY Phantom Forces Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271439
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "448590fd-65c3-5fcc-8af5-c628f2c15512",
       "name": "XY—Phantom Forces",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6fd51262-f512-5f04-8b45-1ed688252e74",
       "name": "XY – Vigueur Spectrale",
       "sources": [
         "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Mysdibule-EX",

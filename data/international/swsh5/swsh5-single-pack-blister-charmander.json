@@ -1,9 +1,11 @@
 {
   "id": "swsh5-single-pack-blister-charmander",
+  "uuid": "728886ba-b983-5b23-9faf-171f1c483746",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles Single Pack Blister [Charmander]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585729
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ebaca1bb-ae30-5fc5-938f-44825d080949",
       "name": "Battle Styles Single Pack Blister [Charmander]",
       "releaseDate": "2021-03-19",
       "identifiers": {

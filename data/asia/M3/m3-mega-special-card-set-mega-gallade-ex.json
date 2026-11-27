@@ -1,9 +1,11 @@
 {
   "id": "m3-mega-special-card-set-mega-gallade-ex",
+  "uuid": "78b1a507-7b79-56e9-b2b7-7ef1f05e8e42",
   "region": "asia",
   "set": "M3",
   "category": "other",
   "name": "Mega Special Card Set: Mega Gallade ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1d172c2d-9677-53de-9b6f-09d3412f2de1",
       "name": "Mega Special Card Set: Mega Gallade ex",
       "identifiers": {
         "tcgplayerProductIds": [

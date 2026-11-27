@@ -1,9 +1,11 @@
 {
   "id": "bw7-booster-box",
+  "uuid": "3767912a-f62d-5326-8358-fe7a13a78c5d",
   "region": "international",
   "set": "bw7",
   "category": "booster_box",
   "name": "Boundaries Crossed Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271886
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "447b50c2-320e-5ab4-bc4c-f08436ab2f57",
       "name": "Boundaries Crossed Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

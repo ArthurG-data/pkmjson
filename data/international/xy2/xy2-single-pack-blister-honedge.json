@@ -1,9 +1,11 @@
 {
   "id": "xy2-single-pack-blister-honedge",
+  "uuid": "f2457a28-7528-5c57-bbff-6f436f804bae",
   "region": "international",
   "set": "xy2",
   "category": "blister",
   "name": "Flashfire Single Pack Blister [Honedge]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586411
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4cba596-4c81-5d42-9fdc-f852596866c6",
       "name": "Flashfire Single Pack Blister [Honedge]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-tcg-trainer-s-toolkit-2023",
+  "uuid": "5e9acb5b-27b7-511f-b109-881d88c2b0c1",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon TCG: Trainer's Toolkit (2023)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "80de0ef1-ab81-58c6-afde-65113b1930e0",
       "name": "Pokemon TCG: Trainer's Toolkit (2023)",
       "releaseDate": "2023-06-09",
       "identifiers": {

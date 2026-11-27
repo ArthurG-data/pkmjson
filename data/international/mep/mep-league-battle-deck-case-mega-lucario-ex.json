@@ -1,15 +1,18 @@
 {
   "id": "mep-league-battle-deck-case-mega-lucario-ex",
+  "uuid": "dd1f692d-0a87-5b9b-ab1d-c98f9749d11f",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "League Battle Deck Case [Mega Lucario ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ab604693-4518-5aaf-9b20-8004f8422158",
       "name": "League Battle Deck Case [Mega Lucario ex]",
       "releaseDate": "2026-05-27",
       "identifiers": {

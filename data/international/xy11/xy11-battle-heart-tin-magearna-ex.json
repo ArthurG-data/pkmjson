@@ -1,15 +1,18 @@
 {
   "id": "xy11-battle-heart-tin-magearna-ex",
+  "uuid": "6522a4ff-3a0f-597c-b71e-884ed9169bd9",
   "region": "international",
   "set": "xy11",
   "category": "tin",
   "name": "Battle Heart Tin [Magearna EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7998991c-ff09-5190-a7ba-6e0cee20b013",
       "name": "Battle Heart Tin [Magearna EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "076a511d-871b-5576-9d3c-bb9981c50967",
       "name": "Boîte Cœur au Combat Magearna",
       "releaseDate": "2016-11-06",
       "contents": {

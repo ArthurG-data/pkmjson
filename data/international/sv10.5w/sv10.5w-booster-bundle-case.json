@@ -1,15 +1,18 @@
 {
   "id": "sv10.5w-booster-bundle-case",
+  "uuid": "89001f2b-1ee3-5d20-9787-1d34e448d2d1",
   "region": "international",
   "set": "sv10.5w",
   "category": "case",
   "name": "White Flare Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "15f1a0e0-aefc-56ea-8829-6e4b2ea8a222",
       "name": "White Flare Booster Bundle Case",
       "releaseDate": "2025-08-22",
       "identifiers": {

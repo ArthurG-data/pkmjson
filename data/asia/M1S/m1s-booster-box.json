@@ -1,9 +1,11 @@
 {
   "id": "m1s-booster-box",
+  "uuid": "526d511b-a493-5761-acb1-a16052dc4a1e",
   "region": "asia",
   "set": "M1S",
   "category": "booster_box",
   "name": "Mega Symphonia Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 831328
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "a6f8f92b-80ad-5c99-b388-a88972227bc5",
       "name": "Mega Symphonia Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "m-p-mega-starter-set-mega-diancie-ex",
+  "uuid": "5c78c058-4153-59e0-922b-0d2d25c0b66a",
   "region": "asia",
   "set": "M-P",
   "category": "battle_deck",
   "name": "MEGA Starter Set Mega Diancie ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ac9d36f3-b907-5316-8901-cce14e2ca0c2",
       "name": "スターターセットMEGA メガディアンシーex",
       "releaseDate": "2025-09-05",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-scarlet-violet-151-mini-tin-5-pack-meowth",
+  "uuid": "a044d5e8-0939-5231-ba36-dd3b7430190b",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Costco Pokemon Scarlet & Violet 151 Mini Tin 5-pack (Meowth)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 5 - 151 Mini Tins featuring: Machamp, Kadabra, Meowth, Slowpoke, & Arcanine; 2 -151 booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "71a25ef9-e640-5169-aba1-f67ee3e0e86e",
       "name": "Costco Pokemon Scarlet & Violet 151 Mini Tin 5-pack (Meowth)",
       "identifiers": {
         "tcgplayerProductIds": [

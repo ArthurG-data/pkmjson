@@ -1,15 +1,18 @@
 {
   "id": "swshp-eevee-evolutions-tin-set-of-3",
+  "uuid": "0d2c003c-9cbe-5833-bfdb-702f0ca0013d",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Eevee Evolutions Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "319a5f2b-d4c1-5642-a6c1-25023892bb99",
       "name": "Eevee Evolutions Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy10-theme-deck-sky-guardian-lugia",
+  "uuid": "ecc72079-75c4-58db-829d-a92085a01526",
   "region": "international",
   "set": "xy10",
   "category": "theme_deck",
   "name": "Fates Collide Theme Deck - \"Sky Guardian\" [Lugia]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 289042
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "78457ed4-a031-517c-996d-c99d5a4cc423",
       "name": "Fates Collide Theme Deck - \"Sky Guardian\" [Lugia]",
       "identifiers": {
         "tcgplayerProductIds": [

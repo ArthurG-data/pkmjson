@@ -1,15 +1,18 @@
 {
   "id": "mep-costco-pokemon-pokemon-holiday-calendar-and-great-ball-bundle",
+  "uuid": "8161ff2b-9438-5048-841e-3ca9ac37a90d",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Costco Pokemon Pokemon Holiday Calendar and Great Ball Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 8 foil Pokémon TCG cards with a festive stamp; 6 Pokémon TCG booster packs; 7 Pokémon TCG 3-card fun packs; 3 TCG Booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1c64c48a-a4f0-56e3-81e4-78ec37d09b71",
       "name": "Costco Pokemon Pokemon Holiday Calendar and Great Ball Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

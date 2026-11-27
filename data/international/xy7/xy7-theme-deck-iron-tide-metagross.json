@@ -1,9 +1,11 @@
 {
   "id": "xy7-theme-deck-iron-tide-metagross",
+  "uuid": "03176af0-e7a1-56c3-9486-0d13d563d53b",
   "region": "international",
   "set": "xy7",
   "category": "theme_deck",
   "name": "Ancient Origins Theme Deck - \"Iron Tide\" [Metagross]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286627
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df22ea62-3a73-5dfb-afa3-2b23bb639dae",
       "name": "Ancient Origins Theme Deck - \"Iron Tide\" [Metagross]",
       "identifiers": {
         "tcgplayerProductIds": [

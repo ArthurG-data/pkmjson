@@ -1,9 +1,11 @@
 {
   "id": "xy5-single-blister-zoroark",
+  "uuid": "0b62794e-bcf1-5381-88a3-dee0fcdd0749",
   "region": "international",
   "set": "xy5",
   "category": "blister",
   "name": "Primal Clash Single Blister [Zoroark]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c557a30-abc1-5577-b696-561a9c1728e3",
       "name": "Primal Clash Single Blister [Zoroark]",
       "identifiers": {
         "tcgplayerProductIds": [

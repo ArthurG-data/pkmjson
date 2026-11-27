@@ -1,9 +1,11 @@
 {
   "id": "gym2-theme-deck-blaine",
+  "uuid": "3924442d-5b11-5471-a158-9f024fcf2d5d",
   "region": "international",
   "set": "gym2",
   "category": "theme_deck",
   "name": "Gym Challenge Theme Deck - \"Blaine\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286510
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9eec64cb-9edd-5a65-89a3-6bc889dfcd25",
       "name": "Gym Challenge Theme Deck - \"Blaine\"",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me01-premium-checklane-blister-meowscarada",
+  "uuid": "b0c2ab52-9bed-55ac-aaa5-45d8aabcbebc",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution Premium Checklane Blister [Meowscarada]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834815
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c93ac61d-598f-5277-a773-c6a2ea0aaaa2",
       "name": "Mega Evolution Premium Checklane Blister [Meowscarada]",
       "releaseDate": "2025-09-26",
       "identifiers": {

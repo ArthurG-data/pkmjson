@@ -1,9 +1,11 @@
 {
   "id": "sm4-battle-arena-decks-landorus-vs-genesect",
+  "uuid": "bd6aab4f-fce7-5776-8d46-595ea57c5a33",
   "region": "international",
   "set": "sm4",
   "category": "battle_deck",
   "name": "Battle Arena Decks: Landorus vs. Genesect",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "16731cc2-32c3-56bc-8555-78590ee6f1d2",
       "name": "Battle Arena Decks: Landorus vs. Genesect",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv07-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "56397f24-d5a4-5bbb-ab4d-3c2dce622908",
   "region": "international",
   "set": "sv07",
   "category": "elite_trainer_box",
   "name": "Stellar Crown Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776337
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8d39ea14-7b4f-5250-b32a-b5ab9672a3c3",
       "name": "Stellar Crown Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-2-booster-packs-latias-collector-s-pin",
+  "uuid": "680d8a8e-0ebe-582f-b2f1-7ec8a59a9527",
   "region": "international",
   "set": "svp",
   "category": "booster_pack",
   "name": "2 Booster Packs & Latias Collector's Pin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "00629d25-fb1b-5fbc-a45f-49f366f8f842",
       "name": "2 Booster Packs & Latias Collector's Pin",
       "identifiers": {
         "tcgplayerProductIds": [

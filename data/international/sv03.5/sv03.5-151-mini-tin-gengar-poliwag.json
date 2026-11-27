@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-gengar-poliwag",
+  "uuid": "417783a5-fda6-5188-bb5f-f21b009db7df",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Gengar & Poliwag]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3df705d2-0e96-5dea-b7b4-9aa75dd6f07c",
       "name": "151 Mini Tin [Gengar & Poliwag]",
       "identifiers": {
         "tcgplayerProductIds": [

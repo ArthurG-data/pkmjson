@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-heroes-tin-umbreon-v-international-version",
+  "uuid": "b96cb86c-380d-5f58-b53c-79c2e33dd04d",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Heroes Tin [Umbreon V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cfac9f28-47c9-5a48-9e5b-25312b7ccd00",
       "name": "V Heroes Tin [Umbreon V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

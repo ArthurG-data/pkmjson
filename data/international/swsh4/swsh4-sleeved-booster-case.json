@@ -1,9 +1,11 @@
 {
   "id": "swsh4-sleeved-booster-case",
+  "uuid": "47131221-67ad-5c01-b6bc-051050346b53",
   "region": "international",
   "set": "swsh4",
   "category": "case",
   "name": "Vivid Voltage Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674715
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c532fcc5-8b35-520a-87cc-f4c518722160",
       "name": "Vivid Voltage Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

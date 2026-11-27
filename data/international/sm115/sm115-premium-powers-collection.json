@@ -1,9 +1,11 @@
 {
   "id": "sm115-premium-powers-collection",
+  "uuid": "261861fe-ab88-53ed-b027-76dd8546e4f5",
   "region": "international",
   "set": "sm115",
   "category": "collection_box",
   "name": "Hidden Fates Premium Powers Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 399599
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "476936e9-bb92-5eb8-a408-4510de35a096",
       "name": "Hidden Fates Premium Powers Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -46,6 +49,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1b485ff6-c3d3-5832-9acc-09ea67eee6c6",
       "name": "Collection Pouvoirs Premium Destinées Occultes",
       "releaseDate": "2019-10-18",
       "sources": [

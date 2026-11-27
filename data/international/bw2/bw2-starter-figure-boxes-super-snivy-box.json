@@ -1,9 +1,11 @@
 {
   "id": "bw2-starter-figure-boxes-super-snivy-box",
+  "uuid": "d1860989-eb61-52f0-baeb-62dd34349937",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Starter Figure Boxes: Super Snivy Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fff9c796-4632-518c-a290-0e4afee69064",
       "name": "Starter Figure Boxes: Super Snivy Box",
       "identifiers": {
         "tcgplayerProductIds": [

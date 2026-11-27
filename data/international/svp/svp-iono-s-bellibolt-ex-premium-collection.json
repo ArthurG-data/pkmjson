@@ -1,9 +1,11 @@
 {
   "id": "svp-iono-s-bellibolt-ex-premium-collection",
+  "uuid": "7cc55272-dd32-54cd-a95b-ecbfca1f56b8",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Iono’s Bellibolt ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c118191f-308f-5917-876e-03e88f5fa106",
       "name": "Iono’s Bellibolt ex Premium Collection",
       "releaseDate": "2025-04-11",
       "identifiers": {
@@ -48,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b0ec21f6-a260-58de-a1a0-de113cdddf8e",
       "name": "Collection Premium Ampibidou‑ex de Mashynn",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-ampibidou-ex-de-mashynn"
@@ -55,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "30b1affd-1569-5ab1-a2a2-c03174dfedd5",
       "name": "Colección prémium Bellibolt ex de e‑Nigma",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-bellibolt-ex-de-e-nigma"
@@ -62,6 +67,7 @@
     },
     {
       "language": "de",
+      "uuid": "126727af-fbec-5d94-8d10-7ff37f4e84e6",
       "name": "Premium-Kollektion Enigmaras Wampitz-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-enigmaras-wampitz-ex"
@@ -69,6 +75,7 @@
     },
     {
       "language": "it",
+      "uuid": "8f324511-da8d-5c48-8acf-1522102ef644",
       "name": "Collezione premium Bellibolt‑ex di Kissara",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-bellibolt-ex-di-kissara"

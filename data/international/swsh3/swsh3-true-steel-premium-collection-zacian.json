@@ -1,9 +1,11 @@
 {
   "id": "swsh3-true-steel-premium-collection-zacian",
+  "uuid": "af7a61e9-7d5e-5730-af47-36695e68c8c7",
   "region": "international",
   "set": "swsh3",
   "category": "premium_collection",
   "name": "True Steel Premium Collection [Zacian]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3044ba71-f21a-5bb1-9ebc-9978dcf48b55",
       "name": "True Steel Premium Collection [Zacian]",
       "releaseDate": "2020-08-14",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "2a42d424-324d-5bdf-a47b-0f2790fecef9",
       "name": "Premium-Kollektion Echter Stahl",
       "releaseDate": "2020-08-14",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "3d1f672d-ff21-563e-82f8-805866b3e731",
       "name": "Collezione premium Acciaio Puro",
       "releaseDate": "2020-08-14",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "es",
+      "uuid": "0613cb93-dfc6-5d9d-b0ec-2e038bebdfdc",
       "name": "Colección premium Puro Acero",
       "releaseDate": "2020-08-14",
       "sources": [
@@ -68,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c7441bcc-a46c-5c92-a954-fe39b0c7017c",
       "name": "Collection Premium Acier Trempé",
       "releaseDate": "2020-08-14",
       "sources": [

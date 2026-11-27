@@ -1,9 +1,11 @@
 {
   "id": "swsh5-spring-2021-collector-s-chest-tin",
+  "uuid": "8917a6ca-b196-58a2-8595-f91931478a00",
   "region": "international",
   "set": "swsh5",
   "category": "tin",
   "name": "Spring 2021 Collector's Chest Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ba7de3b2-13a5-57ad-a805-6025a93fc96d",
       "name": "Spring 2021 Collector's Chest Tin",
       "releaseDate": "2021-03-19",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sm2-legendary-battle-decks-ho-oh",
+  "uuid": "48609a50-0612-5348-8ba3-8c8239fcb749",
   "region": "international",
   "set": "sm2",
   "category": "battle_deck",
   "name": "Legendary Battle Decks [Ho-Oh]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "57a062a9-f36a-5842-b847-aa25494e0b22",
       "name": "Legendary Battle Decks [Ho-Oh]",
       "identifiers": {
         "tcgplayerProductIds": [

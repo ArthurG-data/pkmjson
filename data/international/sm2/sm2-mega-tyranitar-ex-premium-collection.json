@@ -1,9 +1,11 @@
 {
   "id": "sm2-mega-tyranitar-ex-premium-collection",
+  "uuid": "b5ed6952-ffb5-53fc-ae5e-6c3146f886a9",
   "region": "international",
   "set": "sm2",
   "category": "premium_collection",
   "name": "Mega Tyranitar EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0b38c5ac-4cb0-523e-ac4e-10a269b21cfa",
       "name": "Mega Tyranitar EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -41,6 +44,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3d473ad8-a9b6-5f7f-9746-74fd5258cdc6",
       "name": "Coffret Méga-Tyranocif",
       "releaseDate": "2017-09-29",
       "sources": [

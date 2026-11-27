@@ -1,15 +1,18 @@
 {
   "id": "bw3-prime-challenge-box-machamp",
+  "uuid": "1405c531-1d66-51d8-b366-6cdd6b965b21",
   "region": "international",
   "set": "bw3",
   "category": "collection_box",
   "name": "Prime Challenge Box [Machamp]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3166c62f-79ac-523a-a9c2-140dd1d4a53a",
       "name": "Prime Challenge Box [Machamp]",
       "identifiers": {
         "tcgplayerProductIds": [

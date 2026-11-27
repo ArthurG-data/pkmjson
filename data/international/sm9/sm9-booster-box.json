@@ -1,9 +1,11 @@
 {
   "id": "sm9-booster-box",
+  "uuid": "91f8e129-f8d5-5859-a4c0-5d1f2018192f",
   "region": "international",
   "set": "sm9",
   "category": "booster_box",
   "name": "Team Up Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 366886
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bce1a50f-93b2-5e57-8d91-6806f6eb2365",
       "name": "Team Up Booster Box",
       "releaseDate": "2019-02-01",
       "identifiers": {

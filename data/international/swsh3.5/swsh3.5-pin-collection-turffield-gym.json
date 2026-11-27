@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-pin-collection-turffield-gym",
+  "uuid": "c0c0694f-2742-5e75-b3dc-e623287fda52",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Pin Collection [Turffield Gym]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ee98fab1-3046-5576-93c0-71148c3378f4",
       "name": "Champion's Path Pin Collection [Turffield Gym]",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ba675ffe-cb6f-58f8-bf5a-30dde411d4ad",
       "name": "Collection avec pin's La Voie du Maître Arène de Greenbury",
       "releaseDate": "2020-09-25",
       "sources": [

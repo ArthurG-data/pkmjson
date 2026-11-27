@@ -1,9 +1,11 @@
 {
   "id": "base4-theme-deck-grass-chopper",
+  "uuid": "83d0e11c-d4d2-5c4b-9194-ac4bb2ee98fc",
   "region": "international",
   "set": "base4",
   "category": "theme_deck",
   "name": "Base Set 2 Theme Deck - \"Grass Chopper\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286498
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "38447b75-d0ac-55ec-858b-72a07d41052c",
       "name": "Base Set 2 Theme Deck - \"Grass Chopper\"",
       "identifiers": {
         "tcgplayerProductIds": [

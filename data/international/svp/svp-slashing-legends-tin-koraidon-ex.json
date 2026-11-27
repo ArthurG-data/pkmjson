@@ -1,9 +1,11 @@
 {
   "id": "svp-slashing-legends-tin-koraidon-ex",
+  "uuid": "73365ff5-40c6-5ad3-b7a5-3775eff5dcbe",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Slashing Legends Tin [Koraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7ddc6a02-ce5d-571b-9ed0-80eff4469abf",
       "name": "Slashing Legends Tin [Koraidon ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "it",
+      "uuid": "be32b445-a707-52ce-b340-11adbc5f420b",
       "name": "Scatola da collezione Leggende Sovrane",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-sovrane"

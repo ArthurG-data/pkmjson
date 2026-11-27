@@ -1,15 +1,18 @@
 {
   "id": "swshp-sneak-peek-tin-oshawott",
+  "uuid": "9e97099b-0564-5a05-aef9-2ac337514f3b",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "BW Sneak-Peek Tin [Oshawott]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 3 never-before-seen basic Pokemon preview cards from the Black & White series expansion — the Grass Pokemon Snivy, the Fire Pokemon Tepig, or the Water Pokemon Oshawott—but that's not all; a special Black & White preview pack with 5 more NEW Pokemon.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d7475328-7553-59f1-8582-3aaa7ec81949",
       "name": "BW Sneak-Peek Tin [Oshawott]",
       "identifiers": {
         "tcgplayerProductIds": [

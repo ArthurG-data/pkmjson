@@ -1,9 +1,11 @@
 {
   "id": "me02-single-pack-blister-cottonee",
+  "uuid": "d775b241-9170-56fe-b962-c7d8c8910600",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames Single Pack Blister [Cottonee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846737
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eebbd011-43c1-54dd-b76c-8087b1847909",
       "name": "Phantasmal Flames Single Pack Blister [Cottonee]",
       "releaseDate": "2025-11-14",
       "identifiers": {

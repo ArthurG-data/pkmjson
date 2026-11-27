@@ -1,9 +1,11 @@
 {
   "id": "swsh5-premium-checklane-blister-toxtricity",
+  "uuid": "f61e245f-ca6a-5812-82ed-aff8171fe256",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles Premium Checklane Blister [Toxtricity]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ca87774c-cabf-5b49-827b-c4f542558412",
       "name": "Battle Styles Premium Checklane Blister [Toxtricity]",
       "identifiers": {
         "tcgplayerProductIds": [

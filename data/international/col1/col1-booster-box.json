@@ -1,9 +1,11 @@
 {
   "id": "col1-booster-box",
+  "uuid": "39ab178d-3f71-5a07-afa8-89170f76be06",
   "region": "international",
   "set": "col1",
   "category": "booster_box",
   "name": "Call of Legends Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271887
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "73be1e4a-3f2f-5920-b6b8-87c30f0f48ec",
       "name": "Call of Legends Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

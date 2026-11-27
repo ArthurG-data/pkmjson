@@ -1,9 +1,11 @@
 {
   "id": "sv10-3-pack-blister-kangaskhan",
+  "uuid": "717b9c87-38ad-536c-9421-d7868eb42e21",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals 3 Pack Blister [Kangaskhan]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818579
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6530b257-1291-5cac-8f2f-24ae9f6cab6f",
       "name": "Destined Rivals 3 Pack Blister [Kangaskhan]",
       "releaseDate": "2025-05-30",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv06-twilight-masqueade-half-booster-box",
+  "uuid": "f7def4b2-2f67-51d1-876d-72bfef93f064",
   "region": "international",
   "set": "sv06",
   "category": "half_booster_box",
   "name": "Twilight Masqueade Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "523753c8-1189-5db8-a9f9-d5f92876490d",
       "name": "Twilight Masqueade Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

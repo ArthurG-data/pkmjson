@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-premium-collection-quaquaval-ex",
+  "uuid": "9bf8c46c-ed2e-5cb7-80f1-cfce26811a6e",
   "region": "international",
   "set": "sv04.5",
   "category": "premium_collection",
   "name": "Paldean Fates Premium Collection [Quaquaval ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745564
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f79ee595-83f6-5770-81af-ea7f1f70733b",
       "name": "Paldean Fates Premium Collection [Quaquaval ex]",
       "releaseDate": "2024-02-09",
       "identifiers": {

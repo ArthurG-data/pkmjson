@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-tech-sticker-collection-sylveon",
+  "uuid": "58030009-347f-58b0-88c1-8f1623c6ee03",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Tech Sticker Collection [Sylveon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798928
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "18d34dfb-422b-55de-b3e0-e9912ab3ed3d",
       "name": "Prismatic Evolutions Tech Sticker Collection [Sylveon]",
       "releaseDate": "2025-01-17",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3a81464e-31e4-50b3-bb82-c3640821d7df",
       "name": "Collection autocollant réajustable Écarlate et Violet Évolutions Prismatiques Nymphali",
       "releaseDate": "2025-01-17",
       "sources": [

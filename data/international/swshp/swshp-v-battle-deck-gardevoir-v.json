@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-gardevoir-v",
+  "uuid": "a7003697-37da-515b-867c-4c7c68e37123",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Gardevoir V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf573612-5b8f-5b77-8974-3b0fe15b51cb",
       "name": "V Battle Deck [Gardevoir V]",
       "identifiers": {
         "tcgplayerProductIds": [

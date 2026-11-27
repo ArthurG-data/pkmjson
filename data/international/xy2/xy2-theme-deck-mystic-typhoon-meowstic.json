@@ -1,9 +1,11 @@
 {
   "id": "xy2-theme-deck-mystic-typhoon-meowstic",
+  "uuid": "aff2576f-7a2f-5604-84a1-78a0ff4fb33f",
   "region": "international",
   "set": "xy2",
   "category": "theme_deck",
   "name": "Flashfire Theme Deck - \"Mystic Typhoon\" [Meowstic]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286620
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "642e5423-9ec4-5703-a029-ce9ba48e061e",
       "name": "Flashfire Theme Deck - \"Mystic Typhoon\" [Meowstic]",
       "identifiers": {
         "tcgplayerProductIds": [

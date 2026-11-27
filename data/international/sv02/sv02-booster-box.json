@@ -1,9 +1,11 @@
 {
   "id": "sv02-booster-box",
+  "uuid": "3ecc0982-06ea-52d2-b712-ab691b6aa31f",
   "region": "international",
   "set": "sv02",
   "category": "booster_box",
   "name": "Paldea Evolved Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703156
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1fe61b70-8574-5ed0-97ea-c48f1adb6cef",
       "name": "Paldea Evolved Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

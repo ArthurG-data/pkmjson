@@ -1,15 +1,18 @@
 {
   "id": "xy6-rayquaza-ex-box",
+  "uuid": "e3f0f431-0903-5252-b1e4-f516b6fa0969",
   "region": "international",
   "set": "xy6",
   "category": "collection_box",
   "name": "Rayquaza EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "43446e6b-0617-5742-b1ba-34e7941882c2",
       "name": "Rayquaza EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2bd58506-ace7-580c-8848-2cacd3155fe7",
       "name": "Coffret Rayquaza-EX",
       "contents": {
         "sealed": [

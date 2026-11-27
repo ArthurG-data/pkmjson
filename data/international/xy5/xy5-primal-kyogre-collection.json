@@ -1,15 +1,18 @@
 {
   "id": "xy5-primal-kyogre-collection",
+  "uuid": "ad2e76c3-91f4-599a-93b0-9cfd56bd5b1f",
   "region": "international",
   "set": "xy5",
   "category": "collection_box",
   "name": "Primal Kyogre Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3f2ec9a1-209e-52d6-bcab-30ced4bafe26",
       "name": "Primal Kyogre Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c2fe08de-d1d1-5e50-8ce2-479621ad2cb5",
       "name": "Coffret Kyogre",
       "contents": {
         "sealed": [

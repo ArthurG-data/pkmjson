@@ -1,9 +1,11 @@
 {
   "id": "ecard3-theme-deck-mind-machine-xatu",
+  "uuid": "21cda225-9274-5264-b872-535f820267da",
   "region": "international",
   "set": "ecard3",
   "category": "theme_deck",
   "name": "Skyridge Theme Deck - \"Mind Machine\" [Xatu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286577
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ed592887-2f64-523b-b4ff-46cb8083117f",
       "name": "Skyridge Theme Deck - \"Mind Machine\" [Xatu]",
       "identifiers": {
         "tcgplayerProductIds": [

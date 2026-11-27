@@ -1,9 +1,11 @@
 {
   "id": "sm6-single-pack-blister-rockruff",
+  "uuid": "7d9bae67-ac47-5c57-8802-dd01e4a2b3b8",
   "region": "international",
   "set": "sm6",
   "category": "blister",
   "name": "Forbidden Light Single Pack Blister [Rockruff]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585977
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ae59000-3f06-5f77-b81e-482933dc40b9",
       "name": "Forbidden Light Single Pack Blister [Rockruff]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh9-leafeon-vstar-special-collection",
+  "uuid": "7a58139b-a3a0-576f-9f76-32c97197dbb1",
   "region": "international",
   "set": "swsh9",
   "category": "collection_box",
   "name": "Leafeon VSTAR Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "999faa54-d5c6-52d3-889f-84fafa8d7933",
       "name": "Leafeon VSTAR Special Collection",
       "releaseDate": "2022-01-28",
       "identifiers": {

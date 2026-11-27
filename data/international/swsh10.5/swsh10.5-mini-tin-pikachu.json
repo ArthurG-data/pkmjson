@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-mini-tin-pikachu",
+  "uuid": "78d93bd2-4a8d-571b-a5db-80c9a3ac134c",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Mini Tin [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653716
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2eebd930-bc50-5da2-ac62-228b328e01fd",
       "name": "Pokemon GO Mini Tin [Pikachu]",
       "releaseDate": "2022-08-05",
       "identifiers": {
@@ -37,6 +40,7 @@
     },
     {
       "language": "es",
+      "uuid": "5542e77e-492f-576c-8e54-3852394334af",
       "name": "Minilata Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
@@ -44,6 +48,7 @@
     },
     {
       "language": "fr",
+      "uuid": "586b88a6-ebfc-5b62-a862-02dc621cfbee",
       "name": "Mini-boîte Pokémon GO",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"

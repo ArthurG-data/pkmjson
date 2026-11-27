@@ -1,9 +1,11 @@
 {
   "id": "xy1-collector-s-pin-three-pack-blisters-chespin",
+  "uuid": "ae2a5989-d1f5-56b0-ad17-21020ef5905c",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "Collector's Pin Three Pack Blisters (Chespin)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b558cea1-06dc-590c-8ccd-a5b163ff6680",
       "name": "Collector's Pin Three Pack Blisters (Chespin)",
       "identifiers": {
         "tcgplayerProductIds": [

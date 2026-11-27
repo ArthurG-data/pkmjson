@@ -1,9 +1,11 @@
 {
   "id": "s1a-booster-box",
+  "uuid": "1a14ffd0-8c80-57bb-b861-2676f3c9fcaa",
   "region": "asia",
   "set": "S1a",
   "category": "booster_box",
   "name": "VMAX Rising Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 468319
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "a6fea2bf-3b4d-5306-bcf2-9816335d7f50",
       "name": "VMAX Rising Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

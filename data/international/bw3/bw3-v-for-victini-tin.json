@@ -1,15 +1,18 @@
 {
   "id": "bw3-v-for-victini-tin",
+  "uuid": "c6ebac7e-955c-5700-adbf-98c9c5aa860b",
   "region": "international",
   "set": "bw3",
   "category": "tin",
   "name": "V for Victini Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "019fbb45-1694-5455-ac2a-32b85d2c8fd7",
       "name": "V for Victini Tin",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c4afbcfd-1ba8-511d-9a82-db6328734e1d",
       "name": "Coffret Victini",
       "releaseDate": "2012-03-19",
       "contents": {

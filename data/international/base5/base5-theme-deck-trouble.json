@@ -1,9 +1,11 @@
 {
   "id": "base5-theme-deck-trouble",
+  "uuid": "5438fce1-2ac3-5595-9a96-b025621c5d55",
   "region": "international",
   "set": "base5",
   "category": "theme_deck",
   "name": "Team Rocket Theme Deck - \"Trouble\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286503
   },
@@ -28,6 +30,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4fb7524c-2306-5a39-be2d-7683dbe63a32",
       "name": "Team Rocket Theme Deck - \"Trouble\"",
       "identifiers": {
         "tcgplayerProductIds": [

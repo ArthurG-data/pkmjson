@@ -1,9 +1,11 @@
 {
   "id": "swshp-collector-s-pin-two-pack-blisters-charizard",
+  "uuid": "1effe89b-d0c2-5240-baa2-8c0eaced225f",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Collector's Pin Two Pack Blisters [Charizard]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d0e63ae5-b826-5bc9-aec5-99f3a9761184",
       "name": "Collector's Pin Two Pack Blisters [Charizard]",
       "identifiers": {
         "tcgplayerProductIds": [

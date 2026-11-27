@@ -1,9 +1,11 @@
 {
   "id": "svp-legendary-warriors-premium-collection",
+  "uuid": "c89e024a-3832-5ea7-b05e-fad61c0845e1",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Legendary Warriors Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ddf63e52-532f-58a5-949e-da4c5a1b966b",
       "name": "Legendary Warriors Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

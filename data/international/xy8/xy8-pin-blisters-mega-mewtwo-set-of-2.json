@@ -1,15 +1,18 @@
 {
   "id": "xy8-pin-blisters-mega-mewtwo-set-of-2",
+  "uuid": "1d5a0807-8927-59ff-ba23-3b54c3c6cc51",
   "region": "international",
   "set": "xy8",
   "category": "other",
   "name": "BREAKthrough Pin Blisters [Mega Mewtwo] (Set of 2)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3f824072-6560-583c-8890-0ce87995cf56",
       "name": "BREAKthrough Pin Blisters [Mega Mewtwo] (Set of 2)",
       "identifiers": {
         "tcgplayerProductIds": [

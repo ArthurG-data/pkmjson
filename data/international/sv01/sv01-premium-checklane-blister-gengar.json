@@ -1,9 +1,11 @@
 {
   "id": "sv01-premium-checklane-blister-gengar",
+  "uuid": "f9db050b-3a72-5e51-85ee-2f406f80d59e",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet Premium Checklane Blister [Gengar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 695517
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "458ea427-96a7-55c6-8d0f-9e717b819538",
       "name": "Scarlet & Violet Premium Checklane Blister [Gengar]",
       "identifiers": {
         "tcgplayerProductIds": [

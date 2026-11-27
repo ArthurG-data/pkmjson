@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-bundle-deoxys-v-zeraora-v",
+  "uuid": "af6de4e0-4379-5dbd-939d-cc6df10dbb70",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck Bundle [Deoxys V / Zeraora V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4d838fa8-a81c-5b10-89b0-4819b21e8d61",
       "name": "V Battle Deck Bundle [Deoxys V / Zeraora V]",
       "identifiers": {
         "tcgplayerProductIds": [

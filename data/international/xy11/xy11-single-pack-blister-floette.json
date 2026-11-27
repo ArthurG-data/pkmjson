@@ -1,9 +1,11 @@
 {
   "id": "xy11-single-pack-blister-floette",
+  "uuid": "7c79858c-f6dd-534f-b67e-2fe5b38b5649",
   "region": "international",
   "set": "xy11",
   "category": "blister",
   "name": "Steam Siege Single Pack Blister [Floette]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586336
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4dbf5530-2410-51f5-80c3-d57ae0fb8e20",
       "name": "Steam Siege Single Pack Blister [Floette]",
       "identifiers": {
         "tcgplayerProductIds": [

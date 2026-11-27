@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-pin-collection-case",
+  "uuid": "076272a1-2b85-533d-8db6-1bb21f32d582",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Pin Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d94b86b4-f7b6-58e1-a5d8-8a9582f6d360",
       "name": "Crown Zenith Pin Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

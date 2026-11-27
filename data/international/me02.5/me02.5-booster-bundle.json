@@ -1,9 +1,11 @@
 {
   "id": "me02.5-booster-bundle",
+  "uuid": "083be613-176f-5680-8d14-2103257897e9",
   "region": "international",
   "set": "me02.5",
   "category": "booster_bundle",
   "name": "Ascended Heroes Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860578
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6b9bbfa5-8ff5-508b-81e0-8f61051e7bc9",
       "name": "Ascended Heroes Booster Bundle",
       "releaseDate": "2026-04-24",
       "identifiers": {

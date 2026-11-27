@@ -1,15 +1,18 @@
 {
   "id": "me02-fun-pack",
+  "uuid": "034141d3-e5fd-5fb1-8c96-01e8297882dd",
   "region": "international",
   "set": "me02",
   "category": "other",
   "name": "Phantasmal Flames Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ce686110-ce68-5141-8c59-b03001061883",
       "name": "Phantasmal Flames Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

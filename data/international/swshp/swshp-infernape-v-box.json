@@ -1,9 +1,11 @@
 {
   "id": "swshp-infernape-v-box",
+  "uuid": "596eb6b0-5152-57fc-be21-3413317ca776",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Infernape V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8afb7749-94ca-581b-a7d5-5dcc959bf372",
       "name": "Infernape V Box",
       "releaseDate": "2022-09-09",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "it",
+      "uuid": "6de87c85-bed5-54ab-a718-54f331e35730",
       "name": "Collezione Infernape-V",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-infernape-v"
@@ -51,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "3fa88efa-02c3-553c-9887-b58b2cef3230",
       "name": "Kollektion Panferno-V",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-panferno-v"
@@ -58,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "3f3b3019-670d-59a5-93f6-25065d96dc1a",
       "name": "Colección Infernape V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-infernape-v"
@@ -65,6 +71,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7b8a84e6-4d42-5017-8653-1b9d223f6ab4",
       "name": "Coffret Simiabraz-V",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-simiabraz-v"

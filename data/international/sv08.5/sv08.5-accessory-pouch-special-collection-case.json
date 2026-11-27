@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-accessory-pouch-special-collection-case",
+  "uuid": "f4aaa88a-b5ba-5c1f-b8a9-fc6ad48ff565",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Accessory Pouch Special Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "88618285-36aa-5d99-b2f4-925d085ec000",
       "name": "Prismatic Evolutions Accessory Pouch Special Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-poke-ball-tin-great-ball",
+  "uuid": "03c0584b-b57d-50a7-bba0-0645e7a5ed86",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Poke Ball Tin - Great Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1688bc36-41dc-570d-99a6-3d2662e5e6c7",
       "name": "Pokemon GO Poke Ball Tin - Great Ball",
       "releaseDate": "2022-08-26",
       "identifiers": {

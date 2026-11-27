@@ -1,9 +1,11 @@
 {
   "id": "me01-enhanced-booster-box",
+  "uuid": "c3b1dbac-a323-5392-aae2-33f8357a8715",
   "region": "international",
   "set": "me01",
   "category": "booster_box",
   "name": "Mega Evolution Enhanced Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834827
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e8f22ced-8413-5845-b913-d7b57a62c852",
       "name": "Mega Evolution Enhanced Booster Box",
       "releaseDate": "2025-09-26",
       "identifiers": {

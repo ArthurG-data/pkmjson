@@ -1,9 +1,11 @@
 {
   "id": "sv10-3-pack-blister-zebstrika",
+  "uuid": "5df40a77-b162-5073-9575-f6c0fea2f597",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals 3 Pack Blister [Zebstrika]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818580
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8738e36e-1bae-56df-9c1a-03d3ae039fa3",
       "name": "Destined Rivals 3 Pack Blister [Zebstrika]",
       "releaseDate": "2025-05-30",
       "identifiers": {

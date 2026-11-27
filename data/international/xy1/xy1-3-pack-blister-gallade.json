@@ -1,9 +1,11 @@
 {
   "id": "xy1-3-pack-blister-gallade",
+  "uuid": "bff6c414-729e-5e89-baea-40384e9bf0fe",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY 3 Pack Blister [Gallade]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586421
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0a18e0bb-089f-5d00-bd63-d86a66b0c2d4",
       "name": "XY 3 Pack Blister [Gallade]",
       "identifiers": {
         "tcgplayerProductIds": [

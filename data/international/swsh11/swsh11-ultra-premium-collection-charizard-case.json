@@ -1,15 +1,18 @@
 {
   "id": "swsh11-ultra-premium-collection-charizard-case",
+  "uuid": "0da07ccc-410b-5899-9356-0195a82efa15",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Sword & Shield Ultra-Premium Collection: Charizard Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "15a7c50f-ae5c-5f9a-8269-0de73437166e",
       "name": "Sword & Shield Ultra-Premium Collection: Charizard Case",
       "identifiers": {
         "tcgplayerProductIds": [

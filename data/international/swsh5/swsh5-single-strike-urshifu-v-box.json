@@ -1,9 +1,11 @@
 {
   "id": "swsh5-single-strike-urshifu-v-box",
+  "uuid": "5c4a6e00-648a-5959-bb9d-1ac690c6f79c",
   "region": "international",
   "set": "swsh5",
   "category": "collection_box",
   "name": "Single Strike Urshifu V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8b2a5487-ee2f-5a44-9fbb-cf29a825ace4",
       "name": "Single Strike Urshifu V Box",
       "releaseDate": "2021-03-19",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9251bf90-c4f4-5a7e-bf6b-22ad461b8261",
       "name": "Coffret Shifours Poing Final",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "es",
+      "uuid": "4cc018e0-fbb6-5960-be37-be59dfa30382",
       "name": "Colección Urshifu Golpe Brusco V y Colección Urshifu Golpe Fluido V",
       "releaseDate": "2021-04-02",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "de",
+      "uuid": "5124405b-4457-5a8d-aa14-60d05f4853bb",
       "name": "Kollektion Fokussierter-Angriff-Wulaosu-V und Kollektion Fließender-Angriff-Wulaosu-V",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -68,6 +74,7 @@
     },
     {
       "language": "it",
+      "uuid": "fdeb5c64-b80d-5729-9455-45890151aea7",
       "name": "Collezione Urshifu Singolcolpo-V e collezione Urshifu Pluricolpo-V",
       "releaseDate": "2021-03-19",
       "sources": [

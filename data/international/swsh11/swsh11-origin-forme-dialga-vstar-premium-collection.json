@@ -1,9 +1,11 @@
 {
   "id": "swsh11-origin-forme-dialga-vstar-premium-collection",
+  "uuid": "07ab1fc3-d38a-5070-8f01-1401858698e8",
   "region": "international",
   "set": "swsh11",
   "category": "premium_collection",
   "name": "Origin Forme Dialga VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a6409bbd-29e4-5c9b-a623-ddce4ef0f541",
       "name": "Origin Forme Dialga VSTAR Premium Collection",
       "releaseDate": "2022-10-07",
       "identifiers": {

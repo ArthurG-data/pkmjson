@@ -1,9 +1,11 @@
 {
   "id": "bw7-theme-deck-ice-shock-black-kyurem",
+  "uuid": "b744578c-b91d-5597-a8e2-73fdc6c6704e",
   "region": "international",
   "set": "bw7",
   "category": "theme_deck",
   "name": "Boundaries Crossed Theme Deck - \"Ice Shock\" [Black Kyurem]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286556
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24688278-017e-5fa0-897c-3966aa391633",
       "name": "Boundaries Crossed Theme Deck - \"Ice Shock\" [Black Kyurem]",
       "identifiers": {
         "tcgplayerProductIds": [

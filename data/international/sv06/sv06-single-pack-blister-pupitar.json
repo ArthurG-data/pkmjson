@@ -1,9 +1,11 @@
 {
   "id": "sv06-single-pack-blister-pupitar",
+  "uuid": "30834c95-969f-52ea-aad6-f035191917c1",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade Single Pack Blister [Pupitar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761225
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f6b4de53-eaaf-537a-b7b3-7179946fc29c",
       "name": "Twilight Masquerade Single Pack Blister [Pupitar]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "xy9-triple-power-tin-machamp-ex",
+  "uuid": "3c971387-5195-5a88-ba53-4ecb2944898a",
   "region": "international",
   "set": "xy9",
   "category": "tin",
   "name": "Triple Power Tin [Machamp EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "65d81ff3-83a1-556e-8590-574c1d9749bd",
       "name": "Triple Power Tin [Machamp EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c38d91d0-9f10-56ae-ac36-0f61bf89eea2",
       "name": "Boîte Triple Puissance Mackogneur",
       "releaseDate": "2016-03-12",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "es",
+      "uuid": "327facc5-5775-52bb-a2b5-0428f4a669dc",
       "name": "Lata Triple Poder",
       "releaseDate": "2016-03-09",
       "sources": [
@@ -38,6 +43,7 @@
     },
     {
       "language": "it",
+      "uuid": "1b575bbc-632c-5173-8751-121905f800a5",
       "name": "Scatole da collezione Triplo Poteredel GCC Pokémon",
       "releaseDate": "2016-03-09",
       "sources": [

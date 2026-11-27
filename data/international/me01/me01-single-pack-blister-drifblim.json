@@ -1,9 +1,11 @@
 {
   "id": "me01-single-pack-blister-drifblim",
+  "uuid": "83e2d35e-a1b4-5597-9e35-c51b5f914caf",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution Single Pack Blister [Drifblim",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834818
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e0924bd2-5d6e-5939-9b02-ed8282dbdf3c",
       "name": "Mega Evolution Single Pack Blister [Drifblim",
       "releaseDate": "2025-09-26",
       "identifiers": {

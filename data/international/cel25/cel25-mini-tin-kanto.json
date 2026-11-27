@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-kanto",
+  "uuid": "494268c9-bc18-52ee-b3c4-80a506d5e866",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Kanto]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "64b5314c-84da-52ad-b7f5-80821502553d",
       "name": "Celebrations Mini Tin [Kanto]",
       "identifiers": {
         "tcgplayerProductIds": [

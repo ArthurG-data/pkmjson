@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-elite-trainer-box-case",
+  "uuid": "4b0af58e-7f7e-5cbc-a3a0-dfa053ddd3a6",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798932
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1b2036d2-cabb-5b9e-81bf-769de55b3329",
       "name": "Prismatic Evolutions Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv10.5w-binder-collection-case",
+  "uuid": "229d638d-6d59-5621-9636-6c8cbc3c9b22",
   "region": "international",
   "set": "sv10.5w",
   "category": "case",
   "name": "White Flare  Binder Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "265914c9-a0c8-53b0-aef5-c5a7277d1fef",
       "name": "White Flare  Binder Collection Case",
       "releaseDate": "2025-07-18",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-lapras",
+  "uuid": "72bf8b13-e6a0-5ee4-a329-7d3dd941ffbe",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Lapras]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa5a38bd-e720-5f55-8ca4-70984a9e839d",
       "name": "30th Celebration Mini Tin [Lapras]",
       "releaseDate": "2026-10-02",
       "identifiers": {

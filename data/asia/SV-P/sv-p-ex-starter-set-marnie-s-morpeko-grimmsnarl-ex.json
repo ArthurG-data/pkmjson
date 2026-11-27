@@ -1,9 +1,11 @@
 {
   "id": "sv-p-ex-starter-set-marnie-s-morpeko-grimmsnarl-ex",
+  "uuid": "b618c666-da43-53c3-946a-2acc18c63724",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "ex Starter Set Marnie's Morpeko & Grimmsnarl ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "724de647-ce3c-5ab7-ae58-a8a8f7979597",
       "name": "スターターセットex マリィのモルペコ＆オーロンゲex",
       "releaseDate": "2025-02-21",
       "identifiers": {

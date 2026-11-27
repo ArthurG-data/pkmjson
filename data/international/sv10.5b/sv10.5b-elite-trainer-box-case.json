@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-elite-trainer-box-case",
+  "uuid": "71f3947d-1031-5a3e-a07f-7f7e8bb8df67",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Black Bolt Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824090
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8e5f04c1-e4dc-5af0-af7d-5c1ca23d7a87",
       "name": "Black Bolt Elite Trainer Box Case",
       "releaseDate": "2025-07-18",
       "identifiers": {

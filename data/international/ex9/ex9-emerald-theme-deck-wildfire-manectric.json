@@ -1,9 +1,11 @@
 {
   "id": "ex9-emerald-theme-deck-wildfire-manectric",
+  "uuid": "8043b3c4-22d3-583a-90ef-bfd94d97b5b0",
   "region": "international",
   "set": "ex9",
   "category": "theme_deck",
   "name": "Emerald Theme Deck - \"Wildfire\" [Manectric]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286630
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a95854c8-a1a3-5b89-9816-ffcc2f58d680",
       "name": "Emerald Theme Deck - \"Wildfire\" [Manectric]",
       "identifiers": {
         "tcgplayerProductIds": [

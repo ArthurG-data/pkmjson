@@ -1,9 +1,11 @@
 {
   "id": "swshp-professor-juniper-premium-tournament-collection-box",
+  "uuid": "d9b9d29e-8429-5ad1-8436-cc57421f74ca",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Professor Juniper Premium Tournament Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1c25a99b-ad09-5ef1-b6b9-b7e8e59099e4",
       "name": "Professor Juniper Premium Tournament Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7a6f9b9c-586d-58a8-836c-547cde83184e",
       "name": "Collection Tournoi Premium – Professeure Keteleeria",
       "releaseDate": "2022-05-20",
       "sources": [
@@ -57,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "aaac319a-699f-5aa5-b486-35f8e7c76412",
       "name": "Premium-Turnierkollektion Professor Esche",
       "releaseDate": "2022-05-20",
       "sources": [
@@ -65,6 +70,7 @@
     },
     {
       "language": "es",
+      "uuid": "b4a21f94-bfc3-5942-81c7-38d93e26d6b8",
       "name": "Colección torneo premium Profesora Encina",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-torneo-premium-profesora-encina"
@@ -72,6 +78,7 @@
     },
     {
       "language": "it",
+      "uuid": "144b7539-d877-5af6-a5b2-77ddf4659d55",
       "name": "Collezione torneo premium Prof.ssa Aralia",
       "releaseDate": "2022-05-20",
       "sources": [

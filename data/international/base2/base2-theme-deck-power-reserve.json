@@ -1,9 +1,11 @@
 {
   "id": "base2-theme-deck-power-reserve",
+  "uuid": "c1fb3dab-cfcc-558a-86e5-0b539f82c044",
   "region": "international",
   "set": "base2",
   "category": "theme_deck",
   "name": "Jungle Theme Deck - \"Power Reserve\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286494
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f817eadd-f4ac-58db-ae6d-5a3ee15e2798",
       "name": "Jungle Theme Deck - \"Power Reserve\"",
       "identifiers": {
         "tcgplayerProductIds": [

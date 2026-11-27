@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-mini-tin-dusknoir",
+  "uuid": "5d457f51-37d0-50e6-952c-89cf0e181740",
   "region": "international",
   "set": "sv06.5",
   "category": "tin",
   "name": "Shrouded Fable Mini Tin (Dusknoir)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770961
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "94c6a8e7-f440-50d0-b939-1208b3aff569",
       "name": "Shrouded Fable Mini Tin (Dusknoir)",
       "releaseDate": "2024-08-02",
       "identifiers": {

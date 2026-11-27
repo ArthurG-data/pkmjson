@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-collection-dubwool-v",
+  "uuid": "fdbb4b91-3c12-559a-bbee-6c4a3092f4ea",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Collection [Dubwool V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 488259
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d20a16b6-3c18-583c-8228-5018254e1805",
       "name": "Champion's Path Collection [Dubwool V]",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9a261d2e-60d1-52ef-aeb7-1aae2dbb4d40",
       "name": "Collection La Voie du Maître Moumouflon",
       "releaseDate": "2020-10-16",
       "sources": [
@@ -61,6 +65,7 @@
     },
     {
       "language": "es",
+      "uuid": "88cf8295-9c2e-5bcc-adf7-a0c6ef2b6ebb",
       "name": "Colección Dubwool V de Camino de Campeones",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -69,6 +74,7 @@
     },
     {
       "language": "de",
+      "uuid": "37299104-65c0-5dc6-a15d-a6a4e24a5d3c",
       "name": "Kollektion Zwollock-V der Erweiterung Weg des Champs",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -77,6 +83,7 @@
     },
     {
       "language": "it",
+      "uuid": "974b80cd-40d0-584c-a684-7db7a9fd5a71",
       "name": "Collezione Dubwool-V dell’espansione Futuri Campioni",
       "releaseDate": "2020-09-25",
       "sources": [

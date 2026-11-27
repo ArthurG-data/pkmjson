@@ -1,9 +1,11 @@
 {
   "id": "sv08-premium-checklane-blister-alakazam",
+  "uuid": "62229bd7-9a99-5f0e-a32d-0e144a3a968b",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks Premium Checklane Blister [Alakazam]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784959
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "178dfeb9-8e83-5893-99e4-b634bbd5c00a",
       "name": "Surging Sparks Premium Checklane Blister [Alakazam]",
       "identifiers": {
         "tcgplayerProductIds": [

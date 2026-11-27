@@ -1,9 +1,11 @@
 {
   "id": "sm10-single-pack-blister-wailord",
+  "uuid": "e0847bbb-b739-575f-8658-190a1c37efa5",
   "region": "international",
   "set": "sm10",
   "category": "blister",
   "name": "Unbroken Bonds Single Pack Blister [Wailord]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24dd27d4-d977-5826-b12a-49f84b361bfc",
       "name": "Unbroken Bonds Single Pack Blister [Wailord]",
       "identifiers": {
         "tcgplayerProductIds": [

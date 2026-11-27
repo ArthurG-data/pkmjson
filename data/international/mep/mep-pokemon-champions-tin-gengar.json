@@ -1,15 +1,18 @@
 {
   "id": "mep-pokemon-champions-tin-gengar",
+  "uuid": "228e7bd3-02c1-54a5-9d07-085e539e858a",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Pokemon Champions Tin [Gengar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: One promo card; 3 Booster Packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dbde6a3e-eaf8-51f6-8c83-44222116bf76",
       "name": "Pokemon Champions Tin [Gengar]",
       "identifiers": {
         "tcgplayerProductIds": [

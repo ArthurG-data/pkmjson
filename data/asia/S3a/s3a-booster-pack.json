@@ -1,9 +1,11 @@
 {
   "id": "s3a-booster-pack",
+  "uuid": "9f8a5950-63fb-56fa-8699-e21c430d8856",
   "region": "asia",
   "set": "S3a",
   "category": "booster_pack",
   "name": "Legendary Heartbeat Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 480109
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "23b1e936-853c-53d1-a9d9-1941e522efd5",
       "name": "強化拡張パック「伝説の鼓動」",
       "releaseDate": "2020-07-10",
       "identifiers": {

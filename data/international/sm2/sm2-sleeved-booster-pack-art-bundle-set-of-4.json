@@ -1,15 +1,18 @@
 {
   "id": "sm2-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "103d2da1-861e-5c69-bc7a-8d38412c2763",
   "region": "international",
   "set": "sm2",
   "category": "other",
   "name": "Guardians Rising Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "18b7fd4e-59c6-53c5-b0f0-b853af3f8410",
       "name": "Guardians Rising Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

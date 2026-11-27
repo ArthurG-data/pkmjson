@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-elite-trainer-box",
+  "uuid": "15c281fb-9bc9-5bc2-a77d-96d3d0843afb",
   "region": "international",
   "set": "sv08.5",
   "category": "elite_trainer_box",
   "name": "Prismatic Evolutions Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798930
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "acf3b4f7-7881-545e-b507-3cc0ed1f6ae0",
       "name": "Prismatic Evolutions Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -66,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "956f7700-397c-53fa-8547-20d67d1eafac",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Évolutions Prismatiques",
       "releaseDate": "2025-02-07",
       "sources": [

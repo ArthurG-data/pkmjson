@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-ultra-premium-collection",
+  "uuid": "38f185ff-1aa3-51ac-8e9a-37c2077eee7c",
   "region": "international",
   "set": "sv03.5",
   "category": "premium_collection",
   "name": "151 Ultra-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719698
   },
@@ -50,6 +52,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b304641a-8965-5166-b8d5-93fce1452f2b",
       "name": "151 Ultra-Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -62,6 +65,7 @@
     },
     {
       "language": "de",
+      "uuid": "1503ec1c-31e4-5694-a36e-6e943c60a579",
       "name": "Ultra-Premium-Kollektion Karmesin & Purpur – 151",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ultra-premium-kollektion-karmesin-purpur-151"
@@ -69,6 +73,7 @@
     },
     {
       "language": "fr",
+      "uuid": "30fd5d17-3566-59a8-a601-5666752efebd",
       "name": "Collection Ultra-Premium Écarlate et Violet – 151",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-ultra-premium-ecarlate-et-violet-151"
@@ -76,6 +81,7 @@
     },
     {
       "language": "es",
+      "uuid": "131d0eca-c973-5b16-a23f-d3035e245b8b",
       "name": "Colección Poderes Supremos de Escarlata y Púrpura-151",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-poderes-supremos-de-escarlata-y-purpura-151"
@@ -83,6 +89,7 @@
     },
     {
       "language": "it",
+      "uuid": "5fbb82ec-6b3e-5e6e-8c50-a9950aeb2b52",
       "name": "Collezione ultra premium dell’espansione Scarlatto e Violetto - 151",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultra-premium-dellespansione-scarlatto-e-violetto-151"

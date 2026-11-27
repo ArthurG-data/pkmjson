@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-sea-sky-premium-collection",
+  "uuid": "5e9fcf30-d33a-5722-8f6a-ad592bcf243d",
   "region": "international",
   "set": "swsh12.5",
   "category": "premium_collection",
   "name": "Sea & Sky Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 789488
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "605a275a-345c-529f-ae4f-87ab197c9dad",
       "name": "Sea & Sky Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

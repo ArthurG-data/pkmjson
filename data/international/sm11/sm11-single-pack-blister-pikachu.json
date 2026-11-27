@@ -1,9 +1,11 @@
 {
   "id": "sm11-single-pack-blister-pikachu",
+  "uuid": "51440bde-1ae7-5e4b-9aff-55c5706d351b",
   "region": "international",
   "set": "sm11",
   "category": "blister",
   "name": "Unified Minds Single Pack Blister [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585905
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fe7f4232-54a5-50d8-9e9e-16239427eec2",
       "name": "Unified Minds Single Pack Blister [Pikachu]",
       "releaseDate": "2019-08-02",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv01-booster-bundle",
+  "uuid": "507ec006-fc7a-56e8-b066-618ec46b3c6a",
   "region": "international",
   "set": "sv01",
   "category": "booster_bundle",
   "name": "Scarlet & Violet Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692096
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "154f8aa9-f932-5d97-bd9b-574307c2771c",
       "name": "Scarlet & Violet Booster Bundle",
       "releaseDate": "2023-03-31",
       "identifiers": {

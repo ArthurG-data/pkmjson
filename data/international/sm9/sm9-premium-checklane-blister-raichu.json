@@ -1,9 +1,11 @@
 {
   "id": "sm9-premium-checklane-blister-raichu",
+  "uuid": "3e08b1a6-fb04-50e2-95ac-fb8c634a5efd",
   "region": "international",
   "set": "sm9",
   "category": "blister",
   "name": "Team Up Premium Checklane Blister [Raichu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "34c919bc-d6e5-567c-8e4e-bb821d979da0",
       "name": "Team Up Premium Checklane Blister [Raichu]",
       "identifiers": {
         "tcgplayerProductIds": [

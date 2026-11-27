@@ -1,9 +1,11 @@
 {
   "id": "swshp-eevee-evolutions-premium-collection",
+  "uuid": "05d03624-85d4-57f7-80f8-804aa820ad7e",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Eevee Evolutions Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -67,6 +69,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9a823ca-23ab-538d-87a2-f3ad6242e374",
       "name": "Eevee Evolutions Premium Collection",
       "releaseDate": "2022-11-04",
       "identifiers": {

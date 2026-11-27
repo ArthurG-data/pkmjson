@@ -1,9 +1,11 @@
 {
   "id": "s11-booster-box",
+  "uuid": "5fa7d54f-b29e-57c5-ac53-e7dafb973ec2",
   "region": "asia",
   "set": "S11",
   "category": "booster_box",
   "name": "Lost Abyss Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 665654
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "758499b1-6906-5535-b458-928036bb8f20",
       "name": "Lost Abyss Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

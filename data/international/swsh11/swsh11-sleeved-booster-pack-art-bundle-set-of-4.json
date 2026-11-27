@@ -1,15 +1,18 @@
 {
   "id": "swsh11-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "9da768c3-e225-57df-a588-0e9b98962bdb",
   "region": "international",
   "set": "swsh11",
   "category": "other",
   "name": "Lost Origin Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1dfc8983-2748-52c2-9027-ff70c9c51dd8",
       "name": "Lost Origin Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2022-09-09",
       "identifiers": {

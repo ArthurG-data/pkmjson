@@ -1,9 +1,11 @@
 {
   "id": "swsh6-2-pack-blister-galarian-zapdos-v-articuno-v-moltres-v",
+  "uuid": "fbba29dd-5262-5175-9ef2-94b08acf2c4d",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d1a7fa96-45ec-5a3c-9a8b-6b3bd213b309",
       "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -35,6 +38,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7c0de035-8a05-509b-906e-046f1b4af2b3",
       "name": "Duopack Artikodin de Galar, Électhor de Galar et Sulfura de Galar",
       "releaseDate": "2022-10-24",
       "sources": [

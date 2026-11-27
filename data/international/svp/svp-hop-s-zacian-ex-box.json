@@ -1,9 +1,11 @@
 {
   "id": "svp-hop-s-zacian-ex-box",
+  "uuid": "4b6c8413-c6c7-596c-a3d7-a956e9388a9a",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Hop's Zacian ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a3786b14-b050-51f6-9f0f-e0e4afa3ddcc",
       "name": "Hop's Zacian ex Box",
       "releaseDate": "2025-03-28",
       "identifiers": {

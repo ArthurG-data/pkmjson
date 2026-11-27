@@ -1,15 +1,18 @@
 {
   "id": "sm2-incineroar-gx-premium-collection",
+  "uuid": "060491fb-59b2-5dff-b56d-e7691e6324f7",
   "region": "international",
   "set": "sm2",
   "category": "premium_collection",
   "name": "Incineroar GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0b6ab959-7fb1-5036-904f-b9e9070e0190",
       "name": "Incineroar GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8b876f48-8ed1-5795-9cfe-92b645221a69",
       "name": "Coffret Félinferno",
       "releaseDate": "2017-08-31",
       "sources": [

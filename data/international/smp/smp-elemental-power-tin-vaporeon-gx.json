@@ -1,9 +1,11 @@
 {
   "id": "smp-elemental-power-tin-vaporeon-gx",
+  "uuid": "7f758f2d-dfe4-53b2-81bd-b96acaec5530",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Elemental Power Tin [Vaporeon GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "09ced8a0-dfdd-5785-a784-b57bf681c0e3",
       "name": "Elemental Power Tin [Vaporeon GX]",
       "releaseDate": "2019-11-01",
       "identifiers": {

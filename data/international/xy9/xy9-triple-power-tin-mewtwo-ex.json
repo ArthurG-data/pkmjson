@@ -1,15 +1,18 @@
 {
   "id": "xy9-triple-power-tin-mewtwo-ex",
+  "uuid": "f603d5b8-a178-5bc3-8129-f045989a51c8",
   "region": "international",
   "set": "xy9",
   "category": "tin",
   "name": "Triple Power Tin [Mewtwo EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a72da1a4-fc9e-5b99-9b10-c1a73dc05524",
       "name": "Triple Power Tin [Mewtwo EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bb6ecba5-9743-565b-b0fe-a3bfb6c46a77",
       "name": "Boîte Triple Puissance Mewtwo",
       "releaseDate": "2016-03-12",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "es",
+      "uuid": "57095747-1d34-5667-8fb5-e9c550a8e13b",
       "name": "Lata Triple Poder",
       "releaseDate": "2016-03-09",
       "sources": [
@@ -38,6 +43,7 @@
     },
     {
       "language": "it",
+      "uuid": "510a93f3-8769-5abc-9e7f-c8489bf9b2ce",
       "name": "Scatole da collezione Triplo Poteredel GCC Pokémon",
       "releaseDate": "2016-03-09",
       "sources": [

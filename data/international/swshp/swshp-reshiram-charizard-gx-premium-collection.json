@@ -1,15 +1,18 @@
 {
   "id": "swshp-reshiram-charizard-gx-premium-collection",
+  "uuid": "7de0d6a8-274c-5007-a817-0428f79659c4",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Reshiram & Charizard GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 Pokémon TCG booster packs; 1 Gold holofoil Reshiram & Charizard-GX promo; 1 Jumbo Gold holofoil Reshiram & Charizard-GX promo.",
   "releases": [
     {
       "language": "en",
+      "uuid": "41bf4ec2-9116-51a1-badc-d58448b916dc",
       "name": "Reshiram & Charizard GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

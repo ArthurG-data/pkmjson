@@ -1,9 +1,11 @@
 {
   "id": "dp1-diamond-pearl-theme-deck-inferno-zone",
+  "uuid": "e3348e17-cf7f-5d39-bdb9-7e6eca9da354",
   "region": "international",
   "set": "dp1",
   "category": "theme_deck",
   "name": "Diamond & Pearl Theme Deck - \"Inferno Zone\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286579
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b8c8b2d8-60d6-55eb-8b0e-551d04cbbce3",
       "name": "Diamond & Pearl Theme Deck - \"Inferno Zone\"",
       "identifiers": {
         "tcgplayerProductIds": [

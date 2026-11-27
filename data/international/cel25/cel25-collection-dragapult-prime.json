@@ -1,9 +1,11 @@
 {
   "id": "cel25-collection-dragapult-prime",
+  "uuid": "edabe2eb-2a57-5729-91d3-5165bab016f9",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Collection [Dragapult Prime]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570891
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "23ec36fa-7618-5f4f-a2f5-833f7984b12f",
       "name": "Celebrations Collection [Dragapult Prime]",
       "identifiers": {
         "tcgplayerProductIds": [

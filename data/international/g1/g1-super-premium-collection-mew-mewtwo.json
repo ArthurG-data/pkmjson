@@ -1,9 +1,11 @@
 {
   "id": "g1-super-premium-collection-mew-mewtwo",
+  "uuid": "5c6f1eee-764a-5f07-a5d1-8094ba540f42",
   "region": "international",
   "set": "g1",
   "category": "premium_collection",
   "name": "Super-Premium Collection [Mew & Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 574337
   },
@@ -38,6 +40,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1bbfe450-7ebd-570b-9478-bceed37ef48e",
       "name": "Super-Premium Collection [Mew & Mewtwo]",
       "identifiers": {
         "tcgplayerProductIds": [

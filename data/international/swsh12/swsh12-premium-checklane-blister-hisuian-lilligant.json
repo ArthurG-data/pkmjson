@@ -1,9 +1,11 @@
 {
   "id": "swsh12-premium-checklane-blister-hisuian-lilligant",
+  "uuid": "ff6edcc1-5bcb-59f7-b1b0-34991454045a",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest Premium Checklane Blister [Hisuian Lilligant]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5ee5cea1-adc0-5168-8cdf-fe10645de686",
       "name": "Silver Tempest Premium Checklane Blister [Hisuian Lilligant]",
       "identifiers": {
         "tcgplayerProductIds": [

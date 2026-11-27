@@ -1,9 +1,11 @@
 {
   "id": "swsh9-premium-checklane-blister-salamence",
+  "uuid": "947074cb-958a-5b06-b174-fccc0ca47dc2",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Premium Checklane Blister [Salamence]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 606763
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1fa79c4c-3940-5c6d-b14d-548849c420f0",
       "name": "Brilliant Stars Premium Checklane Blister [Salamence]",
       "releaseDate": "2022-02-25",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sm2-premium-collection-set-of-3-decidueye-gx-primarina-gx-incineroar-gx",
+  "uuid": "7f5928f6-eabc-543d-9315-44737e8f6851",
   "region": "international",
   "set": "sm2",
   "category": "other",
   "name": "Premium Collection [Set of 3] Decidueye GX, Primarina GX, & Incineroar GX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "09239fbb-1c96-578e-9f61-d7683ae7cbca",
       "name": "Premium Collection [Set of 3] Decidueye GX, Primarina GX, & Incineroar GX",
       "identifiers": {
         "tcgplayerProductIds": [

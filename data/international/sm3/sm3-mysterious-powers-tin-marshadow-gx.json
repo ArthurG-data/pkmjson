@@ -1,9 +1,11 @@
 {
   "id": "sm3-mysterious-powers-tin-marshadow-gx",
+  "uuid": "11ce298e-8d6c-54ae-bd7e-c7e01ece9acb",
   "region": "international",
   "set": "sm3",
   "category": "tin",
   "name": "Mysterious Powers Tin [Marshadow GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e3ff1cc-78ed-5b24-90a8-9a53d0927dd2",
       "name": "Mysterious Powers Tin [Marshadow GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6a1ce1c5-bae0-523b-8a2c-d0a44bca11e3",
       "name": "Boîte Pouvoirs Mystérieux Marshadow",
       "releaseDate": "2017-10-20",
       "sources": [
@@ -47,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "8813df56-74ab-5c6a-bb87-4919302275b0",
       "name": "Lata Poderes Misteriosos",
       "releaseDate": "2017-10-20",
       "sources": [
@@ -55,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "662c7f8b-8307-5415-993f-52b8b7857b27",
       "name": "Tin-Box Mysteriöse Mächte",
       "releaseDate": "2017-10-20",
       "sources": [
@@ -63,6 +69,7 @@
     },
     {
       "language": "it",
+      "uuid": "8c3a076b-a1d0-573c-aaee-1bbac9a7233e",
       "name": "Scatole da collezione Poteri Misteriosi",
       "releaseDate": "2017-10-20",
       "sources": [

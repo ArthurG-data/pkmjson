@@ -1,15 +1,18 @@
 {
   "id": "me02.5-premium-poster-collection-case",
+  "uuid": "089b7cde-f7b4-5cb1-9021-4e694d709225",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Premium Poster Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "93efb901-e60e-525e-8d81-d239c17f05c5",
       "name": "Premium Poster Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

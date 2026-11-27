@@ -1,9 +1,11 @@
 {
   "id": "sm5-necrozma-prism-tin-dusk-mane-necrozma-gx",
+  "uuid": "07747dea-3d00-5c06-a6d8-59cf12fd7675",
   "region": "international",
   "set": "sm5",
   "category": "tin",
   "name": "Necrozma Prism Tin [Dusk Mane Necrozma GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "729effd1-da95-5f17-a288-cf790eff699c",
       "name": "Necrozma Prism Tin [Dusk Mane Necrozma GX]",
       "releaseDate": "2018-03-16",
       "identifiers": {

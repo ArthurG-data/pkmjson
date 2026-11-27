@@ -1,9 +1,11 @@
 {
   "id": "swshp-kanto-friends-mini-tins-5-pack",
+  "uuid": "8cf2d4fa-f80a-5493-b8ec-db7624ea4679",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Kanto Friends Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8ef8b13a-c6a2-5b87-b51f-e21bff6d8a90",
       "name": "Kanto Friends Mini Tins 5-Pack",
       "identifiers": {
         "tcgplayerProductIds": [

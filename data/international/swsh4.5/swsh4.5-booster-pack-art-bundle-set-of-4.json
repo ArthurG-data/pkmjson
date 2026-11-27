@@ -1,15 +1,18 @@
 {
   "id": "swsh4.5-booster-pack-art-bundle-set-of-4",
+  "uuid": "53d22c37-0baa-57a2-9662-7848ae8d5b43",
   "region": "international",
   "set": "swsh4.5",
   "category": "other",
   "name": "Shining Fates Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1f096c31-493b-5d5e-b2d2-3c13b8830654",
       "name": "Shining Fates Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

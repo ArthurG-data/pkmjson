@@ -1,15 +1,18 @@
 {
   "id": "smp-2017-world-championship-deck-kabu-fukase-samurai-sniper",
+  "uuid": "77b6c5a9-46bc-569b-9eda-20e6d1fb8c50",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2017 World Championship Deck: Kabu Fukase (Samurai Sniper)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ed42a717-3c5c-5bda-be09-7c0df958ab8e",
       "name": "2017 World Championship Deck: Kabu Fukase (Samurai Sniper)",
       "identifiers": {
         "tcgplayerProductIds": [

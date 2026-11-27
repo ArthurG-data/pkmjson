@@ -1,9 +1,11 @@
 {
   "id": "xy2-3-pack-blister-haxorus",
+  "uuid": "3bfd20a3-122d-5ebf-88d1-bd3592d698a3",
   "region": "international",
   "set": "xy2",
   "category": "blister",
   "name": "Flashfire 3 Pack Blister [Haxorus]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586412
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6d7d5f1e-7893-56e5-910b-1fc8638209b8",
       "name": "Flashfire 3 Pack Blister [Haxorus]",
       "identifiers": {
         "tcgplayerProductIds": [

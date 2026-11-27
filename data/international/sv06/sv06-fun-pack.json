@@ -1,15 +1,18 @@
 {
   "id": "sv06-fun-pack",
+  "uuid": "b48af0ea-ee93-5aed-ac6f-74a78d9c6768",
   "region": "international",
   "set": "sv06",
   "category": "other",
   "name": "Twilight Masquerade Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a9d40c56-9773-543b-92b1-bd44acdedc83",
       "name": "Twilight Masquerade Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

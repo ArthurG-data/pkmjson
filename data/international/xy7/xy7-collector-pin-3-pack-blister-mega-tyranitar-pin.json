@@ -1,9 +1,11 @@
 {
   "id": "xy7-collector-pin-3-pack-blister-mega-tyranitar-pin",
+  "uuid": "2fa6f2ca-b3b8-5724-80c6-54c688a707f9",
   "region": "international",
   "set": "xy7",
   "category": "blister",
   "name": "Ancient Origins Collector Pin 3 Pack Blister [Mega Tyranitar Pin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "514cd6bb-4a51-5acc-a238-e3fc972786f2",
       "name": "Ancient Origins Collector Pin 3 Pack Blister [Mega Tyranitar Pin]",
       "identifiers": {
         "tcgplayerProductIds": [

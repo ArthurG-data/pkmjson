@@ -1,15 +1,18 @@
 {
   "id": "sv04-3-pack-blister-set-of-2",
+  "uuid": "0f2e0d5d-3a10-5a37-89bb-c68beee61bfe",
   "region": "international",
   "set": "sv04",
   "category": "other",
   "name": "Paradox Rift 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a9f072d7-6386-58fc-b6a9-8e127f835994",
       "name": "Paradox Rift 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-evolving-skies-elite-trainer-box-and-tin",
+  "uuid": "56868b48-8189-5ea9-8bd8-e1b34030d17c",
   "region": "international",
   "set": "svp",
   "category": "elite_trainer_box",
   "name": "Costco Pokemon Evolving Skies Elite Trainer Box and Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "68655d11-ae2f-532b-b127-d5bdb208da84",
       "name": "Costco Pokemon Evolving Skies Elite Trainer Box and Tin",
       "identifiers": {
         "tcgplayerProductIds": [

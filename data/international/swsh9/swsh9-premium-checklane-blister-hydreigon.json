@@ -1,9 +1,11 @@
 {
   "id": "swsh9-premium-checklane-blister-hydreigon",
+  "uuid": "2bcf176f-0b39-5954-a813-9ce31f384f9c",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Premium Checklane Blister [Hydreigon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 606764
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef8ebd08-22ea-589a-85ba-0100e8eba93b",
       "name": "Brilliant Stars Premium Checklane Blister [Hydreigon]",
       "releaseDate": "2022-02-25",
       "identifiers": {

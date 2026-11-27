@@ -1,9 +1,11 @@
 {
   "id": "svp-mabosstiff-ex-box",
+  "uuid": "e14a1e28-f758-53ce-82a4-24f36076ae89",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Mabosstiff ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fb6c332-d94f-55ce-a875-37af5835295d",
       "name": "Mabosstiff ex Box",
       "releaseDate": "2024-02-23",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "0b6809f3-cebf-5e5c-9e6b-d2bfeae42fe4",
       "name": "Collezione Mabosstiff‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-mabosstiff-ex"
@@ -59,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "39fecb0d-9040-5ce0-a77a-fef8e583e8a6",
       "name": "Kollektion Mastifioso‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-mastifioso-ex"

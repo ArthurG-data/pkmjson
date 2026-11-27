@@ -1,9 +1,11 @@
 {
   "id": "m6-booster-pack",
+  "uuid": "b14c50d3-aba1-51da-9616-b6771b59b823",
   "region": "asia",
   "set": "M6",
   "category": "booster_pack",
   "name": "Storm Emeralda Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895656
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "16434085-d1c6-5318-8917-575f89ab7d9e",
       "name": "拡張パック「ストームエメラルダ」",
       "releaseDate": "2026-07-31",
       "identifiers": {

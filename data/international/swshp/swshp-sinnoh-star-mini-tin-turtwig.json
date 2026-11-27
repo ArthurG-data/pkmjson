@@ -1,9 +1,11 @@
 {
   "id": "swshp-sinnoh-star-mini-tin-turtwig",
+  "uuid": "d0c226ec-6694-5c77-9347-47e404435e7e",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Sinnoh Star Mini Tin [Turtwig]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ea040015-bf33-569d-bedc-d6a9c3b6282c",
       "name": "Sinnoh Star Mini Tin [Turtwig]",
       "releaseDate": "2022-04-08",
       "identifiers": {

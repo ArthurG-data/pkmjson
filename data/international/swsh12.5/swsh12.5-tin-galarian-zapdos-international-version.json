@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-tin-galarian-zapdos-international-version",
+  "uuid": "9625ae79-96d3-5e39-ad69-4ccfd20305ca",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Tin [Galarian Zapdos] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "261d79e8-ea65-52ea-8b82-87d750e56cac",
       "name": "Crown Zenith Tin [Galarian Zapdos] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

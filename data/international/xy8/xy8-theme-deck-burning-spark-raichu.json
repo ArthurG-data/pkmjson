@@ -1,9 +1,11 @@
 {
   "id": "xy8-theme-deck-burning-spark-raichu",
+  "uuid": "ff4a2595-9360-51dd-b8ea-c77fe2a017b2",
   "region": "international",
   "set": "xy8",
   "category": "theme_deck",
   "name": "BREAKthrough Theme Deck - \"Burning Spark\" [Raichu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 285624
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "50a3bcba-89c8-5698-bf87-dff8c4b087d1",
       "name": "BREAKthrough Theme Deck - \"Burning Spark\" [Raichu]",
       "identifiers": {
         "tcgplayerProductIds": [

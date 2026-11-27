@@ -1,9 +1,11 @@
 {
   "id": "2021swsh-mcdonald-s-25th-anniversary-booster-pack",
+  "uuid": "ddd4df6c-f497-578d-8d9b-17c8f22aa11d",
   "region": "international",
   "set": "2021swsh",
   "category": "booster_pack",
   "name": "McDonald's 25th Anniversary Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a959d21a-17a4-526c-90e6-6cf7e00d53bc",
       "name": "McDonald's 25th Anniversary Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

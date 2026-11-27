@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-collection-regidrago-v",
+  "uuid": "c111bd30-7d99-5e6b-9ad8-1a63c0fd30fb",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Collection [Regidrago V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683011
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a16b0fa7-818f-5933-a21b-657974a44f9b",
       "name": "Crown Zenith Collection [Regidrago V]",
       "releaseDate": "2023-01-20",
       "identifiers": {

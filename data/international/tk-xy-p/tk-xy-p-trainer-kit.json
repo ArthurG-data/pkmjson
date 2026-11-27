@@ -1,9 +1,11 @@
 {
   "id": "tk-xy-p-trainer-kit",
+  "uuid": "3e420fab-2680-53e9-9aab-0b39eec7b81e",
   "region": "international",
   "set": "tk-xy-p",
   "category": "other",
   "name": "XY Trainer Kit: Pikachu Libre & Suicune",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "527d9317-1a56-5edd-89ce-073cdf31a8a9",
       "name": "XY Trainer Kit: Pikachu Libre & Suicune",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "48312136-95fc-59e5-a6ec-d189da73619b",
       "name": "XY Kit du Dresseur: Pikachu Catcheur et Suicune",
       "sources": [
         "https://www.pokepedia.fr/XY_Kit_du_Dresseur%3A_Pikachu_Catcheur_et_Suicune"
@@ -56,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "1ea7aefa-7da6-532a-8e6d-aa98fe855491",
       "name": "Trainer Kit XY: Wrestler-Pikachu und Suicune",
       "releaseDate": "2016-04-27",
       "sources": [

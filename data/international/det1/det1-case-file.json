@@ -1,15 +1,18 @@
 {
   "id": "det1-case-file",
+  "uuid": "09c7abc1-fbab-5856-911f-995f24b1c465",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu Case File",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "890aeadf-80ab-53d9-a61b-820693298c85",
       "name": "Detective Pikachu Case File",
       "releaseDate": "2019-04-05",
       "identifiers": {

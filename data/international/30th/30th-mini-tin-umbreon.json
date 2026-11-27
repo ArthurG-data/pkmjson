@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-umbreon",
+  "uuid": "68deaab3-1433-5b53-8e1b-9b4b5347f9ce",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Umbreon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fe046ed6-045d-5832-8671-864b1405e6f7",
       "name": "30th Celebration Mini Tin [Umbreon]",
       "releaseDate": "2026-10-02",
       "identifiers": {

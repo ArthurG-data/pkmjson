@@ -1,9 +1,11 @@
 {
   "id": "svc-other",
+  "uuid": "2360698f-5b2e-56fa-a79c-fdf5d27c0cec",
   "region": "asia",
   "set": "SVC",
   "category": "battle_deck",
   "name": "ex Starter Set Pikachu ex & Pawmot",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d9eb713a-6ae3-57da-8ddb-32784f439ea4",
       "name": "スターターセットex ピカチュウex&パーモット",
       "releaseDate": "2023-03-24",
       "identifiers": {

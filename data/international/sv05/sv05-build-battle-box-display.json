@@ -1,15 +1,18 @@
 {
   "id": "sv05-build-battle-box-display",
+  "uuid": "fc7a148a-f18c-5e83-90e6-26d45a201fc5",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8dcce523-689f-5025-9ba1-3f4ebd90dcf1",
       "name": "Temporal Forces Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

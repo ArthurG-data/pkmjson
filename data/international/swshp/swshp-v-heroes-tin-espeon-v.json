@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-heroes-tin-espeon-v",
+  "uuid": "8b649134-48c8-56e6-a619-6bcff3faa811",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Heroes Tin [Espeon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b411a1de-8202-57c4-9153-35bb69ba24a5",
       "name": "V Heroes Tin [Espeon V]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "es",
+      "uuid": "b9197f40-e6f8-57a8-b22c-b04164007531",
       "name": "Lata Héroes V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-heroes-v"
@@ -46,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "36a6a175-8fc5-5ce1-857d-cf3228a2cf86",
       "name": "Tin-Box V-Helden",
       "releaseDate": "2022-04-08",
       "sources": [
@@ -54,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "d224b4a1-5e3f-5af3-9e7d-02cff19f66fc",
       "name": "Scatola da collezione Eroi V",
       "releaseDate": "2022-04-08",
       "sources": [

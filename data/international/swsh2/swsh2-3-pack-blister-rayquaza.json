@@ -1,9 +1,11 @@
 {
   "id": "swsh2-3-pack-blister-rayquaza",
+  "uuid": "8899c3a9-1c91-569c-9833-9d37d11a7df0",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Rebel Clash 3 Pack Blister [Rayquaza]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585891
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "45d0f173-87c8-5774-84bf-7cc6b478bfb4",
       "name": "Rebel Clash 3 Pack Blister [Rayquaza]",
       "releaseDate": "2020-05-01",
       "identifiers": {

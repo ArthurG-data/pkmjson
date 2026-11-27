@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-mini-tin-display",
+  "uuid": "12f5153a-e84e-5a4d-b83d-ea48626b422b",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770966
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7c14c20b-5bbb-589b-b8dd-a1758618d0a2",
       "name": "Shrouded Fable Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

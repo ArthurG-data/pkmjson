@@ -1,9 +1,11 @@
 {
   "id": "base3-theme-deck-bodyguard",
+  "uuid": "9ec5e880-74e0-5a5b-9934-01e3b01fdbdb",
   "region": "international",
   "set": "base3",
   "category": "theme_deck",
   "name": "Fossil Theme Deck - \"BodyGuard\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286496
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3bccb5d6-1329-5b90-9efa-5ad6f149f16c",
       "name": "Fossil Theme Deck - \"BodyGuard\"",
       "identifiers": {
         "tcgplayerProductIds": [

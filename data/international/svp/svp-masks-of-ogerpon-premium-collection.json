@@ -1,9 +1,11 @@
 {
   "id": "svp-masks-of-ogerpon-premium-collection",
+  "uuid": "079017d1-4473-52e7-982f-ca3c84998545",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Masks of Ogerpon Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eed7dc9e-784e-5aba-b31f-417ceaafce71",
       "name": "Masks of Ogerpon Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

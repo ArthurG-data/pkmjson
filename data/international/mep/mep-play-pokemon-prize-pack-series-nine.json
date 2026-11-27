@@ -1,15 +1,18 @@
 {
   "id": "mep-play-pokemon-prize-pack-series-nine",
+  "uuid": "c9e72f82-888d-56aa-8bce-9b300015b6fd",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Play! Pokemon Prize Pack Series Nine",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c35ffebc-8d56-5ad3-8278-3b35d4824b9d",
       "name": "Play! Pokemon Prize Pack Series Nine",
       "identifiers": {
         "tcgplayerProductIds": [

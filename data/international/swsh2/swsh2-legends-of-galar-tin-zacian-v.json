@@ -1,9 +1,11 @@
 {
   "id": "swsh2-legends-of-galar-tin-zacian-v",
+  "uuid": "37b1525d-dd23-5699-aee1-430cc776a3eb",
   "region": "international",
   "set": "swsh2",
   "category": "tin",
   "name": "Legends of Galar Tin [Zacian V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "21b43dad-88f1-5e48-b7fd-47f3b4313326",
       "name": "Legends of Galar Tin [Zacian V]",
       "releaseDate": "2020-05-22",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ef1261db-2a70-5aad-b3fa-4ec1fe87b43b",
       "name": "Boîte Légendes de Galar Zacian",
       "releaseDate": "2020-05-22",
       "contents": {

@@ -1,15 +1,18 @@
 {
   "id": "mep-eevee-evolutions-premium-collection-case",
+  "uuid": "9596ca4f-9a15-5a58-9d03-f63330f8a28c",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Eevee Evolutions Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f3c35dde-3f72-524c-9821-cbc292a068e4",
       "name": "Eevee Evolutions Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

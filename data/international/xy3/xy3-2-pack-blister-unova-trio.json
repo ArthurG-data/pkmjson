@@ -1,9 +1,11 @@
 {
   "id": "xy3-2-pack-blister-unova-trio",
+  "uuid": "149c2aa7-9db4-5abb-9ee9-1b532cd9753a",
   "region": "international",
   "set": "xy3",
   "category": "blister",
   "name": "Furious Fists 2 Pack Blister [Unova Trio]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a005d098-5a18-54e4-98c7-76b701ab32c1",
       "name": "Furious Fists 2 Pack Blister [Unova Trio]",
       "identifiers": {
         "tcgplayerProductIds": [

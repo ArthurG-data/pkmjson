@@ -1,9 +1,11 @@
 {
   "id": "mep-checklane-2-pack-pin-blister-mega-kangaskhan",
+  "uuid": "72bd4f87-f6bb-524e-a654-b8a06f27478e",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Mega Kangaskhan]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e9d8d35d-5c21-53e5-a6ff-48af214b5bc0",
       "name": "Checklane 2-Pack Pin Blister [Mega Kangaskhan]",
       "identifiers": {
         "tcgplayerProductIds": [

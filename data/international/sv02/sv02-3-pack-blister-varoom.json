@@ -1,9 +1,11 @@
 {
   "id": "sv02-3-pack-blister-varoom",
+  "uuid": "ef5b9640-6854-5fd6-bce9-1ef7ead58aee",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved 3 Pack Blister [Varoom]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703169
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4149bd65-0d2d-5813-a2e7-b6adc39f241f",
       "name": "Paldea Evolved 3 Pack Blister [Varoom]",
       "identifiers": {
         "tcgplayerProductIds": [

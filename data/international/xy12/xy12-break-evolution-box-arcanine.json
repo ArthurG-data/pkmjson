@@ -1,15 +1,18 @@
 {
   "id": "xy12-break-evolution-box-arcanine",
+  "uuid": "aabbe7bf-52b6-5a7e-9f29-9098833bf3df",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "BREAK Evolution Box [Arcanine]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0d326729-5e9f-5a42-82af-b4c29e27f485",
       "name": "BREAK Evolution Box [Arcanine]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bd9dd001-70ca-56f0-99f7-ebcd56170c48",
       "name": "Coffret Évolution Arcanin",
       "releaseDate": "2017-05-24",
       "contents": {

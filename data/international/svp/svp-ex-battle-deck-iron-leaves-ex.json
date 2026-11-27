@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-iron-leaves-ex",
+  "uuid": "7e8c8b68-7f3e-56b8-a6af-d358cf939d22",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Iron Leaves ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3d50d4ff-e25f-56a1-a143-c26234e2a36a",
       "name": "ex Battle Deck [Iron Leaves ex]",
       "releaseDate": "2024-10-18",
       "identifiers": {

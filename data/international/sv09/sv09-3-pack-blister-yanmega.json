@@ -1,9 +1,11 @@
 {
   "id": "sv09-3-pack-blister-yanmega",
+  "uuid": "1f79079b-2253-541e-8892-6a6985037f20",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together 3 Pack Blister [Yanmega]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805585
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "25e80cda-b0e2-5754-acbe-72be9583e710",
       "name": "Journey Together 3 Pack Blister [Yanmega]",
       "identifiers": {
         "tcgplayerProductIds": [

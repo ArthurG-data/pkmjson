@@ -1,9 +1,11 @@
 {
   "id": "swshp-legendary-birds-pin-3-pack-blister-articuno-pin",
+  "uuid": "070f2d60-12d1-5d85-8988-7c6c9387b585",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Legendary Birds Pin 3 Pack Blister [Articuno Pin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6bb1dd9-7f03-5fec-9ac9-53a537a90c48",
       "name": "Legendary Birds Pin 3 Pack Blister [Articuno Pin]",
       "identifiers": {
         "tcgplayerProductIds": [

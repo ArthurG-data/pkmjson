@@ -1,9 +1,11 @@
 {
   "id": "swsh10-single-pack-blister-toxel",
+  "uuid": "61a52a64-9878-5b85-b4ef-0f7a72ae665a",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance Single Pack Blister [Toxel]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611356
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5b7bb091-7f17-5b33-8323-ca48695883cc",
       "name": "Astral Radiance Single Pack Blister [Toxel]",
       "identifiers": {
         "tcgplayerProductIds": [

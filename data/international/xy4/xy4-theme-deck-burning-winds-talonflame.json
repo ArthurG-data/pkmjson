@@ -1,9 +1,11 @@
 {
   "id": "xy4-theme-deck-burning-winds-talonflame",
+  "uuid": "f3923f0c-b2dd-5b4e-9edf-cc6b04b69093",
   "region": "international",
   "set": "xy4",
   "category": "theme_deck",
   "name": "Phantom Forces Theme Deck - \"Burning Winds\" [Talonflame]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286623
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aaa37bad-8de6-5b45-98cd-11a675aacf51",
       "name": "Phantom Forces Theme Deck - \"Burning Winds\" [Talonflame]",
       "identifiers": {
         "tcgplayerProductIds": [

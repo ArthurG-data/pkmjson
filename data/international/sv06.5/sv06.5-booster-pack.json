@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-booster-pack",
+  "uuid": "f9a16aef-31c2-533b-9cf7-5672e34ba71c",
   "region": "international",
   "set": "sv06.5",
   "category": "booster_pack",
   "name": "Shrouded Fable Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770953
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "deb27993-284d-54b7-a21f-613fc9c443f0",
       "name": "Scarlet & Violet—Shrouded Fable",
       "releaseDate": "2024-08-02",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "398b1ac5-c6bf-5f34-8682-6264f0247661",
       "name": "Écarlate et Violet – Fable Nébuleuse",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Fable_N%C3%A9buleuse",
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "bc1bc69b-6574-5fcc-ba53-04385833911d",
       "name": "Scarlatto e Violetto - Segreto Fiabesco",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/confezione-di-buste-dellespansione-scarlatto-e-violetto-segreto-fiabesco",

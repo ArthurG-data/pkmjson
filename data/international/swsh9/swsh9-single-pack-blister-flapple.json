@@ -1,9 +1,11 @@
 {
   "id": "swsh9-single-pack-blister-flapple",
+  "uuid": "85067c7f-55cf-5fd5-be72-4b78ba607dcd",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Single Pack Blister [Flapple]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 606762
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b3fbfaa2-13a5-5294-b8dc-db2ee4ac4752",
       "name": "Brilliant Stars Single Pack Blister [Flapple]",
       "releaseDate": "2022-02-25",
       "identifiers": {

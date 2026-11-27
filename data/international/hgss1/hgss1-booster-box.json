@@ -1,15 +1,18 @@
 {
   "id": "hgss1-booster-box",
+  "uuid": "116958aa-dd4d-5ed0-9abe-790c66314627",
   "region": "international",
   "set": "hgss1",
   "category": "booster_box",
   "name": "HeartGold SoulSilver Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "63eb2791-0983-5e4f-8a34-0d2c45612367",
       "name": "HeartGold SoulSilver Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

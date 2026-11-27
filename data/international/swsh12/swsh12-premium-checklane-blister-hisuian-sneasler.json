@@ -1,9 +1,11 @@
 {
   "id": "swsh12-premium-checklane-blister-hisuian-sneasler",
+  "uuid": "f8d6db88-9401-5129-8069-4f0f04994a0a",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest Premium Checklane Blister [Hisuian Sneasler]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4e4bbe9e-6d3c-5574-b6d2-965fe78f7f9f",
       "name": "Silver Tempest Premium Checklane Blister [Hisuian Sneasler]",
       "identifiers": {
         "tcgplayerProductIds": [

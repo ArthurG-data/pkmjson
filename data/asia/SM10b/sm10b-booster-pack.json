@@ -1,9 +1,11 @@
 {
   "id": "sm10b-booster-pack",
+  "uuid": "b4af5b50-1518-513b-8b1b-8800ec38f153",
   "region": "asia",
   "set": "SM10b",
   "category": "booster_pack",
   "name": "Sky Legend Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550406
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8c75002e-b0cc-526b-a227-f58b544a94b3",
       "name": "強化拡張パック「スカイレジェンド」",
       "releaseDate": "2019-04-26",
       "identifiers": {

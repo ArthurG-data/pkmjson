@@ -1,9 +1,11 @@
 {
   "id": "ex4-team-magma-vs-team-aqua-booster-pack",
+  "uuid": "76fae848-4ecc-59fb-b351-b2b1c4f6071e",
   "region": "international",
   "set": "ex4",
   "category": "booster_pack",
   "name": "Team Magma vs Team Aqua Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271877
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4065ba7-ef81-5683-8670-5400b76fce89",
       "name": "EX Team Magma vs Team Aqua",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm10-single-pack-blister-pikachu",
+  "uuid": "30579c55-6da4-582e-bef3-f37e3694e9d6",
   "region": "international",
   "set": "sm10",
   "category": "blister",
   "name": "Unbroken Bonds Single Pack Blister [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585911
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "704f757c-8341-5fc7-8570-4a07da7dee4b",
       "name": "Unbroken Bonds Single Pack Blister [Pikachu]",
       "releaseDate": "2019-05-03",
       "identifiers": {

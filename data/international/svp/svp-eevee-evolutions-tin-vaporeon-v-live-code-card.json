@@ -1,15 +1,18 @@
 {
   "id": "svp-eevee-evolutions-tin-vaporeon-v-live-code-card",
+  "uuid": "870df74c-2eac-50dd-bf8d-7e4bef784c84",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Eevee Evolutions Tin [Vaporeon V] (Live Code Card)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Flareon V; 4 Pokémon TCG booster packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bda4be69-4a60-52a5-b473-a4c77a556323",
       "name": "Eevee Evolutions Tin [Vaporeon V] (Live Code Card)",
       "identifiers": {
         "tcgplayerProductIds": [

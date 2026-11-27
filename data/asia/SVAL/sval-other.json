@@ -1,9 +1,11 @@
 {
   "id": "sval-other",
+  "uuid": "158cbd92-4bfb-540f-a755-1b11679f952a",
   "region": "asia",
   "set": "SVAL",
   "category": "battle_deck",
   "name": "ex Starter Set Fuecoco & Ampharos ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "417cc6b9-2c81-57cc-b052-60c6f34a3db5",
       "name": "スターターセットex ホゲータ&デンリュウex",
       "releaseDate": "2023-01-20",
       "identifiers": {

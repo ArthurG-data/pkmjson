@@ -1,15 +1,18 @@
 {
   "id": "swshp-clash-of-legends-box-dialga-palkia-legend",
+  "uuid": "6f6dbd64-14ea-56df-9a03-07d74993f0a8",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Clash of Legends Box - Dialga & Palkia Legend",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6f4f7630-4dc6-556d-acf1-daeeb63cf4fb",
       "name": "Clash of Legends Box - Dialga & Palkia Legend",
       "identifiers": {
         "tcgplayerProductIds": [

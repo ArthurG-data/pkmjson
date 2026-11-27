@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-heavy-hitters-premium-collection",
+  "uuid": "1c38863c-0272-5fda-8055-d70468194f5a",
   "region": "international",
   "set": "sv10.5b",
   "category": "premium_collection",
   "name": "Unova Heavy Hitters Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "82557d61-a0e6-51bf-bb4c-3510670c8496",
       "name": "Unova Heavy Hitters Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

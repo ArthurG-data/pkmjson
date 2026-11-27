@@ -1,9 +1,11 @@
 {
   "id": "sv7a-booster-box",
+  "uuid": "555cf912-dbc1-59e5-8e7d-a3c6df48e8dd",
   "region": "asia",
   "set": "SV7a",
   "category": "booster_box",
   "name": "Paradise Dragona Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 781844
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "182115fc-0fbc-58ff-be37-4ed40b3d64f9",
       "name": "Paradise Dragona Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

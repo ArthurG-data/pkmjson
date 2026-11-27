@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-mini-tin-okidogi",
+  "uuid": "ce3764b9-90cb-5438-8db0-a4944b465332",
   "region": "international",
   "set": "sv06.5",
   "category": "tin",
   "name": "Shrouded Fable Mini Tin (Okidogi)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770963
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "36e1b733-59e1-50d3-a49b-db36f61c1a69",
       "name": "Shrouded Fable Mini Tin (Okidogi)",
       "releaseDate": "2024-08-02",
       "identifiers": {

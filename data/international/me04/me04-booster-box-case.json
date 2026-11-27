@@ -1,9 +1,11 @@
 {
   "id": "me04-booster-box-case",
+  "uuid": "bdd0db8f-f8bc-5758-9016-f74d452f623e",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877281
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02b7617a-5d66-56fc-beb7-f3f8665bb242",
       "name": "Chaos Rising Booster Box Case",
       "releaseDate": "2026-05-22",
       "identifiers": {

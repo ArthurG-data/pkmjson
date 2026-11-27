@@ -1,15 +1,18 @@
 {
   "id": "xy3-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "1d193af6-3323-509a-89b5-42b2a0a8194d",
   "region": "international",
   "set": "xy3",
   "category": "other",
   "name": "Furious Fists Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "489c7614-325c-5032-b90e-74b50e57c6a4",
       "name": "Furious Fists Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

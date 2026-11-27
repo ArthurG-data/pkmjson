@@ -1,9 +1,11 @@
 {
   "id": "bw3-theme-deck-fast-daze-accelgor",
+  "uuid": "3b205244-4e98-53f6-910f-cfb7e4e1d17d",
   "region": "international",
   "set": "bw3",
   "category": "theme_deck",
   "name": "Noble Victories Theme Deck - \"Fast Daze\" [Accelgor]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286548
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3380a558-cb82-5f5d-82a0-23d67ee4b7d9",
       "name": "Noble Victories Theme Deck - \"Fast Daze\" [Accelgor]",
       "identifiers": {
         "tcgplayerProductIds": [

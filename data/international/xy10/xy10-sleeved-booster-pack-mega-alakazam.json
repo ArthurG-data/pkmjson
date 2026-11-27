@@ -1,9 +1,11 @@
 {
   "id": "xy10-sleeved-booster-pack-mega-alakazam",
+  "uuid": "cd89e826-5d46-5b32-a036-32094551a1ac",
   "region": "international",
   "set": "xy10",
   "category": "sleeved_booster_pack",
   "name": "XY - Fates Collide Sleeved Booster Pack [Mega Alakazam]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6d1e700b-83eb-5884-9a9d-bfc0aa55b786",
       "name": "XY - Fates Collide Sleeved Booster Pack [Mega Alakazam]",
       "identifiers": {
         "tcgplayerProductIds": [

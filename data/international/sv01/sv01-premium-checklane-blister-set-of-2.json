@@ -1,15 +1,18 @@
 {
   "id": "sv01-premium-checklane-blister-set-of-2",
+  "uuid": "f3241c06-794d-52c6-ad91-2df3bca1eb14",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet Premium Checklane Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 Scarlet & Violet booster pack; 3 cards with an evolution line; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "12b51e50-8a2c-5077-905d-eb5dd3ba2948",
       "name": "Scarlet & Violet Premium Checklane Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

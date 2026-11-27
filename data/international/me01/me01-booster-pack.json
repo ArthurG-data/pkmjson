@@ -1,9 +1,11 @@
 {
   "id": "me01-booster-pack",
+  "uuid": "c9ce2b0d-e3d7-5ac8-8a54-1fd07b009bd2",
   "region": "international",
   "set": "me01",
   "category": "booster_pack",
   "name": "Mega Evolution Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834829
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dded7dcd-1eb4-58ee-81ba-44c8f98ffa5a",
       "name": "Mega Evolution",
       "releaseDate": "2025-09-26",
       "identifiers": {

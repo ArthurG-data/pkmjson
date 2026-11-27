@@ -1,9 +1,11 @@
 {
   "id": "cel25-premium-playmat-collection-pikachu-v-union",
+  "uuid": "e2599e72-393c-5d75-923b-d51db9191125",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Premium Playmat Collection [Pikachu V-UNION]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 580596
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4234446-43a5-5641-b167-6906594da518",
       "name": "Celebrations Premium Playmat Collection [Pikachu V-UNION]",
       "identifiers": {
         "tcgplayerProductIds": [

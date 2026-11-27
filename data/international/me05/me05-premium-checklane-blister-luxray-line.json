@@ -1,9 +1,11 @@
 {
   "id": "me05-premium-checklane-blister-luxray-line",
+  "uuid": "d96154b9-ea28-5541-8e50-c139a7f50829",
   "region": "international",
   "set": "me05",
   "category": "blister",
   "name": "Pitch Black Premium Checklane Blister [Luxray Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f426ce52-b5b8-5c82-ad95-ca5eb1012979",
       "name": "Pitch Black Premium Checklane Blister [Luxray Line]",
       "releaseDate": "2026-07-17",
       "identifiers": {

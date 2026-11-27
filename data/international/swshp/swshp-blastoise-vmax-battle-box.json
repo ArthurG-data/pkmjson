@@ -1,9 +1,11 @@
 {
   "id": "swshp-blastoise-vmax-battle-box",
+  "uuid": "4f00c674-0245-593f-8f70-365055fcdc23",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Blastoise VMAX Battle Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b29f348e-242a-505c-ba5c-2080d0a3bd42",
       "name": "Blastoise VMAX Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -47,6 +50,7 @@
     },
     {
       "language": "fr",
+      "uuid": "64cb4709-b7b0-590f-b7a8-3a4fe8162969",
       "name": "Coffret Combat Florizarre‑VMAX ou Tortank‑VMAX",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -55,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "22080793-67e1-53ce-b70a-592fec665f69",
       "name": "Collezione Lotte Venusaur-VMAX o collezione Lotte Blastoise-VMAX",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -63,6 +68,7 @@
     },
     {
       "language": "de",
+      "uuid": "a0c7b1b4-afff-5693-9565-347e1c35bfa3",
       "name": "Kampfbox Bisaflor-VMAX oder Turtok-VMAX",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -71,6 +77,7 @@
     },
     {
       "language": "es",
+      "uuid": "a1b750fc-3f7e-5f74-a261-a7f5c5c0abc7",
       "name": "Colección Combate Venusaur VMAX o Blastoise VMAX",
       "releaseDate": "2021-04-02",
       "sources": [

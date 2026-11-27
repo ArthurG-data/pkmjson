@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-pin-collection-cinderace",
+  "uuid": "c0b3fa69-9358-5c02-b5b7-32c23090b84c",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Pin Collection [Cinderace]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e5efbbe6-6d09-5211-a67f-998adeff4fba",
       "name": "Crown Zenith Pin Collection [Cinderace]",
       "releaseDate": "2023-04-14",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ffaf878b-0f51-5b39-b5c2-b468d96cf0c1",
       "name": "Collection avec pin's Zénith Suprême Pyrobut",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Z%C3%A9nith_Supr%C3%AAme_Pyrobut"
@@ -57,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "c986077d-23b7-511b-8e5a-bcd42f27d76b",
       "name": "Pin-Kollektion Zenit der Könige",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-zenit-der-koenige"
@@ -64,6 +69,7 @@
     },
     {
       "language": "es",
+      "uuid": "2adcee93-8897-5dd5-8562-f1b5c55d9e61",
       "name": "Colecciones con pin de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-con-pin-de-cenit-supremo"

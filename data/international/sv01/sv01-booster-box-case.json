@@ -1,9 +1,11 @@
 {
   "id": "sv01-booster-box-case",
+  "uuid": "6c08b103-64d0-58ff-80a1-fc76cabae80b",
   "region": "international",
   "set": "sv01",
   "category": "case",
   "name": "Scarlet & Violet Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692095
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "61b41d85-825f-599e-acb4-01b836e38a2d",
       "name": "Scarlet & Violet Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

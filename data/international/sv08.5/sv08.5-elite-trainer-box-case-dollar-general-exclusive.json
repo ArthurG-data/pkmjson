@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-elite-trainer-box-case-dollar-general-exclusive",
+  "uuid": "8efe0e3a-b8b4-5037-937c-99a944960de9",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Elite Trainer Box Case (Dollar General Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d9b7ba27-c589-56cb-8b90-01fa17df3564",
       "name": "Prismatic Evolutions Elite Trainer Box Case (Dollar General Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

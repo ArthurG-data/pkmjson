@@ -1,9 +1,11 @@
 {
   "id": "sv6a-booster-pack",
+  "uuid": "2af313f8-8de5-5024-92e7-30338c6d6544",
   "region": "asia",
   "set": "SV6a",
   "category": "booster_pack",
   "name": "Night Wanderer Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 769157
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "37696423-e585-5ab5-bfbf-c026b916d7ba",
       "name": "強化拡張パック「ナイトワンダラー」",
       "releaseDate": "2024-06-07",
       "identifiers": {

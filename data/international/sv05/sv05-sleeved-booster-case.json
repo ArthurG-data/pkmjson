@@ -1,9 +1,11 @@
 {
   "id": "sv05-sleeved-booster-case",
+  "uuid": "13c4fbb9-f4e0-5e2e-a9e8-bd110a60ad5d",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750405
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "80918619-de15-500f-ad47-323e931edef0",
       "name": "Temporal Forces Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

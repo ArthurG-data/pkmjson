@@ -1,9 +1,11 @@
 {
   "id": "ecard2-booster-pack",
+  "uuid": "f99b938f-92c6-585e-bd44-d5feb459eabb",
   "region": "international",
   "set": "ecard2",
   "category": "booster_pack",
   "name": "Aquapolis Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271864
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "39a23d99-3573-517c-8177-787802e1319f",
       "name": "Aquapolis Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

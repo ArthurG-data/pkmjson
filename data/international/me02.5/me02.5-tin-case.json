@@ -1,15 +1,18 @@
 {
   "id": "me02.5-tin-case",
+  "uuid": "ceb5d9aa-7489-515d-a8ff-4b8a6748ed72",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Ascended Heroes Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "43187ebf-7a6e-549a-86e1-6ab1c9a9317d",
       "name": "Ascended Heroes Tin Case",
       "releaseDate": "2026-08-28",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "neo4-theme-deck-light",
+  "uuid": "9edafd11-9730-53c9-b4c5-f74810892a2a",
   "region": "international",
   "set": "neo4",
   "category": "theme_deck",
   "name": "Neo Destiny Theme Deck - \"Light\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286568
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "05d3a041-c75d-5413-b47a-93bf723e0733",
       "name": "Neo Destiny Theme Deck - \"Light\"",
       "identifiers": {
         "tcgplayerProductIds": [

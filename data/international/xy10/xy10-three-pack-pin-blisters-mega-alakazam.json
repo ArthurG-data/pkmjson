@@ -1,15 +1,18 @@
 {
   "id": "xy10-three-pack-pin-blisters-mega-alakazam",
+  "uuid": "9a1c2392-394e-52b7-b46d-4d73a5d5ea21",
   "region": "international",
   "set": "xy10",
   "category": "blister",
   "name": "Fates Collide Three Pack Pin Blisters [Mega Alakazam]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6d478528-f38b-5926-942f-4fbc08d34061",
       "name": "Fates Collide Three Pack Pin Blisters [Mega Alakazam]",
       "identifiers": {
         "tcgplayerProductIds": [

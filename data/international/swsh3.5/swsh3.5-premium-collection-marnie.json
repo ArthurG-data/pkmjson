@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-premium-collection-marnie",
+  "uuid": "1bc92fff-1fcd-5876-9440-cda4e338ab4c",
   "region": "international",
   "set": "swsh3.5",
   "category": "premium_collection",
   "name": "Champion's Path Premium Collection [Marnie]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 519701
   },
@@ -52,6 +54,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6d3e4eee-aae4-57b8-9911-51601d6d5e18",
       "name": "Champion's Path Premium Collection [Marnie]",
       "releaseDate": "2020-10-23",
       "identifiers": {

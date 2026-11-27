@@ -1,15 +1,18 @@
 {
   "id": "mep-triple-whammy-tins-set-of-3",
+  "uuid": "b69134ab-d491-5d27-8d3e-c6e359bed742",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Triple Whammy Tins [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c30c45e3-44e6-5e20-a285-a641d9b5fe89",
       "name": "Triple Whammy Tins [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

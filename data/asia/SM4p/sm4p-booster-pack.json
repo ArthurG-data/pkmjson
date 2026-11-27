@@ -1,9 +1,11 @@
 {
   "id": "sm4p-booster-pack",
+  "uuid": "f07e49fa-b49e-54eb-b635-67ca1050fd20",
   "region": "asia",
   "set": "SM4p",
   "category": "booster_pack",
   "name": "GX Battle Boost Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551911
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ae16add7-2f80-588a-bd9f-46e4f516df79",
       "name": "ハイクラスパック「GXバトルブースト」",
       "releaseDate": "2017-10-20",
       "identifiers": {

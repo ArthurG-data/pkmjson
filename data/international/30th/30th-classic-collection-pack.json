@@ -1,9 +1,11 @@
 {
   "id": "30th-classic-collection-pack",
+  "uuid": "fea0bc28-2341-5a94-ac95-30540e17b080",
   "region": "international",
   "set": "30th",
   "category": "booster_pack",
   "name": "30th Celebration Classic Collection Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f724861a-68d3-5784-a414-4ed28464e515",
       "name": "30th Celebration Classic Collection Pack",
       "releaseDate": "2026-11-06",
       "identifiers": {

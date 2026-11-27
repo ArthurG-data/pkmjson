@@ -1,9 +1,11 @@
 {
   "id": "me01-single-pack-blister-lycanroc",
+  "uuid": "2f9286dd-0ace-56b8-ac4b-76fe7608b49d",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution Single Pack Blister [Lycanroc]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834814
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ac23af53-157f-5960-88f5-31e9933d9612",
       "name": "Mega Evolution Single Pack Blister [Lycanroc]",
       "identifiers": {
         "tcgplayerProductIds": [

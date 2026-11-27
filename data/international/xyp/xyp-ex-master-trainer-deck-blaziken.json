@@ -1,15 +1,18 @@
 {
   "id": "xyp-ex-master-trainer-deck-blaziken",
+  "uuid": "04318e93-7971-52f5-94cd-88a0262c2b58",
   "region": "international",
   "set": "xyp",
   "category": "battle_deck",
   "name": "EX Master Trainer Deck [Blaziken]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8a161d42-88e2-5061-8dbc-c5d1fe77c549",
       "name": "EX Master Trainer Deck [Blaziken]",
       "identifiers": {
         "tcgplayerProductIds": [

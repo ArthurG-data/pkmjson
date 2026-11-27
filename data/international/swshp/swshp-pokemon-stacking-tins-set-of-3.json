@@ -1,15 +1,18 @@
 {
   "id": "swshp-pokemon-stacking-tins-set-of-3",
+  "uuid": "bad8a013-83f7-5e02-8d84-d40ad4ff49b1",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon Stacking Tins [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "813c8d01-731b-5f31-9a2d-70ffeb4280bf",
       "name": "Pokemon Stacking Tins [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

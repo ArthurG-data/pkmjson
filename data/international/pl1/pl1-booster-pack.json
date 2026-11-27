@@ -1,9 +1,11 @@
 {
   "id": "pl1-booster-pack",
+  "uuid": "1ce58d8a-7b72-53a6-b342-78e3547c5dc0",
   "region": "international",
   "set": "pl1",
   "category": "booster_pack",
   "name": "Platinum Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271857
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dbb7c367-27f7-59ef-8074-20cd094b357b",
       "name": "Platinum",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "95954fa1-1041-5430-bff9-b3b46607222c",
       "name": "Platine",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X",

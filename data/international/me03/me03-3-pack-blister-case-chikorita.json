@@ -1,15 +1,18 @@
 {
   "id": "me03-3-pack-blister-case-chikorita",
+  "uuid": "a75c9ce8-de9c-59ae-ba8b-2328e37360b0",
   "region": "international",
   "set": "me03",
   "category": "case",
   "name": "Perfect Order 3 Pack Blister Case [Chikorita]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "17b3e435-c20a-5a20-924e-cfeee92002b4",
       "name": "Perfect Order 3 Pack Blister Case [Chikorita]",
       "identifiers": {
         "tcgplayerProductIds": [

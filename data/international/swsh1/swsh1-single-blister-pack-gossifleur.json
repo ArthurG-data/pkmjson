@@ -1,9 +1,11 @@
 {
   "id": "swsh1-single-blister-pack-gossifleur",
+  "uuid": "f74b6aab-0311-5911-8eb4-87f5150a72c4",
   "region": "international",
   "set": "swsh1",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Gossifleur]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585893
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a3eb0ff-9e33-5453-95b9-64a52a0ef9aa",
       "name": "Sword & Shield Single Blister Pack [Gossifleur]",
       "releaseDate": "2020-02-07",
       "identifiers": {

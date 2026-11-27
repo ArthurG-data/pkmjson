@@ -1,9 +1,11 @@
 {
   "id": "ex13-holon-phantoms-booster-box",
+  "uuid": "32c6ec93-e0c9-5bd8-828d-d14311dc9b96",
   "region": "international",
   "set": "ex13",
   "category": "booster_box",
   "name": "Holon Phantoms Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271915
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "007fd47d-e24e-5f37-9efd-272a676f07e7",
       "name": "Holon Phantoms Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

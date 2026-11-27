@@ -1,15 +1,18 @@
 {
   "id": "xy12-charizard-ex-box",
+  "uuid": "52bbd575-9229-5cb1-b59e-e51eb488e243",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Charizard EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d3908d1c-e729-5008-bfbe-b7b392cb82b4",
       "name": "Charizard EX Box",
       "identifiers": {
         "tcgplayerProductIds": [

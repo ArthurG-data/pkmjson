@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-poke-ball-tin-ultra-ball",
+  "uuid": "d1da57e3-5a40-5008-8a86-4d5b499a4672",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Poke Ball Tin - Ultra Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a2e5d19c-742b-5fe2-b99c-92eee4502a5c",
       "name": "Pokemon GO Poke Ball Tin - Ultra Ball",
       "releaseDate": "2022-08-26",
       "identifiers": {

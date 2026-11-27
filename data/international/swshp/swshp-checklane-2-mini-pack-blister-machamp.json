@@ -1,9 +1,11 @@
 {
   "id": "swshp-checklane-2-mini-pack-blister-machamp",
+  "uuid": "01e1a04c-a6a0-52d2-93cc-cc9bc3650ee0",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Checklane 2 Mini-Pack Blister [Machamp]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d603d6b-917b-5552-8cce-1dbc2ea7cee3",
       "name": "Checklane 2 Mini-Pack Blister [Machamp]",
       "identifiers": {
         "tcgplayerProductIds": [

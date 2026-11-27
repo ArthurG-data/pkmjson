@@ -1,15 +1,18 @@
 {
   "id": "sv09-booster-pack-art-bundle-set-of-4",
+  "uuid": "7152864c-6eb5-5959-8af6-7ed43050f535",
   "region": "international",
   "set": "sv09",
   "category": "other",
   "name": "Journey Together Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b3b151e4-de54-5c81-aba2-763fb274b264",
       "name": "Journey Together Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

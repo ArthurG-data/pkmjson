@@ -1,9 +1,11 @@
 {
   "id": "sm3h-booster-box",
+  "uuid": "12366219-37ad-515e-966d-2206b22febeb",
   "region": "asia",
   "set": "SM3H",
   "category": "booster_box",
   "name": "To Have Seen the Battle Rainbow Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551831
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "37869f02-8a4e-52a1-9276-2b0989594bbd",
       "name": "To Have Seen the Battle Rainbow Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

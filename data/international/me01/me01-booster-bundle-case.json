@@ -1,15 +1,18 @@
 {
   "id": "me01-booster-bundle-case",
+  "uuid": "54a0ff4d-2bbd-53fb-9270-dcca64a9acb6",
   "region": "international",
   "set": "me01",
   "category": "case",
   "name": "Mega Evolution Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3260eec2-028f-5abb-928f-9a2d27cdc3cf",
       "name": "Mega Evolution Booster Bundle Case",
       "releaseDate": "2025-09-26",
       "identifiers": {

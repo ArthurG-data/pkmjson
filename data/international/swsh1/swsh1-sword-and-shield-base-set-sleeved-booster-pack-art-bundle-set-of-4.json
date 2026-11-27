@@ -1,15 +1,18 @@
 {
   "id": "swsh1-sword-and-shield-base-set-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "8ea48c04-6c63-54df-9aa5-707d4d8dbfc0",
   "region": "international",
   "set": "swsh1",
   "category": "other",
   "name": "Sword And Shield Base Set Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "24ecd1df-a317-57d0-83b5-8defd372ca22",
       "name": "Sword And Shield Base Set Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

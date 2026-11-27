@@ -1,9 +1,11 @@
 {
   "id": "xy5-theme-deck-ocean-s-core-kyogre",
+  "uuid": "814d9829-3575-5043-b995-dd554e8287e4",
   "region": "international",
   "set": "xy5",
   "category": "theme_deck",
   "name": "Primal Clash Theme Deck - \"Ocean's Core\" [Kyogre]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286625
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c6974ef-5012-5022-bf0a-f543b0052419",
       "name": "Primal Clash Theme Deck - \"Ocean's Core\" [Kyogre]",
       "identifiers": {
         "tcgplayerProductIds": [

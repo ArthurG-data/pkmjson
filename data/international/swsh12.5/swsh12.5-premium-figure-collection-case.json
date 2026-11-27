@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-premium-figure-collection-case",
+  "uuid": "220cf9d6-7583-5614-b2bf-ad4e9625ff30",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Premium Figure Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "140db431-432c-5040-8a16-97bdd191a22b",
       "name": "Crown Zenith Premium Figure Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

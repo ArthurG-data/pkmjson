@@ -1,9 +1,11 @@
 {
   "id": "ex4-ex-ruby-sapphire-theme-deck-ruby-blaziken",
+  "uuid": "f664290d-5c31-5853-bc38-b326fa673ce5",
   "region": "international",
   "set": "ex4",
   "category": "theme_deck",
   "name": "EX Ruby & Sapphire Theme Deck - \"Ruby\" [Blaziken]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "132b75cf-9255-5351-bfb7-a0ccaed87faf",
       "name": "EX Ruby & Sapphire Theme Deck - \"Ruby\" [Blaziken]",
       "identifiers": {
         "tcgplayerProductIds": [

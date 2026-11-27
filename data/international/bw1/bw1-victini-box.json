@@ -1,15 +1,18 @@
 {
   "id": "bw1-victini-box",
+  "uuid": "dee89675-7b6f-5e33-b947-3d17515b8c6e",
   "region": "international",
   "set": "bw1",
   "category": "collection_box",
   "name": "Victini Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b73e60e5-915c-5103-b350-974b0f357e57",
       "name": "Victini Box",
       "identifiers": {
         "tcgplayerProductIds": [

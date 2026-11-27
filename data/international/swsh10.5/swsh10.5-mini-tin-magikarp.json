@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-mini-tin-magikarp",
+  "uuid": "8b285201-e6b1-5390-bc61-d880d3e70749",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Mini Tin [Magikarp]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653712
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8db2ff26-635e-56c2-9691-ad75d10bdcce",
       "name": "Pokemon GO Mini Tin [Magikarp]",
       "releaseDate": "2022-08-05",
       "identifiers": {
@@ -37,6 +40,7 @@
     },
     {
       "language": "es",
+      "uuid": "98a96303-f827-5838-9fd4-502bdfd49ff9",
       "name": "Minilata Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
@@ -44,6 +48,7 @@
     },
     {
       "language": "fr",
+      "uuid": "32a70ac9-1715-52be-be9b-bc6d3e823bb6",
       "name": "Mini-boîte Pokémon GO",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"

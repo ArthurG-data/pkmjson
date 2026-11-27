@@ -1,15 +1,18 @@
 {
   "id": "swsh1-morpeko-pin-collection",
+  "uuid": "b004ea1a-8557-5788-834b-4abe1af5b65d",
   "region": "international",
   "set": "swsh1",
   "category": "collection_box",
   "name": "Morpeko Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f6a58754-5eec-5a57-bfe9-efd1b476c813",
       "name": "Morpeko Pin Collection",
       "releaseDate": "2020-04-03",
       "identifiers": {
@@ -23,6 +26,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7ce1b678-d3ef-576b-be7e-ddba215be84a",
       "name": "Collection avec pin's Morpeko",
       "releaseDate": "2020-06-17",
       "contents": {

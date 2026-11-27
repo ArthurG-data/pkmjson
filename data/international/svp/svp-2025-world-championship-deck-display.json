@@ -1,15 +1,18 @@
 {
   "id": "svp-2025-world-championship-deck-display",
+  "uuid": "d4a44998-87cb-5a88-8852-abda6ae74dea",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "2025 World Championship Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "417f2a96-0d53-5b7e-8837-7e28dc050a6b",
       "name": "2025 World Championship Deck Display",
       "identifiers": {
         "tcgplayerProductIds": [

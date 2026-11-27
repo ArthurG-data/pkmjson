@@ -1,9 +1,11 @@
 {
   "id": "me05-sleeved-booster-pack",
+  "uuid": "6b9909dc-2fa2-588b-ab32-03c4198d43a7",
   "region": "international",
   "set": "me05",
   "category": "sleeved_booster_pack",
   "name": "Pitch Black Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885546
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d93a643f-5158-5017-ad17-eb2f744e4300",
       "name": "Pitch Black Sleeved Booster Pack",
       "releaseDate": "2026-07-17",
       "identifiers": {

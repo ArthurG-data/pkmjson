@@ -1,9 +1,11 @@
 {
   "id": "me03-sleeved-booster-case",
+  "uuid": "366b005b-ab03-598c-95c2-a546918256a1",
   "region": "international",
   "set": "me03",
   "category": "case",
   "name": "Perfect Order Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865395
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2e05de14-2588-5cf9-9243-dbf6902fe78c",
       "name": "Perfect Order Sleeved Booster Case",
       "releaseDate": "2026-03-27",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh11-arceus-vstar-premium-collection",
+  "uuid": "9dfbb6ed-8d2b-55d6-9084-5fd4e5a9b8f1",
   "region": "international",
   "set": "swsh11",
   "category": "premium_collection",
   "name": "Arceus VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a79cf50e-5753-5bbb-9feb-17b7017af484",
       "name": "Arceus VSTAR Premium Collection",
       "releaseDate": "2022-09-30",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-pal-mini-tin-galarian-ponyta",
+  "uuid": "8331674b-1355-553d-837f-0da6623999a0",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Pal Mini Tin [Galarian Ponyta]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01232672-c6a5-542f-a34a-df60b9bd7f88",
       "name": "Galar Pal Mini Tin [Galarian Ponyta]",
       "releaseDate": "2020-04-03",
       "identifiers": {

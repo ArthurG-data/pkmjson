@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-moonlit-tin-mega-clefable-ex",
+  "uuid": "a6d12091-fdb2-5928-8da6-5204a82fcd4e",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Mega Moonlit Tin [Mega Clefable ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5c76e444-99a9-5a59-8e22-da73890f98d8",
       "name": "Mega Moonlit Tin [Mega Clefable ex]",
       "releaseDate": "2026-06-05",
       "identifiers": {

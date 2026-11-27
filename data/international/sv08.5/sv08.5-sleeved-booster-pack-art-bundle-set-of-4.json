@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "984ef762-0fa1-5fd9-8947-3a05093307c0",
   "region": "international",
   "set": "sv08.5",
   "category": "other",
   "name": "Prismatic Evolutions Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "31934048-ce7e-57ee-8c23-e687cb9591c0",
       "name": "Prismatic Evolutions Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

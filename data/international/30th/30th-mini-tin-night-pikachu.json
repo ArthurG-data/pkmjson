@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-night-pikachu",
+  "uuid": "afa4f6b5-1579-567a-a5e2-af9319ba0deb",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Night Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eb9076f3-0e1b-5a59-8c6e-49d5b908348c",
       "name": "30th Celebration Mini Tin [Night Pikachu]",
       "releaseDate": "2026-10-02",
       "identifiers": {

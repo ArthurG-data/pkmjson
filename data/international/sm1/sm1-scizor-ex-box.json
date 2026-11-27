@@ -1,15 +1,18 @@
 {
   "id": "sm1-scizor-ex-box",
+  "uuid": "09b49ef1-9d58-59f2-abd1-bf357a5fe4a6",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Scizor EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a8ea09b0-5976-5f99-af30-4fc630b54b5f",
       "name": "Scizor EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ecc9c2d4-b80d-53db-9bb9-c794aedb2f05",
       "name": "Coffret Cizayox-EX",
       "releaseDate": "2017-10-14",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "it",
+      "uuid": "b328c74c-4669-58e7-ae0d-3d12f5e2dd42",
       "name": "Set Scizor-EX",
       "releaseDate": "2017-04-21",
       "sources": [
@@ -38,6 +43,7 @@
     },
     {
       "language": "de",
+      "uuid": "454892c5-767a-5356-9f26-79155b3507f6",
       "name": "Scherox-EX-Box",
       "releaseDate": "2017-04-21",
       "sources": [

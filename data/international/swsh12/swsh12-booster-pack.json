@@ -1,9 +1,11 @@
 {
   "id": "swsh12-booster-pack",
+  "uuid": "9b545c36-a2b0-5e53-b3be-0160809a734d",
   "region": "international",
   "set": "swsh12",
   "category": "booster_pack",
   "name": "Silver Tempest Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672323
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02fe81b5-8677-506c-b360-49fe137e1432",
       "name": "Sword & Shield—Silver Tempest",
       "releaseDate": "2022-11-11",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a62c4ff2-8922-59d7-a1e5-c2a5785d3a1c",
       "name": "Épée et Bouclier – Tempête Argentée",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Temp%C3%AAte_Argent%C3%A9e",
@@ -44,6 +48,7 @@
     },
     {
       "language": "es",
+      "uuid": "862b887b-235b-56ee-8b35-0f299d824f34",
       "name": "Espada y Escudo-Tempestad Plateada",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-espada-y-escudo-tempestad-plateada",
@@ -52,6 +57,7 @@
     },
     {
       "language": "it",
+      "uuid": "08a9d003-35fe-5dd2-a846-f24a3f107c1e",
       "name": "Spada e Scudo - Tempesta Argentata",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-di-spada-e-scudo-tempesta-argentata",
@@ -60,6 +66,7 @@
     },
     {
       "language": "de",
+      "uuid": "a0e3bde0-16ad-5f5a-bfc2-2cc276237ba7",
       "name": "Schwert & Schild – Silberne Sturmwinde",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-silberne-sturmwinde",

@@ -1,9 +1,11 @@
 {
   "id": "sm5p-booster-box",
+  "uuid": "56f8877f-45e3-5749-a1ca-1b941afc750c",
   "region": "asia",
   "set": "SM5p",
   "category": "booster_box",
   "name": "Ultra Force Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551786
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e0a3873c-ff35-509a-a8f8-d7e5694acc8d",
       "name": "Ultra Force Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

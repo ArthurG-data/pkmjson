@@ -1,9 +1,11 @@
 {
   "id": "sm1-spring-2017-collector-s-chest-tin",
+  "uuid": "afd08d19-4811-5ca5-9b1f-0c37f0b8bc27",
   "region": "international",
   "set": "sm1",
   "category": "tin",
   "name": "Spring 2017 Collector's Chest Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8adbcf99-d81f-5e7d-8426-a3064403cfd8",
       "name": "Spring 2017 Collector's Chest Tin",
       "identifiers": {
         "tcgplayerProductIds": [

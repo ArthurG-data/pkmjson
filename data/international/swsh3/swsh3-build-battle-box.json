@@ -1,9 +1,11 @@
 {
   "id": "swsh3-build-battle-box",
+  "uuid": "87b97ccf-a2ef-5cf0-9172-8cb87dfb14a4",
   "region": "international",
   "set": "swsh3",
   "category": "build_and_battle_box",
   "name": "Darkness Ablaze Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 487089
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "35c2029c-e9a5-567c-90ee-72f826ca3cba",
       "name": "Darkness Ablaze Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

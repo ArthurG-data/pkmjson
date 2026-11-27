@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-forces-tin-mega-darkrai-ex",
+  "uuid": "f7759866-84df-512c-80e1-64df53312953",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Mega Forces Tin [Mega Darkrai ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "854d97fc-96ee-5ee9-8745-b95d55ec05a6",
       "name": "Mega Forces Tin [Mega Darkrai ex]",
       "releaseDate": "2026-08-28",
       "identifiers": {

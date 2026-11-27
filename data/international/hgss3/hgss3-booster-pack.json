@@ -1,9 +1,11 @@
 {
   "id": "hgss3-booster-pack",
+  "uuid": "fcc57ae5-df37-52f0-ae39-24e205fbcb66",
   "region": "international",
   "set": "hgss3",
   "category": "booster_pack",
   "name": "Undaunted Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271875
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a0ce3175-9c31-50f3-8ccf-84bca0305fce",
       "name": "HS—Undaunted",
       "identifiers": {
         "tcgplayerProductIds": [

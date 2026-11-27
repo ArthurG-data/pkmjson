@@ -1,15 +1,18 @@
 {
   "id": "g1-mythical-pokemon-collection-box-victini",
+  "uuid": "259823f2-9812-5071-b714-22f9ea9aaf91",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Mythical Pokemon Collection Box [Victini]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "18176cd4-cdbe-506b-8736-55a83b024485",
       "name": "Mythical Pokemon Collection Box [Victini]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a2d939c7-f105-59c9-8b86-5229a39241a1",
       "name": "Collection Pokémon fabuleux Victini",
       "releaseDate": "2016-11-19",
       "sources": [

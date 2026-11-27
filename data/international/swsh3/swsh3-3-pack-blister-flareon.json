@@ -1,9 +1,11 @@
 {
   "id": "swsh3-3-pack-blister-flareon",
+  "uuid": "4918b16c-4603-5bd1-a01d-0cc484758687",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze 3 Pack Blister [Flareon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585879
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c4fbb761-dcb9-56b3-a17a-577886123229",
       "name": "Darkness Ablaze 3 Pack Blister [Flareon]",
       "releaseDate": "2020-08-14",
       "identifiers": {

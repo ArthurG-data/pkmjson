@@ -1,9 +1,11 @@
 {
   "id": "sm11-power-partnership-tin-mewtwo-mew-gx",
+  "uuid": "7906caee-249d-5a0a-bdff-7c7b72afdc51",
   "region": "international",
   "set": "sm11",
   "category": "tin",
   "name": "Power Partnership Tin [Mewtwo & Mew GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a10fcd4b-494c-5d1a-b680-1bdae06483bb",
       "name": "Power Partnership Tin [Mewtwo & Mew GX]",
       "releaseDate": "2019-09-06",
       "identifiers": {

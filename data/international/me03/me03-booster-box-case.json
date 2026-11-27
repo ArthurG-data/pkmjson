@@ -1,9 +1,11 @@
 {
   "id": "me03-booster-box-case",
+  "uuid": "126050ab-c69b-545c-ae89-578c9e44a428",
   "region": "international",
   "set": "me03",
   "category": "case",
   "name": "Perfect Order Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865396
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "74d51c44-330f-5c33-a717-0a3687b8cdc9",
       "name": "Perfect Order Booster Box Case",
       "releaseDate": "2026-03-27",
       "identifiers": {

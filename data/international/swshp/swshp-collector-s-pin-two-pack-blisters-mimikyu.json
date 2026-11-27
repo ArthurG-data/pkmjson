@@ -1,9 +1,11 @@
 {
   "id": "swshp-collector-s-pin-two-pack-blisters-mimikyu",
+  "uuid": "2d33cb54-5ca0-581d-afda-2825376bf1d5",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Collector's Pin Two Pack Blisters [Mimikyu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f7b80ef-f4bb-5cd4-b253-59e341c0641c",
       "name": "Collector's Pin Two Pack Blisters [Mimikyu]",
       "identifiers": {
         "tcgplayerProductIds": [

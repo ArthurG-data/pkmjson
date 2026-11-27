@@ -1,15 +1,18 @@
 {
   "id": "me01-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "b47ba61c-efcb-5d11-8cdf-7c585580ddfc",
   "region": "international",
   "set": "me01",
   "category": "other",
   "name": "Mega Evolution Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e73cb884-14da-5572-b377-f7db42efb413",
       "name": "Mega Evolution Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2025-09-26",
       "identifiers": {

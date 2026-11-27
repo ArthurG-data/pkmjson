@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-premium-collection-meowscarada-ex",
+  "uuid": "8382ad2f-1d42-558f-8678-66ee1ccb0b6e",
   "region": "international",
   "set": "sv04.5",
   "category": "premium_collection",
   "name": "Paldean Fates Premium Collection [Meowscarada ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745562
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c6c5c4bc-90e4-505a-afb4-f2846dafa21d",
       "name": "Paldean Fates Premium Collection [Meowscarada ex]",
       "releaseDate": "2024-02-09",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm8b-booster-pack",
+  "uuid": "51414ce7-023f-5ef1-87b4-9f98d9957f16",
   "region": "asia",
   "set": "SM8b",
   "category": "booster_pack",
   "name": "GX Ultra Shiny Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550476
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "85a1f2c9-2004-5a5a-a89d-f09f80ca2ece",
       "name": "GX Ultra Shiny Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

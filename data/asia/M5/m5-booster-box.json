@@ -1,9 +1,11 @@
 {
   "id": "m5-booster-box",
+  "uuid": "32faa133-bd0b-52d6-b0ab-a5635f10dad7",
   "region": "asia",
   "set": "M5",
   "category": "booster_box",
   "name": "Abyss Eye Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 883955
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "47f37b21-2f1a-5bf8-a7a8-c74a6d7b1d86",
       "name": "Abyss Eye Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

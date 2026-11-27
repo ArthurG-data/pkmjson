@@ -1,9 +1,11 @@
 {
   "id": "swshp-league-battle-deck-ice-rider-calyrex-vmax",
+  "uuid": "bf6085ad-d5ec-5bda-9357-4047e0a0ee1d",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "League Battle Deck [Ice Rider Calyrex VMAX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "876b0747-cc90-5d94-8107-6013f7b6bd88",
       "name": "League Battle Deck [Ice Rider Calyrex VMAX]",
       "releaseDate": "2022-07-22",
       "identifiers": {
@@ -54,6 +57,7 @@
     },
     {
       "language": "de",
+      "uuid": "55871917-45e5-51cc-83ac-ab04d4e7fbff",
       "name": "Liga-Kampfdeck Schimmelreiter-Coronospa-VMAX",
       "releaseDate": "2022-06-17",
       "sources": [

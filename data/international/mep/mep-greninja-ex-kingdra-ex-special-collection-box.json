@@ -1,9 +1,11 @@
 {
   "id": "mep-greninja-ex-kingdra-ex-special-collection-box",
+  "uuid": "cbc26828-97b0-5ad5-bc31-f385a1a52599",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Greninja EX & Kingdra EX Special Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c0c4a87-3b81-5bfa-964a-a6af93805370",
       "name": "Greninja EX & Kingdra EX Special Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [

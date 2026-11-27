@@ -1,9 +1,11 @@
 {
   "id": "swsh9-glaceon-vstar-special-collection",
+  "uuid": "7cbee0d0-b5f6-5a22-a41f-2422039a596b",
   "region": "international",
   "set": "swsh9",
   "category": "collection_box",
   "name": "Glaceon VSTAR Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d2b25876-289c-5f72-b272-2cfe2db34118",
       "name": "Glaceon VSTAR Special Collection",
       "releaseDate": "2022-01-28",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm12-theme-deck-groudon",
+  "uuid": "c16d34c4-0756-5e6f-931b-ac93958a81f2",
   "region": "international",
   "set": "sm12",
   "category": "theme_deck",
   "name": "Cosmic Eclipse Theme Deck [Groudon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ebf0dfb6-ec9c-51fc-a3f4-8594ca24fdc7",
       "name": "Cosmic Eclipse Theme Deck [Groudon]",
       "releaseDate": "2019-11-01",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mega-meganium-ex-box",
+  "uuid": "f93e821d-5c00-5f5f-8b4e-c1bf8d0bcb61",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Ascended Heroes Mega Meganium ex Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 864107
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "76c16462-3301-5b87-b7bc-f692afe314bb",
       "name": "Ascended Heroes Mega Meganium ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

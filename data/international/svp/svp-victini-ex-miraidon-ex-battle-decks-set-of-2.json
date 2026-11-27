@@ -1,15 +1,18 @@
 {
   "id": "svp-victini-ex-miraidon-ex-battle-decks-set-of-2",
+  "uuid": "cb52c0e6-e1d9-5970-9785-1ab162b4e7a4",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Victini ex/Miraidon ex Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "eaa3e10c-416b-5c6b-967a-6252de333680",
       "name": "Victini ex/Miraidon ex Battle Decks [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

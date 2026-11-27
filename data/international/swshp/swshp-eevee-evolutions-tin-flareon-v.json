@@ -1,15 +1,18 @@
 {
   "id": "swshp-eevee-evolutions-tin-flareon-v",
+  "uuid": "c02e33db-3211-5da5-b2f9-a30595446b5c",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Eevee Evolutions Tin [Flareon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil Flareon V; 4 Pokémon TCG booster packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bf04785c-0a04-5a6e-8012-9c4842159b45",
       "name": "Eevee Evolutions Tin [Flareon V]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "053d4454-e686-52ce-8b92-7a79ba5c82d2",
       "name": "Boîte Évolutions d’Évoli",
       "releaseDate": "2021-09-03",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "de",
+      "uuid": "c7d9fe14-3f01-596d-9c8d-8787307b140c",
       "name": "Tin-Box Evoli-Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-evoli-entwicklungen"
@@ -37,6 +42,7 @@
     },
     {
       "language": "es",
+      "uuid": "e4c050dc-cd77-5c30-8526-6717763a0bea",
       "name": "Lata Evoluciones de Eevee",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-evoluciones-de-eevee"
@@ -44,6 +50,7 @@
     },
     {
       "language": "it",
+      "uuid": "853ae085-b42d-51f8-bc23-04f280d88b14",
       "name": "Scatola da collezione Evoluzioni di Eevee",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-evoluzioni-di-eevee"

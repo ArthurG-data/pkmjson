@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-scarlet-violet-151-mini-tin-5-pack-magneton",
+  "uuid": "2cdc46fd-c863-5fee-8f63-2b7c91036e3b",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Costco Pokemon Scarlet & Violet 151 Mini Tin 5-pack (Magneton)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 5 - 151 Mini Tins featuring: Electabuzz, Scyther, Magneton, Dragonite, Gengar; 2 -151 booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4b17431c-98e9-5ee5-a5ff-bcb367d22451",
       "name": "Costco Pokemon Scarlet & Violet 151 Mini Tin 5-pack (Magneton)",
       "identifiers": {
         "tcgplayerProductIds": [

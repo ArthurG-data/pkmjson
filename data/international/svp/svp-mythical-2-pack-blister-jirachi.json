@@ -1,9 +1,11 @@
 {
   "id": "svp-mythical-2-pack-blister-jirachi",
+  "uuid": "8d34f559-7fe3-5582-9f4d-b42e5da989d8",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Mythical 2-Pack Blister [Jirachi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b2b84bc3-1396-5407-b18e-698bc193560b",
       "name": "Mythical 2-Pack Blister [Jirachi]",
       "identifiers": {
         "tcgplayerProductIds": [

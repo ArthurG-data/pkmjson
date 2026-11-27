@@ -1,9 +1,11 @@
 {
   "id": "swsh1-toxtricity-v-box",
+  "uuid": "851fbe24-baad-5f92-aac6-a5b0f33eedff",
   "region": "international",
   "set": "swsh1",
   "category": "collection_box",
   "name": "Toxtricity V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f8886e7-7905-5371-9ab5-478322cdeb04",
       "name": "Toxtricity V Box",
       "releaseDate": "2020-02-27",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "182f80bf-0bbe-52fb-8e99-b2a1f36b9fcd",
       "name": "Coffret Salarsen",
       "releaseDate": "2020-02-27",
       "contents": {
@@ -88,6 +92,7 @@
     },
     {
       "language": "de",
+      "uuid": "11607b7d-1388-5476-bea2-e4d5f1b71e76",
       "name": "Kollektion Riffex-V",
       "releaseDate": "2020-02-27",
       "sources": [
@@ -96,6 +101,7 @@
     },
     {
       "language": "es",
+      "uuid": "627f3e8d-67ad-5fd9-a6c3-55ed0be1197c",
       "name": "Colección Toxtricity V",
       "releaseDate": "2020-02-27",
       "sources": [
@@ -104,6 +110,7 @@
     },
     {
       "language": "it",
+      "uuid": "0d5b43e5-aed9-50a0-9199-1cc78ba761e2",
       "name": "Collezione Toxtricity-V",
       "releaseDate": "2020-02-27",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh2-booster-pack-art-bundle-set-of-4",
+  "uuid": "ab960d43-878d-57e2-9dac-aaba6607e5f0",
   "region": "international",
   "set": "swsh2",
   "category": "other",
   "name": "Rebel Clash Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e1afdbc2-4d12-57a5-b0e0-27fc8e92f2c4",
       "name": "Rebel Clash Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

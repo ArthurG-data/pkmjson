@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-tin-case",
+  "uuid": "137da720-7f78-5d20-9971-36167ab8a2a7",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b140ef34-ee4a-50ea-9833-3923f9c2bebf",
       "name": "Paldean Fates Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

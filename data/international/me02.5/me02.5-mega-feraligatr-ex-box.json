@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mega-feraligatr-ex-box",
+  "uuid": "9641d9e2-3d05-56e7-aeb5-7b9042b72e71",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Ascended Heroes Mega Feraligatr ex Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 864109
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5bd158b1-e67a-5fd4-9bb2-77c1d87c0a0a",
       "name": "Ascended Heroes Mega Feraligatr ex Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "84c6ff83-6c8e-5d2e-bef4-7eea6945e156",
       "name": "Coffret Méga-Évolution Héros Transcendants Méga-Aligatueur-ex",
       "releaseDate": "2026-04-24",
       "sources": [

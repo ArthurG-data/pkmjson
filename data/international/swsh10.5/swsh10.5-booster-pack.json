@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-booster-pack",
+  "uuid": "5c4bfb88-cf5e-5b4f-aa54-265ca161dbf7",
   "region": "international",
   "set": "swsh10.5",
   "category": "booster_pack",
   "name": "Pokemon GO Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653699
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d12daa9-e451-5882-a6b4-6d16b8a0d2e3",
       "name": "Pokémon GO",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a080c8e0-cdab-5403-b47d-91e6189e6afd",
       "name": "Pokémon GO",
       "sources": [
         "https://www.pokepedia.fr/Collection_Pok%C3%A9mon_GO_Noadkoko_d%27Alola-V",
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "7c1875f4-62a8-5aba-991b-3a1281941ea5",
       "name": "Pokémon GO",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball",
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "a63e1a83-f012-5d63-b12c-0e4ea3e07d78",
       "name": "Pokémon GO",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball",
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "a2865e0c-469f-536a-b1b7-6212c77d0195",
       "name": "Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball",

@@ -1,15 +1,18 @@
 {
   "id": "bw1-new-legends-tin-zekrom",
+  "uuid": "c35a37bc-6172-5fdd-8920-09e8657903ee",
   "region": "international",
   "set": "bw1",
   "category": "tin",
   "name": "New Legends Tin [Zekrom]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2520f321-0359-5310-a0e2-4678ad53db08",
       "name": "New Legends Tin [Zekrom]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-adventure-chest",
+  "uuid": "df0a8cf0-cf8f-5cfb-bede-d801e83c4541",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Paldea Adventure Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -42,6 +44,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9dc921a1-544d-5905-a2c0-2554e632210b",
       "name": "Paldea Adventure Chest",
       "identifiers": {
         "tcgplayerProductIds": [

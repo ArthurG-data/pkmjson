@@ -1,9 +1,11 @@
 {
   "id": "m2a-mega-dream-ex-booster-pack",
+  "uuid": "45a8bcbf-385e-51d0-bb3d-12ae213c0e53",
   "region": "asia",
   "set": "M2a",
   "category": "booster_pack",
   "name": "Mega Dream ex Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 858381
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "463191da-372a-53d5-b345-704a47726d3f",
       "name": "ハイクラスパック 「MEGAドリームex」",
       "releaseDate": "2025-11-28",
       "identifiers": {

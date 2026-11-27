@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-pin-collection-hammerlocke-gym",
+  "uuid": "9c665ba8-cd77-5675-917a-4aaabae70260",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Pin Collection [Hammerlocke Gym]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5496989f-8e56-5e67-a195-b241c48735a6",
       "name": "Champion's Path Pin Collection [Hammerlocke Gym]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "49977c77-5b90-54a5-acc1-4954e141b1e1",
       "name": "Collection avec pin's La Voie du Maître Arène de Kickenham",
       "releaseDate": "2020-11-13",
       "sources": [

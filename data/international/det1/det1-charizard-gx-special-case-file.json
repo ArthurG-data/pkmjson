@@ -1,9 +1,11 @@
 {
   "id": "det1-charizard-gx-special-case-file",
+  "uuid": "c20544e3-e581-5175-8064-64d8774993be",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu: Charizard GX Special Case File",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557673
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "66fec154-0abe-5e69-a6e2-c2552f74c092",
       "name": "Detective Pikachu: Charizard GX Special Case File",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh4-single-pack-blister-grookey",
+  "uuid": "9a8d3daf-fd58-5314-a6b0-1453868324e4",
   "region": "international",
   "set": "swsh4",
   "category": "blister",
   "name": "Vivid Voltage Single Pack Blister [Grookey]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585810
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5365a2da-6dc3-5cf5-8877-584875ff1f22",
       "name": "Vivid Voltage Single Pack Blister [Grookey]",
       "releaseDate": "2020-11-13",
       "identifiers": {

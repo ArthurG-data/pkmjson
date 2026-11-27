@@ -1,15 +1,18 @@
 {
   "id": "sm1-booster-pack-art-bundle-set-of-5",
+  "uuid": "0072c6da-5b4f-5415-9518-892862c9a8bb",
   "region": "international",
   "set": "sm1",
   "category": "other",
   "name": "Sun & Moon Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "924be1d2-18a2-52b8-ba82-a6c68d4c92da",
       "name": "Sun & Moon Booster Pack Art Bundle [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy3-booster-pack",
+  "uuid": "a3313aeb-ae9f-5fd8-b443-50a1451348a9",
   "region": "international",
   "set": "xy3",
   "category": "booster_pack",
   "name": "Furious Fists Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271863
   },
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7f7f9411-eb8a-5067-a9b7-fa5fd0216d82",
       "name": "XY—Furious Fists",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "395f70ec-6978-5e41-8466-3bdeeb85d699",
       "name": "XY – Poings Furieux",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Carchacrok-EX",

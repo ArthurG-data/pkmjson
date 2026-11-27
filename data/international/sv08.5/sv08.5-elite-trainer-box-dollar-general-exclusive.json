@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-elite-trainer-box-dollar-general-exclusive",
+  "uuid": "38792d10-d527-52f6-99c9-566fb353434c",
   "region": "international",
   "set": "sv08.5",
   "category": "elite_trainer_box",
   "name": "Prismatic Evolutions Elite Trainer Box (Dollar General Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -51,6 +53,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b24e7f82-6da7-50aa-80ef-fcc231349bc8",
       "name": "Prismatic Evolutions Elite Trainer Box (Dollar General Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

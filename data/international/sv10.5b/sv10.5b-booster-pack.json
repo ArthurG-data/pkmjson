@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-booster-pack",
+  "uuid": "89f4b63a-568a-5f85-ab0d-e4286c323c97",
   "region": "international",
   "set": "sv10.5b",
   "category": "booster_pack",
   "name": "Black Bolt Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824086
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3eb8c66b-17b4-5396-a489-f3470917684c",
       "name": "Scarlet & Violet—Black Bolt",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d3b0d13c-a788-5b33-9524-43ecda6b63e4",
       "name": "Écarlate et Violet – Foudre Noire",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Foudre_Noire",
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "6f019ff5-89ef-57ae-8fea-f09c6fb63977",
       "name": "Scarlatto e Violetto - Luce Nera",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "7de0afb9-6cd4-580f-abdc-0cfcbe25cefd",
       "name": "Karmesin & Purpur – Schwarze Blitze",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall",
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "2f82d445-afa3-58b9-9b8d-00eecfce8c31",
       "name": "Escarlata y Púrpura-Fulgor Negro",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia",

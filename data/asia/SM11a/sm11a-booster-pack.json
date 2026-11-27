@@ -1,9 +1,11 @@
 {
   "id": "sm11a-booster-pack",
+  "uuid": "66c5b4aa-f2b1-538f-b7a3-1852c6b334c8",
   "region": "asia",
   "set": "SM11a",
   "category": "booster_pack",
   "name": "Remix Bout Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550376
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "28f3c4f0-c144-533b-b6c9-9f3114c8b04d",
       "name": "強化拡張パック「リミックスバウト」",
       "releaseDate": "2019-07-05",
       "identifiers": {

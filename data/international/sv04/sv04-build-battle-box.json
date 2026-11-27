@@ -1,9 +1,11 @@
 {
   "id": "sv04-build-battle-box",
+  "uuid": "b0394c0a-ec21-5020-9c77-271d7a8d5c33",
   "region": "international",
   "set": "sv04",
   "category": "build_and_battle_box",
   "name": "Paradox Rift Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728724
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9567356e-eeae-5737-803f-4135fe3dc13e",
       "name": "Paradox Rift Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

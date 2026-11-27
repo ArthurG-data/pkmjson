@@ -1,15 +1,18 @@
 {
   "id": "sm12-theme-deck-set-of-2",
+  "uuid": "3ff19eed-f6dc-5da5-b2f7-2a5e87b1c188",
   "region": "international",
   "set": "sm12",
   "category": "other",
   "name": "Cosmic Eclipse Theme Deck [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 60-card preconstructed deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1e31c0fe-978d-5e6f-b8d7-42296c434d4f",
       "name": "Cosmic Eclipse Theme Deck [Set of 2]",
       "releaseDate": "2019-11-01",
       "identifiers": {

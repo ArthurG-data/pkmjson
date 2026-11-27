@@ -1,9 +1,11 @@
 {
-  "id": "sm10-booster-box-576914",
+  "id": "asia-sm10-booster-box",
+  "uuid": "885597d6-cb0b-5ada-a672-8b57f39f26aa",
   "region": "asia",
   "set": "SM10",
   "category": "booster_box",
   "name": "Double Blaze Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550396
   },
@@ -11,7 +13,7 @@
   "contents": {
     "sealed": [
       {
-        "product": "sm10-booster-pack-576913",
+        "product": "asia-sm10-booster-pack",
         "count": 30
       }
     ]
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7eee3959-5e1d-57e6-849c-5c5554d76526",
       "name": "Double Blaze Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

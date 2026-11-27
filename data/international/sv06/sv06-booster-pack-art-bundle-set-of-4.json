@@ -1,15 +1,18 @@
 {
   "id": "sv06-booster-pack-art-bundle-set-of-4",
+  "uuid": "86eecd1e-8844-58ca-b91d-0f075f7afd74",
   "region": "international",
   "set": "sv06",
   "category": "other",
   "name": "Twilight Masquerade Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8e3cf787-ccc8-585b-b058-c553f76dea59",
       "name": "Twilight Masquerade Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

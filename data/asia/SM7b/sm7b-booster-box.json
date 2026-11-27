@@ -1,9 +1,11 @@
 {
   "id": "sm7b-booster-box",
+  "uuid": "d1888ac2-8651-5235-8222-21a964430030",
   "region": "asia",
   "set": "SM7b",
   "category": "booster_box",
   "name": "Fairy Rise Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551751
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1d903f66-f313-5c88-a746-f2398bb6bb97",
       "name": "Fairy Rise Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

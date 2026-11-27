@@ -1,9 +1,11 @@
 {
   "id": "xy9-collector-pin-3-pack-blister-mega-scizor",
+  "uuid": "4df2bb9a-37fe-56d8-897c-2ba51eab1cbd",
   "region": "international",
   "set": "xy9",
   "category": "blister",
   "name": "BREAKpoint Collector Pin 3 Pack Blister [Mega Scizor]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8a8f3502-78f4-5840-8630-a03e1b5a2f5d",
       "name": "BREAKpoint Collector Pin 3 Pack Blister [Mega Scizor]",
       "identifiers": {
         "tcgplayerProductIds": [

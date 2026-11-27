@@ -1,9 +1,11 @@
 {
   "id": "swsh9-3-pack-blister-leafeon",
+  "uuid": "a27f8f7e-9642-587e-912d-b12aaf51f9cd",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars 3 Pack Blister [Leafeon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 606765
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "10a7fb11-f994-5425-a2a5-3590af9bbf2a",
       "name": "Brilliant Stars 3 Pack Blister [Leafeon]",
       "releaseDate": "2022-02-25",
       "identifiers": {

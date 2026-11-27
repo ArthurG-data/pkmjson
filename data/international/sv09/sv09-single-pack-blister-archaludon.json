@@ -1,9 +1,11 @@
 {
   "id": "sv09-single-pack-blister-archaludon",
+  "uuid": "cf837a6c-5dad-5e01-a107-a35f88451524",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together Single Pack Blister [Archaludon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fef1927-01da-5305-8897-6e6e413244f8",
       "name": "Journey Together Single Pack Blister [Archaludon]",
       "identifiers": {
         "tcgplayerProductIds": [

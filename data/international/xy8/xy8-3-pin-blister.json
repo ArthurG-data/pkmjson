@@ -1,9 +1,11 @@
 {
   "id": "xy8-3-pin-blister",
+  "uuid": "2c6abaa8-c8de-5f05-a213-4379c24778cf",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough Mega Evolution 3 Pin Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f6a4193a-de78-58a4-a893-47dffce76265",
       "name": "BREAKthrough Mega Evolution 3 Pin Blister",
       "identifiers": {
         "tcgplayerProductIds": [

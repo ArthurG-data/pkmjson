@@ -1,9 +1,11 @@
 {
   "id": "cel25-special-collection-v-memories",
+  "uuid": "96a6dd1e-02e3-5d54-8c45-0f4af93e1f9d",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Special Collection - V Memories",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -57,6 +59,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2578cfd9-3314-546f-8167-2909f8f08da0",
       "name": "Celebrations Special Collection - V Memories",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me04-pokemon-center-elite-trainer-box",
+  "uuid": "63142bd8-e0c0-592e-a31e-aef9634d0b8f",
   "region": "international",
   "set": "me04",
   "category": "elite_trainer_box",
   "name": "Chaos Rising Pokemon Center Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877293
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6c73a468-35e1-5f93-aa6a-73e88150e288",
       "name": "Chaos Rising Pokemon Center Elite Trainer Box",
       "releaseDate": "2026-05-22",
       "identifiers": {

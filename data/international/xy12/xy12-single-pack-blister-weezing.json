@@ -1,9 +1,11 @@
 {
   "id": "xy12-single-pack-blister-weezing",
+  "uuid": "f7852a24-7fc1-528c-bdeb-4058c36be358",
   "region": "international",
   "set": "xy12",
   "category": "blister",
   "name": "XY Evolutions Single Pack Blister [Weezing]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586326
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d212c692-0357-5810-81b9-55aec1bbbf70",
       "name": "XY Evolutions Single Pack Blister [Weezing]",
       "identifiers": {
         "tcgplayerProductIds": [

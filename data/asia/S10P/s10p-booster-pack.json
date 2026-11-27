@@ -1,9 +1,11 @@
 {
   "id": "s10p-booster-pack",
+  "uuid": "76606326-b5b2-5f3a-8716-34d49c13cb29",
   "region": "asia",
   "set": "S10P",
   "category": "booster_pack",
   "name": "Space Juggler Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611245
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7170b137-a47e-556c-a291-abd9fd40cb13",
       "name": "拡張パック「スペースジャグラー」",
       "releaseDate": "2022-04-08",
       "identifiers": {

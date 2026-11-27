@@ -1,9 +1,11 @@
 {
   "id": "swsh3-single-blister-pack-silicobra-sandaconda",
+  "uuid": "9a09b54d-e016-5eed-9af2-e3412c81bd6f",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Silicobra & Sandaconda]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e0d47834-bb28-513d-9a9a-0c39c3958f37",
       "name": "Sword & Shield Single Blister Pack [Silicobra & Sandaconda]",
       "identifiers": {
         "tcgplayerProductIds": [

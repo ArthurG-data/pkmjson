@@ -1,9 +1,11 @@
 {
   "id": "me02-premium-checklane-blister-blaziken",
+  "uuid": "fa4a61d3-cbae-56f6-a9c6-151fdb5b30b1",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames Premium Checklane Blister [Blaziken]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846735
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "862826e1-2e4f-5c58-8b49-b8d0b8dab4d1",
       "name": "Phantasmal Flames Premium Checklane Blister [Blaziken]",
       "releaseDate": "2025-11-14",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "mep-first-partner-collection-2026-series-3-booster-pack",
+  "uuid": "575c0221-75a7-5290-a39c-2745dfb6d026",
   "region": "international",
   "set": "mep",
   "category": "booster_pack",
   "name": "First Partner Collection 2026 Series 3 Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "af341f5b-19f5-526f-8059-072cc27dc9ef",
       "name": "First Partner Collection 2026 Series 3 Booster Pack",
       "releaseDate": "2026-08-07",
       "identifiers": {

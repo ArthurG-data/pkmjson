@@ -1,9 +1,11 @@
 {
   "id": "s1w-booster-pack",
+  "uuid": "8b18ad9c-d00b-5963-a48c-1f135b03c2d5",
   "region": "asia",
   "set": "S1W",
   "category": "booster_pack",
   "name": "Sword Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 468309
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6758b5f5-e4ae-5169-8cbd-5762d86259fa",
       "name": "拡張パック「ソード」",
       "releaseDate": "2019-12-06",
       "identifiers": {

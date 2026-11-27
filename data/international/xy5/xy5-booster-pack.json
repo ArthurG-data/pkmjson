@@ -1,9 +1,11 @@
 {
   "id": "xy5-booster-pack",
+  "uuid": "b69902e0-8c93-59b4-8663-722b28f4701d",
   "region": "international",
   "set": "xy5",
   "category": "booster_pack",
   "name": "XY Primal Clash Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271884
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a2ced5b7-27e6-5ef7-82ec-1357ad05bb8c",
       "name": "XY—Primal Clash",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d3011169-ccf1-5bbb-872e-7335e12b1988",
       "name": "XY – Primo-Choc",
       "sources": [
         "https://www.pokepedia.fr/Tripack_XY05_M%C3%A9tamorph",

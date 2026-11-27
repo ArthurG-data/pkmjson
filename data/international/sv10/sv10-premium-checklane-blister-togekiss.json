@@ -1,9 +1,11 @@
 {
   "id": "sv10-premium-checklane-blister-togekiss",
+  "uuid": "f0c66f86-0474-5d65-b99e-73368c71ec1f",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals Premium Checklane Blister [Togekiss]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818582
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d5c189af-e5ff-57de-ad49-d18fe934cf1b",
       "name": "Destined Rivals Premium Checklane Blister [Togekiss]",
       "releaseDate": "2025-05-30",
       "identifiers": {

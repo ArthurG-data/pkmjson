@@ -1,9 +1,11 @@
 {
   "id": "swsh11-origin-forme-palkia-vstar-premium-collection",
+  "uuid": "97938c1f-e6d2-5fbb-b264-0db1f75f5ed3",
   "region": "international",
   "set": "swsh11",
   "category": "premium_collection",
   "name": "Origin Forme Palkia VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e296e079-8987-509d-bd63-2772be9ad4c2",
       "name": "Origin Forme Palkia VSTAR Premium Collection",
       "releaseDate": "2022-10-07",
       "identifiers": {

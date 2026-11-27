@@ -1,9 +1,11 @@
 {
   "id": "xy2-theme-deck-brilliant-thunder-heliolisk",
+  "uuid": "a0ae4758-cb01-52f7-9481-64a646fa782c",
   "region": "international",
   "set": "xy2",
   "category": "theme_deck",
   "name": "Flashfire Theme Deck - \"Brilliant Thunder\" [Heliolisk]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286619
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3a6401eb-bb08-51db-8032-a4ffd7b1d4e9",
       "name": "Flashfire Theme Deck - \"Brilliant Thunder\" [Heliolisk]",
       "identifiers": {
         "tcgplayerProductIds": [

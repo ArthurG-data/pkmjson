@@ -1,9 +1,11 @@
 {
-  "id": "sv10-glory-of-team-rocket-booster-pack",
+  "id": "asia-sv10-glory-of-team-rocket-booster-pack",
+  "uuid": "5c194cca-b8f6-5324-8a1c-b545825f8d46",
   "region": "asia",
   "set": "SV10",
   "category": "booster_pack",
   "name": "Glory of Team Rocket Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "13914517-445b-58b1-8270-bf5ae012510c",
       "name": "拡張パック「ロケット団の栄光」",
       "releaseDate": "2025-04-18",
       "identifiers": {

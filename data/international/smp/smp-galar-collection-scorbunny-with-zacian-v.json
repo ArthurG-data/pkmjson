@@ -1,9 +1,11 @@
 {
   "id": "smp-galar-collection-scorbunny-with-zacian-v",
+  "uuid": "f81f6349-bac4-59c0-9f06-effb673943b2",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Galar Collection [Scorbunny] - with Zacian V",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0da8dae4-7923-523a-a305-a6d570abd7b3",
       "name": "Galar Collection [Scorbunny] - with Zacian V",
       "releaseDate": "2019-11-15",
       "identifiers": {

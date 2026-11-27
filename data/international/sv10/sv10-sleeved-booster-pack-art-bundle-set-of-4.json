@@ -1,15 +1,18 @@
 {
   "id": "sv10-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "e8c11598-d79d-5cde-9b66-e379635fa5fb",
   "region": "international",
   "set": "sv10",
   "category": "other",
   "name": "Destined Rivals Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "258838f6-0c17-59a9-b3e5-6d4b51e166a0",
       "name": "Destined Rivals Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

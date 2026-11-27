@@ -1,9 +1,11 @@
 {
   "id": "s7r-booster-box",
+  "uuid": "1679a1da-e370-5f8f-9dc0-eb4981ab07f7",
   "region": "asia",
   "set": "S7R",
   "category": "booster_box",
   "name": "Blue Sky Stream Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 568813
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0d4d9d55-4e4e-50ba-855b-1b461ad4e2ca",
       "name": "Blue Sky Stream Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

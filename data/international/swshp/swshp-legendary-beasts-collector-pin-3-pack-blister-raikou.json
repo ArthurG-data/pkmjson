@@ -1,9 +1,11 @@
 {
   "id": "swshp-legendary-beasts-collector-pin-3-pack-blister-raikou",
+  "uuid": "f8aede32-929b-50ca-b040-6da04e2860c8",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Legendary Beasts Collector Pin 3 Pack Blister [Raikou]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1d96c594-5815-5502-b506-a7a05fcce5cb",
       "name": "Legendary Beasts Collector Pin 3 Pack Blister [Raikou]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh5-premium-checklane-blister-golisopod",
+  "uuid": "690a10cb-85be-5ebf-8ba1-4d743832bf54",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles Premium Checklane Blister [Golisopod]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02c92c0d-3938-53fa-8f9f-1c5c10247e93",
       "name": "Battle Styles Premium Checklane Blister [Golisopod]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm1-gx-challenge-box-decidueye",
+  "uuid": "ebfd7d1e-b629-51d5-bdd8-da13751f720f",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Sun & Moon GX Challenge Box [Decidueye]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01de7e96-e351-5a3b-b104-c9233ff106b0",
       "name": "Sun & Moon GX Challenge Box [Decidueye]",
       "identifiers": {
         "tcgplayerProductIds": [

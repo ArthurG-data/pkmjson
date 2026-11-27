@@ -1,15 +1,18 @@
 {
   "id": "sv07-booster-pack-art-bundle-set-of-4",
+  "uuid": "0b382d97-cc76-5683-a9a2-a604300415a5",
   "region": "international",
   "set": "sv07",
   "category": "other",
   "name": "Stellar Crown Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "66c4e92c-86b1-5b9e-a494-1adc3b829641",
       "name": "Stellar Crown Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

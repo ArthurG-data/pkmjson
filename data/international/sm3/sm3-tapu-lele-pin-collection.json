@@ -1,15 +1,18 @@
 {
   "id": "sm3-tapu-lele-pin-collection",
+  "uuid": "736b7cc3-8a00-558d-af1c-8a5f01100fc1",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Tapu Lele Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ae49d543-773f-5334-ace9-f2b61d3c9bc2",
       "name": "Tapu Lele Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [

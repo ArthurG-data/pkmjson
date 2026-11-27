@@ -1,15 +1,18 @@
 {
   "id": "sv05-fun-pack",
+  "uuid": "c033da08-a662-5f14-a8af-3b3e0012e680",
   "region": "international",
   "set": "sv05",
   "category": "other",
   "name": "Temporal Forces Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f456564b-6d0f-5675-86b0-6325811dfa32",
       "name": "Temporal Forces Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

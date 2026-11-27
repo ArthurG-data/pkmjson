@@ -1,9 +1,11 @@
 {
   "id": "swsh7-3-pack-hanger-box",
+  "uuid": "7deadb0b-6663-505b-a05e-4f5d9e6b9123",
   "region": "international",
   "set": "swsh7",
   "category": "collection_box",
   "name": "Evolving Skies 3 Pack Hanger Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b8a2269b-e74b-5cc7-80ba-6cc39e62ebe3",
       "name": "Evolving Skies 3 Pack Hanger Box",
       "identifiers": {
         "tcgplayerProductIds": [

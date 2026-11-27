@@ -1,9 +1,11 @@
 {
   "id": "swsh2-single-blister-pack-galarian-meowth-galarian-perrserker",
+  "uuid": "80ca714b-3a5c-5e64-acfc-d527b566372e",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Galarian Meowth & Galarian Perrserker]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4e98c9dd-a410-5f09-aaec-7a9c7f05bd65",
       "name": "Sword & Shield Single Blister Pack [Galarian Meowth & Galarian Perrserker]",
       "identifiers": {
         "tcgplayerProductIds": [

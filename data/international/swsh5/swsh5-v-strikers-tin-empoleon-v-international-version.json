@@ -1,9 +1,11 @@
 {
   "id": "swsh5-v-strikers-tin-empoleon-v-international-version",
+  "uuid": "132b6a7e-29ff-505d-9d4d-069fcebd107c",
   "region": "international",
   "set": "swsh5",
   "category": "tin",
   "name": "V Strikers Tin [Empoleon V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e0d44800-c039-55b4-83b9-5ec13c7721e8",
       "name": "V Strikers Tin [Empoleon V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

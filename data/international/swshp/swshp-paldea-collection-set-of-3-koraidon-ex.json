@@ -1,15 +1,18 @@
 {
   "id": "swshp-paldea-collection-set-of-3-koraidon-ex",
+  "uuid": "0a9542a0-af0e-5552-9ddf-ce2a496028bf",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Paldea Collection [Set of 3] (Koraidon ex)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Sprigatito; 1 promo card featuring Fuecoco; 1 promo card featuring Quaxly; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2057f12e-4aee-5a1d-b62e-75e77d935122",
       "name": "Paldea Collection [Set of 3] (Koraidon ex)",
       "releaseDate": "2023-01-06",
       "identifiers": {

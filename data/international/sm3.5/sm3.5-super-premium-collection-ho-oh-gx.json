@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-super-premium-collection-ho-oh-gx",
+  "uuid": "1bff1a45-1692-58e0-9619-2cb1f8ad3537",
   "region": "international",
   "set": "sm3.5",
   "category": "premium_collection",
   "name": "Shining Legends Super-Premium Collection [Ho-Oh GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "433b8a60-ec7f-516c-a0c2-553bd840036c",
       "name": "Shining Legends Super-Premium Collection [Ho-Oh GX]",
       "identifiers": {
         "tcgplayerProductIds": [

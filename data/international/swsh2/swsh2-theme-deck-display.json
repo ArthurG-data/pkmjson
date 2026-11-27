@@ -1,15 +1,18 @@
 {
   "id": "swsh2-theme-deck-display",
+  "uuid": "ce9a0ad4-858e-50a8-966f-63b419990527",
   "region": "international",
   "set": "swsh2",
   "category": "case",
   "name": "Rebel Clash Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "81fbac04-341a-51c3-b7c3-c18eba4050b5",
       "name": "Rebel Clash Theme Deck Display",
       "releaseDate": "2020-05-01",
       "identifiers": {

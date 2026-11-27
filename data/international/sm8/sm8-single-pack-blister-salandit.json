@@ -1,9 +1,11 @@
 {
   "id": "sm8-single-pack-blister-salandit",
+  "uuid": "255c8c83-efa2-534c-a95b-4d665bcf04d8",
   "region": "international",
   "set": "sm8",
   "category": "blister",
   "name": "Lost Thunder Single Pack Blister [Salandit]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585926
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1c4a241e-6258-57a2-8097-6ec6c036b9d6",
       "name": "Lost Thunder Single Pack Blister [Salandit]",
       "releaseDate": "2018-11-02",
       "identifiers": {

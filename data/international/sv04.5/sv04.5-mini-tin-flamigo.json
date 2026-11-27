@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-mini-tin-flamigo",
+  "uuid": "08abe6c7-d0b1-5930-b471-4bc45121eb57",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Mini Tin [Flamigo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745561
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6b1317a-2aee-551d-8890-504f728cae37",
       "name": "Paldean Fates Mini Tin [Flamigo]",
       "releaseDate": "2024-02-09",
       "identifiers": {

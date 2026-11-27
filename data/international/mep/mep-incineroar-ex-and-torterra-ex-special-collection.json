@@ -1,9 +1,11 @@
 {
   "id": "mep-incineroar-ex-and-torterra-ex-special-collection",
+  "uuid": "a676a41f-a328-55bb-b7f6-24fef2d56de8",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Incineroar ex and Torterra ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aef5fbbe-2d26-5cf8-b81d-c2a9c16efca6",
       "name": "Incineroar ex and Torterra ex Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [

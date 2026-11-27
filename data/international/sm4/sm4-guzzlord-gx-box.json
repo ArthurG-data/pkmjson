@@ -1,9 +1,11 @@
 {
   "id": "sm4-guzzlord-gx-box",
+  "uuid": "68fbb091-3b1c-5b20-9f72-f5c6e2726cce",
   "region": "international",
   "set": "sm4",
   "category": "collection_box",
   "name": "Guzzlord GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df35c2b2-d493-5823-b2bd-eefe56f62c40",
       "name": "Guzzlord GX Box",
       "releaseDate": "2018-01-05",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "fr",
+      "uuid": "42ba9cc0-b0b1-56b6-9e52-afca79a12f01",
       "name": "Coffret Engloutyran",
       "releaseDate": "2018-01-05",
       "sources": [
@@ -38,6 +42,7 @@
     },
     {
       "language": "it",
+      "uuid": "af71560f-94e2-5642-a7ae-c951eb6f7e57",
       "name": "Collezione Guzzlord-GX",
       "releaseDate": "2018-01-05",
       "sources": [
@@ -46,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "cb158c24-4586-521b-98c4-be86094a75b1",
       "name": "Kollektion Schlingking-GX",
       "releaseDate": "2018-01-05",
       "sources": [
@@ -54,6 +60,7 @@
     },
     {
       "language": "es",
+      "uuid": "19bb06db-11bd-51b8-988f-e834e1d43470",
       "name": "Colección Guzzlord-GX",
       "releaseDate": "2018-01-05",
       "sources": [

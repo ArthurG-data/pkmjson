@@ -1,9 +1,11 @@
 {
   "id": "s10b-card-file-set-teams",
+  "uuid": "45a34dfa-bcca-584d-a74e-b50227fa5fa1",
   "region": "asia",
   "set": "S10b",
   "category": "other",
   "name": "Pokemon Go Card File Set - Pokemon Go Teams",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2992f146-a50d-57d4-8fe8-d66259f82c30",
       "name": "Pokemon Go Card File Set - Pokemon Go Teams",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "g1-mythical-pokemon-collection-box-celebi",
+  "uuid": "bad940a9-05ce-5683-804f-ad4488329d75",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Mythical Pokemon Collection Box [Celebi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3b156a96-f85d-59a2-ae97-96136111d432",
       "name": "Mythical Pokemon Collection Box [Celebi]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bf7d57a2-67e4-5e83-8894-fa9463e9f7e3",
       "name": "Collection Pokémon fabuleux Celebi",
       "releaseDate": "2016-03-19",
       "sources": [

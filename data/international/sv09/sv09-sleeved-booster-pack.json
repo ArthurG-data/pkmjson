@@ -1,9 +1,11 @@
 {
   "id": "sv09-sleeved-booster-pack",
+  "uuid": "1fcce3db-c8c0-5baf-b32c-6b4c3702d05d",
   "region": "international",
   "set": "sv09",
   "category": "sleeved_booster_pack",
   "name": "Journey Together Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805576
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c4aec8ee-fee0-519f-acaa-93789e5eaeb0",
       "name": "Journey Together Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

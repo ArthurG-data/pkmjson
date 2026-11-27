@@ -1,9 +1,11 @@
 {
   "id": "sv07-premium-checklane-blister-koraidon",
+  "uuid": "21da4a1d-9507-56f7-9510-cb78b10b18b7",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown Premium Checklane Blister [Koraidon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 804339
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5b4ab80d-c6b9-5ff5-9391-d3eb26379af2",
       "name": "Stellar Crown Premium Checklane Blister [Koraidon]",
       "identifiers": {
         "tcgplayerProductIds": [

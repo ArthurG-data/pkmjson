@@ -1,9 +1,11 @@
 {
   "id": "svp-2024-world-championship-deck-evan-pavelski-regidrago-vstar",
+  "uuid": "c0f0fac8-c9cb-573b-aa91-3eb7a2030a5e",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2024 World Championship Deck: Evan Pavelski (Regidrago VSTAR)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f6137ab0-6a78-5ef7-be28-7aeeb5a6a914",
       "name": "2024 World Championship Deck: Evan Pavelski (Regidrago VSTAR)",
       "releaseDate": "2025-05-16",
       "identifiers": {

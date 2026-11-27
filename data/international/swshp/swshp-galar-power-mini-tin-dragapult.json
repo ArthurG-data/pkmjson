@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-power-mini-tin-dragapult",
+  "uuid": "bde2e4b9-0d59-5641-ab53-88d42e7a3486",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Power Mini Tin [Dragapult]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f09d24a6-4008-57a1-9ec6-4c1b20888e3d",
       "name": "Galar Power Mini Tin [Dragapult]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy2-collector-pin-3-pack-blister-mega-charizard-x",
+  "uuid": "c0b85f18-7227-5f7b-893e-798a170e4b39",
   "region": "international",
   "set": "xy2",
   "category": "blister",
   "name": "Flashfire Collector Pin 3 Pack Blister [Mega Charizard X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "951e85ef-2145-5c42-a0e5-bcc45d73f00e",
       "name": "Flashfire Collector Pin 3 Pack Blister [Mega Charizard X]",
       "identifiers": {
         "tcgplayerProductIds": [

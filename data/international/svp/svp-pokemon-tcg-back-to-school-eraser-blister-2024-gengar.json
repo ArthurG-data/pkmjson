@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-tcg-back-to-school-eraser-blister-2024-gengar",
+  "uuid": "51840611-855e-53e0-86b3-5fef394aeee5",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Gengar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "091a9084-62ea-5ce0-9ecf-6d4320f36aca",
       "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Gengar]",
       "releaseDate": "2024-07-05",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "me05-premium-checklane-blister-tyrunt-tyrantrum-target-exclusive",
+  "uuid": "b7347ef2-e5d8-5b22-821a-8aa6f9f77860",
   "region": "international",
   "set": "me05",
   "category": "blister",
   "name": "Pitch Black Premium Checklane Blister [Tyrunt, Tyrantrum] (Target Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae7f9d80-d2b0-5aa8-92d3-8bf103bef271",
       "name": "Pitch Black Premium Checklane Blister [Tyrunt, Tyrantrum] (Target Exclusive)",
       "releaseDate": "2026-07-17",
       "identifiers": {

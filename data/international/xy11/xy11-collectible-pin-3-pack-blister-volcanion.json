@@ -1,9 +1,11 @@
 {
   "id": "xy11-collectible-pin-3-pack-blister-volcanion",
+  "uuid": "164cfcad-6e3e-5b23-b05b-48af455ecd61",
   "region": "international",
   "set": "xy11",
   "category": "blister",
   "name": "Steam Siege Collectible Pin 3 Pack Blister [Volcanion]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c7cbd266-aca9-56cf-ab3b-9acc3870209f",
       "name": "Steam Siege Collectible Pin 3 Pack Blister [Volcanion]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-zeraora-vmax-vstar-battle-box",
+  "uuid": "01601e75-7ada-5675-8b63-8f9b45e4832f",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Zeraora VMAX & VSTAR Battle Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4b2eadc7-ae85-5109-8888-19bbce87831b",
       "name": "Zeraora VMAX & VSTAR Battle Box",
       "releaseDate": "2022-10-14",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "fcc407ad-70ae-56e4-bc43-482de6b21529",
       "name": "Kampfbox Deoxys-/Zeraora-VMAX & -VSTAR",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfbox-deoxys-zeraora-vmax-vstar"
@@ -59,6 +63,7 @@
     },
     {
       "language": "fr",
+      "uuid": "94a3eddf-fc5c-5e0a-9b9f-c45e96c2799e",
       "name": "Coffret Combat – Deoxys-VMAX et VSTAR/Zeraora-VMAX et VSTAR",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-combat-deoxys-vmax-et-vstarzeraora-vmax-et-vstar"
@@ -66,6 +71,7 @@
     },
     {
       "language": "es",
+      "uuid": "ca52f649-0f91-5556-9565-0e37b5c5261d",
       "name": "Colección Combate Deoxys VMAX y V‑ASTRO y Zeraora VMAX y V‑ASTRO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-combate-deoxys-vmax-y-v-astro-y-zeraora-vmax-y-v-astro"
@@ -73,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "81724475-d46e-5a2d-9ab9-30defdd68887",
       "name": "Collezione Lotte Deoxys-VMAX e V‑ASTRO e collezione Lotte Zeraora-VMAX e V‑ASTRO",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-lotte-deoxys-vmax-e-v-astro-e-collezione-lotte-zeraora-vmax-e-v-astro"

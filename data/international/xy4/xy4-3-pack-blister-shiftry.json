@@ -1,9 +1,11 @@
 {
   "id": "xy4-3-pack-blister-shiftry",
+  "uuid": "9d24f034-9fef-5188-8ea9-c5c0c69c7c60",
   "region": "international",
   "set": "xy4",
   "category": "blister",
   "name": "Phantom Forces 3 Pack Blister [Shiftry]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586398
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "89512cc3-d1ef-5a5a-bad7-2beb54d75571",
       "name": "Phantom Forces 3 Pack Blister [Shiftry]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "32b07e43-de0b-5768-8ade-4cdafa157b6e",
       "name": "Tripack XY04 Tengalice",
       "releaseDate": "2014-11-08",
       "contents": {

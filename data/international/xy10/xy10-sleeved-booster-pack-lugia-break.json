@@ -1,9 +1,11 @@
 {
   "id": "xy10-sleeved-booster-pack-lugia-break",
+  "uuid": "b9939d52-3d47-595f-a617-a2f593304215",
   "region": "international",
   "set": "xy10",
   "category": "sleeved_booster_pack",
   "name": "XY - Fates Collide Sleeved Booster Pack [Lugia BREAK]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "525a825e-dd94-548f-95d2-7aad10cc39dc",
       "name": "XY - Fates Collide Sleeved Booster Pack [Lugia BREAK]",
       "identifiers": {
         "tcgplayerProductIds": [

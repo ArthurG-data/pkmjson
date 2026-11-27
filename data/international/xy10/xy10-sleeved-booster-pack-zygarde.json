@@ -1,9 +1,11 @@
 {
   "id": "xy10-sleeved-booster-pack-zygarde",
+  "uuid": "6cea1296-a208-53d5-a557-9b607cbc2b07",
   "region": "international",
   "set": "xy10",
   "category": "sleeved_booster_pack",
   "name": "XY - Fates Collide Sleeved Booster Pack [Zygarde]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04d3f2a8-80d2-5f04-b7ff-15b411b3d356",
       "name": "XY - Fates Collide Sleeved Booster Pack [Zygarde]",
       "identifiers": {
         "tcgplayerProductIds": [

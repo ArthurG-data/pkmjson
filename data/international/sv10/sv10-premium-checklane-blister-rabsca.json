@@ -1,9 +1,11 @@
 {
   "id": "sv10-premium-checklane-blister-rabsca",
+  "uuid": "54f0eb7b-9aa9-5395-8eb2-1d60bdefd58e",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals Premium Checklane Blister [Rabsca]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6534a774-684d-551d-ad62-24e0a5e80900",
       "name": "Destined Rivals Premium Checklane Blister [Rabsca]",
       "releaseDate": "2025-05-30",
       "identifiers": {

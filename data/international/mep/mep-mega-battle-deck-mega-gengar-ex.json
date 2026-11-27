@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-battle-deck-mega-gengar-ex",
+  "uuid": "13488ee5-53da-54e7-87a5-aa79214abb14",
   "region": "international",
   "set": "mep",
   "category": "battle_deck",
   "name": "Mega Battle Deck (Mega Gengar ex)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dfd35e34-1825-50af-9041-8fca78542595",
       "name": "Mega Battle Deck (Mega Gengar ex)",
       "releaseDate": "2025-10-24",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "xy5-elite-trainer-box-groudon",
+  "uuid": "4560bf64-173c-5c4b-b8ab-ef008a4c3043",
   "region": "international",
   "set": "xy5",
   "category": "elite_trainer_box",
   "name": "Elite Trainer Box [Groudon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286953
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04fbaf94-2f45-5364-a389-0198703a7d19",
       "name": "Elite Trainer Box [Groudon]",
       "identifiers": {
         "tcgplayerProductIds": [

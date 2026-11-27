@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-power-mini-tin-mewtwo",
+  "uuid": "7fdecdc3-fe0a-5ffa-a872-826c7817adb3",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Power Mini Tin [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "306d9077-1299-5c46-b7e3-964aca2efcc9",
       "name": "Kanto Power Mini Tin [Mewtwo]",
       "identifiers": {
         "tcgplayerProductIds": [

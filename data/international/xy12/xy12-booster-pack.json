@@ -1,9 +1,11 @@
 {
   "id": "xy12-booster-pack",
+  "uuid": "36904632-c29d-5539-854f-5a76d1372913",
   "region": "international",
   "set": "xy12",
   "category": "booster_pack",
   "name": "Evolutions Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293335
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8dedf11f-4dd1-5b4b-9671-e0ffb6ea49ea",
       "name": "XY—Evolutions",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "521c768b-995f-5ac9-b71c-5e093afb77cb",
       "name": "XY – Évolutions",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Lougaroc-GX",

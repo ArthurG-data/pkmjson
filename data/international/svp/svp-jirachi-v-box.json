@@ -1,9 +1,11 @@
 {
   "id": "svp-jirachi-v-box",
+  "uuid": "e836a3b9-6d83-5e05-84b6-10114c3760f8",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Jirachi V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "71ec18e2-cdb1-5c74-b9ff-d4f11e8b6523",
       "name": "Jirachi V Box",
       "identifiers": {
         "tcgplayerProductIds": [

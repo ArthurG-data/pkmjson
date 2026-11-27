@@ -1,15 +1,18 @@
 {
   "id": "xy7-shiny-rayquaza-ex-box",
+  "uuid": "a9741ccd-14be-5f54-bf56-166cc5f319d8",
   "region": "international",
   "set": "xy7",
   "category": "collection_box",
   "name": "Shiny Rayquaza EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a0200ce7-3749-5add-a191-237d5516948a",
       "name": "Shiny Rayquaza EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ff4aea00-0f15-5e44-aea5-7ac2f4abc33e",
       "name": "Coffret Rayquaza chromatique",
       "contents": {
         "sealed": [
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "8413697a-99cd-5388-9d64-dd7ba888c2ec",
       "name": "Schillerndes Rayquaza-EX-Box",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/schillerndes-rayquaza-ex-box"

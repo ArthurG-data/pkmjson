@@ -1,9 +1,11 @@
 {
   "id": "sv10-half-booster-box",
+  "uuid": "46626d7b-209e-5e6f-95d0-9938af8623c1",
   "region": "international",
   "set": "sv10",
   "category": "half_booster_box",
   "name": "Destined Rivals Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818575
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f8faccdc-c222-5973-9ab9-eabf08f279b0",
       "name": "Destined Rivals Half Booster Box",
       "releaseDate": "2025-05-30",
       "identifiers": {

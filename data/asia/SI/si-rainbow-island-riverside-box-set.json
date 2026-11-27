@@ -1,15 +1,18 @@
 {
   "id": "si-rainbow-island-riverside-box-set",
+  "uuid": "4b822212-60d8-53ff-ab2d-e8ef3baee257",
   "region": "asia",
   "set": "SI",
   "category": "collection_box",
   "name": "Rainbow Island Riverside Box Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Togepi; Ivysaur; Raticate.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "c8a31b66-7b9c-5595-b76b-19b160393d9b",
       "name": "Rainbow Island Riverside Box Set",
       "identifiers": {
         "tcgplayerProductIds": [

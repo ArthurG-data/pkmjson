@@ -1,15 +1,18 @@
 {
   "id": "swshp-league-battle-decks-set-of-2",
+  "uuid": "938169d5-02ce-5c0f-b6bb-6dd9dd0744bb",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "League Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck, including 3 Pokémon-GX; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9c6691d9-4cda-5687-a87b-803af6281ac4",
       "name": "League Battle Decks [Set of 2]",
       "releaseDate": "2020-05-22",
       "identifiers": {

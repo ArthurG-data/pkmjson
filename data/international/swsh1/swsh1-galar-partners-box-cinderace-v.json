@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-box-cinderace-v",
+  "uuid": "80249b29-e6ff-5269-87cb-882a837b30ab",
   "region": "international",
   "set": "swsh1",
   "category": "collection_box",
   "name": "Galar Partners Box [Cinderace V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "28193a22-8019-52ad-994d-bc266bda68b5",
       "name": "Galar Partners Box [Cinderace V]",
       "identifiers": {
         "tcgplayerProductIds": [

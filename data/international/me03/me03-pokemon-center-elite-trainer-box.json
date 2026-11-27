@@ -1,9 +1,11 @@
 {
   "id": "me03-pokemon-center-elite-trainer-box",
+  "uuid": "5fe76af3-19bc-5796-bffb-ec1bc3badc49",
   "region": "international",
   "set": "me03",
   "category": "elite_trainer_box",
   "name": "Perfect Order Pokemon Center Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865405
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "07b7ed07-e5b6-5934-9008-45149caf032b",
       "name": "Perfect Order Pokemon Center Elite Trainer Box",
       "releaseDate": "2026-03-27",
       "identifiers": {

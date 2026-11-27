@@ -1,9 +1,11 @@
 {
   "id": "dp6-booster-box",
+  "uuid": "c8e8c0bf-25f8-57ba-ac3d-1587cd4f9cbe",
   "region": "international",
   "set": "dp6",
   "category": "booster_box",
   "name": "Legends Awakened Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271902
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7dd50cbb-c67f-59f3-80e9-7ac8a66b6b6d",
       "name": "Legends Awakened Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

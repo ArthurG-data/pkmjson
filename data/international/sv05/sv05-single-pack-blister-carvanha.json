@@ -1,9 +1,11 @@
 {
   "id": "sv05-single-pack-blister-carvanha",
+  "uuid": "b3f3c627-6ade-5963-881a-ab82347fe85a",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces Single Pack Blister [Carvanha]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750418
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "57a2a793-49b4-521e-9e83-0882e383e292",
       "name": "Temporal Forces Single Pack Blister [Carvanha]",
       "releaseDate": "2024-03-22",
       "identifiers": {

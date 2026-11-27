@@ -1,9 +1,11 @@
 {
   "id": "swsh12-booster-bundle",
+  "uuid": "849c88ca-23cb-54bd-b1e0-2dbe72a4121e",
   "region": "international",
   "set": "swsh12",
   "category": "booster_bundle",
   "name": "Silver Tempest Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672334
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0dbc2de5-400e-5fb7-be2c-d07bf67e6f87",
       "name": "Silver Tempest Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

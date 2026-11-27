@@ -1,9 +1,11 @@
 {
   "id": "m-p-30th-celebration-premium-deck-set-espeon-umbreon",
+  "uuid": "7598fb12-899c-5b95-b5aa-556f286abed7",
   "region": "asia",
   "set": "M-P",
   "category": "battle_deck",
   "name": "30th CELEBRATION Premium Deck Set Espeon & Umbreon",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0aced178-9f19-5881-a5c2-6a82cc523901",
       "name": "「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
       "releaseDate": "2026-09-16",
       "identifiers": {

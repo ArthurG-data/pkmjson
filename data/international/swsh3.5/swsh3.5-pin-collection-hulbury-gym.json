@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-pin-collection-hulbury-gym",
+  "uuid": "0a470932-585d-5c48-bcad-f6020acdf58d",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Pin Collection [Hulbury Gym]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04185aa0-f718-5d68-86cb-edd0de9c518d",
       "name": "Champion's Path Pin Collection [Hulbury Gym]",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f9565467-40d7-50e0-9fb0-aeccef887e4a",
       "name": "Collection avec pin's La Voie du Maître Arène de Skifford",
       "releaseDate": "2020-09-25",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "me01-mega-heroes-mini-tin-mega-venusaur",
+  "uuid": "fe3d5be8-4121-541d-9a7e-71e98c591526",
   "region": "international",
   "set": "me01",
   "category": "tin",
   "name": "Mega Heroes Mini Tin [Mega Venusaur]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834804
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1bd2ef9c-31a3-5a83-997a-eee9fffd608f",
       "name": "Mega Heroes Mini Tin [Mega Venusaur]",
       "releaseDate": "2025-09-26",
       "identifiers": {

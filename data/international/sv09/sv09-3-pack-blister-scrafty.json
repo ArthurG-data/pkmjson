@@ -1,9 +1,11 @@
 {
   "id": "sv09-3-pack-blister-scrafty",
+  "uuid": "84a1b5b5-02de-58b2-80fe-6f98a143cf3b",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together 3 Pack Blister [Scrafty]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805586
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f001b7c8-3047-5f8d-81e6-165363a5bd13",
       "name": "Journey Together 3 Pack Blister [Scrafty]",
       "identifiers": {
         "tcgplayerProductIds": [

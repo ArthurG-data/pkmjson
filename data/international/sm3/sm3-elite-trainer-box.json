@@ -1,9 +1,11 @@
 {
   "id": "sm3-elite-trainer-box",
+  "uuid": "36369c51-6294-50b9-a087-071ad481cb55",
   "region": "international",
   "set": "sm3",
   "category": "elite_trainer_box",
   "name": "Burning Shadows Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 298775
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1877807c-8aa7-5543-ad2a-db2fd3599662",
       "name": "Burning Shadows Elite Trainer Box",
       "releaseDate": "2017-08-04",
       "identifiers": {

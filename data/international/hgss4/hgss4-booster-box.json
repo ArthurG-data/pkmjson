@@ -1,9 +1,11 @@
 {
   "id": "hgss4-booster-box",
+  "uuid": "d5a81450-ca29-52e8-addd-e32fbf4e753c",
   "region": "international",
   "set": "hgss4",
   "category": "booster_box",
   "name": "Triumphant Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271927
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a0e3036-7e8a-5b05-b31e-f10d944bcfea",
       "name": "Triumphant Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

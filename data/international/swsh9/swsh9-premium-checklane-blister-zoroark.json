@@ -1,9 +1,11 @@
 {
   "id": "swsh9-premium-checklane-blister-zoroark",
+  "uuid": "721f5f17-49fd-58f7-83e9-ab89bf74ec91",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Premium Checklane Blister [Zoroark]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1966fb07-4602-578b-90b9-b2948bf35c6d",
       "name": "Brilliant Stars Premium Checklane Blister [Zoroark]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-forces-tin-mew-v",
+  "uuid": "bfa518ab-8c3e-592a-8b7b-fe13447cbdba",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Forces Tin [Mew V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "558a2bb9-5815-5407-b282-fae97a5b95ee",
       "name": "V Forces Tin [Mew V]",
       "releaseDate": "2021-02-19",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "it",
+      "uuid": "9d51adb5-31c3-5333-af92-744bbc4794d8",
       "name": "Scatole da collezione Forza V",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -38,6 +42,7 @@
     },
     {
       "language": "de",
+      "uuid": "4cdf2489-7116-58a6-8e19-e9488558c566",
       "name": "Tin-Box V-Kräfte",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -46,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "aa398fff-9d46-5f2e-a68c-fa4f3ca5c780",
       "name": "Lata Fuerzas V",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -54,6 +60,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cdd675bc-edc0-5847-a249-ccbf3ed85b76",
       "name": "Boîte Forces‑V",
       "releaseDate": "2021-02-19",
       "sources": [

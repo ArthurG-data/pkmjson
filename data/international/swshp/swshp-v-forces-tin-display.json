@@ -1,15 +1,18 @@
 {
   "id": "swshp-v-forces-tin-display",
+  "uuid": "7ce002bd-7050-5872-a005-3f499a1219f3",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "V Forces Tin Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "87e1dff6-1af1-5ba4-8d2c-df1a64091bc1",
       "name": "V Forces Tin Display",
       "releaseDate": "2021-02-19",
       "identifiers": {

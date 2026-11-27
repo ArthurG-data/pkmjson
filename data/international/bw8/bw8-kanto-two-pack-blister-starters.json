@@ -1,15 +1,18 @@
 {
   "id": "bw8-kanto-two-pack-blister-starters",
+  "uuid": "c075da0d-baf9-59fb-bced-d2bb90ae794b",
   "region": "international",
   "set": "bw8",
   "category": "blister",
   "name": "Kanto Two Pack Blister [Starters]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "83f31ff3-ce06-5eba-9e98-fc7acacf1c50",
       "name": "Kanto Two Pack Blister [Starters]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sm3-tsareena-gx-box",
+  "uuid": "d0bbb4e4-2c28-5350-9ed8-c1e1eefd4173",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Tsareena GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "70f4b8a3-c166-56b2-b79b-5cffc4dcd58e",
       "name": "Tsareena GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "aef14aa4-bcce-57ae-bb72-fec7611682f9",
       "name": "Coffret Sucreine",
       "releaseDate": "2017-10-03",
       "contents": {
@@ -46,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "3b2554ac-750f-5112-9080-8b026ba29254",
       "name": "Kollektion Fruyal-GX",
       "releaseDate": "2017-08-18",
       "sources": [
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "4f45d239-bdeb-551c-aa55-ac3152b56b1f",
       "name": "Colección Tsareena-GX",
       "releaseDate": "2017-08-18",
       "sources": [
@@ -62,6 +68,7 @@
     },
     {
       "language": "it",
+      "uuid": "5e029c62-0ffd-5a7d-89a4-1bf13af9736b",
       "name": "Collezione Tsareena-GX",
       "releaseDate": "2017-08-18",
       "sources": [

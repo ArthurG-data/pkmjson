@@ -1,9 +1,11 @@
 {
   "id": "me05-booster-pack",
+  "uuid": "c5a543c9-ae1b-5d99-9c5c-8b247898ec07",
   "region": "international",
   "set": "me05",
   "category": "booster_pack",
   "name": "Pitch Black Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885547
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "adf42c9d-4822-5955-95a0-8484c21969aa",
       "name": "Mega Evolution—Pitch Black",
       "releaseDate": "2026-07-17",
       "identifiers": {

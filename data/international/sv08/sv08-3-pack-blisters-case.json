@@ -1,15 +1,18 @@
 {
   "id": "sv08-3-pack-blisters-case",
+  "uuid": "83b32a65-a1e4-5ae6-8c2c-140b08e92475",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks 3 Pack Blisters Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c5f7b3b4-859a-5774-bae9-b86e212f771e",
       "name": "Surging Sparks 3 Pack Blisters Case",
       "identifiers": {
         "tcgplayerProductIds": [

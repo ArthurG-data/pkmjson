@@ -1,9 +1,11 @@
 {
   "id": "swsh4-build-battle-box",
+  "uuid": "97377be7-0ff4-5850-bc2d-db056ebed57a",
   "region": "international",
   "set": "swsh4",
   "category": "build_and_battle_box",
   "name": "Vivid Voltage Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 512730
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "58fecfcc-a94c-5201-bde1-08b1925d894b",
       "name": "Vivid Voltage Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

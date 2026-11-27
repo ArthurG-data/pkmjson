@@ -1,9 +1,11 @@
 {
   "id": "swsh7-3-pack-blister-eiscue",
+  "uuid": "431eb317-a2ee-525b-97ab-718593d84dc6",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies 3 Pack Blister [Eiscue]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585715
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9eaed67e-c413-5fef-b49c-502b922a88d0",
       "name": "Evolving Skies 3 Pack Blister [Eiscue]",
       "releaseDate": "2021-08-27",
       "identifiers": {

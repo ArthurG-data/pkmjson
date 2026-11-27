@@ -1,15 +1,18 @@
 {
   "id": "xy2-kalos-power-tin-chesnaught-ex",
+  "uuid": "1c7ab43a-38e3-5a8e-bbd8-a625e715e401",
   "region": "international",
   "set": "xy2",
   "category": "tin",
   "name": "Kalos Power Tin [Chesnaught EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e64354bf-a1a0-5a6b-a94e-061b0383ebfe",
       "name": "Kalos Power Tin [Chesnaught EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "38354b50-5893-5667-a356-ed32752e459a",
       "name": "Boîte Puissance de Kalos Blindépique",
       "releaseDate": "2014-09-03",
       "sources": [

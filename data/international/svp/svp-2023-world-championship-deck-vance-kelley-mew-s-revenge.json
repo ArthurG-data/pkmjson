@@ -1,9 +1,11 @@
 {
   "id": "svp-2023-world-championship-deck-vance-kelley-mew-s-revenge",
+  "uuid": "dbb9afbb-62ad-561e-9585-8d2e874122c7",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2023 World Championship Deck: Vance Kelley (Mew's Revenge)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "03a17a44-cc51-5264-92fd-3da08d90f07a",
       "name": "2023 World Championship Deck: Vance Kelley (Mew's Revenge)",
       "identifiers": {
         "tcgplayerProductIds": [

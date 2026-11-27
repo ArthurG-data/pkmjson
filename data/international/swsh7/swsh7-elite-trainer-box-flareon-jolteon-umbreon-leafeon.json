@@ -1,9 +1,11 @@
 {
   "id": "swsh7-elite-trainer-box-flareon-jolteon-umbreon-leafeon",
+  "uuid": "75c0bc60-8264-5d58-8a63-4a2d1064d971",
   "region": "international",
   "set": "swsh7",
   "category": "elite_trainer_box",
   "name": "Evolving Skies Elite Trainer Box [Flareon/Jolteon/Umbreon/Leafeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -55,6 +57,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c3fd7232-c192-575e-a0ad-e1cb84be03fc",
       "name": "Evolving Skies Elite Trainer Box [Flareon/Jolteon/Umbreon/Leafeon]",
       "releaseDate": "2021-08-27",
       "identifiers": {

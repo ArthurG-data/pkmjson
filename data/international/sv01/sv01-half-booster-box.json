@@ -1,9 +1,11 @@
 {
   "id": "sv01-half-booster-box",
+  "uuid": "7d05076c-7061-5c2c-bee4-c133063719d0",
   "region": "international",
   "set": "sv01",
   "category": "half_booster_box",
   "name": "Scarlet & Violet Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692093
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8d2f6ae1-b129-5806-8b3b-49b336b1e219",
       "name": "Scarlet & Violet Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

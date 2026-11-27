@@ -1,9 +1,11 @@
 {
   "id": "sm9-melmetal-gx-box",
+  "uuid": "14be171d-fd85-5979-9b41-4ea264612e8d",
   "region": "international",
   "set": "sm9",
   "category": "collection_box",
   "name": "Melmetal GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "49bbf8a7-229d-5bb9-888f-a9d2f57c040a",
       "name": "Melmetal GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "944dc0b6-99bf-5b2f-8a3a-73079b417131",
       "name": "Coffret Melmetal-GX",
       "releaseDate": "2019-02-15",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "es",
+      "uuid": "13ae24ce-47c9-5291-8789-3c5a6cafeb65",
       "name": "Colección Melmetal-GX",
       "releaseDate": "2019-02-15",
       "sources": [
@@ -59,6 +64,7 @@
     },
     {
       "language": "de",
+      "uuid": "883ec1fc-0167-5735-9c9f-97cd2ce24a33",
       "name": "Kollektion Melmetal-GX",
       "releaseDate": "2019-02-15",
       "sources": [
@@ -67,6 +73,7 @@
     },
     {
       "language": "it",
+      "uuid": "2158d75a-10d7-543b-96ae-0dc2ad961181",
       "name": "Collezione Melmetal-GX",
       "releaseDate": "2019-02-15",
       "sources": [

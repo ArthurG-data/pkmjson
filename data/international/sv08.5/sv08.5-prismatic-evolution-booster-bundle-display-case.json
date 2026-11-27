@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-prismatic-evolution-booster-bundle-display-case",
+  "uuid": "6cd8e876-00f3-5c48-a7d9-7b93e4ac6e65",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolution Booster Bundle Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Each Display contains 10 Booster Bundles (60 Booster Bundles total)..",
   "releases": [
     {
       "language": "en",
+      "uuid": "43838313-1638-52fe-a60f-06dcb47b699e",
       "name": "Prismatic Evolution Booster Bundle Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

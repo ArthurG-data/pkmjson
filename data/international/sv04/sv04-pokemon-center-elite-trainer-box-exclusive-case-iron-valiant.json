@@ -1,15 +1,18 @@
 {
   "id": "sv04-pokemon-center-elite-trainer-box-exclusive-case-iron-valiant",
+  "uuid": "ba660ee5-4b86-50ec-a18d-6c0bcb1ac819",
   "region": "international",
   "set": "sv04",
   "category": "case",
   "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) Case [Iron Valiant]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7183b35d-dc5f-5659-9f17-74ac0d0b0ba7",
       "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) Case [Iron Valiant]",
       "identifiers": {
         "tcgplayerProductIds": [

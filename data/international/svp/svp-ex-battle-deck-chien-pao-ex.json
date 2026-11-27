@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-chien-pao-ex",
+  "uuid": "0fe3a5fe-36a7-5937-b7eb-42c9fc39d43d",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Chien-Pao ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d2b2ef92-d7b6-5fea-a809-fd0a3a048140",
       "name": "ex Battle Deck [Chien-Pao ex]",
       "releaseDate": "2023-07-14",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "it",
+      "uuid": "e54c107e-31a4-5b46-856d-7fc2ed844369",
       "name": "Mazzo Lotte ex Tinkaton-ex e Mazzo Lotte ex Chien-Pao-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-ex-tinkaton-ex-e-mazzo-lotte-ex-chien-pao-ex"
@@ -65,6 +69,7 @@
     },
     {
       "language": "de",
+      "uuid": "7d4bb623-6be7-5582-9dc8-f4b3d0095706",
       "name": "Kampfdeck Granforgita-ex & Kampfdeck Baojian-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-granforgita-ex-kampfdeck-baojian-ex"
@@ -72,6 +77,7 @@
     },
     {
       "language": "es",
+      "uuid": "d4267b63-5417-5788-bb39-db47381f1e28",
       "name": "Baraja Combate ex de Tinkaton ex y baraja Combate ex de Chien-Pao ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-tinkaton-ex-y-baraja-combate-ex-de-chien-pao-ex"
@@ -79,6 +85,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7231370b-2c2f-55cd-9b5d-d11f314240d3",
       "name": "Deck Combat – Forgelina-ex et Deck Combat – Baojian-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-forgelina-ex-et-deck-combat-baojian-ex"

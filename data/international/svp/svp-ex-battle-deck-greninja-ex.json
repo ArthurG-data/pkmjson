@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-greninja-ex",
+  "uuid": "a2c5f12a-3c9b-52b7-8f77-ca9f2fd98ffb",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Greninja ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "95ec656a-0a2d-566d-b62c-972a57a0d3ae",
       "name": "ex Battle Deck [Greninja ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -57,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "a9656939-6b8f-5592-be47-e61942262f63",
       "name": "Kampfdeck Quajutsu‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-kangama-ex-kampfdeck-quajutsu-ex"
@@ -64,6 +68,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9b70f860-1166-5bc7-8827-8fe9862c6797",
       "name": "Deck Combat Amphinobi-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-kangourex-ex-deck-combat-amphinobi-ex"

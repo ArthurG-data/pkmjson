@@ -1,9 +1,11 @@
 {
   "id": "xy8-theme-deck-night-striker-noivern",
+  "uuid": "56690daf-b04f-51c1-a916-6ffcb11cfed2",
   "region": "international",
   "set": "xy8",
   "category": "theme_deck",
   "name": "BREAKthrough Theme Deck - \"Night Striker\" [Noivern]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 285623
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a10b04c-eb78-527f-b067-a5422110e42c",
       "name": "BREAKthrough Theme Deck - \"Night Striker\" [Noivern]",
       "identifiers": {
         "tcgplayerProductIds": [

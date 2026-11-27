@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mini-tin-riolu-darumaka",
+  "uuid": "1957e36a-6944-5740-b319-7e53edfcc697",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Mini Tin [Riolu & Darumaka]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "31a7850c-b790-5a8e-8a90-7f89f2f2810e",
       "name": "Ascended Heroes Mini Tin [Riolu & Darumaka]",
       "releaseDate": "2026-02-20",
       "identifiers": {

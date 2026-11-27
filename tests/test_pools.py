@@ -2,6 +2,7 @@
 import json
 from pathlib import Path
 
+from conftest import write_families
 from import_pools import OUT_OF_SCOPE, check_mapping, pool_for, with_pool
 from import_tcgplayer import classify, keep_pool
 from pkmjson import flatten, load, validate
@@ -10,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 TCGDEX = {"international": {"sm115", "sma", "sv08"}, "asia": {"SV8"}}
 
 
-def _pack(fid="zz-booster-pack", set_="sv08", *, region="international", category="booster_pack", pool=None,
+def _pack(fid="sv08-zz-booster-pack", set_="sv08", *, region="international", category="booster_pack", pool=None,
           languages=("en",), notes=None):
     contents = {"pool": pool} if pool is not None else {}
     data = {
@@ -24,12 +25,7 @@ def _pack(fid="zz-booster-pack", set_="sv08", *, region="international", categor
     return data
 
 
-def _write(tmp_path, *families):
-    for f in families:
-        path = tmp_path / f["region"] / f["set"] / f"{f['id']}.json"
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(json.dumps(f), encoding="utf-8")
-    return load(tmp_path)
+_write = write_families
 
 
 # --- schema and validator ---------------------------------------------------------------------------------------
@@ -45,16 +41,16 @@ def test_a_sleeved_pack_may_carry_a_pool(tmp_path):
 
 
 def test_a_box_may_not_carry_a_pool(tmp_path):
-    box = _pack("zz-box", category="booster_box", pool=[{"set": "sv08"}])
+    box = _pack("sv08-zz-box", category="booster_box", pool=[{"set": "sv08"}])
     assert validate(_write(tmp_path, box), tmp_path) == [
-        "international/sv08/zz-box.json: contents.pool is only for booster packs, not booster_box"]
+        "international/sv08/sv08-zz-box.json: contents.pool is only for booster packs, not booster_box"]
 
 
 def test_a_release_pool_is_checked_like_the_family_pool(tmp_path):
-    box = _pack("zz-box", category="booster_box")
+    box = _pack("sv08-zz-box", category="booster_box")
     box["releases"][0]["contents"] = {"pool": [{"set": "sv08"}]}
     assert validate(_write(tmp_path, box), tmp_path) == [
-        "international/sv08/zz-box.json: en contents.pool is only for booster packs, not booster_box"]
+        "international/sv08/sv08-zz-box.json: en contents.pool is only for booster packs, not booster_box"]
 
 
 def test_a_pool_may_not_be_empty_or_hold_unknown_keys(tmp_path):
@@ -68,7 +64,7 @@ def test_a_pool_may_not_name_a_set_twice_even_with_the_region_spelled_out(tmp_pa
     assert validate(_write(tmp_path, _pack(pool=[{"set": "sv08"}, {"set": "sv08"}])), tmp_path)
     pack = _pack(pool=[{"set": "sv08"}, {"set": "sv08", "region": "international"}])
     assert validate(_write(tmp_path, pack), tmp_path) == [
-        "international/sv08/zz-booster-pack.json: contents.pool names international/sv08 twice"]
+        "international/sv08/sv08-zz-booster-pack.json: contents.pool names international/sv08 twice"]
 
 
 def test_the_same_set_code_in_another_region_is_not_a_duplicate(tmp_path):
@@ -102,7 +98,7 @@ def test_a_pack_of_a_set_tcgdex_does_not_list_gets_no_pool():
 
 
 def test_an_excluded_family_gets_no_pool():
-    assert pool_for(_pack(), TCGDEX, {}, {"zz-booster-pack": "a bundle"}) == (None, "a bundle")
+    assert pool_for(_pack(), TCGDEX, {}, {"sv08-zz-booster-pack": "a bundle"}) == (None, "a bundle")
 
 
 def test_a_family_override_replaces_the_pool_of_its_own_set():
@@ -114,10 +110,10 @@ def test_a_family_override_replaces_the_pool_of_its_own_set():
 
 
 def test_a_family_override_must_name_a_booster_pack_and_tcgdex_sets():
-    regions = {"zz-booster-pack": "international"}
-    assert check_mapping({"extraSets": {}, "pools": {"zz-booster-pack": ["sv08"]}}, TCGDEX, regions) == []
-    assert check_mapping({"extraSets": {}, "pools": {"zz-booster-pack": ["nope"]}}, TCGDEX, regions) == [
-        "mappings/pack_pools.json: pools zz-booster-pack names nope, which TCGdex does not list"]
+    regions = {"sv08-zz-booster-pack": "international"}
+    assert check_mapping({"extraSets": {}, "pools": {"sv08-zz-booster-pack": ["sv08"]}}, TCGDEX, regions) == []
+    assert check_mapping({"extraSets": {}, "pools": {"sv08-zz-booster-pack": ["nope"]}}, TCGDEX, regions) == [
+        "mappings/pack_pools.json: pools sv08-zz-booster-pack names nope, which TCGdex does not list"]
     assert check_mapping({"extraSets": {}, "pools": {"zz-box": ["sv08"]}}, TCGDEX, regions) == [
         "mappings/pack_pools.json: pools names zz-box, which is no booster pack family"]
 
@@ -169,7 +165,7 @@ def test_regenerating_a_pack_keeps_its_pool():
 
 
 def test_regenerating_a_box_does_not_gain_a_pool():
-    box = _pack("zz-box", category="booster_box")
+    box = _pack("sv08-zz-box", category="booster_box")
     keep_pool(box, _pack(pool=[{"set": "sv08"}]))
     assert box["contents"] == {}
 
@@ -182,18 +178,18 @@ def test_build_carries_the_pool_into_every_release_sorted_with_regions_spelled_o
     out = flatten(_write(tmp_path, pack))
     expected = [{"set": "A1", "region": "asia"}, {"set": "sma", "region": "international"},
                 {"set": "sv08", "region": "international"}]
-    assert out["zz-booster-pack:en"]["contents"]["pool"] == expected
-    assert out["zz-booster-pack:fr"]["contents"]["pool"] == expected
+    assert out["sv08-zz-booster-pack:en"]["contents"]["pool"] == expected
+    assert out["sv08-zz-booster-pack:fr"]["contents"]["pool"] == expected
 
 
 def test_a_release_with_its_own_contents_still_gets_the_family_pool(tmp_path):
     pack = _pack(pool=[{"set": "sv08"}], languages=("en", "fr"))
     pack["releases"][1]["contents"] = {"other": [{"name": "Code card", "count": 1}]}
     out = flatten(_write(tmp_path, pack))
-    assert out["zz-booster-pack:fr"]["contents"]["pool"] == [{"set": "sv08", "region": "international"}]
-    assert out["zz-booster-pack:fr"]["contents"]["other"] == [{"name": "Code card", "count": 1}]
+    assert out["sv08-zz-booster-pack:fr"]["contents"]["pool"] == [{"set": "sv08", "region": "international"}]
+    assert out["sv08-zz-booster-pack:fr"]["contents"]["other"] == [{"name": "Code card", "count": 1}]
 
 
 def test_a_product_without_a_pool_has_no_pool_key(tmp_path):
-    out = flatten(_write(tmp_path, _pack("zz-box", category="booster_box")))
-    assert "pool" not in out["zz-box:en"]["contents"]
+    out = flatten(_write(tmp_path, _pack("sv08-zz-box", category="booster_box")))
+    assert "pool" not in out["sv08-zz-box:en"]["contents"]

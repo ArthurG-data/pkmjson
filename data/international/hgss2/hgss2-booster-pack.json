@@ -1,9 +1,11 @@
 {
   "id": "hgss2-booster-pack",
+  "uuid": "9e8bdb0c-4960-5787-a44e-aa213128ace1",
   "region": "international",
   "set": "hgss2",
   "category": "booster_pack",
   "name": "Unleashed Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271852
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "08c95de4-140b-563f-8fb8-be80f66a0a26",
       "name": "Pokémon TCG: HS—Unleashed",
       "identifiers": {
         "tcgplayerProductIds": [

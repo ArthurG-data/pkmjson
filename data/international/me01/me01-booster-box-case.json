@@ -1,9 +1,11 @@
 {
   "id": "me01-booster-box-case",
+  "uuid": "75f9c9f1-ae58-57f3-9114-8cec871f5743",
   "region": "international",
   "set": "me01",
   "category": "case",
   "name": "Mega Evolution Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834812
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f3be695a-4a60-5456-a23d-ca321408b33e",
       "name": "Mega Evolution Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

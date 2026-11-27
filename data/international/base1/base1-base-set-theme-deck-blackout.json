@@ -1,9 +1,11 @@
 {
   "id": "base1-base-set-theme-deck-blackout",
+  "uuid": "696750a5-9118-55b7-aa81-9d072c499406",
   "region": "international",
   "set": "base1",
   "category": "theme_deck",
   "name": "Base Set Theme Deck - \"Blackout\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286492
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f6f958d5-611f-51a0-b698-f7628b3d9b95",
       "name": "Base Set Theme Deck - \"Blackout\"",
       "identifiers": {
         "tcgplayerProductIds": [

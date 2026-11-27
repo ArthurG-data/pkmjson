@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-battle-deck-mega-diancie-ex",
+  "uuid": "d0881f7b-9fa4-50a3-bfe8-146aea015715",
   "region": "international",
   "set": "mep",
   "category": "battle_deck",
   "name": "Mega Battle Deck (Mega Diancie ex)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fb37b3ea-1168-5413-9768-962bee0cf2b2",
       "name": "Mega Battle Deck (Mega Diancie ex)",
       "releaseDate": "2025-10-24",
       "identifiers": {

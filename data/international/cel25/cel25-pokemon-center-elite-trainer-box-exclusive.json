@@ -1,9 +1,11 @@
 {
   "id": "cel25-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "ea471558-538c-59a8-a84a-829cb8c81bae",
   "region": "international",
   "set": "cel25",
   "category": "elite_trainer_box",
   "name": "Celebrations Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570896
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "068d8d68-7317-590a-8f1d-95b4daaeb76a",
       "name": "Celebrations Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

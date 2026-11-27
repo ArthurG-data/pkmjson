@@ -1,9 +1,11 @@
 {
   "id": "swsh10-heavy-hitters-premium-collection",
+  "uuid": "9299bd73-98ad-56c0-8875-b397989782b4",
   "region": "international",
   "set": "swsh10",
   "category": "premium_collection",
   "name": "Heavy Hitters Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -51,6 +53,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b874a8ca-4407-5132-a365-21d958b8cffb",
       "name": "Heavy Hitters Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

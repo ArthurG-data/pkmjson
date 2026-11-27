@@ -1,9 +1,11 @@
 {
   "id": "sv08-single-pack-blister-sinistcha",
+  "uuid": "6f82f483-2588-57b0-b226-924f79fa4b37",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks Single Pack Blister [Sinistcha]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "71e63e83-26d5-58d0-bdb6-4d0d547a241e",
       "name": "Surging Sparks Single Pack Blister [Sinistcha]",
       "identifiers": {
         "tcgplayerProductIds": [

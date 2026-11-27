@@ -1,9 +1,11 @@
 {
   "id": "sv03-build-battle-stadium",
+  "uuid": "f9cdcc59-874c-5a7d-af69-7c23c2b62de9",
   "region": "international",
   "set": "sv03",
   "category": "other",
   "name": "Obsidian Flames Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b16667cb-37d2-56d0-b4fe-b4830f11dbfa",
       "name": "Obsidian Flames Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -55,6 +58,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f2f46d1b-8c7e-5a1c-bb69-3b001a0216a5",
       "name": "Stade Stratégies et Combats Écarlate et Violet – Flammes Obsidiennes",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-flammes-obsidiennes"
@@ -62,6 +66,7 @@
     },
     {
       "language": "es",
+      "uuid": "9152af9e-bd20-59af-ae5e-018a99d1dbe2",
       "name": "Estadio Combina y Combate de Escarlata y Púrpura-Llamas Obsidianas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-llamas-obsidianas"

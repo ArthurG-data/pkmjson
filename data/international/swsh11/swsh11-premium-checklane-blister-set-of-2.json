@@ -1,15 +1,18 @@
 {
   "id": "swsh11-premium-checklane-blister-set-of-2",
+  "uuid": "f4dbc853-fc48-50cf-81fd-68d71c0e1184",
   "region": "international",
   "set": "swsh11",
   "category": "other",
   "name": "Lost Origin Premium Checklane Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 cards with an evolution line; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "509ea679-75c4-5211-be8f-516e148e2cb3",
       "name": "Lost Origin Premium Checklane Blister [Set of 2]",
       "releaseDate": "2022-09-09",
       "identifiers": {

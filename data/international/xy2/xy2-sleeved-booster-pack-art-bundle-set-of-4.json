@@ -1,15 +1,18 @@
 {
   "id": "xy2-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "48cf130e-1c3c-512b-b22a-83195e93a21b",
   "region": "international",
   "set": "xy2",
   "category": "other",
   "name": "Flashfire Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "306f63c1-a204-5f9a-8a99-3e96cdbc48b5",
       "name": "Flashfire Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-mini-tin-display-case",
+  "uuid": "7614f95b-7b48-5c0e-a7a5-32b6632fed81",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7e5c9f52-4a0d-53aa-83ef-faf8c75a3713",
       "name": "Prismatic Evolutions Mini Tin Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

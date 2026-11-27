@@ -1,9 +1,11 @@
 {
   "id": "swsh7-elite-trainer-box-glaceon-vaporeon-sylveon-espeon",
+  "uuid": "f598b316-d008-5a43-82aa-7b4428d473a7",
   "region": "international",
   "set": "swsh7",
   "category": "elite_trainer_box",
   "name": "Evolving Skies Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -55,6 +57,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cbadb8bb-e672-53f6-91c8-e975b518d967",
       "name": "Evolving Skies Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon]",
       "releaseDate": "2021-08-27",
       "identifiers": {

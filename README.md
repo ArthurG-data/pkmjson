@@ -5,6 +5,10 @@ the packs, promo cards and accessories in an Elite Trainer Box, and so on, for e
 sold in. Card, set and listing data are already published elsewhere (TCGdex, pokemon-tcg-data, TCGCSV);
 this dataset covers product contents, which none of them publish.
 
+The data holds 3189 product families in 4394 language releases, in 286 sets. 2905 families are international and
+284 are Japanese. By language, the releases are 2905 English, 502 French, 284 Japanese, 249 German, 230 Italian and
+224 Spanish. 454 families list their whole contents. Every family and every release has a UUID that never changes.
+
 ## Layout
 
 One file per product family, at `data/<region>/<set>/<id>.json`:
@@ -14,7 +18,8 @@ One file per product family, at `data/<region>/<set>/<id>.json`:
 - `set` is the TCGdex set id (`sv08`, `SV8`).
 - `id` is the stable pkmjson id of the product, without language (`sv08-etb`).
 
-A family lists its `contents` once and its `releases`, one per language. Each release has its own name, release
+A family lists its `contents` once and its `releases`, one per language. Each family and each release has a `uuid`
+(see [UUIDs](#uuids)). Each release has its own name, release
 date, TCGplayer ids and the sources that state its contents. A release can carry its own `contents` when that
 language's box differs. The Cardmarket id sits on the family, because Cardmarket sells every language of a sealed
 product under one product and records the language on each offer.
@@ -22,6 +27,7 @@ product under one product and records the language on each offer.
 ```json
 {
   "id": "sv08-etb",
+  "uuid": "…",
   "region": "international",
   "set": "sv08",
   "category": "elite_trainer_box",
@@ -32,8 +38,8 @@ product under one product and records the language on each offer.
                "tcgplayerProductId": 594386, "cardmarketProductId": 796935, "count": 1, "role": "promo"}],
     "other": [{"name": "Card sleeves", "count": 65}]
   },
-  "releases": [{"language": "en", "name": "Surging Sparks Elite Trainer Box", "identifiers": {"tcgplayerProductIds": [565630]}, "sources": ["..."]},
-               {"language": "fr", "name": "Coffret Dresseur d'Élite Écarlate et Violet – Étincelles Déferlantes", "sources": ["..."]}]
+  "releases": [{"language": "en", "uuid": "…", "name": "Surging Sparks Elite Trainer Box", "identifiers": {"tcgplayerProductIds": [565630]}, "sources": ["..."]},
+               {"language": "fr", "uuid": "…", "name": "Coffret Dresseur d'Élite Écarlate et Violet – Étincelles Déferlantes", "sources": ["..."]}]
 }
 ```
 
@@ -56,15 +62,53 @@ product under one product and records the language on each offer.
 "contents": {"pool": [{"set": "sm115"}, {"set": "sma"}]}
 ```
 
-The full format is `schema/product.schema.json`.
+The full format is `schema/product.schema.json`. `sets/sets.json`, the mappings and the UUID registry have their
+own schemas in `schema/`.
+
+### Ids
+
+A family's `id` starts with its set's id, lowercased, with a "+" spelled out (`sm1plus-…` for `SM1+`). An asia set
+whose id is also an international set's id gets `asia-` in front. Japan's SM10 and the international sm10 are
+different sets, so their families are `asia-sm10-booster-pack` and `sm10-booster-pack`. The rest of the id comes
+from the TCGplayer name of the product it was first made from. An id stays as long as the file does, but it can
+change: a family can be renamed or move to another set. The `uuid` never changes.
+
+### UUIDs
+
+`tools/uuids.py` gives every family and every release a UUID, and `data/uuids.json` records them. A UUID is given
+once, never changes and never goes to another record:
+
+- **What a UUID belongs to.** A family's UUID belongs to its lowest TCGplayer product id (`tcgplayer:565630`), or to
+  its id when TCGplayer does not sell it. A release's UUID belongs to its family's UUID and its language.
+- **The first UUID.** A record seen for the first time gets `uuid5(NAMESPACE, "<kind>:<id>")`, where `NAMESPACE`
+  is `uuid5(NAMESPACE_URL, "https://github.com/ArthurG-data/pkmjson")`. So a rebuild from nothing gives the same
+  UUIDs.
+- **Renames.** A record that replaces one that left takes its UUID. The registry's `bridges` remember which UUID
+  each of a family's ids, TCGplayer products and Cardmarket product was last on. A family renamed with its TCGplayer
+  listing kept, or one that lost its listing but kept its id, keeps its UUID.
+- **Retired records.** A record that leaves keeps its entry in `keys`, so the registry also lists retired records.
+  It gets its UUID back if it returns, and no other record can take that UUID.
+
+`validate.py --since <ref>` refuses a registry that dropped or changed a UUID the registry at `<ref>` gave. CI runs
+it on every pull request and push. Every import tool stamps the UUIDs before it writes. After a hand edit, run
+`tools/uuids.py`.
+
+A file without `generatedBy` was written by hand, and the import tools leave it alone. To keep a generated file as
+edited, remove its `generatedBy`.
 
 ## Build output
 
 `python tools/build.py` writes `dist/AllProducts.json`, with one entry per product and language, keyed
-`<id>:<language>` (`sv08-etb:fr`). It also writes `dist/AllSets.json`, a copy of `sets/sets.json`. That file gives
+`<id>:<language>` (`sv08-etb:fr`). Each entry carries the release's `uuid` and the family's `familyUuid`. It also writes `dist/AllSets.json`, a copy of `sets/sets.json`. That file gives
 each set's name as printed on its packs and a logo, per language, keyed `<region>/<set>`. Each value cites its
 source. `logoSource` says where the logo comes from. `logoLanguage` marks a logo borrowed from another language
-because the set has none of its own. `logoKind` marks a product image or set symbol used where no logo exists. Each entry's `identifiers` holds the family's ids and the release's. Tagged releases attach that file to a GitHub release.
+because the set has none of its own. `logoKind` marks a product image or set symbol used where no logo exists. Each entry's `identifiers` holds the family's ids and the release's.
+
+Every file is `{"meta": {"version", "date"}, "data": {...}}`, and its JSON schema is written beside it
+(`AllProducts.schema.json`, `AllSets.schema.json`). `date` is the day the data last changed (the last commit to
+`sets/` or `data/`), so one commit always builds the same files. The build checks the data and each file against its
+schema first. If either check fails, it writes nothing. Tagged releases attach the files and their schemas to a
+GitHub release.
 
 ## Where the data comes from
 
@@ -91,9 +135,6 @@ because the set has none of its own. `logoKind` marks a product image or set sym
   after the set as printed on the pack: "Karmesin & Purpur – Stürmische Funken", not a name assembled from a
   dictionary word and a set name.
 
-A file whose notes do not start with "Generated from TCGplayer" was written by hand, and the import tools leave it
-alone.
-
 - **Booster pack pools:** `tools/import_pools.py` gives each pack its `contents.pool` from the pack's `set`, TCGdex's
   set lists (English for `international`, Japanese for `asia`) and `mappings/pack_pools.json`. Run it after
   `import_tcgplayer.py`; it is idempotent and rewrites a pool another tool dropped. `import_tcgplayer.py` also keeps a
@@ -102,15 +143,29 @@ alone.
 ## Development
 
 ```
-uv sync
+uv sync --group dev
+uv run ruff check tools tests
 uv run pytest
-uv run python tools/validate.py --online
+uv run python tools/refresh.py              # every importer in order, then uuids.py and validate.py
+uv run python tools/check_losses.py         # did the run lose more than a few of anything?
+uv run python tools/validate.py --since main
 uv run python tools/build.py
 ```
 
+The import tools read `.cache/` and fetch only what it lacks. `--refresh`, on `refresh.py` or on one tool, fetches
+every page again. The fetcher retries a failed request, refuses to cache a page served wrong, and writes each page
+whole or not at all. `refresh.py` against an unchanged cache changes nothing.
+
+`check_losses.py` compares counts with a git ref (default `HEAD`) and fails when one falls by more than 2 and by
+more than 5%. It counts the families of each set, the releases of each language, complete contents, card items,
+pools, and set names and logos. CI runs it on pull requests. A pull request whose title holds `[allow-loss]` skips
+it. The online check (`validate.py --online`) compares each card with TCGdex. CI runs it weekly, before a release
+and when started by hand, not on every pull request.
+
 ## Adding a product
 
-Add the file, cite at least one page that states the contents in `sources`, and run `validate.py --online`.
+Add the file, cite at least one page that states the contents in `sources`, run `tools/uuids.py`, and run
+`validate.py --online`.
 Contents are facts. Do not copy product descriptions or images.
 
 ## Licence

@@ -1,9 +1,11 @@
 {
   "id": "swsh3-booster-pack",
+  "uuid": "4a9c78d2-a436-59d7-b4a3-8025ddb9a8b5",
   "region": "international",
   "set": "swsh3",
   "category": "booster_pack",
   "name": "Darkness Ablaze Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 462244
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "870e7edb-4bc3-5ace-b87d-ca302b649356",
       "name": "Sword & Shield—Darkness Ablaze",
       "releaseDate": "2020-08-14",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2f3ca1fb-9cd3-52c7-aaab-cd00e4e3226e",
       "name": "Épée et Bouclier – Ténèbres Embrasées",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_T%C3%A9n%C3%A8bres_Embras%C3%A9es",
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "be184399-fcac-54a6-bd3e-c2f4b9c1e786",
       "name": "Schwert & Schild – Flammende Finsternis",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-flammende-finsternis",
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "88054af0-4c98-5a16-b542-181474985b67",
       "name": "Spada e Scudo - Fiamme Oscure",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fiamme-oscure",

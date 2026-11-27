@@ -1,15 +1,18 @@
 {
   "id": "sm1-mimikyu-pin-collection",
+  "uuid": "c1ecde12-1ce9-5185-acd8-9c4b0aaf3f44",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Mimikyu Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a Mimikyu - SM29 Promo card; 3 Pokemon Booster Packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "06b04c8c-f830-501c-ba1f-627fa00afa0a",
       "name": "Mimikyu Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b5532dea-b54f-5065-9b45-bf9e3334ffb2",
       "name": "Collection avec pin's Mimiqui",
       "releaseDate": "2017-04-05",
       "contents": {

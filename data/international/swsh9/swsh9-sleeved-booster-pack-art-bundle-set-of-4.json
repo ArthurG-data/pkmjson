@@ -1,15 +1,18 @@
 {
   "id": "swsh9-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "3847e4a4-e6fa-5e3f-b1b4-5669885b9bda",
   "region": "international",
   "set": "swsh9",
   "category": "other",
   "name": "Brilliant Stars Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cb92dafa-a6f8-5f75-8cec-cfbc1e9b2acb",
       "name": "Brilliant Stars Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2022-02-25",
       "identifiers": {

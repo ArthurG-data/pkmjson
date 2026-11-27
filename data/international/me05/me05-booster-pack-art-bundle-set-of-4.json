@@ -1,15 +1,18 @@
 {
   "id": "me05-booster-pack-art-bundle-set-of-4",
+  "uuid": "ecc7e4b9-bb03-5d8d-9c0e-eff0e5de3b9a",
   "region": "international",
   "set": "me05",
   "category": "other",
   "name": "Pitch Black Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "769a7d00-b26a-5119-a4b1-03436d19ef34",
       "name": "Pitch Black Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2026-07-17",
       "identifiers": {

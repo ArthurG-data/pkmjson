@@ -1,15 +1,18 @@
 {
   "id": "sm7-build-battle-box-display",
+  "uuid": "ab84e690-1c9d-514c-b383-a1577cd6bfcd",
   "region": "international",
   "set": "sm7",
   "category": "case",
   "name": "Celestial Storm Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d4bcadaa-49a4-57a7-b063-1918a7a25d04",
       "name": "Celestial Storm Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

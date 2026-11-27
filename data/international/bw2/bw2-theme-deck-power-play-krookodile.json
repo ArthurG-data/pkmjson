@@ -1,9 +1,11 @@
 {
   "id": "bw2-theme-deck-power-play-krookodile",
+  "uuid": "68f6cb6a-d98d-5de8-9a73-8fa09a508519",
   "region": "international",
   "set": "bw2",
   "category": "theme_deck",
   "name": "Emerging Powers Theme Deck - \"Power Play\" [Krookodile]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286546
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e978d48e-56eb-5ec0-9d8c-ac32e060a375",
       "name": "Emerging Powers Theme Deck - \"Power Play\" [Krookodile]",
       "identifiers": {
         "tcgplayerProductIds": [

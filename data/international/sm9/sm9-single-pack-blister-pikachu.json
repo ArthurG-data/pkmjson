@@ -1,9 +1,11 @@
 {
   "id": "sm9-single-pack-blister-pikachu",
+  "uuid": "4bc4e868-c7d7-55b5-937a-2fc7b6daec9d",
   "region": "international",
   "set": "sm9",
   "category": "blister",
   "name": "Team Up Single Pack Blister [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585919
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5d5d0fab-b2b9-583a-8c25-14fd2333ec81",
       "name": "Team Up Single Pack Blister [Pikachu]",
       "identifiers": {
         "tcgplayerProductIds": [

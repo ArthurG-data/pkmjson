@@ -1,15 +1,18 @@
 {
   "id": "me04-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "075a4431-a8e5-519e-b794-6bf531357226",
   "region": "international",
   "set": "me04",
   "category": "other",
   "name": "Chaos Rising Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards (contents vary by product); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f8c7b702-f4f3-5a5c-854d-abfe64b1ac78",
       "name": "Chaos Rising Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2026-05-22",
       "identifiers": {

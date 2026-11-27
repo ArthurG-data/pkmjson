@@ -1,15 +1,18 @@
 {
   "id": "pmcg1-starter-deck-1996",
+  "uuid": "1da0dfe4-c429-56f3-a6fc-d081e05c5158",
   "region": "asia",
   "set": "PMCG1",
   "category": "battle_deck",
   "name": "Starter Deck 1996",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "14231ca3-b079-56ad-925f-f2c682c04b70",
       "name": "Starter Deck 1996",
       "identifiers": {
         "tcgplayerProductIds": [

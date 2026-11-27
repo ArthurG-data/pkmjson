@@ -1,9 +1,11 @@
 {
   "id": "s5a-matchless-fighters-klara-and-avery-set",
+  "uuid": "5aba3ce7-ec91-585d-b0c5-2f349e538a83",
   "region": "asia",
   "set": "S5a",
   "category": "other",
   "name": "Matchless Fighters Klara and Avery Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "a27beaaa-165a-5919-a097-210c46ffc235",
       "name": "Matchless Fighters Klara and Avery Set",
       "identifiers": {
         "tcgplayerProductIds": [

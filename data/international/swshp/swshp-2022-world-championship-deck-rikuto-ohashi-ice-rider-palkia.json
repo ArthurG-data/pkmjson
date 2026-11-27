@@ -1,9 +1,11 @@
 {
   "id": "swshp-2022-world-championship-deck-rikuto-ohashi-ice-rider-palkia",
+  "uuid": "8d0f2c50-1f3b-5310-b82b-8e5a324d092a",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "2022 World Championship Deck: Rikuto Ohashi (Ice Rider Palkia)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "72e5a552-af92-566c-b28a-d49d4dcf4ac7",
       "name": "2022 World Championship Deck: Rikuto Ohashi (Ice Rider Palkia)",
       "identifiers": {
         "tcgplayerProductIds": [

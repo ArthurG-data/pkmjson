@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-pikachu-v",
+  "uuid": "3750f510-795f-553d-9a57-834e2d8d33dc",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Pikachu V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "71685dca-8023-5348-8245-2c3b53f65fc7",
       "name": "V Powers Tin [Pikachu V]",
       "releaseDate": "2020-09-04",
       "identifiers": {

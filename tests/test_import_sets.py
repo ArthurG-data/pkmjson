@@ -1,12 +1,13 @@
 """Sets: the pokemon.com values sets.json keeps, and which pack is a set's own."""
 from pathlib import Path
 
-from import_sets import plain_pack, recorded_official
-from pkmjson import Family
+from import_sets import recorded_official
+from pkmjson import Family, plain_pack
 
 
 def _pack(fid, set_id="sm6"):
-    return Family(Path(f"{fid}.json"), {"id": fid, "set": set_id, "category": "booster_pack"})
+    return Family(Path(f"{fid}.json"), {"id": fid, "region": "international", "set": set_id,
+                                        "category": "booster_pack"})
 
 
 def test_recorded_pokemon_com_values_are_kept_without_borrowed_logos():

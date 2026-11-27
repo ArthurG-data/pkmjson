@@ -1,9 +1,11 @@
 {
   "id": "swshp-spring-2022-collector-bundle",
+  "uuid": "b11d0874-95ed-51c7-9920-5d6f254fa840",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Spring 2022 Collector Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6425c46-75b0-5e93-9732-969f66680321",
       "name": "Spring 2022 Collector Bundle",
       "releaseDate": "2022-04-08",
       "identifiers": {

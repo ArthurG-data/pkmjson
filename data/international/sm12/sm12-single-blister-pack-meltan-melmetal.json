@@ -1,9 +1,11 @@
 {
   "id": "sm12-single-blister-pack-meltan-melmetal",
+  "uuid": "d5264ce1-ff72-5826-bd7d-7bd2046a1ffe",
   "region": "international",
   "set": "sm12",
   "category": "blister",
   "name": "Sun & Moon Single Blister Pack [Meltan & Melmetal]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a1eb5c25-77a6-5bfb-ae4c-e9d656bcf8a3",
       "name": "Sun & Moon Single Blister Pack [Meltan & Melmetal]",
       "identifiers": {
         "tcgplayerProductIds": [

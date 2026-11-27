@@ -1,9 +1,11 @@
 {
   "id": "sm4-mimikyu-sidekick-collection",
+  "uuid": "112140a5-87ab-59aa-929a-4923dac70eb4",
   "region": "international",
   "set": "sm4",
   "category": "collection_box",
   "name": "Mimikyu Sidekick Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3c43f713-1a47-5c49-8736-b7a0002e0fcb",
       "name": "Mimikyu Sidekick Collection",
       "identifiers": {
         "tcgplayerProductIds": [

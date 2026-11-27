@@ -1,15 +1,18 @@
 {
   "id": "mep-costco-exclusive-4-tin-bundle-v-heroes-tin-set-of-3-v-strikers-empoleon",
+  "uuid": "ca6b98bf-5e5c-54a2-a484-09e4b807cede",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Costco Exclusive 4-Tin Bundle: V Heroes Tin [Set of 3] + V Strikers [Empoleon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Espeon (V Heroes); Sylveon (V Heroes); Umbreon (V Heroes); Empoleon (V Strikers); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d03b5880-db26-5f67-baa2-76da1f7414e1",
       "name": "Costco Exclusive 4-Tin Bundle: V Heroes Tin [Set of 3] + V Strikers [Empoleon]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-espeon",
+  "uuid": "f7c4fa65-db97-5820-adcf-b6b0874dee57",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Espeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e331e46-4a94-5eba-8e7e-a5d63901116c",
       "name": "30th Celebration Mini Tin [Espeon]",
       "releaseDate": "2026-10-02",
       "identifiers": {

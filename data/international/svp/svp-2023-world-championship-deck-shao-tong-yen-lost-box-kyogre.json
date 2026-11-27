@@ -1,9 +1,11 @@
 {
   "id": "svp-2023-world-championship-deck-shao-tong-yen-lost-box-kyogre",
+  "uuid": "d748660f-011a-5a2a-81b2-75bf996ed61b",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "2023 World Championship Deck: Shao Tong Yen (Lost Box Kyogre)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "276041ba-7ec8-5244-b6d2-cb40ba483fc6",
       "name": "2023 World Championship Deck: Shao Tong Yen (Lost Box Kyogre)",
       "identifiers": {
         "tcgplayerProductIds": [

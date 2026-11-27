@@ -1,15 +1,18 @@
 {
   "id": "swsh1-sword-and-shield-base-set-booster-pack-art-bundle-set-of-4",
+  "uuid": "1846b888-ebf8-53f8-9f91-fbf33c68759c",
   "region": "international",
   "set": "swsh1",
   "category": "other",
   "name": "Sword and Shield Base Set Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "960453e7-bfcf-5679-b9f3-4751a63071c0",
       "name": "Sword and Shield Base Set Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me01-3-pack-blister-psyduck",
+  "uuid": "0b8c91da-4868-5252-9d6a-276afe458e01",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution 3 Pack Blister [Psyduck]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834819
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d4368411-edfb-55aa-9a65-fa481c6d3c5d",
       "name": "Mega Evolution 3 Pack Blister [Psyduck]",
       "releaseDate": "2025-09-26",
       "identifiers": {

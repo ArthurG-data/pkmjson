@@ -1,15 +1,18 @@
 {
   "id": "sm2-espeon-gx-premium-collection",
+  "uuid": "72d885cf-63a4-57c7-bdf7-00871720bb35",
   "region": "international",
   "set": "sm2",
   "category": "premium_collection",
   "name": "Espeon GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: an oversized card of Espeon GX; an alternate art Promo of Espeon GX, collector's pin and coin; 6 booster packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4caa7796-37dd-5d41-8446-74444882edd1",
       "name": "Espeon GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "76733679-1bbc-56e7-94b8-30626e27d936",
       "name": "Collection Premium Mentali",
       "releaseDate": "2017-09-05",
       "contents": {

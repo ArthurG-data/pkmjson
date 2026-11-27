@@ -1,9 +1,11 @@
 {
   "id": "bw11-booster-pack",
+  "uuid": "5977bca1-e53d-5d1c-b7f4-f5aaee618660",
   "region": "international",
   "set": "bw11",
   "category": "booster_pack",
   "name": "Legendary Treasures Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271829
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "44a6acfa-3b5f-5548-98b1-6a193afc24d6",
       "name": "Black & White—Legendary Treasures",
       "identifiers": {
         "tcgplayerProductIds": [

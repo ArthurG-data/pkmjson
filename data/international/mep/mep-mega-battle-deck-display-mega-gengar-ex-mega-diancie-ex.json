@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-battle-deck-display-mega-gengar-ex-mega-diancie-ex",
+  "uuid": "221b6de8-6c96-5561-8b9b-223584a8fee8",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Battle Deck Display (Mega Gengar ex/Mega Diancie ex)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b914b625-3a98-5cc7-a7bd-9ebbc172e8fb",
       "name": "Mega Battle Deck Display (Mega Gengar ex/Mega Diancie ex)",
       "identifiers": {
         "tcgplayerProductIds": [

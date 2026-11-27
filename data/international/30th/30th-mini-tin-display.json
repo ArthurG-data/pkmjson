@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-display",
+  "uuid": "bb1b8105-6cf3-578e-923f-178b61123322",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895584
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ebb3fd29-b119-55bd-85f3-5307d21922df",
       "name": "30th Celebration Mini Tin Display",
       "releaseDate": "2026-10-02",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh2-elite-trainer-box",
+  "uuid": "0fd157cf-b3e8-59f9-94b4-226f699d1328",
   "region": "international",
   "set": "swsh2",
   "category": "elite_trainer_box",
   "name": "Rebel Clash Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 453283
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "81bec7d4-c3ce-5453-a2b8-451fd53218c3",
       "name": "Rebel Clash Elite Trainer Box",
       "releaseDate": "2020-05-01",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "30bfcabf-1c59-5b2a-9a5f-56512e951dcf",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Clash des Rebelles",
       "releaseDate": "2020-05-01",
       "sources": [
@@ -79,6 +83,7 @@
     },
     {
       "language": "de",
+      "uuid": "bf80064e-642a-52cc-b1d9-7eabd998e8ca",
       "name": "Top-Trainer-Box Schwert & Schild – Clash der Rebellen",
       "releaseDate": "2020-05-01",
       "sources": [
@@ -87,6 +92,7 @@
     },
     {
       "language": "it",
+      "uuid": "90b15d2c-9cbf-5b5f-a79e-d1c7f93a5b5e",
       "name": "Set Allenatore Fuoriclasse dell’espansione Spada e Scudo - Fragore Ribelle",
       "releaseDate": "2020-05-01",
       "sources": [

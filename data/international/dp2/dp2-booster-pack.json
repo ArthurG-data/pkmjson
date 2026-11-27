@@ -1,9 +1,11 @@
 {
   "id": "dp2-booster-pack",
+  "uuid": "429ea948-113d-5493-beda-f8d7921ea6c7",
   "region": "international",
   "set": "dp2",
   "category": "booster_pack",
   "name": "Mysterious Treasures Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271837
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ff1ddc96-b577-5c4b-a32d-2b3808a2ba79",
       "name": "Diamond & Pearl—Mysterious Treasures",
       "identifiers": {
         "tcgplayerProductIds": [

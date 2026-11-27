@@ -1,9 +1,11 @@
 {
   "id": "sv1s-booster-box",
+  "uuid": "6367cea5-49c9-5a29-a57d-a67509261aac",
   "region": "asia",
   "set": "SV1S",
   "category": "booster_box",
   "name": "Scarlet ex Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 689087
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c90765f2-e0ad-52c1-b0ce-fc5aabdbd763",
       "name": "Scarlet ex Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

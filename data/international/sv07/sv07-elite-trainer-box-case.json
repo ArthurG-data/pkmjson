@@ -1,9 +1,11 @@
 {
   "id": "sv07-elite-trainer-box-case",
+  "uuid": "c64bdda4-ed9d-554e-9b52-165c78311831",
   "region": "international",
   "set": "sv07",
   "category": "case",
   "name": "Stellar Crown Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776338
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cee2757d-268a-5745-8bfd-37ca575b453f",
       "name": "Stellar Crown Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

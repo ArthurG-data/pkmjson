@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-friends-mini-tin-charmander",
+  "uuid": "ba669b93-833c-5a9d-b1b4-84646cadff8b",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Friends Mini Tin [Charmander]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ecd24ef-0b77-576c-bfec-fb25763592b3",
       "name": "Kanto Friends Mini Tin [Charmander]",
       "identifiers": {
         "tcgplayerProductIds": [

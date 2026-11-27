@@ -1,9 +1,11 @@
 {
   "id": "sv03-booster-pack",
+  "uuid": "03e45dc7-2522-5a7a-bed0-8b07a0c88b79",
   "region": "international",
   "set": "sv03",
   "category": "booster_pack",
   "name": "Obsidian Flames Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715466
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3cb4200c-bcd7-5ef1-9b7f-394ff16eb060",
       "name": "Scarlet & Violet—Obsidian Flames",
       "releaseDate": "2023-08-11",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8b83518d-8886-5bab-b1b6-2f83def6a69f",
       "name": "Écarlate et Violet – Flammes Obsidiennes",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Flammes_Obsidiennes",
@@ -41,6 +45,7 @@
     },
     {
       "language": "es",
+      "uuid": "c876092d-c4c6-5fc3-be78-d1b99a3fd8c7",
       "name": "Escarlata y Púrpura-Llamas Obsidianas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-llamas-obsidianas",
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "17071a98-efc5-5952-ac37-f2b2b8266f4b",
       "name": "Scarlatto e Violetto - Ossidiana Infuocata",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-ossidiana-infuocata",
@@ -57,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "0355d0f0-4e25-52d2-9203-56147511d98d",
       "name": "Karmesin & Purpur – Obsidianflammen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-obsidianflammen",

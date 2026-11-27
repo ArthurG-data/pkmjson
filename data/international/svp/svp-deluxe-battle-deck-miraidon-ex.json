@@ -1,9 +1,11 @@
 {
   "id": "svp-deluxe-battle-deck-miraidon-ex",
+  "uuid": "0ebbe2b9-151c-5297-b249-353cf42c43e6",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "Deluxe Battle Deck [Miraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3d69001b-0a53-5746-a244-509c055e9a56",
       "name": "Deluxe Battle Deck [Miraidon ex]",
       "releaseDate": "2024-08-23",
       "identifiers": {

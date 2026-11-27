@@ -1,9 +1,11 @@
 {
   "id": "sm1-legacy-evolution-pin-collection",
+  "uuid": "6d258ec0-8282-57ca-b2d3-a188794b2faf",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Legacy Evolution Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "732a2423-b49a-5d0c-b6de-858182716be5",
       "name": "Legacy Evolution Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [

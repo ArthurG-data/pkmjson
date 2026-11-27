@@ -1,9 +1,11 @@
 {
   "id": "s11-special-set",
+  "uuid": "8d13f041-ae57-5095-bfaf-a48361e4593e",
   "region": "asia",
   "set": "S11",
   "category": "other",
   "name": "Lost Abyss Special Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "666cd4d1-350b-56a4-9fed-1a40c96ce73f",
       "name": "Lost Abyss Special Set",
       "identifiers": {
         "tcgplayerProductIds": [

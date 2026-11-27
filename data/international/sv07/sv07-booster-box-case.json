@@ -1,9 +1,11 @@
 {
   "id": "sv07-booster-box-case",
+  "uuid": "8cdc037a-0e48-5012-b324-6532d80d65f1",
   "region": "international",
   "set": "sv07",
   "category": "case",
   "name": "Stellar Crown Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776327
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5da88028-ee87-5987-9bc5-38b07e3f4aa7",
       "name": "Stellar Crown Booster Box Case",
       "releaseDate": "2024-09-13",
       "identifiers": {

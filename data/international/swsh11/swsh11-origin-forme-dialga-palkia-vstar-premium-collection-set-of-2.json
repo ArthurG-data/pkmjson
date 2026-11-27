@@ -1,15 +1,18 @@
 {
   "id": "swsh11-origin-forme-dialga-palkia-vstar-premium-collection-set-of-2",
+  "uuid": "c0dde140-ca3e-5d6b-a636-740ed8dee85a",
   "region": "international",
   "set": "swsh11",
   "category": "other",
   "name": "Origin Forme Dialga/Palkia VSTAR Premium Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Origin Forme Dialga VSTAR or Origin Forme Palkia VSTAR; 1 etched foil card featuring Origin Forme Dialga V or Origin Forme Palkia V; 6 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "abf5fe21-cf0c-5c52-9613-e8af65c0423a",
       "name": "Origin Forme Dialga/Palkia VSTAR Premium Collection [Set of 2]",
       "releaseDate": "2022-10-07",
       "identifiers": {

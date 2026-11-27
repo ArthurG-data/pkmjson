@@ -1,9 +1,11 @@
 {
   "id": "swsh8-single-strike-urshifu-vmax-premium-collection",
+  "uuid": "df8e33be-e2ce-553f-8677-6d20a457535a",
   "region": "international",
   "set": "swsh8",
   "category": "premium_collection",
   "name": "Single Strike Urshifu VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6a23dd5-43bf-5061-86a6-fb291bd1f337",
       "name": "Single Strike Urshifu VMAX Premium Collection",
       "releaseDate": "2021-11-12",
       "identifiers": {

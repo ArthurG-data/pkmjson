@@ -1,9 +1,11 @@
 {
   "id": "xy3-3-pack-blister-trevenant",
+  "uuid": "b6850bf6-c786-53ab-ae6c-74223487931f",
   "region": "international",
   "set": "xy3",
   "category": "blister",
   "name": "Furious Fists 3 Pack Blister [Trevenant]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586406
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ecf06349-2fa7-5b5b-b8c2-343836d8a7c9",
       "name": "Furious Fists 3 Pack Blister [Trevenant]",
       "identifiers": {
         "tcgplayerProductIds": [

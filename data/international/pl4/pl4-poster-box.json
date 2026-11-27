@@ -1,9 +1,11 @@
 {
   "id": "pl4-poster-box",
+  "uuid": "e30db98c-6720-556a-99b8-1959ba1c79da",
   "region": "international",
   "set": "pl4",
   "category": "collection_box",
   "name": "Arceus Poster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e4df7f77-86c3-5167-9ad5-a0e7f4ea8e7c",
       "name": "Arceus Poster Box",
       "identifiers": {
         "tcgplayerProductIds": [

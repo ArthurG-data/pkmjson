@@ -1,15 +1,18 @@
 {
   "id": "mep-checklane-2-pack-blister-archaludon-3-tab",
+  "uuid": "80df483b-69b9-56f1-a2e7-8da50b23e6b8",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Checklane 2-Pack Blister [Archaludon] (3-tab)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a22ea5e0-69c6-533f-a4d4-c09c999f9f97",
       "name": "Checklane 2-Pack Blister [Archaludon] (3-tab)",
       "identifiers": {
         "tcgplayerProductIds": [

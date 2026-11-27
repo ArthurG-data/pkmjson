@@ -1,9 +1,11 @@
 {
   "id": "neo4-booster-box-1st-edition",
+  "uuid": "0a4cd949-02c9-52e8-9f20-527e3f7b7b40",
   "region": "international",
   "set": "neo4",
   "category": "booster_box",
   "name": "Neo Destiny Booster Box [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "420cf916-fa17-5e52-96d2-c8a8398105dc",
       "name": "Neo Destiny Booster Box [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

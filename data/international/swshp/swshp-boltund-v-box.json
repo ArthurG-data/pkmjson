@@ -1,9 +1,11 @@
 {
   "id": "swshp-boltund-v-box",
+  "uuid": "0cac6e0e-4a0f-5f16-89b6-3b7052abba6b",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Boltund V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1316160e-95e7-52ec-b186-5b1eadf12a42",
       "name": "Boltund V Box",
       "releaseDate": "2022-04-22",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "es",
+      "uuid": "3bcff5eb-924d-5b90-8980-bb18b2bd3d84",
       "name": "Colección Boltund V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-boltund-v"
@@ -51,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "7d137492-ab89-5683-80c9-a2fba8242854",
       "name": "Kollektion Bellektro-V",
       "releaseDate": "2022-04-22",
       "sources": [
@@ -59,6 +64,7 @@
     },
     {
       "language": "fr",
+      "uuid": "76c5c11d-ac8d-5ccd-842d-fe651991c275",
       "name": "Coffret Fulgudog‑V",
       "releaseDate": "2022-03-18",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "me03-build-battle-box",
+  "uuid": "ac4bf5ff-d9ff-5ece-a76c-d23f14b57f41",
   "region": "international",
   "set": "me03",
   "category": "build_and_battle_box",
   "name": "Perfect Order Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865397
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c3a72667-97c2-599d-93d3-1d495bcb2a8c",
       "name": "Perfect Order Build & Battle Box",
       "releaseDate": "2026-04-10",
       "identifiers": {

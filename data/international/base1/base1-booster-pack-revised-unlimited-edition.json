@@ -1,9 +1,11 @@
 {
   "id": "base1-booster-pack-revised-unlimited-edition",
+  "uuid": "ab2befa3-fdc3-5317-a227-1fe9747f143a",
   "region": "international",
   "set": "base1",
   "category": "booster_pack",
   "name": "Base Set Booster Pack [Revised Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7b385f72-045f-58ee-bbf3-4bc158077cf5",
       "name": "Base Set Booster Pack [Revised Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

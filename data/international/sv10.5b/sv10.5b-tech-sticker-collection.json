@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-tech-sticker-collection",
+  "uuid": "a7544b37-3097-5781-b425-34b0fd672dd8",
   "region": "international",
   "set": "sv10.5b",
   "category": "collection_box",
   "name": "Black Bolt Tech Sticker Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67ca8c11-9c25-5ad1-9c60-ba952f052a62",
       "name": "Black Bolt Tech Sticker Collection",
       "releaseDate": "2025-08-01",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "152f342b-d634-5659-899c-504f587242cd",
       "name": "Collection autocollant réajustable Écarlate et Violet Foudre Noire",
       "releaseDate": "2025-08-01",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-moonlit-tin-mega-gengar-ex",
+  "uuid": "7f579992-4301-58da-a089-8da1379f2a6a",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Mega Moonlit Tin [Mega Gengar ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cc972e1f-f655-5a4a-92a3-ae8ac8300b2b",
       "name": "Mega Moonlit Tin [Mega Gengar ex]",
       "releaseDate": "2026-06-05",
       "identifiers": {

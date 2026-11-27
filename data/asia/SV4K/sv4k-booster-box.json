@@ -1,9 +1,11 @@
 {
   "id": "sv4k-booster-box",
+  "uuid": "1f959e22-4976-591c-ab35-ac5c28aa5ac9",
   "region": "asia",
   "set": "SV4K",
   "category": "booster_box",
   "name": "Ancient Roar Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 732595
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8f6043c1-566f-50ee-b928-60cd04150432",
       "name": "Ancient Roar Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

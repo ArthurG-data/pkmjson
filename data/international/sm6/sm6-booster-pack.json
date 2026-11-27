@@ -1,9 +1,11 @@
 {
   "id": "sm6-booster-pack",
+  "uuid": "ca328e54-550f-5e0e-bbc1-1cb9b2d900d1",
   "region": "international",
   "set": "sm6",
   "category": "booster_pack",
   "name": "Forbidden Light Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 316136
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "46f1506f-38cf-5dfe-99eb-87245faf15a8",
       "name": "Sun & Moon—Forbidden Light",
       "releaseDate": "2018-05-04",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "717a77a4-9532-50ae-9a1a-586ca88254f1",
       "name": "Soleil et Lune – Lumière Interdite",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Soleil_et_Lune_Lumi%C3%A8re_Interdite",
@@ -41,6 +45,7 @@
     },
     {
       "language": "es",
+      "uuid": "eacd1cdb-f4c3-5f06-9056-c362806dea85",
       "name": "Sol y Luna-Luz Prohibida",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-luz-prohibida",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "5fa4807a-5721-55b9-8e7b-e7f1bdc756b8",
       "name": "Sonne & Mond – Grauen der Lichtfinsternis",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-grauen-der-lichtfinsternis",
@@ -57,6 +63,7 @@
     },
     {
       "language": "it",
+      "uuid": "c1b10ce5-8d78-55aa-9ff3-f37265ec59cb",
       "name": "Sole e Luna - Apocalisse di Luce",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-apocalisse-di-luce",

@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-box-rillaboom-v",
+  "uuid": "355e5d94-33d9-5c0f-be15-9f41adc14a49",
   "region": "international",
   "set": "swsh1",
   "category": "collection_box",
   "name": "Galar Partners Box [Rillaboom V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "670da826-d7ac-5478-899c-7752bfb5aa1c",
       "name": "Galar Partners Box [Rillaboom V]",
       "identifiers": {
         "tcgplayerProductIds": [

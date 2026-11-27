@@ -1,9 +1,11 @@
 {
   "id": "30th-figure-collection-mewtwo",
+  "uuid": "b7335299-9ac4-5103-b856-3d5e18c67bb5",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Figure Collection [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895575
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51514b4d-93b7-5bda-941e-884586df5494",
       "name": "30th Celebration Figure Collection [Mewtwo]",
       "releaseDate": "2026-11-06",
       "identifiers": {

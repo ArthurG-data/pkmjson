@@ -1,9 +1,11 @@
 {
   "id": "swsh1-sword-and-shield-base-set-sleeved-booster-pack",
+  "uuid": "4be1ec9a-f138-5804-8ba2-35b7f031d1fb",
   "region": "international",
   "set": "swsh1",
   "category": "sleeved_booster_pack",
   "name": "Sword and Shield Base Set Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f377ebc-554e-542a-a56f-d925bb285f1d",
       "name": "Sword and Shield Base Set Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

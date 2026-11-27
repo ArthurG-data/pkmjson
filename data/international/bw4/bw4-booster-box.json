@@ -1,9 +1,11 @@
 {
   "id": "bw4-booster-box",
+  "uuid": "3d090548-c30a-5dd8-af52-756d1bbff291",
   "region": "international",
   "set": "bw4",
   "category": "booster_box",
   "name": "Next Destinies Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271896
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3b798e50-876e-5faf-a9c5-53ce101e9e1c",
       "name": "Next Destinies Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

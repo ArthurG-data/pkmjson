@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-tapu-koko-ex",
+  "uuid": "8baf1f4b-555a-5d38-a537-c85795a07c20",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Tapu Koko ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cac1d46f-28c0-546a-910f-d0a6538ebb16",
       "name": "ex Battle Deck [Tapu Koko ex]",
       "releaseDate": "2024-10-18",
       "identifiers": {

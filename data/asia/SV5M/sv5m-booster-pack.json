@@ -1,9 +1,11 @@
 {
   "id": "sv5m-booster-pack",
+  "uuid": "51aa5d0b-faa0-5963-8a88-8fb180736109",
   "region": "asia",
   "set": "SV5M",
   "category": "booster_pack",
   "name": "Cyber Judge Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 749454
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "17891463-5ae8-5bd1-b564-285aff0a32bb",
       "name": "拡張パック「サイバージャッジ」",
       "releaseDate": "2024-01-26",
       "identifiers": {

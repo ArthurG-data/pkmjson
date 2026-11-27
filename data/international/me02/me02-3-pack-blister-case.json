@@ -1,15 +1,18 @@
 {
   "id": "me02-3-pack-blister-case",
+  "uuid": "b4b78681-89ae-5b00-97d9-51747b912f5d",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames 3-Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "45cb8745-7c5d-5198-be98-1cc60839f98c",
       "name": "Phantasmal Flames 3-Pack Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

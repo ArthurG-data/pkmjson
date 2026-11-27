@@ -1,15 +1,18 @@
 {
   "id": "xy3-gengar-spirit-link-2-pack",
+  "uuid": "de277e4c-2463-5866-8f9e-c434a8de60cb",
   "region": "international",
   "set": "xy3",
   "category": "other",
   "name": "Gengar Spirit Link 2-pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a22d6097-3d19-5955-991f-ca75409ec831",
       "name": "Gengar Spirit Link 2-pack",
       "identifiers": {
         "tcgplayerProductIds": [

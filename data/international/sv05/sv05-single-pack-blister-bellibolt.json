@@ -1,9 +1,11 @@
 {
   "id": "sv05-single-pack-blister-bellibolt",
+  "uuid": "63ceb9f1-2a24-5213-8ea7-922d70a22447",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces Single Pack Blister [Bellibolt]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750417
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "924ca5a6-a57b-5938-b8b9-6bfd1c204ffe",
       "name": "Temporal Forces Single Pack Blister [Bellibolt]",
       "releaseDate": "2024-03-22",
       "identifiers": {

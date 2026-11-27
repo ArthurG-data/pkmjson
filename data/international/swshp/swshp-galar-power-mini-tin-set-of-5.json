@@ -1,15 +1,18 @@
 {
   "id": "swshp-galar-power-mini-tin-set-of-5",
+  "uuid": "6fa52560-b0a2-510f-9982-a12a8d130ef3",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Galar Power Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: two booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "660eba33-32ae-5676-9c1e-08ef69fbba1e",
       "name": "Galar Power Mini Tin [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

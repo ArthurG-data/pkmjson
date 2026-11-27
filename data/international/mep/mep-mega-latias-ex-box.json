@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-latias-ex-box",
+  "uuid": "30ac5d82-45fa-5ac5-a001-eed964c8edd8",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Mega Latias ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bb7aaeca-f2f3-53d0-a52b-38a88fee4eff",
       "name": "Mega Latias ex Box",
       "releaseDate": "2025-10-10",
       "identifiers": {

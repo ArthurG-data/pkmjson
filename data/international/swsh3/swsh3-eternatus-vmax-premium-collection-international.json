@@ -1,9 +1,11 @@
 {
   "id": "swsh3-eternatus-vmax-premium-collection-international",
+  "uuid": "32f13663-4e25-5457-81d7-71f9dc96da8f",
   "region": "international",
   "set": "swsh3",
   "category": "premium_collection",
   "name": "Eternatus VMAX Premium Collection [International]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6ff8a3b7-ba5d-5f51-98bc-739dc0580cf7",
       "name": "Eternatus VMAX Premium Collection [International]",
       "identifiers": {
         "tcgplayerProductIds": [

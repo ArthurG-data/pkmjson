@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-pokemon-center-elite-trainer-box-plus-case",
+  "uuid": "a1f9e1f8-52bd-52de-b741-e1950e5263cb",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Pokemon Center Elite Trainer Box Plus Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e42e9fe9-20b8-55f1-b270-0fbbe684d2a0",
       "name": "Crown Zenith Pokemon Center Elite Trainer Box Plus Case",
       "releaseDate": "2023-01-20",
       "identifiers": {

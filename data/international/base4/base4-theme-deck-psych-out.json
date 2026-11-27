@@ -1,9 +1,11 @@
 {
   "id": "base4-theme-deck-psych-out",
+  "uuid": "61dfd787-0a3b-5829-8bcf-42ab70ff7c02",
   "region": "international",
   "set": "base4",
   "category": "theme_deck",
   "name": "Base Set 2 Theme Deck - \"Psych Out\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286501
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c2a4107a-4b41-5a58-b14d-fd8b32fa14b9",
       "name": "Base Set 2 Theme Deck - \"Psych Out\"",
       "identifiers": {
         "tcgplayerProductIds": [

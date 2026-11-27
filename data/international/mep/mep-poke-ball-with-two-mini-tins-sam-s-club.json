@@ -1,15 +1,18 @@
 {
   "id": "mep-poke-ball-with-two-mini-tins-sam-s-club",
+  "uuid": "56e53326-0e17-58e9-a782-3199d1196549",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Poke Ball with Two Mini Tins (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon TCG booster packs; 1 Pokémon coin (Cards vary by pack. Coin and packs may vary by product.); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cbb04d44-4980-5cf9-a252-e8b6cd5df743",
       "name": "Poke Ball with Two Mini Tins (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

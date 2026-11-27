@@ -1,9 +1,11 @@
 {
   "id": "xy6-3-pack-blister-regirock",
+  "uuid": "d86d38f0-a57b-5427-ad09-23946765a1d8",
   "region": "international",
   "set": "xy6",
   "category": "blister",
   "name": "Roaring Skies 3 Pack Blister [Regirock]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586383
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3b33e0a5-2a3e-594b-a09b-9acf084e15fc",
       "name": "Roaring Skies 3 Pack Blister [Regirock]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "703d3615-3cc7-5a92-9bb1-ee08829c58fe",
       "name": "Tripack XY06 Regirock",
       "releaseDate": "2015-05-23",
       "contents": {

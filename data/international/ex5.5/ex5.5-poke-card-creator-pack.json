@@ -1,9 +1,11 @@
 {
   "id": "ex5.5-poke-card-creator-pack",
+  "uuid": "484f4d02-5c5b-5230-95c0-f27efe3f9ce9",
   "region": "international",
   "set": "ex5.5",
   "category": "other",
   "name": "Poke Card Creator Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 605997
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "835dbf9c-8455-5b76-bdce-35c7615fa413",
       "name": "Poke Card Creator Pack",
       "identifiers": {
         "tcgplayerProductIds": [

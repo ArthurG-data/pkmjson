@@ -1,9 +1,11 @@
 {
   "id": "smp-let-s-play-pokemon-tcg-box",
+  "uuid": "461aa646-26ad-5be2-bf7c-11c8fb46f312",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Let's Play Pokemon TCG Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7cea9694-3242-53ec-935c-7ea4d340c1f5",
       "name": "Let's Play Pokemon TCG Box",
       "releaseDate": "2019-12-06",
       "identifiers": {

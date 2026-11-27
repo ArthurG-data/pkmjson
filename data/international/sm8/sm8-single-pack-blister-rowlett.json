@@ -1,9 +1,11 @@
 {
   "id": "sm8-single-pack-blister-rowlett",
+  "uuid": "9d30f411-9920-50d2-8d47-efeb48eb545f",
   "region": "international",
   "set": "sm8",
   "category": "blister",
   "name": "Lost Thunder Single Pack Blister [Rowlett]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ccade2d-2aa2-5c67-a748-86dfc9c91c3f",
       "name": "Lost Thunder Single Pack Blister [Rowlett]",
       "releaseDate": "2018-11-02",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv05-pokemon-center-elite-trainer-box-case-exclusive-walking-wake",
+  "uuid": "a4d3ad37-6a68-5116-8f9e-73302876051d",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces Pokemon Center Elite Trainer Box Case (Exclusive) [Walking Wake]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1bef2386-d010-56d2-8a99-7c7644727238",
       "name": "Temporal Forces Pokemon Center Elite Trainer Box Case (Exclusive) [Walking Wake]",
       "identifiers": {
         "tcgplayerProductIds": [

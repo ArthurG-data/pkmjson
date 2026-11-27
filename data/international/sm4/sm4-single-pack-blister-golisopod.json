@@ -1,9 +1,11 @@
 {
   "id": "sm4-single-pack-blister-golisopod",
+  "uuid": "d8eb18f1-d78b-5694-a469-d31994a08ce5",
   "region": "international",
   "set": "sm4",
   "category": "blister",
   "name": "Crimson Invasion Single Pack Blister [Golisopod]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585984
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fa7f334a-805c-5cbe-82bb-531d8425ed9d",
       "name": "Crimson Invasion Single Pack Blister [Golisopod]",
       "identifiers": {
         "tcgplayerProductIds": [

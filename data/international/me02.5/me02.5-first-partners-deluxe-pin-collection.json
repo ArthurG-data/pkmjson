@@ -1,9 +1,11 @@
 {
   "id": "me02.5-first-partners-deluxe-pin-collection",
+  "uuid": "2a354622-59a6-58d7-8e97-c48821f8e41e",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Ascended Heroes First Partners Deluxe Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 864106
   },
@@ -52,6 +54,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ac28c823-4ada-5497-9de8-9edb16483e7a",
       "name": "Ascended Heroes First Partners Deluxe Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [

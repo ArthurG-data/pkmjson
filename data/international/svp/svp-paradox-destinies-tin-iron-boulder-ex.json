@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-destinies-tin-iron-boulder-ex",
+  "uuid": "6a37525b-8b43-5eb8-81a8-eda7d6a960aa",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Destinies Tin [Iron Boulder ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7563ff10-d67e-50ab-ad6b-54061e73243b",
       "name": "Paradox Destinies Tin [Iron Boulder ex]",
       "releaseDate": "2024-09-06",
       "identifiers": {

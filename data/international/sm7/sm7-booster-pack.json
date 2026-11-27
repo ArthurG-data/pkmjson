@@ -1,9 +1,11 @@
 {
   "id": "sm7-booster-pack",
+  "uuid": "758fd414-16e8-5291-8477-412983a52acc",
   "region": "international",
   "set": "sm7",
   "category": "booster_pack",
   "name": "Celestial Storm Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 357064
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "758b5bee-7068-54f9-946e-2cd46e9e2d48",
       "name": "Sun & Moon—Celestial Storm",
       "releaseDate": "2018-08-03",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d3284fac-d368-5940-b8fb-663140d01bdc",
       "name": "Soleil et Lune – Tempête Céleste",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_figurine_Necrozma_Ailes_de_l%27Aurore",
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "b973e1f1-291c-5dd5-acd3-f3f2daa469d4",
       "name": "Sonne & Mond – Sturm am Firmament",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-sonne-mond-sturm-am-firmament",
@@ -49,6 +54,7 @@
     },
     {
       "language": "es",
+      "uuid": "5f3463e1-ed18-5eca-a20d-0d305cda6c9c",
       "name": "Sol y Luna-Tormenta Celestial",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-sol-y-luna-tormenta-celestial",
@@ -57,6 +63,7 @@
     },
     {
       "language": "it",
+      "uuid": "5e3b1990-365e-5f51-9ae9-2758558252c2",
       "name": "Sole e Luna - Tempesta Astrale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-sole-e-luna-tempesta-astrale",

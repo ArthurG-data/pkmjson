@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-premium-figure-collection-shiny-zamazenta",
+  "uuid": "7c9c50f7-4664-5679-9fd9-723d2f56805f",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Premium Figure Collection [Shiny Zamazenta]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683027
   },
@@ -38,6 +40,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d929b772-c6b5-53b3-b5b9-983baeed1f09",
       "name": "Crown Zenith Premium Figure Collection [Shiny Zamazenta]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -51,6 +54,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a6a3b7fe-dfa9-5768-98a8-0291b0b5f6ad",
       "name": "Collection Premium avec figurine Zénith Suprême Zamazenta chromatique",
       "releaseDate": "2023-05-05",
       "sources": [
@@ -59,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "3dd6adc2-8390-5c86-8f08-9f3ded8a9596",
       "name": "Colección prémium Zacian variocolor o Zamazenta variocolor de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-zacian-variocolor-o-zamazenta-variocolor-de-cenit-supremo"
@@ -66,6 +71,7 @@
     },
     {
       "language": "it",
+      "uuid": "8df6ece5-5181-52ac-acf9-2d4bfea4ca6b",
       "name": "Collezione premium con statuina Zenit Regale - Zacian cromatico o Zamazenta cromatico",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-statuina-zenit-regale-zacian-cromatico-o-zamazenta-cromatico"
@@ -73,6 +79,7 @@
     },
     {
       "language": "de",
+      "uuid": "43e24418-b8b0-5a67-8e08-9bf60352f9c4",
       "name": "Premium-Kollektion Zenit der Könige: Schillerndes Zacian/Zamazenta",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-zenit-der-koenige-schillerndes-zacian-zamazenta"

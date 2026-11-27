@@ -1,9 +1,11 @@
 {
   "id": "xy3-theme-deck-dark-hammer-pangoro",
+  "uuid": "e528305a-5a15-5f5b-ab32-69bf68eeab16",
   "region": "international",
   "set": "xy3",
   "category": "theme_deck",
   "name": "Furious Fists Theme Deck - \"Dark Hammer\" [Pangoro]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286622
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f89d32a-954e-5eba-9773-6b843e87ff35",
       "name": "Furious Fists Theme Deck - \"Dark Hammer\" [Pangoro]",
       "identifiers": {
         "tcgplayerProductIds": [

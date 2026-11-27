@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-mini-tin-display",
+  "uuid": "06b38033-9cf5-5a9d-ba98-f61464ad141b",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683017
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5bd75f36-d8f7-5e81-a629-d285d800725d",
       "name": "Crown Zenith Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

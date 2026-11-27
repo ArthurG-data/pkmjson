@@ -1,9 +1,11 @@
 {
   "id": "xy3-booster-box",
+  "uuid": "0a6ca66c-ff87-501a-b43a-747572f90382",
   "region": "international",
   "set": "xy3",
   "category": "booster_box",
   "name": "Furious Fists Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271944
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "499f5fdf-14f3-50eb-943a-939815566469",
       "name": "Furious Fists Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

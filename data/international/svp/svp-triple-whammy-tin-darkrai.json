@@ -1,9 +1,11 @@
 {
   "id": "svp-triple-whammy-tin-darkrai",
+  "uuid": "f5bf24ff-df21-57e7-bf8f-1703853d9103",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Triple Whammy Tin [Darkrai]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a8d0cb7f-8194-592f-95dc-73f6755b02b3",
       "name": "Triple Whammy Tin [Darkrai]",
       "identifiers": {
         "tcgplayerProductIds": [

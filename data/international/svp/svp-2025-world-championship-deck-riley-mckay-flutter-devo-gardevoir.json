@@ -1,9 +1,11 @@
 {
   "id": "svp-2025-world-championship-deck-riley-mckay-flutter-devo-gardevoir",
+  "uuid": "11e39926-bf50-5e3e-b253-d5ac0bb547b5",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2025 World Championship Deck: Riley McKay (Flutter Devo Gardevoir)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "85fb05f4-bddf-5660-93b6-66b545ddd068",
       "name": "2025 World Championship Deck: Riley McKay (Flutter Devo Gardevoir)",
       "identifiers": {
         "tcgplayerProductIds": [

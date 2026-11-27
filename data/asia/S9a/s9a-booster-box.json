@@ -1,9 +1,11 @@
 {
   "id": "s9a-booster-box",
+  "uuid": "287d73db-332d-570f-b2ee-97964669de22",
   "region": "asia",
   "set": "S9a",
   "category": "booster_box",
   "name": "Battle Region Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 609612
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "161cccb2-704e-55bf-a751-7b1eb0796744",
       "name": "Battle Region Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

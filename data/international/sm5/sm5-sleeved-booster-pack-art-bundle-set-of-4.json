@@ -1,15 +1,18 @@
 {
   "id": "sm5-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "96a5454b-577c-51f1-a773-557bada30465",
   "region": "international",
   "set": "sm5",
   "category": "other",
   "name": "Ultra Prism Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "508ca63d-de8c-51af-8f2e-6e4489122f44",
       "name": "Ultra Prism Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

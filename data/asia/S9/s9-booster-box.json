@@ -1,9 +1,11 @@
 {
   "id": "s9-booster-box",
+  "uuid": "b9b37b75-e7d1-5468-bfe1-86a6fec54b05",
   "region": "asia",
   "set": "S9",
   "category": "booster_box",
   "name": "Star Birth Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 605851
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "93aa9acb-52b4-5dc3-ba21-0681139c6fe4",
       "name": "Star Birth Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

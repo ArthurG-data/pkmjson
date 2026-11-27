@@ -1,9 +1,11 @@
 {
   "id": "ex12-legend-maker-booster-box",
+  "uuid": "bc3ba129-ece6-5d53-afdd-87f6f780988d",
   "region": "international",
   "set": "ex12",
   "category": "booster_box",
   "name": "Legend Maker Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271916
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7e77ea5d-a05f-5ee2-8b6a-57e5fec5ccb8",
       "name": "Legend Maker Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

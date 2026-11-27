@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-pal-mini-tin-grookey-wooloo",
+  "uuid": "cd529636-76a5-5bbf-98e5-438e7ab6d9bf",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Pal Mini Tin [Grookey & Wooloo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "baa8dfa4-7c6e-5936-9d4f-c50e1941aab6",
       "name": "Galar Pal Mini Tin [Grookey & Wooloo]",
       "identifiers": {
         "tcgplayerProductIds": [

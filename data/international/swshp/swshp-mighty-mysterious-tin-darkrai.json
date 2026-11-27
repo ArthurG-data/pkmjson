@@ -1,9 +1,11 @@
 {
   "id": "swshp-mighty-mysterious-tin-darkrai",
+  "uuid": "b9f2d70b-823d-5564-99ac-d7adcd0ae765",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Mighty Mysterious Tin [Darkrai]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "28b859c9-94ed-58e0-adaa-ffd54f24972a",
       "name": "Mighty Mysterious Tin [Darkrai]",
       "identifiers": {
         "tcgplayerProductIds": [

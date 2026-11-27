@@ -1,9 +1,11 @@
 {
   "id": "sv01-booster-pack",
+  "uuid": "88879754-b059-51c2-90c0-2971546c1589",
   "region": "international",
   "set": "sv01",
   "category": "booster_pack",
   "name": "Scarlet & Violet Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692088
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0619d617-73c9-5ee3-8d03-2404abd0d5fa",
       "name": "Scarlet & Violet",
       "identifiers": {
         "tcgplayerProductIds": [

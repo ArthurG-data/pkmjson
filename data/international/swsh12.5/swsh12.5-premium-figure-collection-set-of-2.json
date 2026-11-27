@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-premium-figure-collection-set-of-2",
+  "uuid": "aa2a9eef-f2c4-5029-9926-56d41ef1372c",
   "region": "international",
   "set": "swsh12.5",
   "category": "other",
   "name": "Crown Zenith Premium Figure Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Shiny Zacian V or Shiny Zamazenta V; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2210018c-17f8-540e-9a2c-2bcc668c8398",
       "name": "Crown Zenith Premium Figure Collection [Set of 2]",
       "releaseDate": "2023-05-05",
       "identifiers": {

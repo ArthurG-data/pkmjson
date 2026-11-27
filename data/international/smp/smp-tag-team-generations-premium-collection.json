@@ -1,9 +1,11 @@
 {
   "id": "smp-tag-team-generations-premium-collection",
+  "uuid": "2ac5f2a8-44b1-56f5-b989-25ef8ceb7058",
   "region": "international",
   "set": "smp",
   "category": "premium_collection",
   "name": "TAG TEAM Generations Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1fb36ebd-9516-5f67-b89e-416fa4857060",
       "name": "TAG TEAM Generations Premium Collection",
       "releaseDate": "2019-11-22",
       "identifiers": {

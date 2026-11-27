@@ -1,15 +1,18 @@
 {
   "id": "xy1-garchomp-ex-box",
+  "uuid": "ae47031d-5cb1-5378-9c91-32b47590c886",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Garchomp EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional Garchomp EX card, both standard and Jumbo sized; 4 booster packs (3 XY; 1 Black & White).",
   "releases": [
     {
       "language": "en",
+      "uuid": "d3b4ff9a-ece7-5cbe-b333-53ba6233d6cb",
       "name": "Garchomp EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6f235602-5d95-5d50-813b-6ab9097dacfb",
       "name": "Coffret Carchacrok",
       "releaseDate": "2014-09-30",
       "contents": {

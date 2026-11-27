@@ -1,9 +1,11 @@
 {
   "id": "sv09-premium-checklane-blister-klinklang",
+  "uuid": "06119b3f-9e6b-5393-a10c-b6e91621738f",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together Premium Checklane Blister [Klinklang]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805590
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8914129e-6a95-5d5a-ab5e-8f7431c06ed0",
       "name": "Journey Together Premium Checklane Blister [Klinklang]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-lugia-ex-tyranitar-ex",
+  "uuid": "47c6d583-eb4f-53c9-919f-d59a8c7f1f8b",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Lugia ex & Tyranitar ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "540e24b7-2961-5632-a17e-812d160673df",
       "name": "スタートデッキGenerations ルギアex・バンギラスex",
       "releaseDate": "2024-11-22",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-paldea-collection-sprigatito-koraidon-ex",
+  "uuid": "6cf08088-2410-5296-b676-91fb41032161",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Paldea Collection [Sprigatito/Koraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aca13c4f-80eb-5d23-819b-cb44aedc748e",
       "name": "Paldea Collection [Sprigatito/Koraidon ex]",
       "releaseDate": "2023-01-06",
       "identifiers": {

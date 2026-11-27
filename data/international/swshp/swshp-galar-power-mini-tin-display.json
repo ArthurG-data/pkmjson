@@ -1,15 +1,18 @@
 {
   "id": "swshp-galar-power-mini-tin-display",
+  "uuid": "a6f759a8-a112-56cf-bf58-ff81e66520a2",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Galar Power Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2b9dc362-36ce-5a40-aca1-069a5e83ca05",
       "name": "Galar Power Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

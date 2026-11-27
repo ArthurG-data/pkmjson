@@ -1,9 +1,11 @@
 {
   "id": "sm3-single-pack-blister-jangmo-o",
+  "uuid": "eed05359-aee4-5678-a137-97d901e3240f",
   "region": "international",
   "set": "sm3",
   "category": "blister",
   "name": "Burning Shadows Single Pack Blister [Jangmo-o]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585989
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7023c6bd-ee4d-531a-a913-5c78c63d57b4",
       "name": "Burning Shadows Single Pack Blister [Jangmo-o]",
       "identifiers": {
         "tcgplayerProductIds": [

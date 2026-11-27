@@ -1,9 +1,11 @@
 {
   "id": "svp-evolving-powers-premium-collection-target-exclusive",
+  "uuid": "1f533c6c-d38c-5adc-a9ef-0f399d80ea85",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Evolving Powers Premium Collection (Target Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "32f93497-0e5c-5330-a2d6-382cd0016660",
       "name": "Evolving Powers Premium Collection (Target Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

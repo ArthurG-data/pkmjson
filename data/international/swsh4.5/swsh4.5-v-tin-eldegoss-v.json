@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-v-tin-eldegoss-v",
+  "uuid": "1659110a-56e5-59c8-9d66-d5d17f912783",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates V Tin [Eldegoss V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "35a709b6-5857-59c8-bae8-1c918feffded",
       "name": "Shining Fates V Tin [Eldegoss V]",
       "identifiers": {
         "tcgplayerProductIds": [

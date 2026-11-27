@@ -1,15 +1,18 @@
 {
   "id": "bw8-kanto-two-pack-blister-legendary-birds",
+  "uuid": "42783233-d3e8-5fe7-a4eb-f28650e2e339",
   "region": "international",
   "set": "bw8",
   "category": "blister",
   "name": "Kanto Two Pack Blister [Legendary Birds]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2fb4d511-8955-5464-8292-c8ccb3fedd84",
       "name": "Kanto Two Pack Blister [Legendary Birds]",
       "identifiers": {
         "tcgplayerProductIds": [

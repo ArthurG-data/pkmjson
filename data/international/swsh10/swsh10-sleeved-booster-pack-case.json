@@ -1,9 +1,11 @@
 {
   "id": "swsh10-sleeved-booster-pack-case",
+  "uuid": "f08cbbf5-dec6-5aca-8c64-ff601477f45d",
   "region": "international",
   "set": "swsh10",
   "category": "case",
   "name": "Astral Radiance Sleeved Booster Pack Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674721
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0a163554-1e70-54c3-9446-c91f5271d16f",
       "name": "Astral Radiance Sleeved Booster Pack Case",
       "identifiers": {
         "tcgplayerProductIds": [

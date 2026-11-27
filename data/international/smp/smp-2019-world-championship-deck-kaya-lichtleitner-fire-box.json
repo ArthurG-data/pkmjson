@@ -1,15 +1,18 @@
 {
   "id": "smp-2019-world-championship-deck-kaya-lichtleitner-fire-box",
+  "uuid": "08fa20cb-88e5-5f0a-b9dc-a9a268ed261b",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "2019 World Championship Deck: Kaya Lichtleitner (Fire Box)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b8f133ed-d1b3-51dd-be29-6300b7839b9d",
       "name": "2019 World Championship Deck: Kaya Lichtleitner (Fire Box)",
       "releaseDate": "2019-11-22",
       "identifiers": {

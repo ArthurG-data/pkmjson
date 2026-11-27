@@ -1,9 +1,11 @@
 {
   "id": "neo2-booster-pack-unlimited-edition",
+  "uuid": "a62af590-2492-5513-ae0e-06c5353de194",
   "region": "international",
   "set": "neo2",
   "category": "booster_pack",
   "name": "Neo Discovery Booster Pack [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "88a67355-debd-5e52-8709-0a52052d863d",
       "name": "Neo Discovery Booster Pack [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

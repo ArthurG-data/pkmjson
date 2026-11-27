@@ -1,9 +1,11 @@
 {
   "id": "xy1-kalos-starter-figure-box-fennekin-box",
+  "uuid": "f1cd5115-f6f8-5154-b079-53a3fb2df57d",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Kalos Starter Figure Box [Fennekin Box]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b9456edf-1eb0-560e-96c2-59e4f7f984bb",
       "name": "Kalos Starter Figure Box [Fennekin Box]",
       "identifiers": {
         "tcgplayerProductIds": [

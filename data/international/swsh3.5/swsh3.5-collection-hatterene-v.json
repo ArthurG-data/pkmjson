@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-collection-hatterene-v",
+  "uuid": "6b5774c4-f00b-5492-8f4d-49e800a2f424",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Collection [Hatterene V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 488254
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e122e02f-150b-5e96-8772-872979eca30f",
       "name": "Champion's Path Collection [Hatterene V]",
       "releaseDate": "2020-10-23",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "823d590d-19dd-5c99-b6a1-c3e2ddd3f37e",
       "name": "Collection La Voie du Maître Sorcilence",
       "releaseDate": "2020-10-23",
       "sources": [

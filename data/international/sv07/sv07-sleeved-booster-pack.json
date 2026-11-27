@@ -1,9 +1,11 @@
 {
   "id": "sv07-sleeved-booster-pack",
+  "uuid": "2bc1e3a5-ce73-5219-860d-f8e251b03001",
   "region": "international",
   "set": "sv07",
   "category": "sleeved_booster_pack",
   "name": "Stellar Crown Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776322
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "26c9758e-9a9b-50d8-9f48-39fddbb42725",
       "name": "Stellar Crown Sleeved Booster Pack",
       "releaseDate": "2024-09-13",
       "identifiers": {

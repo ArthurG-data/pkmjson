@@ -1,9 +1,11 @@
 {
   "id": "me01-elite-trainer-box-case",
+  "uuid": "29e41277-e84b-5a87-b035-8cbe571df86d",
   "region": "international",
   "set": "me01",
   "category": "case",
   "name": "Mega Evolution Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834810
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "54e35ef8-18ea-5962-a1d8-e113ff771028",
       "name": "Mega Evolution Elite Trainer Box Case",
       "releaseDate": "2025-09-26",
       "identifiers": {

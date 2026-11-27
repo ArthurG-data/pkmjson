@@ -1,9 +1,11 @@
 {
   "id": "sv01-single-pack-blister-espathra",
+  "uuid": "22aef70d-c29f-5398-a382-9a116e8c4df3",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet Single Pack Blister [Espathra]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692408
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "82cc214d-6b3b-5421-9f78-0e25dd3d90b3",
       "name": "Scarlet & Violet Single Pack Blister [Espathra]",
       "releaseDate": "2023-03-31",
       "identifiers": {

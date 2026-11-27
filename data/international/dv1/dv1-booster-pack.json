@@ -1,9 +1,11 @@
 {
   "id": "dv1-booster-pack",
+  "uuid": "49bf8ebe-f726-5129-b0c0-0eb6410ad7c7",
   "region": "international",
   "set": "dv1",
   "category": "booster_pack",
   "name": "Dragon Vault Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 463754
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bd5155f2-bb0b-5cce-bfd7-abe26da7e311",
       "name": "Dragon Vault",
       "identifiers": {
         "tcgplayerProductIds": [

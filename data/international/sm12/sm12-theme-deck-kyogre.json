@@ -1,9 +1,11 @@
 {
   "id": "sm12-theme-deck-kyogre",
+  "uuid": "aced6159-af00-5dd7-bb58-0b3721bc2568",
   "region": "international",
   "set": "sm12",
   "category": "theme_deck",
   "name": "Cosmic Eclipse Theme Deck [Kyogre]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0cc2aebe-686a-5a7a-8cfd-5442edf71abb",
       "name": "Cosmic Eclipse Theme Deck [Kyogre]",
       "releaseDate": "2019-11-01",
       "identifiers": {

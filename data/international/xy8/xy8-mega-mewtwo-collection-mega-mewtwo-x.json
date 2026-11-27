@@ -1,15 +1,18 @@
 {
   "id": "xy8-mega-mewtwo-collection-mega-mewtwo-x",
+  "uuid": "c105aaad-28cc-5f18-ba40-f53771ed900c",
   "region": "international",
   "set": "xy8",
   "category": "collection_box",
   "name": "Mega Mewtwo Collection [Mega Mewtwo X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "376fe374-5d5d-5aff-95e5-80a5c9c086d7",
       "name": "Mega Mewtwo Collection [Mega Mewtwo X]",
       "identifiers": {
         "tcgplayerProductIds": [

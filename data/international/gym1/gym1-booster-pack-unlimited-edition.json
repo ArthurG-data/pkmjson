@@ -1,9 +1,11 @@
 {
   "id": "gym1-booster-pack-unlimited-edition",
+  "uuid": "c31a8b97-00fb-549c-8607-7ab8565e7b8e",
   "region": "international",
   "set": "gym1",
   "category": "booster_pack",
   "name": "Gym Heroes Booster Pack [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "31c468a2-b9af-5c04-a54b-6155d8e9ef9f",
       "name": "Gym Heroes Booster Pack [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

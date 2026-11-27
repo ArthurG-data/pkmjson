@@ -1,9 +1,11 @@
 {
   "id": "gym2-booster-box-unlimited-edition",
+  "uuid": "40243cff-a7b2-55e8-accb-a0181d5aa940",
   "region": "international",
   "set": "gym2",
   "category": "booster_box",
   "name": "Gym Challenge Booster Box [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6c0f2b3c-f7fd-5c99-97ee-37063d617629",
       "name": "Gym Challenge Booster Box [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

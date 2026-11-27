@@ -1,15 +1,18 @@
 {
   "id": "xy1-two-pack-blister-dragon-trio",
+  "uuid": "38824cea-c90e-5c65-87f9-0c066152a4cc",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Two Pack Blister [Dragon Trio]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c35c9458-679c-5099-b6c3-135360b58224",
       "name": "XY Two Pack Blister [Dragon Trio]",
       "identifiers": {
         "tcgplayerProductIds": [

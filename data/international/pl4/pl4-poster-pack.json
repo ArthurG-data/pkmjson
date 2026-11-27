@@ -1,9 +1,11 @@
 {
   "id": "pl4-poster-pack",
+  "uuid": "1af0871a-4445-549e-b2c0-282ba876b921",
   "region": "international",
   "set": "pl4",
   "category": "other",
   "name": "Arceus Poster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "63269e37-4cfc-57a4-a3a1-f28b3cfa05e6",
       "name": "Arceus Poster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

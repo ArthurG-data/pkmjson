@@ -1,9 +1,11 @@
 {
   "id": "30th-ex-tin-greninja-ex-international-version",
+  "uuid": "01ba533e-59bc-5f78-9ba1-35b59c9ea5ec",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration ex Tin [Greninja ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3a674f1c-1f06-55ce-b9da-c09407c334c6",
       "name": "30th Celebration ex Tin [Greninja ex] (International Version)",
       "releaseDate": "2026-12-04",
       "identifiers": {

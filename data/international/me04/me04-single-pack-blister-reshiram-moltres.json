@@ -1,9 +1,11 @@
 {
   "id": "me04-single-pack-blister-reshiram-moltres",
+  "uuid": "0cb32819-427a-55e1-9aaf-8590cfb537f6",
   "region": "international",
   "set": "me04",
   "category": "blister",
   "name": "Chaos Rising Single Pack Blister [Reshiram/Moltres]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "211c4aef-e27c-5ac8-8c9d-2efa9026251f",
       "name": "Chaos Rising Single Pack Blister [Reshiram/Moltres]",
       "identifiers": {
         "tcgplayerProductIds": [

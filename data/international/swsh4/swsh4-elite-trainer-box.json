@@ -1,9 +1,11 @@
 {
   "id": "swsh4-elite-trainer-box",
+  "uuid": "42989fda-c286-5857-b780-ed0afe0b4036",
   "region": "international",
   "set": "swsh4",
   "category": "elite_trainer_box",
   "name": "Vivid Voltage Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 494499
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7757bede-c3c4-553b-ae58-9001fa9ba687",
       "name": "Vivid Voltage Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -70,6 +73,7 @@
     },
     {
       "language": "fr",
+      "uuid": "169d77f6-3991-536b-98ad-b46d1d23d619",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Voltage Éclatant",
       "releaseDate": "2020-11-13",
       "sources": [
@@ -78,6 +82,7 @@
     },
     {
       "language": "es",
+      "uuid": "37b9fd5a-1884-5a07-b7a0-74547b2f9156",
       "name": "Caja de Entrenador Élite de Espada y Escudo-Voltaje Vívido",
       "releaseDate": "2020-11-13",
       "sources": [
@@ -86,6 +91,7 @@
     },
     {
       "language": "de",
+      "uuid": "cd1c89d1-f75e-50cb-82bd-d4cc191cb7ad",
       "name": "Top-Trainer-Box der Erweiterung Schwert & Schild – Farbenschock",
       "releaseDate": "2020-11-13",
       "sources": [

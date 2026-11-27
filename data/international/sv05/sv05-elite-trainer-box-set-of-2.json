@@ -1,15 +1,18 @@
 {
   "id": "sv05-elite-trainer-box-set-of-2",
+  "uuid": "16b8f675-f0c5-5991-9aaf-be8a48d983e6",
   "region": "international",
   "set": "sv05",
   "category": "other",
   "name": "Temporal Forces Elite Trainer Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Walking Wake or Walking Wake; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dcc289a3-4ca7-511c-b661-508565eb9386",
       "name": "Temporal Forces Elite Trainer Box [Set of 2]",
       "releaseDate": "2024-03-22",
       "identifiers": {

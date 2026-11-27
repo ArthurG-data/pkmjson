@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-partners-tin-meowscarada-ex-international-edition",
+  "uuid": "9b6e80db-6708-57fb-9c51-f99f5e02367c",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Partners Tin [Meowscarada ex] [International Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6d48736e-bd5c-5bf4-85a8-58760e4f3ed9",
       "name": "Paldea Partners Tin [Meowscarada ex] [International Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

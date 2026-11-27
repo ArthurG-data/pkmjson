@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-mini-tin-smoliv",
+  "uuid": "c1f70dd2-ef28-554e-90a0-9ab36bfdf577",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Mini Tin [Smoliv]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745558
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "82fa10bf-2aa1-5977-b2e8-733e72f96c0c",
       "name": "Paldean Fates Mini Tin [Smoliv]",
       "releaseDate": "2024-02-09",
       "identifiers": {

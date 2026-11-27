@@ -1,9 +1,11 @@
 {
   "id": "sv06-build-battle-box",
+  "uuid": "94cf9a7f-48a9-5fa4-82d9-793f9dddcf8f",
   "region": "international",
   "set": "sv06",
   "category": "build_and_battle_box",
   "name": "Twilight Masquerade Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761222
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c08f6022-337c-5aa5-be2e-709e0b461516",
       "name": "Twilight Masquerade Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

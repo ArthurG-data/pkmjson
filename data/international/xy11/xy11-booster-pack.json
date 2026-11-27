@@ -1,9 +1,11 @@
 {
   "id": "xy11-booster-pack",
+  "uuid": "48981e35-6793-5587-a13f-40ae0157ac22",
   "region": "international",
   "set": "xy11",
   "category": "booster_pack",
   "name": "Steam Siege Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 290087
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "397f0e36-737d-5703-a3e4-84573b273f97",
       "name": "XY—Steam Siege",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2fd4508e-a657-57ee-9089-0b59b61f3ee2",
       "name": "XY – Offensive Vapeur",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Lougaroc-GX",

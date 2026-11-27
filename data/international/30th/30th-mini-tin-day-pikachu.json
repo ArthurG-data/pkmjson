@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-day-pikachu",
+  "uuid": "0b795202-b918-50c1-80a7-676be9a04c79",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Day Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "067ec94f-58c0-53b8-95aa-81e2763c3ef4",
       "name": "30th Celebration Mini Tin [Day Pikachu]",
       "releaseDate": "2026-10-02",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "svp-mabosstiff-ex-box-case",
+  "uuid": "d32f5028-42c8-554e-8750-5d40303eccd0",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Mabosstiff ex Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "413b03dc-3342-550f-a9db-c6916bf47367",
       "name": "Mabosstiff ex Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

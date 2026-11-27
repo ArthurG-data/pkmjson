@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-super-premium-collection-case",
+  "uuid": "d262022d-c5bc-5490-ba13-16b346a2a020",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Super-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1e38557a-ceed-5253-91df-2a9f1f3c2359",
       "name": "Prismatic Evolutions Super-Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

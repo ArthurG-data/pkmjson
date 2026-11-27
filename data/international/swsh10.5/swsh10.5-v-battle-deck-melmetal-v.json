@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-v-battle-deck-melmetal-v",
+  "uuid": "da6824d7-ca4e-58c4-9921-a0900cdfcc9d",
   "region": "international",
   "set": "swsh10.5",
   "category": "battle_deck",
   "name": "V Battle Deck [Melmetal V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a4f833d-ad79-5b70-85c6-abfd612acaf3",
       "name": "V Battle Deck [Melmetal V]",
       "releaseDate": "2022-07-01",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sm1-legends-of-alola-tin-solgaleo-gx",
+  "uuid": "c8cfe55d-9399-5325-8b8c-62b3d4217ed3",
   "region": "international",
   "set": "sm1",
   "category": "tin",
   "name": "Legends of Alola Tin [Solgaleo GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2a653fc8-afd6-588e-a2d7-e68d56e3240a",
       "name": "Legends of Alola Tin [Solgaleo GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b052972b-83f7-5692-b644-8c256c2b24ea",
       "name": "Boîte Légendes d'Alola Solgaleo",
       "releaseDate": "2017-03-18",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh4.5-collection-pikachu-v-case",
+  "uuid": "39d4b320-8657-54da-8523-7ac1bd9d9d11",
   "region": "international",
   "set": "swsh4.5",
   "category": "case",
   "name": "Shining Fates Collection Pikachu V Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "49016bbd-1718-5618-8eb3-16d8cb6ddfbf",
       "name": "Shining Fates Collection Pikachu V Case",
       "identifiers": {
         "tcgplayerProductIds": [

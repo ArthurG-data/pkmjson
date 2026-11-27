@@ -1,9 +1,11 @@
 {
   "id": "swshp-vaporeon-vmax-premium-collection",
+  "uuid": "4c4cbbe4-2c08-5d24-bbc1-e66d3f2bc60a",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Vaporeon VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "190999e6-3671-557c-8e58-17f2dd822a4b",
       "name": "Vaporeon VMAX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

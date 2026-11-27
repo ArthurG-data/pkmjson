@@ -1,9 +1,11 @@
 {
   "id": "sm5-booster-pack",
+  "uuid": "8e53829d-c8fb-5687-94e4-5008fd4991ca",
   "region": "international",
   "set": "sm5",
   "category": "booster_pack",
   "name": "Ultra Prism Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 315122
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e1789962-167c-5676-ac94-7eca6ed3ae86",
       "name": "Sun & Moon—Ultra Prism",
       "releaseDate": "2018-02-02",
       "identifiers": {

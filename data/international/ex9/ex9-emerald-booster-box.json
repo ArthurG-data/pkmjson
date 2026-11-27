@@ -1,9 +1,11 @@
 {
   "id": "ex9-emerald-booster-box",
+  "uuid": "34fe7603-5159-5b79-91be-1005ae72dbc1",
   "region": "international",
   "set": "ex9",
   "category": "booster_box",
   "name": "Emerald Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271912
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd9310f2-42f7-51c8-8c84-f46cfc0b1a38",
       "name": "Emerald Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy1-kalos-starter-figure-box-chespin-box",
+  "uuid": "f10bdda8-a34b-5d97-96bf-7a8c406d31bc",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Kalos Starter Figure Box [Chespin Box]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6d6dd5f3-9044-5dfa-b890-6e6d1dd77908",
       "name": "Kalos Starter Figure Box [Chespin Box]",
       "identifiers": {
         "tcgplayerProductIds": [

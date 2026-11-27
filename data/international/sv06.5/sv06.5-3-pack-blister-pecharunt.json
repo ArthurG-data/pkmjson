@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-3-pack-blister-pecharunt",
+  "uuid": "d209d595-d547-5151-86bd-dd399acab18c",
   "region": "international",
   "set": "sv06.5",
   "category": "blister",
   "name": "Shrouded Fable 3 Pack Blister [Pecharunt]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770957
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1546b6fd-54cd-5230-b785-04fdcd0aabff",
       "name": "Shrouded Fable 3 Pack Blister [Pecharunt]",
       "releaseDate": "2024-08-02",
       "identifiers": {

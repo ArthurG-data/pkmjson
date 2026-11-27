@@ -1,15 +1,18 @@
 {
   "id": "det1-on-the-case-figure-collection",
+  "uuid": "fa0bd2a2-e1a8-5996-b285-eb3b86a681ff",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu On the Case Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b12f0351-e9e9-5d7b-917f-9e23e646fce4",
       "name": "Detective Pikachu On the Case Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm5-booster-box",
+  "uuid": "1406df11-303c-52d9-87ca-efa5ba61656f",
   "region": "international",
   "set": "sm5",
   "category": "booster_box",
   "name": "Ultra Prism Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 315121
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9b31fb16-d7a4-54c4-9e15-6ab83a8e6c9b",
       "name": "Ultra Prism Booster Box",
       "releaseDate": "2018-02-02",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv01-fun-pack",
+  "uuid": "07226d5a-e141-577f-9a2e-6fed10400c16",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 random cards.",
   "releases": [
     {
       "language": "en",
+      "uuid": "eba35bf0-7039-5bb9-afa2-e857c423681d",
       "name": "Scarlet & Violet Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

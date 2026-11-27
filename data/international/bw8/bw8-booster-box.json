@@ -1,9 +1,11 @@
 {
   "id": "bw8-booster-box",
+  "uuid": "7635bb3e-4582-57cc-8e44-0bf5c062943d",
   "region": "international",
   "set": "bw8",
   "category": "booster_box",
   "name": "Plasma Storm Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271899
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8258160d-7cd4-54b2-a8b7-d110e0244530",
       "name": "Plasma Storm Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

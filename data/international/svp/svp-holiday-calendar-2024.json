@@ -1,9 +1,11 @@
 {
   "id": "svp-holiday-calendar-2024",
+  "uuid": "0f5614b5-bdee-560e-9a27-170b1bee2c22",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Holiday Calendar 2024",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "00f07bff-1d96-5404-adae-022d514382f7",
       "name": "Holiday Calendar 2024",
       "releaseDate": "2024-08-23",
       "identifiers": {

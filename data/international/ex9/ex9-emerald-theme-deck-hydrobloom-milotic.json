@@ -1,9 +1,11 @@
 {
   "id": "ex9-emerald-theme-deck-hydrobloom-milotic",
+  "uuid": "5d48e1a6-3a9e-5c47-ad40-1625c9973a96",
   "region": "international",
   "set": "ex9",
   "category": "theme_deck",
   "name": "Emerald Theme Deck - \"Hydrobloom\" [Milotic]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286629
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7c16ed12-11e1-5bde-8c14-cbef34e3608a",
       "name": "Emerald Theme Deck - \"Hydrobloom\" [Milotic]",
       "identifiers": {
         "tcgplayerProductIds": [

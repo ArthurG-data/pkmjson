@@ -1,15 +1,18 @@
 {
   "id": "sm9-tag-team-tin-case",
+  "uuid": "c6a006c2-e830-5836-adf3-f183c999fb79",
   "region": "international",
   "set": "sm9",
   "category": "case",
   "name": "TAG TEAM Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5caafb21-eb49-58ae-aae2-43beb250ce71",
       "name": "TAG TEAM Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

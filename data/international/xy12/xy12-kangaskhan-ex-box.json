@@ -1,15 +1,18 @@
 {
   "id": "xy12-kangaskhan-ex-box",
+  "uuid": "ba0891f7-3be6-5e6b-8d9b-f0050e624e6c",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Kangaskhan EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d08ab697-3e1b-5185-b546-ed65f65ab7da",
       "name": "Kangaskhan EX Box",
       "identifiers": {
         "tcgplayerProductIds": [

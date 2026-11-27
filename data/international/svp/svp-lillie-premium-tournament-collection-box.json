@@ -1,9 +1,11 @@
 {
   "id": "svp-lillie-premium-tournament-collection-box",
+  "uuid": "1ae5459b-5d99-51e0-82d6-c58416847e1f",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Lillie Premium Tournament Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -51,6 +53,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d6e1ba7f-bbf0-5b82-8ec1-3b7b21b5c0db",
       "name": "Lillie Premium Tournament Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -63,6 +66,7 @@
     },
     {
       "language": "de",
+      "uuid": "132ea35d-f3cf-5382-b42c-3e05a12cf621",
       "name": "Premium-Turnierkollektion Lilly",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-turnierkollektion-lilly"
@@ -70,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e3a26a3b-e5da-530e-9fc9-af7cba20dd88",
       "name": "Collection Tournoi Premium – Lilie",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-tournoi-premium-lilie"
@@ -77,6 +82,7 @@
     },
     {
       "language": "it",
+      "uuid": "bfa2b9a9-2152-5325-abd6-3a0de9725486",
       "name": "Collezione torneo premium Lylia",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-torneo-premium-lylia"

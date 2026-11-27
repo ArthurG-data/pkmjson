@@ -1,9 +1,11 @@
 {
   "id": "swsh5-premium-checklane-blister-tyranitar",
+  "uuid": "d5f9bae5-9fd3-5bbc-9df1-54a1a6dd7923",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles Premium Checklane Blister [Tyranitar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585731
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c5afe63a-4855-57a0-8740-6ddc23628d6c",
       "name": "Battle Styles Premium Checklane Blister [Tyranitar]",
       "releaseDate": "2021-03-19",
       "identifiers": {

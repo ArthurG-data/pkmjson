@@ -1,9 +1,11 @@
 {
   "id": "sv06-premium-checklane-blister-steelix",
+  "uuid": "82104a4e-d294-5d68-9285-e0e25c5f89f7",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade Premium Checklane Blister [Steelix]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c1936efe-420e-5aea-b902-1186567bb9c8",
       "name": "Twilight Masquerade Premium Checklane Blister [Steelix]",
       "identifiers": {
         "tcgplayerProductIds": [

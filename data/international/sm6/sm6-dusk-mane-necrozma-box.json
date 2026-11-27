@@ -1,9 +1,11 @@
 {
   "id": "sm6-dusk-mane-necrozma-box",
+  "uuid": "e3ec3a43-4eda-58a2-af90-533cdb54d28d",
   "region": "international",
   "set": "sm6",
   "category": "collection_box",
   "name": "Dusk Mane Necrozma Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d17dfb99-85aa-5023-8c1c-e9e2f9e6ed99",
       "name": "Dusk Mane Necrozma Box",
       "identifiers": {
         "tcgplayerProductIds": [

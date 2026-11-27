@@ -1,9 +1,11 @@
 {
   "id": "s6h-booster-pack",
+  "uuid": "888de150-d6ec-5962-b5c2-d32debe5f4b3",
   "region": "asia",
   "set": "S6H",
   "category": "booster_pack",
   "name": "Silver Lance Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557966
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f5f46533-4996-5c1d-b8cb-fa9faf81a04e",
       "name": "拡張パック「白銀のランス」",
       "releaseDate": "2021-04-23",
       "identifiers": {

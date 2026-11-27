@@ -1,15 +1,18 @@
 {
   "id": "swsh12-fall-2022-collector-chest-case",
+  "uuid": "feae3a29-5bb9-5b99-a555-57651c2fe0a3",
   "region": "international",
   "set": "swsh12",
   "category": "case",
   "name": "Fall 2022 Collector Chest Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "603b9bb9-13b6-5314-bb1b-8dbdd3f9af4b",
       "name": "Fall 2022 Collector Chest Case",
       "releaseDate": "2022-11-18",
       "identifiers": {

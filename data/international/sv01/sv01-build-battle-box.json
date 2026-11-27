@@ -1,9 +1,11 @@
 {
   "id": "sv01-build-battle-box",
+  "uuid": "a47e69fc-8bbb-52e9-be23-94f1c4759d28",
   "region": "international",
   "set": "sv01",
   "category": "build_and_battle_box",
   "name": "Scarlet & Violet Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692099
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ea9b2f1-743f-59e9-a8e5-63fc1494c695",
       "name": "Scarlet & Violet Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv10-fun-pack",
+  "uuid": "28d247d1-3f3e-59df-81db-15847b055178",
   "region": "international",
   "set": "sv10",
   "category": "other",
   "name": "Destined Rivals Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "03bd4ab5-67f7-5439-88b2-a3498bf49468",
       "name": "Destined Rivals Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

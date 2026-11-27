@@ -1,9 +1,11 @@
 {
   "id": "xy8-3-pack-blister-xerneas",
+  "uuid": "f6f54bca-2e22-507a-8e1f-ca2c5e15c40d",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "XY 3 Pack Blister [Xerneas]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e6d2493-8fe1-5668-b9a3-83ed551b7a8f",
       "name": "XY 3 Pack Blister [Xerneas]",
       "identifiers": {
         "tcgplayerProductIds": [

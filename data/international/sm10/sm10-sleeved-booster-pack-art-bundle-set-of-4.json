@@ -1,15 +1,18 @@
 {
   "id": "sm10-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "e33675ba-e989-5dbc-83ce-b91a5bb8ad51",
   "region": "international",
   "set": "sm10",
   "category": "other",
   "name": "Unbroken Bonds Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "91898d10-e45a-5971-b36d-18f872f85568",
       "name": "Unbroken Bonds Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-corviknight-v",
+  "uuid": "2d0e7b32-ce0a-53a0-8643-20eaaa37a40d",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Corviknight V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1a3ce727-99de-5cfe-82a8-75379e66bf7c",
       "name": "V Battle Deck [Corviknight V]",
       "releaseDate": "2022-03-01",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f4f1a061-4155-59a7-a2db-597851e9a3fe",
       "name": "Deck Combat-V – Corvaillus-V",
       "releaseDate": "2022-02-25",
       "sources": [
@@ -66,6 +70,7 @@
     },
     {
       "language": "de",
+      "uuid": "1dd98d29-8195-55d2-b544-b0160dfce180",
       "name": "V-Kampfdeck Krarmor-V",
       "releaseDate": "2022-02-25",
       "sources": [

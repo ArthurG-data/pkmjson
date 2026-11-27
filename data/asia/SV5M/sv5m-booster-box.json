@@ -1,9 +1,11 @@
 {
   "id": "sv5m-booster-box",
+  "uuid": "ed498e22-b784-5ca7-bb72-a1900d42d4f5",
   "region": "asia",
   "set": "SV5M",
   "category": "booster_box",
   "name": "Cyber Judge Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 749456
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e3844722-63fc-5f29-810a-2d4eee8e4e8e",
       "name": "Cyber Judge Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

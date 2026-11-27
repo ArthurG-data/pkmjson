@@ -1,9 +1,11 @@
 {
   "id": "ex10-unseen-forces-booster-pack",
+  "uuid": "74c5f181-8eea-56db-842c-bbd3b36f13c3",
   "region": "international",
   "set": "ex10",
   "category": "booster_pack",
   "name": "Unseen Forces Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271870
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0b1cb669-9841-5014-90be-e982988fe7b5",
       "name": "EX Unseen Forces",
       "identifiers": {
         "tcgplayerProductIds": [

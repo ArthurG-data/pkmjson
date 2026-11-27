@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-zapdos",
+  "uuid": "37d3ae05-67f4-57bd-bd81-46e751c8e0d8",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Zapdos]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e28d009a-9166-5d8a-9dfb-f9e7fa3a72a5",
       "name": "30th Celebration Mini Tin [Zapdos]",
       "releaseDate": "2026-10-02",
       "identifiers": {

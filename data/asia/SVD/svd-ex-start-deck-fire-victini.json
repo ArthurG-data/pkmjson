@@ -1,9 +1,11 @@
 {
   "id": "svd-ex-start-deck-fire-victini",
+  "uuid": "a876c680-e76e-59c7-9c7e-6bf37ce4f37f",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Fire Victini",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 712634
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "97017d73-22fc-5a99-91a5-2dfe47e7a222",
       "name": "exスタートデッキ 炎 ビクティニ",
       "releaseDate": "2023-07-07",
       "identifiers": {

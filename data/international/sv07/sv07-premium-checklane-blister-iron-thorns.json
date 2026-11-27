@@ -1,9 +1,11 @@
 {
   "id": "sv07-premium-checklane-blister-iron-thorns",
+  "uuid": "564dd338-d40d-5378-90ec-cc3d3d55af5d",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown Premium Checklane Blister [Iron Thorns]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d49623e-f115-5334-a257-a725df2fc978",
       "name": "Stellar Crown Premium Checklane Blister [Iron Thorns]",
       "identifiers": {
         "tcgplayerProductIds": [

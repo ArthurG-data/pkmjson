@@ -1,9 +1,11 @@
 {
   "id": "sv10-single-pack-blister-eevee",
+  "uuid": "74ea5a9a-ae32-54f7-9cd3-79929ad13e10",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals Single Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 826144
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a3b7c93b-fd50-56da-aea4-31a6f53132b2",
       "name": "Destined Rivals Single Pack Blister [Eevee]",
       "releaseDate": "2025-05-30",
       "identifiers": {

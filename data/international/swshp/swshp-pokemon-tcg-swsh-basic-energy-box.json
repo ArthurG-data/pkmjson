@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-tcg-swsh-basic-energy-box",
+  "uuid": "8c24ddb8-ca43-5ae4-af75-4dd3449e36ca",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Pokemon TCG: SWSH Basic Energy Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f51e42d-1431-5dfb-a010-ad10964e5c91",
       "name": "Pokemon TCG: SWSH Basic Energy Box",
       "identifiers": {
         "tcgplayerProductIds": [

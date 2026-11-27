@@ -1,9 +1,11 @@
 {
   "id": "bw7-theme-deck-cold-fire-white-kyurem",
+  "uuid": "4b0c8381-3951-5601-bc1d-4ae7ef3d9d25",
   "region": "international",
   "set": "bw7",
   "category": "theme_deck",
   "name": "Boundaries Crossed Theme Deck - \"Cold Fire\" [White Kyurem]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286557
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7cf72375-32a8-5a31-812d-cf3df3f17c17",
       "name": "Boundaries Crossed Theme Deck - \"Cold Fire\" [White Kyurem]",
       "identifiers": {
         "tcgplayerProductIds": [

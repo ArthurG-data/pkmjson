@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-stacking-tin-grass",
+  "uuid": "036a70bb-4128-583e-a17f-849c2b0048e9",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Grass",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51ef6427-91d1-5679-8591-86c8e4137d88",
       "name": "Pokemon Stacking Tin: Grass",
       "identifiers": {
         "tcgplayerProductIds": [

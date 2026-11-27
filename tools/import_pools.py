@@ -15,12 +15,24 @@ repairs a file another tool rewrote. import_tcgplayer.py also keeps a pool it fi
 from __future__ import annotations
 
 import argparse
-import json
 import sys
 from pathlib import Path
 
-from import_tcgplayer import TCGDEX_API, Fetcher
-from pkmjson import PACK_CATEGORIES, ROOT, Family, load, validate
+import uuids
+from net import Fetcher
+from pkmjson import (
+    MAPPINGS,
+    PACK_CATEGORIES,
+    REVIEW,
+    ROOT,
+    TCGDEX_API,
+    Family,
+    load,
+    read_json,
+    validate,
+    write_family,
+    write_json,
+)
 
 TCGDEX_LANGUAGE = {"international": "en", "asia": "ja"}
 OUT_OF_SCOPE = "Which cards a pack can hold is out of scope for this dataset."
@@ -76,13 +88,16 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--data", default=ROOT / "data", type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
+    parser.add_argument("--review", default=REVIEW, type=Path)
+    parser.add_argument("--refresh", action="store_true", help="fetch every page again")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
-    fetcher = Fetcher(args.cache)
-    mapping = json.loads((ROOT / "mappings" / "pack_pools.json").read_text(encoding="utf-8"))
+    fetcher = Fetcher(args.cache, refresh=args.refresh)
+    mapping = read_json(MAPPINGS / "pack_pools.json")
     tcgdex = {region: {s["id"] for s in fetcher.get(f"{TCGDEX_API}/{lang}/sets") or []}
               for region, lang in TCGDEX_LANGUAGE.items()}
-    packs = [f for f in load(args.data) if f.data["category"] in PACK_CATEGORIES]
+    families = load(args.data)
+    packs = [f for f in families if f.data["category"] in PACK_CATEGORIES]
     if errors := check_mapping(mapping, tcgdex, {f.data["id"]: f.data["region"] for f in packs}):
         print("\n".join(errors), file=sys.stderr)
         return 1
@@ -105,12 +120,10 @@ def main(argv: list[str] | None = None) -> int:
           f"{len(changed)} files changed")
     if args.dry_run:
         return 0
+    uuids.stamp([*(f for f in families if f.path not in {c.path for c in changed}), *changed])
     for family in changed:
-        family.path.write_text(json.dumps(family.data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    review_path = ROOT / "review" / "pack-pools.json"
-    review_path.parent.mkdir(parents=True, exist_ok=True)
-    review_path.write_text(json.dumps({"skipped": sorted(review, key=lambda r: r["family"])}, ensure_ascii=False,
-                                      indent=1) + "\n", encoding="utf-8")
+        write_family(family)
+    write_json(args.review / "pack-pools.json", {"skipped": sorted(review, key=lambda r: r["family"])}, indent=1)
     errors = validate(load(args.data), args.data)
     if errors:
         print("\n".join(errors[:50]), file=sys.stderr)

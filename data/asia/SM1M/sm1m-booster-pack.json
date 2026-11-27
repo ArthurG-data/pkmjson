@@ -1,9 +1,11 @@
 {
   "id": "sm1m-booster-pack",
+  "uuid": "39dc8c6b-73bb-588f-b463-637d0ed9935c",
   "region": "asia",
   "set": "SM1M",
   "category": "booster_pack",
   "name": "Collection Moon Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551961
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "92f7e62f-03f4-5dc3-ace4-e3fa13292a09",
       "name": "拡張パック「コレクション ムーン」",
       "releaseDate": "2016-12-09",
       "identifiers": {

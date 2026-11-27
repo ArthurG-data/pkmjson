@@ -1,9 +1,11 @@
 {
   "id": "sm1-base-set-3-pack-blister-togedemaru",
+  "uuid": "dae5a55f-f59c-5cd7-a53f-3ecf67a2609a",
   "region": "international",
   "set": "sm1",
   "category": "blister",
   "name": "Sun & Moon Base Set 3 Pack Blister [Togedemaru]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0cb4957f-f096-5993-867e-e114ac0e4bcc",
       "name": "Sun & Moon Base Set 3 Pack Blister [Togedemaru]",
       "identifiers": {
         "tcgplayerProductIds": [

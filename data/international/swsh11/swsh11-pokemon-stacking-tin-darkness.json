@@ -1,9 +1,11 @@
 {
   "id": "swsh11-pokemon-stacking-tin-darkness",
+  "uuid": "d5ce0002-adb0-556a-a9da-55a291e793dd",
   "region": "international",
   "set": "swsh11",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Darkness",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02788615-9ea9-5415-a148-64b2bee12f2f",
       "name": "Pokemon Stacking Tin: Darkness",
       "releaseDate": "2022-10-28",
       "identifiers": {

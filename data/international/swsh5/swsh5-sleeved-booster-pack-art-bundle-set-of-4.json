@@ -1,15 +1,18 @@
 {
   "id": "swsh5-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "592d59f2-0c1b-511b-8612-7ddbfd312105",
   "region": "international",
   "set": "swsh5",
   "category": "other",
   "name": "Battle Styles Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5019ec95-4bce-5665-8f45-0c7a911bab26",
       "name": "Battle Styles Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

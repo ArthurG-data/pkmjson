@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-power-mini-tin-mew",
+  "uuid": "b9d83bdb-f17a-5b6e-9a74-c0eee2439928",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Power Mini Tin [Mew]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4e2774aa-bc14-59d5-bb98-49913eb67008",
       "name": "Kanto Power Mini Tin [Mew]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "base5-booster-pack-1st-edition",
+  "uuid": "7c5de02f-621c-5656-9356-70b4bd6eb6b5",
   "region": "international",
   "set": "base5",
   "category": "booster_pack",
   "name": "Team Rocket Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aef8c984-b9b1-5c72-b2a9-c4fec1ff6487",
       "name": "Team Rocket Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

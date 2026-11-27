@@ -1,15 +1,18 @@
 {
   "id": "xy7-powers-beyond-tin-hoopa-ex",
+  "uuid": "ea678709-03d2-58a9-afaa-9cf898a6a251",
   "region": "international",
   "set": "xy7",
   "category": "tin",
   "name": "Powers Beyond Tin [Hoopa EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3d9af846-2490-56f3-a368-57d7364f0337",
       "name": "Powers Beyond Tin [Hoopa EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "76054ebd-dea3-57fa-a508-9d07806e1559",
       "name": "Boîte Puissance d'un autre monde Hoopa",
       "releaseDate": "2015-11-11",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "sv01-booster-box",
+  "uuid": "59e9490c-5026-57b0-a944-c452a8405922",
   "region": "international",
   "set": "sv01",
   "category": "booster_box",
   "name": "Scarlet & Violet Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692092
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4cef6f67-e559-5a6e-a646-d95c4d00d820",
       "name": "Scarlet & Violet Booster Box",
       "releaseDate": "2023-03-31",
       "identifiers": {

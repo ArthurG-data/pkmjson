@@ -1,15 +1,18 @@
 {
   "id": "sm11-power-partnership-tin-set-of-3",
+  "uuid": "feddaa67-5ac5-53a7-999a-6494496eeeb3",
   "region": "international",
   "set": "sm11",
   "category": "other",
   "name": "Power Partnership Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 holofoil TAG TEAM GX special art promo of the featured TAG TEAM card; 4 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2d7b5d55-6354-56fe-a47b-763cb9a3d738",
       "name": "Power Partnership Tin [Set of 3]",
       "releaseDate": "2019-09-06",
       "identifiers": {

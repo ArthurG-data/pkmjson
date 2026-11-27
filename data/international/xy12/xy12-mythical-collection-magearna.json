@@ -1,15 +1,18 @@
 {
   "id": "xy12-mythical-collection-magearna",
+  "uuid": "4a2f80c6-99b1-5b0a-8bbf-583a822e1aac",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Mythical Collection [Magearna]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3580b326-baa3-582b-b652-383727e0e803",
       "name": "Mythical Collection [Magearna]",
       "identifiers": {
         "tcgplayerProductIds": [

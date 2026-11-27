@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-noivern-v",
+  "uuid": "6ab5409d-a46e-5553-bee1-5dc63522722d",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Noivern V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5686ddde-b503-5f1e-be19-f15c4fe07a2f",
       "name": "V Battle Deck [Noivern V]",
       "releaseDate": "2021-10-08",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "01c20129-d1d2-5e80-bc02-51404cfeee08",
       "name": "V-Kampfdeck UHaFnir-V",
       "releaseDate": "2021-10-08",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-dusk-ball",
+  "uuid": "7b22859a-84cd-5a04-80f0-b22d5276dfbe",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Dusk Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ebd5e53-bf10-52a8-9d2f-2a80a631c59e",
       "name": "Pokemon - Poke Ball Tin - Dusk Ball",
       "identifiers": {
         "tcgplayerProductIds": [

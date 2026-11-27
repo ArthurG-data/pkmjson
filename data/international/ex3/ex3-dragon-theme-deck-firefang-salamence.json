@@ -1,9 +1,11 @@
 {
   "id": "ex3-dragon-theme-deck-firefang-salamence",
+  "uuid": "d01e51b9-02d9-5d3d-b48c-8e34f4c9e90b",
   "region": "international",
   "set": "ex3",
   "category": "theme_deck",
   "name": "Dragon Theme Deck - \"FireFang\" [Salamence]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286517
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3d2dfba9-67dd-5138-bba8-54232af1075d",
       "name": "Dragon Theme Deck - \"FireFang\" [Salamence]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-morpeko-v-union-premium-treasures-collection",
+  "uuid": "476eb770-7daf-5245-9d57-83dca4ef80ee",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Morpeko V-UNION Premium Treasures Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 801883
   },
@@ -38,6 +40,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c0b9b57a-0656-5dec-842d-5dc25dfa7cef",
       "name": "Morpeko V-UNION Premium Treasures Collection",
       "identifiers": {
         "tcgplayerProductIds": [

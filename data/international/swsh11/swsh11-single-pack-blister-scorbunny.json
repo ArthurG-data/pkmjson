@@ -1,9 +1,11 @@
 {
   "id": "swsh11-single-pack-blister-scorbunny",
+  "uuid": "d7979a5f-8be2-5534-9737-a3599d3b1505",
   "region": "international",
   "set": "swsh11",
   "category": "blister",
   "name": "Lost Origin Single Pack Blister [Scorbunny]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666152
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6f739039-3565-5933-99d0-1050f8d38096",
       "name": "Lost Origin Single Pack Blister [Scorbunny]",
       "releaseDate": "2022-09-09",
       "identifiers": {

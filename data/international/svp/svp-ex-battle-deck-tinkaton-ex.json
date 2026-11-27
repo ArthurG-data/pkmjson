@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-tinkaton-ex",
+  "uuid": "db48450a-8d11-5be2-997d-98315a53a836",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Tinkaton ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "88e98bb9-5727-590f-b031-ad24df075d64",
       "name": "ex Battle Deck [Tinkaton ex]",
       "releaseDate": "2023-07-14",
       "identifiers": {

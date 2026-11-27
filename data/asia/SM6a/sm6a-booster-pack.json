@@ -1,9 +1,11 @@
 {
   "id": "sm6a-booster-pack",
+  "uuid": "9d8f6397-9646-51c1-81ec-4508972dfeed",
   "region": "asia",
   "set": "SM6a",
   "category": "booster_pack",
   "name": "Dragon Storm Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551886
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7d218517-81c8-5865-85e2-27aa29329b40",
       "name": "強化拡張パック「ドラゴンストーム」",
       "releaseDate": "2018-04-06",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "svp-cyclizar-ex-box",
+  "uuid": "260cc3fe-c5a4-5671-a7d9-e2ed66618870",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Cyclizar ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7f64194b-7c0f-5ebc-8684-76b05841e7a3",
       "name": "Cyclizar ex Box",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -23,6 +26,7 @@
     },
     {
       "language": "de",
+      "uuid": "bd25033e-a9b5-5803-9644-5e72cf32ecf6",
       "name": "Kollektion Mopex-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-mopex-ex"
@@ -30,6 +34,7 @@
     },
     {
       "language": "it",
+      "uuid": "6a1bdb24-782c-5f1d-b5f5-8eb844e55a2d",
       "name": "Collezione Cyclizar-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-cyclizar-ex"
@@ -37,6 +42,7 @@
     },
     {
       "language": "es",
+      "uuid": "2da87c98-48d2-5201-b15b-71ba8df31f36",
       "name": "Colección Cyclizar ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-cyclizar-ex"
@@ -44,6 +50,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a8e3e373-a939-5d5f-998f-f6c7efac05e4",
       "name": "Coffret Motorizard-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-motorizard-ex"

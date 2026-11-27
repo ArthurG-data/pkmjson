@@ -1,9 +1,11 @@
 {
   "id": "me01-3-pack-blister-golduck",
+  "uuid": "d49c6735-c371-5f50-8da8-21995c7aae44",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution 3 Pack Blister [Golduck]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834820
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "188d90ce-d075-5b66-9b0d-29b3c5a07958",
       "name": "Mega Evolution 3 Pack Blister [Golduck]",
       "releaseDate": "2025-09-26",
       "identifiers": {

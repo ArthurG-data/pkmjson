@@ -1,9 +1,11 @@
 {
   "id": "sm2-triple-effect-tin-vaporeon",
+  "uuid": "ccc67015-51e4-5870-a299-c4ea0051ea46",
   "region": "international",
   "set": "sm2",
   "category": "tin",
   "name": "Triple Effect Tin [Vaporeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "538fb2cd-6ad2-52d5-a6aa-ed509f7aa349",
       "name": "Triple Effect Tin [Vaporeon]",
       "identifiers": {
         "tcgplayerProductIds": [

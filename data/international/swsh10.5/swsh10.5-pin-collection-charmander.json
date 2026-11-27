@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-pin-collection-charmander",
+  "uuid": "ffade7c6-caf8-5a5d-8865-05eb58c527b7",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Pin Collection [Charmander]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 664334
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "54c49631-00ef-5c3b-a64e-8a8bf310b13e",
       "name": "Pokemon GO Pin Collection [Charmander]",
       "releaseDate": "2022-09-02",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ee5e0a7d-ec21-5eea-8f7a-93da676d5a35",
       "name": "Collection avec pin's Pokémon GO Salamèche",
       "releaseDate": "2022-10-28",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "9f6d1f50-1d41-5c5a-95bf-4f28f9c64c39",
       "name": "Pokémon GO Pin Collection",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-pokemon-go"
@@ -58,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "ea8b7c1c-00a7-5a96-9792-763c8a98871a",
       "name": "Colección con pin de Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-pin-de-pokemon-go"

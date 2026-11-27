@@ -1,9 +1,11 @@
 {
   "id": "swsh12-single-pack-blister-basculin",
+  "uuid": "95f91bfa-2554-53bc-96a6-5613f3a240fb",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest Single Pack Blister [Basculin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04814a4c-bfdb-58c8-b7ae-679001e10ca8",
       "name": "Silver Tempest Single Pack Blister [Basculin]",
       "identifiers": {
         "tcgplayerProductIds": [

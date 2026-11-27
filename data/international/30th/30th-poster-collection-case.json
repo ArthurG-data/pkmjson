@@ -1,15 +1,18 @@
 {
   "id": "30th-poster-collection-case",
+  "uuid": "53b5258e-c860-56a7-aab6-969c9cd69245",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Poster Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "687fe96f-4d81-544e-8e5a-f951cde01582",
       "name": "30th Celebration Poster Collection Case",
       "releaseDate": "2026-09-16",
       "identifiers": {

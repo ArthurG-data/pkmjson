@@ -1,9 +1,11 @@
 {
   "id": "sv04-3-pack-blister-arctibax",
+  "uuid": "a654f969-fe39-5d36-bb17-cc9173cf57c1",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift 3 Pack Blister [Arctibax]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728733
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df79988c-6a5e-5def-8868-f7bc93bf2bff",
       "name": "Paradox Rift 3 Pack Blister [Arctibax]",
       "identifiers": {
         "tcgplayerProductIds": [

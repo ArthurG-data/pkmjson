@@ -1,9 +1,11 @@
 {
   "id": "cp6-booster-pack-1st-edition",
+  "uuid": "136a1198-6de0-57bc-98c0-8abf476e2231",
   "region": "asia",
   "set": "CP6",
   "category": "booster_pack",
   "name": "Expansion Pack 20th Anniversary Booster Pack (1st Edition)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ec498632-1f8d-576a-8c5e-4baba9f2fab0",
       "name": "コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
       "releaseDate": "2016-09-16",
       "identifiers": {

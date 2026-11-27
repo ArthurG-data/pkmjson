@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-premium-collection-set-of-3",
+  "uuid": "573f4aea-58ed-5ac0-b376-2b6b87045482",
   "region": "international",
   "set": "sv04.5",
   "category": "other",
   "name": "Paldean Fates Premium Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Shiny Meowscarada ex, Shiny Skeledirge ex, or Shiny Quaquaval ex; 1 etched foil promo card featuring Shiny Floragato, Shiny Crocalor, or Shiny Quaxwell; 1 etched foil promo card featuring Shiny Sprigatito, Shiny Fuecoco, or Shiny Quaxly; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "03b6f6ee-0a2f-5bd7-bd2c-e325d098f7a6",
       "name": "Paldean Fates Premium Collection [Set of 3]",
       "releaseDate": "2024-02-09",
       "identifiers": {

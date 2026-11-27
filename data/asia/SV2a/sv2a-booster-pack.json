@@ -1,9 +1,11 @@
 {
   "id": "sv2a-booster-pack",
+  "uuid": "0e25ef18-0477-57e1-856d-4300e629202d",
   "region": "asia",
   "set": "SV2a",
   "category": "booster_pack",
   "name": "Pokemon Card 151 Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 704498
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3c7e48bd-22ed-5822-9c35-07b4dbdd0db8",
       "name": "強化拡張パック「ポケモンカード151（イチゴーイチ）」",
       "releaseDate": "2023-06-16",
       "identifiers": {

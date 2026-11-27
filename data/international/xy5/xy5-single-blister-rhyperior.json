@@ -1,9 +1,11 @@
 {
   "id": "xy5-single-blister-rhyperior",
+  "uuid": "cc34890d-d3ba-57d8-a3b7-3a89c90f7a26",
   "region": "international",
   "set": "xy5",
   "category": "blister",
   "name": "Primal Clash Single Blister [Rhyperior]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0a469f7e-7f82-5a7f-9447-1310eb6e2568",
       "name": "Primal Clash Single Blister [Rhyperior]",
       "identifiers": {
         "tcgplayerProductIds": [

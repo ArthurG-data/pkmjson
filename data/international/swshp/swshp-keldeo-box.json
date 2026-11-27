@@ -1,9 +1,11 @@
 {
   "id": "swshp-keldeo-box",
+  "uuid": "fcfae521-a35e-5e8b-a6e2-990bbef552a7",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Keldeo Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4c17736-1c69-5400-9b7d-fe3e8b0a4d99",
       "name": "Keldeo Box",
       "identifiers": {
         "tcgplayerProductIds": [

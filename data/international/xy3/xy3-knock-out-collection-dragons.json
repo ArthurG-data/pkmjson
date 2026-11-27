@@ -1,15 +1,18 @@
 {
   "id": "xy3-knock-out-collection-dragons",
+  "uuid": "da4457cb-bf5b-52f3-961e-cdfd311ef8b2",
   "region": "international",
   "set": "xy3",
   "category": "collection_box",
   "name": "XY Knock Out Collection [Dragons]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "13a10838-bdbd-5e6a-9ce1-c057839ba49e",
       "name": "XY Knock Out Collection [Dragons]",
       "identifiers": {
         "tcgplayerProductIds": [

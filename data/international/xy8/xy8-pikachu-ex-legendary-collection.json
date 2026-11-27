@@ -1,15 +1,18 @@
 {
   "id": "xy8-pikachu-ex-legendary-collection",
+  "uuid": "33efb42d-e621-5e9e-b0b3-6e245ac3d8bd",
   "region": "international",
   "set": "xy8",
   "category": "collection_box",
   "name": "Pikachu EX Legendary Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "66a6c30a-e74c-52bb-addb-3573114fce06",
       "name": "Pikachu EX Legendary Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "470fde3c-1959-5f64-b6c7-58be142ad158",
       "name": "Collection Légendaire Pikachu",
       "releaseDate": "2016-04-09",
       "sources": [

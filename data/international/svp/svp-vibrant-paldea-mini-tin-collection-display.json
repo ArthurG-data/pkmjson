@@ -1,15 +1,18 @@
 {
   "id": "svp-vibrant-paldea-mini-tin-collection-display",
+  "uuid": "3c15fecc-1257-5fb3-8ab8-ccfd4c13a3f5",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Vibrant Paldea Mini Tin Collection Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6516d7ce-c865-548c-a7eb-e99917c42fac",
       "name": "Vibrant Paldea Mini Tin Collection Display",
       "releaseDate": "2024-06-07",
       "identifiers": {

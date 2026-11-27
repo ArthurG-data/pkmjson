@@ -1,9 +1,11 @@
 {
   "id": "swsh6-shadow-rider-calyrex-v-box",
+  "uuid": "f20fef7c-a82b-5d85-a7c6-83113ceeed06",
   "region": "international",
   "set": "swsh6",
   "category": "collection_box",
   "name": "Shadow Rider Calyrex V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc51bd5c-c26e-5baf-afb0-77983ae605a2",
       "name": "Shadow Rider Calyrex V Box",
       "releaseDate": "2021-08-06",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5d2a13e7-3915-50e7-94c4-c140bb001c47",
       "name": "Coffret Sylveroy Cavalier d'Effroi",
       "releaseDate": "2021-08-06",
       "sources": [
@@ -42,6 +46,7 @@
     },
     {
       "language": "de",
+      "uuid": "0004bd29-8bed-5592-aee6-fc99157e988e",
       "name": "Kollektion Rappenreiter-Coronospa-V",
       "releaseDate": "2021-08-06",
       "sources": [

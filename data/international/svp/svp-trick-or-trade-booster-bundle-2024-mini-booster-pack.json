@@ -1,15 +1,18 @@
 {
   "id": "svp-trick-or-trade-booster-bundle-2024-mini-booster-pack",
+  "uuid": "1a2c69e8-b8e9-55ad-a4a8-4d73be9c6ee8",
   "region": "international",
   "set": "svp",
   "category": "booster_bundle",
   "name": "Trick or Trade BOOster Bundle 2024 - Mini Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Colorful cards from the Pokémon Trading Card Game.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4cf40a47-b520-54a5-ae4a-06cb242cfdea",
       "name": "Trick or Trade BOOster Bundle 2024 - Mini Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

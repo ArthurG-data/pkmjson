@@ -1,15 +1,18 @@
 {
   "id": "sm8-booster-pack-art-bundle-set-of-4",
+  "uuid": "c64a660f-4bc8-57bd-82f9-40cdcd97e987",
   "region": "international",
   "set": "sm8",
   "category": "other",
   "name": "Lost Thunder Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "613858ae-25ce-537b-a876-1a322d733496",
       "name": "Lost Thunder Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

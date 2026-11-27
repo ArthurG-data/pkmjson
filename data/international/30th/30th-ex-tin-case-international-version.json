@@ -1,15 +1,18 @@
 {
   "id": "30th-ex-tin-case-international-version",
+  "uuid": "ad7e3530-7a8d-51f0-bdd3-edff1ab8bcc1",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration ex Tin Case (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cf8139e0-4247-5d6e-a32f-2f6a338fac4d",
       "name": "30th Celebration ex Tin Case (International Version)",
       "releaseDate": "2026-12-04",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "smp-pikachu-eevee-poke-ball-collection",
+  "uuid": "77d7d7f4-3949-5377-9578-456f1016c5ee",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Pikachu & Eevee Poke Ball Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2bc270ea-e2c9-50b2-9371-882e8e6e794d",
       "name": "Pikachu & Eevee Poke Ball Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -43,6 +46,7 @@
     },
     {
       "language": "it",
+      "uuid": "83200fde-0458-5549-8e39-80dae63723f3",
       "name": "Collezione Poké Ball Pikachu e Eevee",
       "releaseDate": "2018-11-16",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "5e439077-81bd-51c9-8bf2-463c8985aca1",
       "name": "Pokéball-Kollektion Pikachu & Evoli",
       "releaseDate": "2018-11-16",
       "sources": [
@@ -59,6 +64,7 @@
     },
     {
       "language": "es",
+      "uuid": "e69fc26f-90e7-5206-a539-e2a1ed4836b5",
       "name": "Colección Poké Ball Pikachu e Eevee",
       "releaseDate": "2018-11-16",
       "sources": [
@@ -67,6 +73,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b5dfc47c-c4a6-56f5-bf0c-231e325fb990",
       "name": "Collection Poké Ball Pikachu et Évoli",
       "releaseDate": "2018-11-05",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "svp-checklane-2-pack-blister-pawmot-1-tab",
+  "uuid": "893665d8-6615-5347-900b-e038282f256d",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Checklane 2-Pack Blister [Pawmot] (1-tab)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ffa9d1b0-e66a-5747-99ad-bf931598a286",
       "name": "Checklane 2-Pack Blister [Pawmot] (1-tab)",
       "identifiers": {
         "tcgplayerProductIds": [

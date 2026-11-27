@@ -1,9 +1,11 @@
 {
   "id": "me02.5-elite-trainer-box",
+  "uuid": "0e8f5df2-5a16-5abf-9c44-82ecb9cebd4f",
   "region": "international",
   "set": "me02.5",
   "category": "elite_trainer_box",
   "name": "Ascended Heroes Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860574
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6826d2a8-11ff-5136-abc5-f5bd8c5b5884",
       "name": "Ascended Heroes Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

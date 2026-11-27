@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-morpeko-v-union-playmat-premium-collection",
+  "uuid": "2f0b5424-2858-59fa-99df-8228b3ee5298",
   "region": "international",
   "set": "swsh12.5",
   "category": "premium_collection",
   "name": "Morpeko V-UNION Playmat Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683025
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b4a87992-6766-51d0-af46-fe8cc1331218",
       "name": "Morpeko V-UNION Playmat Premium Collection",
       "releaseDate": "2023-04-14",
       "identifiers": {
@@ -47,6 +50,7 @@
     },
     {
       "language": "fr",
+      "uuid": "389dac28-e2e5-5c56-a956-56557b96b77a",
       "name": "Collection Premium avec tapis de jeu Zénith Suprême Morpeko-V-UNION",
       "releaseDate": "2023-04-14",
       "sources": [
@@ -55,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "1eed3f58-a8b7-59e2-a9ee-448a385673dc",
       "name": "Colección premium con tapete Morpeko V‑UNIÓN de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-con-tapete-morpeko-v-union-de-cenit-supremo"
@@ -62,6 +67,7 @@
     },
     {
       "language": "it",
+      "uuid": "1125bf84-ec94-55a7-abb3-5c8accb76883",
       "name": "Collezione premium con tabellone di gioco Morpeko‑V UNIONE dell’espansione Zenit Regale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-con-tabellone-di-gioco-morpeko-v-unione-dell-espansione-zenit-regale"
@@ -69,6 +75,7 @@
     },
     {
       "language": "de",
+      "uuid": "81df9ed2-86a5-54e3-b9a7-ca6e461fb65b",
       "name": "Premium-Spielunterlagen-Kollektion Zenit der Könige: Morpeko‑V‑UNION",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-spielunterlagen-kollektion-zenit-der-koenige-morpeko-v-union"

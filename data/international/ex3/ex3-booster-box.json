@@ -1,9 +1,11 @@
 {
   "id": "ex3-booster-box",
+  "uuid": "163e3fc4-5f63-5670-824f-f1e7960f09b7",
   "region": "international",
   "set": "ex3",
   "category": "booster_box",
   "name": "EX Dragon Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271910
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "850f13df-4bff-5660-b7f6-7c1da3d70936",
       "name": "EX Dragon Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

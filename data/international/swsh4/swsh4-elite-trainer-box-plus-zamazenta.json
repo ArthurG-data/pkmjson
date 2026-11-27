@@ -1,9 +1,11 @@
 {
   "id": "swsh4-elite-trainer-box-plus-zamazenta",
+  "uuid": "677cd840-6ec0-5ca3-bde3-0570d1cdce8d",
   "region": "international",
   "set": "swsh4",
   "category": "elite_trainer_box",
   "name": "Sword & Shield Elite Trainer Box Plus [Zamazenta]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8aff966-4bf7-585c-ad3a-1168f230a9d5",
       "name": "Sword & Shield Elite Trainer Box Plus [Zamazenta]",
       "identifiers": {
         "tcgplayerProductIds": [

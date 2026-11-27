@@ -1,9 +1,11 @@
 {
   "id": "sv03-3-pack-blister-eevee",
+  "uuid": "c55d67bb-91d9-56ac-a1d9-07d7656eaaea",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames 3 Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715773
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f5b281bd-c417-5514-a8b8-a40e9a456b99",
       "name": "Obsidian Flames 3 Pack Blister [Eevee]",
       "releaseDate": "2023-08-11",
       "identifiers": {

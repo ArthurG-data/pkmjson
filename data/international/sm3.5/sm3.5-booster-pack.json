@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-booster-pack",
+  "uuid": "6a7f852a-9a21-51c5-842b-143ef72a73e3",
   "region": "international",
   "set": "sm3.5",
   "category": "booster_pack",
   "name": "Shining Legends Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301163
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "84e1c2c4-5073-5ce2-aa20-8b2f0ab96870",
       "name": "Shining Legends",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d4a68eea-632e-5cc1-9f48-063805e5636d",
       "name": "Légendes Brillantes",
       "sources": [
         "https://www.pokepedia.fr/Coffre_de_collection_L%C3%A9gendes_Brillantes",
@@ -40,6 +44,7 @@
     },
     {
       "language": "it",
+      "uuid": "b0a50255-8f94-5286-a6c1-28183e4d942f",
       "name": "Leggende Iridescenti",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-leggende-iridescenti",
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "0bdc0769-da23-5db8-9da9-c26fe834ae0e",
       "name": "Leyendas Luminosas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/entrenador-elite-de-leyendas-luminosas-de-jcc-pokemon",
@@ -56,6 +62,7 @@
     },
     {
       "language": "de",
+      "uuid": "60d88952-810c-5717-b5e5-50fec96c4b91",
       "name": "Schimmernde Legenden",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schimmernde-legenden",

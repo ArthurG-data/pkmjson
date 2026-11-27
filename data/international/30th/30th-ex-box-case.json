@@ -1,15 +1,18 @@
 {
   "id": "30th-ex-box-case",
+  "uuid": "5ac5671a-dfb7-57fd-aab7-91fa1f467f05",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration ex Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b2bd7ad8-8042-5d29-98d8-2f4cdcfdf86a",
       "name": "30th Celebration ex Box Case",
       "releaseDate": "2026-09-16",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv08-booster-pack-art-bundle-set-of-4",
+  "uuid": "07037741-615b-5035-8918-db8cac4d7107",
   "region": "international",
   "set": "sv08",
   "category": "other",
   "name": "Surging Sparks Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a86d081d-552b-567a-a835-e98a1431c62d",
       "name": "Surging Sparks Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2024-11-08",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv10.5w-booster-bundle-display",
+  "uuid": "72192b21-4cfa-5db3-9459-269117c1157b",
   "region": "international",
   "set": "sv10.5w",
   "category": "case",
   "name": "White Flare Booster Bundle Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 836258
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "756508b9-6382-51cc-a51f-6693026d862a",
       "name": "White Flare Booster Bundle Display",
       "releaseDate": "2025-08-22",
       "identifiers": {

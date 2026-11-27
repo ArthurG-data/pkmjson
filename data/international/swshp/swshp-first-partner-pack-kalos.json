@@ -1,15 +1,18 @@
 {
   "id": "swshp-first-partner-pack-kalos",
+  "uuid": "0560c393-71d4-5c0e-aafe-e0cca5ec3743",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "First Partner Pack (Kalos)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: three oversize promo cards featuring the first partner Pokémon of the Kalos region—Chespin, Fennekin, Froakie—plus two regular Pokémon TCG boosters.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d4058f6f-28b8-51f2-9ab6-79dddad92b59",
       "name": "First Partner Pack (Kalos)",
       "releaseDate": "2021-05-07",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "det1-special-promo-booster-pack",
+  "uuid": "9090f3eb-b4e1-5636-8cef-1c951c180b11",
   "region": "international",
   "set": "det1",
   "category": "booster_pack",
   "name": "Detective Pikachu Special Promo Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "75a5e718-3b07-518b-9472-c5319ec71e14",
       "name": "Detective Pikachu Special Promo Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

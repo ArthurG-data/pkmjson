@@ -1,15 +1,18 @@
 {
   "id": "sm2-legendary-battle-decks-lugia",
+  "uuid": "a249bb78-e23e-52f8-8b48-03816db19ea5",
   "region": "international",
   "set": "sm2",
   "category": "battle_deck",
   "name": "Legendary Battle Decks [Lugia]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f24bfa05-e7c7-5def-9fd0-f17e063aeb5d",
       "name": "Legendary Battle Decks [Lugia]",
       "identifiers": {
         "tcgplayerProductIds": [

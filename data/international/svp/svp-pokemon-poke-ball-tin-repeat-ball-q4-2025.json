@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-repeat-ball-q4-2025",
+  "uuid": "4633d5f2-8db7-5b84-9edf-653dc10d97b1",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Repeat Ball (Q4 2025)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2e300532-1ff6-5c7b-a760-365d00a5b547",
       "name": "Pokemon - Poke Ball Tin - Repeat Ball (Q4 2025)",
       "identifiers": {
         "tcgplayerProductIds": [

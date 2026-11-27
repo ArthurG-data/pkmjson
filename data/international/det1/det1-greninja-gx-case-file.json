@@ -1,9 +1,11 @@
 {
   "id": "det1-greninja-gx-case-file",
+  "uuid": "6771130e-377a-5024-858c-c3410205a5d1",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu: Greninja GX Case File",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370622
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "938bd8ba-fea4-5ddf-a291-8c1802d9220c",
       "name": "Detective Pikachu: Greninja GX Case File",
       "identifiers": {
         "tcgplayerProductIds": [

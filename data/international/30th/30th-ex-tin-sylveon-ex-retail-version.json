@@ -1,9 +1,11 @@
 {
   "id": "30th-ex-tin-sylveon-ex-retail-version",
+  "uuid": "d195a150-2196-53e0-83ca-c831e8ef46a0",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c3f4bd9e-4538-5160-a64a-fe6ce240913e",
       "name": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
       "identifiers": {
         "tcgplayerProductIds": [

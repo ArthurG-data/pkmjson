@@ -1,9 +1,11 @@
 {
   "id": "s8a-promo-card-25th-anniversary-collection-booster-pack",
+  "uuid": "6662b23e-9cbb-5467-917b-7f38e1dff45b",
   "region": "asia",
   "set": "S8a",
   "category": "booster_pack",
   "name": "Promo Card 25th Anniversary Collection Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "216c18d5-a63b-590d-93ee-5179657218fb",
       "name": "Promo Card 25th Anniversary Collection Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-rival-battle-deck-steven",
+  "uuid": "db079b82-0cef-58a6-a6a0-2259a5e8bfd7",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "Rival Battle Deck [Steven]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3beca305-4d03-589f-9432-13306ed27bfc",
       "name": "Rival Battle Deck [Steven]",
       "releaseDate": "2025-05-16",
       "identifiers": {
@@ -46,6 +49,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c5b75e34-9067-5bd1-90c4-dd8862dbf50e",
       "name": "Deck Combat Rivalité – Rosemary et Pierre",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-rivalite-rosemary-et-pierre"
@@ -53,6 +57,7 @@
     },
     {
       "language": "de",
+      "uuid": "c4a00375-4696-551e-8bfa-4d33a5edfaf4",
       "name": "Rivalen-Kampfdeck Mary & Rivalen-Kampfdeck Troy",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/rivalen-kampfdeck-mary-rivalen-kampfdeck-troy"
@@ -60,6 +65,7 @@
     },
     {
       "language": "es",
+      "uuid": "b951f592-85e2-5a8b-b8bb-9a0c01a8c519",
       "name": "Baraja Combate de Rivales Roxy y baraja Combate de Rivales Máximo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-rivales-roxy-y-baraja-combate-de-rivales-maximo"
@@ -67,6 +73,7 @@
     },
     {
       "language": "it",
+      "uuid": "d89ea2b8-4645-5b74-a5c9-bd15e00aa38e",
       "name": "Mazzo Lotte tra Rivali Mary o Rocco",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-tra-rivali-mary-o-rocco"

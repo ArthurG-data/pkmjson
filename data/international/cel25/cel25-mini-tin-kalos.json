@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-kalos",
+  "uuid": "d3395543-9f1e-57d7-9296-0e757a3cb908",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Kalos]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0b443c1-c403-5d1c-8163-3958bbfa7093",
       "name": "Celebrations Mini Tin [Kalos]",
       "identifiers": {
         "tcgplayerProductIds": [

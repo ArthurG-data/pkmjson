@@ -1,9 +1,11 @@
 {
   "id": "swsh4-elite-trainer-box-plus-zacian",
+  "uuid": "a2b0b64c-69c7-506f-b46d-1209a01a376d",
   "region": "international",
   "set": "swsh4",
   "category": "elite_trainer_box",
   "name": "Sword & Shield Elite Trainer Box Plus [Zacian]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "541f540c-1c4f-5ee2-a757-beec2d3e304c",
       "name": "Sword & Shield Elite Trainer Box Plus [Zacian]",
       "identifiers": {
         "tcgplayerProductIds": [

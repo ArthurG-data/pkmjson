@@ -1,9 +1,11 @@
 {
   "id": "swsh3-theme-deck-galarian-sirfetch-d",
+  "uuid": "23413ce7-345d-5b82-aac0-6ccc4359ffc3",
   "region": "international",
   "set": "swsh3",
   "category": "theme_deck",
   "name": "Darkness Ablaze Theme Deck [Galarian Sirfetch'd]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 462224
   },
@@ -28,6 +30,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b0a59520-2065-5a65-bf37-ed9d94655f38",
       "name": "Darkness Ablaze Theme Deck [Galarian Sirfetch'd]",
       "releaseDate": "2020-08-14",
       "identifiers": {

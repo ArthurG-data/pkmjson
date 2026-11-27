@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-pikachu-v-international-version",
+  "uuid": "d4769e67-bb36-5b0c-8f68-db1684f24211",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Pikachu V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dd2b1026-e06a-5cb2-a67d-2e2f03d30b95",
       "name": "V Powers Tin [Pikachu V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

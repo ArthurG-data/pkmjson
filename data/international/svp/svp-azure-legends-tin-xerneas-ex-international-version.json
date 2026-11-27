@@ -1,9 +1,11 @@
 {
   "id": "svp-azure-legends-tin-xerneas-ex-international-version",
+  "uuid": "a974d104-537b-588e-9f86-8596bb38aa4a",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Azure Legends Tin [Xerneas ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4482ce7-423c-5c04-8ff8-d807cef04d61",
       "name": "Azure Legends Tin [Xerneas ex] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

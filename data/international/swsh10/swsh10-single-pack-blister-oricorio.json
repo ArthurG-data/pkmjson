@@ -1,9 +1,11 @@
 {
   "id": "swsh10-single-pack-blister-oricorio",
+  "uuid": "a87db2c1-b080-5087-bdb8-2e01fc4be20a",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance Single Pack Blister [Oricorio]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611355
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bc306008-234a-5f6e-9844-917d9571fae8",
       "name": "Astral Radiance Single Pack Blister [Oricorio]",
       "releaseDate": "2022-05-27",
       "identifiers": {

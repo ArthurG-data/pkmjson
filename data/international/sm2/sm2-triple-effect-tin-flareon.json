@@ -1,9 +1,11 @@
 {
   "id": "sm2-triple-effect-tin-flareon",
+  "uuid": "42d4cfe2-816d-5ec7-afc2-4fe188f688c3",
   "region": "international",
   "set": "sm2",
   "category": "tin",
   "name": "Triple Effect Tin [Flareon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2038d4db-72fb-5008-9d05-c05318d891c9",
       "name": "Triple Effect Tin [Flareon]",
       "identifiers": {
         "tcgplayerProductIds": [

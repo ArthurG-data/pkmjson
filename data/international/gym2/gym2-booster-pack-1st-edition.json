@@ -1,9 +1,11 @@
 {
   "id": "gym2-booster-pack-1st-edition",
+  "uuid": "483623c0-3b68-58b2-b426-802053a3c463",
   "region": "international",
   "set": "gym2",
   "category": "booster_pack",
   "name": "Gym Challenge Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "82ec6436-483f-5a75-a94c-d1bf8c1c9286",
       "name": "Gym Challenge Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

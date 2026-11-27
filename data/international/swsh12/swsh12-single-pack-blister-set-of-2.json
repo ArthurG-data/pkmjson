@@ -1,15 +1,18 @@
 {
   "id": "swsh12-single-pack-blister-set-of-2",
+  "uuid": "bba87196-901e-57a6-ae2b-7422187882db",
   "region": "international",
   "set": "swsh12",
   "category": "other",
   "name": "Silver Tempest Single Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Basculin or Cranidos; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4add6941-33c2-564e-8f78-277b1fa45d9c",
       "name": "Silver Tempest Single Pack Blister [Set of 2]",
       "releaseDate": "2022-11-11",
       "identifiers": {

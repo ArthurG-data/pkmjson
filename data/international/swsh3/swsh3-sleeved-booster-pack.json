@@ -1,9 +1,11 @@
 {
   "id": "swsh3-sleeved-booster-pack",
+  "uuid": "3f7d6b0d-5626-5a80-bacb-b8f74ea0f019",
   "region": "international",
   "set": "swsh3",
   "category": "sleeved_booster_pack",
   "name": "Darkness Ablaze Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674704
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fdec74d7-f487-5d35-9448-2f8f5c191fbd",
       "name": "Darkness Ablaze Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

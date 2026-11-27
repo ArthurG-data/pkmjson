@@ -1,9 +1,11 @@
 {
   "id": "m2-booster-box",
+  "uuid": "81aeec78-8b3f-50b9-a52f-96f0e5c9bebd",
   "region": "asia",
   "set": "M2",
   "category": "booster_box",
   "name": "Inferno X Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 845910
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "995774b8-18ae-5889-891e-98318e0a9aa2",
       "name": "Inferno X Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

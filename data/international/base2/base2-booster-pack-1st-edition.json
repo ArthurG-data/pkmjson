@@ -1,9 +1,11 @@
 {
   "id": "base2-booster-pack-1st-edition",
+  "uuid": "42c800e0-1285-5450-aad9-6cca23a0c146",
   "region": "international",
   "set": "base2",
   "category": "booster_pack",
   "name": "Jungle Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9edf47d4-9023-5173-9e7a-9be110f05bc9",
       "name": "Jungle Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

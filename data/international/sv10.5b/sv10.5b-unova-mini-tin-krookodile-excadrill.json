@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-mini-tin-krookodile-excadrill",
+  "uuid": "e33ead23-52b4-5708-8876-d6c96852bf24",
   "region": "international",
   "set": "sv10.5b",
   "category": "tin",
   "name": "Unova Mini Tin [Krookodile & Excadrill]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1dd077ec-3fd8-52c3-9e51-d2a664e289eb",
       "name": "Unova Mini Tin [Krookodile & Excadrill]",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a110a703-8f68-52e1-93f8-463e4b835ff5",
       "name": "Mini-boîte Unys",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "b63bf3e6-0dfd-500f-8703-d8fc9af774ff",
       "name": "Mini-Tin-Box Einall",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "16fff060-cdac-5ffb-adce-0ae6531e0e97",
       "name": "Colecciona las ocho minilatas Teselia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
@@ -61,6 +67,7 @@
     },
     {
       "language": "it",
+      "uuid": "698d2359-89e8-5bd6-94cb-86562f160f41",
       "name": "Miniscatola da collezione Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"

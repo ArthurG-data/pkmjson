@@ -1,9 +1,11 @@
 {
   "id": "sv08-single-pack-blister-wooper",
+  "uuid": "b6d1d908-ff98-5e71-99f7-c667a12a4f6e",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks Single Pack Blister [Wooper]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784955
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e38406d3-cbf4-5c5c-a46e-ce226e8408c6",
       "name": "Surging Sparks Single Pack Blister [Wooper]",
       "identifiers": {
         "tcgplayerProductIds": [

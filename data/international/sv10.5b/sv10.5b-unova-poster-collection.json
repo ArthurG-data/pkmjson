@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-poster-collection",
+  "uuid": "8a188fd6-ca70-5b99-8d79-75a2c8a0dc96",
   "region": "international",
   "set": "sv10.5b",
   "category": "collection_box",
   "name": "Unova Poster Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc21002b-155c-5e36-a63c-5d975d8a8dcb",
       "name": "Unova Poster Collection",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "63c1b94f-e9a8-5ce5-a400-b0dfe35a3bc2",
       "name": "Collection poster Unys",
       "releaseDate": "2025-07-18",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "51b92f97-fa94-5802-8334-172fa60ec551",
       "name": "Collezione con poster Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima"
@@ -59,6 +64,7 @@
     },
     {
       "language": "de",
+      "uuid": "b7f0941d-11bb-52ad-b8bb-55882eced17f",
       "name": "Poster-Kollektion Einall",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall"
@@ -66,6 +72,7 @@
     },
     {
       "language": "es",
+      "uuid": "885cbd6c-0203-59d9-b5a5-01922a5d235f",
       "name": "Colección con póster Teselia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia"

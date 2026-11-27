@@ -1,9 +1,11 @@
 {
   "id": "xy7-single-pack-blister-fearow",
+  "uuid": "2e2164ba-2503-5b05-a789-9facf376f46f",
   "region": "international",
   "set": "xy7",
   "category": "blister",
   "name": "Ancient Origins Single Pack Blister [Fearow]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586375
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "914539d3-b18b-510d-8a2c-b24554b1fdc4",
       "name": "Ancient Origins Single Pack Blister [Fearow]",
       "identifiers": {
         "tcgplayerProductIds": [

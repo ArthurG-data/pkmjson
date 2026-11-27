@@ -1,15 +1,18 @@
 {
   "id": "svp-kanto-friends-mini-tin-set-of-5",
+  "uuid": "8c0d39dc-d5db-517a-b874-c257c4e48d64",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Kanto Friends Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 5 Mini Tins designs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5b8039b7-dd72-5af7-9d51-8e1d0c76ce5c",
       "name": "Kanto Friends Mini Tin [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

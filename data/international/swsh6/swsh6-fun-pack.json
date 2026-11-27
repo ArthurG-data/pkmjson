@@ -1,15 +1,18 @@
 {
   "id": "swsh6-fun-pack",
+  "uuid": "542f8e79-f218-5a65-b8d1-5800993d3a03",
   "region": "international",
   "set": "swsh6",
   "category": "other",
   "name": "Chilling Reign Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dc84239f-93e2-50da-a837-834c8afa8364",
       "name": "Chilling Reign Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

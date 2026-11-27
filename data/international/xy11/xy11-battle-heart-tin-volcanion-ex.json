@@ -1,15 +1,18 @@
 {
   "id": "xy11-battle-heart-tin-volcanion-ex",
+  "uuid": "041691db-037a-5c2e-b2c4-3bf9abb7ffc1",
   "region": "international",
   "set": "xy11",
   "category": "tin",
   "name": "Battle Heart Tin [Volcanion EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4d0cded4-4465-582f-a5bf-4de1740eaa60",
       "name": "Battle Heart Tin [Volcanion EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d9d8906e-2e01-51b9-baf2-07bebcba21ef",
       "name": "Boîte Cœur au Combat Volcanion",
       "releaseDate": "2016-11-06",
       "contents": {

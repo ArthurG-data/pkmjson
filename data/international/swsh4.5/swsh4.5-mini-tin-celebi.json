@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mini-tin-celebi",
+  "uuid": "3b6f9681-699d-5787-ab34-c6a11b84685c",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates Mini Tin [Celebi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "862e688a-8717-5770-b59c-9696abb27eed",
       "name": "Shining Fates Mini Tin [Celebi]",
       "releaseDate": "2021-03-19",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm2-theme-deck-steel-sun-solgaleo",
+  "uuid": "d61294b6-acac-58ed-b376-af7c64aba24e",
   "region": "international",
   "set": "sm2",
   "category": "theme_deck",
   "name": "Guardians Rising Theme Deck - \"Steel Sun\" [Solgaleo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 296949
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5e87f684-3e41-5a78-963f-4574b2428254",
       "name": "Guardians Rising Theme Deck - \"Steel Sun\" [Solgaleo]",
       "identifiers": {
         "tcgplayerProductIds": [

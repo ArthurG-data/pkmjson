@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-booster-bundle-display",
+  "uuid": "bb344493-0c11-5ef2-bc41-762f6587ba84",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable Booster Bundle Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 804745
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "48be7c7f-aa8d-5c0e-8574-0497710962a1",
       "name": "Shrouded Fable Booster Bundle Display",
       "identifiers": {
         "tcgplayerProductIds": [

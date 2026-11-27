@@ -1,15 +1,18 @@
 {
   "id": "sm1-lycanroc-gx-box",
+  "uuid": "68298f64-76d4-5695-90d4-49e3e119f9c0",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Lycanroc GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "196f6a69-9bd0-56e1-8379-d5455b391a41",
       "name": "Lycanroc GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "30a478e0-0a62-572a-be0d-2831264a39c2",
       "name": "Coffret Lougaroc",
       "releaseDate": "2017-03-23",
       "contents": {

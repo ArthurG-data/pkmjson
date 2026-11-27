@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-elite-trainer-box",
+  "uuid": "f030bed1-8a48-5131-8e6d-9a9575f93ee5",
   "region": "international",
   "set": "sv04.5",
   "category": "elite_trainer_box",
   "name": "Paldean Fates Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745548
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2d11a832-ace5-56a7-8b95-5fd2b980326e",
       "name": "Paldean Fates Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -66,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4e80c998-dac9-5084-9eda-02347f2ede29",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Destinées de Paldea",
       "releaseDate": "2024-01-26",
       "sources": [
@@ -74,6 +78,7 @@
     },
     {
       "language": "it",
+      "uuid": "10a48f17-a669-5e11-9860-773bb40841c1",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Destino di Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-destino-di-paldea"
@@ -81,6 +86,7 @@
     },
     {
       "language": "de",
+      "uuid": "02d49506-08a4-5d5f-9dad-876187418da3",
       "name": "Top-Trainer-Box Karmesin & Purpur – Paldeas Schicksale",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-paldeas-schicksale"

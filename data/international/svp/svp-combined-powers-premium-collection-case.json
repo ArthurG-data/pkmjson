@@ -1,15 +1,18 @@
 {
   "id": "svp-combined-powers-premium-collection-case",
+  "uuid": "66fa6744-5a2a-5054-86ff-2ef39e48ebab",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Combined Powers Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d573d217-f4a4-5f34-a0d2-e701f268d87a",
       "name": "Combined Powers Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

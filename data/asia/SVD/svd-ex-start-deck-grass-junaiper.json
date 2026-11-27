@@ -1,15 +1,18 @@
 {
   "id": "svd-ex-start-deck-grass-junaiper",
+  "uuid": "d8d621a1-82cb-58e3-9347-fcb6b034a579",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Grass Junaiper",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "2dc97b75-befa-5cd3-965f-e37be4779ffa",
       "name": "ex Start Deck Grass Junaiper",
       "identifiers": {
         "tcgplayerProductIds": [

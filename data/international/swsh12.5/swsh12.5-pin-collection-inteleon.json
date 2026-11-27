@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-pin-collection-inteleon",
+  "uuid": "c6b7a8d4-c4aa-5ec3-924c-a00e9de67ad9",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Pin Collection [Inteleon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9380b10e-1aab-5114-9f27-6ae9b40031d1",
       "name": "Crown Zenith Pin Collection [Inteleon]",
       "releaseDate": "2023-04-14",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c340eeab-eb0c-5f98-acfa-7010f5a0c737",
       "name": "Collection avec pin's Zénith Suprême Lézargus",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Z%C3%A9nith_Supr%C3%AAme_L%C3%A9zargus"
@@ -57,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "bc9c795b-374d-5ce3-bdcc-e34b090fba42",
       "name": "Pin-Kollektion Zenit der Könige",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-zenit-der-koenige"
@@ -64,6 +69,7 @@
     },
     {
       "language": "es",
+      "uuid": "f059126f-11ec-5ac2-842d-6f92e8ad60f3",
       "name": "Colecciones con pin de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-con-pin-de-cenit-supremo"

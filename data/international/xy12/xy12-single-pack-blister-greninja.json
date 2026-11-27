@@ -1,9 +1,11 @@
 {
   "id": "xy12-single-pack-blister-greninja",
+  "uuid": "cdcae1fe-6115-5dd1-b10f-6c8dfbdea425",
   "region": "international",
   "set": "xy12",
   "category": "blister",
   "name": "XY Evolutions Single Pack Blister [Greninja]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586325
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "18a65f86-2724-59d4-af93-706aa9eb9497",
       "name": "XY Evolutions Single Pack Blister [Greninja]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "73666445-df56-543b-b60a-4cfa4297963c",
       "name": "Duopack XY12 Amphinobi",
       "releaseDate": "2016-11-19",
       "contents": {

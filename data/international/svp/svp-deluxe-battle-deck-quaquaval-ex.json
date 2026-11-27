@@ -1,9 +1,11 @@
 {
   "id": "svp-deluxe-battle-deck-quaquaval-ex",
+  "uuid": "7867a223-bc3e-56d9-9081-2f177717f853",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "Deluxe Battle Deck [Quaquaval ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eced1b24-2aa5-5032-8578-b04fd9f6e0ff",
       "name": "Deluxe Battle Deck [Quaquaval ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -53,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "4e99b64f-afa1-5d3b-a73f-2e475aea6f47",
       "name": "Mazzo Lotte Deluxe Meowscarada-ex o Quaquaval-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-deluxe-meowscarada-ex-o-quaquaval-ex"
@@ -60,6 +64,7 @@
     },
     {
       "language": "de",
+      "uuid": "04a82fc2-8830-5388-b87e-908b040dbdf4",
       "name": "Deluxe-Kampfdeck Maskagato‑ex und Deluxe-Kampfdeck Bailonda‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/deluxe-kampfdeck-maskagato-ex-und-deluxe-kampfdeck-bailonda-ex"
@@ -67,6 +72,7 @@
     },
     {
       "language": "es",
+      "uuid": "b47fcef6-471a-5860-a0ca-bb0b82838071",
       "name": "Baraja Combate Deluxe de Meowscarada ex y baraja Combate Deluxe de Quaquaval ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-deluxe-de-meowscarada-ex-y-baraja-combate-deluxe-de-quaquaval-ex"
@@ -74,6 +80,7 @@
     },
     {
       "language": "fr",
+      "uuid": "dcc39cda-eac4-587d-ab9b-c6179ca7057d",
       "name": "Deck Combat Deluxe – Miascarade-ex et Deck Combat Deluxe – Palmaval-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-deluxe-miascarade-ex-et-deck-combat-deluxe-palmaval-ex"

@@ -1,9 +1,11 @@
 {
   "id": "svp-kleavor-vstar-special-collection",
+  "uuid": "88c85726-35f7-5fd6-bde7-db29627f618c",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Kleavor VSTAR Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "47141c5b-b1b9-589c-bc0b-804bc3d7b9c6",
       "name": "Kleavor VSTAR Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [

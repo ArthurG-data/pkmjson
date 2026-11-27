@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-tcg-battle-academy-2022",
+  "uuid": "dc87c983-1394-5d49-bd82-ba453156abf3",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon TCG: Battle Academy 2022",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 609470
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "93e52eaa-cdc8-5f2f-8d0b-26d61fbbeb11",
       "name": "Pokemon TCG: Battle Academy 2022",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -52,6 +55,7 @@
     },
     {
       "language": "fr",
+      "uuid": "16faaeb4-35bb-5058-9ede-cebd32495d8f",
       "name": "Jeu de Cartes à Collectionner Pokémon : Académie de Combat (2022)",
       "releaseDate": "2022-03-25",
       "sources": [
@@ -60,6 +64,7 @@
     },
     {
       "language": "es",
+      "uuid": "96db54ab-3aef-5930-9f35-69b16bad6251",
       "name": "Academia de Combate del Juego de Cartas Coleccionables Pokémon (2022)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/academia-de-combate-del-juego-de-cartas-coleccionables-pokemon-2022"
@@ -67,6 +72,7 @@
     },
     {
       "language": "de",
+      "uuid": "c3c4a355-868e-5616-aaee-685f692167d6",
       "name": "Kampfakademie (2022)",
       "releaseDate": "2022-03-25",
       "sources": [
@@ -75,6 +81,7 @@
     },
     {
       "language": "it",
+      "uuid": "6d8080c5-52f8-5b99-bce2-72d82bf3b58c",
       "name": "Accademia Lotta del Gioco di Carte Collezionabili Pokémon (2022)",
       "releaseDate": "2022-03-25",
       "sources": [

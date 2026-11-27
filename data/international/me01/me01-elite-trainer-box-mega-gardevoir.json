@@ -1,9 +1,11 @@
 {
   "id": "me01-elite-trainer-box-mega-gardevoir",
+  "uuid": "c9866cf9-f976-541a-b208-b965b61314af",
   "region": "international",
   "set": "me01",
   "category": "elite_trainer_box",
   "name": "Mega Evolution Elite Trainer Box [Mega Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834831
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "29a06692-8071-50d0-bd46-19bca8bc6d9a",
       "name": "Mega Evolution Elite Trainer Box [Mega Gardevoir]",
       "releaseDate": "2025-09-26",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv01-single-pack-blister-spidops",
+  "uuid": "d6e34974-b991-5f3e-bb49-ab0c9278e8e6",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet Single Pack Blister [Spidops]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692405
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2b69ec30-851f-5908-b6ce-64caf7cad4f4",
       "name": "Scarlet & Violet Single Pack Blister [Spidops]",
       "releaseDate": "2023-03-31",
       "identifiers": {

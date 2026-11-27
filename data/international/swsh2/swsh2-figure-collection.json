@@ -1,9 +1,11 @@
 {
   "id": "swsh2-figure-collection",
+  "uuid": "62da88ee-8562-528d-a9c8-f3e776db2696",
   "region": "international",
   "set": "swsh2",
   "category": "collection_box",
   "name": "Sword & Shield Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "88ea0fb0-41bf-5944-8ea1-2708639b420d",
       "name": "Sword & Shield Figure Collection",
       "releaseDate": "2020-05-01",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4e27873f-f909-5323-9dfb-dc15b39316ff",
       "name": "Collection avec figurine Épée et Bouclier",
       "releaseDate": "2020-05-08",
       "sources": [
@@ -42,6 +46,7 @@
     },
     {
       "language": "it",
+      "uuid": "2c1a4eb3-c5b2-55a1-beea-18307f92bb1f",
       "name": "Collezione con statuina Spada e Scudo",
       "releaseDate": "2020-05-08",
       "sources": [
@@ -50,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "f08fd0d0-3a46-501e-8add-e2b3b4cd8bfd",
       "name": "Figuren-Kollektion Schwert & Schild",
       "releaseDate": "2020-05-08",
       "sources": [

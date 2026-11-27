@@ -1,9 +1,11 @@
 {
   "id": "sv1v-booster-box",
+  "uuid": "2b81de34-39ce-5069-bda2-8efe8769b898",
   "region": "asia",
   "set": "SV1V",
   "category": "booster_box",
   "name": "Violet ex Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 689088
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e204d73e-239f-5a74-b5ea-5d9ff01b09bf",
       "name": "Violet ex Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

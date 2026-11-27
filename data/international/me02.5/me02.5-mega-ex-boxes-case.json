@@ -1,15 +1,18 @@
 {
   "id": "me02.5-mega-ex-boxes-case",
+  "uuid": "5681d144-4be1-5a85-bc7d-77d2cc5f54a8",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Ascended Heroes Mega ex Boxes Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cabb7fc9-d7c0-5d11-b275-0f6ec9f1b876",
       "name": "Ascended Heroes Mega ex Boxes Case",
       "identifiers": {
         "tcgplayerProductIds": [

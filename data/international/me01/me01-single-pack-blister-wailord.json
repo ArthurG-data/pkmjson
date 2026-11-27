@@ -1,9 +1,11 @@
 {
   "id": "me01-single-pack-blister-wailord",
+  "uuid": "235ead1a-1865-55d6-ad8a-eb78ac9e67ee",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution Single Pack Blister [Wailord]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "03a794f9-66a1-50e9-8d87-0cc100046a1d",
       "name": "Mega Evolution Single Pack Blister [Wailord]",
       "identifiers": {
         "tcgplayerProductIds": [

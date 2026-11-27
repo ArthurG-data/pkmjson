@@ -1,9 +1,11 @@
 {
   "id": "mep-league-battle-deck-mega-greninja-ex",
+  "uuid": "2b53f8a8-f52d-5177-88c9-f8b1352f8c84",
   "region": "international",
   "set": "mep",
   "category": "battle_deck",
   "name": "League Battle Deck [Mega Greninja ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "21bdce47-fe61-5292-8420-7f004abcf884",
       "name": "League Battle Deck [Mega Greninja ex]",
       "releaseDate": "2026-11-13",
       "identifiers": {

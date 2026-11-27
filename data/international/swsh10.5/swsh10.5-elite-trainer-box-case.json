@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-elite-trainer-box-case",
+  "uuid": "4d72866c-5a0c-5a0e-a620-1f0e08efda6d",
   "region": "international",
   "set": "swsh10.5",
   "category": "case",
   "name": "Pokemon GO Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 690879
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8d16b654-f493-5470-95ea-f5d131079a7e",
       "name": "Pokemon GO Elite Trainer Box Case",
       "releaseDate": "2022-07-01",
       "identifiers": {

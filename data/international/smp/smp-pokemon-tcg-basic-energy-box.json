@@ -1,9 +1,11 @@
 {
   "id": "smp-pokemon-tcg-basic-energy-box",
+  "uuid": "56ee3ec3-dced-5224-a0bc-9cd811eefad5",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Pokemon TCG: Basic Energy Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "408f3625-d6a5-5b72-a22b-2ff44b7a1116",
       "name": "Pokemon TCG: Basic Energy Box",
       "identifiers": {
         "tcgplayerProductIds": [

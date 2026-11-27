@@ -1,9 +1,11 @@
 {
   "id": "sv01-elite-trainer-box-case",
+  "uuid": "e074ce53-b2ef-5544-b7f5-fdf3578787f6",
   "region": "international",
   "set": "sv01",
   "category": "case",
   "name": "Scarlet & Violet Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692105
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1d5c71cb-c048-5e0c-80e1-87afccc159a4",
       "name": "Scarlet & Violet Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

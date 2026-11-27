@@ -1,9 +1,11 @@
 {
   "id": "sm9-theme-deck-relentless-flame-charizard",
+  "uuid": "5f6f87b5-cc03-5c1e-a317-f8cfc82d4eb5",
   "region": "international",
   "set": "sm9",
   "category": "theme_deck",
   "name": "Team Up Theme Deck - \"Relentless Flame\" [Charizard]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 367370
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e949120-3e5c-52c5-b921-e0c072fe526f",
       "name": "Team Up Theme Deck - \"Relentless Flame\" [Charizard]",
       "releaseDate": "2019-02-01",
       "identifiers": {

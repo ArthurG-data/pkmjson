@@ -1,9 +1,11 @@
 {
   "id": "mep-blaziken-ex-special-collection",
+  "uuid": "e45b1bd0-5774-56c7-8d24-fc10f7b3ad2f",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Blaziken ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "88d0f3f9-1d4a-5ce7-b50b-7466775d84f0",
       "name": "Blaziken ex Special Collection",
       "releaseDate": "2025-11-28",
       "identifiers": {

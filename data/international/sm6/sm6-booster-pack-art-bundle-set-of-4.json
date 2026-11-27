@@ -1,15 +1,18 @@
 {
   "id": "sm6-booster-pack-art-bundle-set-of-4",
+  "uuid": "a4bf7b22-dda4-55bd-b4c6-a02618c86c72",
   "region": "international",
   "set": "sm6",
   "category": "other",
   "name": "Forbidden Light Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "747f991d-078a-51b4-801c-6641a7ab9314",
       "name": "Forbidden Light Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

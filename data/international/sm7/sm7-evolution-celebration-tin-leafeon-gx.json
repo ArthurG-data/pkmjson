@@ -1,9 +1,11 @@
 {
   "id": "sm7-evolution-celebration-tin-leafeon-gx",
+  "uuid": "b9e0d4e2-51b8-57a5-9033-a955a9180df4",
   "region": "international",
   "set": "sm7",
   "category": "tin",
   "name": "Evolution Celebration Tin [Leafeon GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a63fa513-8191-5cdf-a7e6-910cfaeccc27",
       "name": "Evolution Celebration Tin [Leafeon GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "es",
+      "uuid": "c402e20c-3d87-5e99-a091-2693e011251f",
       "name": "Lata Celebración de Evolución",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -37,6 +41,7 @@
     },
     {
       "language": "it",
+      "uuid": "4842be61-cac4-532f-b713-76bc3187e070",
       "name": "Scatola da collezione Festa Evolutiva",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -45,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "7c698747-f9ea-5050-ad3a-c52346415d7b",
       "name": "Tin-Box Entwicklungsfest",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -53,6 +59,7 @@
     },
     {
       "language": "fr",
+      "uuid": "57b1917d-b03d-5d70-b8ca-59454c7dc3fb",
       "name": "Boîte Célébration d’Évolutions",
       "releaseDate": "2018-09-21",
       "sources": [

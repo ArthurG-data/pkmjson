@@ -1,15 +1,18 @@
 {
   "id": "xy12-mega-salamence-ex-premium-collection",
+  "uuid": "0d85f30d-4490-5c57-b5db-747f0f4f4428",
   "region": "international",
   "set": "xy12",
   "category": "premium_collection",
   "name": "Mega Salamence EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2453b41c-0df6-5919-830e-ffbef1334ec5",
       "name": "Mega Salamence EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2527fac8-ca0e-5517-a8dd-c58a7ceb14b1",
       "name": "Coffret Méga-Drattak",
       "releaseDate": "2017-09-29",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh4-theme-deck-display",
+  "uuid": "c97a2db3-6ac4-53ae-88d9-e1dc56e05283",
   "region": "international",
   "set": "swsh4",
   "category": "case",
   "name": "Vivid Voltage Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f2a5edec-44b4-561d-8019-bc7f67f3799f",
       "name": "Vivid Voltage Theme Deck Display",
       "identifiers": {
         "tcgplayerProductIds": [

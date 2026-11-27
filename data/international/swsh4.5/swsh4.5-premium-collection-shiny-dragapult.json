@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-premium-collection-shiny-dragapult",
+  "uuid": "15dba13b-aaa4-5981-aa3e-3812b84b2ee4",
   "region": "international",
   "set": "swsh4.5",
   "category": "premium_collection",
   "name": "Shining Fates Premium Collection [Shiny Dragapult]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "43c2f95b-5573-55d1-ac48-3058feb0fa96",
       "name": "Shining Fates Premium Collection [Shiny Dragapult]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -35,6 +38,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7793e868-6bc1-5a63-a136-1810f2175271",
       "name": "Collection Premium Destinées Radieuses Lanssorien-VMAX chromatique",
       "releaseDate": "2021-03-05",
       "sources": [

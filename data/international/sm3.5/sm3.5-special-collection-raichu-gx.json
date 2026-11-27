@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-special-collection-raichu-gx",
+  "uuid": "3f363384-9558-5991-aaa3-8f01ff32a681",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Special Collection: Raichu GX",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 311204
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fbc9be81-ef11-573c-9cb5-3da22b647bd4",
       "name": "Shining Legends Special Collection: Raichu GX",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "da808ed4-7109-5088-bbe5-849ae0277ca7",
       "name": "Collection spéciale Légendes Brillantes Raichu",
       "releaseDate": "2018-01-05",
       "sources": [
@@ -50,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "7e311095-9b6e-5f91-981b-ad692eb9d404",
       "name": "Collezione speciale Raichu-GX dell’espansione Leggende Iridescenti",
       "releaseDate": "2018-01-05",
       "sources": [
@@ -58,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "5dd8463c-b089-523c-883e-972cae41da13",
       "name": "Spezial-Kollektion Raichu-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
       "releaseDate": "2018-01-05",
       "sources": [
@@ -66,6 +72,7 @@
     },
     {
       "language": "es",
+      "uuid": "1563fa24-45f0-5626-8d06-740cd9284293",
       "name": "Colección especial Raichu-GX de Leyendas Luminosas",
       "releaseDate": "2018-01-05",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-wisdom-premium-collection",
+  "uuid": "a5aff43c-12c2-5d1d-9609-e5a517eb20b9",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Paradox Wisdom Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d68ffe9b-ce6e-5afe-ae13-3101b703ff59",
       "name": "Paradox Wisdom Premium Collection",
       "releaseDate": "2024-10-04",
       "identifiers": {

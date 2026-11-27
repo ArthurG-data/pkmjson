@@ -1,9 +1,11 @@
 {
   "id": "sm8-elite-trainer-box",
+  "uuid": "60e80ec7-1fe5-578b-9a4a-326b44e3fc00",
   "region": "international",
   "set": "sm8",
   "category": "elite_trainer_box",
   "name": "Lost Thunder Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 363266
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7b27be1e-6a7c-50d4-92ae-581db9869733",
       "name": "Lost Thunder Elite Trainer Box",
       "releaseDate": "2018-11-02",
       "identifiers": {
@@ -67,6 +70,7 @@
     },
     {
       "language": "fr",
+      "uuid": "35b4856f-03a4-58a8-a846-317b46d8e481",
       "name": "Coffret Dresseur d'élite Soleil et Lune Tonnerre Perdu",
       "releaseDate": "2018-11-02",
       "sources": [
@@ -75,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "be5fae4f-7ca3-570d-a8dc-b2a2d893d9d4",
       "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Tuoni Perduti",
       "releaseDate": "2018-11-02",
       "sources": [
@@ -83,6 +88,7 @@
     },
     {
       "language": "de",
+      "uuid": "9446e372-d67a-5053-ab45-714b710a20a9",
       "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Sonne & Mond – Echo des Donners",
       "releaseDate": "2018-11-02",
       "sources": [
@@ -91,6 +97,7 @@
     },
     {
       "language": "es",
+      "uuid": "df40ee10-16a8-54d8-9dd6-d4fbe29df84b",
       "name": "Caja de Entrenador Élite de Sol y Luna-Truenos Perdidos",
       "releaseDate": "2018-11-02",
       "sources": [

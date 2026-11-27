@@ -1,9 +1,11 @@
 {
   "id": "swsh4-orbeetle-v-box",
+  "uuid": "3f66f58b-28a0-5cad-9133-8330b00afeb6",
   "region": "international",
   "set": "swsh4",
   "category": "collection_box",
   "name": "Orbeetle V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9101afb-04a9-59f2-b62c-ef963c07d93c",
       "name": "Orbeetle V Box",
       "releaseDate": "2020-11-20",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "9da3c024-5bb8-5f1b-ac53-7c2897982710",
       "name": "Kollektion Maritellit-V",
       "releaseDate": "2020-11-20",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c801397d-d64d-57f8-b809-18631d2864e8",
       "name": "Coffret Astronelle-V",
       "releaseDate": "2020-11-20",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "7159dec1-3a1e-5ae4-af75-66e2d64aac70",
       "name": "Collezione Orbeetle-V",
       "releaseDate": "2020-11-20",
       "sources": [

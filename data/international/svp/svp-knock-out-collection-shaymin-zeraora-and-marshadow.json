@@ -1,9 +1,11 @@
 {
   "id": "svp-knock-out-collection-shaymin-zeraora-and-marshadow",
+  "uuid": "c9991d7f-5e76-5677-ba1e-e3007c5221d0",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Knock Out Collection [Shaymin, Zeraora, and Marshadow]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d4eaf153-e075-5baa-8c84-1047063f271f",
       "name": "Knock Out Collection [Shaymin, Zeraora, and Marshadow]",
       "identifiers": {
         "tcgplayerProductIds": [

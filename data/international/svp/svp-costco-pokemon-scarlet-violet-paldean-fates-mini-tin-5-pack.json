@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-scarlet-violet-paldean-fates-mini-tin-5-pack",
+  "uuid": "082fe110-e1a5-5492-954b-4e871103e0da",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Costco Pokemon Scarlet & Violet Paldean Fates Mini Tin 5-pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 5 - Paldean Fates Mini Tins; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "02e2d6f8-2d4b-5c21-9a6f-7d9af6e6d6d7",
       "name": "Costco Pokemon Scarlet & Violet Paldean Fates Mini Tin 5-pack",
       "identifiers": {
         "tcgplayerProductIds": [

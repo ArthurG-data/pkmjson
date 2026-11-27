@@ -1,9 +1,11 @@
 {
   "id": "sv03-build-battle-box",
+  "uuid": "aafd7f6b-48a1-5345-99a6-7834ae2d292a",
   "region": "international",
   "set": "sv03",
   "category": "build_and_battle_box",
   "name": "Obsidian Flames Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715783
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ab83da9b-547c-5b53-bf59-9ec0854a49ca",
       "name": "Obsidian Flames Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

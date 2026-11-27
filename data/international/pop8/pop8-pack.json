@@ -1,15 +1,18 @@
 {
   "id": "pop8-pack",
+  "uuid": "713450f3-ba5f-5dc5-92b5-a58553e95c13",
   "region": "international",
   "set": "pop8",
   "category": "other",
   "name": "POP Series 8 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "13a27afc-d4d3-5b7e-8f9e-7dd77654d6e3",
       "name": "POP Series 8 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

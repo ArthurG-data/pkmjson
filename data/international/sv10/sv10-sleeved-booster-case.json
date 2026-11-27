@@ -1,9 +1,11 @@
 {
   "id": "sv10-sleeved-booster-case",
+  "uuid": "e9984be2-b203-576e-9f16-507b1f7b79e6",
   "region": "international",
   "set": "sv10",
   "category": "case",
   "name": "Destined Rivals Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818577
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bee7229b-df53-50b8-8e1f-9b1c7285e739",
       "name": "Destined Rivals Sleeved Booster Case",
       "releaseDate": "2025-05-30",
       "identifiers": {

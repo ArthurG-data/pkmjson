@@ -1,9 +1,11 @@
 {
   "id": "sm10-single-pack-blister-eevee",
+  "uuid": "dfe2d845-8dc2-58f8-a090-b3527ecd302a",
   "region": "international",
   "set": "sm10",
   "category": "blister",
   "name": "Unbroken Bonds Single Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585912
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b2372f26-1816-5e9d-9ab5-b10b53edd7b7",
       "name": "Unbroken Bonds Single Pack Blister [Eevee]",
       "releaseDate": "2019-05-03",
       "identifiers": {

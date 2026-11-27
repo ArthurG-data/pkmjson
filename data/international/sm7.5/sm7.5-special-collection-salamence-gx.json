@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-special-collection-salamence-gx",
+  "uuid": "344969bd-7739-5603-b4a2-ec1bcd76fc95",
   "region": "international",
   "set": "sm7.5",
   "category": "collection_box",
   "name": "Dragon Majesty Special Collection: Salamence GX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dbca103b-f2e5-58ab-97bb-4a9bad5e3a4e",
       "name": "Dragon Majesty Special Collection: Salamence GX",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f9dc3d67-5a15-5a18-ab3f-3e4d66850066",
       "name": "Collection spéciale Majesté des Dragons Drattak",
       "releaseDate": "2018-11-16",
       "sources": [

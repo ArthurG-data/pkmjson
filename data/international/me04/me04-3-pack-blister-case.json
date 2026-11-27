@@ -1,15 +1,18 @@
 {
   "id": "me04-3-pack-blister-case",
+  "uuid": "5f1f64f7-f2e8-5887-956e-950b90d45b77",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising 3-Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "415a4e09-2fa7-54e4-aaa2-dccef46a366d",
       "name": "Chaos Rising 3-Pack Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

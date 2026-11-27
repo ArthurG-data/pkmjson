@@ -1,9 +1,11 @@
 {
   "id": "sv06-premium-checklane-blister-lokix",
+  "uuid": "106595e6-177f-52f4-912a-6641c7cbf888",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade Premium Checklane Blister [Lokix]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b9bdd78a-da12-5fd0-bd13-af7e17b36af0",
       "name": "Twilight Masquerade Premium Checklane Blister [Lokix]",
       "identifiers": {
         "tcgplayerProductIds": [

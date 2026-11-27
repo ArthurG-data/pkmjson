@@ -1,9 +1,11 @@
 {
   "id": "sm6-dusk-mane-necrozma-premium-collection",
+  "uuid": "6c5c8b8b-a870-5700-a1bf-80dc68c26bb6",
   "region": "international",
   "set": "sm6",
   "category": "premium_collection",
   "name": "Dusk Mane Necrozma Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1ead8776-4efe-520f-800d-2d901896bc09",
       "name": "Dusk Mane Necrozma Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -37,6 +40,7 @@
     },
     {
       "language": "fr",
+      "uuid": "523de0fe-8fe7-5b57-8e43-f8d92f605f3b",
       "name": "Collection avec figurine Necrozma Crinière du Couchant",
       "releaseDate": "2018-09-19",
       "contents": {

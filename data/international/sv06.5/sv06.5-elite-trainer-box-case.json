@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-elite-trainer-box-case",
+  "uuid": "f43523b6-a3cc-5d99-9a02-c75eb1e6735a",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770960
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c8f7aa45-8a5e-5c47-83ba-4a7f48ecc912",
       "name": "Shrouded Fable Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

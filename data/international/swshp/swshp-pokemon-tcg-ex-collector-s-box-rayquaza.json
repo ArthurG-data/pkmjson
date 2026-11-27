@@ -1,15 +1,18 @@
 {
   "id": "swshp-pokemon-tcg-ex-collector-s-box-rayquaza",
+  "uuid": "4937bba2-0352-5cbb-89b5-524763143808",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Pokemon TCG: EX Collector's Box [Rayquaza]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: three booster packs; two POP Series 1 packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f24af0cb-beb3-5b51-a980-0222d6830841",
       "name": "Pokemon TCG: EX Collector's Box [Rayquaza]",
       "identifiers": {
         "tcgplayerProductIds": [

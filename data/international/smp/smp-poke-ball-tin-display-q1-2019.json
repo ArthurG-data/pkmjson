@@ -1,15 +1,18 @@
 {
   "id": "smp-poke-ball-tin-display-q1-2019",
+  "uuid": "034716ff-ba54-51af-afd1-bf6e9d088d93",
   "region": "international",
   "set": "smp",
   "category": "case",
   "name": "Poke Ball Tin Display (Q1 2019)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ae92342f-2293-5998-896d-f725b393539d",
       "name": "Poke Ball Tin Display (Q1 2019)",
       "identifiers": {
         "tcgplayerProductIds": [

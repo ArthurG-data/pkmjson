@@ -1,9 +1,11 @@
 {
   "id": "pl4-theme-deck-stormshaper",
+  "uuid": "3c5f942b-82bd-518f-b10e-4644e078eb62",
   "region": "international",
   "set": "pl4",
   "category": "theme_deck",
   "name": "Arceus Theme Deck - \"Stormshaper\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286602
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f267697-9f33-51fe-adc7-6d8c859ccf1a",
       "name": "Arceus Theme Deck - \"Stormshaper\"",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10-elite-trainer-box",
+  "uuid": "38d04797-ddc9-5b2a-99b4-5ef5da50a156",
   "region": "international",
   "set": "swsh10",
   "category": "elite_trainer_box",
   "name": "Astral Radiance Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611359
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "936fd67d-638d-57d9-bd47-93b7d5172db2",
       "name": "Astral Radiance Elite Trainer Box",
       "releaseDate": "2022-05-27",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "60fcfb75-5551-56cb-a831-9c99a4572a1c",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Astres Radieux",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Astres_Radieux"
@@ -78,6 +82,7 @@
     },
     {
       "language": "de",
+      "uuid": "5bd6f065-0d95-58e7-b43f-1d615d3b6455",
       "name": "Top-Trainer-Box Schwert & Schild – Astralglanz",
       "releaseDate": "2022-05-27",
       "sources": [
@@ -86,6 +91,7 @@
     },
     {
       "language": "es",
+      "uuid": "3ea4a9f4-537f-5b04-849c-b5d8608ad554",
       "name": "Caja de Entrenador Élite de Espada y Escudo-Resplandor Astral",
       "releaseDate": "2022-06-20",
       "sources": [
@@ -94,6 +100,7 @@
     },
     {
       "language": "it",
+      "uuid": "76560ede-a4a7-55e0-ac01-4c6e598e97cb",
       "name": "Set Allenatore Fuoriclasse Spada e Scudo - Lucentezza Siderale",
       "releaseDate": "2022-05-27",
       "sources": [

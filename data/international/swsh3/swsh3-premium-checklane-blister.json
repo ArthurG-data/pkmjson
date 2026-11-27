@@ -1,9 +1,11 @@
 {
   "id": "swsh3-premium-checklane-blister",
+  "uuid": "eabd2ce1-ea14-5230-accd-091d7907908d",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze Premium Checklane Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa8b405b-63d5-5713-8e4d-4a07b479e562",
       "name": "Darkness Ablaze Premium Checklane Blister",
       "releaseDate": "2020-08-14",
       "identifiers": {

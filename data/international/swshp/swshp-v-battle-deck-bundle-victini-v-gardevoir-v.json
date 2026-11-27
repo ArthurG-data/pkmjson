@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-bundle-victini-v-gardevoir-v",
+  "uuid": "35f04221-3fcf-5de5-8510-c591ad4938d3",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck Bundle [Victini V/Gardevoir V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d3e5e478-2c4b-563d-8515-192a59f3944b",
       "name": "V Battle Deck Bundle [Victini V/Gardevoir V]",
       "identifiers": {
         "tcgplayerProductIds": [

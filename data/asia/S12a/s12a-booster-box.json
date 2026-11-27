@@ -1,9 +1,11 @@
 {
   "id": "s12a-booster-box",
+  "uuid": "2c7bd4f1-e1c7-55c1-abd9-2088bfea7231",
   "region": "asia",
   "set": "S12a",
   "category": "booster_box",
   "name": "VSTAR Universe Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 681796
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "99b05160-188c-51c6-9a6a-17b4a982162d",
       "name": "VSTAR Universe Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

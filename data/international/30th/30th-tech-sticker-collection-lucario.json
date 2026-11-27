@@ -1,9 +1,11 @@
 {
   "id": "30th-tech-sticker-collection-lucario",
+  "uuid": "588dcdf6-670a-5512-a623-485f7a5f8b30",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Tech Sticker Collection [Lucario]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895555
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "062f3118-5b21-56af-a8b0-dd9a4f4b512e",
       "name": "30th Celebration Tech Sticker Collection [Lucario]",
       "releaseDate": "2026-09-16",
       "identifiers": {

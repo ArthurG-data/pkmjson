@@ -1,9 +1,11 @@
 {
   "id": "sm1plus-booster-pack",
+  "uuid": "bc883066-23e4-59aa-98ff-044e59fcc575",
   "region": "asia",
   "set": "SM1+",
   "category": "booster_pack",
   "name": "Sun & Moon Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "5308a4f0-7fdf-5f74-81f1-510376b6c67c",
       "name": "Sun & Moon Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

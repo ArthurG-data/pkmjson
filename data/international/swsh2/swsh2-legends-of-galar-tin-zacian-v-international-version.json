@@ -1,9 +1,11 @@
 {
   "id": "swsh2-legends-of-galar-tin-zacian-v-international-version",
+  "uuid": "feb52053-a717-55f2-8a69-879eae8ffdc6",
   "region": "international",
   "set": "swsh2",
   "category": "tin",
   "name": "Legends of Galar Tin [Zacian V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e9869513-1e85-55bd-8c13-7c60fb30d097",
       "name": "Legends of Galar Tin [Zacian V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

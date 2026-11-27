@@ -1,9 +1,11 @@
 {
   "id": "me05-elite-trainer-box",
+  "uuid": "a074cbdc-55e9-52e2-bf31-1c56e5ebc659",
   "region": "international",
   "set": "me05",
   "category": "elite_trainer_box",
   "name": "Pitch Black Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885542
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8cb47e7f-9b1c-57aa-a0ee-e0a2c1691799",
       "name": "Pitch Black Elite Trainer Box",
       "releaseDate": "2026-07-17",
       "identifiers": {

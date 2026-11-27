@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-tin-inteleon-v",
+  "uuid": "ab9fa048-4b56-5496-8eb0-3a449e8cd6b9",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Galar Partners Tin [Inteleon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "64d817c5-cfda-5dfc-8c5d-a6e6d604577b",
       "name": "Galar Partners Tin [Inteleon V]",
       "releaseDate": "2020-02-27",
       "identifiers": {

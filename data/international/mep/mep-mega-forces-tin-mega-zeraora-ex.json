@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-forces-tin-mega-zeraora-ex",
+  "uuid": "82d79b78-ea70-59eb-9d5c-d53b7922fe0f",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Mega Forces Tin [Mega Zeraora ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c0298927-0524-582a-8675-073218b7151c",
       "name": "Mega Forces Tin [Mega Zeraora ex]",
       "releaseDate": "2026-08-28",
       "identifiers": {

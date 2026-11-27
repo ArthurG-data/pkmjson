@@ -1,15 +1,18 @@
 {
   "id": "30th-binder-collection-case",
+  "uuid": "44e48b02-9e2b-5f83-a16c-a5dac322f267",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Binder Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "25473bcf-8158-504a-83d6-3e6a0c461a56",
       "name": "30th Celebration Binder Collection Case",
       "releaseDate": "2026-12-04",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "xy3-knock-out-collection-kanto",
+  "uuid": "3dc102e7-68b6-500a-b476-f00199cfad8c",
   "region": "international",
   "set": "xy3",
   "category": "collection_box",
   "name": "XY Knock Out Collection [Kanto]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "88d3c28e-d7f6-5fff-8109-db18a677aae9",
       "name": "XY Knock Out Collection [Kanto]",
       "identifiers": {
         "tcgplayerProductIds": [

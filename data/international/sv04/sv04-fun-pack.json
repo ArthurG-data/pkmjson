@@ -1,15 +1,18 @@
 {
   "id": "sv04-fun-pack",
+  "uuid": "e2c3cbd0-7cd5-5ada-a3a4-82b984d301d7",
   "region": "international",
   "set": "sv04",
   "category": "other",
   "name": "Paradox Rift Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b79e853a-bb35-5d45-97de-fe7247023de9",
       "name": "Paradox Rift Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

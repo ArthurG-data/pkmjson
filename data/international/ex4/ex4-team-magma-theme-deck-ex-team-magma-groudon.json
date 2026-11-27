@@ -1,9 +1,11 @@
 {
   "id": "ex4-team-magma-theme-deck-ex-team-magma-groudon",
+  "uuid": "e4142d62-4622-5389-89b1-5153bf0b471a",
   "region": "international",
   "set": "ex4",
   "category": "theme_deck",
   "name": "Team Magma Theme Deck - \"EX Team Magma\" [Groudon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f1630537-a0b2-5c6e-8bc9-50e3ed50be33",
       "name": "Team Magma Theme Deck - \"EX Team Magma\" [Groudon]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "dp6-booster-pack",
+  "uuid": "73499cc1-2bb4-5d1e-a9d7-68966290c45f",
   "region": "international",
   "set": "dp6",
   "category": "booster_pack",
   "name": "Legends Awakened Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271835
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2a382e5d-5cef-5454-82cf-d05acb60f757",
       "name": "Diamond & Pearl—Legends Awakened",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "s6a-booster-pack",
+  "uuid": "8d5996ae-51ea-5556-ad76-c432a0f7816a",
   "region": "asia",
   "set": "S6a",
   "category": "booster_pack",
   "name": "Eevee Heroes Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 564172
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d5cc843b-9128-53f6-b97c-f6ceb0cb0f4d",
       "name": "強化拡張パック「イーブイヒーローズ」",
       "releaseDate": "2021-05-28",
       "identifiers": {

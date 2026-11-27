@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-destinies-tin-iron-crown-ex",
+  "uuid": "6233f343-0dc6-55bd-b64a-314caa72db07",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Destinies Tin [Iron Crown ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7e5a762d-8bfe-5d60-ae87-fe1c5b602462",
       "name": "Paradox Destinies Tin [Iron Crown ex]",
       "releaseDate": "2024-09-06",
       "identifiers": {

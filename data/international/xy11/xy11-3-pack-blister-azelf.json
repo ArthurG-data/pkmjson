@@ -1,9 +1,11 @@
 {
   "id": "xy11-3-pack-blister-azelf",
+  "uuid": "b9bb348f-5f23-5026-8378-f4e61dcd3a10",
   "region": "international",
   "set": "xy11",
   "category": "blister",
   "name": "Steam Siege 3 Pack Blister [Azelf]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586339
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c5648098-8825-5dfb-ac51-059ebb2d1495",
       "name": "Steam Siege 3 Pack Blister [Azelf]",
       "identifiers": {
         "tcgplayerProductIds": [

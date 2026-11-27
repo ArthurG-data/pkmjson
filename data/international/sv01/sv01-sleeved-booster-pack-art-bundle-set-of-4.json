@@ -1,15 +1,18 @@
 {
   "id": "sv01-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "1a83457d-02a6-556f-8255-9ef3976ee5bb",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cb0c53f8-5f90-5c57-9edc-8c7370c7553d",
       "name": "Scarlet & Violet Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2023-03-31",
       "identifiers": {

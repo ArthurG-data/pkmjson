@@ -1,9 +1,11 @@
 {
   "id": "mep-pokemon-day-2026-collection",
+  "uuid": "9455fd9f-8260-51af-932c-2c8f22d2ce16",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Pokemon Day 2026 Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5bb5cc10-7eb9-5fd0-bb3b-8e96b3a53e68",
       "name": "Pokemon Day 2026 Collection",
       "identifiers": {
         "tcgplayerProductIds": [

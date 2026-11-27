@@ -1,9 +1,11 @@
 {
   "id": "svp-mimikyu-ex-showcase",
+  "uuid": "167b4c31-c143-5763-ba5d-590d416ef46e",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Mimikyu ex Showcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cea470ec-dc3f-5c6e-a398-357d392b1e66",
       "name": "Mimikyu ex Showcase",
       "identifiers": {
         "tcgplayerProductIds": [

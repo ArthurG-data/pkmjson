@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-great-tusk-ex-iron-treads-ex-premium-collection",
+  "uuid": "16f01ff7-462e-5619-b77b-ffa90b3c3d8d",
   "region": "international",
   "set": "sv04.5",
   "category": "premium_collection",
   "name": "Paldean Fates Great Tusk ex & Iron Treads ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 866034
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a2bb3c31-3c2c-54f8-bc86-4785fcdd9d35",
       "name": "Paldean Fates Great Tusk ex & Iron Treads ex Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

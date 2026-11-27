@@ -1,15 +1,18 @@
 {
   "id": "base3-blister-pack",
+  "uuid": "7e699a5f-5acf-5efa-b3b3-a1514d686d3c",
   "region": "international",
   "set": "base3",
   "category": "blister",
   "name": "Fossil Blister Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 11 additional game cards for the trading card game.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e2fa9960-2ca8-5084-928a-47938b8d1760",
       "name": "Fossil Blister Pack",
       "identifiers": {
         "tcgplayerProductIds": [

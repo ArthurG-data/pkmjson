@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-international-tin-inteleon-v",
+  "uuid": "11945bc6-d34f-59a1-9fa5-d1176a23a071",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Galar Partners International Tin [Inteleon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dfa3f4bd-53d7-5cb3-bfa4-1e6e2d0cf13c",
       "name": "Galar Partners International Tin [Inteleon V]",
       "identifiers": {
         "tcgplayerProductIds": [

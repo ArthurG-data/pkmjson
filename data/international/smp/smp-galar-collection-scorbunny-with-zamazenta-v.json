@@ -1,9 +1,11 @@
 {
   "id": "smp-galar-collection-scorbunny-with-zamazenta-v",
+  "uuid": "05755100-b712-5cb2-913d-7d25734665b7",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Galar Collection [Scorbunny] - with Zamazenta V",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7a61598f-542b-5ce6-932a-f3e26eaebd78",
       "name": "Galar Collection [Scorbunny] - with Zamazenta V",
       "releaseDate": "2019-11-15",
       "identifiers": {

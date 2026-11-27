@@ -1,9 +1,11 @@
 {
   "id": "xy2-sleeved-booster-pack",
+  "uuid": "bed0088e-1315-5b18-820c-5b270ec3bc4d",
   "region": "international",
   "set": "xy2",
   "category": "sleeved_booster_pack",
   "name": "Flashfire Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "869772b8-452c-5f02-9561-fc61719f9035",
       "name": "Flashfire Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

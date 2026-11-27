@@ -1,9 +1,11 @@
 {
   "id": "sm115-collection-gyarados-gx",
+  "uuid": "125bf4bd-f33e-51d2-a7e0-7402e918326a",
   "region": "international",
   "set": "sm115",
   "category": "collection_box",
   "name": "Hidden Fates Collection [Gyarados GX]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570350
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "94a304ca-f9e8-5966-a362-c7bc0db42a7f",
       "name": "Hidden Fates Collection [Gyarados GX]",
       "identifiers": {
         "tcgplayerProductIds": [

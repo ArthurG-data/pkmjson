@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-booster-bundle-surprise-box-bundle-sam-s-club",
+  "uuid": "d43eab05-745f-5339-ac5c-aa5b09c0735d",
   "region": "international",
   "set": "sv08.5",
   "category": "booster_bundle",
   "name": "Prismatic Evolutions Booster Bundle + Surprise Box Bundle (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0d8fd8f2-8cda-538f-88a9-b3f33f2c0e78",
       "name": "Prismatic Evolutions Booster Bundle + Surprise Box Bundle (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

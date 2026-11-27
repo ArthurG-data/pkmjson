@@ -1,15 +1,18 @@
 {
   "id": "xy12-mewtwo-ex-box",
+  "uuid": "209f267e-465e-5dff-a341-d78bc5e43cd2",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Mewtwo EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "41237251-d33a-5c28-adeb-c16914378c40",
       "name": "Mewtwo EX Box",
       "identifiers": {
         "tcgplayerProductIds": [

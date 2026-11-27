@@ -1,15 +1,18 @@
 {
   "id": "me02.5-collection-case",
+  "uuid": "5485e4a8-4de1-5ad0-9996-caf836984824",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Mega Evolution: Ascended Heroes Collection case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ee677459-2c04-5ed9-97e7-947b5f6e54e7",
       "name": "Mega Evolution: Ascended Heroes Collection case",
       "identifiers": {
         "tcgplayerProductIds": [

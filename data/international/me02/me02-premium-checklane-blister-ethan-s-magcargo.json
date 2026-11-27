@@ -1,9 +1,11 @@
 {
   "id": "me02-premium-checklane-blister-ethan-s-magcargo",
+  "uuid": "ea508e01-0cc2-50af-9467-27ec70ce8981",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames Premium Checklane Blister [Ethan's Magcargo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ce87cad1-3539-5ca1-b9f0-d46e25f000df",
       "name": "Phantasmal Flames Premium Checklane Blister [Ethan's Magcargo]",
       "identifiers": {
         "tcgplayerProductIds": [

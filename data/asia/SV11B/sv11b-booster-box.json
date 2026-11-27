@@ -1,9 +1,11 @@
 {
   "id": "sv11b-booster-box",
+  "uuid": "86aedb69-2ec5-5643-b749-afe349e1d21d",
   "region": "asia",
   "set": "SV11B",
   "category": "booster_box",
   "name": "Black Bolt Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "095175b0-e4d1-5941-9282-eaf1ae1cc0df",
       "name": "Black Bolt Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

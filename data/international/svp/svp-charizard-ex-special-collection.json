@@ -1,9 +1,11 @@
 {
   "id": "svp-charizard-ex-special-collection",
+  "uuid": "f58d5280-bf50-5bb7-adad-f075a756f51f",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Charizard ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "858c9d67-2c1c-5e76-abd7-54a520e7cd31",
       "name": "Charizard ex Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b491355f-bf04-57c5-baf8-9ab0ad09235b",
       "name": "Collection spéciale Dracaufeu-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-speciale-dracaufeu-ex"
@@ -40,6 +44,7 @@
     },
     {
       "language": "de",
+      "uuid": "68e38ee7-da7c-5772-9fa8-e3728498af66",
       "name": "Spezial-Kollektion Glurak-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-glurak-ex"
@@ -47,6 +52,7 @@
     },
     {
       "language": "it",
+      "uuid": "10684609-b1d4-5c40-8611-b5f648d30845",
       "name": "Collezione speciale Charizard-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-speciale-charizard-ex"
@@ -54,6 +60,7 @@
     },
     {
       "language": "es",
+      "uuid": "fe01d118-cfab-5545-a013-a66c3adacd29",
       "name": "Colección especial Charizard ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-charizard-ex"

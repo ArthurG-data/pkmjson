@@ -1,9 +1,11 @@
 {
   "id": "base1-pokemon-1st-edition-booster-pack",
+  "uuid": "6d074edf-4654-5589-b354-b64caef732b6",
   "region": "international",
   "set": "base1",
   "category": "booster_pack",
   "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "26385869-e8ec-5dfc-95f9-247d4a6471af",
       "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

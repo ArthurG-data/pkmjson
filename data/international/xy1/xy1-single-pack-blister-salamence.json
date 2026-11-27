@@ -1,9 +1,11 @@
 {
   "id": "xy1-single-pack-blister-salamence",
+  "uuid": "8f8d9514-8c19-5112-a177-6e3726679a48",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Single Pack Blister [Salamence]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586419
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "967dbca6-83eb-55b0-a7e8-b2660a1718a7",
       "name": "XY Single Pack Blister [Salamence]",
       "identifiers": {
         "tcgplayerProductIds": [

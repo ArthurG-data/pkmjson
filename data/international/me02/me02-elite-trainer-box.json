@@ -1,9 +1,11 @@
 {
   "id": "me02-elite-trainer-box",
+  "uuid": "80335cd1-2636-5983-9a28-cbada944ba81",
   "region": "international",
   "set": "me02",
   "category": "elite_trainer_box",
   "name": "Phantasmal Flames Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846744
   },
@@ -64,6 +66,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "875322b6-63b6-587d-ae38-0d41b8e63b99",
       "name": "Phantasmal Flames Elite Trainer Box",
       "releaseDate": "2025-11-14",
       "identifiers": {

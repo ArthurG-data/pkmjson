@@ -1,9 +1,11 @@
 {
   "id": "xy7-theme-deck-stone-heart-regirock",
+  "uuid": "12aeabad-2fb7-546d-be92-2d30d69f1ab0",
   "region": "international",
   "set": "xy7",
   "category": "theme_deck",
   "name": "Ancient Origins Theme Deck - \"Stone Heart\" [Regirock]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286628
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cfdeedf6-84f4-5503-9ca6-2cc526f991bc",
       "name": "Ancient Origins Theme Deck - \"Stone Heart\" [Regirock]",
       "identifiers": {
         "tcgplayerProductIds": [

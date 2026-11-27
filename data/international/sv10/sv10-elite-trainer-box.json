@@ -1,9 +1,11 @@
 {
   "id": "sv10-elite-trainer-box",
+  "uuid": "cfb2c3c4-ae3c-5746-946b-a88979327e14",
   "region": "international",
   "set": "sv10",
   "category": "elite_trainer_box",
   "name": "Destined Rivals Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818585
   },
@@ -64,6 +66,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ded14f5a-db67-595e-bf18-3dca8646cee7",
       "name": "Destined Rivals Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -76,6 +79,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b25efd11-a10d-5b57-ab37-89640a353d81",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Rivalités Destinées",
       "releaseDate": "2025-05-30",
       "sources": [
@@ -84,6 +88,7 @@
     },
     {
       "language": "it",
+      "uuid": "00e214ed-64f5-50e4-8329-bfad3c328c58",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Rivali Predestinati",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-rivali-predestinati"
@@ -91,6 +96,7 @@
     },
     {
       "language": "de",
+      "uuid": "84c79323-bd6b-5b09-bc15-ed3eaf0d3400",
       "name": "Top-Trainer-Box Karmesin & Purpur – Ewige Rivalen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-ewige-rivalen"
@@ -98,6 +104,7 @@
     },
     {
       "language": "es",
+      "uuid": "e2b12f43-8520-5f8a-b541-744cacd74484",
       "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Rivales Predestinados",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-rivales-predestinados"

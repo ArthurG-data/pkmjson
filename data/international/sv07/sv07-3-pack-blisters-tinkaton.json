@@ -1,9 +1,11 @@
 {
   "id": "sv07-3-pack-blisters-tinkaton",
+  "uuid": "2d1abc4b-0729-5c1b-a5c6-f507e305e80e",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown 3 Pack Blisters [Tinkaton]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776333
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "08e13570-c2f8-5f6b-83f5-4639c3066316",
       "name": "Stellar Crown 3 Pack Blisters [Tinkaton]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -48,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "610933c6-a729-58fa-9470-3fc51d42ef37",
       "name": "Tripack EV07 Forgelina",
       "releaseDate": "2024-09-13",
       "sources": [

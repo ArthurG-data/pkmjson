@@ -1,9 +1,11 @@
 {
   "id": "xy8-3-pack-blister-celebi",
+  "uuid": "ff9324df-1ccc-5e48-860e-3b480fa5528d",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough 3 Pack Blister [Celebi]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586370
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d7f9923a-699e-5562-94a0-51ef75ef0934",
       "name": "BREAKthrough 3 Pack Blister [Celebi]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "242598f7-1f96-5006-92c7-0cf019e88a2f",
       "name": "Tripack XY08 Celebi",
       "releaseDate": "2015-11-07",
       "contents": {

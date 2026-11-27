@@ -1,9 +1,11 @@
 {
   "id": "sv10-elite-trainer-box-case",
+  "uuid": "009f8756-323a-5d26-80ee-b208cc72b38c",
   "region": "international",
   "set": "sv10",
   "category": "case",
   "name": "Destined Rivals Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818584
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8d26ddc2-1fbd-5d95-8333-ea35bd7ff01f",
       "name": "Destined Rivals Elite Trainer Box Case",
       "releaseDate": "2025-05-30",
       "identifiers": {

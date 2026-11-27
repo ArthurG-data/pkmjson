@@ -1,9 +1,11 @@
 {
   "id": "me04-single-pack-blister-toxel",
+  "uuid": "39b5f8bc-b32c-5152-b9ce-fb78f0713d9e",
   "region": "international",
   "set": "me04",
   "category": "blister",
   "name": "Chaos Rising Single Pack Blister [Toxel]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877285
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fa976ba-cf60-5f30-ad52-48f6f2d499f0",
       "name": "Chaos Rising Single Pack Blister [Toxel]",
       "releaseDate": "2026-05-22",
       "identifiers": {

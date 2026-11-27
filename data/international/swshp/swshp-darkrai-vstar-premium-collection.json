@@ -1,9 +1,11 @@
 {
   "id": "swshp-darkrai-vstar-premium-collection",
+  "uuid": "465a1c5c-cf77-52ad-9bd0-3a28cee94de3",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Darkrai VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bee830ab-5866-553f-bf44-28955e0d991b",
       "name": "Darkrai VSTAR Premium Collection",
       "releaseDate": "2022-11-01",
       "identifiers": {

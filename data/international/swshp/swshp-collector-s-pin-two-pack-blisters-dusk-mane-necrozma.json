@@ -1,9 +1,11 @@
 {
   "id": "swshp-collector-s-pin-two-pack-blisters-dusk-mane-necrozma",
+  "uuid": "39700ac0-105e-5972-906b-6ce8aeb135e5",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Collector's Pin Two Pack Blisters [Dusk Mane Necrozma]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "094fffe1-c53b-5aa6-831b-08db0b129b5f",
       "name": "Collector's Pin Two Pack Blisters [Dusk Mane Necrozma]",
       "identifiers": {
         "tcgplayerProductIds": [

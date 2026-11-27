@@ -1,9 +1,11 @@
 {
   "id": "xy6-elite-trainer-box",
+  "uuid": "3897e029-3a43-5d82-94a5-e2a51ae5c498",
   "region": "international",
   "set": "xy6",
   "category": "elite_trainer_box",
   "name": "XY Roaring Skies Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286952
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf30b670-54d7-5850-b791-b48bf9762503",
       "name": "XY Roaring Skies Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

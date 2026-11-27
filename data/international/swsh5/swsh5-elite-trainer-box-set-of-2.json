@@ -1,15 +1,18 @@
 {
   "id": "swsh5-elite-trainer-box-set-of-2",
+  "uuid": "5b07e487-c946-5f44-8cf6-abcc5651834a",
   "region": "international",
   "set": "swsh5",
   "category": "other",
   "name": "Battle Styles Elite Trainer Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0ce5d71c-151f-5943-9e24-1b7fc867e1e9",
       "name": "Battle Styles Elite Trainer Box [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

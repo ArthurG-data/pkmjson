@@ -1,9 +1,11 @@
 {
   "id": "xy1-kalos-starter-figure-box-froakie-box",
+  "uuid": "ffe15fc1-cad2-5e9a-b4d7-f72471059a76",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Kalos Starter Figure Box [Froakie Box]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "214b5720-5935-5cf6-b310-d568b9cd5eaf",
       "name": "Kalos Starter Figure Box [Froakie Box]",
       "identifiers": {
         "tcgplayerProductIds": [

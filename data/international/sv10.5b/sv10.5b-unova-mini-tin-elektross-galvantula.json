@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-mini-tin-elektross-galvantula",
+  "uuid": "6feb900c-1b8e-5832-b83a-68bacb8c097e",
   "region": "international",
   "set": "sv10.5b",
   "category": "tin",
   "name": "Unova Mini Tin [Elektross & Galvantula]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9369fe6a-252c-541a-9484-2148af469ba1",
       "name": "Unova Mini Tin [Elektross & Galvantula]",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8b4fd461-9bab-5e5d-9634-7af85c1425a4",
       "name": "Mini-boîte Unys",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "a6e89215-8e6f-5a60-a75d-806e211bfd86",
       "name": "Mini-Tin-Box Einall",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "d09b038c-ee41-5080-94a3-1df5e344f27f",
       "name": "Colecciona las ocho minilatas Teselia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
@@ -61,6 +67,7 @@
     },
     {
       "language": "it",
+      "uuid": "1edb3593-12a7-5a8e-b5c2-9aef8e9bb991",
       "name": "Miniscatola da collezione Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"

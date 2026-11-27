@@ -1,9 +1,11 @@
 {
   "id": "sv09-booster-box-case",
+  "uuid": "4cea0a4d-da1b-55f6-a141-b01bf09e5c09",
   "region": "international",
   "set": "sv09",
   "category": "case",
   "name": "Journey Together Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805582
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c35b4fec-6ddd-5bf0-b3bf-64ab5cbb890e",
       "name": "Journey Together Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

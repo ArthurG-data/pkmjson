@@ -1,9 +1,11 @@
 {
   "id": "me01-mega-heroes-mini-tin-mega-gardevoir",
+  "uuid": "096c7d23-c9eb-53f3-a3ff-9e361e9f78a5",
   "region": "international",
   "set": "me01",
   "category": "tin",
   "name": "Mega Heroes Mini Tin [Mega Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834806
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c2fae64d-b30a-5fe6-b03e-c9c29b2c6847",
       "name": "Mega Heroes Mini Tin [Mega Gardevoir]",
       "releaseDate": "2025-09-26",
       "identifiers": {

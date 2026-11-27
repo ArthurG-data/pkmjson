@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-venusaur-ex-premium-collection",
+  "uuid": "02591ded-1792-5281-bcce-4fb22a874949",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Mega Venusaur ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "771c4c41-2deb-514b-be11-f0a20b2160da",
       "name": "Mega Venusaur ex Premium Collection",
       "releaseDate": "2025-12-05",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "it",
+      "uuid": "4e78e106-5dd8-5bec-93da-2e4679648b8a",
       "name": "Collezione premium Mega Venusaur-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-mega-venusaur-ex"
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "576126c7-d593-5ae8-a064-293ed7825417",
       "name": "Premium-Kollektion Mega-Bisaflor-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-mega-bisaflor-ex"
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "18ba0978-2799-5253-b30e-ebe2255c9944",
       "name": "Colección prémium Mega-Venusaur ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-mega-venusaur-ex"
@@ -61,6 +67,7 @@
     },
     {
       "language": "fr",
+      "uuid": "37b428ca-3792-5114-af25-58c31b1c4a18",
       "name": "Collection Premium Méga-Florizarre-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-mega-florizarre-ex"

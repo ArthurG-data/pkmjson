@@ -1,15 +1,18 @@
 {
   "id": "sm7-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "0c7babcb-763f-5ebd-bde3-2a06f3c076d7",
   "region": "international",
   "set": "sm7",
   "category": "other",
   "name": "Celestial Storm Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f2b62a8a-ae8c-5a4a-ad63-06a9f3a1a8f4",
       "name": "Celestial Storm Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

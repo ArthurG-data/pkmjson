@@ -1,9 +1,11 @@
 {
   "id": "xy6-booster-pack",
+  "uuid": "4340e377-46cc-5936-91bb-48a94e81afac",
   "region": "international",
   "set": "xy6",
   "category": "booster_pack",
   "name": "Roaring Skies Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 282787
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8a5f9b51-91c6-54d4-8745-1121e63e925c",
       "name": "XY—Roaring Skies",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a8d59b9e-2ad3-5330-9815-a94b722928d0",
       "name": "XY – Ciel Rugissant",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_C%C5%93ur_au_Combat_Magearna-EX",

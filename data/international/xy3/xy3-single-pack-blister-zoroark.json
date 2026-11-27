@@ -1,9 +1,11 @@
 {
   "id": "xy3-single-pack-blister-zoroark",
+  "uuid": "ba7e1bad-10ca-5026-a5ce-98e3696a26f0",
   "region": "international",
   "set": "xy3",
   "category": "blister",
   "name": "Furious Fists Single Pack Blister [Zoroark]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586404
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "312ca3ae-c0af-5bda-8828-e2b618695ea6",
       "name": "Furious Fists Single Pack Blister [Zoroark]",
       "identifiers": {
         "tcgplayerProductIds": [

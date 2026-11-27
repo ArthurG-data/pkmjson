@@ -1,19 +1,17 @@
 {
   "id": "svp-retail-exclusive-pokemon-paldean-fates-mini-tins-poke-ball-tin",
+  "uuid": "d877d168-6ec4-5b1b-abda-02b1de875828",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Retail Exclusive Pokemon Paldean Fates Mini Tins + Poke Ball Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
       {
         "name": "Pokemon coin",
-        "count": 1
-      },
-      {
-        "name": "Pokemon coin",
-        "count": 1
+        "count": 2
       },
       {
         "name": "Pokemon art card",
@@ -25,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "459c3775-abf2-5b94-bbbb-3b0eca4aeab8",
       "name": "Retail Exclusive Pokemon Paldean Fates Mini Tins + Poke Ball Tin",
       "identifiers": {
         "tcgplayerProductIds": [

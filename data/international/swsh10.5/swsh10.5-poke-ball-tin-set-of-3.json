@@ -1,15 +1,18 @@
 {
   "id": "swsh10.5-poke-ball-tin-set-of-3",
+  "uuid": "ed0f447a-9bbf-5863-a282-c5d54368f103",
   "region": "international",
   "set": "swsh10.5",
   "category": "other",
   "name": "Pokemon GO Poke Ball Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c130f160-2051-5ead-9b4d-78b5f3ae9ad3",
       "name": "Pokemon GO Poke Ball Tin [Set of 3]",
       "releaseDate": "2022-08-26",
       "identifiers": {

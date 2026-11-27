@@ -1,15 +1,18 @@
 {
   "id": "sm12-theme-deck-display",
+  "uuid": "58872c13-ac28-5106-9104-412ae8e58af8",
   "region": "international",
   "set": "sm12",
   "category": "case",
   "name": "Cosmic Eclipse Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "92d6ec9e-8228-57f7-94ae-3fc18409bc5b",
       "name": "Cosmic Eclipse Theme Deck Display",
       "releaseDate": "2019-11-01",
       "identifiers": {

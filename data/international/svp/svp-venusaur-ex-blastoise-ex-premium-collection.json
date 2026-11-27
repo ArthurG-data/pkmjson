@@ -1,9 +1,11 @@
 {
   "id": "svp-venusaur-ex-blastoise-ex-premium-collection",
+  "uuid": "7ccf5360-976a-5221-b50b-a6def8680ffd",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Venusaur ex & Blastoise ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "69849aa4-853f-547f-b6e4-28673fd94313",
       "name": "Venusaur ex & Blastoise ex Premium Collection",
       "releaseDate": "2025-08-09",
       "identifiers": {

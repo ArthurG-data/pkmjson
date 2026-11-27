@@ -1,15 +1,18 @@
 {
   "id": "swsh11-build-battle-stadium-case",
+  "uuid": "7115c534-3083-57c1-a957-9652bb398296",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin Build & Battle Stadium Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cbcc15f1-876b-5752-9e89-d9de37b8e17c",
       "name": "Lost Origin Build & Battle Stadium Case",
       "identifiers": {
         "tcgplayerProductIds": [

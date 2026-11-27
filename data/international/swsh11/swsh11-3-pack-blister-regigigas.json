@@ -1,9 +1,11 @@
 {
   "id": "swsh11-3-pack-blister-regigigas",
+  "uuid": "ec23e387-c8c6-51eb-a6b1-7180aba667f8",
   "region": "international",
   "set": "swsh11",
   "category": "blister",
   "name": "Lost Origin 3 Pack Blister [Regigigas]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666155
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6be0dddf-6d91-5056-91b8-5e39cad36ed8",
       "name": "Lost Origin 3 Pack Blister [Regigigas]",
       "releaseDate": "2022-09-09",
       "identifiers": {

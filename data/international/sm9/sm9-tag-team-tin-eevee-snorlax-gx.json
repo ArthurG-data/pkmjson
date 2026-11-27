@@ -1,9 +1,11 @@
 {
   "id": "sm9-tag-team-tin-eevee-snorlax-gx",
+  "uuid": "bf9f58ad-4c61-5aec-9c4e-1c65ffa375b8",
   "region": "international",
   "set": "sm9",
   "category": "tin",
   "name": "TAG TEAM Tin [Eevee & Snorlax GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "afff77ba-7887-5a36-8cdd-9b8479b95579",
       "name": "TAG TEAM Tin [Eevee & Snorlax GX]",
       "identifiers": {
         "tcgplayerProductIds": [

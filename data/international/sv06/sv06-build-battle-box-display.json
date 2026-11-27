@@ -1,15 +1,18 @@
 {
   "id": "sv06-build-battle-box-display",
+  "uuid": "876a1202-eb4a-56fd-af9a-ec854b86cca8",
   "region": "international",
   "set": "sv06",
   "category": "case",
   "name": "Twilight Masquerade Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "70d6a605-2723-53f6-9bfc-1dc617a153f6",
       "name": "Twilight Masquerade Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

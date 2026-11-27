@@ -1,9 +1,11 @@
 {
   "id": "si1-collection",
+  "uuid": "52da8f16-f77e-5087-b7cc-bd2dca8282aa",
   "region": "international",
   "set": "si1",
   "category": "collection_box",
   "name": "Southern Islands Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 369560
   },
@@ -28,6 +30,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "647ddd02-f611-54b8-8c4b-6a6973ca6276",
       "name": "Southern Islands Collection",
       "identifiers": {
         "tcgplayerProductIds": [

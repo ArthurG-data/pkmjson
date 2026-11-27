@@ -1,15 +1,18 @@
 {
   "id": "svp-trick-or-trade-booster-bundle-2024-case",
+  "uuid": "5fb4f47c-d09c-51ef-b62a-1a853a8b4147",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Trick or Trade BOOster Bundle 2024 Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c76abfca-d8b0-572e-99d3-ffbda5009aa4",
       "name": "Trick or Trade BOOster Bundle 2024 Case",
       "identifiers": {
         "tcgplayerProductIds": [

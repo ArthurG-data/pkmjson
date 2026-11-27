@@ -1,9 +1,11 @@
 {
   "id": "sv07-premium-checklane-blister-miraidon",
+  "uuid": "c1957b03-86a3-5c25-a36a-5f211879e9b6",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown Premium Checklane Blister [Miraidon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 804340
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "456624a1-8c0f-5711-bc28-bd580d700b3c",
       "name": "Stellar Crown Premium Checklane Blister [Miraidon]",
       "identifiers": {
         "tcgplayerProductIds": [

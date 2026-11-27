@@ -1,9 +1,11 @@
 {
   "id": "bwp-2013-world-championship-deck-yugo-sato-ultimate-team-plasma-deck",
+  "uuid": "51b10459-c0a0-5995-86e7-b80952a668f6",
   "region": "international",
   "set": "bwp",
   "category": "battle_deck",
   "name": "2013 World Championship Deck: Yugo Sato (Ultimate Team Plasma Deck))",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3bee693f-6023-55d9-87ab-98dfcd84d300",
       "name": "2013 World Championship Deck: Yugo Sato (Ultimate Team Plasma Deck))",
       "identifiers": {
         "tcgplayerProductIds": [

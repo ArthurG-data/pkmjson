@@ -1,9 +1,11 @@
 {
   "id": "xy2-collector-pin-3-pack-blister-mega-lucario",
+  "uuid": "ef16bf3e-705f-59d7-bcb9-79f630078202",
   "region": "international",
   "set": "xy2",
   "category": "blister",
   "name": "Flashfire Collector Pin 3 Pack Blister [Mega Lucario]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d2d04978-3866-570d-8e33-3f0c89bdf2e1",
       "name": "Flashfire Collector Pin 3 Pack Blister [Mega Lucario]",
       "identifiers": {
         "tcgplayerProductIds": [

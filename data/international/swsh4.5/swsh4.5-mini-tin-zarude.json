@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mini-tin-zarude",
+  "uuid": "a5b89181-21df-5ca4-a276-eac622d13efe",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates Mini Tin [Zarude]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f330b7ed-5bcc-548d-aef4-abe94ac06b18",
       "name": "Shining Fates Mini Tin [Zarude]",
       "releaseDate": "2021-03-19",
       "identifiers": {

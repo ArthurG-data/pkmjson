@@ -1,15 +1,18 @@
 {
   "id": "xy11-battle-arena-decks-keldeo-ex-vs-rayquaza-ex",
+  "uuid": "d90bb44c-eec2-5073-84fa-bd612b752056",
   "region": "international",
   "set": "xy11",
   "category": "battle_deck",
   "name": "Battle Arena Decks: Keldeo EX vs Rayquaza EX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "054fc5dd-0e30-5f6a-bf81-6ebcf4e76603",
       "name": "Battle Arena Decks: Keldeo EX vs Rayquaza EX",
       "identifiers": {
         "tcgplayerProductIds": [

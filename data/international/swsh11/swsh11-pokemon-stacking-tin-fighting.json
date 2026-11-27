@@ -1,9 +1,11 @@
 {
   "id": "swsh11-pokemon-stacking-tin-fighting",
+  "uuid": "56b38ccd-b768-517f-8b39-5569373ebc79",
   "region": "international",
   "set": "swsh11",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Fighting",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c9f3134-ae95-5e4b-aa16-4fbb9d6e5c80",
       "name": "Pokemon Stacking Tin: Fighting",
       "releaseDate": "2022-10-28",
       "identifiers": {

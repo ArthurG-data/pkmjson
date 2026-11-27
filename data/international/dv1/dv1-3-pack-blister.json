@@ -1,15 +1,18 @@
 {
   "id": "dv1-3-pack-blister",
+  "uuid": "16ddc1da-3fd8-5f12-8414-b647b331f62d",
   "region": "international",
   "set": "dv1",
   "category": "blister",
   "name": "Dragon Vault 3 Pack Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG Booster packs; 1 promotional card.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b50438bd-262f-5d0f-82ab-941dc3ce118b",
       "name": "Dragon Vault 3 Pack Blister",
       "identifiers": {
         "tcgplayerProductIds": [

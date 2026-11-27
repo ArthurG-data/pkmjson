@@ -1,15 +1,18 @@
 {
   "id": "svp1-other",
+  "uuid": "b181b1cb-5cc0-5573-af92-bd2c8b6c8a42",
   "region": "asia",
   "set": "SVP1",
   "category": "other",
   "name": "ex Special Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "36742cea-3651-5fd1-88ff-e603599f6aac",
       "name": "ex Special Set",
       "identifiers": {
         "tcgplayerProductIds": [

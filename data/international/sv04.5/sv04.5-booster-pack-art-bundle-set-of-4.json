@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-booster-pack-art-bundle-set-of-4",
+  "uuid": "797d47ff-560f-52d9-a62c-8026f01726c6",
   "region": "international",
   "set": "sv04.5",
   "category": "other",
   "name": "Paldean Fates Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9b96d8da-8191-54e1-8b7c-3e8005620714",
       "name": "Paldean Fates Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

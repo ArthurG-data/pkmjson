@@ -1,15 +1,18 @@
 {
   "id": "bw1-new-legends-tin-reshiram",
+  "uuid": "d66e300f-d92f-56ee-8e82-638f70cdf372",
   "region": "international",
   "set": "bw1",
   "category": "tin",
   "name": "New Legends Tin [Reshiram]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "49cd7311-1a5c-54c4-a100-916bd81efe0f",
       "name": "New Legends Tin [Reshiram]",
       "identifiers": {
         "tcgplayerProductIds": [

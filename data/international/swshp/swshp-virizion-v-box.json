@@ -1,9 +1,11 @@
 {
   "id": "swshp-virizion-v-box",
+  "uuid": "f003bfda-c8d4-51d2-bda3-65ccc9dd021f",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Virizion V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c2804a9a-5e95-55ab-a88a-67a7bb106721",
       "name": "Virizion V Box",
       "releaseDate": "2022-10-14",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "es",
+      "uuid": "6e88779f-6a39-535c-b9ff-0a5fc1c0def4",
       "name": "Colección Virizion V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-virizion-v"
@@ -51,6 +55,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cbb36477-8c4e-533a-affa-a53bf5007dcf",
       "name": "Coffret Viridium-V",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-viridium-v"
@@ -58,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "da620de4-f7ea-5933-8322-bf67653b3980",
       "name": "Kollektion Viridium-V",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-viridium-v"
@@ -65,6 +71,7 @@
     },
     {
       "language": "it",
+      "uuid": "c76dee87-05cf-500f-b480-f22c0a51b846",
       "name": "Collezione Virizion-V",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-virizion-v"

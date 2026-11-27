@@ -1,9 +1,11 @@
 {
   "id": "sm12a-booster-pack",
+  "uuid": "6a06c31c-c383-5885-abac-9dad716ef5e3",
   "region": "asia",
   "set": "SM12a",
   "category": "booster_pack",
   "name": "TAG TEAM GX: Tag All Stars Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 543371
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9df9fd71-83d3-5a49-89ea-6b7b14dfeb43",
       "name": "ハイクラスパック「TAG TEAM GX タッグオールスターズ」",
       "releaseDate": "2019-10-04",
       "identifiers": {

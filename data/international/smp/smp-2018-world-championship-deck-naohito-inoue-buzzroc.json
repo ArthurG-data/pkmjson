@@ -1,15 +1,18 @@
 {
   "id": "smp-2018-world-championship-deck-naohito-inoue-buzzroc",
+  "uuid": "0cf8acf8-e7ac-5b1d-97dc-538e75ccb2c1",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2018 World Championship Deck: Naohito Inoue (Buzzroc)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "286f2493-7c7f-520a-9e4d-97be5f54f91c",
       "name": "2018 World Championship Deck: Naohito Inoue (Buzzroc)",
       "identifiers": {
         "tcgplayerProductIds": [

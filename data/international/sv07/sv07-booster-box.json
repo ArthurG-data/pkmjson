@@ -1,9 +1,11 @@
 {
   "id": "sv07-booster-box",
+  "uuid": "dde5bd4a-ab49-509f-9e98-3821be35b76a",
   "region": "international",
   "set": "sv07",
   "category": "booster_box",
   "name": "Stellar Crown Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776325
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6e18a4a-e6da-5fe1-9f63-e321c48c5619",
       "name": "Stellar Crown Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

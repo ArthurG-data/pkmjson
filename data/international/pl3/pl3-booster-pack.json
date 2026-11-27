@@ -1,9 +1,11 @@
 {
   "id": "pl3-booster-pack",
+  "uuid": "474c76c9-acef-54c5-8c2c-8241e52f7af8",
   "region": "international",
   "set": "pl3",
   "category": "booster_pack",
   "name": "Supreme Victors Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271859
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d21db19c-0ec6-5d16-b6c4-56e736949b9b",
       "name": "Platinum—Supreme Victors",
       "identifiers": {
         "tcgplayerProductIds": [

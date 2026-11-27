@@ -1,9 +1,11 @@
 {
   "id": "sv06-premium-checklane-blister-horsea",
+  "uuid": "3c262b14-a90e-5cd9-91a9-2e741eb9f124",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade Premium Checklane Blister [Horsea]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "91b9689b-fac3-5877-a485-5054a89b02cf",
       "name": "Twilight Masquerade Premium Checklane Blister [Horsea]",
       "identifiers": {
         "tcgplayerProductIds": [

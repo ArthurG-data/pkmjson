@@ -1,15 +1,18 @@
 {
   "id": "swsh9-premium-checklane-blister-raichu",
+  "uuid": "a4ad711c-02ea-5d4a-887c-dc17f3a970f4",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Premium Checklane Blister [Raichu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a0f59ab-546e-55c5-86d9-84ccc9759eb7",
       "name": "Brilliant Stars Premium Checklane Blister [Raichu]",
       "identifiers": {
         "tcgplayerProductIds": [

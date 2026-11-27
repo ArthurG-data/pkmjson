@@ -1,9 +1,11 @@
 {
   "id": "pl1-fall-2009-collector-s-tin-garchomp-lv-x",
+  "uuid": "1042861b-deab-5fff-9040-a94a714841a7",
   "region": "international",
   "set": "pl1",
   "category": "tin",
   "name": "Fall 2009 Collector's Tin [Garchomp LV.X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b599bf04-65e2-53b3-8865-1e85a6f366e8",
       "name": "Fall 2009 Collector's Tin [Garchomp LV.X]",
       "identifiers": {
         "tcgplayerProductIds": [

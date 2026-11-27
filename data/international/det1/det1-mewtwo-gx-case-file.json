@@ -1,9 +1,11 @@
 {
   "id": "det1-mewtwo-gx-case-file",
+  "uuid": "6c2cf6d9-7344-560f-9e1d-c4c4d7aa5454",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu: Mewtwo GX Case File",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370781
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f6ca7de-9fe6-5947-9f65-130bb5ab3433",
       "name": "Detective Pikachu: Mewtwo GX Case File",
       "identifiers": {
         "tcgplayerProductIds": [

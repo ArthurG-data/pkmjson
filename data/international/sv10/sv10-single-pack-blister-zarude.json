@@ -1,9 +1,11 @@
 {
   "id": "sv10-single-pack-blister-zarude",
+  "uuid": "761794d7-ccc9-5d8b-aa65-e20e76a661c6",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals Single Pack Blister [Zarude]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 826143
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e903c22-74c9-5a9d-9cf3-720e360045a8",
       "name": "Destined Rivals Single Pack Blister [Zarude]",
       "releaseDate": "2025-05-30",
       "identifiers": {

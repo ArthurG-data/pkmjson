@@ -1,9 +1,11 @@
 {
   "id": "m1s-booster-pack",
+  "uuid": "1438ee55-4ad8-517d-ab27-b9b76a55ffe1",
   "region": "asia",
   "set": "M1S",
   "category": "booster_pack",
   "name": "Mega Symphonia Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 831333
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "bc07d986-4877-5150-874a-ce4274bb17ef",
       "name": "拡張パック「メガシンフォニア」",
       "releaseDate": "2025-08-01",
       "identifiers": {

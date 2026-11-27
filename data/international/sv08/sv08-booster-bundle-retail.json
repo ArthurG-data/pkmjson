@@ -1,9 +1,11 @@
 {
   "id": "sv08-booster-bundle-retail",
+  "uuid": "2e8d05f8-6cac-554a-992e-69b695724cae",
   "region": "international",
   "set": "sv08",
   "category": "booster_bundle",
   "name": "Surging Sparks Booster Bundle (Retail)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "96b926b1-7458-5e33-a947-208c4f174d95",
       "name": "Surging Sparks Booster Bundle (Retail)",
       "identifiers": {
         "tcgplayerProductIds": [

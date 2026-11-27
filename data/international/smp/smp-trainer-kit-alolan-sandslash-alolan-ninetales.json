@@ -1,9 +1,11 @@
 {
   "id": "smp-trainer-kit-alolan-sandslash-alolan-ninetales",
+  "uuid": "457f55f2-2128-5784-ba70-714457f96aa6",
   "region": "international",
   "set": "smp",
   "category": "other",
   "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "45105665-4b7a-5599-9fb5-fe02e0425438",
       "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
       "identifiers": {
         "tcgplayerProductIds": [

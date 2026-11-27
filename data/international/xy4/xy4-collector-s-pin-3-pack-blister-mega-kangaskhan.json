@@ -1,9 +1,11 @@
 {
   "id": "xy4-collector-s-pin-3-pack-blister-mega-kangaskhan",
+  "uuid": "31f5f82c-dee5-5c0c-a7a1-584b5e8ccc94",
   "region": "international",
   "set": "xy4",
   "category": "blister",
   "name": "Phantom Forces Collector's Pin 3 Pack Blister [Mega Kangaskhan]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "08c57771-79fd-5a3c-ab8a-a4feeda32328",
       "name": "Phantom Forces Collector's Pin 3 Pack Blister [Mega Kangaskhan]",
       "identifiers": {
         "tcgplayerProductIds": [

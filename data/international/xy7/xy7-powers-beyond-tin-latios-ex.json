@@ -1,15 +1,18 @@
 {
   "id": "xy7-powers-beyond-tin-latios-ex",
+  "uuid": "f73ec9da-51c8-5bed-8f8f-010e2d20ec7e",
   "region": "international",
   "set": "xy7",
   "category": "tin",
   "name": "Powers Beyond Tin [Latios EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "13256093-5437-593c-8cf4-2eae32cfbcea",
       "name": "Powers Beyond Tin [Latios EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e9f34ce8-85b2-508f-a74c-67d82eeeeb9d",
       "name": "Boîte Puissance d'un autre monde Latios",
       "releaseDate": "2015-11-11",
       "contents": {

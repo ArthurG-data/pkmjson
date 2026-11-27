@@ -1,9 +1,11 @@
 {
   "id": "ex5-hidden-legends-booster-box",
+  "uuid": "033c1528-483b-5c62-bc14-1ef2ac544626",
   "region": "international",
   "set": "ex5",
   "category": "booster_box",
   "name": "Hidden Legends Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271914
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5ce180aa-11e1-5e57-bc6a-b77be87ac80c",
       "name": "Hidden Legends Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

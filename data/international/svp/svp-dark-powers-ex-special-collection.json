@@ -1,9 +1,11 @@
 {
   "id": "svp-dark-powers-ex-special-collection",
+  "uuid": "9be81cf0-7829-519f-af59-6bb286bef5e7",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Dark Powers ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f95a0f9b-9fc3-539d-b91f-cdd7fae9e5ea",
       "name": "Dark Powers ex Special Collection",
       "releaseDate": "2024-08-30",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "lc-theme-deck-lava",
+  "uuid": "8de0654e-202f-5e72-bd9e-83c525185370",
   "region": "international",
   "set": "lc",
   "category": "collection_box",
   "name": "Legendary Collection Theme Deck - \"Lava\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286571
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "671637d3-6385-5b4d-bef6-25878cbf64e3",
       "name": "Legendary Collection Theme Deck - \"Lava\"",
       "identifiers": {
         "tcgplayerProductIds": [

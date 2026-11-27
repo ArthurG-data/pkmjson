@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-v-tin-cramorant-v",
+  "uuid": "3b5e4356-2f97-5a97-aa74-bd454832af52",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates V Tin [Cramorant V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8c136908-45fb-5188-8cb0-d7fd91fd0f08",
       "name": "Shining Fates V Tin [Cramorant V]",
       "identifiers": {
         "tcgplayerProductIds": [

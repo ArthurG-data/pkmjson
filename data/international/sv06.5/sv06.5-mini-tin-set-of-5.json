@@ -1,15 +1,18 @@
 {
   "id": "sv06.5-mini-tin-set-of-5",
+  "uuid": "a503deed-9513-5470-bc45-20f26b66cbd6",
   "region": "international",
   "set": "sv06.5",
   "category": "other",
   "name": "Shrouded Fable Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c793334b-fe70-5c78-afc1-732442faf0b3",
       "name": "Shrouded Fable Mini Tin [Set of 5]",
       "releaseDate": "2024-08-02",
       "identifiers": {

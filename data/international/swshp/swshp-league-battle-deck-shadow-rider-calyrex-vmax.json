@@ -1,9 +1,11 @@
 {
   "id": "swshp-league-battle-deck-shadow-rider-calyrex-vmax",
+  "uuid": "412b476e-a984-57af-b59a-7b9d94d1246a",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "League Battle Deck [Shadow Rider Calyrex VMAX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a9880dee-07d3-5649-9cdd-fb607b91a367",
       "name": "League Battle Deck [Shadow Rider Calyrex VMAX]",
       "releaseDate": "2022-07-22",
       "identifiers": {
@@ -54,6 +57,7 @@
     },
     {
       "language": "de",
+      "uuid": "d485fc72-daee-5632-a22b-8fd686fd9f1b",
       "name": "Liga-Kampfdeck Rappenreiter-Coronospa-VMAX",
       "releaseDate": "2022-06-17",
       "sources": [

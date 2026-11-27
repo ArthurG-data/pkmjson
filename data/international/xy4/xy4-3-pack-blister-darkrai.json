@@ -1,9 +1,11 @@
 {
   "id": "xy4-3-pack-blister-darkrai",
+  "uuid": "d9479a14-2fbd-54fb-b919-104b966561b7",
   "region": "international",
   "set": "xy4",
   "category": "blister",
   "name": "Phantom Forces 3 Pack Blister [Darkrai]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586399
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c1a4fade-ad33-5f1a-afb6-45ead96cddd1",
       "name": "Phantom Forces 3 Pack Blister [Darkrai]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "dd3961c4-666a-5b17-a6df-80f63751c9f0",
       "name": "Tripack XY04 Darkrai",
       "releaseDate": "2014-11-08",
       "contents": {

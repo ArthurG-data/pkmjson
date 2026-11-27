@@ -1,15 +1,18 @@
 {
   "id": "swsh3-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "4e496f00-ecfd-5652-afd7-61d92bfc5f5d",
   "region": "international",
   "set": "swsh3",
   "category": "other",
   "name": "Darkness Ablaze Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8952b744-f240-54cd-8ef3-8a0b88bc393e",
       "name": "Darkness Ablaze Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

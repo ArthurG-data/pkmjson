@@ -1,9 +1,11 @@
 {
   "id": "xy11-single-pack-blister-lucario",
+  "uuid": "a50aa761-fe7d-5823-9ec5-050c660c74f9",
   "region": "international",
   "set": "xy11",
   "category": "blister",
   "name": "Steam Siege Single Pack Blister [Lucario]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586337
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0dd3440a-72ea-5844-be05-8ccb3ef0bf28",
       "name": "Steam Siege Single Pack Blister [Lucario]",
       "identifiers": {
         "tcgplayerProductIds": [

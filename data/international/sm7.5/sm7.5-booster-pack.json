@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-booster-pack",
+  "uuid": "c66fc8cc-2e5a-5807-b0ed-d27e11a26a22",
   "region": "international",
   "set": "sm7.5",
   "category": "booster_pack",
   "name": "Dragon Majesty Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 361541
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df450341-2987-5435-a56b-2a79e8dd685a",
       "name": "Dragon Majesty",
       "releaseDate": "2018-09-07",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f8fee9c0-31d4-5872-8e80-015f2473a855",
       "name": "Majesté des Dragons",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Majest%C3%A9_des_Dragons_Latias",
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "5c453fb9-ec78-5752-93df-a617407104c0",
       "name": "Majestät der Drachen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-majestat-der-drachen-ultra-necrozma-gx",
@@ -49,6 +54,7 @@
     },
     {
       "language": "es",
+      "uuid": "8b979be9-692f-5614-a1a0-8479a9f5cc1c",
       "name": "Majestad de Dragones",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ultra-necrozma-gx-de-majestad-de-dragones",
@@ -57,6 +63,7 @@
     },
     {
       "language": "it",
+      "uuid": "330f0d43-1b7c-58db-aabe-0c3babad5673",
       "name": "Trionfo dei Draghi",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultranecrozma-gx-dellespansione-trionfo-dei-draghi",

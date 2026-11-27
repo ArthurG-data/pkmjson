@@ -1,15 +1,18 @@
 {
   "id": "xy11-legendary-battle-decks-set-of-3",
+  "uuid": "75c66a81-98e0-5817-98f8-5eefd2c6883a",
   "region": "international",
   "set": "xy11",
   "category": "other",
   "name": "Legendary Battle Decks [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck featuring Moltres, Articuno, or Zapdos; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5119b418-da61-5cdf-9569-cd633aa1e39e",
       "name": "Legendary Battle Decks [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

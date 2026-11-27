@@ -1,9 +1,11 @@
 {
   "id": "sv04-single-pack-blister-glimmora",
+  "uuid": "19cce7e7-1288-5f8b-a9ed-be07c8e27f6c",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift Single Pack Blister [Glimmora]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e477cfc-8ea7-55d7-9260-558e6c8b1170",
       "name": "Paradox Rift Single Pack Blister [Glimmora]",
       "identifiers": {
         "tcgplayerProductIds": [

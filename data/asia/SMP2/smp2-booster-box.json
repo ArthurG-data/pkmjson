@@ -1,9 +1,11 @@
 {
   "id": "smp2-booster-box",
+  "uuid": "af80aecc-df15-5c9a-88d3-c3c0a55835e5",
   "region": "asia",
   "set": "SMP2",
   "category": "booster_box",
   "name": "Great Detective Pikachu Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550421
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1fc9e329-d399-5853-ab44-835cc8dc5837",
       "name": "Great Detective Pikachu Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

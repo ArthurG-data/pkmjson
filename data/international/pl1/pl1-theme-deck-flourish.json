@@ -1,9 +1,11 @@
 {
   "id": "pl1-theme-deck-flourish",
+  "uuid": "9a6c2639-3dc7-5c16-8df4-85dfbccc04dc",
   "region": "international",
   "set": "pl1",
   "category": "theme_deck",
   "name": "Platinum Theme Deck - \"Flourish\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286594
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a78983d1-3fde-55b3-8a0f-e1cb8d413905",
       "name": "Platinum Theme Deck - \"Flourish\"",
       "identifiers": {
         "tcgplayerProductIds": [

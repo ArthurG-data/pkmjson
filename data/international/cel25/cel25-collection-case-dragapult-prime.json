@@ -1,15 +1,18 @@
 {
   "id": "cel25-collection-case-dragapult-prime",
+  "uuid": "e64cfc0d-978f-59e8-958f-8a5fb5244fac",
   "region": "international",
   "set": "cel25",
   "category": "case",
   "name": "Celebrations Collection Case [Dragapult Prime]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "39fe6b5f-b590-5f3f-9759-b038977992ec",
       "name": "Celebrations Collection Case [Dragapult Prime]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv07-booster-bundle-case",
+  "uuid": "3ce2461b-a2c4-5a93-a627-efc0d171dd0b",
   "region": "international",
   "set": "sv07",
   "category": "case",
   "name": "Stellar Crown Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "beefc1c3-3d61-5364-9eae-338f1b28f05a",
       "name": "Stellar Crown Booster Bundle Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "mep-pokemon-tcg-trainer-s-toolkit-2025",
+  "uuid": "f7651644-3b8c-551c-93f3-7701daca07d8",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Pokemon TCG: Trainer's Toolkit (2025)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "731a14b1-acf1-5f0b-8a58-7ce246293151",
       "name": "Pokemon TCG: Trainer's Toolkit (2025)",
       "releaseDate": "2025-10-24",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "it",
+      "uuid": "7004152d-90d8-5009-8367-0be029b7e0a4",
       "name": "Inventario dell’Allenatore del GCC Pokémon 2025",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/inventario-dellallenatore-2025"
@@ -57,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "f8b24159-10f9-5bf2-a5ea-8df75bcffdb9",
       "name": "Trainer-Toolkit (2025)",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainers-toolkit-2025"
@@ -64,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "62488901-7bbc-51ba-b90b-ea29b176429b",
       "name": "Nécessaire du Dresseur (2025)",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/necessaire-du-dresseur-2025"
@@ -71,6 +77,7 @@
     },
     {
       "language": "es",
+      "uuid": "7ea2ea8f-4d1c-5539-b928-699eb9eef4df",
       "name": "Herramientas de Entrenador de JCC Pokémon (2025)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/herramientas-de-entrenador-2025"

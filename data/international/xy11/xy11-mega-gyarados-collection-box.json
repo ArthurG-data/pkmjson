@@ -1,9 +1,11 @@
 {
   "id": "xy11-mega-gyarados-collection-box",
+  "uuid": "1ee8fb58-3943-55b0-b495-7baf93ec9eab",
   "region": "international",
   "set": "xy11",
   "category": "collection_box",
   "name": "Mega Gyarados Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "af3d578d-8ef1-5b02-951c-50879bda4579",
       "name": "Mega Gyarados Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [

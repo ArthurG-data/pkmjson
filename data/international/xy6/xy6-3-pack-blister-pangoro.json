@@ -1,9 +1,11 @@
 {
   "id": "xy6-3-pack-blister-pangoro",
+  "uuid": "76d8992e-5f97-524e-94b1-bf42ff19e601",
   "region": "international",
   "set": "xy6",
   "category": "blister",
   "name": "Roaring Skies 3 Pack Blister [Pangoro]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586384
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "58f1f460-b26c-53b8-88e3-be3b27e3632b",
       "name": "Roaring Skies 3 Pack Blister [Pangoro]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5c6f2e24-8420-58c8-9a08-3a35077833d5",
       "name": "Tripack XY06 Pandarbare",
       "releaseDate": "2015-05-23",
       "contents": {

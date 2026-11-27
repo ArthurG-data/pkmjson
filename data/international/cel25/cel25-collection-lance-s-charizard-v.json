@@ -1,9 +1,11 @@
 {
   "id": "cel25-collection-lance-s-charizard-v",
+  "uuid": "531f5a6a-d0cd-5a4b-b77c-f1d5c1d8dbd3",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Collection [Lance's Charizard V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570893
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "70eb8ecd-57ec-5128-b317-a609c76375f4",
       "name": "Celebrations Collection [Lance's Charizard V]",
       "identifiers": {
         "tcgplayerProductIds": [

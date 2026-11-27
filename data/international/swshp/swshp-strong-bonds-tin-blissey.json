@@ -1,9 +1,11 @@
 {
   "id": "swshp-strong-bonds-tin-blissey",
+  "uuid": "c12b6787-df0c-55d8-9749-c5ce896b9991",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Strong Bonds Tin [Blissey]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b1696cc5-efa0-52cd-a9e2-82f414cba22b",
       "name": "Strong Bonds Tin [Blissey]",
       "identifiers": {
         "tcgplayerProductIds": [

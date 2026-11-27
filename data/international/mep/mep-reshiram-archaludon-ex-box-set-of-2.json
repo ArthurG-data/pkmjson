@@ -1,15 +1,18 @@
 {
   "id": "mep-reshiram-archaludon-ex-box-set-of-2",
+  "uuid": "23a7bcf9-c360-5d73-98a7-0103910e7b41",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Reshiram & Archaludon ex Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4f8eb0f4-4a9f-55f8-9df2-9195f9d5d41e",
       "name": "Reshiram & Archaludon ex Box [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv04-single-pack-blister-sinistea",
+  "uuid": "f3ea05d1-3d38-5060-9cec-25215d096bf1",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift Single Pack Blister [Sinistea]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728735
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bdc99c68-3f18-5015-89f0-2e568710a370",
       "name": "Paradox Rift Single Pack Blister [Sinistea]",
       "identifiers": {
         "tcgplayerProductIds": [

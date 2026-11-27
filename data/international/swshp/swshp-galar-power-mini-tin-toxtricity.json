@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-power-mini-tin-toxtricity",
+  "uuid": "22b52eb4-a175-5271-8225-dd40bb371791",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Power Mini Tin [Toxtricity]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f2fb1d8-90e7-5b86-bc08-1e2b4b8bd48f",
       "name": "Galar Power Mini Tin [Toxtricity]",
       "releaseDate": "2020-10-02",
       "identifiers": {

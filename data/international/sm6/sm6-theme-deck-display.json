@@ -1,15 +1,18 @@
 {
   "id": "sm6-theme-deck-display",
+  "uuid": "32e61890-5a83-5a66-9975-e1cb611df385",
   "region": "international",
   "set": "sm6",
   "category": "case",
   "name": "Forbidden Light Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "627efe8d-0c37-5bbd-abb0-70babec1f068",
       "name": "Forbidden Light Theme Deck Display",
       "releaseDate": "2018-05-04",
       "identifiers": {

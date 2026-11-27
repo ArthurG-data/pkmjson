@@ -1,9 +1,11 @@
 {
   "id": "swsh9-3-pack-blister-glaceon",
+  "uuid": "bb70a2ed-c151-5e90-a6b5-e1005b49e146",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars 3 Pack Blister [Glaceon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 606766
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8c4f48e-7980-59a7-b29b-90a5dd0c50bf",
       "name": "Brilliant Stars 3 Pack Blister [Glaceon]",
       "releaseDate": "2022-02-25",
       "identifiers": {

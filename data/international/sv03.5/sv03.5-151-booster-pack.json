@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-booster-pack",
+  "uuid": "6848b8b4-c9a6-569f-a5c1-5ae53431901f",
   "region": "international",
   "set": "sv03.5",
   "category": "booster_pack",
   "name": "151 Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719694
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "575cd79b-f4d4-503b-9079-17391411f3d1",
       "name": "Scarlet & Violet—151",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "dac02736-7484-5b33-a0d7-18c55b90ed16",
       "name": "Écarlate et Violet – 151",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_151",
@@ -40,6 +44,7 @@
     },
     {
       "language": "it",
+      "uuid": "36bc454b-2c1d-5d72-af43-0048f2dfe7b8",
       "name": "Scarlatto e Violetto - 151",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-151",
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "e642af7c-e568-5648-8a82-7c11db77ab7f",
       "name": "Escarlata y Púrpura-151",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-151",
@@ -56,6 +62,7 @@
     },
     {
       "language": "de",
+      "uuid": "d2b3cb60-35cc-5186-8106-52bba4b64f3b",
       "name": "Karmesin & Purpur – 151",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-simsala-ex",

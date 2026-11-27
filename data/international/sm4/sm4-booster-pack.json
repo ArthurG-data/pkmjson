@@ -1,9 +1,11 @@
 {
   "id": "sm4-booster-pack",
+  "uuid": "6fb58a5e-d891-5616-bc93-f6a08dda5630",
   "region": "international",
   "set": "sm4",
   "category": "booster_pack",
   "name": "Crimson Invasion Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301170
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3436afcd-8cc9-54cb-a6b3-2b5f989122bd",
       "name": "Sun & Moon—Crimson Invasion",
       "releaseDate": "2017-11-03",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6c056d35-dc0f-5655-9cf8-aae42aa217b4",
       "name": "Soleil et Lune – Invasion Carmin",
       "sources": [
         "https://www.pokepedia.fr/Tripack_SL04_Arch%C3%A9duc",

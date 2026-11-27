@@ -1,15 +1,18 @@
 {
   "id": "sm12-booster-pack-art-bundle-set-of-4",
+  "uuid": "0fae804c-0b4e-58b8-9d24-bc901578409a",
   "region": "international",
   "set": "sm12",
   "category": "other",
   "name": "Cosmic Eclipse Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "153a6fc9-6491-5c4c-8ea1-7e457f054583",
       "name": "Cosmic Eclipse Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

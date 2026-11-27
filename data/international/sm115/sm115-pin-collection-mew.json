@@ -1,9 +1,11 @@
 {
   "id": "sm115-pin-collection-mew",
+  "uuid": "6b713b0f-0fe9-5cb6-9ad1-905231a6d53b",
   "region": "international",
   "set": "sm115",
   "category": "collection_box",
   "name": "Hidden Fates Pin Collection [Mew]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0e2989fc-2eea-5c1d-ac6a-a50544199d3c",
       "name": "Hidden Fates Pin Collection [Mew]",
       "releaseDate": "2019-08-23",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e94fb1f0-16e0-58b9-8bb9-f290c036fdf5",
       "name": "Collection avec pin's Destinées Occultes Mew",
       "releaseDate": "2019-08-19",
       "sources": [

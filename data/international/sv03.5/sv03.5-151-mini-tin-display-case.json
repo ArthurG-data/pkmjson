@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-mini-tin-display-case",
+  "uuid": "7a9523d7-bff7-55de-b8d8-682ff46e2302",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ff723689-2d8d-5f2c-b8ee-5306501f74ad",
       "name": "151 Mini Tin Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

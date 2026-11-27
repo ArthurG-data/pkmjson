@@ -1,9 +1,11 @@
 {
   "id": "sm6-elite-trainer-box",
+  "uuid": "0e73c5af-ec44-5019-b525-646fc487ef40",
   "region": "international",
   "set": "sm6",
   "category": "elite_trainer_box",
   "name": "Forbidden Light Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 316134
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0aef812c-7f4d-51b7-a8a2-5f09070847b9",
       "name": "Forbidden Light Elite Trainer Box",
       "releaseDate": "2018-05-04",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5e58956d-1aca-554f-8245-f8f0c6007886",
       "name": "Coffret Dresseur d'élite Soleil et Lune Lumière Interdite",
       "releaseDate": "2018-05-04",
       "sources": [
@@ -79,6 +83,7 @@
     },
     {
       "language": "es",
+      "uuid": "a3633371-ced7-57b6-9606-a22ffd75b666",
       "name": "Caja de Entrenador Élite de Sol y Luna-Luz Prohibida",
       "releaseDate": "2018-05-04",
       "sources": [
@@ -87,6 +92,7 @@
     },
     {
       "language": "de",
+      "uuid": "15e35dec-24a5-5608-b600-88cbb303314a",
       "name": "Top-Trainer-Box Sonne & Mond – Grauen der Lichtfinsternis",
       "releaseDate": "2018-05-04",
       "sources": [
@@ -95,6 +101,7 @@
     },
     {
       "language": "it",
+      "uuid": "fffe0951-1652-5030-80ac-bad9b151d907",
       "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Apocalisse di Luce",
       "releaseDate": "2018-05-04",
       "sources": [

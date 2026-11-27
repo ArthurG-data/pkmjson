@@ -1,9 +1,11 @@
 {
   "id": "sm1-primarina-gx-challenge-box",
+  "uuid": "4ef786e0-4ee1-5e48-8bcb-647ba3ec5d45",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Primarina GX Challenge Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653289
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "466ef44e-6047-519d-a95f-be970264a855",
       "name": "Primarina GX Challenge Box",
       "identifiers": {
         "tcgplayerProductIds": [

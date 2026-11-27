@@ -1,9 +1,11 @@
 {
   "id": "me03-premium-checklane-blister-meganium-line",
+  "uuid": "ec221c4c-2c4f-588d-bb98-fed7254932f9",
   "region": "international",
   "set": "me03",
   "category": "blister",
   "name": "Perfect Order Premium Checklane Blister [Meganium Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1297dde0-cba8-53cc-b035-034da0752d0d",
       "name": "Perfect Order Premium Checklane Blister [Meganium Line]",
       "releaseDate": "2026-03-27",
       "identifiers": {

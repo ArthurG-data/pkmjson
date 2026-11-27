@@ -1,9 +1,11 @@
 {
   "id": "mep-league-battle-deck-team-rocket-s-mewtwo-ex",
+  "uuid": "641cb3c0-8eb3-55da-ac23-3612d84e90d2",
   "region": "international",
   "set": "mep",
   "category": "battle_deck",
   "name": "League Battle Deck [Team Rocket's Mewtwo ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b9de0e39-b2e8-53e7-92d6-2ebef11f597b",
       "name": "League Battle Deck [Team Rocket's Mewtwo ex]",
       "releaseDate": "2025-12-12",
       "identifiers": {

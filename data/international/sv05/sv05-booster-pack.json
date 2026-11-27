@@ -1,9 +1,11 @@
 {
   "id": "sv05-booster-pack",
+  "uuid": "b5e98740-a9dc-5b72-905f-e477470a7c2c",
   "region": "international",
   "set": "sv05",
   "category": "booster_pack",
   "name": "Temporal Forces Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750399
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "545b9cad-a17b-5383-8445-c3ee903081a3",
       "name": "Scarlet & Violet—Temporal Forces",
       "identifiers": {
         "tcgplayerProductIds": [

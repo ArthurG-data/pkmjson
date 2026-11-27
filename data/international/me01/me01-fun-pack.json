@@ -1,15 +1,18 @@
 {
   "id": "me01-fun-pack",
+  "uuid": "6d8a790c-dcdb-54b5-92c6-69452c27e247",
   "region": "international",
   "set": "me01",
   "category": "other",
   "name": "Mega Evolution Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e28a412f-09b0-5955-a451-aeb84b1593fe",
       "name": "Mega Evolution Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

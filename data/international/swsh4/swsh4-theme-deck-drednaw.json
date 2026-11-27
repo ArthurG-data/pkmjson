@@ -1,9 +1,11 @@
 {
   "id": "swsh4-theme-deck-drednaw",
+  "uuid": "3ff063b4-9d9e-5fe6-a4f5-d2da6a6f1e3b",
   "region": "international",
   "set": "swsh4",
   "category": "theme_deck",
   "name": "Vivid Voltage Theme Deck [Drednaw]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 494494
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0dcc018d-01fd-5779-bf06-8caa6a09bc4e",
       "name": "Vivid Voltage Theme Deck [Drednaw]",
       "releaseDate": "2020-11-13",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh9-booster-box",
+  "uuid": "b26aacc4-3bff-56a5-b52a-9aba29b9a0ef",
   "region": "international",
   "set": "swsh9",
   "category": "booster_box",
   "name": "Brilliant Stars Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 583512
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b36d417a-47a4-57bb-b41d-014578c05a09",
       "name": "Brilliant Stars Booster Box",
       "releaseDate": "2022-02-25",
       "identifiers": {

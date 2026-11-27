@@ -1,15 +1,18 @@
 {
   "id": "30th-ex-tin-set-of-2-international-version",
+  "uuid": "585215ff-edf7-5d2f-bbb0-45e7e794accd",
   "region": "international",
   "set": "30th",
   "category": "other",
   "name": "30th Celebration ex Tin [Set of 2] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Sylveon ex or Greninja ex; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1e6afe11-e08e-55a6-a3de-b07a816203a0",
       "name": "30th Celebration ex Tin [Set of 2] (International Version)",
       "releaseDate": "2026-12-04",
       "identifiers": {

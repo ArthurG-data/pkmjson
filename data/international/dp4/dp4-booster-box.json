@@ -1,9 +1,11 @@
 {
   "id": "dp4-booster-box",
+  "uuid": "04467090-fe53-50db-9610-188856ee4a7a",
   "region": "international",
   "set": "dp4",
   "category": "booster_box",
   "name": "Great Encounters Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271901
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "abc99202-2fcd-53e7-a2e3-1b96230ea95b",
       "name": "Great Encounters Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

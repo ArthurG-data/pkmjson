@@ -1,15 +1,18 @@
 {
   "id": "xy1-yveltal-figure-collection",
+  "uuid": "acf4775b-6094-573d-8990-06fc5f647e1a",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Yveltal Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a collectible figure and XY Black Star Promo card featuring Yveltal, as well as 4 booster packs (3 from XY expansion; 1 from Legendary Treasures).",
   "releases": [
     {
       "language": "en",
+      "uuid": "fc6203ad-3e34-587f-9a69-145829c84a57",
       "name": "Yveltal Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [

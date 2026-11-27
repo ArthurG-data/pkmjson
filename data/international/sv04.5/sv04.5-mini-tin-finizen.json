@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-mini-tin-finizen",
+  "uuid": "9aa3b85a-2203-5580-8885-3560b5a050e9",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Mini Tin [Finizen]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745560
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "29079fad-a3b4-53bc-8ec3-a69c2fe1192c",
       "name": "Paldean Fates Mini Tin [Finizen]",
       "identifiers": {
         "tcgplayerProductIds": [

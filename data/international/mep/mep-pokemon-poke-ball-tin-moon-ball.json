@@ -1,9 +1,11 @@
 {
   "id": "mep-pokemon-poke-ball-tin-moon-ball",
+  "uuid": "9e10c7f7-e4dc-5875-8610-0ac805137f27",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Moon Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51811960-d9c8-587c-a9c6-02d95cd4437a",
       "name": "Pokemon - Poke Ball Tin - Moon Ball",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "de",
+      "uuid": "21c3b419-bfe2-5497-ba5b-84872e9eeab6",
       "name": "Tin‑Box Pokéball",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball-2025"
@@ -40,6 +44,7 @@
     },
     {
       "language": "es",
+      "uuid": "b2e3b2f7-54d0-583c-8e32-f0fc6b757610",
       "name": "Lata Poké Ball",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball-2025"
@@ -47,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9957ca64-cc49-5ac5-8479-09bf8fd04ef7",
       "name": "Boîte Poké Ball",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-poke-ball-2025"
@@ -54,6 +60,7 @@
     },
     {
       "language": "it",
+      "uuid": "17a1aec5-bd5e-5c71-b145-28489f0a6c5b",
       "name": "Scatola da collezione Poké Ball",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-2025"

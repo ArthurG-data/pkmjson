@@ -1,9 +1,11 @@
 {
   "id": "sm7b-booster-pack",
+  "uuid": "2ac4da92-0289-5253-82f1-e46110725fdd",
   "region": "asia",
   "set": "SM7b",
   "category": "booster_pack",
   "name": "Fairy Rise Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551866
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "794af220-37e4-59e4-8207-a81935d7c3ef",
       "name": "強化拡張パック「フェアリーライズ」",
       "releaseDate": "2018-08-03",
       "identifiers": {

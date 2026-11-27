@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-moonlit-tin-case",
+  "uuid": "b089bda9-8796-544b-9e7b-fb54e4d52987",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Moonlit Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a6a115c4-0fab-5a85-b6de-4cd56ef78a04",
       "name": "Mega Moonlit Tin Case",
       "releaseDate": "2026-06-05",
       "identifiers": {

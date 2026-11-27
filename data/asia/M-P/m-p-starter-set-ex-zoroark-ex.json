@@ -1,9 +1,11 @@
 {
   "id": "m-p-starter-set-ex-zoroark-ex",
+  "uuid": "23647db2-9929-544b-b3af-4ce83449411a",
   "region": "asia",
   "set": "M-P",
   "category": "battle_deck",
   "name": "Starter Set ex Zoroark ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "96e29632-773d-55b6-ace7-0ad3d5e89a38",
       "name": "スターターセットex ゾロア＆ゾロアークex",
       "releaseDate": "2026-07-31",
       "identifiers": {

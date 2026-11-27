@@ -1,9 +1,11 @@
 {
   "id": "svp-2-booster-packs-celebi-collector-s-pin",
+  "uuid": "63530fef-e490-5884-96ec-347c8bffe43a",
   "region": "international",
   "set": "svp",
   "category": "booster_pack",
   "name": "2 Booster Packs & Celebi Collector's Pin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67fe1bd3-732e-5c5b-bdef-86056f5d16dd",
       "name": "2 Booster Packs & Celebi Collector's Pin",
       "identifiers": {
         "tcgplayerProductIds": [

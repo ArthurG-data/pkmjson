@@ -1,15 +1,18 @@
 {
   "id": "sv01-build-battle-box-display",
+  "uuid": "a211c84c-8f9e-51fa-b42b-d90c0446ecb8",
   "region": "international",
   "set": "sv01",
   "category": "case",
   "name": "Scarlet & Violet Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "51e645bb-97bc-5352-9717-8d66d6906694",
       "name": "Scarlet & Violet Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

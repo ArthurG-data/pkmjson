@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-tcg-battle-academy-2024",
+  "uuid": "71b90dfa-ece9-5733-bee3-ccda4fa8968f",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon TCG: Battle Academy 2024",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 764568
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "99c087a7-59ae-5c9e-8eaa-c68193485842",
       "name": "Pokemon TCG: Battle Academy 2024",
       "releaseDate": "2024-06-21",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "77348824-1cf8-52dc-b9d1-9aff9ad5f57a",
       "name": "Accademia Lotta del Gioco di Carte Collezionabili Pokémon (2024)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/accademia-lotta-2024"
@@ -60,6 +64,7 @@
     },
     {
       "language": "fr",
+      "uuid": "90973a4d-dc92-5409-a59f-c111e66955fe",
       "name": "Jeu de Cartes à Collectionner Pokémon : Académie de Combat (2024)",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/academie-de-combat-2024"

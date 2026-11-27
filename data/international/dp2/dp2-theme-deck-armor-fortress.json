@@ -1,9 +1,11 @@
 {
   "id": "dp2-theme-deck-armor-fortress",
+  "uuid": "a17789d6-658c-5173-9416-b4ebd5a2383b",
   "region": "international",
   "set": "dp2",
   "category": "theme_deck",
   "name": "Mysterious Treasures Theme Deck - \"Armor Fortress\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286581
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "266df670-a539-5580-b8c7-769873d3278f",
       "name": "Mysterious Treasures Theme Deck - \"Armor Fortress\"",
       "identifiers": {
         "tcgplayerProductIds": [

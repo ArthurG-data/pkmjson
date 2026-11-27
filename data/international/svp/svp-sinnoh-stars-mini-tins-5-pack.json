@@ -1,9 +1,11 @@
 {
   "id": "svp-sinnoh-stars-mini-tins-5-pack",
+  "uuid": "c20aeda0-9253-554b-ba2e-a9677352e38d",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Sinnoh Stars Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1543d4dc-f2c6-519a-8488-71813fbcdb23",
       "name": "Sinnoh Stars Mini Tins 5-Pack",
       "identifiers": {
         "tcgplayerProductIds": [

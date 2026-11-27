@@ -1,9 +1,11 @@
 {
   "id": "sm8-island-guardians-gx-premium-collection",
+  "uuid": "630ae0f1-ce06-59c4-b63c-8e087213fe39",
   "region": "international",
   "set": "sm8",
   "category": "premium_collection",
   "name": "Island Guardians GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1322225c-6bd1-5b9f-89a7-6869a6e6b75f",
       "name": "Island Guardians GX Premium Collection",
       "releaseDate": "2018-11-02",
       "identifiers": {

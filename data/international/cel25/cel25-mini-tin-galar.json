@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-galar",
+  "uuid": "999d1a34-daa0-533f-82b2-38c6fd91533a",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Galar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0bdc5f7d-7b57-5bc5-b772-3df1dc1954b9",
       "name": "Celebrations Mini Tin [Galar]",
       "identifiers": {
         "tcgplayerProductIds": [

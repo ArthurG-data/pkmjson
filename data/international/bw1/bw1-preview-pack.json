@@ -1,15 +1,18 @@
 {
   "id": "bw1-preview-pack",
+  "uuid": "e433f030-1b2f-5055-a308-78f8d051470f",
   "region": "international",
   "set": "bw1",
   "category": "other",
   "name": "Black and White Preview Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c8a0a9a4-29c7-526c-a5dc-db9217d6360b",
       "name": "Black and White Preview Pack",
       "identifiers": {
         "tcgplayerProductIds": [

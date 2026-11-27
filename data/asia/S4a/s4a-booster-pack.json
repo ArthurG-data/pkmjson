@@ -1,9 +1,11 @@
 {
   "id": "s4a-booster-pack",
+  "uuid": "f7ed9e61-9694-55ad-b6db-96a80671690a",
   "region": "asia",
   "set": "S4a",
   "category": "booster_pack",
   "name": "Shiny Star V Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 522570
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2fd34776-8033-53be-85b8-1b5485b053a1",
       "name": "ハイクラスパック 「シャイニースターV」",
       "releaseDate": "2020-11-20",
       "identifiers": {

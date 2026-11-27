@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-accessory-pouch-special-collection",
+  "uuid": "4945ff4c-23ee-5825-bbd2-13deed7cbbe0",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Accessory Pouch Special Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798948
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4a47a0e7-5f68-50cb-b25d-49f7ba8eaf3e",
       "name": "Prismatic Evolutions Accessory Pouch Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [

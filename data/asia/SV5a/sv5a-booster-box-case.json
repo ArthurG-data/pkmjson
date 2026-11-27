@@ -1,9 +1,11 @@
 {
   "id": "sv5a-booster-box-case",
+  "uuid": "08fd6b3e-1991-54af-8551-a1ccbadfd72d",
   "region": "asia",
   "set": "SV5a",
   "category": "case",
   "name": "Crimson Haze Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 800359
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "60586c1c-3546-508e-98df-68957e82b5fb",
       "name": "Crimson Haze Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

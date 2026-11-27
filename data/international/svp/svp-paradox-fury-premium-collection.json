@@ -1,15 +1,18 @@
 {
   "id": "svp-paradox-fury-premium-collection",
+  "uuid": "9ebf6751-b083-5856-8162-5c5caec191dd",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Paradox Fury Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Promo Card (3 in total ); Oversize Promo Card; Magnetic Card Holder w/ base; Code Card.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b6a766a7-10a3-50c7-bff7-774aac314971",
       "name": "Paradox Fury Premium Collection",
       "releaseDate": "2024-09-06",
       "identifiers": {

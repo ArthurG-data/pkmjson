@@ -1,9 +1,11 @@
 {
   "id": "sm4s-booster-box",
+  "uuid": "eb189f10-8ea4-5754-8826-40ede82c574b",
   "region": "asia",
   "set": "SM4S",
   "category": "booster_box",
   "name": "Awakened Heroes Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551816
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "10b0ebcc-e91b-5969-9ac2-65b365c19320",
       "name": "Awakened Heroes Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

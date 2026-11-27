@@ -1,9 +1,11 @@
 {
   "id": "sv09-sleeved-booster-case",
+  "uuid": "646e4f69-8cb8-5feb-b4c6-955ede661e75",
   "region": "international",
   "set": "sv09",
   "category": "case",
   "name": "Journey Together Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805583
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a1d2ff67-ed79-59a5-a9dd-64cac1e97e59",
       "name": "Journey Together Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

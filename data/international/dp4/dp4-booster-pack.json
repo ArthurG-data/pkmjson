@@ -1,9 +1,11 @@
 {
   "id": "dp4-booster-pack",
+  "uuid": "e3b6c417-a457-5e7e-a1a2-ea1e0ace7f58",
   "region": "international",
   "set": "dp4",
   "category": "booster_pack",
   "name": "Great Encounters Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271834
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f7a4931b-2f34-53d9-a3ee-0392ad78236b",
       "name": "Diamond & Pearl—Great Encounters",
       "identifiers": {
         "tcgplayerProductIds": [

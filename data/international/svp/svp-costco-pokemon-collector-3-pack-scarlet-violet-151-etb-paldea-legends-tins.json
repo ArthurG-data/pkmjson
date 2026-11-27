@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-collector-3-pack-scarlet-violet-151-etb-paldea-legends-tins",
+  "uuid": "fc8a01af-facf-5e65-bb5f-c0a0bac5f512",
   "region": "international",
   "set": "svp",
   "category": "elite_trainer_box",
   "name": "Costco Pokemon Collector 3-Pack: Scarlet & Violet 151 ETB + Paldea Legends Tins",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 18 packs in total; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "13749881-c0fe-58d6-999c-1f6f7b8176a2",
       "name": "Costco Pokemon Collector 3-Pack: Scarlet & Violet 151 ETB + Paldea Legends Tins",
       "identifiers": {
         "tcgplayerProductIds": [

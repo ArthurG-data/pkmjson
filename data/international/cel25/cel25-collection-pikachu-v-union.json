@@ -1,9 +1,11 @@
 {
   "id": "cel25-collection-pikachu-v-union",
+  "uuid": "d1e86bce-d2ff-548f-8458-1857d44a429b",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Collection [Pikachu V-UNION]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "58823b7d-af9a-5035-b325-9e84b8c67003",
       "name": "Celebrations Collection [Pikachu V-UNION]",
       "identifiers": {
         "tcgplayerProductIds": [

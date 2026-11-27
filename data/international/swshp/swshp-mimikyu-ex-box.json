@@ -1,9 +1,11 @@
 {
   "id": "swshp-mimikyu-ex-box",
+  "uuid": "f34f04e8-b0b7-59eb-9617-f2d97342b792",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Mimikyu ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "373c3245-72f5-5459-a769-e3aece090a26",
       "name": "Mimikyu ex Box",
       "releaseDate": "2023-03-03",
       "identifiers": {

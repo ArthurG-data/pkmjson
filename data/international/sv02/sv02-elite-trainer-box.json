@@ -1,9 +1,11 @@
 {
   "id": "sv02-elite-trainer-box",
+  "uuid": "8f2d1094-3409-5ec2-8ddd-cf0836c41cbe",
   "region": "international",
   "set": "sv02",
   "category": "elite_trainer_box",
   "name": "Paldea Evolved Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703175
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "796f842d-1124-57bc-a825-e85671fd637d",
       "name": "Paldea Evolved Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -66,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b54220b0-600f-5ed9-abda-042cb10e9c08",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Évolutions à Paldea",
       "releaseDate": "2023-06-09",
       "sources": [
@@ -74,6 +78,7 @@
     },
     {
       "language": "de",
+      "uuid": "86ec43ce-9387-568f-b2df-707b61c38e83",
       "name": "Top-Trainer-Box Karmesin & Purpur – Entwicklungen in Paldea",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-entwicklungen-in-paldea"
@@ -81,6 +86,7 @@
     },
     {
       "language": "es",
+      "uuid": "d503c711-d9c9-598c-8dd2-d8f240632507",
       "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Evoluciones en Paldea",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-evoluciones-en-paldea"
@@ -88,6 +94,7 @@
     },
     {
       "language": "it",
+      "uuid": "b95c6f2f-2739-58f9-b14a-c904b62392d9",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Evoluzioni a Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-evoluzioni-a-paldea"

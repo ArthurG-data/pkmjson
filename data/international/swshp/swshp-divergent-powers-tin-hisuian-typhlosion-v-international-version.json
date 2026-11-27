@@ -1,9 +1,11 @@
 {
   "id": "swshp-divergent-powers-tin-hisuian-typhlosion-v-international-version",
+  "uuid": "cd2af41e-57c0-534d-a483-b6c1fa31bb2b",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Divergent Powers Tin [Hisuian Typhlosion V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a936ae6e-5454-5422-9091-21e81f4d53d2",
       "name": "Divergent Powers Tin [Hisuian Typhlosion V] (International Version)",
       "releaseDate": "2022-06-17",
       "identifiers": {

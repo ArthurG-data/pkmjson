@@ -1,9 +1,11 @@
 {
   "id": "svp-holiday-calendar-2025",
+  "uuid": "aacb4512-ac46-5e7e-8673-f8bfcc610840",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Holiday Calendar 2025",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "096e945c-4df8-5e47-99a6-a0af90bb37dc",
       "name": "Holiday Calendar 2025",
       "releaseDate": "2025-08-22",
       "identifiers": {

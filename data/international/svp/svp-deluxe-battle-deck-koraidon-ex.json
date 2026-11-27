@@ -1,9 +1,11 @@
 {
   "id": "svp-deluxe-battle-deck-koraidon-ex",
+  "uuid": "2d5ee840-5568-5e8d-bf19-277bfcb2307d",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "Deluxe Battle Deck [Koraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d5762b4-2da9-5fe3-86ed-c79740f70cd5",
       "name": "Deluxe Battle Deck [Koraidon ex]",
       "releaseDate": "2024-08-23",
       "identifiers": {

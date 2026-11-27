@@ -1,15 +1,18 @@
 {
   "id": "swsh3-fun-pack",
+  "uuid": "6b475122-48e2-50be-8a9b-1dbbe8590f93",
   "region": "international",
   "set": "swsh3",
   "category": "other",
   "name": "Darkness Ablaze Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "969ca2dd-69bc-5088-9ffa-9ebf1a4ef384",
       "name": "Darkness Ablaze Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

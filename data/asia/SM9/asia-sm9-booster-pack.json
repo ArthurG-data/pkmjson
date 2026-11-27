@@ -1,9 +1,11 @@
 {
-  "id": "sm9-booster-pack-576911",
+  "id": "asia-sm9-booster-pack",
+  "uuid": "ffef3429-b6e3-5944-b718-4d69350cd9cf",
   "region": "asia",
   "set": "SM9",
   "category": "booster_pack",
   "name": "Tag Bolt Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550456
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e5803f75-4389-564c-84ce-882d55fc5853",
       "name": "拡張パック「タッグボルト」",
       "releaseDate": "2018-12-07",
       "identifiers": {

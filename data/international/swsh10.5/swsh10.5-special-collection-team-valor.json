@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-special-collection-team-valor",
+  "uuid": "28bb37d6-00a4-5e4d-9881-7541f168d808",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Special Collection - Team Valor",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653707
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5783d42a-e090-59ae-9e15-405d643d92d2",
       "name": "Pokemon GO Special Collection - Team Valor",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ac7401d6-5aea-51b4-a554-9c7f16d5f1aa",
       "name": "Collection spéciale Pokémon GO Équipe Bravoure",
       "releaseDate": "2022-08-26",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "es",
+      "uuid": "4aaa39ea-cc53-5549-bce5-64c8e1df8e14",
       "name": "Colecciones especiales de Pokémon GO (Equipo Valor, Equipo Instinto y Equipo Sabiduría)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-de-pokemon-go-equipo-valor-equipo-instinto-y-equipo-sabiduria"

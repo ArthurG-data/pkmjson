@@ -1,9 +1,11 @@
 {
   "id": "svp-mabosstiff-ex-showcase",
+  "uuid": "588a1d0a-362a-52de-967e-c65db4eb7fd4",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Mabosstiff ex Showcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b18b3d21-a89e-5ee4-9a7c-18592f03bd61",
       "name": "Mabosstiff ex Showcase",
       "identifiers": {
         "tcgplayerProductIds": [

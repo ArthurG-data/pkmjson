@@ -1,9 +1,11 @@
 {
   "id": "me05-premium-checklane-blister-gengar-line",
+  "uuid": "cf3915a3-472a-512f-879c-259e7400e073",
   "region": "international",
   "set": "me05",
   "category": "blister",
   "name": "Pitch Black Premium Checklane Blister [Gengar Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6c5e89cb-80d1-53c9-9d45-b6dae05dc013",
       "name": "Pitch Black Premium Checklane Blister [Gengar Line]",
       "releaseDate": "2026-07-17",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "g1-red-blue-collection-blastoise-ex",
+  "uuid": "519df72d-8667-51c4-bdbc-fd202b1dce6d",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Red & Blue Collection [Blastoise EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e3ba07e6-60dd-51cf-9cd1-e81ac287b86c",
       "name": "Red & Blue Collection [Blastoise EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9a785432-100a-5fcb-8eda-ee44131bfbee",
       "name": "Collection Rouge & Bleu Tortank",
       "releaseDate": "2016-06-18",
       "sources": [

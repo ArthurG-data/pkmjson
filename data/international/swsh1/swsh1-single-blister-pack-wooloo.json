@@ -1,9 +1,11 @@
 {
   "id": "swsh1-single-blister-pack-wooloo",
+  "uuid": "4f3f0cf3-836e-58ab-948d-133d274de73b",
   "region": "international",
   "set": "swsh1",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Wooloo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585894
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6cc4574-e40c-5a51-8b85-80cad8e96764",
       "name": "Sword & Shield Single Blister Pack [Wooloo]",
       "releaseDate": "2020-02-07",
       "identifiers": {

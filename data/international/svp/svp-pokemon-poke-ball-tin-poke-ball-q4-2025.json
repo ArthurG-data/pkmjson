@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-poke-ball-q4-2025",
+  "uuid": "ce56725c-f692-5aef-82cf-de92d84f8dcd",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Poke Ball (Q4 2025)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "da366ffc-a40c-529a-a082-c801ba1a008a",
       "name": "Pokemon - Poke Ball Tin - Poke Ball (Q4 2025)",
       "identifiers": {
         "tcgplayerProductIds": [

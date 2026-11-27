@@ -1,9 +1,11 @@
 {
   "id": "det1-collector-chest",
+  "uuid": "b32b000d-623a-5335-b907-0983f78c855f",
   "region": "international",
   "set": "det1",
   "category": "other",
   "name": "Detective Pikachu: Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 371783
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5cdc2e67-6b84-5d56-8838-e27a1cb74718",
       "name": "Detective Pikachu: Collector Chest",
       "releaseDate": "2019-04-05",
       "identifiers": {

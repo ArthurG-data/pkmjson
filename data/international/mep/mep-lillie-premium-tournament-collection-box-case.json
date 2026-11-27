@@ -1,15 +1,18 @@
 {
   "id": "mep-lillie-premium-tournament-collection-box-case",
+  "uuid": "99cafb0c-1350-58a8-b2d2-a3b8551e1aee",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Lillie Premium Tournament Collection Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "72a6b768-9986-5327-8750-081e1a5b7244",
       "name": "Lillie Premium Tournament Collection Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

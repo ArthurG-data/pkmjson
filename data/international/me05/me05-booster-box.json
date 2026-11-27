@@ -1,9 +1,11 @@
 {
   "id": "me05-booster-box",
+  "uuid": "d362d110-53be-51aa-912d-bf5104a9c2f3",
   "region": "international",
   "set": "me05",
   "category": "booster_box",
   "name": "Pitch Black Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885545
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef84d51d-b325-58fd-81eb-ed945346f4d8",
       "name": "Pitch Black Booster Box",
       "releaseDate": "2026-07-17",
       "identifiers": {

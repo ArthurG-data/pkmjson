@@ -1,9 +1,11 @@
 {
   "id": "sm3-booster-box-case",
+  "uuid": "ec00fb36-a39b-53f0-8678-6a7ef04790db",
   "region": "international",
   "set": "sm3",
   "category": "case",
   "name": "Burning Shadows Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "db114e42-1dc1-55ca-bdb9-bb721f99227c",
       "name": "Burning Shadows Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

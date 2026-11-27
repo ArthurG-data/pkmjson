@@ -1,9 +1,11 @@
 {
   "id": "s5i-booster-pack",
+  "uuid": "4624f8aa-9e51-573a-a430-b4c4bedb2da1",
   "region": "asia",
   "set": "S5I",
   "category": "booster_pack",
   "name": "Single Strike Master Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 534147
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2fe55e1b-5d72-5eae-ad53-46a4e748ba6c",
       "name": "拡張パック「一撃マスター」",
       "releaseDate": "2021-01-22",
       "identifiers": {

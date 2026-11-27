@@ -1,15 +1,18 @@
 {
   "id": "base1-pokemon-1st-edition-booster-box",
+  "uuid": "d3824aa2-83f4-5714-8e88-6d8283804b08",
   "region": "international",
   "set": "base1",
   "category": "booster_box",
   "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 11 randomly inserted game cards.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2ec30cab-363d-54c6-bb9a-a799b8d9d5c4",
       "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

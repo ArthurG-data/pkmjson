@@ -1,9 +1,11 @@
 {
   "id": "neo2-booster-pack-1st-edition",
+  "uuid": "1c6c3e14-de1f-5a58-9968-0ebbbdba3227",
   "region": "international",
   "set": "neo2",
   "category": "booster_pack",
   "name": "Neo Discovery Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ba958b81-b0b1-53b6-8b0b-0393b98ca71b",
       "name": "Neo Discovery Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

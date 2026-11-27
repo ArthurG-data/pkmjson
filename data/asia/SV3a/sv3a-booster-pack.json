@@ -1,9 +1,11 @@
 {
   "id": "sv3a-booster-pack",
+  "uuid": "17af56e9-9d6c-5689-9f9a-c57a299ebadd",
   "region": "asia",
   "set": "SV3a",
   "category": "booster_pack",
   "name": "Raging Surf Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 726557
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "03f65f94-b3c4-5f06-a361-c3459db9b633",
       "name": "強化拡張パック「レイジングサーフ」",
       "releaseDate": "2023-09-22",
       "identifiers": {

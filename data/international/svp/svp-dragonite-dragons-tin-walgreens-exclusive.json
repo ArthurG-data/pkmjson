@@ -1,9 +1,11 @@
 {
   "id": "svp-dragonite-dragons-tin-walgreens-exclusive",
+  "uuid": "e2a3cd10-f576-5796-bfea-31e2f3b9ad86",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Dragonite Dragons Tin (Walgreens Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c192f3d5-7f45-510f-ad27-f8cc38de6379",
       "name": "Dragonite Dragons Tin (Walgreens Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

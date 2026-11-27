@@ -1,15 +1,18 @@
 {
   "id": "swsh3-theme-deck-display",
+  "uuid": "5f551e0a-555b-5ba8-94b8-a3d11ba2ed92",
   "region": "international",
   "set": "swsh3",
   "category": "case",
   "name": "Darkness Ablaze Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d4437308-1cec-5dbd-8dc1-c749be38ee98",
       "name": "Darkness Ablaze Theme Deck Display",
       "releaseDate": "2020-08-14",
       "identifiers": {

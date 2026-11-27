@@ -1,15 +1,18 @@
 {
   "id": "cel25-deluxe-pin-collection-case-zacian-lv-x",
+  "uuid": "53564d52-fdaf-5067-9092-78a7f1dfea6c",
   "region": "international",
   "set": "cel25",
   "category": "case",
   "name": "Celebrations Deluxe Pin Collection Case [Zacian LV. X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6505c28e-9bf3-56a7-a735-297ae9003f21",
       "name": "Celebrations Deluxe Pin Collection Case [Zacian LV. X]",
       "identifiers": {
         "tcgplayerProductIds": [

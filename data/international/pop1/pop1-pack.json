@@ -1,15 +1,18 @@
 {
   "id": "pop1-pack",
+  "uuid": "72aaa922-0c2e-59ce-b03b-ad98943c149b",
   "region": "international",
   "set": "pop1",
   "category": "other",
   "name": "POP Series 1 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a6411b7d-7743-597a-a83e-f668babb5ff8",
       "name": "POP Series 1 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

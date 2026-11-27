@@ -1,15 +1,18 @@
 {
   "id": "xy8-aurorus-ex-box",
+  "uuid": "b962f357-8fa0-5c8c-b9ee-3c3f39a93451",
   "region": "international",
   "set": "xy8",
   "category": "collection_box",
   "name": "Aurorus EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e1bc864f-1628-5a7a-aff0-1966d5366784",
       "name": "Aurorus EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "486c035e-1e87-54a3-a7c4-45435ac0df0f",
       "name": "Coffret Dragmara",
       "releaseDate": "2016-09-07",
       "contents": {

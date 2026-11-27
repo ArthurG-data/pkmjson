@@ -1,9 +1,11 @@
 {
   "id": "swshp-fall-2020-collector-s-chest-tin-premier-ball-2-pack-retail-exclusive",
+  "uuid": "ffe50909-89e8-5dfd-bdc2-167da43d3bed",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Fall 2020 Collector's Chest Tin + Premier Ball 2-Pack (Retail Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -63,6 +65,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5daf8740-114a-5244-8e3f-00afbe7a44c6",
       "name": "Fall 2020 Collector's Chest Tin + Premier Ball 2-Pack (Retail Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

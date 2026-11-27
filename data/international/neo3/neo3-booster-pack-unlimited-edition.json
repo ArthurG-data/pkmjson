@@ -1,9 +1,11 @@
 {
   "id": "neo3-booster-pack-unlimited-edition",
+  "uuid": "b880e446-5142-59c0-81a8-26f8913ce0e5",
   "region": "international",
   "set": "neo3",
   "category": "booster_pack",
   "name": "Neo Revelation Booster Pack [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c0adc19b-87eb-53df-9489-17e047183dc8",
       "name": "Neo Revelation Booster Pack [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

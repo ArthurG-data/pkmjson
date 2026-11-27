@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-mew",
+  "uuid": "67f70339-4374-5eee-b15e-800d24dad801",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Mew]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "140858b0-e087-5ff6-bed3-c73f747ad97b",
       "name": "30th Celebration Mini Tin [Mew]",
       "releaseDate": "2026-10-02",
       "identifiers": {

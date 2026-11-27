@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-tcg-trainer-s-toolkit-2022",
+  "uuid": "a1c6e540-e0e8-5fef-a587-8078f7148d45",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon TCG: Trainer's Toolkit (2022)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -49,6 +51,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c4ece8c5-5b99-5984-b7ab-433f6c5c0d4a",
       "name": "Pokemon TCG: Trainer's Toolkit (2022)",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -61,6 +64,7 @@
     },
     {
       "language": "de",
+      "uuid": "d680d249-5131-5707-b484-ea3f0233e64f",
       "name": "Trainer-Toolkit (2022)",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainer-toolkit-2022"
@@ -68,6 +72,7 @@
     },
     {
       "language": "es",
+      "uuid": "f7909b65-ce85-573d-ab1a-559c066a0d95",
       "name": "Herramientas de Entrenador de JCC Pokémon (2022)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/herramientas-de-entrenador-2022"
@@ -75,6 +80,7 @@
     },
     {
       "language": "it",
+      "uuid": "ffafd15c-db2f-58d2-bd03-4f1a6b2a0ca6",
       "name": "Inventario dell’Allenatore del GCC Pokémon (2022)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/inventario-dellallenatore-2022"
@@ -82,6 +88,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8c7631e6-e005-59b4-94e2-5af25866a14b",
       "name": "Nécessaire du Dresseur (2022)",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/necessaire-du-dresseur-2022"

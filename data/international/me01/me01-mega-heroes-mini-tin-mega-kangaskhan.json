@@ -1,9 +1,11 @@
 {
   "id": "me01-mega-heroes-mini-tin-mega-kangaskhan",
+  "uuid": "42918dbe-cb66-527e-9b7b-ffe915f15f08",
   "region": "international",
   "set": "me01",
   "category": "tin",
   "name": "Mega Heroes Mini Tin [Mega Kangaskhan]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834805
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d3d9f28-cfd2-596e-accc-03d16c70a9b6",
       "name": "Mega Heroes Mini Tin [Mega Kangaskhan]",
       "releaseDate": "2025-09-26",
       "identifiers": {

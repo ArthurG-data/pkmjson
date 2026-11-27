@@ -1,9 +1,11 @@
 {
   "id": "xy10-elite-trainer-box",
+  "uuid": "13b16648-e146-53d7-8eb8-0fb695336d39",
   "region": "international",
   "set": "xy10",
   "category": "elite_trainer_box",
   "name": "Fates Collide Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 289044
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "83b56f0f-1d32-5434-af3f-d99120c38032",
       "name": "Fates Collide Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "smp-let-s-play-theme-deck-eevee",
+  "uuid": "db87e74a-f6b2-58ae-8bd5-eb145e8c7bad",
   "region": "international",
   "set": "smp",
   "category": "theme_deck",
   "name": "Let's Play Theme Deck [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b41aee70-a4cd-5717-a0fd-f7558414bdb6",
       "name": "Let's Play Theme Deck [Eevee]",
       "identifiers": {
         "tcgplayerProductIds": [

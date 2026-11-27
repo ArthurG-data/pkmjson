@@ -1,9 +1,11 @@
 {
   "id": "me03-elite-trainer-box",
+  "uuid": "c037dbc1-42e9-58af-89a8-5b35b32be279",
   "region": "international",
   "set": "me03",
   "category": "elite_trainer_box",
   "name": "Perfect Order Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865406
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3b1a71ef-0f53-54f0-90d1-b3f9b0e1ddf9",
       "name": "Perfect Order Elite Trainer Box",
       "releaseDate": "2026-03-27",
       "identifiers": {

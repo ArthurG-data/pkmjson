@@ -1,9 +1,11 @@
 {
   "id": "30th-greninja-ex-box",
+  "uuid": "a8b60956-b4cb-5940-81d7-f29396c9c313",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Greninja ex Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895558
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3de33245-895b-5f06-86fa-876864f67e31",
       "name": "30th Celebration Greninja ex Box",
       "releaseDate": "2026-09-16",
       "identifiers": {
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b8175f1a-20ee-5462-9670-988dbfd93937",
       "name": "Coffret 30e Anniversaire Amphinobi",
       "releaseDate": "2026-09-16",
       "sources": [

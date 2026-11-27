@@ -1,9 +1,11 @@
 {
   "id": "s6a-gym-box",
+  "uuid": "5340b779-0cc5-539a-bd74-5c045b16710e",
   "region": "asia",
   "set": "S6a",
   "category": "collection_box",
   "name": "Eevee Heroes Gym Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "b406ff8f-c2ca-5acc-bfc8-673901e5a0c0",
       "name": "Eevee Heroes Gym Box",
       "identifiers": {
         "tcgplayerProductIds": [

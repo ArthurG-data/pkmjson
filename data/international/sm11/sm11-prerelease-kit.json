@@ -1,9 +1,11 @@
 {
   "id": "sm11-prerelease-kit",
+  "uuid": "f35efc1e-05c7-509c-9559-caa3412ccedd",
   "region": "international",
   "set": "sm11",
   "category": "other",
   "name": "Unified Minds Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "864b5a8c-2cc6-5faa-8078-bfe18eff00ea",
       "name": "Unified Minds Prerelease Kit",
       "releaseDate": "2019-08-02",
       "identifiers": {

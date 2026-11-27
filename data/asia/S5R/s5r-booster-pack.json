@@ -1,9 +1,11 @@
 {
   "id": "s5r-booster-pack",
+  "uuid": "aa13e295-dfb6-5792-9c1c-5cd6ed8dd06e",
   "region": "asia",
   "set": "S5R",
   "category": "booster_pack",
   "name": "Rapid Strike Master Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 534142
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "4af271ac-536f-5a5f-b590-7cfcd9385d62",
       "name": "拡張パック 「連撃マスター」",
       "releaseDate": "2021-01-22",
       "identifiers": {

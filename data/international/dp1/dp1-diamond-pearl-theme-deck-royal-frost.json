@@ -1,9 +1,11 @@
 {
   "id": "dp1-diamond-pearl-theme-deck-royal-frost",
+  "uuid": "887f5c1c-14cb-5bf3-aef7-7cea5e3b158b",
   "region": "international",
   "set": "dp1",
   "category": "theme_deck",
   "name": "Diamond & Pearl Theme Deck - \"Royal Frost\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286580
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f465537e-5a74-50ac-8cb2-1dfd8c8b68c5",
       "name": "Diamond & Pearl Theme Deck - \"Royal Frost\"",
       "identifiers": {
         "tcgplayerProductIds": [

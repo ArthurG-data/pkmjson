@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-heroes-tin-espeon-v-international-version",
+  "uuid": "0fedb2f6-b215-5019-8cc9-815d2fbc3594",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Heroes Tin [Espeon V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3c0bc368-0e42-533a-a1a3-b7030a70ea58",
       "name": "V Heroes Tin [Espeon V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

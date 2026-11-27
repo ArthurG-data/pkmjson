@@ -1,9 +1,11 @@
 {
   "id": "sm6-3-pack-blister-garbodor",
+  "uuid": "d69e87a0-4525-5c00-8e60-7cb992c68545",
   "region": "international",
   "set": "sm6",
   "category": "blister",
   "name": "Forbidden Light 3 Pack Blister [Garbodor]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585978
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "23a21bd7-05fe-5c41-858a-d5aa6ab6a98c",
       "name": "Forbidden Light 3 Pack Blister [Garbodor]",
       "identifiers": {
         "tcgplayerProductIds": [

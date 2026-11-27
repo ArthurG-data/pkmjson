@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-collection-alolan-exeggutor-v",
+  "uuid": "f3e39cd8-c638-5a26-a585-b4725e8742f8",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Collection [Alolan Exeggutor V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653708
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b88e3c44-8c05-5ee2-99cd-72c4a8cb3482",
       "name": "Pokemon GO Collection [Alolan Exeggutor V]",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f8d45eda-34ef-5557-84e8-ef07bdd18d7e",
       "name": "Collection Pokémon GO Noadkoko d'Alola-V",
       "releaseDate": "2022-07-01",
       "sources": [
@@ -61,6 +65,7 @@
     },
     {
       "language": "es",
+      "uuid": "f6d5527f-bd58-5b0d-8cdc-d0c9ad4039ee",
       "name": "Colección Exeggutor de Alola V de Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-exeggutor-de-alola-v-de-pokemon-go"
@@ -68,6 +73,7 @@
     },
     {
       "language": "it",
+      "uuid": "04169b53-7128-553c-9cf3-7722a257f0ac",
       "name": "Collezione Pokémon GO - Exeggutor di Alola-V",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pokemon-go-exeggutor-di-alola-v"

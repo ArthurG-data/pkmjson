@@ -1,9 +1,11 @@
 {
   "id": "swsh10-premium-checklane-blister-feraligatr",
+  "uuid": "809baee9-f414-5e63-82b8-47306c703d03",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance Premium Checklane Blister [Feraligatr]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 661277
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "94e6bf2b-f39b-5522-8371-6baf23134482",
       "name": "Astral Radiance Premium Checklane Blister [Feraligatr]",
       "identifiers": {
         "tcgplayerProductIds": [

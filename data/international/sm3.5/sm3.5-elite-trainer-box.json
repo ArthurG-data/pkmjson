@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-elite-trainer-box",
+  "uuid": "96c1d2ae-f528-53be-87b7-0d3675602eac",
   "region": "international",
   "set": "sm3.5",
   "category": "elite_trainer_box",
   "name": "Shining Legends Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301162
   },
@@ -68,6 +70,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "28e84d31-ddf4-5ca0-99b5-896a00e8fcb6",
       "name": "Shining Legends Elite Trainer Box",
       "releaseDate": "2017-10-06",
       "identifiers": {
@@ -81,6 +84,7 @@
     },
     {
       "language": "fr",
+      "uuid": "861c8133-c3d7-5090-be6e-e885c6cba7f2",
       "name": "Coffret Dresseur d'élite Légendes Brillantes",
       "releaseDate": "2017-11-24",
       "sources": [
@@ -89,6 +93,7 @@
     },
     {
       "language": "es",
+      "uuid": "a6ba2700-0ae7-5ab9-b4fb-d026b4c03dd8",
       "name": "Entrenador Élite de Leyendas Luminosas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/entrenador-elite-de-leyendas-luminosas-de-jcc-pokemon"
@@ -96,6 +101,7 @@
     },
     {
       "language": "de",
+      "uuid": "6bb36238-1a8d-5960-860b-4adff0aea228",
       "name": "Top-Trainer-Box Schimmernde Legenden",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schimmernde-legenden"

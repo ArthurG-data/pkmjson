@@ -1,15 +1,18 @@
 {
   "id": "swsh9-fun-pack",
+  "uuid": "0879d0f7-1414-5f5c-9b90-41b5375b5fae",
   "region": "international",
   "set": "swsh9",
   "category": "other",
   "name": "Brilliant Stars Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "90616b2b-bcfd-5b0d-9dc4-e8525ee0da54",
       "name": "Brilliant Stars Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

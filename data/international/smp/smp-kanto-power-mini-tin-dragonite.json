@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-power-mini-tin-dragonite",
+  "uuid": "029767b2-607a-5d17-b1c7-eb62e116cde8",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Power Mini Tin [Dragonite]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aff7e6b0-4a44-5ff0-9991-459decd6990b",
       "name": "Kanto Power Mini Tin [Dragonite]",
       "identifiers": {
         "tcgplayerProductIds": [

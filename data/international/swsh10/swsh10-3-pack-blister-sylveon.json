@@ -1,9 +1,11 @@
 {
   "id": "swsh10-3-pack-blister-sylveon",
+  "uuid": "69934ae5-b63a-5282-b8df-4d7e1e052fc6",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance 3 Pack Blister [Sylveon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611354
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf69c8cd-df06-58fe-b5d4-c29f13ede21a",
       "name": "Astral Radiance 3 Pack Blister [Sylveon]",
       "releaseDate": "2022-05-27",
       "identifiers": {

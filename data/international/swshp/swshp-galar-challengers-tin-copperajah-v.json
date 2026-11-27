@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-challengers-tin-copperajah-v",
+  "uuid": "33e569f4-7f9b-5842-aebe-331cf452310f",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Challengers Tin [Copperajah V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d93975e7-f1de-567f-aa01-298a9df7de4f",
       "name": "Galar Challengers Tin [Copperajah V]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "xy8-mega-blaziken-ex-premium-collection",
+  "uuid": "c8077c83-dbca-5c86-bdcd-80a0061cac07",
   "region": "international",
   "set": "xy8",
   "category": "premium_collection",
   "name": "Mega Blaziken EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a02c89c6-feee-5ee2-b6b2-e151d1def27d",
       "name": "Mega Blaziken EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fcb53f0a-318c-539c-a5b8-0ec19be0012a",
       "name": "Coffret Méga-Braségali",
       "releaseDate": "2016-09-28",
       "sources": [

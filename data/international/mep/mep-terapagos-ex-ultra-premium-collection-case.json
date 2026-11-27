@@ -1,15 +1,18 @@
 {
   "id": "mep-terapagos-ex-ultra-premium-collection-case",
+  "uuid": "0d3dcf49-413e-526f-879a-ab72fcb464ef",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Terapagos ex Ultra-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0c0992e4-2164-500b-8479-b0c2a19dd6cf",
       "name": "Terapagos ex Ultra-Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

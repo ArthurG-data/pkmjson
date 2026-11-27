@@ -1,9 +1,11 @@
 {
   "id": "mep-blastoise-ex-tin-retail-exclusive",
+  "uuid": "886d5c24-5809-589d-ba2c-ee18eee0542b",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Blastoise EX Tin (Retail Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf2b1843-a1b1-557c-8947-c5f92b4379bb",
       "name": "Blastoise EX Tin (Retail Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

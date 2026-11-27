@@ -1,9 +1,11 @@
 {
   "id": "sm10-sleeved-booster-pack",
+  "uuid": "8dcccda3-40d5-5cd6-8356-12b3a3e6334c",
   "region": "international",
   "set": "sm10",
   "category": "sleeved_booster_pack",
   "name": "Unbroken Bonds Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7b1a782b-83da-5916-a463-8951f4949f37",
       "name": "Unbroken Bonds Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

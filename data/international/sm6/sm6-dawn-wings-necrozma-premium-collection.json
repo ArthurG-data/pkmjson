@@ -1,9 +1,11 @@
 {
   "id": "sm6-dawn-wings-necrozma-premium-collection",
+  "uuid": "2bed37ec-dbc7-5300-b8d9-a32f02ed105c",
   "region": "international",
   "set": "sm6",
   "category": "premium_collection",
   "name": "Dawn Wings Necrozma Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "218e1e24-600c-5783-b662-831e833153f6",
       "name": "Dawn Wings Necrozma Premium Collection",
       "releaseDate": "2018-05-04",
       "identifiers": {
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "be3d7881-1b46-59db-a664-ee0de6a8e196",
       "name": "Collection avec figurine Necrozma Ailes de l'Aurore",
       "releaseDate": "2018-09-19",
       "contents": {

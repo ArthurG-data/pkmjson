@@ -1,9 +1,11 @@
 {
   "id": "xy11-booster-box",
+  "uuid": "609dc0e4-674b-54cd-8a5d-1a793b480ff5",
   "region": "international",
   "set": "xy11",
   "category": "booster_box",
   "name": "Steam Siege Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 290088
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c050928c-7851-55dc-a1bb-50f6e175a53c",
       "name": "Steam Siege Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

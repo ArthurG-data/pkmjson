@@ -1,9 +1,11 @@
 {
   "id": "sv07-booster-pack",
+  "uuid": "87cc5420-f8cc-577b-908e-59e615b0ac87",
   "region": "international",
   "set": "sv07",
   "category": "booster_pack",
   "name": "Stellar Crown Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776321
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "911c5fcb-1ed1-5998-9692-45e2f059dcf7",
       "name": "Scarlet & Violet—Stellar Crown",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "90e107b7-645c-5ab0-bbc7-5b5dc711f1b2",
       "name": "Écarlate et Violet – Couronne Stellaire",
       "sources": [
         "https://www.pokepedia.fr/Tripack_EV07_Latias",
@@ -40,6 +44,7 @@
     },
     {
       "language": "it",
+      "uuid": "ca0b255e-fbd4-541e-8148-8c4c961cdae6",
       "name": "Scarlatto e Violetto - Corona Astrale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-corona-astrale",

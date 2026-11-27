@@ -1,9 +1,11 @@
 {
   "id": "sm3-single-pack-blister-komala",
+  "uuid": "2023b350-e6c1-5559-a128-9168e8b9927b",
   "region": "international",
   "set": "sm3",
   "category": "blister",
   "name": "Burning Shadows Single Pack Blister [Komala]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585990
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef6e17ff-10cf-5df9-87e9-e376f8d811f7",
       "name": "Burning Shadows Single Pack Blister [Komala]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm2-booster-pack",
+  "uuid": "19e91ec3-6029-5f37-852d-92ac5d51e7f0",
   "region": "international",
   "set": "sm2",
   "category": "booster_pack",
   "name": "Guardians Rising Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 296851
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "73cda3f8-d3b4-5886-965e-dbc111987c1b",
       "name": "Sun & Moon—Guardians Rising",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fe24f832-7c69-5846-a8fe-fc3f02c61305",
       "name": "Soleil et Lune – Gardiens Ascendants",
       "sources": [
         "https://www.pokepedia.fr/Collection_Premium_Mentali-GX",

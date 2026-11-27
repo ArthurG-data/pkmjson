@@ -1,9 +1,11 @@
 {
   "id": "xy1-base-set-theme-deck-destruction-rush-yveltal",
+  "uuid": "c9257011-ed89-56ae-b9c1-5650127ddfc7",
   "region": "international",
   "set": "xy1",
   "category": "theme_deck",
   "name": "XY Base Set Theme Deck - \"Destruction Rush\" [Yveltal]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286618
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ecb4abb-4404-5fa9-9772-05b3848c7c45",
       "name": "XY Base Set Theme Deck - \"Destruction Rush\" [Yveltal]",
       "identifiers": {
         "tcgplayerProductIds": [

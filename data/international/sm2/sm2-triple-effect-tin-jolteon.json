@@ -1,9 +1,11 @@
 {
   "id": "sm2-triple-effect-tin-jolteon",
+  "uuid": "b67be730-5a36-5b77-ac68-142a7c8b2b09",
   "region": "international",
   "set": "sm2",
   "category": "tin",
   "name": "Triple Effect Tin [Jolteon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d40258c2-138b-5e6d-bcb9-967ec8f5e5a6",
       "name": "Triple Effect Tin [Jolteon]",
       "identifiers": {
         "tcgplayerProductIds": [

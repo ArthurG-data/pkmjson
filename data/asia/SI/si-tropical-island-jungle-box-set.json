@@ -1,15 +1,18 @@
 {
   "id": "si-tropical-island-jungle-box-set",
+  "uuid": "288a39d6-ab37-5032-b9b1-80181f92cc7d",
   "region": "asia",
   "set": "SI",
   "category": "collection_box",
   "name": "Tropical Island Jungle Box Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Vileplume; Lickitung; Primeape.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "8e945702-ec21-570b-818c-2250dddbfa6b",
       "name": "Tropical Island Jungle Box Set",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-greninja-ex-ultra-premium-collection",
+  "uuid": "2e9f1d5f-a692-5163-b812-0eba96e75166",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Greninja ex Ultra-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9dafa4e1-58c8-5b5d-8366-dbfb2a989ae9",
       "name": "Greninja ex Ultra-Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5f0163bf-b52a-59f6-afde-adfd2475d2aa",
       "name": "Collection Ultra‑Premium Amphinobi‑ex",
       "releaseDate": "2024-11-01",
       "sources": [

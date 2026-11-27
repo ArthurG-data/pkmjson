@@ -1,9 +1,11 @@
 {
   "id": "s5a-master-booster-box",
+  "uuid": "dbbff814-4251-5ec8-aeac-c578d73fe14b",
   "region": "asia",
   "set": "S5a",
   "category": "booster_box",
   "name": "Peerless Fighters Master Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ec798b8b-ef85-5580-bde4-e0167054b14d",
       "name": "Peerless Fighters Master Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

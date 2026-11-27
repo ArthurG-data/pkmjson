@@ -1,9 +1,11 @@
 {
   "id": "sm9a-booster-box",
+  "uuid": "6ec3710f-5fa4-5017-a30c-35f93e0beb94",
   "region": "asia",
   "set": "SM9a",
   "category": "booster_box",
   "name": "Night Unison Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550436
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0cf59f8a-cbcc-5e73-b71e-1e1071f22024",
       "name": "Night Unison Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

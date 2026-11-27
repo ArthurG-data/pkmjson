@@ -1,15 +1,18 @@
 {
   "id": "sm7-evolution-celebration-tin-set-of-3",
+  "uuid": "7d8ff166-44bf-5ea9-9499-084614d80b3a",
   "region": "international",
   "set": "sm7",
   "category": "other",
   "name": "Evolution Celebration Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 of 3 foil Pokemon GX cards: Leafeon GX, Glaceon GX, or Sylveon GX; 4 Pokemon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5bd6b1c0-445f-541d-a4df-f5bcbb584500",
       "name": "Evolution Celebration Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

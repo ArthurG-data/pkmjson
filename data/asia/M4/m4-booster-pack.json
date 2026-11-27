@@ -1,9 +1,11 @@
 {
   "id": "m4-booster-pack",
+  "uuid": "41e30134-c624-59a0-8327-30d02016c7ee",
   "region": "asia",
   "set": "M4",
   "category": "booster_pack",
   "name": "Ninja Spinner Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873179
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d6f3326d-ca5b-5aee-b572-a3974d5d6c30",
       "name": "拡張パック 「ニンジャスピナー」",
       "releaseDate": "2026-03-13",
       "identifiers": {

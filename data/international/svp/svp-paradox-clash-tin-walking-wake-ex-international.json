@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-clash-tin-walking-wake-ex-international",
+  "uuid": "7441ca9f-db32-5d4e-bf6e-60c2455176c5",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Clash Tin [Walking Wake ex] (International)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6e1e5c4b-44ba-5993-a59d-bcc6bb51f2dd",
       "name": "Paradox Clash Tin [Walking Wake ex] (International)",
       "releaseDate": "2024-05-24",
       "identifiers": {

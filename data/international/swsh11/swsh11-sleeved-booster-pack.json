@@ -1,9 +1,11 @@
 {
   "id": "swsh11-sleeved-booster-pack",
+  "uuid": "b115aa63-91bb-5242-990f-c5254149c69d",
   "region": "international",
   "set": "swsh11",
   "category": "sleeved_booster_pack",
   "name": "Lost Origin Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674698
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fff4471-e6ee-5092-9046-050acf3ea529",
       "name": "Lost Origin Sleeved Booster Pack",
       "releaseDate": "2022-09-09",
       "identifiers": {

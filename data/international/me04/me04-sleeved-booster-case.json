@@ -1,9 +1,11 @@
 {
   "id": "me04-sleeved-booster-case",
+  "uuid": "28ab516b-d1d8-5f57-bf77-bf6984ffaa2a",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877280
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7fe43a5b-416a-5e8a-b82d-dd3cafbfecab",
       "name": "Chaos Rising Sleeved Booster Case",
       "releaseDate": "2026-05-22",
       "identifiers": {

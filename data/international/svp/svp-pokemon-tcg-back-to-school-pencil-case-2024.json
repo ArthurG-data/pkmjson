@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-tcg-back-to-school-pencil-case-2024",
+  "uuid": "1252d116-82c5-57a2-9046-ef16fbc147fa",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Pokemon TCG: Back to School Pencil Case 2024",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "503fdd85-77e2-5244-99ee-1db60b56d995",
       "name": "Pokemon TCG: Back to School Pencil Case 2024",
       "releaseDate": "2024-07-05",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm2-single-pack-blister-crobat",
+  "uuid": "90525619-5568-5cf8-be8f-42b8159f357c",
   "region": "international",
   "set": "sm2",
   "category": "blister",
   "name": "Guardians Rising Single Pack Blister [Crobat]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3051d4e3-5821-5128-9b4b-72e86c9d7eae",
       "name": "Guardians Rising Single Pack Blister [Crobat]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me01-sleeved-booster-case",
+  "uuid": "07a79ecd-4186-50c8-be46-2f2a5d89cfd1",
   "region": "international",
   "set": "me01",
   "category": "case",
   "name": "Mega Evolution Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834811
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2423aafe-0d78-5fc8-bdce-d369f00437e9",
       "name": "Mega Evolution Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

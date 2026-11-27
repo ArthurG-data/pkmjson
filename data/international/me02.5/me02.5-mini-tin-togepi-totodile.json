@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mini-tin-togepi-totodile",
+  "uuid": "5d382c25-f25d-5440-96a9-b7b7ea7f921a",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Mini Tin [Togepi & Totodile]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c0d6f725-83cd-5b11-87b3-2312c7c89b02",
       "name": "Ascended Heroes Mini Tin [Togepi & Totodile]",
       "releaseDate": "2026-02-20",
       "identifiers": {

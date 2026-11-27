@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-2-pack-blister-eevee",
+  "uuid": "27d2327b-8795-5d4d-9866-ec7af5bf0a33",
   "region": "international",
   "set": "sv08.5",
   "category": "blister",
   "name": "Prismatic Evolutions 2-Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d0eb9fd7-893e-5d00-9de6-e58f084ebf3b",
       "name": "Prismatic Evolutions 2-Pack Blister [Eevee]",
       "releaseDate": "2025-02-21",
       "identifiers": {

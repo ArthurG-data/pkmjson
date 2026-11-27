@@ -1,9 +1,11 @@
 {
   "id": "sv3a-booster-box",
+  "uuid": "e75477e4-5efa-5421-b7f5-29d07710d96e",
   "region": "asia",
   "set": "SV3a",
   "category": "booster_box",
   "name": "Raging Surf Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 726556
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "38fe4850-4c0a-5f47-82ab-3e7869b7eec8",
       "name": "Raging Surf Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

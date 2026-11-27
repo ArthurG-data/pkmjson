@@ -1,9 +1,11 @@
 {
   "id": "svp-greninja-ex-battle-deck-2-booster-bundle",
+  "uuid": "79e6e13e-a4ba-5033-92eb-e85d5f8f7027",
   "region": "international",
   "set": "svp",
   "category": "booster_bundle",
   "name": "Greninja ex Battle Deck & 2 Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fe42195-6fe9-562b-8c67-3b7a440c20e7",
       "name": "Greninja ex Battle Deck & 2 Booster Bundle",
       "releaseDate": "2024-09-06",
       "identifiers": {

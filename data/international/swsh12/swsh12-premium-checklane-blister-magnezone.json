@@ -1,9 +1,11 @@
 {
   "id": "swsh12-premium-checklane-blister-magnezone",
+  "uuid": "9d07f8e4-c030-594b-a99c-d45a09289d69",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest Premium Checklane Blister [Magnezone]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683488
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "389f8f20-e272-5577-9d05-9a1b69c3a01d",
       "name": "Silver Tempest Premium Checklane Blister [Magnezone]",
       "identifiers": {
         "tcgplayerProductIds": [

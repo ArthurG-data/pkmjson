@@ -1,15 +1,18 @@
 {
   "id": "swshp-11th-movie-commemoration-set",
+  "uuid": "0791036e-ba0e-5a96-a2f2-edaf08d868f7",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "11th Movie Commemoration Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dcb8b8ea-81b1-5197-9057-cd974ff3b12b",
       "name": "11th Movie Commemoration Set",
       "identifiers": {
         "tcgplayerProductIds": [

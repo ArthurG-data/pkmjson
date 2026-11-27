@@ -1,9 +1,11 @@
 {
   "id": "sv01-premium-checklane-blister-hisuian-zoroark",
+  "uuid": "bec74e5e-3b65-5e55-8ca0-f000b5a356eb",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Zoroark]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df869244-3db0-5e05-8462-e552b7efba6f",
       "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Zoroark]",
       "identifiers": {
         "tcgplayerProductIds": [

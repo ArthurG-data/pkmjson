@@ -1,9 +1,11 @@
 {
   "id": "sm4-elite-trainer-box",
+  "uuid": "f340143c-3462-5aca-bad1-086fa78a818e",
   "region": "international",
   "set": "sm4",
   "category": "elite_trainer_box",
   "name": "Crimson Invasion Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301168
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b3045c84-8a5a-5f58-ae0f-feff5c48be9d",
       "name": "Crimson Invasion Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

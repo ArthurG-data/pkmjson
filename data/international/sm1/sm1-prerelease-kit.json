@@ -1,15 +1,18 @@
 {
   "id": "sm1-prerelease-kit",
+  "uuid": "69014220-aa41-5a25-acd0-b2f34376b860",
   "region": "international",
   "set": "sm1",
   "category": "other",
   "name": "Sun & Moon Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: A 23-card Evolution pack, including 1 of 4 unique foil promo cards; 4 Sun & Moon Booster Packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "561dc322-9d83-5282-95ea-c74e7c859927",
       "name": "Sun & Moon Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

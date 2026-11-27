@@ -1,9 +1,11 @@
 {
   "id": "30th-2-pack-blister",
+  "uuid": "01252ead-379f-5e5c-8f06-287f1b976ea7",
   "region": "international",
   "set": "30th",
   "category": "blister",
   "name": "30th Celebration 2-Pack Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "29b68348-a278-5c07-ad97-f5f92721110f",
       "name": "30th Celebration 2-Pack Blister",
       "releaseDate": "2026-09-16",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm11-booster-box",
+  "uuid": "f84eb153-e690-579f-b06d-ada59730a067",
   "region": "international",
   "set": "sm11",
   "category": "booster_box",
   "name": "Unified Minds Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 377487
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "daa43ba8-dd11-5dc9-88eb-d1a5b5a9e33c",
       "name": "Unified Minds Booster Box",
       "releaseDate": "2019-08-02",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-love-ball",
+  "uuid": "76d37291-2ed6-59e4-86d2-07c4d1a64dff",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Love Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8d3f9f6e-329a-5d44-a002-d131728f33ad",
       "name": "Pokemon - Poke Ball Tin - Love Ball",
       "releaseDate": "2022-05-06",
       "identifiers": {

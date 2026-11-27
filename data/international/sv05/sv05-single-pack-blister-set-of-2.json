@@ -1,15 +1,18 @@
 {
   "id": "sv05-single-pack-blister-set-of-2",
+  "uuid": "dadf69fc-e516-51e9-a4ef-47522ebd7c19",
   "region": "international",
   "set": "sv05",
   "category": "other",
   "name": "Temporal Forces Single Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "96cc2473-4f29-562e-99ad-589e0e7446b2",
       "name": "Temporal Forces Single Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

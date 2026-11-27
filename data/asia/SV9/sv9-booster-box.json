@@ -1,9 +1,11 @@
 {
   "id": "sv9-booster-box",
+  "uuid": "9152411f-0075-505b-8b11-6fbf873ec9ae",
   "region": "asia",
   "set": "SV9",
   "category": "booster_box",
   "name": "Battle Partners Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 804827
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ca5edca7-56a5-5cd2-90dd-53b368ac5755",
       "name": "Battle Partners Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

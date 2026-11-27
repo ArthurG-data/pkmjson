@@ -1,9 +1,11 @@
 {
   "id": "dp2-theme-deck-skull-charge",
+  "uuid": "1b38adf4-bd79-570b-b357-2582bc36ff92",
   "region": "international",
   "set": "dp2",
   "category": "theme_deck",
   "name": "Mysterious Treasures Theme Deck - \"Skull Charge\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286582
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "103adadf-97a9-5f5f-869a-ba4254b42781",
       "name": "Mysterious Treasures Theme Deck - \"Skull Charge\"",
       "identifiers": {
         "tcgplayerProductIds": [

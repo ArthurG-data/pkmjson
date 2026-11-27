@@ -1,9 +1,11 @@
 {
   "id": "pl3-theme-deck-overflow",
+  "uuid": "b486215b-6c52-5a76-b88f-cd1112a469c8",
   "region": "international",
   "set": "pl3",
   "category": "theme_deck",
   "name": "Supreme Victors Theme Deck - \"Overflow\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286600
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c92c921-e06f-57d4-83f4-1597afb93994",
       "name": "Supreme Victors Theme Deck - \"Overflow\"",
       "identifiers": {
         "tcgplayerProductIds": [

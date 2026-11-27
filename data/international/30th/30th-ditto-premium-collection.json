@@ -1,9 +1,11 @@
 {
   "id": "30th-ditto-premium-collection",
+  "uuid": "b8accf6d-96f5-5a70-af4e-401250580333",
   "region": "international",
   "set": "30th",
   "category": "premium_collection",
   "name": "30th Celebration Ditto Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895574
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d66550ea-bca9-5d4d-bdcc-68e104540e0f",
       "name": "30th Celebration Ditto Premium Collection",
       "releaseDate": "2026-11-06",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "neo4-theme-deck-dark",
+  "uuid": "e615c544-2f71-5754-a07c-6f8c3a100e1c",
   "region": "international",
   "set": "neo4",
   "category": "theme_deck",
   "name": "Neo Destiny Theme Deck - \"Dark\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286569
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e8b0be0-930c-50e1-9253-c939598ef25d",
       "name": "Neo Destiny Theme Deck - \"Dark\"",
       "identifiers": {
         "tcgplayerProductIds": [

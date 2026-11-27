@@ -1,15 +1,18 @@
 {
   "id": "swsh6-ice-rider-shadow-rider-calyrex-v-box-case",
+  "uuid": "a72a051c-add4-5ece-94f8-a7f9ca1fbb09",
   "region": "international",
   "set": "swsh6",
   "category": "case",
   "name": "Ice Rider/ Shadow Rider Calyrex V Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e26145d7-f524-520b-910b-a57098851f01",
       "name": "Ice Rider/ Shadow Rider Calyrex V Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

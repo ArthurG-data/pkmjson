@@ -1,9 +1,11 @@
 {
   "id": "gym1-theme-deck-misty",
+  "uuid": "9884da80-35c9-5111-8df6-e782da6d1144",
   "region": "international",
   "set": "gym1",
   "category": "theme_deck",
   "name": "Gym Heroes Theme Deck - \"Misty\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286505
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "09d556f5-cf9f-5f02-ac4f-80550d7a51bf",
       "name": "Gym Heroes Theme Deck - \"Misty\"",
       "identifiers": {
         "tcgplayerProductIds": [

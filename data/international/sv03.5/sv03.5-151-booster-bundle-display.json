@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-booster-bundle-display",
+  "uuid": "9095d275-1fb1-5fbb-acb3-2e56bf7cf47d",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Booster Bundle Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 794902
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "074b5f11-85ba-5752-b158-0963faf8ffde",
       "name": "151 Booster Bundle Display",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-premium-collection-radiant-eevee",
+  "uuid": "d7a5e681-6acb-5189-af0c-466b612051f6",
   "region": "international",
   "set": "swsh10.5",
   "category": "premium_collection",
   "name": "Pokemon GO Premium Collection [Radiant Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653709
   },
@@ -44,6 +46,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0d1b412b-d83f-5ea5-be00-f644c4a7ecac",
       "name": "Pokemon GO Premium Collection [Radiant Eevee]",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -57,6 +60,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6cdbbda1-eaf0-50a1-a72a-7e9d7404d6cf",
       "name": "Collection Premium Pokémon GO Évoli Radieux",
       "releaseDate": "2022-07-29",
       "sources": [
@@ -65,6 +69,7 @@
     },
     {
       "language": "es",
+      "uuid": "c2a5e650-4c5c-5eba-9792-ccee52b4cff6",
       "name": "Colección premium Eevee Radiante de Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-eevee-radiante-de-pokemon-go"
@@ -72,6 +77,7 @@
     },
     {
       "language": "it",
+      "uuid": "6a026eaf-26bf-5a1d-8de1-9d3fe5e7b6e3",
       "name": "Collezione premium Pokémon GO - Eevee Lucente",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-pokemon-go-eevee-lucente"

@@ -1,15 +1,18 @@
 {
   "id": "sm9-tag-team-tin-set-of-3",
+  "uuid": "6ad64371-6282-5bb6-9902-915942f53d17",
   "region": "international",
   "set": "sm9",
   "category": "other",
   "name": "TAG TEAM Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil TAG TEAM Pokémon-GX with special art; 4 Pokémon TCG booster packs (Packs vary per tin.); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9a498d1b-b51c-52c3-8242-dca2b2e6871f",
       "name": "TAG TEAM Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

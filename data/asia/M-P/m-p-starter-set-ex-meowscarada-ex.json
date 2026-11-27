@@ -1,9 +1,11 @@
 {
   "id": "m-p-starter-set-ex-meowscarada-ex",
+  "uuid": "ffac1be1-11f1-5fe3-867c-88138414c919",
   "region": "asia",
   "set": "M-P",
   "category": "battle_deck",
   "name": "Starter Set ex Meowscarada ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "890b3327-b3f9-59c3-98bb-9d4ad967c3b6",
       "name": "スターターセットex ニャオハ＆マスカーニャex",
       "releaseDate": "2026-07-31",
       "identifiers": {

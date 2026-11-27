@@ -1,9 +1,11 @@
 {
   "id": "cel25-collector-chest",
+  "uuid": "444b612a-4e63-583a-8221-758d13d9d450",
   "region": "international",
   "set": "cel25",
   "category": "other",
   "name": "Celebrations Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570908
   },
@@ -56,6 +58,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "26d67411-e426-5cc7-a728-0d2060f418c0",
       "name": "Celebrations Collector Chest",
       "releaseDate": "2021-10-22",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm11-3-pack-blister-vikavolt",
+  "uuid": "b3871ada-a297-5064-b4a0-6f760d7b0edf",
   "region": "international",
   "set": "sm11",
   "category": "blister",
   "name": "Unified Minds 3 Pack Blister [Vikavolt]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585909
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dd06afcb-e900-5ff9-9569-6b3931d44a87",
       "name": "Unified Minds 3 Pack Blister [Vikavolt]",
       "releaseDate": "2019-08-02",
       "identifiers": {

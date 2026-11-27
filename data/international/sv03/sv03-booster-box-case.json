@@ -1,9 +1,11 @@
 {
   "id": "sv03-booster-box-case",
+  "uuid": "aeb013f5-42cb-50a1-9018-38e6558b31f9",
   "region": "international",
   "set": "sv03",
   "category": "case",
   "name": "Obsidian Flames Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715779
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4f321c69-2978-5e0a-91ba-5732e3579d82",
       "name": "Obsidian Flames Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

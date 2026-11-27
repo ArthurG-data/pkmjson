@@ -1,15 +1,18 @@
 {
   "id": "xy10-three-pack-blister-vivillon",
+  "uuid": "47244606-a320-53a5-b447-c008e1ea0bbc",
   "region": "international",
   "set": "xy10",
   "category": "blister",
   "name": "Fates Collide Three Pack Blister [Vivillon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d1668206-ad0d-5323-9f43-dc2c78df8a39",
       "name": "Fates Collide Three Pack Blister [Vivillon]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7ad31b43-40b7-5d68-82a4-0e76671f0e39",
       "name": "Tripack XY10 Prismillon",
       "releaseDate": "2016-05-07",
       "contents": {

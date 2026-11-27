@@ -1,9 +1,11 @@
 {
   "id": "swsh2-single-blister-pack-yamper-boltund",
+  "uuid": "048bd412-5af0-565b-ae65-d7cbd8ec6a7a",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Yamper & Boltund]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ab12bddf-fe79-54ea-bc7b-7754900d59d3",
       "name": "Sword & Shield Single Blister Pack [Yamper & Boltund]",
       "identifiers": {
         "tcgplayerProductIds": [

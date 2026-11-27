@@ -1,15 +1,18 @@
 {
   "id": "xy6-hoenn-power-tin-swampert",
+  "uuid": "4c655c03-b533-576a-9145-2b0cfa829f85",
   "region": "international",
   "set": "xy6",
   "category": "tin",
   "name": "Hoenn Power Tin [Swampert]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "91a20301-7ec9-5b2f-9878-572a68e0c6e2",
       "name": "Hoenn Power Tin [Swampert]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3a7d94ba-2911-5ac9-bb52-0d5c22257f23",
       "name": "Boîte Puissance de Hoenn Laggron",
       "contents": {
         "sealed": [

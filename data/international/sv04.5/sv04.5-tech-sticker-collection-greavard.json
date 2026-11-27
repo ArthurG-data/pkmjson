@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-tech-sticker-collection-greavard",
+  "uuid": "e7f922d4-ccd2-504a-a7ac-19de9b77a217",
   "region": "international",
   "set": "sv04.5",
   "category": "collection_box",
   "name": "Paldean Fates Tech Sticker Collection [Greavard]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745547
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ff475089-b104-5b79-a472-d122dee2cfa7",
       "name": "Paldean Fates Tech Sticker Collection [Greavard]",
       "releaseDate": "2024-01-26",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7aff2598-ce07-5ad1-811f-a789dea72f17",
       "name": "Collection autocollant réajustable Écarlate et Violet Destinées de Paldea Toutombe",
       "releaseDate": "2024-01-26",
       "sources": [
