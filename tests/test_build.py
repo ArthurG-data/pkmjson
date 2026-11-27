@@ -9,7 +9,8 @@ import build
 import check_losses
 import import_pokepedia
 import refresh
-from conftest import write_families
+import uuids
+from conftest import card, write_spine
 from pkmjson import ROOT, Family
 
 META = {"version": "9.9.9", "date": "2026-11-27"}
@@ -22,7 +23,7 @@ def _family(fid, languages=("en",)):
                          for lang in languages]}
 
 
-def _sets(tmp_path, *set_ids):
+def _unused_sets(tmp_path, *set_ids):
     path = tmp_path / "sets.json"
     path.write_text(json.dumps({f"international/{s}": {"region": "international", "set": s, "languages": {}}
                                 for s in set_ids}), encoding="utf-8")
@@ -30,23 +31,40 @@ def _sets(tmp_path, *set_ids):
 
 
 def test_the_committed_data_builds_release_files_their_schemas_describe():
-    files = build.outputs(ROOT / "data", ROOT / "sets" / "sets.json", META)
-    assert set(files) == {"AllProducts.json", "AllSets.json", "AllProducts.schema.json", "AllSets.schema.json"}
-    entry = next(iter(files["AllProducts.json"]["data"].values()))
-    assert {"uuid", "familyUuid", "familyId", "language"} <= set(entry)
+    files = build.outputs(uuids.Spine.load(), META)
+    assert set(files) == {f"{n}{s}" for n in ("AllSets", "AllCards", "AllPrintings", "AllProducts")
+                          for s in (".json", ".schema.json")}
+    product = files["AllProducts.json"]["data"]["sv08-etb:fr"]
+    assert {"uuid", "familyUuid", "familyId", "language"} <= set(product)
+    promo = product["contents"]["cards"][0]
+    printing = files["AllPrintings.json"]["data"]["international/svp-159~fr"]
+    assert promo["printing"] == printing["uuid"] and printing["card"] == "international/svp-159"
+    card = files["AllCards.json"]["data"]["international/svp-159"]
+    assert printing["cardUuid"] == card["uuid"] and printing["oracleId"] == card["oracleId"]
+    assert "international/svp-159~fr" in card["printings"]
+
+
+def _spine(tmp_path, family_set="zz1"):
+    pack = {**_family(f"{family_set}-pack", ("en", "fr")), "set": family_set,
+            "contents": {"pool": [{"set": family_set}]}}
+    return write_spine(tmp_path, [card("zz1-1")], [pack])
 
 
 def test_a_build_is_the_same_every_time(tmp_path):
-    write_families(tmp_path / "data", _family("zz1-pack", ("en", "fr")))
-    sets = _sets(tmp_path, "zz1")
-    assert build.outputs(tmp_path / "data", sets, META) == build.outputs(tmp_path / "data", sets, META)
+    whole = _spine(tmp_path)
+    paths = dict(sets_path=tmp_path / "sets" / "sets.json", series_path=tmp_path / "sets" / "series.json")
+    one = build.outputs(whole, META, **paths)
+    assert one == build.outputs(whole, META, **paths)
+    printing = one["AllPrintings.json"]["data"]["international/zz1-1~en"]
+    assert printing["finishes"] == ["nonfoil"] and printing["setUuid"] == whole.sets["international/zz1"]["uuid"]
 
 
 def test_invalid_data_stops_the_build_before_any_file_is_written(tmp_path):
-    write_families(tmp_path / "data", _family("zz1-pack"))
+    _spine(tmp_path, family_set="zz9")   # the pack's set is not in sets.json
     out = tmp_path / "dist"
-    code = build.main(["--data", str(tmp_path / "data"), "--sets", str(_sets(tmp_path, "zz9")),
-                       "--out", str(out), "--date", "2026-11-27"])
+    code = build.main(["--data", str(tmp_path / "data" / "sealed"), "--sets", str(tmp_path / "sets" / "sets.json"),
+                       "--series", str(tmp_path / "sets" / "series.json"), "--cards", str(tmp_path / "data" / "cards"),
+                       "--registry", str(tmp_path / "data" / "uuids"), "--out", str(out), "--date", "2026-11-27"])
     assert code == 1 and not out.exists()
 
 
@@ -74,7 +92,7 @@ def test_the_tally_counts_releases_per_language_and_families_per_set():
 
 def test_the_pipeline_runs_each_importer_in_order_then_uuids_and_validate():
     steps = [[c[1].rsplit("/", 1)[-1], *c[2:]] for c in refresh.commands(refresh=True, online=True)]
-    assert steps == [["import_tcgplayer.py", "--refresh"], ["import_tcgplayer.py", "--category", "85", "--refresh"],
+    assert steps == [["import_tcgdex.py"], ["import_tcgplayer.py", "--refresh"], ["import_tcgplayer.py", "--category", "85", "--refresh"],
                      ["import_pokemon_card_jp.py", "--refresh"], ["import_pokepedia.py", "--refresh"],
                      ["import_sets.py", "--refresh"], ["import_pools.py", "--refresh"], ["uuids.py"],
                      ["validate.py", "--online"]]

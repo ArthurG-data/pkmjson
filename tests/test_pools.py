@@ -147,7 +147,7 @@ def test_the_published_pools_name_tcgdex_sets_and_known_subsets():
     assert mapping["extraSets"]["international/sm115"] == ["sma"]
     assert mapping["extraSets"]["international/swsh4.5"] == ["swsh4.5sv"]
     assert mapping["extraSets"]["international/cel25"] == ["cel25cc"]
-    families = {f.data["id"]: f.data for f in load(ROOT / "data")}
+    families = {f.data["id"]: f.data for f in load(ROOT / "data" / "sealed")}
     assert families["sm115-booster-pack"]["contents"]["pool"] == [{"set": "sm115"}, {"set": "sma"}]
     assert "pool" not in families["svp-2-booster-packs-celebi-collector-s-pin"]["contents"]
     classic = families["30th-classic-collection-pack"]

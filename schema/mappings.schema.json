@@ -103,6 +103,61 @@
           }
         }
       }
+    },
+    "tcgdex_renames": {
+      "description": "Ids TCGdex changed, old key -> new key, so the record keeps its UUID.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "series": {
+          "type": "object",
+          "propertyNames": {
+            "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
+          },
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
+          }
+        },
+        "sets": {
+          "type": "object",
+          "propertyNames": {
+            "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
+          },
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
+          }
+        }
+      }
+    },
+    "sources": {
+      "description": "The snapshot of each source the data is built from.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tcgdex"
+      ],
+      "properties": {
+        "tcgdex": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "repository",
+            "commit"
+          ],
+          "properties": {
+            "repository": {
+              "type": "string",
+              "format": "uri"
+            },
+            "commit": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{40}$"
+            }
+          }
+        }
+      }
     }
   }
 }

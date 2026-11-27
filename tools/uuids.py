@@ -1,31 +1,28 @@
-"""A UUID for every product family and every release of it. Each UUID is given once and kept for good, and is the
-same however often the tools run.
+"""A UUID for every series, set, card, printing, oracle, product family and product release. Each UUID is given
+once and kept for good, and is the same however often the tools run.
 
     uv run python tools/uuids.py
 
-A UUID belongs to what a record is, which is not always its id. A family's id is built from a TCGplayer product
-name, and TCGplayer may rename the product. A family can also move to another set, or be renamed to keep the two
-TCGdex trees apart (`sm10-booster-pack-576913` became `asia-sm10-booster-pack`). So each record has one identity
-key, and data/uuids.json maps every identity key ever seen to its UUID, per kind:
+A UUID belongs to what a record is, which is not always its id. data/uuids/<kind>.json maps every identity key
+ever seen to its UUID, per kind:
 
-- `products`, a family: `tcgplayer:<lowest TCGplayer product id of any release>`. A family TCGplayer does not sell
-  uses `id:<family id>`.
-- `productReleases`, a release: `<family UUID>:<language>`.
+| kind | record id | identity key | aliases (what keeps a UUID through a re-keying) |
+|---|---|---|---|
+| `series` | `<region>/<serie>` | its id | renames in mappings/tcgdex_renames.json |
+| `sets` | `<region>/<set>` | its id | its TCGplayer groups, renames |
+| `cards` | `<region>/<card id>` | its id | `set:<set UUID>/<number>`: a card keeps its UUID when its set is renamed |
+| `printings` | `<region>/<printing id>` | `<card UUID>:<language>:<version key>` | `variant:<card UUID>:<language>:<TCGdex variant id>`: a printing keeps its UUID when mappings/promo_types.csv changes its version key |
+| `oracles` | the fingerprint of its rules text | `fingerprint:<sha1>` | `card:<card UUID>` of each card it holds: an oracle keeps its UUID when TCGdex fixes a typo in its text |
+| `products` | `<family id>` | `tcgplayer:<lowest TCGplayer product id>`, else `id:<family id>` | its id, its TCGplayer and Cardmarket products |
+| `productReleases` | `<family id>:<language>` | `<family UUID>:<language>` | its id, its TCGplayer products |
 
 An identity key seen for the first time gets `uuid5(NAMESPACE, "<kind>:<record id>")`. If that UUID is taken it
 gets `"<kind>:<record id>#2"`, then `#3`, and so on. So a rebuild from nothing gives the same UUIDs.
 
-A record that replaces one that left takes that record's UUID instead. Its alias keys say what each key was last
-on, in `bridges`. A family's aliases are its id, its TCGplayer products and its Cardmarket product. A release's
-aliases are its id (`<family id>:<language>`) and its TCGplayer products. So a family that drops its TCGplayer
-listing keeps its UUID through its id, and a family renamed with its listing kept keeps it through the listing.
-
-A known identity key keeps its UUID. A record that leaves keeps its key in the registry, so it gets its UUID back
-if it returns. The registry therefore lists retired records too: their keys stay, and nothing else may take their
-UUIDs.
-
-`keys` only grows and never changes a value. That is the whole promise, and `history_errors` checks it between two
-versions of the registry (validate.py --since, run in CI).
+A record that replaces one that left takes that record's UUID instead. `bridges` records which UUID each alias was
+last on. A known identity key keeps its UUID. A record that leaves keeps its key, so it gets its UUID back if it
+returns, and nothing else may take that UUID. `keys` only grows and never changes a value. That is the whole
+promise, and `history_errors` checks it between two versions of the registry (validate.py --since, run in CI).
 """
 from __future__ import annotations
 
@@ -36,13 +33,37 @@ import subprocess
 import sys
 import uuid
 from collections.abc import Iterable
+from dataclasses import dataclass, field
 from pathlib import Path
 
-from pkmjson import ROOT, Family, load, read_json, write_family, write_json
+from pkmjson import (
+    CARDS,
+    MAPPINGS,
+    ROOT,
+    SEALED,
+    SERIES,
+    SETS,
+    UUIDS,
+    Family,
+    load,
+    printing_id,
+    read_json,
+    write_cards,
+    write_family,
+    write_json,
+)
 
 NAMESPACE = uuid.uuid5(uuid.NAMESPACE_URL, "https://github.com/ArthurG-data/pkmjson")
-REGISTRY = ROOT / "data" / "uuids.json"
-KINDS = ("products", "productReleases")
+KINDS = ("series", "sets", "cards", "printings", "oracles", "products", "productReleases")
+# The registry before it was split per kind.
+LEGACY_REGISTRY = ROOT / "data" / "uuids.json"
+RENAMES = MAPPINGS / "tcgdex_renames.json"
+# Kinds with hundreds of thousands of records keep no bridges in the registry: their aliases are read from the files
+# as they were before the run instead. A record re-keyed from one run to the next keeps its UUID; one that left for
+# a run and came back under another key does not.
+TRANSIENT = {"cards", "printings", "oracles"}
+# Kinds whose identity starts with another record's UUID, saved grouped by it to keep the file small.
+NESTED = {"printings"}
 
 
 class Conflict(Exception):
@@ -54,17 +75,40 @@ def empty() -> dict:
     return {k: {"keys": {}, "bridges": {}} for k in KINDS}
 
 
-def load_registry(path: Path = REGISTRY) -> dict:
-    registry = read_json(path) if path.exists() else empty()
+def _unpack(kind: str, part: dict) -> dict:
+    """A kind's registry as saved, with its keys flat again."""
+    if kind not in NESTED:
+        return {"keys": dict(part.get("keys", {})), "bridges": dict(part.get("bridges", {}))}
+    return {"keys": {f"{owner}:{rest}": u for owner, group in part.get("keys", {}).items() for rest, u in group.items()},
+            "bridges": dict(part.get("bridges", {}))}
+
+
+def _pack(kind: str, part: dict) -> dict:
+    keys = dict(sorted(part["keys"].items()))
+    if kind in NESTED:
+        grouped: dict[str, dict[str, str]] = {}
+        for key, u in keys.items():
+            owner, _, rest = key.partition(":")
+            grouped.setdefault(owner, {})[rest] = u
+        keys = grouped
+    return {"keys": keys, "bridges": {} if kind in TRANSIENT else dict(sorted(part["bridges"].items()))}
+
+
+def load_registry(path: Path = UUIDS) -> dict:
+    """The registry in data/uuids/, one file per kind. A registry still in one file (data/uuids.json) is read too."""
+    registry = empty()
+    if path == UUIDS and LEGACY_REGISTRY.exists() and not path.exists():
+        registry.update(read_json(LEGACY_REGISTRY))
     for kind in KINDS:
-        registry.setdefault(kind, {"keys": {}, "bridges": {}})
+        if (path / f"{kind}.json").exists():
+            registry[kind] = _unpack(kind, read_json(path / f"{kind}.json"))
     return registry
 
 
-def save_registry(registry: dict, path: Path = REGISTRY) -> None:
-    """Keys sorted, so a run that changes nothing leaves the file as it was."""
-    write_json(path, {k: {part: dict(sorted(registry[k][part].items())) for part in ("keys", "bridges")}
-                      for k in KINDS}, indent=1)
+def save_registry(registry: dict, path: Path = UUIDS) -> None:
+    """One file per kind, keys sorted, so a run that changes nothing leaves the files as they were."""
+    for kind in KINDS:
+        write_json(path / f"{kind}.json", _pack(kind, registry[kind]), indent=0)
 
 
 def first(kind: str, rid: str, used: set[str]) -> str:
@@ -78,6 +122,65 @@ def first(kind: str, rid: str, used: set[str]) -> str:
         n += 1
 
 
+@dataclass
+class Entry:
+    """One live record of a kind: its identity key, the aliases it answers to, and where its UUID goes."""
+    identity: str
+    aliases: list[str]
+    targets: list[tuple[dict, str, str]]   # (record, field the UUID goes in, field it goes after)
+
+
+def assign_kind(registry: dict, kind: str, entries: dict[str, Entry],
+                previous: dict[str, str] | None = None) -> dict[str, str]:
+    """{record id: UUID} for the live entries of `kind`, recording new identity keys and the bridges in
+    `registry`. `previous` holds the aliases of the records as they were before the run, for a TRANSIENT kind.
+    Nothing is written into the registry unless every record gets a UUID."""
+    keys, bridges = registry[kind]["keys"], {**(previous or {}), **registry[kind]["bridges"]}
+    out: dict[str, str] = {}
+    held: dict[str, str] = {}   # UUID -> the live record id holding it
+    order = sorted(entries, key=lambda r: (entries[r].identity, r))
+    for rid in order:
+        u = keys.get(entries[rid].identity)
+        if u is None:
+            continue
+        if u in held:
+            raise Conflict(f"{kind} {rid} ({entries[rid].identity}) and {held[u]} both hold {u}: one of them came "
+                           f"back after the other took its UUID, or they share an identity")
+        out[rid], held[u] = u, rid
+    used = set(keys.values()) | set(bridges.values())
+    for rid in (r for r in order if r not in out):
+        # A record that left, named by one of this record's aliases: the first alias that names a free UUID.
+        u = next((h for a in entries[rid].aliases if (h := keys.get(a) or bridges.get(a)) and h not in held),
+                 None) or first(kind, rid, used)
+        out[rid], held[u] = u, rid
+        used.add(u)
+    for rid, entry in entries.items():
+        keys.setdefault(entry.identity, out[rid])
+        if kind not in TRANSIENT:
+            for alias in entry.aliases:
+                if alias != entry.identity:
+                    registry[kind]["bridges"][alias] = out[rid]
+    for rid, entry in entries.items():
+        for record, name, after in entry.targets:
+            stamp_field(record, name, after, out[rid])
+    return out
+
+
+def stamp_field(record: dict, name: str, after: str | None, value: str) -> None:
+    """Put `name` right after the record's `after` field (first, with None), in place."""
+    rest = {k: v for k, v in record.items() if k != name}
+    record.clear()
+    if after is None:
+        record[name] = value
+    for k, v in rest.items():
+        record[k] = v
+        if k == after:
+            record[name] = value
+
+
+# --- products -----------------------------------------------------------------------------------------------------
+
+
 def _tcgplayer(release: dict) -> list[int]:
     return sorted((release.get("identifiers") or {}).get("tcgplayerProductIds", []))
 
@@ -86,113 +189,187 @@ def family_tcgplayer(family: dict) -> list[int]:
     return sorted({pid for r in family.get("releases", []) for pid in _tcgplayer(r)})
 
 
-def identity(kind: str, record: dict) -> str:
-    """The key a record's UUID belongs to: what the record is, which outlives its id."""
-    if kind == "products":
-        products = family_tcgplayer(record)
-        return f"tcgplayer:{products[0]}" if products else f"id:{record['id']}"
-    return f"{record['familyUuid']}:{record['language']}"
-
-
-def _aliases(kind: str, record: dict) -> list[str]:
-    """Every key the record answers to besides its identity."""
-    if kind == "products":
-        cardmarket = (record.get("identifiers") or {}).get("cardmarketProductId")
-        return [f"id:{record['id']}", *(f"tcgplayer:{p}" for p in family_tcgplayer(record)),
-                *([f"cardmarket:{cardmarket}"] if cardmarket else [])]
-    return [f"id:{record['familyId']}:{record['language']}", *(f"tcgplayer:{p}" for p in _tcgplayer(record))]
-
-
-def _assign(registry: dict, kind: str, records: dict[str, dict]) -> dict[str, str]:
-    """{record id: UUID} for the live `records` of `kind`. Records new identity keys and the bridges in
-    `registry`. Nothing is written into the registry unless every record gets a UUID."""
-    keys, bridges = registry[kind]["keys"], registry[kind]["bridges"]
-    ident = {rid: identity(kind, r) for rid, r in records.items()}
-    out: dict[str, str] = {}
-    held: dict[str, str] = {}   # UUID -> the live record id holding it
-    for rid in sorted(records, key=lambda r: (ident[r], r)):
-        u = keys.get(ident[rid])
-        if u is None:
-            continue
-        if u in held:
-            raise Conflict(f"{kind} {rid} ({ident[rid]}) and {held[u]} both hold {u}: one of them came back after "
-                           f"the other took its UUID, or they share an identity")
-        out[rid], held[u] = u, rid
-    used = set(keys.values()) | set(bridges.values())
-    for rid in sorted((r for r in records if r not in out), key=lambda r: (ident[r], r)):
-        # A record that left, named by one of this record's aliases: the first alias that names a free UUID.
-        u = next((h for a in _aliases(kind, records[rid]) if (h := keys.get(a) or bridges.get(a)) and h not in held),
-                 None) or first(kind, rid, used)
-        out[rid], held[u] = u, rid
-        used.add(u)
-    for rid, record in records.items():
-        keys.setdefault(ident[rid], out[rid])
-        for alias in _aliases(kind, record):
-            if alias != ident[rid]:
-                bridges[alias] = out[rid]
+def product_entries(families: list[dict]) -> dict[str, Entry]:
+    out = {}
+    for f in families:
+        products = family_tcgplayer(f)
+        cardmarket = (f.get("identifiers") or {}).get("cardmarketProductId")
+        out[f["id"]] = Entry(f"tcgplayer:{products[0]}" if products else f"id:{f['id']}",
+                             [f"id:{f['id']}", *(f"tcgplayer:{p}" for p in products),
+                              *([f"cardmarket:{cardmarket}"] if cardmarket else [])],
+                             [(f, "uuid", "id")])
     return out
 
 
-def _stamp(record: dict, after: str, u: str) -> None:
-    """Put `uuid` right after the record's `after` field, in place."""
-    rest = {k: v for k, v in record.items() if k != "uuid"}
-    record.clear()
-    for k, v in rest.items():
-        record[k] = v
-        if k == after:
-            record["uuid"] = u
-
-
-def _releases(families: Iterable[dict]) -> dict[str, dict]:
-    """Each release with the family facts its identity and aliases need, keyed `<family id>:<language>`."""
-    return {f"{f['id']}:{r['language']}": {**r, "familyId": f["id"], "familyUuid": f["uuid"]}
+def release_entries(families: list[dict]) -> dict[str, Entry]:
+    return {f"{f['id']}:{r['language']}": Entry(f"{f['uuid']}:{r['language']}",
+                                                 [f"id:{f['id']}:{r['language']}",
+                                                  *(f"tcgplayer:{p}" for p in _tcgplayer(r))],
+                                                 [(r, "uuid", "language")])
             for f in families for r in f["releases"]}
 
 
 def assign(families: Iterable[dict], registry: dict) -> None:
-    """Stamp a UUID on every family and release, in place, and record them in `registry`. The families go first:
-    a release's identity is its family's UUID."""
+    """Stamp a UUID on every family and release, in place, and record them in `registry`."""
     families = list(families)
-    by_id = {f["id"]: f for f in families}
-    for rid, u in _assign(registry, "products", by_id).items():
-        _stamp(by_id[rid], "id", u)
-    views = _releases(families)
-    out = _assign(registry, "productReleases", views)
-    for f in families:
-        for r in f["releases"]:
-            _stamp(r, "language", out[f"{f['id']}:{r['language']}"])
+    assign_kind(registry, "products", product_entries(families))
+    assign_kind(registry, "productReleases", release_entries(families))
 
 
-def stamp(families: Iterable[Family], path: Path = REGISTRY) -> None:
-    """Load the registry, stamp every family and release, and save it: what each tool runs before it writes."""
-    registry = load_registry(path)
-    assign((f.data for f in families), registry)
-    save_registry(registry, path)
+# --- the card spine -----------------------------------------------------------------------------------------------
 
 
-def _live(families: Iterable[dict]) -> dict[str, dict[str, dict]]:
-    families = [f for f in families if "uuid" in f]
-    return {"products": {f["id"]: f for f in families}, "productReleases": _releases(families)}
+def renames(path: Path | None = None) -> dict[str, dict[str, list[str]]]:
+    """{kind: {new key: [old keys]}} from mappings/tcgdex_renames.json ({kind: {old: new}}): what TCGdex renamed,
+    so the renamed series or set keeps its UUID, and its cards with it."""
+    path = path or RENAMES
+    out: dict[str, dict[str, list[str]]] = {"series": {}, "sets": {}}
+    for kind, pairs in (read_json(path) if path.exists() else {}).items():
+        for old, new in pairs.items():
+            out.setdefault(kind, {}).setdefault(new, []).append(old)
+    return out
 
 
-def errors(families: Iterable[dict], registry: dict) -> list[str]:
-    """The records whose UUID is missing or is not the one data/uuids.json gives their identity, and any UUID two
-    records share."""
-    families = list(families)
-    found = [f"product {f['id']} has no uuid: run tools/uuids.py" for f in families if "uuid" not in f]
-    every: collections.Counter = collections.Counter()
-    for kind, records in _live(families).items():
+def card_view(card: dict, region: str, serie: str | None) -> dict:
+    """What tcgdex.group_cards reads of a card: its fields, its tree, its serie and its languages."""
+    return {**card, "region": region, "serie": serie,
+            "languages": list(dict.fromkeys(lang for v in card["versions"] for lang in v["printings"]))}
+
+
+def oracle_keys(cards: dict[str, dict], sets: dict) -> dict[tuple[str, str], str]:
+    """{(region, card id): oracle fingerprint}, by tcgdex.group_cards."""
+    import tcgdex  # tcgdex builds on pkmjson, as this module does
+    views = [card_view(c, body["region"], (sets.get(f"{body['region']}/{body['set']}") or {}).get("serie"))
+             for body in cards.values() for c in body["cards"]]
+    return tcgdex.group_cards(views)[0]
+
+
+def spine_entries(series: dict, sets: dict, cards: dict[str, dict]):
+    """The entry builders of the spine's kinds, in the order their aliases need: each a function of the UUIDs the
+    kinds before it were given."""
+    moved = renames()
+
+    def series_entries(_):
+        return {k: Entry(k, moved.get("series", {}).get(k, []), [(s, "uuid", "serie")]) for k, s in series.items()}
+
+    def set_entries(_):
+        return {k: Entry(k, [*moved.get("sets", {}).get(k, []),
+                             *(f"tcgplayer:{g}" for g in (s.get("identifiers") or {}).get("tcgplayerGroupIds", []))],
+                         [(s, "uuid", "set")]) for k, s in sets.items()}
+
+    def card_entries(_):
+        out = {}
+        for body in cards.values():
+            set_uuid = sets[f"{body['region']}/{body['set']}"]["uuid"]
+            for c in body["cards"]:
+                out[f"{body['region']}/{c['id']}"] = Entry(f"{body['region']}/{c['id']}",
+                                                           [f"set:{set_uuid}/{c['localId']}"], [(c, "uuid", "id")])
+        return out
+
+    def printing_entries(_):
+        out = {}
+        for body in cards.values():
+            for c in body["cards"]:
+                for version in c["versions"]:
+                    for lang, own in version["printings"].items():
+                        variants = {**version.get("identifiers", {}), **own.get("identifiers", {})}.get(
+                            "tcgdexVariantIds") or {}
+                        out[f"{body['region']}/{printing_id(c['id'], lang, version)}"] = Entry(
+                            f"{c['uuid']}:{lang}:{version.get('key', '')}",
+                            [f"variant:{c['uuid']}:{lang}:{v}" for v in sorted(set(variants.values()))],
+                            [(own, "uuid", None)])
+        return out
+
+    def oracle_entries(_):
+        fingerprints = oracle_keys(cards, sets)
+        members: dict[str, list[dict]] = collections.defaultdict(list)
+        for body in cards.values():
+            for c in body["cards"]:
+                members[fingerprints[body["region"], c["id"]]].append(c)
+        return {fp: Entry(f"fingerprint:{fp}", sorted(f"card:{c['uuid']}" for c in group),
+                          [(c, "oracleId", "uuid") for c in group]) for fp, group in members.items()}
+
+    return [("series", series_entries), ("sets", set_entries), ("cards", card_entries),
+            ("printings", printing_entries), ("oracles", oracle_entries)]
+
+
+@dataclass
+class Spine:
+    """Everything that carries a UUID, as the files hold it."""
+    families: list[Family] = field(default_factory=list)
+    series: dict = field(default_factory=dict)
+    sets: dict = field(default_factory=dict)
+    cards: dict[str, dict] = field(default_factory=dict)   # "<region>/<set>" -> the file's body
+    registry_path: Path = UUIDS
+    sealed_path: Path = SEALED
+
+    @classmethod
+    def load(cls, sealed: Path = SEALED, series: Path = SERIES, sets: Path = SETS, cards: Path = CARDS,
+             registry: Path = UUIDS) -> Spine:
+        return cls(load(sealed), read_json(series) if series.exists() else {}, read_json(sets) if sets.exists() else {},
+                   load_cards(cards), registry, sealed)
+
+    def stamp(self, previous: Spine | None = None) -> None:
+        """Stamp every record, in place, and save the registry. `previous` is the spine as the files held it before
+        the run: its records' aliases bridge a re-keyed card, printing or oracle to its UUID."""
+        registry = load_registry(self.registry_path)
+        before = (previous or self).aliases()
+        for kind, entries in spine_entries(self.series, self.sets, self.cards):
+            assign_kind(registry, kind, entries(registry), before.get(kind))
+        assign((f.data for f in self.families), registry)
+        save_registry(registry, self.registry_path)
+
+    def aliases(self) -> dict[str, dict[str, str]]:
+        """{kind: {alias: the UUID its record holds}} of the TRANSIENT kinds, for records that already have one."""
+        try:
+            live = self.live()
+        except KeyError:   # records without UUIDs yet: nothing to bridge from
+            return {}
+        return {kind: {a: u for e in live[kind].values() if (u := _uuid_of(e.targets[0])) for a in e.aliases}
+                for kind in TRANSIENT}
+
+    def live(self) -> dict[str, dict[str, Entry]]:
+        """Each kind's live entries, from the UUIDs the records hold."""
+        out = {}
+        for kind, entries in spine_entries(self.series, self.sets, self.cards):
+            out[kind] = entries(None)
+        families = [f.data for f in self.families]
+        out["products"] = product_entries(families)
+        out["productReleases"] = release_entries([f for f in families if "uuid" in f])
+        return out
+
+
+def load_cards(path: Path = CARDS) -> dict[str, dict]:
+    """{"<region>/<set>": file body} of data/cards/."""
+    return {f"{p.parent.name}/{p.stem}": read_json(p) for p in sorted(path.glob("*/*.json"))}
+
+
+def _uuid_of(target: tuple[dict, str, str]) -> str | None:
+    record, name, _ = target
+    return record.get(name)
+
+
+def errors(spine: Spine, registry: dict) -> list[str]:
+    """Every record whose UUID is missing or is not the one data/uuids/ gives its identity, and any UUID two
+    records of a kind share."""
+    found: list[str] = []
+    try:
+        live = spine.live()
+    except KeyError as error:   # a record a later kind's identity needs has no UUID yet
+        return [f"a record has no {error.args[0]}: run tools/uuids.py"]
+    for kind, entries in live.items():
         keys = registry[kind]["keys"]
-        for rid, record in sorted(records.items()):
-            if "uuid" not in record:
+        held: collections.Counter = collections.Counter()
+        for rid, entry in sorted(entries.items()):
+            values = {_uuid_of(t) for t in entry.targets}
+            if None in values:
                 found.append(f"{kind} {rid} has no uuid: run tools/uuids.py")
                 continue
-            key = identity(kind, record)
-            if keys.get(key) != record["uuid"]:
-                found.append(f"{kind} {rid}: uuid {record['uuid']} is not {keys.get(key)}, the one "
-                             f"data/uuids.json gives {key}: run tools/uuids.py")
-            every[record["uuid"]] += 1
-    found += [f"uuid {u} is on {n} records" for u, n in sorted(every.items()) if n > 1]
+            if len(values) > 1 or keys.get(entry.identity) not in values:
+                found.append(f"{kind} {rid}: uuid {sorted(values)[0]} is not {keys.get(entry.identity)}, the one "
+                             f"data/uuids/ gives {entry.identity}: run tools/uuids.py")
+            held[next(iter(values))] += 1
+        found += [f"{kind}: uuid {u} is on {n} records" for u, n in sorted(held.items()) if n > 1]
     return found
 
 
@@ -204,39 +381,62 @@ def history_errors(before: dict, after: dict) -> list[str]:
         now = after.get(kind, {}).get("keys", {})
         for key, u in sorted(before.get(kind, {}).get("keys", {}).items()):
             if key not in now:
-                found.append(f"{kind} {key}: its uuid {u} was dropped from data/uuids.json")
+                found.append(f"{kind} {key}: its uuid {u} was dropped from data/uuids/")
             elif now[key] != u:
                 found.append(f"{kind} {key}: its uuid changed from {u} to {now[key]}")
     return found
 
 
-def registry_at(ref: str, path: Path = REGISTRY) -> dict:
-    """The registry as it was at git ref `ref`; an empty one if it did not exist yet."""
-    rel = path.resolve().relative_to(ROOT)
-    shown = subprocess.run(["git", "show", f"{ref}:{rel.as_posix()}"], cwd=ROOT, capture_output=True, text=True)
-    return json.loads(shown.stdout) if shown.returncode == 0 else empty()
+def _show(ref: str, rel: str) -> dict | None:
+    shown = subprocess.run(["git", "show", f"{ref}:{rel}"], cwd=ROOT, capture_output=True, text=True)
+    return json.loads(shown.stdout) if shown.returncode == 0 else None
+
+
+def registry_at(ref: str) -> dict:
+    """The registry as it was at git ref `ref`, in either layout; an empty one if it did not exist yet."""
+    registry = empty()
+    if (whole := _show(ref, LEGACY_REGISTRY.relative_to(ROOT).as_posix())) is not None:
+        registry.update(whole)
+    for kind in KINDS:
+        if (part := _show(ref, (UUIDS / f"{kind}.json").relative_to(ROOT).as_posix())) is not None:
+            registry[kind] = _unpack(kind, part)
+    return registry
+
+
+# --- for the import tools -----------------------------------------------------------------------------------------
+
+
+def stamp(families: Iterable[Family], path: Path = UUIDS) -> None:
+    """Stamp the product families and releases a tool is about to write, and save the registry."""
+    registry = load_registry(path)
+    assign((f.data for f in families), registry)
+    save_registry(registry, path)
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--data", default=ROOT / "data", type=Path)
-    parser.add_argument("--registry", default=REGISTRY, type=Path)
-    args = parser.parse_args(argv)
-    families = load(args.data)
-    before = {f.path: json.dumps(f.data) for f in families}
+    parser.parse_args(argv)
+    spine = Spine.load()
+    before = json.dumps([spine.series, spine.sets, spine.cards, [f.data for f in spine.families]])
     try:
-        stamp(families, args.registry)
+        spine.stamp()
     except Conflict as error:
         print(error, file=sys.stderr)
         return 1
-    changed = [f for f in families if json.dumps(f.data) != before[f.path]]
-    for family in changed:
-        write_family(family)
-    live = _live(f.data for f in families)
-    registry = load_registry(args.registry)
-    retired = {k: len(set(registry[k]["keys"].values()) - {r["uuid"] for r in live[k].values()}) for k in KINDS}
-    print("uuids: " + ", ".join(f"{len(live[k])} {k} ({retired[k]} retired)" for k in KINDS) +
-          f", {len(changed)} files stamped")
+    if json.dumps([spine.series, spine.sets, spine.cards, [f.data for f in spine.families]]) != before:
+        write_json(SERIES, spine.series, indent=1)
+        write_json(SETS, spine.sets, indent=1)
+        for key, body in spine.cards.items():
+            write_cards(CARDS / f"{key}.json", body)
+        for family in spine.families:
+            write_family(family)
+    if LEGACY_REGISTRY.exists():
+        LEGACY_REGISTRY.unlink()
+    registry = load_registry()
+    live = spine.live()
+    print("uuids: " + ", ".join(
+        f"{len(live[k])} {k} ({len(set(registry[k]['keys'].values()) - {_uuid_of(e.targets[0]) for e in live[k].values()})} retired)"
+        for k in KINDS))
     return 0
 
 

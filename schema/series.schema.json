@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/pkmjson/schema/series.schema.json",
+  "title": "pkmjson series",
+  "description": "sets/series.json: every TCGdex series, keyed <region>/<serie>.",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
+  },
+  "additionalProperties": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "region",
+      "serie",
+      "uuid",
+      "name"
+    ],
+    "properties": {
+      "region": {
+        "enum": [
+          "international",
+          "asia"
+        ]
+      },
+      "serie": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uuid": {
+        "type": "string",
+        "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+      },
+      "name": {
+        "description": "Text per language.",
+        "type": "object",
+        "propertyNames": {
+          "enum": [
+            "en",
+            "fr",
+            "es",
+            "es-mx",
+            "it",
+            "pt",
+            "pt-br",
+            "pt-pt",
+            "de",
+            "nl",
+            "pl",
+            "ru",
+            "ja",
+            "ko",
+            "zh-tw",
+            "zh-cn",
+            "id",
+            "th"
+          ]
+        },
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

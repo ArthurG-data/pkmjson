@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/ArthurG-data/pkmjson/schema/sets.schema.json",
   "title": "pkmjson sets",
-  "description": "sets/sets.json: every set a product family is filed under, keyed <region>/<set>, with its name as printed on its packs and a logo, per language. Each value cites its source.",
+  "description": "sets/sets.json: every TCGdex set and every set a product family is filed under, keyed <region>/<set>. tools/import_tcgdex.py writes serie, identifiers and tcgdex; tools/import_sets.py writes languages, each set's name as printed on its packs and a logo, per language, each citing its source; tools/uuids.py writes uuid.",
   "type": "object",
   "propertyNames": {
     "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
@@ -17,6 +17,7 @@
       "required": [
         "region",
         "set",
+        "uuid",
         "languages"
       ],
       "properties": {
@@ -29,6 +30,135 @@
         "set": {
           "type": "string",
           "pattern": "^[A-Za-z0-9]+(?:[.+-]?[A-Za-z0-9+]+)*$"
+        },
+        "uuid": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+          "description": "The set's pkmjson UUID. It never changes and is never given to another set."
+        },
+        "serie": {
+          "description": "The TCGdex series, a key of sets/series.json with the set's region.",
+          "type": "string",
+          "minLength": 1
+        },
+        "identifiers": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "tcgplayerGroupIds": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "cardmarketExpansionIds": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "integer",
+                "minimum": 1
+              }
+            }
+          }
+        },
+        "tcgdex": {
+          "description": "The set as TCGdex states it. Absent for a set TCGdex does not list.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "releaseDate",
+            "cardCount"
+          ],
+          "properties": {
+            "name": {
+              "description": "Text per language.",
+              "type": "object",
+              "propertyNames": {
+                "enum": [
+                  "en",
+                  "fr",
+                  "es",
+                  "es-mx",
+                  "it",
+                  "pt",
+                  "pt-br",
+                  "pt-pt",
+                  "de",
+                  "nl",
+                  "pl",
+                  "ru",
+                  "ja",
+                  "ko",
+                  "zh-tw",
+                  "zh-cn",
+                  "id",
+                  "th"
+                ]
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            },
+            "releaseDate": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date"
+                },
+                {
+                  "type": "object",
+                  "propertyNames": {
+                    "enum": [
+                      "en",
+                      "fr",
+                      "es",
+                      "es-mx",
+                      "it",
+                      "pt",
+                      "pt-br",
+                      "pt-pt",
+                      "de",
+                      "nl",
+                      "pl",
+                      "ru",
+                      "ja",
+                      "ko",
+                      "zh-tw",
+                      "zh-cn",
+                      "id",
+                      "th"
+                    ]
+                  },
+                  "additionalProperties": {
+                    "type": "string",
+                    "format": "date"
+                  }
+                }
+              ]
+            },
+            "cardCount": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": 0
+              }
+            },
+            "abbreviations": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string"
+              }
+            },
+            "tcgOnline": {
+              "description": "The set's code in Pokémon TCG Online.",
+              "type": "string"
+            }
+          }
         },
         "languages": {
           "description": "Empty for a set no source names.",

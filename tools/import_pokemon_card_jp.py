@@ -30,7 +30,7 @@ from pathlib import Path
 
 import uuids
 from net import Fetcher
-from pkmjson import REVIEW, ROOT, TCGDEX_API, Family, fold, load, validate, write_family, write_json
+from pkmjson import REVIEW, ROOT, SEALED, TCGDEX_API, Family, fold, load, validate, write_family, write_json
 
 SEARCH_API = ("https://www.pokemon-card.com/products/resultAPI.php?productType={kind}&dateLowerY=1996&dateLowerM=1"
               "&dateLowerD=1&dateUpperY=2030&dateUpperM=12&dateUpperD=31&page={page}")
@@ -200,7 +200,7 @@ def name_release(family: Family, product: dict) -> bool:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--data", default=ROOT / "data", type=Path)
+    parser.add_argument("--data", default=SEALED, type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
     parser.add_argument("--review", default=REVIEW, type=Path)
     parser.add_argument("--refresh", action="store_true", help="fetch every page again")

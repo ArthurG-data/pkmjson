@@ -1,0 +1,1690 @@
+[
+ {
+  "region": "asia",
+  "set": "AC1a",
+  "file": "AC1D",
+  "reason": "declares the id of AC1a"
+ },
+ {
+  "region": "asia",
+  "set": "AC1a",
+  "file": "AC1b",
+  "reason": "declares the id of AC1a"
+ },
+ {
+  "region": "asia",
+  "set": "AC3a",
+  "file": "AC3D",
+  "reason": "declares the id of AC3a"
+ },
+ {
+  "region": "asia",
+  "set": "AC3a",
+  "file": "AC3b",
+  "reason": "declares the id of AC3a"
+ },
+ {
+  "region": "asia",
+  "set": "AS5a",
+  "file": "AS5b",
+  "reason": "declares the id of AS5a"
+ },
+ {
+  "region": "asia",
+  "set": "AS6b",
+  "file": "AS6D",
+  "reason": "declares the id of AS6b"
+ },
+ {
+  "region": "asia",
+  "set": "BW3a",
+  "file": "BW3b",
+  "reason": "declares the id of BW3a"
+ },
+ {
+  "region": "asia",
+  "set": "BW8a",
+  "file": "BW8b",
+  "reason": "declares the id of BW8a"
+ },
+ {
+  "region": "asia",
+  "set": "CSV1C",
+  "file": "CBB1C",
+  "reason": "declares the id of CSV1C"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR1",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR2",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR3",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR4",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR5",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR6",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR7",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR8",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "international",
+  "card": "pl4-AR9",
+  "file": "Supreme Victors",
+  "reason": "filed under a set file that declares another file's set id"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-001",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-002",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-003",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-004",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-005",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-006",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-007",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-008",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-009",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-010",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-011",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-012",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-013",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-014",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-015",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-016",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-017",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-018",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-019",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-020",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-021",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-022",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-023",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-024",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-025",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-026",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-027",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-028",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-029",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-030",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-031",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-032",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-033",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-034",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-035",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-036",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-037",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-038",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-039",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-040",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-041",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-042",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-043",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-044",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-045",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-046",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-047",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-048",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-049",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-050",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-051",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-052",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-053",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-054",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-055",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-056",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-057",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-058",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-059",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-064",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-065",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-066",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-067",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-068",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-069",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-070",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-071",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-072",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-073",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-074",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-075",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-076",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-077",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-078",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-079",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-080",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-081",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-082",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-083",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-084",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-085",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-086",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-087",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-088",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-089",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-090",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-091",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-092",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-093",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-094",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-095",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-096",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-097",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-098",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-099",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-100",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-101",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-102",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-103",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-104",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-105",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-106",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-107",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-108",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-109",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-110",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-111",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-112",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-113",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-114",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-115",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-116",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-117",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-118",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-119",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-120",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-121",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-122",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-123",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-124",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-125",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-126",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-127",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-128",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-129",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-130",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-131",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-132",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-133",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-134",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-135",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-136",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-137",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-138",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-139",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-140",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-141",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-142",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-143",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-144",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-145",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-146",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-147",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-148",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-149",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-150",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-151",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-152",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-153",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-154",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-155",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-156",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-157",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-158",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-159",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-160",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-161",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-162",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-163",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-164",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-166",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-167",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-168",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-169",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-170",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-171",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-172",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-173",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-174",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-175",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-176",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-177",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-178",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-179",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-180",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-181",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-182",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-183",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-184",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-185",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-186",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-187",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-188",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-189",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-190",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-191",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-192",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-193",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-197",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-198",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-199",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-200",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-202",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-203",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-204",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-205",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-206",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-207",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-208",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-209",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-210",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-211",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-212",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-213",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-214",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-215",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-216",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-217",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-218",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-219",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-220",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-221",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-222",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-223",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-224",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-225",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-226",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-227",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-228",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-229",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-230",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-231",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-232",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-234",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-235",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-236",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-237",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-238",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-239",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-240",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-241",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-242",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-243",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-244",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-245",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-246",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-247",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-248",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-249",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-250",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-251",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-252",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-253",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-254",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-255",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-256",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-257",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-258",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-259",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-260",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-261",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-262",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-263",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-264",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-265",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-266",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-267",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-268",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-269",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-270",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-271",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-272",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-273",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-274",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-275",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-276",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-278",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-279",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-280",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-281",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-282",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-283",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-284",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-285",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-286",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-287",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-288",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-289",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-290",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-291",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-292",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-293",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-294",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-295",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-296",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-297",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-298",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-299",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-300",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-301",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-302",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-310",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-311",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-312",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-313",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-314",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-315",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-316",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-317",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-318",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-319",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-320",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-321",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-322",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-324",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-325",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-326",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-327",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-328",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-337",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-338",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-339",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "S-P-n",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "SPD-PSY",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "SPZ-LIG",
+  "reason": "named in no language its set is published in"
+ },
+ {
+  "region": "asia",
+  "card": "miscp-001",
+  "reason": "named in no language its set is published in"
+ }
+]
