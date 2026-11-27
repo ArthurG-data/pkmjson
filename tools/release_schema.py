@@ -118,7 +118,33 @@ def schemas() -> dict[str, dict]:
         },
     }
     keys = {"region": "^(international|asia)/"}
+    natural = {"type": "string", "pattern": "^(international|asia)/"}
+    pair = {"type": "array", "prefixItems": [natural, uuid], "items": False, "minItems": 2}
+    by_uuid = {"type": "object", "propertyNames": {"format": "uuid"}}
+    uuids_doc = {
+        "$schema": "https://json-schema.org/draft/2020-12/schema", "$id": f"{BASE}/AllUuids.schema.json",
+        "title": "pkmjson AllUuids: every UUID and the natural key of its record",
+        "type": "object", "additionalProperties": False, "required": ["meta", "data"],
+        "properties": {
+            "meta": _release("AllUuids", "", {}, {}, "")["properties"]["meta"],
+            "data": {"type": "object", "additionalProperties": False,
+                     "required": ["series", "sets", "cards", "printings", "oracles", "productReleases"],
+                     "properties": {
+                         "series": {**by_uuid, "additionalProperties": natural},
+                         "sets": {**by_uuid, "additionalProperties": natural},
+                         "cards": {**by_uuid, "additionalProperties": pair},
+                         "printings": {**by_uuid, "additionalProperties": {
+                             "type": "array", "prefixItems": [natural, {"type": "string"}, {"type": "string"}],
+                             "items": False, "minItems": 3}},
+                         "oracles": {**by_uuid, "additionalProperties": {"type": "array", "minItems": 1,
+                                                                          "items": natural}},
+                         "productReleases": {**by_uuid, "additionalProperties": {
+                             "type": "array", "prefixItems": [{"type": "string", "pattern": ":"}, uuid],
+                             "items": False, "minItems": 2}}}},
+        },
+    }
     return {
+        "AllUuids": uuids_doc,
         "AllCards": _release("AllCards", "pkmjson AllCards: every TCGdex card, with its oracle id", card, {},
                              keys["region"]),
         "AllPrintings": _release("AllPrintings", "pkmjson AllPrintings: every card in every language and version",

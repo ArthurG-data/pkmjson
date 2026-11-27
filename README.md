@@ -19,7 +19,7 @@ The data also holds 3189 product families in 4445 language releases. 2905 famili
 
 ## Using the data
 
-Each tagged release attaches four files to a GitHub release, each with its JSON schema beside it
+Each tagged release attaches five files to a GitHub release, each with its JSON schema beside it
 (`AllSets.schema.json`, ...):
 
 | File | Keyed by | Holds |
@@ -28,8 +28,9 @@ Each tagged release attaches four files to a GitHub release, each with its JSON 
 | `AllCards.json` | `<region>/<card id>` (`international/sv08-001`) | the card's UUID, its oracle id, its set and set UUID, its number, its gameplay facts and text in every language, and the keys of its printings |
 | `AllPrintings.json` | `<region>/<printing id>` (`international/sv08-001~fr`) | one card in one language and version: its UUID, its card's and oracle's UUIDs, its finishes, promo types, image, TCGdex variant ids and the TCGplayer and Cardmarket product of each finish |
 | `AllProducts.json` | `<family id>:<language>` (`sv08-etb:fr`) | one sealed product in one language: its UUID, its family's UUID, its contents (each card with its printing's UUID, each pool set with its UUID) and the sources that state them |
+| `AllUuids.json` | kind, then UUID | every UUID and the natural key of its record: a set's or series' `<region>/<code>`, a card's key and oracle id, a printing's card key, language and version key, an oracle's cards, a product release's key and family UUID. It is 19 MB, for a reader that only needs to match its own rows to pkmjson's UUIDs |
 
-Every file is `{"meta": {"version", "date", "sources"}, "data": {...}}`. All four come from one build, so a reader
+Every file is `{"meta": {"version", "date", "sources"}, "data": {...}}`. All five come from one build, so a reader
 that downloads them separately can check that the versions agree. `date` is the day the data last changed (the last
 commit to `sets/` or `data/`), so one commit always builds the same files. `sources.tcgdex` is the TCGdex commit the
 cards come from.

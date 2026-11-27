@@ -32,7 +32,7 @@ def _unused_sets(tmp_path, *set_ids):
 
 def test_the_committed_data_builds_release_files_their_schemas_describe():
     files = build.outputs(uuids.Spine.load(), META)
-    assert set(files) == {f"{n}{s}" for n in ("AllSets", "AllCards", "AllPrintings", "AllProducts")
+    assert set(files) == {f"{n}{s}" for n in ("AllSets", "AllCards", "AllPrintings", "AllProducts", "AllUuids")
                           for s in (".json", ".schema.json")}
     product = files["AllProducts.json"]["data"]["sv08-etb:fr"]
     assert {"uuid", "familyUuid", "familyId", "language"} <= set(product)
@@ -42,6 +42,11 @@ def test_the_committed_data_builds_release_files_their_schemas_describe():
     card = files["AllCards.json"]["data"]["international/svp-159"]
     assert printing["cardUuid"] == card["uuid"] and printing["oracleId"] == card["oracleId"]
     assert "international/svp-159~fr" in card["printings"]
+    ids = files["AllUuids.json"]["data"]
+    assert ids["printings"][printing["uuid"]] == ["international/svp-159", "fr", ""]
+    assert ids["cards"][card["uuid"]] == ["international/svp-159", card["oracleId"]]
+    assert "international/svp-159" in ids["oracles"][card["oracleId"]]
+    assert ids["productReleases"][product["uuid"]] == ["sv08-etb:fr", product["familyUuid"]]
 
 
 def _spine(tmp_path, family_set="zz1"):

@@ -163,3 +163,26 @@ def all_products(spine: uuids.Spine) -> dict[str, dict]:
         for p in entry["contents"].get("pool", []):
             p["setUuid"] = spine.sets[f"{p['region']}/{p['set']}"]["uuid"]
     return out
+
+
+def all_uuids(sets: dict, cards: dict, prints: dict, products: dict, series: dict) -> dict[str, dict]:
+    """AllUuids: every UUID with the natural key a reader matches its own rows on, per kind. Small enough to read
+    without the other files (MTGJSON's AllIdentifiers, the other way round).
+
+    - series and sets: `<region>/<code>`;
+    - cards: `[<region>/<card id>, <oracle id>]`;
+    - printings: `[<region>/<card id>, <language>, <version key>]`;
+    - oracles: the AllCards keys of their cards;
+    - productReleases: `[<family id>:<language>, <family uuid>]`.
+    """
+    oracles: dict[str, list[str]] = {}
+    for key, c in cards.items():
+        oracles.setdefault(c["oracleId"], []).append(key)
+    return {
+        "series": {s["uuid"]: key for key, s in sorted(series.items())},
+        "sets": {s["uuid"]: key for key, s in sorted(sets.items())},
+        "cards": {c["uuid"]: [key, c["oracleId"]] for key, c in sorted(cards.items())},
+        "printings": {p["uuid"]: [p["card"], p["language"], p["versionKey"]] for _, p in sorted(prints.items())},
+        "oracles": {u: sorted(keys) for u, keys in sorted(oracles.items())},
+        "productReleases": {e["uuid"]: [key, e["familyUuid"]] for key, e in sorted(products.items())},
+    }

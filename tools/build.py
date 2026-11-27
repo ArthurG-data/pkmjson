@@ -6,7 +6,7 @@ and logo per language), each with its schema beside it (dist/AllProducts.schema.
 It refuses to build invalid data, or a file its schema does not describe, and then writes nothing: dist/ holds
 the files of one build or of none.
 
-The release files are AllSets, AllCards, AllPrintings and AllProducts. meta.sources names the TCGdex commit the
+The release files are AllSets, AllCards, AllPrintings, AllProducts and AllUuids. meta.sources names the TCGdex commit the
 cards come from.
 
 meta.date is the date of the data, not of the build: by default the day of the
@@ -57,6 +57,7 @@ def outputs(whole: uuids.Spine, meta: dict, sets_path: Path = SETS, series_path:
     cards, prints = spine.all_cards_and_printings(whole)
     data = {"AllSets": spine.all_sets(whole), "AllCards": cards, "AllPrintings": prints,
             "AllProducts": spine.all_products(whole)}
+    data["AllUuids"] = spine.all_uuids(whole.sets, cards, prints, data["AllProducts"], whole.series)
     documents = {name: {"meta": meta, "data": records} for name, records in data.items()}
     schemas = release_schema.schemas()
     errors = [f"{name}.json: {e.json_path}: {e.message}" for name, doc in documents.items()
