@@ -2,13 +2,15 @@
 from __future__ import annotations
 
 import json
-import urllib.parse
-import urllib.request
+import re
+import unicodedata
 from collections.abc import Callable, Iterable
 from dataclasses import dataclass
 from pathlib import Path
 
 from jsonschema import Draft202012Validator, FormatChecker
+
+import net
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA = json.loads((ROOT / "schema" / "product.schema.json").read_text(encoding="utf-8"))
@@ -20,6 +22,11 @@ PACK_CATEGORIES = ("booster_pack", "sleeved_booster_pack")
 
 
 SETS = ROOT / "sets" / "sets.json"
+REVIEW = ROOT / "review"
+MAPPINGS = ROOT / "mappings"
+# An asia family whose set id, lowercased, is also an international set id starts with this, so the two trees'
+# families never share an id: Japan's SM10 and the international sm10 are different sets.
+ASIA_PREFIX = "asia-"
 
 
 @dataclass(frozen=True)
@@ -28,19 +35,82 @@ class Family:
     data: dict
 
 
+def fold(text: str) -> str:
+    """Lowercase, accents and punctuation folded, for comparing names."""
+    text = "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
+
+
+def slug(text: str) -> str:
+    return fold(text).replace(" ", "-")
+
+
+def set_prefix(region: str, set_id: str, international: Iterable[str] = ()) -> str:
+    """The start of every id of a set's families: the set id lowercased, a "+" spelled out ("SM1+" -> "sm1plus").
+    An asia set whose prefix is an international set's (`international` holds those set ids) gets "asia-" in
+    front."""
+    prefix = set_id.lower().replace("+", "plus")
+    return ASIA_PREFIX + prefix if region == "asia" and prefix in {s.lower() for s in international} else prefix
+
+
+def family_prefix(family: dict) -> str:
+    """The set prefix a family's id starts with: its set's, with "asia-" when the id has it."""
+    plain = set_prefix(family["region"], family["set"])
+    if family["region"] == "asia" and family["id"].startswith(ASIA_PREFIX + plain + "-"):
+        return ASIA_PREFIX + plain
+    return plain
+
+
+def is_plain_pack(family: dict) -> bool:
+    """A set's own booster pack is named <prefix>-booster-pack or <prefix>-booster. A "3 Card Booster Pack" of the
+    same set is another product."""
+    return family["category"] == "booster_pack" and \
+        re.fullmatch(rf"{re.escape(family_prefix(family))}-booster(?:-pack)?", family["id"]) is not None
+
+
+def plain_pack(families: Iterable[Family]) -> Family | None:
+    """The set's own booster pack among one set's families: the plain one, else the only pack."""
+    packs = [f for f in families if f.data["category"] == "booster_pack"]
+    plain = [f for f in packs if is_plain_pack(f.data)]
+    chosen = plain if len(plain) == 1 else packs
+    return chosen[0] if len(chosen) == 1 else None
+
+
+def dumps(data: object, indent: int = 2) -> str:
+    return json.dumps(data, ensure_ascii=False, indent=indent) + "\n"
+
+
+def write_json(path: Path, data: object, indent: int = 2) -> None:
+    """Write a data, review or release file atomically, in the layout every file of the repository uses."""
+    net.write_atomic(path, dumps(data, indent))
+
+
+def read_json(path: Path) -> object:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def official_set_names(path: Path = SETS) -> dict[tuple[str, str, str], str]:
     """(region, set, language) -> the set's name as printed on its packs, from sets/sets.json. Names that only
-    TCGdex gives are left out: they are not always the printed name."""
+    TCGdex gives are left out: they are not always the printed name. So is a language that has a logo but no
+    name."""
     if not path.exists():
         return {}
-    sets = json.loads(path.read_text(encoding="utf-8"))
+    sets = read_json(path)
     return {(s["region"], s["set"], lang): v["name"] for s in sets.values() for lang, v in s["languages"].items()
-            if "tcgdex.net" not in v.get("source", "")}
+            if v.get("name") and "tcgdex.net" not in v.get("source", "")}
+
+
+# The UUID registry (tools/uuids.py) sits beside the families, and is not one.
+REGISTRY_NAME = "uuids.json"
 
 
 def load(data_dir: Path) -> list[Family]:
     """Every product family under data_dir, sorted by path."""
-    return [Family(p, json.loads(p.read_text(encoding="utf-8"))) for p in sorted(data_dir.rglob("*.json"))]
+    return [Family(p, read_json(p)) for p in sorted(data_dir.rglob("*.json")) if p != data_dir / REGISTRY_NAME]
+
+
+def write_family(family: Family) -> None:
+    write_json(family.path, family.data)
 
 
 def _contents_of(family: dict, release: dict) -> dict:
@@ -72,46 +142,111 @@ def _pool_errors(family: dict, where: Path) -> list[str]:
     return errors
 
 
-def validate(families: Iterable[Family], data_dir: Path) -> list[str]:
-    """Every problem found offline, as 'path: message'. Empty when the data is valid."""
-    families = list(families)
-    errors: list[str] = []
+def _where(f: Family, data_dir: Path) -> Path:
+    return f.path.relative_to(data_dir)
+
+
+def _schema_errors(families: list[Family], data_dir: Path) -> list[str]:
     schema = Draft202012Validator(SCHEMA, format_checker=FormatChecker())
-    by_id: dict[str, Family] = {}
-    for f in families:
-        where = f.path.relative_to(data_dir)
-        for e in schema.iter_errors(f.data):
-            errors.append(f"{where}: {'/'.join(map(str, e.path)) or '(root)'}: {e.message}")
-        if not isinstance(f.data.get("id"), str):
-            continue
-        fid = f.data["id"]
-        if fid in by_id:
-            errors.append(f"{where}: id {fid} is also used by {by_id[fid].path.relative_to(data_dir)}")
-        by_id[fid] = f
-        expected = Path(str(f.data.get("region")), str(f.data.get("set")), f"{fid}.json")
+    return [f"{_where(f, data_dir)}: {'/'.join(map(str, e.path)) or '(root)'}: {e.message}"
+            for f in families for e in schema.iter_errors(f.data)]
+
+
+def _family_errors(by_id: dict[str, Family], dups: list[str], data_dir: Path, sets: dict | None) -> list[str]:
+    """Each id once, each file where its region, set and id say, each id starting with its set's prefix, and each
+    set listed in sets/sets.json."""
+    errors = list(dups)
+    international = {s for (region, s) in ((f.data["region"], f.data["set"]) for f in by_id.values())
+                     if region == "international"}
+    if sets is not None:
+        international |= {s["set"] for s in sets.values() if s["region"] == "international"}
+    for fid, f in by_id.items():
+        where, d = _where(f, data_dir), f.data
+        expected = Path(d["region"], d["set"], f"{fid}.json")
         if where != expected:
             errors.append(f"{where}: should live at {expected}")
+        prefix = set_prefix(d["region"], d["set"], international)
+        if not fid.startswith(prefix + "-"):
+            errors.append(f"{where}: id {fid} should start with {prefix}-, its set's prefix")
+        if sets is not None and f"{d['region']}/{d['set']}" not in sets:
+            errors.append(f"{where}: set {d['region']}/{d['set']} is not in sets/sets.json: run tools/import_sets.py")
+    return errors
+
+
+def _release_errors(f: Family, where: Path) -> list[str]:
+    errors = []
+    seen = [r["language"] for r in f.data["releases"]]
+    if len(seen) != len(set(seen)):
+        errors.append(f"{where}: a language is released twice")
+    for release in f.data["releases"]:
+        if (release["language"] in ASIA_LANGUAGES) != (f.data["region"] == "asia"):
+            errors.append(f"{where}: language {release['language']} does not belong to region {f.data['region']}")
+    return errors
+
+
+def _content_errors(f: Family, where: Path, by_id: dict[str, Family], languages: dict[str, set[str]]) -> list[str]:
+    """Nested products exist and are released in the language of the release that holds them, and each product
+    is listed once per contents."""
+    errors = []
+    for release in f.data["releases"]:
+        lang = release["language"]
+        sealed = _contents_of(f.data, release).get("sealed", [])
+        named = [i["product"] for i in sealed]
+        for dup in sorted({n for n in named if named.count(n) > 1}):
+            errors.append(f"{where}: {lang} lists {dup} twice: give it one count")
+        for child in named:
+            if child not in by_id:
+                errors.append(f"{where}: {lang} contains unknown product {child}")
+            elif lang not in languages[child]:
+                errors.append(f"{where}: {lang} contains {child}, which has no {lang} release")
+    return errors
+
+
+def _owner_errors(by_id: dict[str, Family], data_dir: Path) -> list[str]:
+    """A TCGplayer or Cardmarket product sells one family: two families holding one id are one product filed
+    twice, or a wrong id."""
+    owners: dict[tuple[str, int], list[str]] = {}
+    for fid, f in by_id.items():
+        if (cardmarket := (f.data.get("identifiers") or {}).get("cardmarketProductId")) is not None:
+            owners.setdefault(("Cardmarket", cardmarket), []).append(fid)
+        for pid in {p for r in f.data["releases"] for p in (r.get("identifiers") or {}).get("tcgplayerProductIds", [])}:
+            owners.setdefault(("TCGplayer", pid), []).append(fid)
+    return [f"{_where(by_id[fids[0]], data_dir)}: {site} product {pid} is also on {', '.join(sorted(fids[1:]))}"
+            for (site, pid), fids in sorted(owners.items()) if len(fids) > 1]
+
+
+def validate(families: Iterable[Family], data_dir: Path, sets: dict | None = None,
+             registry: dict | None = None) -> list[str]:
+    """Every problem found offline, as 'path: message'. Empty when the data is valid. `sets` is sets/sets.json
+    and `registry` data/uuids.json; each is read from data_dir's repository when not given, and its checks are
+    skipped when it does not exist."""
+    families = list(families)
+    errors = _schema_errors(families, data_dir)
     if errors:
         return errors
-
+    if sets is None and (path := data_dir.parent / "sets" / "sets.json").exists():
+        sets = read_json(path)
+    by_id: dict[str, Family] = {}
+    dups = []
+    for f in families:
+        if f.data["id"] in by_id:
+            dups.append(f"{_where(f, data_dir)}: id {f.data['id']} is also used by "
+                        f"{_where(by_id[f.data['id']], data_dir)}")
+        by_id[f.data["id"]] = f
+    errors += _family_errors(by_id, dups, data_dir, sets)
     languages = {fid: {r["language"] for r in f.data["releases"]} for fid, f in by_id.items()}
-    for fid, f in by_id.items():
-        where = f.path.relative_to(data_dir)
-        seen = [r["language"] for r in f.data["releases"]]
-        if len(seen) != len(set(seen)):
-            errors.append(f"{where}: a language is released twice")
+    for f in by_id.values():
+        where = _where(f, data_dir)
+        errors += _release_errors(f, where)
+        errors += _content_errors(f, where, by_id, languages)
         errors += _pool_errors(f.data, where)
-        for release in f.data["releases"]:
-            lang = release["language"]
-            if (lang in ASIA_LANGUAGES) != (f.data["region"] == "asia"):
-                errors.append(f"{where}: language {lang} does not belong to region {f.data['region']}")
-            for item in _contents_of(f.data, release).get("sealed", []):
-                child = item["product"]
-                if child not in by_id:
-                    errors.append(f"{where}: {lang} contains unknown product {child}")
-                elif lang not in languages[child]:
-                    errors.append(f"{where}: {lang} contains {child}, which has no {lang} release")
+    errors += _owner_errors(by_id, data_dir)
     errors += _cycles(by_id, data_dir)
+    if registry is None and (path := data_dir / REGISTRY_NAME).exists():
+        registry = read_json(path)
+    if registry is not None:
+        import uuids  # uuids builds on this module
+        errors += uuids.errors((f.data for f in families), registry)
     return errors
 
 
@@ -143,14 +278,7 @@ def _cycles(by_id: dict[str, Family], data_dir: Path) -> list[str]:
 
 def fetch_tcgdex_card(language: str, card_id: str) -> dict | None:
     """A TCGdex card, or None when TCGdex has no such card."""
-    url = f"{TCGDEX_API}/{language}/cards/{urllib.parse.quote(card_id)}"
-    try:
-        with urllib.request.urlopen(url, timeout=30) as response:
-            return json.load(response)
-    except urllib.error.HTTPError as error:
-        if error.code == 404:
-            return None
-        raise
+    return net.get_json_or_none(f"{TCGDEX_API}/{language}/cards/{net.quote(card_id)}")
 
 
 def validate_cards(families: Iterable[Family], data_dir: Path,
@@ -196,7 +324,8 @@ def flatten(families: Iterable[Family]) -> dict[str, dict]:
             lang = r["language"]
             contents = _contents_of(d, r)
             entry = {
-                "uuid": f"{d['id']}:{lang}",
+                "uuid": r["uuid"],
+                "familyUuid": d["uuid"],
                 "familyId": d["id"],
                 "language": lang,
                 "region": d["region"],
@@ -218,5 +347,28 @@ def flatten(families: Iterable[Family]) -> dict[str, dict]:
                 entry["contents"]["pool"] = pool
             if "notes" in d:
                 entry["notes"] = d["notes"]
-            out[entry["uuid"]] = entry
+            out[f"{d['id']}:{lang}"] = entry
     return dict(sorted(out.items()))
+
+
+def _schema(name: str) -> dict:
+    return read_json(ROOT / "schema" / name)
+
+
+def file_errors(sets_path: Path = SETS, mappings: Path = MAPPINGS, registry: Path | None = None) -> list[str]:
+    """sets/sets.json, the mappings and the UUID registry against their schemas."""
+    errors = []
+    checks = [(sets_path, _schema("sets.schema.json"))]
+    defs = _schema("mappings.schema.json")
+    for name in ("tcgplayer_groups", "cardmarket_sealed", "pack_pools"):
+        checks.append((mappings / f"{name}.json", {**defs, "$ref": f"#/$defs/{name}"}))
+    if registry is not None:
+        checks.append((registry, _schema("uuids.schema.json")))
+    for path, schema in checks:
+        if not path.exists():
+            continue
+        validator = Draft202012Validator(schema, format_checker=FormatChecker())
+        errors += [f"{path.relative_to(ROOT) if path.is_relative_to(ROOT) else path}: "
+                   f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message}"
+                   for e in validator.iter_errors(read_json(path))]
+    return errors

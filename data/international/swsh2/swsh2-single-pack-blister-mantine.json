@@ -1,9 +1,11 @@
 {
   "id": "swsh2-single-pack-blister-mantine",
+  "uuid": "2cade9c0-067e-5aaa-90c3-f84eaa78f115",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Rebel Clash Single Pack Blister [Mantine]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585884
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0a849bf-0466-5d64-8e1d-d0ef4f4a68f6",
       "name": "Rebel Clash Single Pack Blister [Mantine]",
       "releaseDate": "2020-05-01",
       "identifiers": {

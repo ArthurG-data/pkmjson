@@ -1,9 +1,11 @@
 {
   "id": "xyp-2016-world-championship-deck-cody-walinski-ninja-blitz",
+  "uuid": "bb6d4a72-54b4-53cd-b68a-fdf6fac07f5b",
   "region": "international",
   "set": "xyp",
   "category": "battle_deck",
   "name": "2016 World Championship Deck: Cody Walinski (Ninja Blitz)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4484b07f-52e1-5d04-b48f-6370f01c870f",
       "name": "2016 World Championship Deck: Cody Walinski (Ninja Blitz)",
       "identifiers": {
         "tcgplayerProductIds": [

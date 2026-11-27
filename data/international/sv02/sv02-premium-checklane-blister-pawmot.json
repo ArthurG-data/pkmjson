@@ -1,9 +1,11 @@
 {
   "id": "sv02-premium-checklane-blister-pawmot",
+  "uuid": "f7f434fb-416f-5c94-bc34-3448dc1dcd7b",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved Premium Checklane Blister [Pawmot]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703171
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5c6f2c0c-98e1-5137-8902-bff019871d6f",
       "name": "Paldea Evolved Premium Checklane Blister [Pawmot]",
       "identifiers": {
         "tcgplayerProductIds": [

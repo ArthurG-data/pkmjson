@@ -1,9 +1,11 @@
 {
   "id": "sm10-3-pack-hanger-box",
+  "uuid": "d4a5afcb-c6d2-5eb2-895c-1956b06467d2",
   "region": "international",
   "set": "sm10",
   "category": "collection_box",
   "name": "Unbroken Bonds 3 Pack Hanger Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8322cffa-64e7-53e2-98fe-f5f5215b302b",
       "name": "Unbroken Bonds 3 Pack Hanger Box",
       "identifiers": {
         "tcgplayerProductIds": [

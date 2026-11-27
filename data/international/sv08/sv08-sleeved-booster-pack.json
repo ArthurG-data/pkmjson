@@ -1,9 +1,11 @@
 {
   "id": "sv08-sleeved-booster-pack",
+  "uuid": "33bd030e-7a5c-59e9-98a5-5c02e9325af7",
   "region": "international",
   "set": "sv08",
   "category": "sleeved_booster_pack",
   "name": "Surging Sparks Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784946
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b95206c0-d8bc-5e68-af09-c11b5126bbfe",
       "name": "Surging Sparks Sleeved Booster Pack",
       "releaseDate": "2024-11-08",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-booster-pack",
+  "uuid": "75d294e9-7f16-5255-a056-8c5ff6055b4b",
   "region": "international",
   "set": "sv08.5",
   "category": "booster_pack",
   "name": "Prismatic Evolutions Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798923
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7494f45c-ecf3-5428-a666-e3c1ab77e094",
       "name": "Scarlet & Violet—Prismatic Evolutions",
       "releaseDate": "2025-01-17",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1582cc73-3cd7-51d4-a625-19a4790aa920",
       "name": "Écarlate et Violet – Évolutions Prismatiques",
       "sources": [
         "https://www.pokepedia.fr/Collection_classeur_%C3%89carlate_et_Violet_%C3%89volutions_Prismatiques",
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "fd1eb210-c37a-5fd0-800e-3f0e24c7b708",
       "name": "Scarlatto e Violetto - Evoluzioni Prismatiche",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-raccoglitore-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "4469381c-3bd6-5e55-9298-3ff9f5547c74",
       "name": "Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ordner-kollektion-karmesin-purpur-prismatische-entwicklungen",
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "03f8c5d8-0278-521f-8f7c-cf50429e7728",
       "name": "Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/album-para-colecciones-de-escarlata-y-purpura-evoluciones-prismaticas",

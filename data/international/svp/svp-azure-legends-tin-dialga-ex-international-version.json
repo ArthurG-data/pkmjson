@@ -1,9 +1,11 @@
 {
   "id": "svp-azure-legends-tin-dialga-ex-international-version",
+  "uuid": "c5f6ba3e-fc80-5aa3-9750-628b7bc7d20a",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Azure Legends Tin [Dialga ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "708ef336-72d5-5324-879e-53befa21dc16",
       "name": "Azure Legends Tin [Dialga ex] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

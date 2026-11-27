@@ -1,9 +1,11 @@
 {
   "id": "pl2-booster-box",
+  "uuid": "afc00b40-47b2-5811-b7b6-c733a8a9cfd8",
   "region": "international",
   "set": "pl2",
   "category": "booster_box",
   "name": "Rising Rivals Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271938
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "082d57fc-faf4-5910-b4b1-ab56bfa318cd",
       "name": "Rising Rivals Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

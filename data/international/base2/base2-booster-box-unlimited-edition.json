@@ -1,15 +1,18 @@
 {
   "id": "base2-booster-box-unlimited-edition",
+  "uuid": "a8f5a5c3-41b8-55e4-849a-a6b1059bbce3",
   "region": "international",
   "set": "base2",
   "category": "booster_box",
   "name": "Jungle Booster Box [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "78fdf21d-bf74-5edc-8f03-0bdf6879287c",
       "name": "Jungle Booster Box [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

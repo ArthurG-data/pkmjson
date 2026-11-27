@@ -1,9 +1,11 @@
 {
-  "id": "sm8-booster-pack-576909",
+  "id": "asia-sm8-booster-pack",
+  "uuid": "e020df95-9766-5201-af83-550c243229c8",
   "region": "asia",
   "set": "SM8",
   "category": "booster_pack",
   "name": "Super-Burst Impact Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550486
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "b5a98bc8-7443-5ee9-817b-c46e1e534644",
       "name": "拡張パック「超爆インパクト」",
       "releaseDate": "2018-09-07",
       "identifiers": {

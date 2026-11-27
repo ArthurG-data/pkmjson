@@ -1,15 +1,18 @@
 {
   "id": "me03-booster-bundle-case",
+  "uuid": "e7bcd955-106f-5d6d-a5f9-fce1d8805e2c",
   "region": "international",
   "set": "me03",
   "category": "case",
   "name": "Perfect Order Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f7a30133-bc72-594d-98e7-b3c3b4961b73",
       "name": "Perfect Order Booster Bundle Case",
       "releaseDate": "2026-03-27",
       "identifiers": {

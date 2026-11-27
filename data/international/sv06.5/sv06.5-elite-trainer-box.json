@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-elite-trainer-box",
+  "uuid": "f04ed523-ec2a-5865-a553-b9bbfffd23c5",
   "region": "international",
   "set": "sv06.5",
   "category": "elite_trainer_box",
   "name": "Shrouded Fable Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770958
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c2800825-f560-5833-91df-ac63000ca42e",
       "name": "Shrouded Fable Elite Trainer Box",
       "releaseDate": "2024-08-23",
       "identifiers": {
@@ -67,6 +70,7 @@
     },
     {
       "language": "fr",
+      "uuid": "afb0d975-fad3-5f94-85b2-023de733eb8d",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Fable Nébuleuse",
       "releaseDate": "2024-08-31",
       "sources": [

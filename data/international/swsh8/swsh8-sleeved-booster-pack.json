@@ -1,9 +1,11 @@
 {
   "id": "swsh8-sleeved-booster-pack",
+  "uuid": "6ca01df0-3fca-59ab-9922-11e57973fb6a",
   "region": "international",
   "set": "swsh8",
   "category": "sleeved_booster_pack",
   "name": "Fusion Strike Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674709
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "518a91f9-384b-5605-84cd-5d081134d1cd",
       "name": "Fusion Strike Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh5-sleeved-booster-pack",
+  "uuid": "adc3c55d-d2a3-5d71-ae95-79fbce1841a2",
   "region": "international",
   "set": "swsh5",
   "category": "sleeved_booster_pack",
   "name": "Battle Styles Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674706
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f82111c-e38c-5834-8b77-8b4409ce182b",
       "name": "Battle Styles Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

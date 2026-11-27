@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-pikachu-vmax-premium-collection",
+  "uuid": "f3a8c5e2-2a67-5076-8c52-a054fa52fce7",
   "region": "international",
   "set": "swsh12.5",
   "category": "premium_collection",
   "name": "Pikachu VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 757831
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6934a4e1-b206-5d3d-a5dd-b17a1213abc6",
       "name": "Pikachu VMAX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1bd10c17-b92b-5bf6-ade5-5a9f928ae1dd",
       "name": "Collection Premium Zénith Suprême Pikachu-VMAX",
       "releaseDate": "2023-09-01",
       "sources": [

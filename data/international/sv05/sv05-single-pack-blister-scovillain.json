@@ -1,9 +1,11 @@
 {
   "id": "sv05-single-pack-blister-scovillain",
+  "uuid": "dc85f841-95e8-5acb-8273-9d62a41908f9",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces Single Pack Blister [Scovillain]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f873f809-969d-5cdd-876c-32e1c671642a",
       "name": "Temporal Forces Single Pack Blister [Scovillain]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me02-3-pack-blister-weavile",
+  "uuid": "855596d4-35bb-5407-bdb5-40853919127b",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames 3 Pack Blister [Weavile]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846740
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa39e6d0-5213-572f-a174-d614117a1e5e",
       "name": "Phantasmal Flames 3 Pack Blister [Weavile]",
       "releaseDate": "2025-11-14",
       "identifiers": {

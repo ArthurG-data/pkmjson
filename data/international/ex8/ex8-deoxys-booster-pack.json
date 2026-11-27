@@ -1,9 +1,11 @@
 {
   "id": "ex8-deoxys-booster-pack",
+  "uuid": "61a8cf5c-ad25-56ca-adcf-50476233db17",
   "region": "international",
   "set": "ex8",
   "category": "booster_pack",
   "name": "Deoxys Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271841
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b7f9a1ad-cb64-5f8a-afc3-68ecb5f3b436",
       "name": "EX Deoxys",
       "identifiers": {
         "tcgplayerProductIds": [

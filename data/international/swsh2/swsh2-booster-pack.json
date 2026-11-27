@@ -1,9 +1,11 @@
 {
   "id": "swsh2-booster-pack",
+  "uuid": "b809f37a-0af2-585f-b860-ba943753b7e2",
   "region": "international",
   "set": "swsh2",
   "category": "booster_pack",
   "name": "Rebel Clash Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 453278
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "95c14f88-d837-54ae-977e-534107ed3f19",
       "name": "Sword & Shield—Rebel Clash",
       "releaseDate": "2020-05-01",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1a4c4e66-d8c8-513d-b89b-a010879ae886",
       "name": "Épée et Bouclier – Clash des Rebelles",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Morpeko",
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "a49bd348-6476-506d-a67b-5616749e48ee",
       "name": "Schwert & Schild – Clash der Rebellen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-schwert-schild-clash-der-rebellen",
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "67649464-1afa-57eb-9b9c-7dd41b6cccac",
       "name": "Spada e Scudo - Fragore Ribelle",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-spada-e-scudo-fragore-ribelle",

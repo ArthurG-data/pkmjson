@@ -1,15 +1,18 @@
 {
   "id": "mep-2-pack-blister-raikou-1-tab",
+  "uuid": "7022d3f0-966a-51a7-87bb-582b9411e58a",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "2-Pack Blister [Raikou] (1-tab)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c1bbbf4f-4cb8-5945-83fa-d0500ce5fda6",
       "name": "2-Pack Blister [Raikou] (1-tab)",
       "identifiers": {
         "tcgplayerProductIds": [

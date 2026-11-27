@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-stacking-tin-metal",
+  "uuid": "b1526cf3-1ff0-5392-b863-45589a76cee1",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Metal",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4b0e1e2b-772c-5dd3-a09e-384c7e3c7d5d",
       "name": "Pokemon Stacking Tin: Metal",
       "identifiers": {
         "tcgplayerProductIds": [

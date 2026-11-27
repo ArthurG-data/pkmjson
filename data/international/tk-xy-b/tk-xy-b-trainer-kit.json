@@ -1,15 +1,18 @@
 {
   "id": "tk-xy-b-trainer-kit",
+  "uuid": "6b9d4aef-061b-5817-8ea6-9b8be447a262",
   "region": "international",
   "set": "tk-xy-b",
   "category": "other",
   "name": "XY Trainer Kit: Bisharp & Wigglytuff",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "875c7ae7-a2cd-59ac-b4a4-2d2193e878e4",
       "name": "XY Trainer Kit: Bisharp & Wigglytuff",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "730ec95b-2207-5914-b044-a04b9f0be567",
       "name": "XY Kit du Dresseur: Scalproie et Grodoudou",
       "sources": [
         "https://www.pokepedia.fr/XY_Kit_du_Dresseur%3A_Scalproie_et_Grodoudou"

@@ -1,9 +1,11 @@
 {
   "id": "swsh3-3-pack-blister-eevee",
+  "uuid": "38888e83-b3b6-55dc-bf65-8cace15e34bd",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze 3 Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585878
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3d0f6cc4-ea75-59d7-a4e0-208c0d747043",
       "name": "Darkness Ablaze 3 Pack Blister [Eevee]",
       "releaseDate": "2020-08-14",
       "identifiers": {

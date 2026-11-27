@@ -1,15 +1,18 @@
 {
   "id": "svp-ex-battle-deck-set-of-2",
+  "uuid": "457cfcca-2cc9-5249-8fd2-c83a47cf0ca9",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "ex Battle Deck [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4911e734-40d7-5912-9b04-9c6b7626421b",
       "name": "ex Battle Deck [Set of 2]",
       "releaseDate": "2023-05-05",
       "identifiers": {

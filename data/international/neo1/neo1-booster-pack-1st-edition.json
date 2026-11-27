@@ -1,9 +1,11 @@
 {
   "id": "neo1-booster-pack-1st-edition",
+  "uuid": "a7828e22-975a-5ccc-8f4c-a71d8d0c343e",
   "region": "international",
   "set": "neo1",
   "category": "booster_pack",
   "name": "Neo Genesis Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aef2a012-3e30-55b8-b08f-094bad232313",
       "name": "Neo Genesis Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

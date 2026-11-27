@@ -1,9 +1,11 @@
 {
   "id": "sv03-single-blister-pack-kingambit",
+  "uuid": "af25413f-dab3-59ff-8b45-1fe3dd8469c8",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames Single Blister Pack [Kingambit]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "111f07c6-87da-57fd-bfde-6a6b5a236e3d",
       "name": "Obsidian Flames Single Blister Pack [Kingambit]",
       "identifiers": {
         "tcgplayerProductIds": [

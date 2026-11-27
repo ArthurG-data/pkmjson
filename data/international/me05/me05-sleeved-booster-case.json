@@ -1,9 +1,11 @@
 {
   "id": "me05-sleeved-booster-case",
+  "uuid": "ed4fa8ee-545f-5555-8990-01c57798a4ad",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885527
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "288484cf-8c63-5b5c-8693-2df923031c17",
       "name": "Pitch Black Sleeved Booster Case",
       "releaseDate": "2026-07-17",
       "identifiers": {

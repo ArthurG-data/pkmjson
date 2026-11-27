@@ -1,9 +1,11 @@
 {
   "id": "sv03-single-blister-pack-houndstone",
+  "uuid": "d76552a0-26d9-5219-9c9e-8abb40ff61e6",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames Single Blister Pack [Houndstone]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f79e8f0d-cec7-5064-8123-c3b905e9b3ae",
       "name": "Obsidian Flames Single Blister Pack [Houndstone]",
       "identifiers": {
         "tcgplayerProductIds": [

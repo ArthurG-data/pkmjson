@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-booster-pack",
+  "uuid": "a3395fd7-8d6e-5c7e-9f3a-e980f5c893a7",
   "region": "international",
   "set": "swsh4.5",
   "category": "booster_pack",
   "name": "Shining Fates Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 526125
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "29888635-7df8-5b84-b990-a6931ecac49c",
       "name": "Shining Fates",
       "releaseDate": "2021-02-19",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e77e3594-59ae-5bec-94cc-133f1daab703",
       "name": "Destinées Radieuses",
       "sources": [
         "https://www.pokepedia.fr/Collection_Destin%C3%A9es_Radieuses_Pikachu-V",
@@ -44,6 +48,7 @@
     },
     {
       "language": "it",
+      "uuid": "4c988167-3b7c-5e6f-8256-258ee7536fae",
       "name": "Destino Splendente",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-pikachu-v-dellespansione-destino-splendente",
@@ -52,6 +57,7 @@
     },
     {
       "language": "de",
+      "uuid": "6d772091-c88f-537d-b040-26db428c1d3f",
       "name": "Glänzendes Schicksal",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-pikachu-v-der-erweiterung-glaenzendes-schicksal",
@@ -60,6 +66,7 @@
     },
     {
       "language": "es",
+      "uuid": "50f5de88-1ec6-59df-be66-dd1277c69ef6",
       "name": "Destinos Brillantes",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-pikachu-v-de-destinos-brillantes",

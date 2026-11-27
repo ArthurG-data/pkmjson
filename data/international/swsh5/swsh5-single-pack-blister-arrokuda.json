@@ -1,9 +1,11 @@
 {
   "id": "swsh5-single-pack-blister-arrokuda",
+  "uuid": "a896c24f-b58e-53da-94c1-36820adf755f",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles Single Pack Blister [Arrokuda]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585730
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "af1e511a-a2cf-5f86-9613-79c83ffece0a",
       "name": "Battle Styles Single Pack Blister [Arrokuda]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "cel25-prime-collection",
+  "uuid": "a7748000-7486-5515-9488-c14f838fb4ad",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Prime Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 576729
   },
@@ -56,6 +58,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "43e1adab-3f07-509c-8e27-ce0d433896d7",
       "name": "Celebrations Prime Collection",
       "identifiers": {
         "tcgplayerProductIds": [

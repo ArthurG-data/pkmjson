@@ -1,9 +1,11 @@
 {
   "id": "sm2-mega-powers-collection",
+  "uuid": "4040826a-3973-55cc-8633-03733c767696",
   "region": "international",
   "set": "sm2",
   "category": "collection_box",
   "name": "Mega Powers Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "96cef622-505d-5946-b15a-6e2d9007931a",
       "name": "Mega Powers Collection",
       "identifiers": {
         "tcgplayerProductIds": [

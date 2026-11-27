@@ -1,9 +1,11 @@
 {
   "id": "det1-tin-charizard",
+  "uuid": "47ef22b7-8296-5969-928f-1baa7d5ebd54",
   "region": "international",
   "set": "det1",
   "category": "tin",
   "name": "Detective Pikachu Tin [Charizard]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f755313-e561-5a5d-9eb0-9850d9058995",
       "name": "Detective Pikachu Tin [Charizard]",
       "identifiers": {
         "tcgplayerProductIds": [

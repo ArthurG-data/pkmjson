@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-s-mewtwo-ex-box",
+  "uuid": "8b56382c-c226-5d28-ba48-3d7ed6671165",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Team Rocket's Mewtwo ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d6378d27-e648-572a-a9aa-b0305d4827f1",
       "name": "Team Rocket's Mewtwo ex Box",
       "releaseDate": "2025-06-13",
       "identifiers": {
@@ -38,6 +41,7 @@
     },
     {
       "language": "es",
+      "uuid": "6a3bd3ba-c8f2-50eb-94ca-4477e2691d5e",
       "name": "Colección Mewtwo ex del Team Rocket",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-mewtwo-ex-del-team-rocket"
@@ -45,6 +49,7 @@
     },
     {
       "language": "de",
+      "uuid": "f4bdf113-2b3b-54bd-a181-00c605b8d5a4",
       "name": "Kollektion Team Rockets Mewtu‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-team-rockets-mewtu-ex"
@@ -52,6 +57,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4fa72e41-9c04-51ea-87d0-794031cdd84e",
       "name": "Coffret Mewtwo‑ex de la Team Rocket",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-mewtwo-ex-de-la-team-rocket"
@@ -59,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "4b62d0d6-9c4d-58ad-aaf4-8fad74428666",
       "name": "Collezione Mewtwo‑ex del Team Rocket",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-mewtwo-ex-del-team-rocket"

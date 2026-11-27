@@ -1,9 +1,11 @@
 {
   "id": "swsh3-theme-deck-galarian-darmanitan",
+  "uuid": "090df081-77bd-585c-beea-e1ae8aaa4c31",
   "region": "international",
   "set": "swsh3",
   "category": "theme_deck",
   "name": "Darkness Ablaze Theme Deck [Galarian Darmanitan]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 462219
   },
@@ -28,6 +30,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "94a7ad2a-f811-5c3b-8aa9-f36defa66fe4",
       "name": "Darkness Ablaze Theme Deck [Galarian Darmanitan]",
       "releaseDate": "2020-08-14",
       "identifiers": {

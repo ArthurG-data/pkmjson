@@ -1,15 +1,18 @@
 {
   "id": "xy12-booster-pack-art-bundle-set-of-4",
+  "uuid": "e8ec43dd-96bc-540b-b39f-09c246583ed2",
   "region": "international",
   "set": "xy12",
   "category": "other",
   "name": "Evolutions Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3599674e-a619-563f-8949-c9f9e8bbb635",
       "name": "Evolutions Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

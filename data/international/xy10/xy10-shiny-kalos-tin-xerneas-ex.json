@@ -1,15 +1,18 @@
 {
   "id": "xy10-shiny-kalos-tin-xerneas-ex",
+  "uuid": "5c2b100f-f9f2-562f-b796-ed1a4d471085",
   "region": "international",
   "set": "xy10",
   "category": "tin",
   "name": "Shiny Kalos Tin [Xerneas EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8078b2fc-9f5b-5b51-ac9b-c8b38fc96e69",
       "name": "Shiny Kalos Tin [Xerneas EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "36f8916f-3549-5ccd-b4e9-47ce75fb104b",
       "name": "Boîte Kalos chromatique Xerneas",
       "releaseDate": "2016-06-12",
       "contents": {

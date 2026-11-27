@@ -1,9 +1,11 @@
 {
   "id": "hgss2-booster-box",
+  "uuid": "0e4d81f2-57ca-5e55-84e7-0e0622fda9e8",
   "region": "international",
   "set": "hgss2",
   "category": "booster_box",
   "name": "Unleashed Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271929
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "270917fe-d4f6-5dc2-b51e-9b7d671806b6",
       "name": "Unleashed Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "hgss1-booster-pack",
+  "uuid": "40a34393-9693-5734-b9b7-8dbe07d4cdb8",
   "region": "international",
   "set": "hgss1",
   "category": "booster_pack",
   "name": "HeartGold SoulSilver Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c9a555e-a33b-58e2-94e1-e8ec10334180",
       "name": "HeartGold & SoulSilver",
       "identifiers": {
         "tcgplayerProductIds": [

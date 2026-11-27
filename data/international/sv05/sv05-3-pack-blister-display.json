@@ -1,15 +1,18 @@
 {
   "id": "sv05-3-pack-blister-display",
+  "uuid": "dafa564b-5510-5aa3-922b-9e64c983e7f8",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces 3 Pack Blister Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7b38d0d8-2c0a-5134-bbf0-0f22d1c5f3fe",
       "name": "Temporal Forces 3 Pack Blister Display",
       "identifiers": {
         "tcgplayerProductIds": [

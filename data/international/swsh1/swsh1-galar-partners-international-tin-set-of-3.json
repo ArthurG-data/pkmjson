@@ -1,15 +1,18 @@
 {
   "id": "swsh1-galar-partners-international-tin-set-of-3",
+  "uuid": "b66f9593-07a9-5e39-9dfa-29c5e38c32a2",
   "region": "international",
   "set": "swsh1",
   "category": "other",
   "name": "Galar Partners International Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "562482a1-a021-5b61-9761-f264089346d8",
       "name": "Galar Partners International Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

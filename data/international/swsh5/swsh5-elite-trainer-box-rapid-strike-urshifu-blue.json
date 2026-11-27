@@ -1,9 +1,11 @@
 {
   "id": "swsh5-elite-trainer-box-rapid-strike-urshifu-blue",
+  "uuid": "7e1cb09d-2571-5dc9-91db-e73412c3211a",
   "region": "international",
   "set": "swsh5",
   "category": "elite_trainer_box",
   "name": "Battle Styles Elite Trainer Box [Rapid Strike Urshifu] (Blue)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -55,6 +57,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e06e87d0-6531-5fba-95ef-4130e7f6614e",
       "name": "Battle Styles Elite Trainer Box [Rapid Strike Urshifu] (Blue)",
       "releaseDate": "2021-03-19",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh7-single-pack-blister-eevee",
+  "uuid": "87768061-2827-5654-be6d-e111013f4cb8",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies Single Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585712
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "48bbd12e-00de-581c-85fa-fb761dbab0f7",
       "name": "Evolving Skies Single Pack Blister [Eevee]",
       "releaseDate": "2021-08-27",
       "identifiers": {

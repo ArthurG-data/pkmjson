@@ -1,9 +1,11 @@
 {
   "id": "svp-enhanced-2-pack-blister-pack-armarouge-revavroom-houndstone",
+  "uuid": "fab72315-efa1-5f60-92b3-6b10f2da9567",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Enhanced 2-Pack Blister Pack [Armarouge, Revavroom & Houndstone]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f04e175e-9667-5dfa-8b2b-a337546d0bc5",
       "name": "Enhanced 2-Pack Blister Pack [Armarouge, Revavroom & Houndstone]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,33 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/616953/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-armarouge-revavroom-and-houndstone"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "76417ff2-af16-5036-b0fa-13d14e43d3a0",
+      "name": "Duopack Carmadura, Vrombotor et Tomberro",
+      "releaseDate": "2023-10-27",
+      "contents": {
+        "other": [
+          {
+            "name": "Coin",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv02-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "swsh7-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Carmadura%2C_Vrombotor_et_Tomberro"
       ]
     }
   ]

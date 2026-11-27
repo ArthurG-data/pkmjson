@@ -1,15 +1,18 @@
 {
   "id": "xy12-gengar-ex-box",
+  "uuid": "a0929b3a-4950-5247-997f-7f626aac4bf3",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Gengar EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a5dfc47-a94e-5b39-a213-03e115908043",
       "name": "Gengar EX Box",
       "identifiers": {
         "tcgplayerProductIds": [

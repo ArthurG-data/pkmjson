@@ -1,9 +1,11 @@
 {
   "id": "neo4-booster-pack-1st-edition",
+  "uuid": "8d487078-c32c-53c2-82b7-69db695745ee",
   "region": "international",
   "set": "neo4",
   "category": "booster_pack",
   "name": "Neo Destiny Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d3a54b29-e93a-525c-97fc-b6e68a2fcd94",
       "name": "Neo Destiny Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

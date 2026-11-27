@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-galar-pals-mini-tins-5-pack",
+  "uuid": "7daf4274-d18c-5d2a-8f6b-2ec22195f854",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Costco Galar Pals Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon Mini Tins; 2 Booster Packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1a345160-ea7b-51af-85cb-596ed139a5b1",
       "name": "Costco Galar Pals Mini Tins 5-Pack",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/551456/pokemon-miscellaneous-cards-and-products-costco-galar-pals-mini-tins-5-pack"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "ddef3934-e8b5-5d07-83bd-21a4a8167b40",
+      "name": "Mini-boîte Les Amis de Galar",
+      "releaseDate": "2020-05-15",
+      "sources": [
+        "https://www.pokepedia.fr/Mini-bo%C3%AEte_Les_Amis_de_Galar"
       ]
     }
   ]

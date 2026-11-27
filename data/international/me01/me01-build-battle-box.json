@@ -1,9 +1,11 @@
 {
   "id": "me01-build-battle-box",
+  "uuid": "ef38c41b-719b-54a7-8ae2-89f9fd5fa464",
   "region": "international",
   "set": "me01",
   "category": "build_and_battle_box",
   "name": "Mega Evolution Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834822
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c15c260c-8cbc-546d-9669-751c3a8f0c91",
       "name": "Mega Evolution Build & Battle Box",
       "releaseDate": "2025-10-10",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4cbdeb64-3c9c-5ea1-b422-d008b324c084",
       "name": "Boîtier Stratégies et Combats Méga-Évolution",
       "releaseDate": "2025-09-27",
       "sources": [

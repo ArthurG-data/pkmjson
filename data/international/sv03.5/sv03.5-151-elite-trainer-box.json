@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-elite-trainer-box",
+  "uuid": "b49dd187-37cd-56be-b510-4330a09784ee",
   "region": "international",
   "set": "sv03.5",
   "category": "elite_trainer_box",
   "name": "151 Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719691
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8bc0d4a8-b5ea-57e1-96d6-ef79e309c0d0",
       "name": "151 Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -66,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a367921e-c191-539d-a487-17f11a45894b",
       "name": "Coffret Dresseur d'élite Écarlate et Violet 151",
       "releaseDate": "2023-09-22",
       "sources": [
@@ -74,6 +78,7 @@
     },
     {
       "language": "it",
+      "uuid": "a0f1f8aa-41bf-591b-9ffa-8c8fc0cac0cb",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - 151",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-151"
@@ -81,6 +86,7 @@
     },
     {
       "language": "de",
+      "uuid": "e9b79fe0-7f4a-5806-b075-a016b473c132",
       "name": "Top-Trainer-Box Karmesin & Purpur – 151",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-151"
@@ -88,6 +94,7 @@
     },
     {
       "language": "es",
+      "uuid": "60c9520f-f6b7-5559-8c7c-2bd7058bf74b",
       "name": "Caja de Entrenador Élite de Escarlata y Púrpura-151",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-151"

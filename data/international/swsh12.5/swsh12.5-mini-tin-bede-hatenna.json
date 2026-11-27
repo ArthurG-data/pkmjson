@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-mini-tin-bede-hatenna",
+  "uuid": "774c9712-f232-5bd8-99b6-cf6dc452e225",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Mini Tin [Bede & Hatenna]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683016
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "12b9e3c3-4c5d-56c9-a532-5918fa45c394",
       "name": "Crown Zenith Mini Tin [Bede & Hatenna]",
       "releaseDate": "2023-02-17",
       "identifiers": {

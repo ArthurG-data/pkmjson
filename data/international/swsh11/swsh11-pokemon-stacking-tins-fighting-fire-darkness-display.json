@@ -1,15 +1,18 @@
 {
   "id": "swsh11-pokemon-stacking-tins-fighting-fire-darkness-display",
+  "uuid": "f71b269b-ffbb-5e6a-980d-82c5835059d9",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e178642b-9586-557b-84ee-414fa1f652f2",
       "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness Display",
       "releaseDate": "2022-10-28",
       "identifiers": {

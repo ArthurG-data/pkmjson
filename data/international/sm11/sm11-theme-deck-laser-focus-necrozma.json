@@ -1,9 +1,11 @@
 {
   "id": "sm11-theme-deck-laser-focus-necrozma",
+  "uuid": "1668e5fd-3bfd-5ba2-aa97-d5ffb0c73dc2",
   "region": "international",
   "set": "sm11",
   "category": "theme_deck",
   "name": "Unified Minds Theme Deck - \"Laser Focus\" [Necrozma]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 377481
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "028a3f6b-56bb-5cf5-8cd1-b1e0e863705a",
       "name": "Unified Minds Theme Deck - \"Laser Focus\" [Necrozma]",
       "releaseDate": "2019-08-02",
       "identifiers": {

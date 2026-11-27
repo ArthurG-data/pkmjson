@@ -1,9 +1,11 @@
 {
   "id": "svp-grafaiai-ex-box",
+  "uuid": "b4e6d5c6-77b6-501b-8788-5a88ec1af41f",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Grafaiai ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f93484f-a659-5f54-b8a3-324b9c07e36d",
       "name": "Grafaiai ex Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -51,6 +54,7 @@
     },
     {
       "language": "es",
+      "uuid": "51c19745-a3b5-573c-906b-d8fbe89e1878",
       "name": "Colección Grafaiai ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-grafaiai-ex"
@@ -58,6 +62,7 @@
     },
     {
       "language": "fr",
+      "uuid": "973e7eab-a54c-5c8a-a4ca-15e802897965",
       "name": "Coffret Tag‑Tag‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-tag-tag-ex"

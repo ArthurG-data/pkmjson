@@ -1,15 +1,18 @@
 {
   "id": "swsh10-build-battle-box-display",
+  "uuid": "02063cdd-d24f-5efe-90f7-1ae7f423461c",
   "region": "international",
   "set": "swsh10",
   "category": "case",
   "name": "Astral Radiance Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "796fd11d-9145-547b-816a-0f3965796a07",
       "name": "Astral Radiance Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

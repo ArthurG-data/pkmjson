@@ -1,9 +1,11 @@
 {
   "id": "me03-3-pack-blister-chikorita",
+  "uuid": "20e9565a-a8e9-5459-addd-119f1a802326",
   "region": "international",
   "set": "me03",
   "category": "blister",
   "name": "Perfect Order 3 Pack Blister [Chikorita]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865398
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f4145f0d-4f4f-5065-bca5-f52220badae0",
       "name": "Perfect Order 3 Pack Blister [Chikorita]",
       "releaseDate": "2026-03-27",
       "identifiers": {

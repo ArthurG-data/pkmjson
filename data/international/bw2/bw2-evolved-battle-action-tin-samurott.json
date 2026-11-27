@@ -1,15 +1,18 @@
 {
   "id": "bw2-evolved-battle-action-tin-samurott",
+  "uuid": "f0254953-bb6e-5432-ad9e-09a35986c12c",
   "region": "international",
   "set": "bw2",
   "category": "tin",
   "name": "Evolved Battle Action Tin [Samurott]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d38508f6-03b1-5524-9d48-4ff8b082a194",
       "name": "Evolved Battle Action Tin [Samurott]",
       "identifiers": {
         "tcgplayerProductIds": [

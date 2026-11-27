@@ -1,9 +1,11 @@
 {
   "id": "sv01-build-battle-stadium",
+  "uuid": "37c36cd0-d3bb-559d-8807-71d231be458f",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "166d6795-b724-50c5-9250-517e2d6eb515",
       "name": "Scarlet & Violet Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [

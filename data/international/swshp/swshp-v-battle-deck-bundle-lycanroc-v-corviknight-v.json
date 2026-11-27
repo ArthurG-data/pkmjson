@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-bundle-lycanroc-v-corviknight-v",
+  "uuid": "6bb48fe7-443f-512e-96a1-96d3f944bb33",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck Bundle [Lycanroc V / Corviknight V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1015a5b0-9998-599b-98d7-db74c64759a9",
       "name": "V Battle Deck Bundle [Lycanroc V / Corviknight V]",
       "releaseDate": "2022-03-01",
       "identifiers": {

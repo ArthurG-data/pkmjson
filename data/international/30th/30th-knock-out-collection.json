@@ -1,9 +1,11 @@
 {
   "id": "30th-knock-out-collection",
+  "uuid": "12ad5d29-3025-54e5-afd7-5ee0764c5217",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Knock Out Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895559
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd41c8ec-984a-5d65-a4c1-406e021d2db8",
       "name": "30th Celebration Knock Out Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e72f57ca-794d-5cce-8285-fc15e7ddc2c1",
       "name": "Collection K.O. 30e Anniversaire",
       "releaseDate": "2026-09-24",
       "sources": [

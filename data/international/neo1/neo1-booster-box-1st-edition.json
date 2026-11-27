@@ -1,15 +1,18 @@
 {
   "id": "neo1-booster-box-1st-edition",
+  "uuid": "134134ea-d953-56a5-8f12-acdd847476f2",
   "region": "international",
   "set": "neo1",
   "category": "booster_box",
   "name": "Neo Genesis Booster Box [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 36 1st Edition Booster Packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e588c4f4-18f9-56f6-bd69-38f1c8101e9d",
       "name": "Neo Genesis Booster Box [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

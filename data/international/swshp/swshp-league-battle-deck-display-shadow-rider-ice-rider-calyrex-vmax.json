@@ -1,15 +1,18 @@
 {
   "id": "swshp-league-battle-deck-display-shadow-rider-ice-rider-calyrex-vmax",
+  "uuid": "bdeba149-1593-5e7b-be2f-b6d7b5056c40",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "League Battle Deck Display [Shadow Rider/Ice Rider Calyrex VMAX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "252cc187-225f-5f45-99d6-aa0165acfce0",
       "name": "League Battle Deck Display [Shadow Rider/Ice Rider Calyrex VMAX]",
       "releaseDate": "2022-07-22",
       "identifiers": {

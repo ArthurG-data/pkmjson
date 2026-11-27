@@ -1,9 +1,11 @@
 {
   "id": "xy0-deluxe-kalos-starter-deck-froakie",
+  "uuid": "48a2b167-61b6-50f6-ab0b-350386b3100d",
   "region": "international",
   "set": "xy0",
   "category": "battle_deck",
   "name": "Deluxe Kalos Starter Deck [Froakie]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "761fc569-cd31-5589-8cae-3305545fbb87",
       "name": "Deluxe Kalos Starter Deck [Froakie]",
       "identifiers": {
         "tcgplayerProductIds": [

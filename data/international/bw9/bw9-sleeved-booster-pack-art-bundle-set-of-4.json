@@ -1,15 +1,18 @@
 {
   "id": "bw9-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "9f645b1d-2130-5168-8b35-54a4206588b5",
   "region": "international",
   "set": "bw9",
   "category": "other",
   "name": "Plasma Freeze Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "78dbb9a1-e13e-5d05-8f9b-2d3248ccc0e4",
       "name": "Plasma Freeze Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

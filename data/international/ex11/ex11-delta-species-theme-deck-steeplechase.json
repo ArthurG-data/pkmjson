@@ -1,9 +1,11 @@
 {
   "id": "ex11-delta-species-theme-deck-steeplechase",
+  "uuid": "fb969afa-ac12-5bc6-9000-6191c2daf27a",
   "region": "international",
   "set": "ex11",
   "category": "theme_deck",
   "name": "Delta Species Theme Deck - \"Steeplechase\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286531
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d326599-1023-56a8-8a78-88fa1fd6b5a9",
       "name": "Delta Species Theme Deck - \"Steeplechase\"",
       "identifiers": {
         "tcgplayerProductIds": [

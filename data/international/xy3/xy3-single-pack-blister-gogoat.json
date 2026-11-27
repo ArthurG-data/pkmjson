@@ -1,9 +1,11 @@
 {
   "id": "xy3-single-pack-blister-gogoat",
+  "uuid": "b70bf6b7-d2f4-5b09-a8c0-0d49f1cd2703",
   "region": "international",
   "set": "xy3",
   "category": "blister",
   "name": "Furious Fists Single Pack Blister [Gogoat]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586403
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04c4bac1-1d0b-5b49-b91a-141746378dc8",
       "name": "Furious Fists Single Pack Blister [Gogoat]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "base3-theme-deck-lockdown",
+  "uuid": "0d43b84e-9b25-5b6f-bee2-fbc7f54a4ec5",
   "region": "international",
   "set": "base3",
   "category": "theme_deck",
   "name": "Fossil Theme Deck - \"LockDown\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286495
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "051b14fd-a68a-5f15-9b6e-4a59d0d67ad3",
       "name": "Fossil Theme Deck - \"LockDown\"",
       "identifiers": {
         "tcgplayerProductIds": [

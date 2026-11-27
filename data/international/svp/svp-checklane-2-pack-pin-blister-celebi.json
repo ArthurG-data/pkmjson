@@ -1,9 +1,11 @@
 {
   "id": "svp-checklane-2-pack-pin-blister-celebi",
+  "uuid": "e870e490-f9c8-5654-ad1e-a18b7f0becbc",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Celebi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d48b2a16-da7b-5015-b197-9a7488dee4bd",
       "name": "Checklane 2-Pack Pin Blister [Celebi]",
       "identifiers": {
         "tcgplayerProductIds": [

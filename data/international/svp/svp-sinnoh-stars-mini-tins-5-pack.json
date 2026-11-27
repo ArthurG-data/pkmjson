@@ -1,9 +1,11 @@
 {
   "id": "svp-sinnoh-stars-mini-tins-5-pack",
+  "uuid": "c20aeda0-9253-554b-ba2e-a9677352e38d",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Sinnoh Stars Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1543d4dc-f2c6-519a-8488-71813fbcdb23",
       "name": "Sinnoh Stars Mini Tins 5-Pack",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/532539/pokemon-miscellaneous-cards-and-products-sinnoh-stars-mini-tins-5-pack"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "f3427604-9cb6-59a6-8b31-df0df1cf1388",
+      "name": "Mini-boîte Stars de Sinnoh",
+      "releaseDate": "2022-04-15",
+      "sources": [
+        "https://www.pokepedia.fr/Mini-bo%C3%AEte_Stars_de_Sinnoh"
       ]
     }
   ]

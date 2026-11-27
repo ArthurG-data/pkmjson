@@ -1,15 +1,18 @@
 {
   "id": "swsh2-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "74b6ba59-cb41-5a12-aacf-4631baee0a54",
   "region": "international",
   "set": "swsh2",
   "category": "other",
   "name": "Rebel Clash Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4376a258-7bc6-539e-8f27-799d1336eca7",
       "name": "Rebel Clash Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh5-booster-pack-art-bundle-set-of-4",
+  "uuid": "90b4dc4e-1b2b-503f-92ce-f60f3f6a008c",
   "region": "international",
   "set": "swsh5",
   "category": "other",
   "name": "Battle Styles Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d82d3519-3090-5ba2-b60c-de90f330d767",
       "name": "Battle Styles Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

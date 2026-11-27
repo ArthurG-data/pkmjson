@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-pin-collection-spikemuth-gym",
+  "uuid": "014ad66f-5cc5-504a-9dba-539a447f615e",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Pin Collection [Spikemuth Gym]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "44f9341b-278a-57b3-a120-7e50722d15f1",
       "name": "Champion's Path Pin Collection [Spikemuth Gym]",
       "releaseDate": "2020-11-13",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ffa455d3-8c0a-5a2a-9aab-877f92e38a9f",
       "name": "Collection avec pin's La Voie du Maître Arène de Smashings",
       "releaseDate": "2020-11-13",
       "sources": [

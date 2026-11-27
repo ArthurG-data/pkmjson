@@ -1,15 +1,18 @@
 {
   "id": "tk-hs-g-trainer-kit",
+  "uuid": "eedd4802-0e43-5d33-aff4-1d6fcc9c793d",
   "region": "international",
   "set": "tk-hs-g",
   "category": "other",
   "name": "HGSS Trainer Kit [Gyarados & Raichu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7534d375-ffcc-5573-b4ac-18fdd4a19bfd",
       "name": "HGSS Trainer Kit [Gyarados & Raichu]",
       "identifiers": {
         "tcgplayerProductIds": [

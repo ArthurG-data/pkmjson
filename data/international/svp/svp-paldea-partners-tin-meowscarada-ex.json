@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-partners-tin-meowscarada-ex",
+  "uuid": "19dce1f6-318b-5058-8b3c-69b95f3af878",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Partners Tin [Meowscarada ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "31c6f112-f3a6-5af6-bfca-19193fa79d73",
       "name": "Paldea Partners Tin [Meowscarada ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,37 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/504330/pokemon-miscellaneous-cards-and-products-paldea-partners-tin-meowscarada-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "bb2e2f98-38e8-507e-ad37-92daa5588935",
+      "name": "Boîte Partenaires de Paldea Miascarade",
+      "releaseDate": "2023-09-01",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv03-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sv01-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "swsh9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Partenaires_de_Paldea_Miascarade-ex"
       ]
     }
   ]

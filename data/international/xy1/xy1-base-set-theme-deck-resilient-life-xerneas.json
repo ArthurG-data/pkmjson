@@ -1,9 +1,11 @@
 {
   "id": "xy1-base-set-theme-deck-resilient-life-xerneas",
+  "uuid": "814ef276-d7d4-551f-bbc4-06914c8659ba",
   "region": "international",
   "set": "xy1",
   "category": "theme_deck",
   "name": "XY Base Set Theme Deck - \"Resilient Life\" [Xerneas]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286617
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d53e1f59-7555-5592-9711-9b66ca838e17",
       "name": "XY Base Set Theme Deck - \"Resilient Life\" [Xerneas]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "gym1-theme-deck-erika",
+  "uuid": "df586952-084c-5601-9ba2-d9355f60559d",
   "region": "international",
   "set": "gym1",
   "category": "theme_deck",
   "name": "Gym Heroes Theme Deck - \"Erika\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286507
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7cd5c20e-8494-536b-809f-b5dec2599046",
       "name": "Gym Heroes Theme Deck - \"Erika\"",
       "identifiers": {
         "tcgplayerProductIds": [

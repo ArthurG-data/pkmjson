@@ -1,15 +1,18 @@
 {
   "id": "swsh8-unova-two-pack-blister-forces-of-nature-trio",
+  "uuid": "bea6ce69-a89d-5537-8190-d39037691e54",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Unova Two Pack Blister [Forces of Nature Trio]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f781cc41-13f0-5461-a82a-fb7c8eb21e96",
       "name": "Unova Two Pack Blister [Forces of Nature Trio]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv03-single-pack-blister-paldean-wooper",
+  "uuid": "4771eda5-465e-51ec-adfe-817faadd0904",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames Single Pack Blister [Paldean Wooper]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 720948
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "100ce4ff-fd93-5131-96f5-3eaa8e8a6563",
       "name": "Obsidian Flames Single Pack Blister [Paldean Wooper]",
       "identifiers": {
         "tcgplayerProductIds": [

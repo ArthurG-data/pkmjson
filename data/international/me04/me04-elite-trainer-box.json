@@ -1,9 +1,11 @@
 {
   "id": "me04-elite-trainer-box",
+  "uuid": "1d5e0721-a58c-596d-8358-0107bfca6634",
   "region": "international",
   "set": "me04",
   "category": "elite_trainer_box",
   "name": "Chaos Rising Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877294
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c91241d-5596-54ab-a926-f8f5a855246a",
       "name": "Chaos Rising Elite Trainer Box",
       "releaseDate": "2026-05-22",
       "identifiers": {

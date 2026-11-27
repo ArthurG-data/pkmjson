@@ -1,15 +1,18 @@
 {
   "id": "sv02-fun-pack",
+  "uuid": "a63707ea-68d6-55dc-a01f-6bdd4e558508",
   "region": "international",
   "set": "sv02",
   "category": "other",
   "name": "Paldea Evolved Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5ca1c817-79fd-5b63-9bc6-fc0ef085e612",
       "name": "Paldea Evolved Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swshp-sinnoh-star-mini-tin-set-of-5",
+  "uuid": "895a1208-d66d-5ced-87d3-9881a7dff72d",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Sinnoh Star Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c668792d-06f0-5302-81e8-76dddb6be098",
       "name": "Sinnoh Star Mini Tin [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

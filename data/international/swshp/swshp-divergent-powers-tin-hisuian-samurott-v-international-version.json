@@ -1,9 +1,11 @@
 {
   "id": "swshp-divergent-powers-tin-hisuian-samurott-v-international-version",
+  "uuid": "e2f44ab2-03a1-5b88-98cd-97350ea9b4db",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Divergent Powers Tin [Hisuian Samurott V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b911c49a-6915-5b14-af45-1ab55077cf99",
       "name": "Divergent Powers Tin [Hisuian Samurott V] (International Version)",
       "releaseDate": "2022-06-17",
       "identifiers": {

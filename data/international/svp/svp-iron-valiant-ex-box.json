@@ -1,9 +1,11 @@
 {
   "id": "svp-iron-valiant-ex-box",
+  "uuid": "99c724ab-7e45-5e71-b85c-6afaa210928f",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Iron Valiant ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "52c5a751-e4a0-53c4-bfc6-156710bda430",
       "name": "Iron Valiant ex Box",
       "releaseDate": "2023-11-17",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "1b18a8e7-beb9-59b4-ae0e-0b9cafbf1179",
       "name": "Eisenkrieger‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-donnersichel-ex-kollektion-eisenkrieger-ex"
@@ -51,6 +55,7 @@
     },
     {
       "language": "fr",
+      "uuid": "619ee05d-da23-5242-8a2a-1a7be144d236",
       "name": "Coffret Garde-de-Fer-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-rugit-lune-ex-coffret-garde-de-fer-ex"

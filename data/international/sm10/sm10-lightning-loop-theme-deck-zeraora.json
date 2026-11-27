@@ -1,9 +1,11 @@
 {
   "id": "sm10-lightning-loop-theme-deck-zeraora",
+  "uuid": "1bf85c24-d28a-5643-92c6-65cad1531edc",
   "region": "international",
   "set": "sm10",
   "category": "theme_deck",
   "name": "Unbroken Bonds Lightning Loop Theme Deck - [Zeraora]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370730
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "91de85e5-2309-5e2a-afd1-fae69ffeb4f5",
       "name": "Unbroken Bonds Lightning Loop Theme Deck - [Zeraora]",
       "identifiers": {
         "tcgplayerProductIds": [

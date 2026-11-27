@@ -1,9 +1,11 @@
 {
   "id": "sv08-single-pack-blister-pachirisu",
+  "uuid": "62040677-b528-5926-9234-dd12c16396be",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks Single Pack Blister [Pachirisu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784956
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0af0c883-db32-53dc-a774-e64b306664f1",
       "name": "Surging Sparks Single Pack Blister [Pachirisu]",
       "identifiers": {
         "tcgplayerProductIds": [

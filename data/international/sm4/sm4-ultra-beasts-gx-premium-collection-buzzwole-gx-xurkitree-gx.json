@@ -1,9 +1,11 @@
 {
   "id": "sm4-ultra-beasts-gx-premium-collection-buzzwole-gx-xurkitree-gx",
+  "uuid": "623f6c02-de1d-5379-959b-4e60698a9855",
   "region": "international",
   "set": "sm4",
   "category": "premium_collection",
   "name": "Ultra Beasts GX Premium Collection [Buzzwole GX & Xurkitree GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "21578599-439b-5b34-8a30-98c5e37faf3f",
       "name": "Ultra Beasts GX Premium Collection [Buzzwole GX & Xurkitree GX]",
       "releaseDate": "2017-11-03",
       "identifiers": {

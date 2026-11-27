@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-mini-tin-zoroark",
+  "uuid": "e3c7f2c8-278e-5cac-8752-3d3c8d22de03",
   "region": "international",
   "set": "sv06.5",
   "category": "tin",
   "name": "Shrouded Fable Mini Tin (Zoroark)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770962
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "599d0a1b-a04d-5290-aa42-eb71e6b65aee",
       "name": "Shrouded Fable Mini Tin (Zoroark)",
       "releaseDate": "2024-08-02",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "swsh6-sleeved-booster-pack-bundle-set-of-10",
+  "uuid": "16d1cfd4-f4f3-568e-b37b-cb42dad0a366",
   "region": "international",
   "set": "swsh6",
   "category": "other",
   "name": "Chilling Reign Sleeved Booster Pack Bundle [Set of 10]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 Sleeved Booster Packs of Sword & Shield—Chilling Reign; 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8cd1040e-47b0-5151-b9e4-2fe379ae0ecb",
       "name": "Chilling Reign Sleeved Booster Pack Bundle [Set of 10]",
       "identifiers": {
         "tcgplayerProductIds": [

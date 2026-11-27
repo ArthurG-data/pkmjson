@@ -1,15 +1,18 @@
 {
   "id": "sm2-tapu-koko-pin-collection",
+  "uuid": "c964bb26-7b8d-589a-891f-4a095c926f89",
   "region": "international",
   "set": "sm2",
   "category": "collection_box",
   "name": "Tapu Koko Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9b67e1f3-2d0e-5a65-98c1-5f286f68dc46",
       "name": "Tapu Koko Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c97b11b3-d4a6-53d3-afe2-e6602752383e",
       "name": "Collection avec pin's Tokorico",
       "releaseDate": "2020-07-31",
       "contents": {

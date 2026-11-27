@@ -1,9 +1,11 @@
 {
   "id": "30th-tech-sticker-collection-alolan-exeggutor",
+  "uuid": "12d56475-3fdd-55e2-9616-a8f769df38bb",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895554
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a1b9f2af-f73c-550f-800c-b2d14ff267f2",
       "name": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
       "releaseDate": "2026-09-16",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-mini-tin-fezandipiti",
+  "uuid": "5a75ddd7-81c0-55a8-a10f-f219f6dc59a3",
   "region": "international",
   "set": "sv06.5",
   "category": "tin",
   "name": "Shrouded Fable Mini Tin (Fezandipiti)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770965
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "634c1d2b-98e1-5fa3-978e-286a5b7241d8",
       "name": "Shrouded Fable Mini Tin (Fezandipiti)",
       "releaseDate": "2024-08-02",
       "identifiers": {

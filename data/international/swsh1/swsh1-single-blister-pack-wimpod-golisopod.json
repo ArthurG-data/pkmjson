@@ -1,9 +1,11 @@
 {
   "id": "swsh1-single-blister-pack-wimpod-golisopod",
+  "uuid": "6b15cd7e-9f23-50a5-a5c9-f21cca3d7ac5",
   "region": "international",
   "set": "swsh1",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Wimpod & Golisopod]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7f6f5861-3230-51bf-ac1a-dda388592f51",
       "name": "Sword & Shield Single Blister Pack [Wimpod & Golisopod]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh5-v-strikers-tin-set-of-2",
+  "uuid": "f92fc2a5-eccc-592c-a851-85e173685bb5",
   "region": "international",
   "set": "swsh5",
   "category": "other",
   "name": "V Strikers Tin [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bad3a0f9-1823-5626-ae90-88b8dcebfb46",
       "name": "V Strikers Tin [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

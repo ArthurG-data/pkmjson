@@ -1,15 +1,18 @@
 {
   "id": "mep-team-rocket-s-moltres-ex-ultra-premium-collection-case",
+  "uuid": "557fba58-1ad7-527b-af7b-695313ad9f16",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Team Rocket’s Moltres ex Ultra-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "18842bf9-a9cf-5eac-902a-f0423881ac38",
       "name": "Team Rocket’s Moltres ex Ultra-Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv8a-booster-box",
+  "uuid": "3fec51ec-3689-5676-851e-5e2fbee757b3",
   "region": "asia",
   "set": "SV8a",
   "category": "booster_box",
   "name": "Terastal Fest ex Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e8693731-1b86-5dca-974b-931b1f43db4c",
       "name": "Terastal Fest ex Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

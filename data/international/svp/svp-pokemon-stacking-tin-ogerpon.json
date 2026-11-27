@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-stacking-tin-ogerpon",
+  "uuid": "ac43918a-6a4f-5261-96d2-36758d0469f9",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Ogerpon",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "543ec616-08e1-5243-bacd-6498964b5959",
       "name": "Pokemon Stacking Tin: Ogerpon",
       "releaseDate": "2025-03-07",
       "identifiers": {

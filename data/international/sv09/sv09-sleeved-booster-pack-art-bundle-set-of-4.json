@@ -1,15 +1,18 @@
 {
   "id": "sv09-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "7a49925f-6886-5c2f-bebd-943b46eaed53",
   "region": "international",
   "set": "sv09",
   "category": "other",
   "name": "Journey Together Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ec76d129-1646-597a-91b5-6babe9246a39",
       "name": "Journey Together Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

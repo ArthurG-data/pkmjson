@@ -1,9 +1,11 @@
 {
   "id": "svhm-battle-deck",
+  "uuid": "5ff30973-4153-569e-92f5-bb5b933e8a47",
   "region": "asia",
   "set": "SVHM",
   "category": "battle_deck",
   "name": "Future Miraidon ex Starter Deck & Build Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8fa8bd57-28a7-50d7-aa41-7afd8cc51e6f",
       "name": "Future Miraidon ex Starter Deck & Build Set",
       "identifiers": {
         "tcgplayerProductIds": [

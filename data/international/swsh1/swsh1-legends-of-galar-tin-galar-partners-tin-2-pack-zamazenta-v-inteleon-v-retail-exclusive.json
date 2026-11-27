@@ -1,9 +1,11 @@
 {
   "id": "swsh1-legends-of-galar-tin-galar-partners-tin-2-pack-zamazenta-v-inteleon-v-retail-exclusive",
+  "uuid": "00cb121d-6c9c-5546-8cd3-f1c9a826bbbe",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Legends of Galar Tin + Galar Partners Tin 2-pack [Zamazenta V/Inteleon V] (Retail Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b893fc08-e909-5559-90e4-b48dcbeb9b3c",
       "name": "Legends of Galar Tin + Galar Partners Tin 2-pack [Zamazenta V/Inteleon V] (Retail Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

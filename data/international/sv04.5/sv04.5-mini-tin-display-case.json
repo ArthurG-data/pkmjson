@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-mini-tin-display-case",
+  "uuid": "f8f128b1-8e6f-5cc0-a3cc-aa70b97c2932",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a43a2ee-c0b5-58d2-85e5-6ca7c49fa93e",
       "name": "Paldean Fates Mini Tin Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "neo3-booster-box-1st-edition",
+  "uuid": "1fa85515-8ae6-570a-ad2d-fd119a613da4",
   "region": "international",
   "set": "neo3",
   "category": "booster_box",
   "name": "Neo Revelation Booster Box [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "26a4d068-da79-5933-b85a-25ea9c32a869",
       "name": "Neo Revelation Booster Box [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

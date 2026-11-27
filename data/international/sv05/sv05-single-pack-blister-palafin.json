@@ -1,9 +1,11 @@
 {
   "id": "sv05-single-pack-blister-palafin",
+  "uuid": "e9770e47-0228-5f97-ad57-cfdd122cb2cc",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces Single Pack Blister [Palafin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f3f45e6-8bda-584d-b270-46310b54451e",
       "name": "Temporal Forces Single Pack Blister [Palafin]",
       "identifiers": {
         "tcgplayerProductIds": [

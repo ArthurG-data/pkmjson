@@ -1,9 +1,11 @@
 {
   "id": "gym1-theme-deck-brock",
+  "uuid": "86244871-841c-5f6c-99d0-88e86ec16ea1",
   "region": "international",
   "set": "gym1",
   "category": "theme_deck",
   "name": "Gym Heroes Theme Deck - \"Brock\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286504
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a7cd36dc-7548-5bbc-aaf6-8e08effa0b43",
       "name": "Gym Heroes Theme Deck - \"Brock\"",
       "identifiers": {
         "tcgplayerProductIds": [

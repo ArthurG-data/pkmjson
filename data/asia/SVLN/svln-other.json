@@ -1,9 +1,11 @@
 {
   "id": "svln-other",
+  "uuid": "d7cf83c7-bf57-5b26-a004-9670eb27f761",
   "region": "asia",
   "set": "SVLN",
   "category": "battle_deck",
   "name": "Sylveon ex Stellar Tera Type Starter Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f4a74296-e745-5c19-b0d6-8b29a637b395",
       "name": "スターターセット テラスタイプ：ステラ ニンフィアex",
       "releaseDate": "2024-08-30",
       "identifiers": {

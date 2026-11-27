@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mini-tin-reshiram",
+  "uuid": "8f905e77-0a72-51f6-b258-392a69c0c8d2",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates Mini Tin [Reshiram]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "867fc64a-e284-5155-bbb9-055a79ce92a4",
       "name": "Shining Fates Mini Tin [Reshiram]",
       "releaseDate": "2021-03-19",
       "identifiers": {

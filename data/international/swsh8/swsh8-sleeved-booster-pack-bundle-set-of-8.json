@@ -1,15 +1,18 @@
 {
   "id": "swsh8-sleeved-booster-pack-bundle-set-of-8",
+  "uuid": "b280a95f-2dac-531a-a88f-47960c6b0692",
   "region": "international",
   "set": "swsh8",
   "category": "other",
   "name": "Fusion Strike Sleeved Booster Pack Bundle [Set of 8]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sleeved Booster Packs of Sword & Shield—Fusion Strike; 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "45c02baa-15a2-556f-816d-222006a2225f",
       "name": "Fusion Strike Sleeved Booster Pack Bundle [Set of 8]",
       "identifiers": {
         "tcgplayerProductIds": [

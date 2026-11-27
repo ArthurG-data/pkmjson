@@ -1,9 +1,11 @@
 {
   "id": "me01-mega-heroes-mini-tin-mega-latias",
+  "uuid": "de404745-41eb-5c67-b76a-6dc9fc7dd250",
   "region": "international",
   "set": "me01",
   "category": "tin",
   "name": "Mega Heroes Mini Tin [Mega Latias]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b8107f7c-7f4d-54a1-8682-a3f4f5c3f0b2",
       "name": "Mega Heroes Mini Tin [Mega Latias]",
       "releaseDate": "2025-09-26",
       "identifiers": {

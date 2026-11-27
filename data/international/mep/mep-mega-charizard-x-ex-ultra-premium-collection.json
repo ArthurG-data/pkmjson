@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-charizard-x-ex-ultra-premium-collection",
+  "uuid": "a7cd1e99-9833-54ed-95bd-5ac0055ad01e",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Mega Charizard X ex Ultra Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -47,6 +49,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd62850c-e018-5299-b4b5-8fd0e43f0268",
       "name": "Mega Charizard X ex Ultra Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

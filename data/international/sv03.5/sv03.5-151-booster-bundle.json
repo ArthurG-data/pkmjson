@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-booster-bundle",
+  "uuid": "a3a9ffc1-4329-50d1-9027-f87662369163",
   "region": "international",
   "set": "sv03.5",
   "category": "booster_bundle",
   "name": "151 Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719695
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7eb93ddb-c26e-5c08-bcf1-8e933e04aef2",
       "name": "151 Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

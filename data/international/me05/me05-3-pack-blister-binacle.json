@@ -1,9 +1,11 @@
 {
   "id": "me05-3-pack-blister-binacle",
+  "uuid": "dccc0e66-93e7-5ed4-a62b-72be0de4e808",
   "region": "international",
   "set": "me05",
   "category": "blister",
   "name": "Pitch Black 3-Pack Blister [Binacle]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885533
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6cea8933-5f5f-5b3c-ae26-5db894c140be",
       "name": "Pitch Black 3-Pack Blister [Binacle]",
       "releaseDate": "2026-07-17",
       "identifiers": {

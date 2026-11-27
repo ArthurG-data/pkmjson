@@ -1,15 +1,18 @@
 {
   "id": "swsh4.5-v-tin-case",
+  "uuid": "d86e7594-8a12-5d9a-9a66-19d9cb897fbc",
   "region": "international",
   "set": "swsh4.5",
   "category": "case",
   "name": "Shining Fates V Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d011af05-ee28-520f-8733-7591822dc3b6",
       "name": "Shining Fates V Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

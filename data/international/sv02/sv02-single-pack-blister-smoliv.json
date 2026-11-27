@@ -1,9 +1,11 @@
 {
   "id": "sv02-single-pack-blister-smoliv",
+  "uuid": "7f67d34e-cc5c-5b37-b8cc-ebcb350f6334",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved Single Pack Blister [Smoliv]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703168
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3b05f028-ced8-55e5-bdf6-533592cb392d",
       "name": "Paldea Evolved Single Pack Blister [Smoliv]",
       "identifiers": {
         "tcgplayerProductIds": [

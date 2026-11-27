@@ -1,15 +1,18 @@
 {
   "id": "xy6-mega-absol-ex-premium-collection",
+  "uuid": "c6bd5f24-559c-5410-9fcd-f758e8a9953c",
   "region": "international",
   "set": "xy6",
   "category": "premium_collection",
   "name": "Mega Absol EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "405f2e91-6cd9-5ea0-b253-9d828152dac0",
       "name": "Mega Absol EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "09a72cdb-ed5c-58b4-852a-51ae5979d6f4",
       "name": "Coffret Méga-Absol",
       "contents": {
         "sealed": [

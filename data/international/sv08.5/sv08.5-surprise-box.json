@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-surprise-box",
+  "uuid": "b9b85a8f-1d16-53f4-b701-a0b929fb231f",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Surprise Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798947
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "891754f8-dece-5b80-bc4e-788cbe094847",
       "name": "Prismatic Evolutions Surprise Box",
       "releaseDate": "2025-02-07",
       "identifiers": {
@@ -26,6 +29,7 @@
     },
     {
       "language": "it",
+      "uuid": "cffe83b2-364f-5f1c-a7e0-97b729202aa9",
       "name": "Collezione sorpresa dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-sorpresa-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"
@@ -33,6 +37,7 @@
     },
     {
       "language": "es",
+      "uuid": "4b94e53f-db65-5b2f-a4e0-0a6f2aaa02cf",
       "name": "Caja Sorpresa de Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-sorpresa-de-escarlata-y-purpura-evoluciones-prismaticas"
@@ -40,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "38e5bd11-655b-5e03-a411-99332fc7b7cc",
       "name": "Überraschungsbox Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ueberraschungsbox-karmesin-purpur-prismatische-entwicklungen"
@@ -47,6 +53,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ade4c53f-7cb9-5fc6-959c-8fd2f47ddf84",
       "name": "Boîte surprise Écarlate et Violet – Évolutions Prismatiques",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/boite-surprise-ecarlate-et-violet-evolutions-prismatiques"

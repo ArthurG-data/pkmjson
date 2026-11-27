@@ -1,9 +1,11 @@
 {
   "id": "s10d-booster-pack",
+  "uuid": "a5ac6494-8d60-5322-9260-5cecb6ba91fc",
   "region": "asia",
   "set": "S10D",
   "category": "booster_pack",
   "name": "Time Gazer Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611244
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "59ed0d72-8a04-54d3-b0ab-4ce9068f4c6f",
       "name": "拡張パック「タイムゲイザー」",
       "releaseDate": "2022-04-08",
       "identifiers": {

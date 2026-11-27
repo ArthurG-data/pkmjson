@@ -1,9 +1,11 @@
 {
   "id": "sv01-elite-trainer-box-koraidon",
+  "uuid": "a8c044a0-c8f4-5e0d-b0fd-1b2b8347f854",
   "region": "international",
   "set": "sv01",
   "category": "elite_trainer_box",
   "name": "Scarlet & Violet Elite Trainer Box [Koraidon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692101
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "536b35ca-201f-5990-b9f8-c88e7962292e",
       "name": "Scarlet & Violet Elite Trainer Box [Koraidon]",
       "identifiers": {
         "tcgplayerProductIds": [

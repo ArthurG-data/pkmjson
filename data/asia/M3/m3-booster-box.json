@@ -1,9 +1,11 @@
 {
   "id": "m3-booster-box",
+  "uuid": "ed916a95-6242-5fb3-b92e-425b128cb890",
   "region": "asia",
   "set": "M3",
   "category": "booster_box",
   "name": "Nihil Zero Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 864283
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0498e105-b620-5c1e-84f0-dd74900149f8",
       "name": "Nihil Zero Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

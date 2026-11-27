@@ -1,9 +1,11 @@
 {
   "id": "swsh11-ultra-premium-collection-charizard",
+  "uuid": "0942403f-a523-5b13-849c-577ff04b88b2",
   "region": "international",
   "set": "swsh11",
   "category": "premium_collection",
   "name": "Sword & Shield Ultra-Premium Collection: Charizard",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "70928bd4-d277-593d-a2cc-47a452a05270",
       "name": "Sword & Shield Ultra-Premium Collection: Charizard",
       "releaseDate": "2022-10-28",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "315eb660-3284-55fe-87d0-0742a70c92cf",
       "name": "Collection Ultra-Premium Épée et Bouclier – Dracaufeu",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-ultra-premium-epee-et-bouclier-dracaufeu"
@@ -65,6 +69,7 @@
     },
     {
       "language": "de",
+      "uuid": "22ce5be9-4d3e-5f0d-8770-01dceb52e6b8",
       "name": "Ultra-Premium-Kollektion Glurak der Serie Schwert & Schild",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/ultra-premium-kollektion-glurak-der-serie-schwert-schild"
@@ -72,6 +77,7 @@
     },
     {
       "language": "it",
+      "uuid": "e30dfce1-21ad-5023-8866-07b4bd6a2e91",
       "name": "Collezione ultra premium Spada e Scudo - Charizard",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultra-premium-spada-e-scudo-charizard"

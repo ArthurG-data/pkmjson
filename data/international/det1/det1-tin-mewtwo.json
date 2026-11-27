@@ -1,9 +1,11 @@
 {
   "id": "det1-tin-mewtwo",
+  "uuid": "2ad2b7b8-b191-5190-b770-21489bffdafc",
   "region": "international",
   "set": "det1",
   "category": "tin",
   "name": "Detective Pikachu Tin [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "311bef5c-024f-54b1-a253-c61f6066ca92",
       "name": "Detective Pikachu Tin [Mewtwo]",
       "identifiers": {
         "tcgplayerProductIds": [

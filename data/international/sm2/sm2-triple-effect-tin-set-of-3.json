@@ -1,15 +1,18 @@
 {
   "id": "sm2-triple-effect-tin-set-of-3",
+  "uuid": "1f6276d7-9fd4-56a7-9558-e93279629c90",
   "region": "international",
   "set": "sm2",
   "category": "other",
   "name": "Triple Effect Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; a code card for Pokemon TCG Online and cosmos holofoil promo of Flareon, Jolteon and Vaporeon; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "adcbdb34-6f87-59d8-b93e-0dd02e06ffc3",
       "name": "Triple Effect Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

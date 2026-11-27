@@ -1,15 +1,18 @@
 {
   "id": "mep-pokemon-day-2026-collection-case",
+  "uuid": "0be313d8-fc67-5163-a5f6-156d10274d07",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Pokemon Day 2026 Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b3d3ab85-3254-5b67-b489-15888646c7e3",
       "name": "Pokemon Day 2026 Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

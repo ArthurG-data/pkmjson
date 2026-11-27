@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-mini-tin-jolteon",
+  "uuid": "50980f08-67d3-5eec-a454-045dfba3d739",
   "region": "international",
   "set": "sv08.5",
   "category": "tin",
   "name": "Prismatic Evolutions Mini Tin [Jolteon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798936
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b62fdb44-8e91-5e77-bcd6-f1edc96f7a4e",
       "name": "Prismatic Evolutions Mini Tin [Jolteon]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "cf2012ee-747f-5868-aac6-7aff60a84a93",
       "name": "Mini-Tin-Box Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-karmesin-purpur-prismatische-entwicklungen"
@@ -49,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "40dad739-9c8f-5f53-b8ea-01d02ccaeb15",
       "name": "Minilata Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-escarlata-y-purpura-evoluciones-prismaticas"
@@ -56,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "46491df3-9348-5167-a021-e05eaf80c0c3",
       "name": "Mini‑boîte Écarlate et Violet – Évolutions Prismatiques",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-ecarlate-et-violet-evolutions-prismatiques"

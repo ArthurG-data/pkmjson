@@ -1,9 +1,11 @@
 {
   "id": "swshp-fall-2020-collector-s-chest-tin-level-ball-2-pack-retail-exclusive",
+  "uuid": "4412c1ba-b155-51d3-928a-2401042dd460",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Fall 2020 Collector's Chest Tin + Level Ball 2-Pack (Retail Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -63,6 +65,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "439e9043-d292-5793-82c8-950942e06931",
       "name": "Fall 2020 Collector's Chest Tin + Level Ball 2-Pack (Retail Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

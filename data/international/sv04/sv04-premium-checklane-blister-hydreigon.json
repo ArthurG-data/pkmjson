@@ -1,9 +1,11 @@
 {
   "id": "sv04-premium-checklane-blister-hydreigon",
+  "uuid": "163380ac-fd91-55b8-9a25-3d555ec9d065",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift Premium Checklane Blister [Hydreigon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728737
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aacbfafd-db31-5269-8327-9bf1b4f05d93",
       "name": "Paradox Rift Premium Checklane Blister [Hydreigon]",
       "identifiers": {
         "tcgplayerProductIds": [

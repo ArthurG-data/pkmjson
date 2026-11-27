@@ -1,15 +1,18 @@
 {
   "id": "swshp-galar-pal-mini-tin-set-of-5",
+  "uuid": "a6a637d6-fa7c-5142-bc5d-f7efdbfdb2d7",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Galar Pal Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bb907e13-af8b-5544-a1e8-d5553fbb62f9",
       "name": "Galar Pal Mini Tin [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

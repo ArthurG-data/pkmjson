@@ -1,9 +1,11 @@
 {
   "id": "xy12-pin-collection-mega-blastoise",
+  "uuid": "a2256c1c-6e6c-5230-900e-6c54e56d4143",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "XY - Evolutions Pin Collection [Mega Blastoise]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5c58de0c-bc44-5793-93ff-19ee6dd9dc13",
       "name": "XY - Evolutions Pin Collection [Mega Blastoise]",
       "identifiers": {
         "tcgplayerProductIds": [

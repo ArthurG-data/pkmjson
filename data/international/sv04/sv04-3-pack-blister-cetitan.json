@@ -1,9 +1,11 @@
 {
   "id": "sv04-3-pack-blister-cetitan",
+  "uuid": "37c30833-27a9-5481-82b8-41818f06408b",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift 3 Pack Blister [Cetitan]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728732
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "400d5ec6-19c9-519e-8849-0f4d744edd70",
       "name": "Paradox Rift 3 Pack Blister [Cetitan]",
       "identifiers": {
         "tcgplayerProductIds": [

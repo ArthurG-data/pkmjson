@@ -1,9 +1,11 @@
 {
   "id": "s7r-booster-pack",
+  "uuid": "81ad9a7f-257a-577b-820b-2ae288fcdb6d",
   "region": "asia",
   "set": "S7R",
   "category": "booster_pack",
   "name": "Blue Sky Stream Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 568811
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "395d6c87-9b9d-51de-a31c-86d8ecf06334",
       "name": "拡張パック「蒼空ストリーム」",
       "releaseDate": "2021-07-09",
       "identifiers": {

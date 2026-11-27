@@ -1,9 +1,11 @@
 {
   "id": "me02-single-pack-blister-whimsicott",
+  "uuid": "50ef3569-b913-5e85-8ce8-58073367f3df",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames Single Pack Blister [Whimsicott]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846738
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "48674b94-e8e4-5c85-9876-4aa22ac96a38",
       "name": "Phantasmal Flames Single Pack Blister [Whimsicott]",
       "releaseDate": "2025-11-14",
       "identifiers": {

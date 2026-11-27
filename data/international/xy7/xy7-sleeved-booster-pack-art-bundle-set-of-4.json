@@ -1,15 +1,18 @@
 {
   "id": "xy7-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "5dda48aa-4d82-5ff8-90c2-8f7b669b9545",
   "region": "international",
   "set": "xy7",
   "category": "other",
   "name": "Ancient Origins Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f40f0115-a744-527d-8387-a9aedce4d4f4",
       "name": "Ancient Origins Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

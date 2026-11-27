@@ -1,9 +1,11 @@
 {
   "id": "swsh12-3-pack-blister-togetic",
+  "uuid": "d3705b23-0a42-5f82-93a8-02c4e9b18cc8",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest 3 Pack Blister [Togetic]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672337
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c6a83f2c-df1f-54ec-8ded-045a80b6a5b0",
       "name": "Silver Tempest 3 Pack Blister [Togetic]",
       "identifiers": {
         "tcgplayerProductIds": [

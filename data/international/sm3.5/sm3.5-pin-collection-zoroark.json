@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-pin-collection-zoroark",
+  "uuid": "570e44ca-4a24-539c-8730-3e61b7b4b32e",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Pin Collection: Zoroark",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3960181f-68a5-59c9-91d1-85c1456b42fe",
       "name": "Shining Legends Pin Collection: Zoroark",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f5fd1744-7a6c-57a7-8344-bf76682a90bb",
       "name": "Collection avec pin's Légendes Brillantes Zoroark",
       "releaseDate": "2017-12-09",
       "sources": [

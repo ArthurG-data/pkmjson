@@ -1,9 +1,11 @@
 {
   "id": "ex3-booster-pack",
+  "uuid": "709d300f-7ec5-5fb0-8ddf-998261bafa8d",
   "region": "international",
   "set": "ex3",
   "category": "booster_pack",
   "name": "EX Dragon Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271842
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "708093ec-b029-5f0c-a9b6-6ff6b6d72414",
       "name": "EX Dragon",
       "identifiers": {
         "tcgplayerProductIds": [

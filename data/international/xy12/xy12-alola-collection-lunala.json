@@ -1,15 +1,18 @@
 {
   "id": "xy12-alola-collection-lunala",
+  "uuid": "de42725d-add3-5933-ad2d-20f11aff5e0b",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Alola Collection [Lunala]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "de0597f5-1be6-5682-917e-8863249a0683",
       "name": "Alola Collection [Lunala]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-mini-tin-blissey",
+  "uuid": "f609b02e-91fd-59e9-8e6b-01ecfdf1c9d7",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Mini Tin [Blissey]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653713
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0b4c2e0d-81b5-526d-817b-e188946cc46a",
       "name": "Pokemon GO Mini Tin [Blissey]",
       "releaseDate": "2022-08-05",
       "identifiers": {
@@ -37,6 +40,7 @@
     },
     {
       "language": "es",
+      "uuid": "18df0f48-6e3c-51c3-9009-d8935fc2bb7d",
       "name": "Minilata Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
@@ -44,6 +48,7 @@
     },
     {
       "language": "fr",
+      "uuid": "42fac3ce-2ce9-5a0c-8694-7a2cb58a8fcd",
       "name": "Mini-boîte Pokémon GO",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"

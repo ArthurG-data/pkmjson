@@ -1,9 +1,11 @@
 {
   "id": "smp-battle-arena-deck-rayquaza-gx",
+  "uuid": "e933eb28-26c9-558d-9a29-162a5c011511",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "Battle Arena Deck: Rayquaza GX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae3e1da7-0074-52c4-b05c-45d9a805cba8",
       "name": "Battle Arena Deck: Rayquaza GX",
       "releaseDate": "2019-10-04",
       "identifiers": {

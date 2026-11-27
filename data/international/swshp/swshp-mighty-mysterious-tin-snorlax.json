@@ -1,9 +1,11 @@
 {
   "id": "swshp-mighty-mysterious-tin-snorlax",
+  "uuid": "0e36600d-0a8f-571d-a783-e87d7e16d7be",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Mighty Mysterious Tin [Snorlax]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "15074a43-7f08-5838-b449-eee4be455cc5",
       "name": "Mighty Mysterious Tin [Snorlax]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "col1-booster-pack",
+  "uuid": "2adbc8c9-4448-53c1-9666-479cb765d7ca",
   "region": "international",
   "set": "col1",
   "category": "booster_pack",
   "name": "Call of Legends Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271882
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "499662c9-7928-5387-991b-26d32127da62",
       "name": "Pokémon TCG: Call of Legends",
       "identifiers": {
         "tcgplayerProductIds": [

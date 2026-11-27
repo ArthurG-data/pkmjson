@@ -1,9 +1,11 @@
 {
   "id": "swsh10-3-pack-hanger-box",
+  "uuid": "87618b1c-8334-5692-a902-e204a9899869",
   "region": "international",
   "set": "swsh10",
   "category": "collection_box",
   "name": "Astral Radiance 3 Pack Hanger Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "97b37539-e67d-554d-b594-d3d26792d736",
       "name": "Astral Radiance 3 Pack Hanger Box",
       "identifiers": {
         "tcgplayerProductIds": [

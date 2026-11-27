@@ -1,15 +1,18 @@
 {
   "id": "xy2-kalos-power-tin-greninja",
+  "uuid": "9d107954-83fb-562b-beb6-a5a8fec5ba38",
   "region": "international",
   "set": "xy2",
   "category": "tin",
   "name": "Kalos Power Tin [Greninja]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d4a6fa80-d614-5bb4-88ca-3b1d926cd93b",
       "name": "Kalos Power Tin [Greninja]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "39f207c7-2590-5d2c-a0e2-1f0299dfa41c",
       "name": "Boîte Puissance de Kalos Amphinobi",
       "releaseDate": "2014-09-03",
       "sources": [

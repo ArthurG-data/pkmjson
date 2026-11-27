@@ -1,9 +1,11 @@
 {
-  "id": "sm10-booster-pack-576913",
+  "id": "asia-sm10-booster-pack",
+  "uuid": "df91ec16-c622-531a-8873-f754834e6cd4",
   "region": "asia",
   "set": "SM10",
   "category": "booster_pack",
   "name": "Double Blaze Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550416
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3b50ac17-7166-5b99-9c45-b03a27155bb3",
       "name": "拡張パック「ダブルブレイズ」",
       "releaseDate": "2019-03-01",
       "identifiers": {

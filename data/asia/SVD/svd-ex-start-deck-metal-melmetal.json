@@ -1,9 +1,11 @@
 {
   "id": "svd-ex-start-deck-metal-melmetal",
+  "uuid": "a5171efe-b7de-5903-ae1e-5ca0c798f7c8",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Metal Melmetal",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 712640
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e37ca2fb-8deb-57f9-9556-3e8909573a0c",
       "name": "exスタートデッキ 鋼 メルメタル",
       "releaseDate": "2023-07-07",
       "identifiers": {

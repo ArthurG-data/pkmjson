@@ -1,9 +1,11 @@
 {
   "id": "swsh7-pokemon-center-elite-trainer-box-glaceon-vaporeon-sylveon-espeon-exclusive",
+  "uuid": "b3aa6b58-112b-59bf-a29c-eed6564819b1",
   "region": "international",
   "set": "swsh7",
   "category": "elite_trainer_box",
   "name": "Evolving Skies Pokemon Center Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon] (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -63,6 +65,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "22802c89-7909-516d-850d-85fe61574b14",
       "name": "Evolving Skies Pokemon Center Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon] (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

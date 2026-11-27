@@ -1,9 +1,11 @@
 {
   "id": "s2-booster-pack",
+  "uuid": "d085063c-b45b-529b-a7b0-c3f0fd014bf0",
   "region": "asia",
   "set": "S2",
   "category": "booster_pack",
   "name": "Rebellion Crash Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 464429
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "93b126da-6c58-57d9-ae93-cf9efd9b347b",
       "name": "拡張パック「反逆クラッシュ」",
       "releaseDate": "2020-03-06",
       "identifiers": {

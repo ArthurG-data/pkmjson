@@ -1,9 +1,11 @@
 {
   "id": "swsh4-sleeved-booster-pack",
+  "uuid": "b8885569-53b3-5785-8c8c-15748fd6f21a",
   "region": "international",
   "set": "swsh4",
   "category": "sleeved_booster_pack",
   "name": "Vivid Voltage Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674705
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6a263ead-77e2-59d5-a077-7b79cd9d7108",
       "name": "Vivid Voltage Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

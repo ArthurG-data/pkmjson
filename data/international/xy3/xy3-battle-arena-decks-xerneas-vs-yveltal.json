@@ -1,15 +1,18 @@
 {
   "id": "xy3-battle-arena-decks-xerneas-vs-yveltal",
+  "uuid": "3567bda0-01b0-559f-8f00-0c7c3641d32e",
   "region": "international",
   "set": "xy3",
   "category": "battle_deck",
   "name": "Battle Arena Decks: Xerneas vs Yveltal",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6010f587-9da8-52b9-b76a-4dcf977be338",
       "name": "Battle Arena Decks: Xerneas vs Yveltal",
       "identifiers": {
         "tcgplayerProductIds": [

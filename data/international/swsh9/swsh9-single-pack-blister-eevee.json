@@ -1,9 +1,11 @@
 {
   "id": "swsh9-single-pack-blister-eevee",
+  "uuid": "17c1542e-e93b-56f3-aa78-aa9155e3e9a3",
   "region": "international",
   "set": "swsh9",
   "category": "blister",
   "name": "Brilliant Stars Single Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 606761
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f6440bc-e8ef-5a70-a459-2c7a832f63a8",
       "name": "Brilliant Stars Single Pack Blister [Eevee]",
       "releaseDate": "2022-02-25",
       "identifiers": {

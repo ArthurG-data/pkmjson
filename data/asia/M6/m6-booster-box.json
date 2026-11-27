@@ -1,9 +1,11 @@
 {
   "id": "m6-booster-box",
+  "uuid": "d7e49440-9e07-5e81-8acc-be5c8bf9334a",
   "region": "asia",
   "set": "M6",
   "category": "booster_box",
   "name": "Storm Emeralda Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895668
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9c0b2f0f-56f9-5f05-887c-4d459c4bbb39",
       "name": "Storm Emeralda Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

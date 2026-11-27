@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-tin-team-rocket-s-mewtwo-ex-international-version",
+  "uuid": "eee239a3-c8fd-5907-a0a0-85fec093e49d",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Team Rocket Tin [Team Rocket's Mewtwo ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f04a7532-d28a-5bc7-a801-718e271e54b5",
       "name": "Team Rocket Tin [Team Rocket's Mewtwo ex] (International Version)",
       "releaseDate": "2025-09-05",
       "identifiers": {

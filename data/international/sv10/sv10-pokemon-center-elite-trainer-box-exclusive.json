@@ -1,9 +1,11 @@
 {
   "id": "sv10-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "ecf5ed27-fc09-56f1-a8d8-0334c151fdc3",
   "region": "international",
   "set": "sv10",
   "category": "elite_trainer_box",
   "name": "Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818586
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51485e74-cdf8-5ad2-9948-5b5a246737a9",
       "name": "Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2025-05-30",
       "identifiers": {

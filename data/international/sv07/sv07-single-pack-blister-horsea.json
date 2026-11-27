@@ -1,9 +1,11 @@
 {
   "id": "sv07-single-pack-blister-horsea",
+  "uuid": "d2d457fc-cc1d-5e41-b29c-0318423bccec",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown Single Pack Blister [Horsea]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776331
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f1e2268d-873b-5fdf-878d-e0ab49c547b9",
       "name": "Stellar Crown Single Pack Blister [Horsea]",
       "releaseDate": "2024-09-13",
       "identifiers": {

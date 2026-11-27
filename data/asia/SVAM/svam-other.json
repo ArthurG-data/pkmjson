@@ -1,9 +1,11 @@
 {
   "id": "svam-other",
+  "uuid": "6f82ea94-37a4-5afa-ad74-c794986c7d05",
   "region": "asia",
   "set": "SVAM",
   "category": "battle_deck",
   "name": "ex Starter Set Sprigatito & Lucario ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "5d0e1d77-b4bf-5ccd-bede-b42f1f558200",
       "name": "スターターセットex ニャオハ&ルカリオex",
       "releaseDate": "2023-01-20",
       "identifiers": {

@@ -1,5 +1,6 @@
 {
   "id": "sv08-etb",
+  "uuid": "3629d873-10f9-58e2-a7ec-75d46834f5f9",
   "region": "international",
   "set": "sv08",
   "category": "elite_trainer_box",
@@ -63,6 +64,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d80836b2-8f8a-54b1-9b1b-aec4dfc469a0",
       "name": "Surging Sparks Elite Trainer Box",
       "releaseDate": "2024-11-08",
       "identifiers": {
@@ -78,6 +80,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7ac30d34-9f69-52e0-af44-a3cb82d1281c",
       "name": "Coffret Dresseur d'Élite Écarlate et Violet – Étincelles Déferlantes",
       "releaseDate": "2024-11-08",
       "sources": [
@@ -87,6 +90,7 @@
     },
     {
       "language": "it",
+      "uuid": "a0e5b69b-e5e3-53bd-abda-05ae65cebed3",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Scintille Folgoranti",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-scintille-folgoranti"
@@ -94,6 +98,7 @@
     },
     {
       "language": "es",
+      "uuid": "ae18d324-cf54-5197-9319-10ce32f02eb3",
       "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Chispas Fulgurantes",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-chispas-fulgurantes"
@@ -101,6 +106,7 @@
     },
     {
       "language": "de",
+      "uuid": "71439c88-cf7c-5239-a2c8-8b19098d79d7",
       "name": "Top-Trainer-Box Karmesin & Purpur – Stürmische Funken",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-stuermische-funken"

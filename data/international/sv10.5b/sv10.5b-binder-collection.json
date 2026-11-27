@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-binder-collection",
+  "uuid": "a9f65747-b163-592e-92a5-b75ef4ecfd8c",
   "region": "international",
   "set": "sv10.5b",
   "category": "collection_box",
   "name": "Black Bolt Binder Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824094
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dd5593ed-9f5d-5ff8-bdca-b51de5519f10",
       "name": "Black Bolt Binder Collection",
       "releaseDate": "2025-07-18",
       "identifiers": {

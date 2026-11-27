@@ -1,9 +1,11 @@
 {
   "id": "sv09-booster-pack",
+  "uuid": "42a3b804-4f6f-50f0-ad2d-31e723e74323",
   "region": "international",
   "set": "sv09",
   "category": "booster_pack",
   "name": "Journey Together Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805575
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1cd36636-0222-53e5-bcf4-210d9b523eb9",
       "name": "Scarlet & Violet—Journey Together",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "11332525-a8e0-529f-9708-7fb8391da613",
       "name": "Écarlate et Violet – Aventures Ensemble",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89carlate_et_Violet_Aventures_Ensemble",

@@ -1,9 +1,11 @@
 {
   "id": "sm4-3-pack-blister-decidueye",
+  "uuid": "63afdf2b-09ce-5962-a314-2f791ef8976f",
   "region": "international",
   "set": "sm4",
   "category": "blister",
   "name": "Crimson Invasion 3 Pack Blister [Decidueye]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585987
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b3853e13-2a87-564a-8852-44b28e472d52",
       "name": "Crimson Invasion 3 Pack Blister [Decidueye]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -48,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7a6035cd-31e1-5e8e-bf13-744278bafe9f",
       "name": "Tripack SL04 Archéduc",
       "releaseDate": "2017-11-04",
       "contents": {

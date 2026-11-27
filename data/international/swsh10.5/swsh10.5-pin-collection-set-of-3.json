@@ -1,15 +1,18 @@
 {
   "id": "swsh10.5-pin-collection-set-of-3",
+  "uuid": "3eddcfe4-afe1-51cb-af1b-c5359fb8cb2c",
   "region": "international",
   "set": "swsh10.5",
   "category": "other",
   "name": "Pokemon GO Pin Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "878810b1-6ba4-5436-a1ab-5a100a5af175",
       "name": "Pokemon GO Pin Collection [Set of 3]",
       "releaseDate": "2022-09-02",
       "identifiers": {

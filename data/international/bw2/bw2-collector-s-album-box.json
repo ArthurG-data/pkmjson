@@ -1,15 +1,18 @@
 {
   "id": "bw2-collector-s-album-box",
+  "uuid": "d6a753ca-a3da-51ce-8a85-a98780e3922e",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Emerging Powers Collector's Album Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f5911cae-438c-511c-ae33-e1b53b785522",
       "name": "Emerging Powers Collector's Album Box",
       "identifiers": {
         "tcgplayerProductIds": [

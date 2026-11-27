@@ -1,9 +1,11 @@
 {
   "id": "sm3-mysterious-powers-tin-ho-oh-gx",
+  "uuid": "4e0dbe8f-a36e-53d6-a13b-440627693112",
   "region": "international",
   "set": "sm3",
   "category": "tin",
   "name": "Mysterious Powers Tin [Ho-Oh GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cb48bf08-493a-5bcd-8550-5f98086d6130",
       "name": "Mysterious Powers Tin [Ho-Oh GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f28332e3-e5cb-5b54-b518-8d474e48d7bf",
       "name": "Boîte Pouvoirs Mystérieux Ho-Oh",
       "releaseDate": "2017-10-20",
       "sources": [

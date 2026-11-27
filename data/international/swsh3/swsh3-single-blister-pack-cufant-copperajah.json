@@ -1,9 +1,11 @@
 {
   "id": "swsh3-single-blister-pack-cufant-copperajah",
+  "uuid": "8da386e6-0db4-584b-a4c4-50ba752f6931",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Sword & Shield Single Blister Pack [Cufant & Copperajah]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d69a6d49-3a4f-5a65-8c9d-1fbbf0c73b3b",
       "name": "Sword & Shield Single Blister Pack [Cufant & Copperajah]",
       "identifiers": {
         "tcgplayerProductIds": [

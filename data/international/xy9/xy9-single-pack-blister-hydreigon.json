@@ -1,9 +1,11 @@
 {
   "id": "xy9-single-pack-blister-hydreigon",
+  "uuid": "bc300035-db53-5128-a080-549b4e0eb240",
   "region": "international",
   "set": "xy9",
   "category": "blister",
   "name": "BREAKpoint Single Pack Blister [Hydreigon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586355
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9a413b4a-9b25-526b-bf5f-b38618283fd8",
       "name": "BREAKpoint Single Pack Blister [Hydreigon]",
       "identifiers": {
         "tcgplayerProductIds": [

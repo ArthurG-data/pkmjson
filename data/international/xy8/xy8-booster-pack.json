@@ -1,9 +1,11 @@
 {
   "id": "xy8-booster-pack",
+  "uuid": "f2cecb63-f040-5449-9c3c-c2ae39377765",
   "region": "international",
   "set": "xy8",
   "category": "booster_pack",
   "name": "XY BREAKthrough Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 285574
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6b3db699-36ca-51c8-a7e2-2550144e44eb",
       "name": "XY—BREAKthrough",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4edd4e4e-d137-591e-83c1-3446bdd2f434",
       "name": "XY – Impulsion TURBO",
       "sources": [
         "https://www.pokepedia.fr/Tripack_XY12_Kyurem_Noir",

@@ -1,9 +1,11 @@
 {
   "id": "xy9-elite-trainer-box",
+  "uuid": "9f6ef9a4-7e9f-500f-8576-ae6f6f6bd62a",
   "region": "international",
   "set": "xy9",
   "category": "elite_trainer_box",
   "name": "XY BREAKpoint Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 287836
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "57cfa4c8-727e-514d-9d7c-cf951b2918bf",
       "name": "XY BREAKpoint Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

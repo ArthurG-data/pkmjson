@@ -1,15 +1,18 @@
 {
   "id": "svp-league-battle-deck-origin-forme-palkia-vstar",
+  "uuid": "f8497869-8cb0-52e1-950f-52a68d4f8c24",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "League Battle Deck [Origin Forme Palkia VSTAR]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9e9c59dc-eedd-54ce-95c6-17bde1b643a4",
       "name": "League Battle Deck [Origin Forme Palkia VSTAR]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -23,6 +26,7 @@
     },
     {
       "language": "fr",
+      "uuid": "0951867a-87cd-50f0-9680-d66aec254051",
       "name": "Deck Combat de Ligue – Palkia Originel-VSTAR",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-palkia-originel-vstar"
@@ -30,6 +34,7 @@
     },
     {
       "language": "es",
+      "uuid": "0d692134-747c-52dd-a3d5-0d53e26aea53",
       "name": "Baraja Combate de Liga de Palkia Origen V‑ASTRO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-palkia-origen-v-astro"
@@ -37,6 +42,7 @@
     },
     {
       "language": "de",
+      "uuid": "57190d76-869d-5d28-a151-e42d75734fe2",
       "name": "Liga-Kampfdeck Ur-Palkia-VSTAR",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-ur-palkia-vstar"
@@ -44,6 +50,7 @@
     },
     {
       "language": "it",
+      "uuid": "2a0a1655-6b1d-56a1-a99f-1d8031418286",
       "name": "Mazzo Lotte di Lega Palkia Originale-V ASTRO",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-palkia-originale-v-astro"

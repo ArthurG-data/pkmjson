@@ -383,8 +383,8 @@
   "listed": false,
   "unresolved": [
    {
-    "line": "product text",
-    "reason": "no booster packs listed"
+    "line": "random cards",
+    "reason": "booster pack cards are random"
    }
   ]
  },
@@ -27572,13 +27572,6 @@
     "reason": "deck list not listed"
    }
   ]
- },
- {
-  "family": "mep-water-energy-unnumbered-no-e-reader",
-  "tcgplayerProductId": 725355,
-  "name": "Water Energy (Unnumbered) (No E Reader)",
-  "listed": false,
-  "unresolved": []
  },
  {
   "family": "xyp-ex-master-trainer-deck-blaziken",

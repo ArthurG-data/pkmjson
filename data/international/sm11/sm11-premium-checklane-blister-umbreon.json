@@ -1,9 +1,11 @@
 {
   "id": "sm11-premium-checklane-blister-umbreon",
+  "uuid": "b8eb0d9e-79c4-564c-b45e-7773f92e623a",
   "region": "international",
   "set": "sm11",
   "category": "blister",
   "name": "Unified Minds Premium Checklane Blister [Umbreon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ee2ec4a6-f817-5c28-8878-ad3b181c68e1",
       "name": "Unified Minds Premium Checklane Blister [Umbreon]",
       "identifiers": {
         "tcgplayerProductIds": [

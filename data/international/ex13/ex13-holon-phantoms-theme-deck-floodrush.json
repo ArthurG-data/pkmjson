@@ -1,9 +1,11 @@
 {
   "id": "ex13-holon-phantoms-theme-deck-floodrush",
+  "uuid": "eaf73020-4887-5fa1-acf4-b03cce36d063",
   "region": "international",
   "set": "ex13",
   "category": "theme_deck",
   "name": "Holon Phantoms Theme Deck - \"FloodRush\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286535
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "60ea20c4-1b66-5051-bf3e-f4889eab1ff8",
       "name": "Holon Phantoms Theme Deck - \"FloodRush\"",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-friends-mini-tin-eevee",
+  "uuid": "78f3d65b-dbf5-5502-a41b-8732e9da0f21",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Friends Mini Tin [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8c97a53c-caed-56b5-972d-a8a90fab7363",
       "name": "Kanto Friends Mini Tin [Eevee]",
       "identifiers": {
         "tcgplayerProductIds": [

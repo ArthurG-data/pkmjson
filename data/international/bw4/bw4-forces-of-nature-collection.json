@@ -1,15 +1,18 @@
 {
   "id": "bw4-forces-of-nature-collection",
+  "uuid": "5a299dbb-725a-547f-9ee3-d065001ce98e",
   "region": "international",
   "set": "bw4",
   "category": "collection_box",
   "name": "Forces of Nature Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fe4f038f-03e3-5f32-8cd0-f8952c71422d",
       "name": "Forces of Nature Collection",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "xy2-kalos-power-tin-delphox-tin",
+  "uuid": "15147b18-e33c-55db-838b-27cc0ce84f93",
   "region": "international",
   "set": "xy2",
   "category": "tin",
   "name": "Kalos Power Tin [Delphox Tin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "439c88bb-a9b2-5ee4-80a7-07f5d35419a4",
       "name": "Kalos Power Tin [Delphox Tin]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e9d3cefb-6719-5d12-8716-e92c42a1f0b0",
       "name": "Boîte Puissance de Kalos Goupelin",
       "releaseDate": "2014-09-03",
       "sources": [

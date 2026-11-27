@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-booster-pack",
+  "uuid": "54acc567-bd4f-5144-baf3-a1fdca97356d",
   "region": "international",
   "set": "swsh12.5",
   "category": "booster_pack",
   "name": "Crown Zenith Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683006
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8a829ea6-bcbc-55d4-8d2a-e460349b8188",
       "name": "Crown Zenith",
       "releaseDate": "2023-01-20",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bec9464c-afb3-5f4c-b337-859e6400e5a7",
       "name": "Zénith Suprême",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Z%C3%A9nith_Supr%C3%AAme",
@@ -44,6 +48,7 @@
     },
     {
       "language": "de",
+      "uuid": "2d4a8590-7b12-5bf9-904e-51cf00a77a2d",
       "name": "Zenit der Könige",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-zenit-der-koenige",
@@ -52,6 +57,7 @@
     },
     {
       "language": "it",
+      "uuid": "710e74ef-099b-530b-a9d2-4ddb378e7bf5",
       "name": "Zenit Regale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-zenit-regale",
@@ -60,6 +66,7 @@
     },
     {
       "language": "es",
+      "uuid": "e70a93f4-c8a1-54f6-ae18-b0e0d1d825c4",
       "name": "Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-cenit-supremo",

@@ -1,15 +1,18 @@
 {
   "id": "tk-xy-latia-trainer-kit",
+  "uuid": "b27ef6b8-69e6-5949-85e9-a57040e72131",
   "region": "international",
   "set": "tk-xy-latia",
   "category": "other",
   "name": "XY Trainer Kit: Latias & Latios",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e164c27d-77e7-528e-8c15-5dde50789689",
       "name": "XY Trainer Kit: Latias & Latios",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "32193ae8-6d60-560e-9e15-4105054b734c",
       "name": "XY Kit du Dresseur: Latias & Latios",
       "sources": [
         "https://www.pokepedia.fr/XY_Kit_du_Dresseur%3A_Latias_%26_Latios"

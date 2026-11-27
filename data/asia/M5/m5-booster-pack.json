@@ -1,9 +1,11 @@
 {
   "id": "m5-booster-pack",
+  "uuid": "a152ccb9-241e-5017-bc3a-58f9f50399d5",
   "region": "asia",
   "set": "M5",
   "category": "booster_pack",
   "name": "Abyss Eye Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 883956
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "bee392cd-e88c-5e5a-8013-d111805f9bc2",
       "name": "拡張パック「アビスアイ」",
       "releaseDate": "2026-05-22",
       "identifiers": {

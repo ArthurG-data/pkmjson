@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-elite-trainer-box",
+  "uuid": "0595d58a-a9ed-5dd3-95a5-0a4410f5a26e",
   "region": "international",
   "set": "swsh3.5",
   "category": "elite_trainer_box",
   "name": "Champion's Path Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 488304
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "38c6e2f6-0e28-5a36-a453-7253d01c081f",
       "name": "Champion's Path Elite Trainer Box",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5a677121-33db-576a-adfb-b560ff759f62",
       "name": "Coffret Dresseur d'élite La Voie du Maître",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -79,6 +83,7 @@
     },
     {
       "language": "de",
+      "uuid": "6cf8b499-c49c-5d58-82ac-0baa1911c3e7",
       "name": "Top-Trainer-Box der Pokémon-Sammelkartenspiel-Erweiterung Weg des Champs",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -87,6 +92,7 @@
     },
     {
       "language": "es",
+      "uuid": "ee20e013-d5d2-5309-afa2-89c53b53547d",
       "name": "Caja de Entrenador Élite de Camino de Campeones",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -95,6 +101,7 @@
     },
     {
       "language": "it",
+      "uuid": "88591eb1-a27f-50c1-adf4-3b9c88d09136",
       "name": "Set Allenatore Fuoriclasse dell’espansione Futuri Campioni",
       "releaseDate": "2020-09-25",
       "sources": [

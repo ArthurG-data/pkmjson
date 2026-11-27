@@ -1,9 +1,11 @@
 {
   "id": "ex5-hidden-legends-theme-deck-wish-maker-jirachi",
+  "uuid": "e248b881-5000-5686-878f-5322a0871f2b",
   "region": "international",
   "set": "ex5",
   "category": "theme_deck",
   "name": "Hidden Legends Theme Deck - \"Wish Maker\" [Jirachi]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286520
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7741aa46-41cc-5b7c-9344-34d71b70c2b0",
       "name": "Hidden Legends Theme Deck - \"Wish Maker\" [Jirachi]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me02.5-booster-bundle-case",
+  "uuid": "94c0b548-f0ed-5e21-a5f1-c7760a5c27a3",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Ascended Heroes Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a21417a5-f9e7-53bf-85f1-ccfc9e913195",
       "name": "Ascended Heroes Booster Bundle Case",
       "releaseDate": "2026-04-24",
       "identifiers": {

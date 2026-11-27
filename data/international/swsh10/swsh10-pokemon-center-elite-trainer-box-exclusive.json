@@ -1,9 +1,11 @@
 {
   "id": "swsh10-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "5b8a45ce-cec9-5484-a335-a12c55083d8a",
   "region": "international",
   "set": "swsh10",
   "category": "elite_trainer_box",
   "name": "Astral Radiance Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611360
   },
@@ -62,6 +64,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3ca162e5-43a2-5f85-b781-ff5b0024d482",
       "name": "Astral Radiance Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

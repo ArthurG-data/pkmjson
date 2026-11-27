@@ -1,9 +1,11 @@
 {
   "id": "swsh8-3-pack-blister-eevee",
+  "uuid": "da9da1a4-416f-5a9d-b728-152f21fc5773",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Fusion Strike 3 Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585674
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eabe1ec7-c64a-5a95-b02f-1c28149ea50b",
       "name": "Fusion Strike 3 Pack Blister [Eevee]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "si-rainbow-island-fields-of-flowers-box-set",
+  "uuid": "8d3c06f0-7094-53d4-b31a-e2c29db7d9b2",
   "region": "asia",
   "set": "SI",
   "category": "collection_box",
   "name": "Rainbow Island Fields of Flowers Box Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Ledyba; Jigglypuff; Butterfree.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "8dbd5578-4e70-5c67-acea-a5d8bbf0e689",
       "name": "Rainbow Island Fields of Flowers Box Set",
       "identifiers": {
         "tcgplayerProductIds": [

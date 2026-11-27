@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "196576c1-6756-550d-ba74-fef139b330c3",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf899623-4cc2-56e4-92c7-b883e0a513a8",
       "name": "Shrouded Fable Pokemon Center Elite Trainer Box (Exclusive) Case",
       "releaseDate": "2024-08-23",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm3-alolan-ninetales-gx-challenge-box",
+  "uuid": "f645b519-c1aa-58cc-a8ad-71340fb02c20",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Alolan Ninetales GX Challenge Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5d52bf18-ba74-5129-bced-437c676ed777",
       "name": "Alolan Ninetales GX Challenge Box",
       "identifiers": {
         "tcgplayerProductIds": [

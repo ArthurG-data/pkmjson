@@ -1,9 +1,11 @@
 {
   "id": "sm1-booster-box",
+  "uuid": "5cee008a-3752-5608-81f9-e46ecf2318a6",
   "region": "international",
   "set": "sm1",
   "category": "booster_box",
   "name": "Sun & Moon Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 294124
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e66f8b0-76de-5d6e-a278-3a053bedc214",
       "name": "Sun & Moon Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

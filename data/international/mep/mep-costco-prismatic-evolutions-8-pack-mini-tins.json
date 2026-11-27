@@ -1,15 +1,18 @@
 {
   "id": "mep-costco-prismatic-evolutions-8-pack-mini-tins",
+  "uuid": "93e10552-3931-5738-82cc-8903800a604f",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Costco Prismatic Evolutions 8-Pack Mini Tins",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 8 Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tins; 8 Foil Promos; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a07dd6eb-f117-5ed1-9832-94ad9b66e04f",
       "name": "Costco Prismatic Evolutions 8-Pack Mini Tins",
       "identifiers": {
         "tcgplayerProductIds": [

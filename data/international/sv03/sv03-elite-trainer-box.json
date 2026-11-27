@@ -1,9 +1,11 @@
 {
   "id": "sv03-elite-trainer-box",
+  "uuid": "105b2e96-6913-5090-bf01-b11ed0c7f59f",
   "region": "international",
   "set": "sv03",
   "category": "elite_trainer_box",
   "name": "Obsidian Flames Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715464
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "279961b3-f5d7-51f0-bd41-278c0c711244",
       "name": "Obsidian Flames Elite Trainer Box",
       "releaseDate": "2023-08-11",
       "identifiers": {
@@ -67,6 +70,7 @@
     },
     {
       "language": "fr",
+      "uuid": "63a16106-fa6c-5ae4-8404-f16499df7396",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Flammes Obsidiennes",
       "releaseDate": "2023-08-11",
       "sources": [
@@ -75,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "a7f98cc7-0bf5-500b-8f3c-b012c755a60c",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Ossidiana Infuocata",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dell-espansione-scarlatto-e-violetto-ossidiana-infuocata"
@@ -82,6 +87,7 @@
     },
     {
       "language": "de",
+      "uuid": "d8629bc9-4031-5c78-97c4-b51c91e57b75",
       "name": "Top-Trainer-Box Karmesin & Purpur – Obsidianflammen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-obsidianflammen"

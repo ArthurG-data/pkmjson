@@ -1,9 +1,11 @@
 {
   "id": "sv2d-booster-pack",
+  "uuid": "02ef794c-5906-5e02-8db2-594acf6040d2",
   "region": "asia",
   "set": "SV2D",
   "category": "booster_pack",
   "name": "Clay Burst Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 702931
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "e22b93c4-9748-593a-b831-59ff5aef1fb8",
       "name": "拡張パック「クレイバースト」",
       "releaseDate": "2023-04-14",
       "identifiers": {

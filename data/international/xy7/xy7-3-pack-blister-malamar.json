@@ -1,9 +1,11 @@
 {
   "id": "xy7-3-pack-blister-malamar",
+  "uuid": "acd4456c-8230-51df-ae6d-f6127701e2b1",
   "region": "international",
   "set": "xy7",
   "category": "blister",
   "name": "Ancient Origins 3 Pack Blister [Malamar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586376
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9773f637-9b20-5afc-9f64-093b63bf62e6",
       "name": "Ancient Origins 3 Pack Blister [Malamar]",
       "identifiers": {
         "tcgplayerProductIds": [

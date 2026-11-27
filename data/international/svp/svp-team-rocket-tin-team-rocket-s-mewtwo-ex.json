@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-tin-team-rocket-s-mewtwo-ex",
+  "uuid": "9956bd46-ffad-58c1-944e-8e5669e5ac8d",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Team Rocket Tin [Team Rocket's Mewtwo ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e115250e-db99-596a-84c1-3522a46943d7",
       "name": "Team Rocket Tin [Team Rocket's Mewtwo ex]",
       "releaseDate": "2025-09-05",
       "identifiers": {
@@ -26,6 +29,37 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/649193/pokemon-miscellaneous-cards-and-products-team-rocket-tin-team-rockets-mewtwo-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "9507baf3-7ceb-59af-ba3b-8d82404497ae",
+      "name": "Boîte Team Rocket Mewtwo de la Team Rocket",
+      "releaseDate": "2025-09-05",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card for Pokémon TCG Live",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv02-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv03-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv10-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Rocket_Mewtwo-ex_de_la_Team_Rocket"
       ]
     }
   ]

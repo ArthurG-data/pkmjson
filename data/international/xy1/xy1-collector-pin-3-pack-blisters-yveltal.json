@@ -1,9 +1,11 @@
 {
   "id": "xy1-collector-pin-3-pack-blisters-yveltal",
+  "uuid": "f8a6cd7e-ae2f-5939-bb43-4fa790f3d72c",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Collector Pin 3 Pack Blisters [Yveltal]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b29fc5ac-3790-5192-9dcb-7c29df9a1934",
       "name": "XY Collector Pin 3 Pack Blisters [Yveltal]",
       "identifiers": {
         "tcgplayerProductIds": [

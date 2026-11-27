@@ -1,15 +1,18 @@
 {
   "id": "xy4-mega-metagross-ex-premium-collection",
+  "uuid": "fdc71248-4081-52b8-8b71-21889dcfc911",
   "region": "international",
   "set": "xy4",
   "category": "premium_collection",
   "name": "Mega Metagross EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "914bb772-570c-52e0-9130-da0f27a52225",
       "name": "Mega Metagross EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6758da0b-ad74-52fa-aeb1-b91b0fef2ae3",
       "name": "Coffret Méga-Métalosse",
       "contents": {
         "sealed": [

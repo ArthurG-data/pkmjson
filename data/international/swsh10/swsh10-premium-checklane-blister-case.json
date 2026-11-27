@@ -1,15 +1,18 @@
 {
   "id": "swsh10-premium-checklane-blister-case",
+  "uuid": "472470e0-9c24-5ec9-aa0d-b94d158aa375",
   "region": "international",
   "set": "swsh10",
   "category": "case",
   "name": "Astral Radiance Premium Checklane Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4e452014-13e9-53f0-b734-44c57595983a",
       "name": "Astral Radiance Premium Checklane Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

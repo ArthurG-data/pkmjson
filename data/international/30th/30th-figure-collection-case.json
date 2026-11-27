@@ -1,15 +1,18 @@
 {
   "id": "30th-figure-collection-case",
+  "uuid": "b40e9c92-20fb-5c89-b812-bdd08d44a497",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Figure Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "234d0e61-a17f-5121-97b9-5ff08c59e1d4",
       "name": "30th Celebration Figure Collection Case",
       "releaseDate": "2026-11-06",
       "identifiers": {

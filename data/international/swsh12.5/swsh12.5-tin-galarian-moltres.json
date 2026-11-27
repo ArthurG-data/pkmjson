@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-tin-galarian-moltres",
+  "uuid": "cd2b2955-5cab-51a1-9919-6f604699394a",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Tin [Galarian Moltres]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683021
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "93919125-d105-5df8-a1bc-9170a6e67f73",
       "name": "Crown Zenith Tin [Galarian Moltres]",
       "releaseDate": "2023-03-17",
       "identifiers": {

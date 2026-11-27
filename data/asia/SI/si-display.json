@@ -1,15 +1,18 @@
 {
   "id": "si-display",
+  "uuid": "20868ffc-ae62-54fc-afe2-158a9e37df01",
   "region": "asia",
   "set": "SI",
   "category": "case",
   "name": "Start Deck 100 Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "ceded6d7-2509-53f7-bdf4-8b2a2c573cbe",
       "name": "Start Deck 100 Display",
       "identifiers": {
         "tcgplayerProductIds": [

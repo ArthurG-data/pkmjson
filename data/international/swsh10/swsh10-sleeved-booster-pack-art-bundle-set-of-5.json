@@ -1,15 +1,18 @@
 {
   "id": "swsh10-sleeved-booster-pack-art-bundle-set-of-5",
+  "uuid": "03215f6d-9d90-523e-b814-d9cc07570682",
   "region": "international",
   "set": "swsh10",
   "category": "other",
   "name": "Astral Radiance Sleeved Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "523c00da-94b0-5ef9-b134-a80ea248295b",
       "name": "Astral Radiance Sleeved Booster Pack Art Bundle [Set of 5]",
       "releaseDate": "2022-05-27",
       "identifiers": {

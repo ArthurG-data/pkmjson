@@ -1,15 +1,18 @@
 {
   "id": "sv08-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "21877ee6-5307-5ab5-b89c-6edcb071f75c",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cb86434c-3365-50e7-8dca-4190dae6cc9b",
       "name": "Surging Sparks Pokemon Center Elite Trainer Box (Exclusive) Case",
       "releaseDate": "2024-11-08",
       "identifiers": {

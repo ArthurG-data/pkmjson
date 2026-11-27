@@ -1,9 +1,11 @@
 {
   "id": "sv08-booster-bundle-lgs",
+  "uuid": "4edfb802-1319-5d55-8076-8892d5e48fda",
   "region": "international",
   "set": "sv08",
   "category": "booster_bundle",
   "name": "Surging Sparks Booster Bundle (LGS)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f401870c-ed95-5fbb-8c90-4187f952b5f3",
       "name": "Surging Sparks Booster Bundle (LGS)",
       "identifiers": {
         "tcgplayerProductIds": [

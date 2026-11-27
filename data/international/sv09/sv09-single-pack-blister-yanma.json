@@ -1,9 +1,11 @@
 {
   "id": "sv09-single-pack-blister-yanma",
+  "uuid": "e0fc3037-a64a-5e87-8a57-98a2602feca4",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together Single Pack Blister [Yanma]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805587
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8a86cacb-2c95-51f9-a12d-27f3d26a836f",
       "name": "Journey Together Single Pack Blister [Yanma]",
       "identifiers": {
         "tcgplayerProductIds": [

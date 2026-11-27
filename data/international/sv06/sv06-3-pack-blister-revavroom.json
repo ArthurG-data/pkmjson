@@ -1,9 +1,11 @@
 {
   "id": "sv06-3-pack-blister-revavroom",
+  "uuid": "3b3d90f0-d470-590b-ad2e-1e1b91609de5",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade 3 Pack Blister [Revavroom]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761223
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f40fc1be-93ad-53a9-92c3-572784bc11bb",
       "name": "Twilight Masquerade 3 Pack Blister [Revavroom]",
       "identifiers": {
         "tcgplayerProductIds": [

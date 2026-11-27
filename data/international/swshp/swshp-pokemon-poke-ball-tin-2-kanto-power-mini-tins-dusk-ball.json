@@ -1,19 +1,17 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-2-kanto-power-mini-tins-dusk-ball",
+  "uuid": "07d83e2d-7ec7-5f0f-8b7a-186f7084ae89",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin + 2 Kanto Power Mini Tins - Dusk Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
       {
         "name": "Pokemon coin",
-        "count": 1
-      },
-      {
-        "name": "Pokemon coin",
-        "count": 1
+        "count": 2
       },
       {
         "name": "Pokemon art card",
@@ -25,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b3a2d595-ab83-57ef-b385-d3e404eddd60",
       "name": "Pokemon - Poke Ball Tin + 2 Kanto Power Mini Tins - Dusk Ball",
       "identifiers": {
         "tcgplayerProductIds": [

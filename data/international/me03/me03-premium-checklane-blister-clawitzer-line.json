@@ -1,9 +1,11 @@
 {
   "id": "me03-premium-checklane-blister-clawitzer-line",
+  "uuid": "40904333-7c15-56b6-84ca-d58be26f9c2b",
   "region": "international",
   "set": "me03",
   "category": "blister",
   "name": "Perfect Order Premium Checklane Blister [Clawitzer Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9ccf7078-295f-5629-bcf3-f2038bf38cc7",
       "name": "Perfect Order Premium Checklane Blister [Clawitzer Line]",
       "releaseDate": "2026-03-27",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-ultra-ball",
+  "uuid": "cc1bbf80-9f2a-59fb-bb1d-e96706eecbe3",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Ultra Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "729965da-4c7f-5960-a605-5ef2884063f3",
       "name": "Pokemon - Poke Ball Tin - Ultra Ball",
       "identifiers": {
         "tcgplayerProductIds": [

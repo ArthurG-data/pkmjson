@@ -1,15 +1,18 @@
 {
   "id": "xy7-battle-arena-decks-mewtwo-ex-vs-darkrai-ex",
+  "uuid": "45499828-ece5-58c1-a153-2ddea93265b9",
   "region": "international",
   "set": "xy7",
   "category": "battle_deck",
   "name": "Battle Arena Decks: Mewtwo EX vs Darkrai EX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "22fa0022-73d4-58a4-bf52-b4c81fbfec22",
       "name": "Battle Arena Decks: Mewtwo EX vs Darkrai EX",
       "identifiers": {
         "tcgplayerProductIds": [

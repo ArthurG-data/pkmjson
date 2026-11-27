@@ -1,15 +1,18 @@
 {
   "id": "30th-ex-box-set-of-2",
+  "uuid": "1c6811a1-b51d-50a8-9b0e-468eb5c2d173",
   "region": "international",
   "set": "30th",
   "category": "other",
   "name": "30th Celebration ex Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Sylveon ex or Greninja ex; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2b0ba81e-cf3b-5978-ab50-0fd8cc0b15e5",
       "name": "30th Celebration ex Box [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

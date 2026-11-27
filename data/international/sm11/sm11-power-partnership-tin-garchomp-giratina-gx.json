@@ -1,9 +1,11 @@
 {
   "id": "sm11-power-partnership-tin-garchomp-giratina-gx",
+  "uuid": "0308902a-df96-5716-bd92-cbc0af460fca",
   "region": "international",
   "set": "sm11",
   "category": "tin",
   "name": "Power Partnership Tin [Garchomp & Giratina GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c586c62-bd26-53e7-bee3-f91eb94cccfd",
       "name": "Power Partnership Tin [Garchomp & Giratina GX]",
       "releaseDate": "2019-09-06",
       "identifiers": {

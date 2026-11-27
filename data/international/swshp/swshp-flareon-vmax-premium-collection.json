@@ -1,9 +1,11 @@
 {
   "id": "swshp-flareon-vmax-premium-collection",
+  "uuid": "916b4fa0-53c2-5b07-be68-49c872e150b1",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Flareon VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5623aa8e-9927-5eff-8b4d-7b05cbde2713",
       "name": "Flareon VMAX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-vmax-dragons-premium-collection",
+  "uuid": "720eedee-14ca-5560-84de-195e27d7aea9",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "VMAX Dragons Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5225f23f-b3bf-5558-90d2-d8b75a2e1212",
       "name": "VMAX Dragons Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

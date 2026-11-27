@@ -1,9 +1,11 @@
 {
   "id": "swshp-trainer-battle-deck-misty-of-cerulean-city-gym-jp-pokemon-center-exclusive",
+  "uuid": "078c47d5-e431-523d-9e6d-32f4d62a4fef",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "Trainer Battle Deck - Misty of Cerulean City Gym (JP Pokemon Center Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a0cc76c1-1151-5efa-b971-41e6d14e7e25",
       "name": "Trainer Battle Deck - Misty of Cerulean City Gym (JP Pokemon Center Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "mep-prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection-sam-s-club",
+  "uuid": "11586ec7-e10d-5a0a-9502-c369fd3218e8",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Lucario ex; 1 promo card featuring Tyranitar ex; 1 promo card featuring Lucario; 1 promo card featuring Tyranitar; A code card for Pokémon TCG LiveJump in Headfirst with Lucario ex & Tyranitar ex; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "23e4a827-4d8d-5c8c-9d61-b154ffe39bb2",
       "name": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

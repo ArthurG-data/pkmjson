@@ -1,9 +1,11 @@
 {
   "id": "ecard3-theme-deck-eeveelution-eevee",
+  "uuid": "fca6e7c3-cf92-5fa3-8ea7-0ccacaa31cd2",
   "region": "international",
   "set": "ecard3",
   "category": "theme_deck",
   "name": "Skyridge Theme Deck - \"Eeveelution\" [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286576
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d58ea19e-44f1-5191-b98f-b3c067766407",
       "name": "Skyridge Theme Deck - \"Eeveelution\" [Eevee]",
       "identifiers": {
         "tcgplayerProductIds": [

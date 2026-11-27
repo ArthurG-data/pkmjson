@@ -1,9 +1,11 @@
 {
   "id": "ex10-unseen-forces-theme-deck-golden-sky-ho-oh",
+  "uuid": "b5021550-ce40-5d96-a569-47ffea0b559d",
   "region": "international",
   "set": "ex10",
   "category": "theme_deck",
   "name": "Unseen Forces Theme Deck - \"Golden Sky\" [Ho-Oh]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286528
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "33a6d92c-7fd7-5b48-8c84-10b884125fb2",
       "name": "Unseen Forces Theme Deck - \"Golden Sky\" [Ho-Oh]",
       "identifiers": {
         "tcgplayerProductIds": [

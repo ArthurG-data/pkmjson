@@ -1,15 +1,18 @@
 {
   "id": "mep-2-pack-blister-zarude-3-tab",
+  "uuid": "b0c27005-8bd6-524a-a50d-7053885c4a24",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "2-Pack Blister [Zarude] (3-Tab)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "66e8df20-17f2-5567-a104-556c2a331bfb",
       "name": "2-Pack Blister [Zarude] (3-Tab)",
       "identifiers": {
         "tcgplayerProductIds": [

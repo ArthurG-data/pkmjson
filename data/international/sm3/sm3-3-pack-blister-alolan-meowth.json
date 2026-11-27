@@ -1,9 +1,11 @@
 {
   "id": "sm3-3-pack-blister-alolan-meowth",
+  "uuid": "33a56b11-597e-5e87-844e-05bec2d178a2",
   "region": "international",
   "set": "sm3",
   "category": "blister",
   "name": "Burning Shadows 3 Pack Blister [Alolan Meowth]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585992
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf3d467d-2410-5047-bef5-18cb27d1eae6",
       "name": "Burning Shadows 3 Pack Blister [Alolan Meowth]",
       "identifiers": {
         "tcgplayerProductIds": [

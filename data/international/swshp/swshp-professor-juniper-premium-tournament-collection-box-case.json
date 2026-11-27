@@ -1,15 +1,18 @@
 {
   "id": "swshp-professor-juniper-premium-tournament-collection-box-case",
+  "uuid": "8138cbb2-6f6f-520f-a076-4fadd3140460",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Professor Juniper Premium Tournament Collection Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "53b30162-f3ae-5df6-a0f4-f416bdf02bd6",
       "name": "Professor Juniper Premium Tournament Collection Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

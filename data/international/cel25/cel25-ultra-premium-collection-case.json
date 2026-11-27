@@ -1,15 +1,18 @@
 {
   "id": "cel25-ultra-premium-collection-case",
+  "uuid": "ee2da001-5c67-5b40-8777-c80242529d0f",
   "region": "international",
   "set": "cel25",
   "category": "case",
   "name": "Celebrations Ultra-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e1368326-f3b4-5a0a-a357-8b86110fcc89",
       "name": "Celebrations Ultra-Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

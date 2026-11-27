@@ -1,9 +1,11 @@
 {
   "id": "m1l-premium-trainer-box-symphonia",
+  "uuid": "c5047634-2d96-521f-8f21-7d0c2677d214",
   "region": "asia",
   "set": "M1L",
   "category": "collection_box",
   "name": "Premium Trainer Box MEGA Brave & Symphonia",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "73389d00-4946-55d2-9167-cab1b28bbacb",
       "name": "Premium Trainer Box MEGA Brave & Symphonia",
       "identifiers": {
         "tcgplayerProductIds": [

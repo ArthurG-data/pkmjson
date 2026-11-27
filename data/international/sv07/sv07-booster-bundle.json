@@ -1,9 +1,11 @@
 {
   "id": "sv07-booster-bundle",
+  "uuid": "b2c584f7-1cd0-58b6-9fca-85f2fb9dc377",
   "region": "international",
   "set": "sv07",
   "category": "booster_bundle",
   "name": "Stellar Crown Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776329
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3a8f0734-4a9f-5b1a-bab9-1d6b8eaef751",
       "name": "Stellar Crown Booster Bundle",
       "releaseDate": "2024-09-13",
       "identifiers": {

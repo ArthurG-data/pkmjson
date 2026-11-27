@@ -1,9 +1,11 @@
 {
   "id": "s11a-booster-pack",
+  "uuid": "5c3b6315-d63e-59aa-8840-b6e6a1768049",
   "region": "asia",
   "set": "S11a",
   "category": "booster_pack",
   "name": "Incandescent Arcana Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 669631
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "91900267-15a4-5724-a8af-f935379e37de",
       "name": "強化拡張パック「白熱のアルカナ」",
       "releaseDate": "2022-09-02",
       "identifiers": {

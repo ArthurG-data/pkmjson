@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-mini-tin-maushold",
+  "uuid": "dc6a6347-80f4-53e1-9604-af705bca878c",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Mini Tin [Maushold]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745557
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "afe42421-2323-5b02-aa21-d1a90209638f",
       "name": "Paldean Fates Mini Tin [Maushold]",
       "releaseDate": "2024-02-09",
       "identifiers": {

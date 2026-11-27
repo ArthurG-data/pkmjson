@@ -1,9 +1,11 @@
 {
   "id": "s6h-booster-box",
+  "uuid": "bde46771-a07d-55c2-a9a9-bf6e2eb2fca1",
   "region": "asia",
   "set": "S6H",
   "category": "booster_box",
   "name": "Silver Lance Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557964
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8ea477d7-3903-5f2d-875d-3c2d370e95ef",
       "name": "Silver Lance Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sm5-booster-pack-art-bundle-set-of-4",
+  "uuid": "f6abafa0-9735-5cef-ab27-568cbb267677",
   "region": "international",
   "set": "sm5",
   "category": "other",
   "name": "Ultra Prism Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e0320765-59ee-55b1-8368-ee527ff04e56",
       "name": "Ultra Prism Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

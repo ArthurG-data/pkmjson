@@ -1,15 +1,18 @@
 {
   "id": "sv02-3-pack-blister-set-of-2",
+  "uuid": "69212847-b82f-54c3-91f4-23afe73af925",
   "region": "international",
   "set": "sv02",
   "category": "other",
   "name": "Paldea Evolved 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Varoom or Tinkatink; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "967160d4-dad3-5a51-97f4-6373b19776f6",
       "name": "Paldea Evolved 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

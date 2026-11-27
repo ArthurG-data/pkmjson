@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-tin-galarian-moltres-international-version",
+  "uuid": "152ac3ae-38db-53b4-bcbf-61b5b8c0fa39",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Tin [Galarian Moltres] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9565a173-2f6b-5f68-a6cf-157ec4bb4f04",
       "name": "Crown Zenith Tin [Galarian Moltres] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

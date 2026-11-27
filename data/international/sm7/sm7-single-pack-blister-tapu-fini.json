@@ -1,9 +1,11 @@
 {
   "id": "sm7-single-pack-blister-tapu-fini",
+  "uuid": "a0baea45-5c58-5701-a200-570d159c4382",
   "region": "international",
   "set": "sm7",
   "category": "blister",
   "name": "Celestial Storm Single Pack Blister [Tapu Fini]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585931
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "32d72ea1-67b4-50b9-ad5f-e515f089b151",
       "name": "Celestial Storm Single Pack Blister [Tapu Fini]",
       "identifiers": {
         "tcgplayerProductIds": [

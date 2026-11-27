@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-forces-tin-galarian-slowbro-v",
+  "uuid": "464e96ae-f865-5bd6-85f6-cbe023e377ff",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Forces Tin [Galarian Slowbro V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf3d74ae-4c17-51b5-8bf7-84f1637318e8",
       "name": "V Forces Tin [Galarian Slowbro V]",
       "releaseDate": "2021-02-19",
       "identifiers": {

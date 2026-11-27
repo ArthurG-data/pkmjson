@@ -1,15 +1,18 @@
 {
   "id": "sv10.5b-unova-mini-tin-display-case",
+  "uuid": "c7635e74-e071-5d0d-a394-0b85701e54dc",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Unova Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7583f980-63d8-50e0-9d54-d4e8949b127c",
       "name": "Unova Mini Tin Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

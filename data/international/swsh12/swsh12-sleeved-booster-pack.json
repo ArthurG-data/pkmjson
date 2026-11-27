@@ -1,9 +1,11 @@
 {
   "id": "swsh12-sleeved-booster-pack",
+  "uuid": "3443d13b-edbb-5b94-adc0-dcf141eca3fb",
   "region": "international",
   "set": "swsh12",
   "category": "sleeved_booster_pack",
   "name": "Silver Tempest Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674699
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "184aeafe-0222-524b-bd62-d5a852eb7e5a",
       "name": "Silver Tempest Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

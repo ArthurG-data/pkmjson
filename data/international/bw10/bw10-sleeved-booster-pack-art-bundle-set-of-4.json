@@ -1,15 +1,18 @@
 {
   "id": "bw10-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "15ff5e50-8f11-58d7-92fa-42102917b19c",
   "region": "international",
   "set": "bw10",
   "category": "other",
   "name": "Plasma Blast Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6c5172bc-dd11-508c-9be0-95fb05f1875f",
       "name": "Plasma Blast Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

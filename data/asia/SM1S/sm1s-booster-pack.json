@@ -1,9 +1,11 @@
 {
   "id": "sm1s-booster-pack",
+  "uuid": "673761dd-bc60-53e5-ba9e-4e3830bf03c2",
   "region": "asia",
   "set": "SM1S",
   "category": "booster_pack",
   "name": "Collection Sun Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551966
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0b96b1cc-554b-520e-898d-2fe284a18a7c",
       "name": "拡張パック「コレクション サン」",
       "releaseDate": "2016-12-09",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sm9-prerelease-kit-display",
+  "uuid": "8ad4aaf0-8fcc-5e73-bbd8-8d9c0588b170",
   "region": "international",
   "set": "sm9",
   "category": "case",
   "name": "Team Up Prerelease Kit Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9c8ca859-5e69-5e13-a903-d52670e69e1d",
       "name": "Team Up Prerelease Kit Display",
       "identifiers": {
         "tcgplayerProductIds": [

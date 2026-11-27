@@ -1,15 +1,18 @@
 {
   "id": "sv06-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "b1332d2e-3439-54a8-9f3b-9fda81fa82b5",
   "region": "international",
   "set": "sv06",
   "category": "other",
   "name": "Twilight Masquerade Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e5934c09-3542-58c9-96d8-9da3d31d8042",
       "name": "Twilight Masquerade Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

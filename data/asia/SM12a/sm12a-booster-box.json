@@ -1,9 +1,11 @@
 {
   "id": "sm12a-booster-box",
+  "uuid": "00de6cb1-4574-5654-bd50-509192160794",
   "region": "asia",
   "set": "SM12a",
   "category": "booster_box",
   "name": "TAG TEAM GX: Tag All Stars Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 544736
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "4b5c6833-599d-5f4f-b608-0f0d55cae73f",
       "name": "TAG TEAM GX: Tag All Stars Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

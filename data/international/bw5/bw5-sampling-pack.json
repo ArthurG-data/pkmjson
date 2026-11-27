@@ -1,15 +1,18 @@
 {
   "id": "bw5-sampling-pack",
+  "uuid": "c6d539f1-edd4-5ae0-93d8-4a2e8b1ed97a",
   "region": "international",
   "set": "bw5",
   "category": "other",
   "name": "Dark Explorers Sampling Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5317814f-1a1b-5087-9797-846d05de0741",
       "name": "Dark Explorers Sampling Pack",
       "identifiers": {
         "tcgplayerProductIds": [

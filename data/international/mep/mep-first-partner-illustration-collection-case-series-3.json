@@ -1,15 +1,18 @@
 {
   "id": "mep-first-partner-illustration-collection-case-series-3",
+  "uuid": "44af7176-5d53-5a3b-843e-cd4973679f21",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "First Partner Illustration Collection Case (Series 3)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9d64c850-2ff9-515c-9eaf-deed2319f4f5",
       "name": "First Partner Illustration Collection Case (Series 3)",
       "releaseDate": "2026-08-07",
       "identifiers": {

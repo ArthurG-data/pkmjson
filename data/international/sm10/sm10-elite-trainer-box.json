@@ -1,9 +1,11 @@
 {
   "id": "sm10-elite-trainer-box",
+  "uuid": "0076489b-9e21-5511-9a1a-66dc79779402",
   "region": "international",
   "set": "sm10",
   "category": "elite_trainer_box",
   "name": "Unbroken Bonds Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370619
   },
@@ -62,6 +64,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "89a5836b-9990-5c56-87b0-6b55cb634452",
       "name": "Unbroken Bonds Elite Trainer Box",
       "releaseDate": "2019-05-03",
       "identifiers": {
@@ -75,6 +78,7 @@
     },
     {
       "language": "fr",
+      "uuid": "51a338ce-a797-56ba-bcc2-bf41854a229f",
       "name": "Coffret Dresseur d'élite Soleil et Lune Alliance Infaillible",
       "releaseDate": "2019-05-03",
       "sources": [
@@ -83,6 +87,7 @@
     },
     {
       "language": "de",
+      "uuid": "9cf37298-5027-5070-bb26-77da024350b8",
       "name": "Top-Trainer-Box Sonne & Mond – Kräfte im Einklang",
       "releaseDate": "2019-05-03",
       "sources": [
@@ -91,6 +96,7 @@
     },
     {
       "language": "it",
+      "uuid": "b58b60ad-73ad-5b80-ae88-2cb177b8548f",
       "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Legami Inossidabili",
       "releaseDate": "2019-05-03",
       "sources": [
@@ -99,6 +105,7 @@
     },
     {
       "language": "es",
+      "uuid": "5bab71ee-c8a3-5ba5-992c-21c0c8f0a70c",
       "name": "Caja de Entrenador Élite de Sol y Luna-Vínculos Indestructibles",
       "releaseDate": "2019-05-03",
       "sources": [

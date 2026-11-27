@@ -1,9 +1,11 @@
 {
   "id": "sm9-3-pack-blister-ultra-necrozma",
+  "uuid": "8588f6fc-b2f3-5a5b-a570-469af6553885",
   "region": "international",
   "set": "sm9",
   "category": "blister",
   "name": "Team Up 3 Pack Blister [Ultra Necrozma]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585924
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e7ba4779-d2eb-5348-b86b-ab7f5efb7f6d",
       "name": "Team Up 3 Pack Blister [Ultra Necrozma]",
       "releaseDate": "2019-02-01",
       "identifiers": {

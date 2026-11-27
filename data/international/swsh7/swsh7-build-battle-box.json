@@ -1,9 +1,11 @@
 {
   "id": "swsh7-build-battle-box",
+  "uuid": "960203ea-dc50-5d2f-89fb-4be2c00f3fea",
   "region": "international",
   "set": "swsh7",
   "category": "build_and_battle_box",
   "name": "Evolving Skies Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 568793
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e3618029-5bb5-5f9e-b916-7d017e0f3836",
       "name": "Evolving Skies Build & Battle Box",
       "releaseDate": "2021-08-27",
       "identifiers": {

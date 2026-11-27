@@ -21,17 +21,16 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
-import json
 import re
 import sys
 import unicodedata
 import urllib.parse
-import urllib.request
 from collections import defaultdict
 from pathlib import Path
 
-from import_tcgplayer import TCGDEX_API, Fetcher, fold
-from pkmjson import ROOT, Family, load, validate
+import uuids
+from net import Fetcher
+from pkmjson import REVIEW, ROOT, TCGDEX_API, Family, fold, load, validate, write_family, write_json
 
 SEARCH_API = ("https://www.pokemon-card.com/products/resultAPI.php?productType={kind}&dateLowerY=1996&dateLowerM=1"
               "&dateLowerD=1&dateUpperY=2030&dateUpperM=12&dateUpperD=31&page={page}")
@@ -57,6 +56,17 @@ KIND_WORDS = [
 def clean_title(title: str) -> str:
     """'拡張パック「スカーレット<big>ex</big >」' -> '拡張パック「スカーレットex」'."""
     return re.sub(r"\s+", " ", re.sub(r"<[^>]*>", "", title)).strip()
+
+
+KATAKANA = "ァ-ヶー"
+
+
+def names_in(name: str, title: str) -> bool:
+    """Whether a Pokémon's Japanese name is in an official title, and not only as the start of a longer name:
+    ミュウ is in ミュウex, not in ミュウツーex. A form in front (メガゲンガー, マリィのモルペコ) is fine."""
+    def norm(s: str) -> str:
+        return re.sub(r"[(（][ぁ-んァ-ヶー]+[)）]", "", unicodedata.normalize("NFKC", clean_title(s)))
+    return re.search(rf"{re.escape(norm(name))}(?![{KATAKANA}])", norm(title)) is not None
 
 
 def key(name: str) -> str:
@@ -138,11 +148,7 @@ def family_for(product: dict, sets: SetIndex, by_set: dict[str, list[Family]]) -
 
 def species_names(fetcher: Fetcher) -> dict[str, str]:
     """English Pokémon species name (folded) -> its Japanese name, from PokéAPI's species names table."""
-    path = fetcher.cache / "pokeapi_pokemon_species_names.csv"
-    if not path.exists():
-        request = urllib.request.Request(SPECIES_CSV, headers={"User-Agent": "pkmjson/0.1"})
-        path.write_bytes(urllib.request.urlopen(request, timeout=60).read())
-    rows = list(csv.DictReader(path.read_text(encoding="utf-8").splitlines()))
+    rows = list(csv.DictReader(fetcher.get_text(SPECIES_CSV, "pokeapi_pokemon_species_names.csv").splitlines()))
     by_id = defaultdict(dict)
     for row in rows:
         by_id[row["pokemon_species_id"]][row["local_language_id"]] = row["name"]
@@ -166,7 +172,7 @@ def pokemon_matches(families: list[Family], products: list[dict], species: dict[
         kinds = [ja for en, ja in KIND_WORDS if f" {en} " in f" {english} "]
         if not found or not kinds:
             continue
-        hits = [p for p in products if all(key(n) in key(p["productTitle"]) for n in found)
+        hits = [p for p in products if all(names_in(n, p["productTitle"]) for n in found)
                 and key(kinds[0]) in key(p["productTitle"])]
         if len(hits) == 1:
             pairs.append((family, hits[0]))
@@ -177,14 +183,15 @@ def pokemon_matches(families: list[Family], products: list[dict], species: dict[
 
 
 def name_release(family: Family, product: dict) -> bool:
-    """Give the family's ja release the official name, date and source. False when it already has them."""
+    """Give the family's ja release the official name, date and source. False when it already has them. The
+    release keeps every other source it cites; an older search page of this tool's is replaced."""
     release = next(r for r in family.data["releases"] if r["language"] == LANGUAGE)
     source = search_page(product["kind"], product["productTitle"])
-    named = {**release, "name": clean_title(product["productTitle"]),
-             "sources": release["sources"][:1] + [source]}
+    kept = [s for s in release["sources"] if not s.startswith(SEARCH_PAGE)]
+    named = {**release, "name": clean_title(product["productTitle"]), "sources": kept + [source]}
     if (day := release_day(product["releaseDate"])):
         named["releaseDate"] = day
-    named = {k: named[k] for k in ("language", "name", "releaseDate", "identifiers", "sources") if k in named}
+    named = {k: named[k] for k in ("language", "uuid", "name", "releaseDate", "identifiers", "sources") if k in named}
     if named == release:
         return False
     family.data["releases"] = [named if r is release else r for r in family.data["releases"]]
@@ -195,12 +202,15 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--data", default=ROOT / "data", type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
+    parser.add_argument("--review", default=REVIEW, type=Path)
+    parser.add_argument("--refresh", action="store_true", help="fetch every page again")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
-    fetcher = Fetcher(args.cache, pause=1.0)
+    fetcher = Fetcher(args.cache, pause=1.0, refresh=args.refresh)
 
     by_set: dict[str, list[Family]] = defaultdict(list)
-    for family in load(args.data):
+    families = load(args.data)
+    for family in families:
         if family.data["region"] == "asia" and any(r["language"] == LANGUAGE for r in family.data["releases"]):
             by_set[family.data["set"]].append(family)
     sets = SetIndex(fetcher)
@@ -238,10 +248,10 @@ def main(argv: list[str] | None = None) -> int:
           f"{len(review)} official products to review")
     if args.dry_run:
         return 0
+    uuids.stamp(families)
     for family in changed.values():
-        family.path.write_text(json.dumps(family.data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    review_path = ROOT / "review" / "pokemon-card-jp.json"
-    review_path.write_text(json.dumps(review, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        write_family(family)
+    write_json(args.review / "pokemon-card-jp.json", review, indent=1)
     errors = validate(load(args.data), args.data)
     if errors:
         print("\n".join(errors[:50]), file=sys.stderr)

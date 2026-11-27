@@ -1,9 +1,11 @@
 {
   "id": "xy8-3-pack-blister-yveltal",
+  "uuid": "d8831616-49e4-5900-bf75-e6864eb8a128",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "XY 3 Pack Blister [Yveltal]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "90e11d9f-10c5-51af-ab5a-a74330e8307a",
       "name": "XY 3 Pack Blister [Yveltal]",
       "identifiers": {
         "tcgplayerProductIds": [

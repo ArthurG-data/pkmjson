@@ -1,15 +1,18 @@
 {
   "id": "sv04-elite-trainer-boxes-set-of-2",
+  "uuid": "36c11418-8e72-5101-8c11-299355049487",
   "region": "international",
   "set": "sv04",
   "category": "other",
   "name": "Paradox Rift Elite Trainer Boxes [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Scream Tail or Iron Bundle; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "73428faf-b179-5d5f-bf0f-07875026cd0d",
       "name": "Paradox Rift Elite Trainer Boxes [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

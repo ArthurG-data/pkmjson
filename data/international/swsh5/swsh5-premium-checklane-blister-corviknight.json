@@ -1,9 +1,11 @@
 {
   "id": "swsh5-premium-checklane-blister-corviknight",
+  "uuid": "fe0f8511-5522-5630-bae1-23c7c4371294",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles Premium Checklane Blister [Corviknight]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585732
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef7079b1-9947-503f-90c0-16a2c3bf8681",
       "name": "Battle Styles Premium Checklane Blister [Corviknight]",
       "releaseDate": "2021-03-19",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-small-but-mighty-premium-collection",
+  "uuid": "e6e12cd8-c9da-5721-979d-30b25beb6581",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Small But Mighty Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f82d3b11-ce07-5c5e-b49f-4a8f4a5eb0f8",
       "name": "Small But Mighty Premium Collection",
       "releaseDate": "2020-11-01",
       "identifiers": {

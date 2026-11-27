@@ -1,9 +1,11 @@
 {
   "id": "smp-knock-out-collection-lucario-bisharp-and-zoroark",
+  "uuid": "74daea21-f990-54c8-a264-96080e89bb92",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Knock Out Collection [Lucario, Bisharp, and Zoroark]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "93b79af1-3b49-5788-b9f8-bf4a290ea62f",
       "name": "Knock Out Collection [Lucario, Bisharp, and Zoroark]",
       "identifiers": {
         "tcgplayerProductIds": [

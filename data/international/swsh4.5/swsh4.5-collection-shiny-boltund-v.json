@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-collection-shiny-boltund-v",
+  "uuid": "98d24bac-0bc2-5b2f-bf06-8618a5d84282",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Collection [Shiny Boltund V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a614f4ab-e2f8-5ffa-a40b-eeec84c2ddca",
       "name": "Shining Fates Collection [Shiny Boltund V]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm10-single-pack-blister-steelix",
+  "uuid": "73c51db2-c5a2-5288-92d0-daf9fdfb375d",
   "region": "international",
   "set": "sm10",
   "category": "blister",
   "name": "Unbroken Bonds Single Pack Blister [Steelix]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8b1c08ae-8282-512e-b062-c0ba17e03502",
       "name": "Unbroken Bonds Single Pack Blister [Steelix]",
       "identifiers": {
         "tcgplayerProductIds": [

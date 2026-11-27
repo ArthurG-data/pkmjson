@@ -1,15 +1,18 @@
 {
   "id": "sm9-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "1e7a74ad-6dc7-5096-922e-c2a073c88773",
   "region": "international",
   "set": "sm9",
   "category": "other",
   "name": "Team Up Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "53ea8d6d-d8e0-5522-bddc-b95fa2fb6e61",
       "name": "Team Up Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

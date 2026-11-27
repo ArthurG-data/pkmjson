@@ -1,15 +1,18 @@
 {
   "id": "swsh12-3-pack-blister-set-of-2",
+  "uuid": "58aa117c-4344-5922-8f3a-9b06214a4778",
   "region": "international",
   "set": "swsh12",
   "category": "other",
   "name": "Silver Tempest 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Togetic or Manaphy; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "60d5d278-7334-5de2-a48a-18c1c557136b",
       "name": "Silver Tempest 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

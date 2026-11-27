@@ -1,9 +1,11 @@
 {
   "id": "sm4-theme-deck-destruction-fang-hydreigon",
+  "uuid": "63da7f61-7679-5b28-904a-3772af6ef3a8",
   "region": "international",
   "set": "sm4",
   "category": "theme_deck",
   "name": "Crimson Invasion Theme Deck - \"Destruction Fang\" [Hydreigon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301982
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a667f14f-b12b-5514-81a9-6d7792b23e23",
       "name": "Crimson Invasion Theme Deck - \"Destruction Fang\" [Hydreigon]",
       "identifiers": {
         "tcgplayerProductIds": [

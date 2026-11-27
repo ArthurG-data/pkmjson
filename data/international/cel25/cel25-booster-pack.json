@@ -1,9 +1,11 @@
 {
   "id": "cel25-booster-pack",
+  "uuid": "93bc14aa-afe2-5670-873e-4b3ffd3f71fd",
   "region": "international",
   "set": "cel25",
   "category": "booster_pack",
   "name": "Celebrations Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570888
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "13956a11-5d21-5ff7-9f68-10401d2aa263",
       "name": "Celebrations",
       "releaseDate": "2021-10-08",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "78dd6c17-5747-54d5-a8f1-2e78098a7be2",
       "name": "Célébrations",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys",
@@ -44,6 +48,7 @@
     },
     {
       "language": "de",
+      "uuid": "2f4d242f-8b65-5f3c-820e-4876833631e6",
       "name": "Celebrations",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall",
@@ -52,6 +57,7 @@
     },
     {
       "language": "es",
+      "uuid": "22eddc85-888c-53b5-919e-297e69f4ce4e",
       "name": "Celebraciones",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia",
@@ -60,6 +66,7 @@
     },
     {
       "language": "it",
+      "uuid": "02162002-a391-5808-919d-883ba99bedcd",
       "name": "Gran Festa",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima",

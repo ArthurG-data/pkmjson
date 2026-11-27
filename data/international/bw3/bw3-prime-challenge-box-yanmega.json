@@ -1,15 +1,18 @@
 {
   "id": "bw3-prime-challenge-box-yanmega",
+  "uuid": "23497e15-0f03-5934-98dd-042ae383d08c",
   "region": "international",
   "set": "bw3",
   "category": "collection_box",
   "name": "Prime Challenge Box [Yanmega]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4f886adf-4750-5383-9054-1b0f0ef4f0cd",
       "name": "Prime Challenge Box [Yanmega]",
       "identifiers": {
         "tcgplayerProductIds": [

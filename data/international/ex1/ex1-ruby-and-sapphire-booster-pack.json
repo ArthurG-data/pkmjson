@@ -1,9 +1,11 @@
 {
   "id": "ex1-ruby-and-sapphire-booster-pack",
+  "uuid": "755a4e89-effb-5207-9b47-11c5af367221",
   "region": "international",
   "set": "ex1",
   "category": "booster_pack",
   "name": "Ruby and Sapphire Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271848
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c537fbe4-5b50-5ad1-a62c-0d13054e8202",
       "name": "EX Ruby & Sapphire",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-mini-tin-snorlax",
+  "uuid": "afb5c208-0fe0-5182-9d7a-166879e8e191",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Mini Tin [Snorlax]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653715
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8597c045-a8dd-5e0f-abc1-265b539ed10c",
       "name": "Pokemon GO Mini Tin [Snorlax]",
       "releaseDate": "2022-08-05",
       "identifiers": {
@@ -37,6 +40,7 @@
     },
     {
       "language": "es",
+      "uuid": "75442727-b995-5706-b360-4a6bf4dae1f7",
       "name": "Minilata Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
@@ -44,6 +48,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2f93f034-6445-55cb-a297-acadae7d9344",
       "name": "Mini-boîte Pokémon GO",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"

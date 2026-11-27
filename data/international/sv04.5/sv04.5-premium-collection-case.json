@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-premium-collection-case",
+  "uuid": "7531d595-e9c0-5184-8b2b-625f7e532b4a",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c2d27e9a-007a-5347-8db0-807134f2c138",
       "name": "Paldean Fates Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

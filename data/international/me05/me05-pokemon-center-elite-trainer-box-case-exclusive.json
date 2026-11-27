@@ -1,15 +1,18 @@
 {
   "id": "me05-pokemon-center-elite-trainer-box-case-exclusive",
+  "uuid": "044eab62-d1b6-5537-8924-a6fac41f58ab",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black Pokemon Center Elite Trainer Box Case (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a2cefa59-f2ea-5f65-a0ec-ebb9f386dd80",
       "name": "Pitch Black Pokemon Center Elite Trainer Box Case (Exclusive)",
       "releaseDate": "2026-07-17",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "xy3-3-pack-blister-slurpuff",
+  "uuid": "695ffa28-ce65-553a-afe1-86174acf6af7",
   "region": "international",
   "set": "xy3",
   "category": "blister",
   "name": "Furious Fists 3 Pack Blister [Slurpuff]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586405
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "90bc7b64-3598-5579-b734-68020909e887",
       "name": "Furious Fists 3 Pack Blister [Slurpuff]",
       "identifiers": {
         "tcgplayerProductIds": [

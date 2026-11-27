@@ -1,9 +1,11 @@
 {
   "id": "sm8-3-pack-blister-altaria",
+  "uuid": "9a71ccaa-f0ce-5819-baea-7aaa1c2ffcd5",
   "region": "international",
   "set": "sm8",
   "category": "blister",
   "name": "Lost Thunder 3 Pack Blister [Altaria]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585928
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fe8b435a-823a-5c10-8b8c-ee625404360f",
       "name": "Lost Thunder 3 Pack Blister [Altaria]",
       "releaseDate": "2018-11-02",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "cp6-booster-box-1st-edition",
+  "uuid": "fee2be2a-4819-50e4-bed5-cc7d9109d38f",
   "region": "asia",
   "set": "CP6",
   "category": "booster_box",
   "name": "Expansion Pack 20th Anniversary - Booster Box (1st Edition)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "78be5cf6-7b67-5269-8d75-3206e79bf371",
       "name": "Expansion Pack 20th Anniversary - Booster Box (1st Edition)",
       "identifiers": {
         "tcgplayerProductIds": [

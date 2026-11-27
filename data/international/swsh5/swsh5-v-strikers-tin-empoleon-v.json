@@ -1,15 +1,18 @@
 {
   "id": "swsh5-v-strikers-tin-empoleon-v",
+  "uuid": "62ed3bae-066f-5b3c-9485-477d25eca3ac",
   "region": "international",
   "set": "swsh5",
   "category": "tin",
   "name": "V Strikers Tin [Empoleon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 5 Pokemon trading card game booster packs (packs are random); 1 foil promo card—featuring Empoleon V.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7004e8f0-9b1e-5577-8a56-14ccd9b42f84",
       "name": "V Strikers Tin [Empoleon V]",
       "identifiers": {
         "tcgplayerProductIds": [

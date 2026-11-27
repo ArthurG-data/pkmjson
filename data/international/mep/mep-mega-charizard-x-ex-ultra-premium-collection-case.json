@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-charizard-x-ex-ultra-premium-collection-case",
+  "uuid": "9b5a9a99-076a-5a10-adb9-c1d8eff8639e",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Charizard X ex Ultra Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "60ed4e64-787f-584a-93d3-5f95507aaabd",
       "name": "Mega Charizard X ex Ultra Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

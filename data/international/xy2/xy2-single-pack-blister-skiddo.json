@@ -1,9 +1,11 @@
 {
   "id": "xy2-single-pack-blister-skiddo",
+  "uuid": "f139cff3-5762-50bd-96b0-666328166e47",
   "region": "international",
   "set": "xy2",
   "category": "blister",
   "name": "Flashfire Single Pack Blister [Skiddo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586410
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d464a18-5a61-5af9-bd95-081997017537",
       "name": "Flashfire Single Pack Blister [Skiddo]",
       "identifiers": {
         "tcgplayerProductIds": [

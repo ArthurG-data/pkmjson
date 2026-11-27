@@ -1,9 +1,11 @@
 {
   "id": "swsh4-galar-sidekicks-premium-collection",
+  "uuid": "ec9ff7f5-7463-5670-a357-a07780d217a9",
   "region": "international",
   "set": "swsh4",
   "category": "premium_collection",
   "name": "Galar Sidekicks Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -51,6 +53,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "75287680-6ce4-50c0-842f-0bfca6c8e282",
       "name": "Galar Sidekicks Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

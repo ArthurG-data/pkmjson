@@ -1,15 +1,18 @@
 {
   "id": "swshp-divergent-powers-tin-set-of-3",
+  "uuid": "e4772438-3781-5eb0-8804-210ea4b078a5",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Divergent Powers Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card; 5 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "541439c7-a221-5a70-b9c0-3dc56cc72713",
       "name": "Divergent Powers Tin [Set of 3]",
       "releaseDate": "2022-06-17",
       "identifiers": {

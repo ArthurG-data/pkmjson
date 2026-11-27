@@ -1,9 +1,11 @@
 {
   "id": "swshp-knock-out-collection-boltund-eiscue-galarian-sirfetch-d",
+  "uuid": "0ad72896-b2f3-5f66-a577-640c6ff36811",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Knock Out Collection [Boltund, Eiscue, Galarian Sirfetch'd]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "517d4b62-de54-5cf0-8caf-832b5f65a3b8",
       "name": "Knock Out Collection [Boltund, Eiscue, Galarian Sirfetch'd]",
       "identifiers": {
         "tcgplayerProductIds": [

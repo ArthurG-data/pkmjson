@@ -1,9 +1,11 @@
 {
   "id": "smp-tag-team-generations-premium-collection",
+  "uuid": "2ac5f2a8-44b1-56f5-b989-25ef8ceb7058",
   "region": "international",
   "set": "smp",
   "category": "premium_collection",
   "name": "TAG TEAM Generations Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1fb36ebd-9516-5f67-b89e-416fa4857060",
       "name": "TAG TEAM Generations Premium Collection",
       "releaseDate": "2019-11-22",
       "identifiers": {
@@ -44,6 +47,63 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/200172/pokemon-miscellaneous-cards-and-products-tag-team-generations-premium-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "48e6ca3e-d6a5-5265-9cf8-49af6790a18e",
+      "name": "Collection Premium Générations ESCOUADE",
+      "releaseDate": "2019-11-27",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "smp-SM229",
+            "tcgdexVariantId": "endfynwn4n10gzq",
+            "tcgplayerProductId": 205162,
+            "cardmarketProductId": 426041,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Full-size playmat featuring TAG TEAM illustrations",
+            "count": 1
+          },
+          {
+            "name": "Metallic coin",
+            "count": 1
+          },
+          {
+            "name": "Code card for the Pokemon TCG Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sm12-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm11-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm10-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "xy12-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_G%C3%A9n%C3%A9rations_ESCOUADE"
       ]
     }
   ]

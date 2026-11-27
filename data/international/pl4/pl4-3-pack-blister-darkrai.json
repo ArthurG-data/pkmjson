@@ -1,15 +1,18 @@
 {
   "id": "pl4-3-pack-blister-darkrai",
+  "uuid": "308ecb21-1b8a-5582-ab98-4aa1dc9c9bc5",
   "region": "international",
   "set": "pl4",
   "category": "blister",
   "name": "Arceus 3 Pack Blister [Darkrai]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "35e52901-faf0-547f-8a26-4931d88ffe1e",
       "name": "Arceus 3 Pack Blister [Darkrai]",
       "identifiers": {
         "tcgplayerProductIds": [

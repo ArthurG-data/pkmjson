@@ -1,9 +1,11 @@
 {
   "id": "swshp-eevee-pokemon-treasure-chest-tin",
+  "uuid": "2949c115-1007-5e84-adcc-ba3973e0d853",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Eevee Pokemon Treasure Chest Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a2404516-f960-522c-a97a-ee8c46a46187",
       "name": "Eevee Pokemon Treasure Chest Tin",
       "identifiers": {
         "tcgplayerProductIds": [

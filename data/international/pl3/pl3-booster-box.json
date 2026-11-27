@@ -1,9 +1,11 @@
 {
   "id": "pl3-booster-box",
+  "uuid": "002fca49-89f8-5056-9ee9-fb6ffdd2c736",
   "region": "international",
   "set": "pl3",
   "category": "booster_box",
   "name": "Supreme Victors Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271939
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4ba12a4-4c82-5750-9480-1fd36828b585",
       "name": "Supreme Victors Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

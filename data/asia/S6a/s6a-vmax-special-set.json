@@ -1,15 +1,18 @@
 {
   "id": "s6a-vmax-special-set",
+  "uuid": "1c1070e5-4eca-56ae-9a07-2dd38fc0ef3e",
   "region": "asia",
   "set": "S6a",
   "category": "other",
   "name": "Eevee Heroes VMAX Special Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "0c3a069b-be2a-5cae-86e1-6874fc42fd19",
       "name": "Eevee Heroes VMAX Special Set",
       "identifiers": {
         "tcgplayerProductIds": [

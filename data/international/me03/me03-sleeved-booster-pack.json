@@ -1,9 +1,11 @@
 {
   "id": "me03-sleeved-booster-pack",
+  "uuid": "bc9cf3a2-df9d-58ef-8fb3-cf4bb2a2fe0d",
   "region": "international",
   "set": "me03",
   "category": "sleeved_booster_pack",
   "name": "Perfect Order Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865409
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd822fee-32ac-541a-811f-5f7b4d6f3fed",
       "name": "Perfect Order Sleeved Booster Pack",
       "releaseDate": "2026-03-27",
       "identifiers": {

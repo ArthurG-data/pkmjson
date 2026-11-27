@@ -1,9 +1,11 @@
 {
   "id": "swshp-checklane-2-pack-pin-blister-latias",
+  "uuid": "95f10d36-7f18-5b31-b91f-b530ec708c32",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Latias]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "62346c60-6b24-51d7-adde-b9b7dc3d68a8",
       "name": "Checklane 2-Pack Pin Blister [Latias]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me04-build-battle-box",
+  "uuid": "bae377a3-5d93-5871-a293-19e0356f68a5",
   "region": "international",
   "set": "me04",
   "category": "build_and_battle_box",
   "name": "Chaos Rising Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877282
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "57730692-7a3b-5686-891a-0e3de7eab2ea",
       "name": "Chaos Rising Build & Battle Box",
       "releaseDate": "2026-06-05",
       "identifiers": {

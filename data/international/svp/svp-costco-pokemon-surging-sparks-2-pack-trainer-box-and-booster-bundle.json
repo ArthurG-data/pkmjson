@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-surging-sparks-2-pack-trainer-box-and-booster-bundle",
+  "uuid": "f4b817ad-495f-5665-a64a-dde8472dd0f7",
   "region": "international",
   "set": "svp",
   "category": "booster_bundle",
   "name": "Costco Pokemon Surging Sparks 2-Pack Trainer Box and Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Magneton; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b7216f14-c1ac-50d9-9486-c7d41c4cb851",
       "name": "Costco Pokemon Surging Sparks 2-Pack Trainer Box and Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

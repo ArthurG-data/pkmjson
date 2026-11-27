@@ -1,15 +1,18 @@
 {
   "id": "svp-paldea-adventure-chest-case",
+  "uuid": "dd1f3713-9044-5118-a94d-22ef6a4571f6",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Paldea Adventure Chest Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6439cb3a-d944-518c-b727-c796ce91dfb1",
       "name": "Paldea Adventure Chest Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sm7.5-legends-of-unova-gx-premium-collection",
+  "uuid": "706758ec-3d45-5ecc-873a-2a97a6cd5f1b",
   "region": "international",
   "set": "sm7.5",
   "category": "premium_collection",
   "name": "Legends of Unova GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5684d4bc-4b27-5eb4-a5f2-247b6c8e0c26",
       "name": "Legends of Unova GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

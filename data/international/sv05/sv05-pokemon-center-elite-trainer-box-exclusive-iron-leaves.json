@@ -1,9 +1,11 @@
 {
   "id": "sv05-pokemon-center-elite-trainer-box-exclusive-iron-leaves",
+  "uuid": "74c5a610-81c2-516f-ad33-b122939852e2",
   "region": "international",
   "set": "sv05",
   "category": "elite_trainer_box",
   "name": "Temporal Forces Pokemon Center Elite Trainer Box (Exclusive) [Iron Leaves]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750411
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3867fbe8-a446-5eb2-8730-9963ab531e13",
       "name": "Temporal Forces Pokemon Center Elite Trainer Box (Exclusive) [Iron Leaves]",
       "identifiers": {
         "tcgplayerProductIds": [

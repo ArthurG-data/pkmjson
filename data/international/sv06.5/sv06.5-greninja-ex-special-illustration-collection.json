@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-greninja-ex-special-illustration-collection",
+  "uuid": "02e80490-da25-598f-a99c-ea0976cb4fda",
   "region": "international",
   "set": "sv06.5",
   "category": "collection_box",
   "name": "Greninja ex Special Illustration Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770969
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7e049b6d-c4af-543a-b932-c2fbe8a519e8",
       "name": "Greninja ex Special Illustration Collection",
       "releaseDate": "2024-08-02",
       "identifiers": {

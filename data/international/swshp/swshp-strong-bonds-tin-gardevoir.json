@@ -1,9 +1,11 @@
 {
   "id": "swshp-strong-bonds-tin-gardevoir",
+  "uuid": "a6619b30-c03e-54ed-952d-7e60754d645a",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Strong Bonds Tin [Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1cae2957-6f57-5a13-b231-d989ac01a80a",
       "name": "Strong Bonds Tin [Gardevoir]",
       "identifiers": {
         "tcgplayerProductIds": [

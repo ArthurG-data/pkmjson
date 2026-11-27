@@ -1,15 +1,18 @@
 {
   "id": "tk-bw-e-trainer-kit",
+  "uuid": "ef9b967f-7639-5d82-8450-853db8122aed",
   "region": "international",
   "set": "tk-bw-e",
   "category": "other",
   "name": "BW Trainer Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4e9d4fe7-d718-5a81-973f-bbcb95f6939f",
       "name": "BW Trainer Kit",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "23e1d84a-433e-54a4-9d27-e4a0f37ef5ff",
       "name": "Noir & Blanc Kit du Dresseur",
       "releaseDate": "2011-11-18",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "de",
+      "uuid": "bcd8c6bb-f443-56ca-b4a3-a712b6b9d2cf",
       "name": "Trainer Kit für das Pokémon Sammelkartenspiel XY",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/xy-trainer-kit"

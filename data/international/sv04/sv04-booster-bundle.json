@@ -1,9 +1,11 @@
 {
   "id": "sv04-booster-bundle",
+  "uuid": "1252c990-6815-5b8d-aa2a-89e4aea18682",
   "region": "international",
   "set": "sv04",
   "category": "booster_bundle",
   "name": "Paradox Rift Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728731
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1512fbad-88fc-5041-b92b-d2efdc1df4ef",
       "name": "Paradox Rift Booster Bundle",
       "releaseDate": "2023-11-03",
       "identifiers": {

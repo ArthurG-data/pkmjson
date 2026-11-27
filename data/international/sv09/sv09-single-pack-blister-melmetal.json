@@ -1,9 +1,11 @@
 {
   "id": "sv09-single-pack-blister-melmetal",
+  "uuid": "664dc822-77a6-5596-a017-9c8110c391a3",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together Single Pack Blister [Melmetal]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f4f58d91-2812-50b3-9f01-04660d30be91",
       "name": "Journey Together Single Pack Blister [Melmetal]",
       "identifiers": {
         "tcgplayerProductIds": [

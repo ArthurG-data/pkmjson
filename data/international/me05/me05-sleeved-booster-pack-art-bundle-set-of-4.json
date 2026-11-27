@@ -1,15 +1,18 @@
 {
   "id": "me05-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "b8425e65-ffcd-5ff2-b0c1-965d4bae42b2",
   "region": "international",
   "set": "me05",
   "category": "other",
   "name": "Pitch Black Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "331e2921-4739-56a2-8650-96793d5e075a",
       "name": "Pitch Black Sleeved Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2026-07-17",
       "identifiers": {

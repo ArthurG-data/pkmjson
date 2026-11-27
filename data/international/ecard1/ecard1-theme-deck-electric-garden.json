@@ -1,9 +1,11 @@
 {
   "id": "ecard1-theme-deck-electric-garden",
+  "uuid": "0d8e4838-f711-5054-a972-98d44525ed2b",
   "region": "international",
   "set": "ecard1",
   "category": "theme_deck",
   "name": "Expedition Theme Deck - \"Electric Garden\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286573
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b5f5939f-15d6-58cb-b027-bd1efbc853ed",
       "name": "Expedition Theme Deck - \"Electric Garden\"",
       "identifiers": {
         "tcgplayerProductIds": [

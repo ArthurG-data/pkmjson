@@ -1,9 +1,11 @@
 {
   "id": "dp6-theme-deck-metal-surge",
+  "uuid": "c1d4347b-3b97-57f4-9d78-eabf74b233d7",
   "region": "international",
   "set": "dp6",
   "category": "theme_deck",
   "name": "Legends Awakened Theme Deck - Metal Surge",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286591
   },
@@ -28,6 +30,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8e4739c7-1a18-5f93-b2b2-0f92d86d3ebd",
       "name": "Legends Awakened Theme Deck - Metal Surge",
       "identifiers": {
         "tcgplayerProductIds": [

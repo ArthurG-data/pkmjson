@@ -1,9 +1,11 @@
 {
   "id": "30th-ex-tin-greninja-ex-retail-version",
+  "uuid": "79cac278-371b-5d6e-8824-f06063acfa0e",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration ex Tin [Greninja ex] (Retail Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7b8afe4e-e662-55d9-8441-863b4c053a2a",
       "name": "30th Celebration ex Tin [Greninja ex] (Retail Version)",
       "identifiers": {
         "tcgplayerProductIds": [

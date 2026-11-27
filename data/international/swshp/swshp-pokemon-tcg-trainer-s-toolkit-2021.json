@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-tcg-trainer-s-toolkit-2021",
+  "uuid": "4f60063e-2b00-5291-9c80-cbe01a3afc94",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon TCG: Trainer's Toolkit (2021)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02a18771-f3b6-5a46-a891-5351af7526f3",
       "name": "Pokemon TCG: Trainer's Toolkit (2021)",
       "releaseDate": "2021-08-06",
       "identifiers": {
@@ -46,6 +49,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/241109/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2021"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "6350d101-7861-50e9-b5da-f4688541eaf2",
+      "name": "Nécessaire du Dresseur",
+      "releaseDate": "2021-08-06",
+      "sources": [
+        "https://www.pokepedia.fr/N%C3%A9cessaire_du_Dresseur_%282021%29"
       ]
     }
   ]

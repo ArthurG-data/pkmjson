@@ -1,15 +1,18 @@
 {
   "id": "swsh6-build-battle-box-display",
+  "uuid": "378b3986-4e0e-50db-a764-5536d66ac272",
   "region": "international",
   "set": "swsh6",
   "category": "case",
   "name": "Chilling Reign Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8d1afc01-9e8a-5d03-b916-b1160c8ce48e",
       "name": "Chilling Reign Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

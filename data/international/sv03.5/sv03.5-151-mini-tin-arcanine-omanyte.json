@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-arcanine-omanyte",
+  "uuid": "a6816170-6be7-5068-a7ce-2eaae89e3af1",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Arcanine & Omanyte]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "295954c6-dbc5-5993-93f8-45d5463d9a6b",
       "name": "151 Mini Tin [Arcanine & Omanyte]",
       "identifiers": {
         "tcgplayerProductIds": [

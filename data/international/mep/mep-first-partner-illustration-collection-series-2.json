@@ -1,9 +1,11 @@
 {
   "id": "mep-first-partner-illustration-collection-series-2",
+  "uuid": "5ac53a11-f255-5c44-b0f9-d002e5289fb2",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "First Partner Illustration Collection (Series 2)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a6feeaee-f9cf-5cfd-b13d-6a6f1f1ca909",
       "name": "First Partner Illustration Collection (Series 2)",
       "releaseDate": "2026-06-19",
       "identifiers": {

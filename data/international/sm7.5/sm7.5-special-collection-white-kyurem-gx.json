@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-special-collection-white-kyurem-gx",
+  "uuid": "caf64360-971c-503a-836f-57ca0269e8a2",
   "region": "international",
   "set": "sm7.5",
   "category": "collection_box",
   "name": "Dragon Majesty Special Collection: White Kyurem GX",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e5f962fb-310e-5e70-bb6e-b15ba1cdf437",
       "name": "Dragon Majesty Special Collection: White Kyurem GX",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "aa86287a-b3dc-5b2e-bde8-67e5ad7e5b58",
       "name": "Collection spéciale Majesté des Dragons Kyurem Blanc",
       "releaseDate": "2018-11-16",
       "sources": [

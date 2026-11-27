@@ -1,9 +1,11 @@
 {
   "id": "sm1-single-blister-pack-rockruff",
+  "uuid": "74902976-9fef-5ca8-ad1c-d4773418afa8",
   "region": "international",
   "set": "sm1",
   "category": "blister",
   "name": "Sun & Moon Single Blister Pack [Rockruff]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586016
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8dd7910c-0a5b-560f-8dcb-cd53c88e4b83",
       "name": "Sun & Moon Single Blister Pack [Rockruff]",
       "identifiers": {
         "tcgplayerProductIds": [

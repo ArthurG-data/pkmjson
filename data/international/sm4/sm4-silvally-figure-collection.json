@@ -1,9 +1,11 @@
 {
   "id": "sm4-silvally-figure-collection",
+  "uuid": "3d6e0a98-fa7b-58fc-9f9e-fc407cd7a604",
   "region": "international",
   "set": "sm4",
   "category": "collection_box",
   "name": "Silvally Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d75df71-fe66-5e3d-a0b9-dbe8dab93431",
       "name": "Silvally Figure Collection",
       "releaseDate": "2017-11-16",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "57493835-5bc6-5413-ab2c-21b249a4531e",
       "name": "Coffret Silvallié",
       "releaseDate": "2017-11-17",
       "contents": {

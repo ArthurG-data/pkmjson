@@ -1,9 +1,11 @@
 {
   "id": "30th-figure-collection-mew",
+  "uuid": "8b59673a-8a2e-5af9-ae50-c8ff4cf83c16",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Figure Collection [Mew]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895576
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ce7dacdb-7258-5193-a39c-b49043e30cb8",
       "name": "30th Celebration Figure Collection [Mew]",
       "releaseDate": "2026-11-06",
       "identifiers": {

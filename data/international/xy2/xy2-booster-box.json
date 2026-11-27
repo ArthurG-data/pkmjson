@@ -1,9 +1,11 @@
 {
   "id": "xy2-booster-box",
+  "uuid": "566bf9e3-ec2b-5bde-b26f-b17b4df42e2c",
   "region": "international",
   "set": "xy2",
   "category": "booster_box",
   "name": "Flashfire Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271943
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2bcfa746-578f-532d-9b0f-1c515b61c307",
       "name": "Flashfire Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

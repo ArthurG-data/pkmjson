@@ -1,9 +1,11 @@
 {
   "id": "sm2-elite-trainer-box",
+  "uuid": "c8995c98-7068-5ca9-a978-f2c4df135881",
   "region": "international",
   "set": "sm2",
   "category": "elite_trainer_box",
   "name": "Guardians Rising Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 296849
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6f453c6b-163e-5378-89b3-dd5b2e557329",
       "name": "Guardians Rising Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

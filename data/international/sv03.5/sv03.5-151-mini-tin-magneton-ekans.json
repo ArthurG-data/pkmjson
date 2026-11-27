@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-magneton-ekans",
+  "uuid": "2f39a037-62cc-5e77-b2da-2e51d1c65e4c",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Magneton & Ekans]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ead75baf-b814-5914-9b13-62baf61d7562",
       "name": "151 Mini Tin [Magneton & Ekans]",
       "identifiers": {
         "tcgplayerProductIds": [

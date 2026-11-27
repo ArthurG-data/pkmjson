@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-pin-collection-bulbasaur",
+  "uuid": "aade672c-b780-5b1d-b46e-82ceca2ee6c6",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Pin Collection [Bulbasaur]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 664333
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "951ee3be-efd7-58bf-9cd8-0d9e7fbe3e2f",
       "name": "Pokemon GO Pin Collection [Bulbasaur]",
       "releaseDate": "2022-09-02",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c5580fb0-41d2-5733-8260-aeb02757123a",
       "name": "Collection avec pin's Pokémon GO Bulbizarre",
       "releaseDate": "2022-10-28",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "46a82877-56f7-5fb5-bb73-ee5d1790c34a",
       "name": "Pokémon GO Pin Collection",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-pokemon-go"
@@ -58,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "0cd4efde-4dc7-5883-8a59-cd3b1d539b4e",
       "name": "Colección con pin de Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-pin-de-pokemon-go"

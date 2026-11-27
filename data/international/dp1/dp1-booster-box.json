@@ -1,9 +1,11 @@
 {
   "id": "dp1-booster-box",
+  "uuid": "135a4f64-12b2-5cf5-a068-caca7d0261bb",
   "region": "international",
   "set": "dp1",
   "category": "booster_box",
   "name": "Diamond and Pearl Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271900
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bab484f3-82cf-5306-a7b1-d9b61b482b57",
       "name": "Diamond and Pearl Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

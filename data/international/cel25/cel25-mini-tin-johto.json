@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-johto",
+  "uuid": "98d6b932-a9b8-5d9e-817d-8c40ca0580f4",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Johto]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc9a6389-8e6a-5cdd-859b-d13f93623594",
       "name": "Celebrations Mini Tin [Johto]",
       "identifiers": {
         "tcgplayerProductIds": [

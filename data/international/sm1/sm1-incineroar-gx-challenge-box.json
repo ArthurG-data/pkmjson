@@ -1,9 +1,11 @@
 {
   "id": "sm1-incineroar-gx-challenge-box",
+  "uuid": "adfbb4fa-d083-5d1a-a3ec-f6f2efa480fe",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Incineroar GX Challenge Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653288
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "791cd7e6-e43c-5cfe-9779-5d33820e73cf",
       "name": "Incineroar GX Challenge Box",
       "identifiers": {
         "tcgplayerProductIds": [

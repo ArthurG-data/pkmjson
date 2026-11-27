@@ -1,9 +1,11 @@
 {
   "id": "sv04-pokemon-center-elite-trainer-box-exclusive-roaring-moon",
+  "uuid": "a6f82058-58f0-548d-825a-9885635e82ff",
   "region": "international",
   "set": "sv04",
   "category": "elite_trainer_box",
   "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Roaring Moon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728728
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a62a6b9d-e627-52d3-9a82-4beb66fb2240",
       "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Roaring Moon]",
       "identifiers": {
         "tcgplayerProductIds": [

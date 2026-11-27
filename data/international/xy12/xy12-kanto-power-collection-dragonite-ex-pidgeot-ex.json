@@ -1,9 +1,11 @@
 {
   "id": "xy12-kanto-power-collection-dragonite-ex-pidgeot-ex",
+  "uuid": "01546c06-5cd3-5a2f-ae92-dae9eaa511f1",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Kanto Power Collection [Dragonite EX/Pidgeot EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a5145a1d-8e5d-5730-b06b-49634b50fa13",
       "name": "Kanto Power Collection [Dragonite EX/Pidgeot EX]",
       "identifiers": {
         "tcgplayerProductIds": [

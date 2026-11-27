@@ -1,15 +1,18 @@
 {
   "id": "xy10-shiny-kalos-tin-zygarde-ex",
+  "uuid": "1126d7e0-d3bf-50f3-a063-7ea6aa070d5e",
   "region": "international",
   "set": "xy10",
   "category": "tin",
   "name": "Shiny Kalos Tin [Zygarde EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ff06a802-967a-51e3-a0d6-c938550fb676",
       "name": "Shiny Kalos Tin [Zygarde EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d7302e7e-987d-55b5-997b-e9661bd8cc13",
       "name": "Boîte Kalos chromatique Zygarde",
       "releaseDate": "2016-06-12",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "svp-annihilape-ex-box",
+  "uuid": "de282f0d-2baf-55e7-962a-43b7e4f52944",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Annihilape ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc562a49-f78b-5626-81b6-b59929cdd980",
       "name": "Annihilape ex Box",
       "releaseDate": "2023-07-14",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "es",
+      "uuid": "82b8db73-4e29-5a1d-a652-c2bb31abe58d",
       "name": "Colección Annihilape ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-annihilape-ex"
@@ -47,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cd4fc102-f85b-5126-a078-5b6cc2314180",
       "name": "Coffret Courrousinge-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-courrousinge-ex"
@@ -54,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "89b07762-ca91-5f7b-a1d3-3d0c0500b4a4",
       "name": "Collezione Annihilape‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-annihilape-ex"
@@ -61,6 +67,7 @@
     },
     {
       "language": "de",
+      "uuid": "d7b83924-e044-5e6e-8152-a0494610f3af",
       "name": "Kollektion Epitaff‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-epitaff-ex"

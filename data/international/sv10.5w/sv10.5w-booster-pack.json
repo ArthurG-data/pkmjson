@@ -1,9 +1,11 @@
 {
   "id": "sv10.5w-booster-pack",
+  "uuid": "a273fc36-c3c4-5fe7-a921-f81091efae2f",
   "region": "international",
   "set": "sv10.5w",
   "category": "booster_pack",
   "name": "White Flare Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824087
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "08b77dea-f9c7-5c59-a64a-b16a8dac6552",
       "name": "Scarlet & Violet—White Flare",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "57a7e31a-edc8-5182-98ff-323ee1f56588",
       "name": "Écarlate et Violet – Flamme Blanche",
       "sources": [
         "https://www.pokepedia.fr/Collection_poster_Unys",
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "eb978d3f-e4af-53ed-a29f-d55a3149bb57",
       "name": "Scarlatto e Violetto - Fuoco Bianco",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-unima",
@@ -49,6 +54,7 @@
     },
     {
       "language": "de",
+      "uuid": "1b8f9a4d-9641-5cca-b34f-45702c064d94",
       "name": "Karmesin & Purpur – Weiße Flammen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-einall",
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "d7fd04b9-b9fb-569d-8e60-dfcf20ede946",
       "name": "Escarlata y Púrpura-Llama Blanca",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-teselia",

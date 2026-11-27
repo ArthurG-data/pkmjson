@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-premier-deck-holder-collection-dragonite-vstar",
+  "uuid": "92b7698c-7ad4-5405-84d5-c0b2bcaeaa53",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 664332
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f8378f9-9938-5df6-b742-ecf414cab14b",
       "name": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
       "releaseDate": "2022-09-30",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1a8d36e8-a8f3-5940-af76-77225209f14a",
       "name": "Collection Range-deck Honor Pokémon GO Dracolosse-VSTAR",
       "releaseDate": "2022-10-14",
       "sources": [

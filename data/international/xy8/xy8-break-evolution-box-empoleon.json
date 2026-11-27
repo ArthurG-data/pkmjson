@@ -1,15 +1,18 @@
 {
   "id": "xy8-break-evolution-box-empoleon",
+  "uuid": "af395934-fec3-533b-88e5-8320ccb941a9",
   "region": "international",
   "set": "xy8",
   "category": "collection_box",
   "name": "Break Evolution Box [Empoleon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5676354a-43fa-5e86-8e2b-3f3857de32b4",
       "name": "Break Evolution Box [Empoleon]",
       "identifiers": {
         "tcgplayerProductIds": [

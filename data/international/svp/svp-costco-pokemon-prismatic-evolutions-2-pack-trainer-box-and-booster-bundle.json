@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-prismatic-evolutions-2-pack-trainer-box-and-booster-bundle",
+  "uuid": "ee076e31-7ac9-5f7e-ae05-79cc194ad5e8",
   "region": "international",
   "set": "svp",
   "category": "booster_bundle",
   "name": "Costco Pokemon Prismatic Evolutions 2-Pack Trainer Box and Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 full-art foil promo card featuring Eevee; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2b3306e0-04ec-5e19-9eb3-fb96de70819d",
       "name": "Costco Pokemon Prismatic Evolutions 2-Pack Trainer Box and Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

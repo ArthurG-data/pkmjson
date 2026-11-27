@@ -1,9 +1,11 @@
 {
   "id": "s8b-booster-box",
+  "uuid": "b3bc6dbf-f56e-5e04-8a47-7a791211fcf4",
   "region": "asia",
   "set": "S8b",
   "category": "booster_box",
   "name": "VMAX Climax Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 576800
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "df211970-2ca2-5169-866d-e03389714714",
       "name": "VMAX Climax Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

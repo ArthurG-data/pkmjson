@@ -1,15 +1,18 @@
 {
   "id": "svp-play-pokemon-prize-pack-series-four",
+  "uuid": "ccff7323-b103-5948-b425-4c3e189bbe4b",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Play! Pokemon Prize Pack Series Four",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
   "releases": [
     {
       "language": "en",
+      "uuid": "118d4f83-87a1-55fd-9a9b-3ac59cdeee8c",
       "name": "Play! Pokemon Prize Pack Series Four",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/551628/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-four"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "567c8eda-2159-5b2c-8fed-85245f4bd563",
+      "name": "Pack Récompense Play! Pokémon Série 4",
+      "releaseDate": "2024-02-14",
+      "sources": [
+        "https://www.pokepedia.fr/Pack_R%C3%A9compense_Play%21_Pok%C3%A9mon_S%C3%A9rie_4"
       ]
     }
   ]

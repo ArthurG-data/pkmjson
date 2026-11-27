@@ -1,9 +1,11 @@
 {
   "id": "ex8-deoxys-booster-box",
+  "uuid": "8a55f0a2-e3c8-5f06-a6e3-739092a37481",
   "region": "international",
   "set": "ex8",
   "category": "booster_box",
   "name": "Deoxys Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271909
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e28d5669-b49f-579e-88be-52e8cade15ec",
       "name": "Deoxys Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,7 @@
     },
     {
       "language": "fr",
+      "uuid": "331bffd9-72b5-58e0-8719-60034edcc684",
       "name": "Coffret Deoxys",
       "contents": {
         "sealed": [

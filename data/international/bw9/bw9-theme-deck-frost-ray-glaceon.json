@@ -1,9 +1,11 @@
 {
   "id": "bw9-theme-deck-frost-ray-glaceon",
+  "uuid": "1e2bd498-8ba5-5b87-9d78-6710f95b6798",
   "region": "international",
   "set": "bw9",
   "category": "theme_deck",
   "name": "Plasma Freeze Theme Deck - \"Frost Ray\" [Glaceon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286560
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d422acb4-bf57-52eb-8669-0a0a7f5bd281",
       "name": "Plasma Freeze Theme Deck - \"Frost Ray\" [Glaceon]",
       "identifiers": {
         "tcgplayerProductIds": [

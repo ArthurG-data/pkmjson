@@ -1,9 +1,11 @@
 {
   "id": "sv4a-high-class-booster-box",
+  "uuid": "91c63ab4-2529-55d4-af73-51ac99a676f7",
   "region": "asia",
   "set": "SV4a",
   "category": "booster_box",
   "name": "Shiny Treasure ex High Class Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "aedb88a3-6cfe-5baf-83ac-3e0ffbdac303",
       "name": "Shiny Treasure ex High Class Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

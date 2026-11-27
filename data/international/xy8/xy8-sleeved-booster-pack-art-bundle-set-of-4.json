@@ -1,15 +1,18 @@
 {
   "id": "xy8-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "33165da8-0eec-5e5e-92ae-94bb6e075937",
   "region": "international",
   "set": "xy8",
   "category": "other",
   "name": "BREAKthrough Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "af82d057-923d-521f-bf8a-73cf69c5fe67",
       "name": "BREAKthrough Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

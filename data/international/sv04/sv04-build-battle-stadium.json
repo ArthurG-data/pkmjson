@@ -1,9 +1,11 @@
 {
   "id": "sv04-build-battle-stadium",
+  "uuid": "60bfaa1c-8165-59b7-82d2-1a896fb2b2bb",
   "region": "international",
   "set": "sv04",
   "category": "other",
   "name": "Paradox Rift Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "55140b43-9bb2-5500-a216-7961ed99beb4",
       "name": "Paradox Rift Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -55,6 +58,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f49e7e54-1741-545f-97aa-93346ed692f9",
       "name": "Stade Stratégies et Combats Écarlate et Violet – Faille Paradoxe",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-faille-paradoxe"
@@ -62,6 +66,7 @@
     },
     {
       "language": "es",
+      "uuid": "2c117cd9-1f1e-58ff-ada5-99fdbb9a4ea9",
       "name": "Estadio Combina y Combate de Escarlata y Púrpura-Brecha Paradójica",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-brecha-paradojica"

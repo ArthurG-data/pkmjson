@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-charizard-tin-mega-charizard-y",
+  "uuid": "c9713683-2d3b-5a40-86d9-4219ca6d6d96",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Mega Charizard Tin (Mega Charizard Y)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e1c3f797-272c-5019-bba4-d0a97375f437",
       "name": "Mega Charizard Tin (Mega Charizard Y)",
       "releaseDate": "2026-02-20",
       "identifiers": {

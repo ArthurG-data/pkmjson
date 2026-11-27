@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-kingdra-ex-special-illustration-collection",
+  "uuid": "581a5932-824a-5704-9b04-39d700c93af9",
   "region": "international",
   "set": "sv06.5",
   "category": "collection_box",
   "name": "Kingdra ex Special Illustration Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770968
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f435789b-8944-56dc-8ef9-aa1bccfacd8c",
       "name": "Kingdra ex Special Illustration Collection",
       "releaseDate": "2024-08-02",
       "identifiers": {

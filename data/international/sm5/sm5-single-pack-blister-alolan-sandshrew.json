@@ -1,9 +1,11 @@
 {
   "id": "sm5-single-pack-blister-alolan-sandshrew",
+  "uuid": "88731c3d-fc39-5a31-9576-c43a954b7985",
   "region": "international",
   "set": "sm5",
   "category": "blister",
   "name": "Ultra Prism Single Pack Blister [Alolan Sandshrew]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585980
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "33ef5e1f-c163-557f-8197-e4b867bcda30",
       "name": "Ultra Prism Single Pack Blister [Alolan Sandshrew]",
       "identifiers": {
         "tcgplayerProductIds": [

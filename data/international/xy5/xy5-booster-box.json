@@ -1,9 +1,11 @@
 {
   "id": "xy5-booster-box",
+  "uuid": "0b84f647-1c85-5048-ad63-ba9c68a92016",
   "region": "international",
   "set": "xy5",
   "category": "booster_box",
   "name": "XY Primal Clash Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271945
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b318178c-9d2e-5689-8b45-cc640e1fc55e",
       "name": "XY Primal Clash Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

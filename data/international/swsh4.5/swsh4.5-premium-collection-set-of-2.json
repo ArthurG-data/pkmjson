@@ -1,15 +1,18 @@
 {
   "id": "swsh4.5-premium-collection-set-of-2",
+  "uuid": "10105b53-23d8-549f-9b02-9eeeb7d684f4",
   "region": "international",
   "set": "swsh4.5",
   "category": "other",
   "name": "Shining Fates Premium Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: one foil promo card featuring either Shiny Crobat V or Shiny Dragapult V; one foil promo card; one foil oversize promo card featuring either Shiny Crobat VMAX or Shiny Dragapult VMAX; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "087a2583-ccc1-52f8-94ab-383300b60dcf",
       "name": "Shining Fates Premium Collection [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

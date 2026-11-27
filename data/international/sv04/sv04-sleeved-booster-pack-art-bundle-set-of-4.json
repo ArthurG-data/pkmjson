@@ -1,15 +1,18 @@
 {
   "id": "sv04-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "d7b2465b-72b1-5137-b041-151351f078a6",
   "region": "international",
   "set": "sv04",
   "category": "other",
   "name": "Paradox Rift Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d91d1f37-593d-50f3-8d9b-18cd21518663",
       "name": "Paradox Rift Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

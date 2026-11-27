@@ -1,15 +1,18 @@
 {
   "id": "swsh10.5-special-collection-set-of-3",
+  "uuid": "2ea7f0c2-4314-5d27-8580-c271c36554f0",
   "region": "international",
   "set": "swsh10.5",
   "category": "other",
   "name": "Pokemon GO Special Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 of each Special Collection; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "40f1a993-d166-5ede-ac8b-e5c606c56195",
       "name": "Pokemon GO Special Collection [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-divergent-powers-tin-hisuian-typhlosion-v",
+  "uuid": "0bbacad2-b899-506a-afce-90c381b66b78",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Divergent Powers Tin [Hisuian Typhlosion V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6bcc32cb-0ac8-5a6e-b5cc-21f0b96990a8",
       "name": "Divergent Powers Tin [Hisuian Typhlosion V]",
       "releaseDate": "2022-06-17",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "es",
+      "uuid": "361c9834-6ecb-5b81-8267-3cd2c0d897b2",
       "name": "Lata Poderes Divergentes",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-divergentes"
@@ -47,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d5590d7b-9550-567e-9d09-3c731ed03028",
       "name": "Boîte Puissances Divergentes",
       "releaseDate": "2022-06-17",
       "sources": [
@@ -55,6 +60,7 @@
     },
     {
       "language": "it",
+      "uuid": "dea555a9-72f9-57f8-ac49-34bc7438f7d0",
       "name": "Scatola da collezione Poteri Divergenti",
       "releaseDate": "2022-06-17",
       "sources": [

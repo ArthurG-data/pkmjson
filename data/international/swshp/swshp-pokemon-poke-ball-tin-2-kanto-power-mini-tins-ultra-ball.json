@@ -1,19 +1,17 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-2-kanto-power-mini-tins-ultra-ball",
+  "uuid": "0d8cc917-2b8d-5fb3-b036-d8d3bfbfff54",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin + 2 Kanto Power Mini Tins - Ultra Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
       {
         "name": "Pokemon coin",
-        "count": 1
-      },
-      {
-        "name": "Pokemon coin",
-        "count": 1
+        "count": 2
       },
       {
         "name": "Pokemon art card",
@@ -25,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e632eab1-1531-5474-b923-1b3418c8598e",
       "name": "Pokemon - Poke Ball Tin + 2 Kanto Power Mini Tins - Ultra Ball",
       "identifiers": {
         "tcgplayerProductIds": [

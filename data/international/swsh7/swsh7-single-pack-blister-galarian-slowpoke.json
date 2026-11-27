@@ -1,9 +1,11 @@
 {
   "id": "swsh7-single-pack-blister-galarian-slowpoke",
+  "uuid": "896ac35c-dd4f-52c8-919a-9e928813f694",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies Single Pack Blister [Galarian Slowpoke]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585711
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0a00ab4-6e5e-5da3-9611-749c4e1f1e2f",
       "name": "Evolving Skies Single Pack Blister [Galarian Slowpoke]",
       "releaseDate": "2021-08-27",
       "identifiers": {

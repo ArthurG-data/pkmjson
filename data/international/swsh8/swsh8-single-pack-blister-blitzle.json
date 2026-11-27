@@ -1,9 +1,11 @@
 {
   "id": "swsh8-single-pack-blister-blitzle",
+  "uuid": "73c2421d-c17f-5849-9d05-a0b142740623",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Fusion Strike Single Pack Blister [Blitzle]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585663
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "515bb0b5-c086-5a63-aef6-c98fc805deeb",
       "name": "Fusion Strike Single Pack Blister [Blitzle]",
       "identifiers": {
         "tcgplayerProductIds": [

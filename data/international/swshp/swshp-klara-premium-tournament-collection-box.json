@@ -1,9 +1,11 @@
 {
   "id": "swshp-klara-premium-tournament-collection-box",
+  "uuid": "e4d2f2d7-7faa-5d2f-bb29-05af75a6756e",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Klara Premium Tournament Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a36f8b98-7a12-561b-8961-dddfd53705b5",
       "name": "Klara Premium Tournament Collection Box",
       "releaseDate": "2023-03-24",
       "identifiers": {

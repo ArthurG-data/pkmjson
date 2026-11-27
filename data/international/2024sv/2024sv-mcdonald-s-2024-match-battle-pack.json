@@ -1,15 +1,18 @@
 {
   "id": "2024sv-mcdonald-s-2024-match-battle-pack",
+  "uuid": "3d84e692-34c8-58d7-9402-72ec456fd474",
   "region": "international",
   "set": "2024sv",
   "category": "other",
   "name": "McDonald's 2024 Match & Battle Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "75776c95-3395-50af-9688-0d9c94823d0b",
       "name": "McDonald's 2024 Match & Battle Pack",
       "identifiers": {
         "tcgplayerProductIds": [

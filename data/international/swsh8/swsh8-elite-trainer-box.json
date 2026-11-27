@@ -1,9 +1,11 @@
 {
   "id": "swsh8-elite-trainer-box",
+  "uuid": "5245b187-108d-5787-8455-96ff91a40173",
   "region": "international",
   "set": "swsh8",
   "category": "elite_trainer_box",
   "name": "Fusion Strike Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 574593
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c6d0065-e50c-5684-b9cc-e535f834e68f",
       "name": "Fusion Strike Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -70,6 +73,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bfd98ec6-6963-5f83-ad32-9803b24da2fd",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Poing de Fusion",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Poing_de_Fusion"
@@ -77,6 +81,7 @@
     },
     {
       "language": "de",
+      "uuid": "5d82aace-8fea-52eb-9d67-abb18fbfeb9c",
       "name": "Top-Trainer-Box Schwert & Schild – Fusionsangriff",
       "releaseDate": "2021-11-12",
       "sources": [
@@ -85,6 +90,7 @@
     },
     {
       "language": "es",
+      "uuid": "99af8c87-5fae-52ec-86f0-2a9d5331e2bb",
       "name": "Caja de Entrenador Élite de Espada y Escudo-Golpe Fusión",
       "releaseDate": "2021-11-19",
       "sources": [

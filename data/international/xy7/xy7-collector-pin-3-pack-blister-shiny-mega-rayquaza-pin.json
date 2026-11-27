@@ -1,9 +1,11 @@
 {
   "id": "xy7-collector-pin-3-pack-blister-shiny-mega-rayquaza-pin",
+  "uuid": "9338eb7f-e6a4-51aa-9a78-52c712583015",
   "region": "international",
   "set": "xy7",
   "category": "blister",
   "name": "Ancient Origins Collector Pin 3 Pack Blister [Shiny Mega Rayquaza Pin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "291eddf0-c8db-5f8f-977a-ca521b316686",
       "name": "Ancient Origins Collector Pin 3 Pack Blister [Shiny Mega Rayquaza Pin]",
       "identifiers": {
         "tcgplayerProductIds": [

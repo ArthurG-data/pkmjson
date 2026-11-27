@@ -1,15 +1,18 @@
 {
   "id": "sv05-pokemon-center-elite-trainer-box-case-exclusive-iron-leaves",
+  "uuid": "bd91b864-6080-587a-9643-2d9f89980847",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces Pokemon Center Elite Trainer Box Case (Exclusive) [Iron Leaves]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c6d14714-2c62-59cd-a9ff-5a277c2352f9",
       "name": "Temporal Forces Pokemon Center Elite Trainer Box Case (Exclusive) [Iron Leaves]",
       "identifiers": {
         "tcgplayerProductIds": [

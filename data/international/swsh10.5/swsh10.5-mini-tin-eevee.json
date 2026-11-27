@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-mini-tin-eevee",
+  "uuid": "120c354c-8b9a-5a62-962c-68069731d863",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Mini Tin [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653714
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8fcea6cb-8d2c-50f7-b145-59cd8fc1067d",
       "name": "Pokemon GO Mini Tin [Eevee]",
       "releaseDate": "2022-08-05",
       "identifiers": {
@@ -37,6 +40,7 @@
     },
     {
       "language": "es",
+      "uuid": "f71a28de-871a-5f7e-bee8-75c1712a6c93",
       "name": "Minilata Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-pokemon-go"
@@ -44,6 +48,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ced6d258-f324-506b-a587-e8b60de7c905",
       "name": "Mini-boîte Pokémon GO",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-pokemon-go"

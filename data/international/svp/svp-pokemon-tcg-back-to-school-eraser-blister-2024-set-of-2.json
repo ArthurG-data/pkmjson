@@ -1,15 +1,18 @@
 {
   "id": "svp-pokemon-tcg-back-to-school-eraser-blister-2024-set-of-2",
+  "uuid": "f0ad610c-5fdf-55a6-93ce-6e6b1b2dbca8",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "677f4956-af60-55c8-a947-9ddfdfe1d66b",
       "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Set of 2]",
       "releaseDate": "2024-07-05",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-mini-tin-hop-wooloo",
+  "uuid": "471365fd-6588-5397-a776-6c1270cb518a",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Mini Tin [Hop & Wooloo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683015
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9413d9c-4f4d-5a3f-9697-cfeb964d7984",
       "name": "Crown Zenith Mini Tin [Hop & Wooloo]",
       "releaseDate": "2023-02-17",
       "identifiers": {

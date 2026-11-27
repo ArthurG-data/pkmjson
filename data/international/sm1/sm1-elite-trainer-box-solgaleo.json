@@ -1,9 +1,11 @@
 {
   "id": "sm1-elite-trainer-box-solgaleo",
+  "uuid": "91ad7337-51c2-5d91-a4e2-5a4e42fa7570",
   "region": "international",
   "set": "sm1",
   "category": "elite_trainer_box",
   "name": "Sun & Moon Elite Trainer Box [Solgaleo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 294123
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "97b3d993-ac82-56b6-9862-e86d33794eab",
       "name": "Sun & Moon Elite Trainer Box [Solgaleo]",
       "identifiers": {
         "tcgplayerProductIds": [

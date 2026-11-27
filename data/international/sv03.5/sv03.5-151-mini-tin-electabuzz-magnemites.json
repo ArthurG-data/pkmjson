@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-electabuzz-magnemites",
+  "uuid": "67ccd261-7a57-5b40-bc34-fb59fc6a45db",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Electabuzz & Magnemites]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd7e2a06-6c4c-5541-a477-49c895575814",
       "name": "151 Mini Tin [Electabuzz & Magnemites]",
       "identifiers": {
         "tcgplayerProductIds": [

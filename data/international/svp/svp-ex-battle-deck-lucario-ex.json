@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-lucario-ex",
+  "uuid": "207a480d-f061-55b9-85e3-cec6cad1ea9c",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Lucario ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ec46e35-2031-525f-a90f-cd9415625ef7",
       "name": "ex Battle Deck [Lucario ex]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "es",
+      "uuid": "f763cec8-1d46-5d7c-bc94-8b238a0ffc54",
       "name": "Baraja Combate ex de Ampharos ex y baraja Combate ex de Lucario ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-ex-de-ampharos-ex-y-baraja-combate-ex-de-lucario-ex"
@@ -65,6 +69,7 @@
     },
     {
       "language": "it",
+      "uuid": "007b9e41-e04f-5384-bf3a-e5ae6f166d0d",
       "name": "Mazzo Lotte ex Ampharos-ex e Mazzo Lotte ex Lucario-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-ex-ampharos-ex-e-mazzo-lotte-ex-lucario-ex"
@@ -72,6 +77,7 @@
     },
     {
       "language": "de",
+      "uuid": "bc535988-89e2-5d4c-af04-c1fb0d500890",
       "name": "Kampfdeck Ampharos-ex und Lucario-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-ampharos-ex-und-lucario-ex"
@@ -79,6 +85,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ab9fd4ca-175b-57bf-ab5d-1dc61e3c42a9",
       "name": "Deck Combat – Pharamp-ex et Deck Combat – Lucario-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-pharamp-ex-et-deck-combat-lucario-ex"

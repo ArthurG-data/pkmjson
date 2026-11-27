@@ -1,15 +1,18 @@
 {
   "id": "bw3-prime-challenge-box-umbreon",
+  "uuid": "273510f7-38bd-559f-b1a0-5d78892aa647",
   "region": "international",
   "set": "bw3",
   "category": "collection_box",
   "name": "Prime Challenge Box [Umbreon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "23f74ae8-393e-5ec6-94c3-4823bf04d906",
       "name": "Prime Challenge Box [Umbreon]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "neo1-theme-deck-hotfoot",
+  "uuid": "923dffa6-f597-52f4-97c8-abbf8e99dbf4",
   "region": "international",
   "set": "neo1",
   "category": "theme_deck",
   "name": "Neo Genesis Theme Deck - \"Hotfoot\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286564
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "95068e56-5cd4-51db-bd58-1875292638e3",
       "name": "Neo Genesis Theme Deck - \"Hotfoot\"",
       "identifiers": {
         "tcgplayerProductIds": [

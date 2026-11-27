@@ -1,9 +1,11 @@
 {
   "id": "dp7-booster-box",
+  "uuid": "3de4ab1d-774e-5c2e-88db-5066a48d5886",
   "region": "international",
   "set": "dp7",
   "category": "booster_box",
   "name": "Stormfront Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271906
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "32aaa05e-7dca-57f3-8bcb-2e2f5cb9677b",
       "name": "Stormfront Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

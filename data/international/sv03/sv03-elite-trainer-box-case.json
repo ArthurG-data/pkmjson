@@ -1,9 +1,11 @@
 {
   "id": "sv03-elite-trainer-box-case",
+  "uuid": "17718bb5-e698-589c-b1a8-63cd0306fc93",
   "region": "international",
   "set": "sv03",
   "category": "case",
   "name": "Obsidian Flames Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715778
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cc0b1caa-e35c-5c24-896c-719f5d42b6ba",
       "name": "Obsidian Flames Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

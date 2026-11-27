@@ -1,9 +1,11 @@
 {
   "id": "sm8-theme-deck-blazing-volcano-entei",
+  "uuid": "9a83e084-2fda-5446-b86a-7eb74ec58109",
   "region": "international",
   "set": "sm8",
   "category": "theme_deck",
   "name": "Lost Thunder Theme Deck - \"Blazing Volcano\" [Entei]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 363377
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6cac7c1e-6bc3-5533-9645-d2d7385892bf",
       "name": "Lost Thunder Theme Deck - \"Blazing Volcano\" [Entei]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sm1-legends-of-alola-tin-lunala-gx",
+  "uuid": "57d6f39c-f7a5-5f06-a4ec-f0368662ca1a",
   "region": "international",
   "set": "sm1",
   "category": "tin",
   "name": "Legends of Alola Tin [Lunala GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "aade3b7d-354f-5417-aeac-e32e7afa5424",
       "name": "Legends of Alola Tin [Lunala GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "37b9ae20-a020-5f0c-8d23-e2b01b76757c",
       "name": "Boîte Légendes d'Alola Lunala",
       "releaseDate": "2017-03-18",
       "sources": [

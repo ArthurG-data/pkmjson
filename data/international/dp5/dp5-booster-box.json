@@ -1,9 +1,11 @@
 {
   "id": "dp5-booster-box",
+  "uuid": "df814062-f961-5fa0-98fa-3e76a46843f5",
   "region": "international",
   "set": "dp5",
   "category": "booster_box",
   "name": "Majestic Dawn Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271903
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3cd84d75-e06a-5e89-bea1-d65c51ee45a9",
       "name": "Majestic Dawn Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

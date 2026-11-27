@@ -1,15 +1,18 @@
 {
   "id": "xy10-ash-greninja-ex-box",
+  "uuid": "56c7e24d-28cd-5f66-876c-20a6a3671f4d",
   "region": "international",
   "set": "xy10",
   "category": "collection_box",
   "name": "Ash-Greninja EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2c2f5ade-8384-5d8d-8231-7c4f6ef9c919",
       "name": "Ash-Greninja EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2967f07b-0085-55b6-85d3-8f3f4c4add41",
       "name": "Coffret Sachanobi",
       "releaseDate": "2016-09-07",
       "contents": {

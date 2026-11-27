@@ -1,9 +1,11 @@
 {
   "id": "swshp-fall-2020-collector-s-chest-tin-great-ball-2-pack-retail-exclusive",
+  "uuid": "95e04d05-1e9f-5482-b8ab-bd6622a8fcd6",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Fall 2020 Collector's Chest Tin + Great Ball 2-Pack (Retail Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -63,6 +65,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6e4a8e29-44e4-58c4-831a-402bdffefc3d",
       "name": "Fall 2020 Collector's Chest Tin + Great Ball 2-Pack (Retail Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy1-sylveon-collection",
+  "uuid": "591438bf-3a42-5324-9993-b57f66a2af3f",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Sylveon Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4a92a1c-f1d3-5515-aa6c-9b8e39992ade",
       "name": "Sylveon Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "fr",
+      "uuid": "66cdbfac-1ef4-5346-9c18-c4e59b7ab185",
       "name": "Collection Nymphali",
       "releaseDate": "2014-04-12",
       "sources": [

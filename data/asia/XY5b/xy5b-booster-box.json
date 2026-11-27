@@ -1,15 +1,18 @@
 {
   "id": "xy5b-booster-box",
+  "uuid": "2d1b1365-87df-5374-8c13-49df03cfa732",
   "region": "asia",
   "set": "XY5b",
   "category": "booster_box",
   "name": "Tidal Storm Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "8ea53365-9c82-5a77-9d28-b46f532deefa",
       "name": "Tidal Storm Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "bw5-booster-box",
+  "uuid": "9baba48b-f269-53c9-9115-5cdc320b7e17",
   "region": "international",
   "set": "bw5",
   "category": "booster_box",
   "name": "Dark Explorers Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271892
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "80ae723a-d5b8-531a-b8c2-55ef9afec69c",
       "name": "Dark Explorers Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

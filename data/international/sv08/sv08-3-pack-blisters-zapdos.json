@@ -1,9 +1,11 @@
 {
   "id": "sv08-3-pack-blisters-zapdos",
+  "uuid": "993049fd-677e-5203-801a-d9e0b6ee8d5d",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks 3 Pack Blisters [Zapdos]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784958
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4a8140f-aa57-5446-bead-5a9ce5f9f14e",
       "name": "Surging Sparks 3 Pack Blisters [Zapdos]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "80e73f1e-0b4f-5003-ad5b-78b1596aa5d7",
       "name": "Tripack EV08 Électhor",
       "releaseDate": "2024-11-08",
       "sources": [

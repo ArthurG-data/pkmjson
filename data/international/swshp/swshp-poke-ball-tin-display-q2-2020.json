@@ -1,15 +1,18 @@
 {
   "id": "swshp-poke-ball-tin-display-q2-2020",
+  "uuid": "19ea3a1f-b7bc-5c8b-805c-852665ea0da4",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Poke Ball Tin Display (Q2 2020)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "51ea3827-04fd-578b-a351-7af1705bdd0b",
       "name": "Poke Ball Tin Display (Q2 2020)",
       "identifiers": {
         "tcgplayerProductIds": [

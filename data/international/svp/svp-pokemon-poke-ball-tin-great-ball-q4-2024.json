@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-great-ball-q4-2024",
+  "uuid": "d3bdea8e-6c73-5d06-9346-5802a681c471",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Great Ball (Q4 2024)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d83b20da-7aaa-5935-98b1-27fbe192771c",
       "name": "Pokemon - Poke Ball Tin - Great Ball (Q4 2024)",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "it",
+      "uuid": "0ff997ac-d4cc-5f14-a39c-babc3b3924ca",
       "name": "Scatola da collezione Poké Ball (autunno 2024)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-autunno-2024"

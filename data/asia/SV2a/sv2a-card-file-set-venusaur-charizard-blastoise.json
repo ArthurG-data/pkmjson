@@ -1,9 +1,11 @@
 {
   "id": "sv2a-card-file-set-venusaur-charizard-blastoise",
+  "uuid": "2f6df2f6-a7fa-5a38-ae24-91bb3d993cd3",
   "region": "asia",
   "set": "SV2a",
   "category": "other",
   "name": "Pokemon Card 151 Card File Set - Venusaur, Charizard, Blastoise",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2acc46ee-2413-592d-8ace-ce212345b88d",
       "name": "Pokemon Card 151 Card File Set - Venusaur, Charizard, Blastoise",
       "identifiers": {
         "tcgplayerProductIds": [

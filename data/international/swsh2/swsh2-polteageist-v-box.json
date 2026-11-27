@@ -1,9 +1,11 @@
 {
   "id": "swsh2-polteageist-v-box",
+  "uuid": "7820e0a7-fefc-5e2b-a15b-e30d9aa57487",
   "region": "international",
   "set": "swsh2",
   "category": "collection_box",
   "name": "Polteageist V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8d234295-e56e-5096-9317-3bdd9e278abf",
       "name": "Polteageist V Box",
       "releaseDate": "2020-05-01",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "930ec568-1ca1-5143-a05e-ec7c41cdae2b",
       "name": "Coffret Polthégeist",
       "releaseDate": "2020-05-01",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "de",
+      "uuid": "d441c67a-b544-5c6a-bd9e-e4484380087c",
       "name": "Kollektion Mortipot-V",
       "releaseDate": "2020-05-01",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "5e25969c-ca3e-5efa-bf6d-50245a0c0c6b",
       "name": "Collezione Polteageist-V",
       "releaseDate": "2020-05-01",
       "sources": [

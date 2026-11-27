@@ -1,15 +1,18 @@
 {
   "id": "me02.5-collection-set-of-2",
+  "uuid": "92cc63ba-f05f-5718-8191-d4c1eef6a040",
   "region": "international",
   "set": "me02.5",
   "category": "other",
   "name": "Mega Evolution: Ascended Heroes Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Erika’s Tangela or Larry’s Komala; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8e8a4475-7356-527a-bba4-b87c2de78232",
       "name": "Mega Evolution: Ascended Heroes Collection [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

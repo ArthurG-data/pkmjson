@@ -1,9 +1,11 @@
 {
   "id": "swshp-pikachu-v-showcase",
+  "uuid": "744aa531-49f8-5a84-9034-f784c3e8c939",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pikachu V Showcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c8b9420b-e1cb-54a7-a7b7-130996b390da",
       "name": "Pikachu V Showcase",
       "releaseDate": "2022-03-25",
       "identifiers": {

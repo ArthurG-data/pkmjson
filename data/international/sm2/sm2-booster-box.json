@@ -1,9 +1,11 @@
 {
   "id": "sm2-booster-box",
+  "uuid": "1b692d8e-2541-51e1-9172-a3dfb75e119c",
   "region": "international",
   "set": "sm2",
   "category": "booster_box",
   "name": "Guardians Rising Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 296850
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f5c1807-011e-5554-9b73-6eea73739107",
       "name": "Guardians Rising Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

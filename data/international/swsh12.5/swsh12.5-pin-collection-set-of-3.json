@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-pin-collection-set-of-3",
+  "uuid": "974b999b-6791-59b3-8ab7-b64e77d79a98",
   "region": "international",
   "set": "swsh12.5",
   "category": "other",
   "name": "Crown Zenith Pin Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Rillaboom, Cinderace, or Inteleon; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c3243baa-8933-5a9b-895b-c5595ad32595",
       "name": "Crown Zenith Pin Collection [Set of 3]",
       "releaseDate": "2023-04-14",
       "identifiers": {

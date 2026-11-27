@@ -1,9 +1,11 @@
 {
   "id": "bw10-booster-box",
+  "uuid": "27c96936-8b27-5829-8a62-df303e807c39",
   "region": "international",
   "set": "bw10",
   "category": "booster_box",
   "name": "Plasma Blast Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271898
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "63db374a-a4ff-5bc7-bfc4-3364aefa88d0",
       "name": "Plasma Blast Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

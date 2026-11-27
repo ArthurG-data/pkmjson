@@ -1,9 +1,11 @@
 {
   "id": "swsh4-premium-checklane-blister-appletun",
+  "uuid": "ec75c0d0-30aa-5364-a7fe-31af07e15ba2",
   "region": "international",
   "set": "swsh4",
   "category": "blister",
   "name": "Vivid Voltage Premium Checklane Blister [Appletun]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e612937-7fa0-5314-a49f-558cf3f2d83b",
       "name": "Vivid Voltage Premium Checklane Blister [Appletun]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh1-booster-box",
+  "uuid": "2f17e0d3-cf35-5c8a-b4ca-c1bb275b4686",
   "region": "international",
   "set": "swsh1",
   "category": "booster_box",
   "name": "Sword & Shield Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 427146
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3af60ba8-9d9e-5d24-9d31-981ae1e035d7",
       "name": "Sword & Shield Booster Box",
       "releaseDate": "2020-02-07",
       "identifiers": {

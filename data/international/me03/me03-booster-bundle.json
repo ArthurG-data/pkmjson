@@ -1,9 +1,11 @@
 {
   "id": "me03-booster-bundle",
+  "uuid": "c69ab0cc-1264-55ad-8589-f5452cbaa2ed",
   "region": "international",
   "set": "me03",
   "category": "booster_bundle",
   "name": "Perfect Order Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 865404
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "57ae24c2-d3f6-5401-a246-6e571fe9f51a",
       "name": "Perfect Order Booster Bundle",
       "releaseDate": "2026-03-27",
       "identifiers": {

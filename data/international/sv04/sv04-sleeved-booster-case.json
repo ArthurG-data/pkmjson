@@ -1,9 +1,11 @@
 {
   "id": "sv04-sleeved-booster-case",
+  "uuid": "a956621f-58fc-59a1-9a4c-9d85bc232891",
   "region": "international",
   "set": "sv04",
   "category": "case",
   "name": "Paradox Rift Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 729188
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d4cd9d9-b745-5348-b4c6-5d86fa666821",
       "name": "Paradox Rift Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

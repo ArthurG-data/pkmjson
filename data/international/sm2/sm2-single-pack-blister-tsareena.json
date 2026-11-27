@@ -1,9 +1,11 @@
 {
   "id": "sm2-single-pack-blister-tsareena",
+  "uuid": "962fa429-0ee6-581e-bccc-90d29dc783dd",
   "region": "international",
   "set": "sm2",
   "category": "blister",
   "name": "Guardians Rising Single Pack Blister [Tsareena]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586002
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf6ec2a7-6709-5b74-b0cc-0df76d07fe81",
       "name": "Guardians Rising Single Pack Blister [Tsareena]",
       "identifiers": {
         "tcgplayerProductIds": [

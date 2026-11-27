@@ -1,9 +1,11 @@
 {
   "id": "sv6-booster-pack",
+  "uuid": "37b0e562-a453-5698-a0b2-522984decc56",
   "region": "asia",
   "set": "SV6",
   "category": "booster_pack",
   "name": "Transformation Mask Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3a3800ab-b5b9-5070-844b-44eee1823b07",
       "name": "拡張パック 「変幻の仮面」",
       "releaseDate": "2024-04-26",
       "identifiers": {

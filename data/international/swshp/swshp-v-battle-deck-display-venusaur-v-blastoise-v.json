@@ -1,15 +1,18 @@
 {
   "id": "swshp-v-battle-deck-display-venusaur-v-blastoise-v",
+  "uuid": "cf6b2b7c-5471-50ba-989f-cf7c7c3ec3b4",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "V Battle Deck Display [Venusaur V/Blastoise V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f243290c-65c4-5369-85b7-efa050466970",
       "name": "V Battle Deck Display [Venusaur V/Blastoise V]",
       "identifiers": {
         "tcgplayerProductIds": [

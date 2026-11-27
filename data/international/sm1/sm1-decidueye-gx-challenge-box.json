@@ -1,9 +1,11 @@
 {
   "id": "sm1-decidueye-gx-challenge-box",
+  "uuid": "47efb734-c00d-5b5e-a847-81b19c59ae17",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Decidueye GX Challenge Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653287
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a411e1c7-8084-582b-8878-9efb003fa268",
       "name": "Decidueye GX Challenge Box",
       "identifiers": {
         "tcgplayerProductIds": [

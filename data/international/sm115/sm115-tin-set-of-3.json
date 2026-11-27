@@ -1,15 +1,18 @@
 {
   "id": "sm115-tin-set-of-3",
+  "uuid": "46fc5040-adf7-56f5-8961-9c9f8e0d5bff",
   "region": "international",
   "set": "sm115",
   "category": "other",
   "name": "Hidden Fates Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Charizard GX; Gyarados GX; Raichu GX; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ee0ff10b-e258-5c25-8f8d-72bf6d957fcd",
       "name": "Hidden Fates Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

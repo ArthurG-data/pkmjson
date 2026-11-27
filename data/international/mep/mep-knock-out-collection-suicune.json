@@ -1,9 +1,11 @@
 {
   "id": "mep-knock-out-collection-suicune",
+  "uuid": "0894800c-ae77-573c-882d-c4486549d370",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Knock Out Collection [Suicune]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cea4de6f-842e-544b-bd28-52544f386201",
       "name": "Knock Out Collection [Suicune]",
       "identifiers": {
         "tcgplayerProductIds": [

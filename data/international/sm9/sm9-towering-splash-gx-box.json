@@ -1,9 +1,11 @@
 {
   "id": "sm9-towering-splash-gx-box",
+  "uuid": "6cb96504-a575-5abe-a8e3-2d881fdc449c",
   "region": "international",
   "set": "sm9",
   "category": "collection_box",
   "name": "Towering Splash GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa226b05-dfb5-5f55-bb29-9812d2898b98",
       "name": "Towering Splash GX Box",
       "releaseDate": "2019-01-04",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "fr",
+      "uuid": "20a866fd-9853-5155-a91a-f8fb90d0aec1",
       "name": "Coffret Éclaboussure Imposante-GX",
       "releaseDate": "2019-01-04",
       "sources": [
@@ -38,6 +42,7 @@
     },
     {
       "language": "it",
+      "uuid": "46248315-7d72-561c-a966-57ff9058f6a3",
       "name": "Collezione Splash Anomalo-GX",
       "releaseDate": "2019-01-04",
       "sources": [
@@ -46,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "a46fcf08-421a-59da-b3ba-43e3b401847f",
       "name": "Kollektion Turmhoher Platscher-GX",
       "releaseDate": "2019-01-04",
       "sources": [
@@ -54,6 +60,7 @@
     },
     {
       "language": "es",
+      "uuid": "6de7e905-df5a-5b13-8105-3677a3b0c420",
       "name": "Colección Salpicadura Imponente-GX",
       "releaseDate": "2019-01-04",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "mep-lumiose-city-mini-tin-display-case",
+  "uuid": "a4213189-bdf6-5935-98d2-3297d0eca9f9",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Lumiose City Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Case contains 4 Displays; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "26cc1c41-e62c-58a2-809c-2187acdbca81",
       "name": "Lumiose City Mini Tin Display Case",
       "releaseDate": "2026-06-05",
       "identifiers": {

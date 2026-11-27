@@ -1,9 +1,11 @@
 {
   "id": "s8-booster-pack",
+  "uuid": "10178798-1423-5238-8cff-1a0d84c76c60",
   "region": "asia",
   "set": "S8",
   "category": "booster_pack",
   "name": "Fusion Arts Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 573598
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "09ac55ec-dd5a-5338-9bab-2068ae46efad",
       "name": "拡張パック「フュージョンアーツ」",
       "releaseDate": "2021-09-24",
       "identifiers": {

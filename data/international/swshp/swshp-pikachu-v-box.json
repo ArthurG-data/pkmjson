@@ -1,9 +1,11 @@
 {
   "id": "swshp-pikachu-v-box",
+  "uuid": "fe0228c4-7684-5a72-a07a-656489d6c55f",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Pikachu V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "203acfce-1c9e-5d15-8bfe-332f666d0674",
       "name": "Pikachu V Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -43,6 +46,7 @@
     },
     {
       "language": "de",
+      "uuid": "b167e7fe-40e1-5d7b-a0be-983578ae917f",
       "name": "Kollektion Pikachu-V",
       "releaseDate": "2022-03-25",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "es",
+      "uuid": "5795c11b-820f-5fb6-87bd-ed3330b6a57c",
       "name": "Colección Pikachu V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-pikachu-v"
@@ -58,6 +63,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3a962454-cc3b-5331-ab85-1b14e9a4de73",
       "name": "Coffret Pikachu-V",
       "releaseDate": "2022-03-25",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-kangaskhan-ex",
+  "uuid": "da148786-0c95-5b82-b932-e4bdbc6eeb10",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Kangaskhan ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1e90cc2c-1a31-57ab-b605-05c23a8347e7",
       "name": "ex Battle Deck [Kangaskhan ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -57,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "2778caf3-7984-51fa-9767-fd7125be80d9",
       "name": "Kampfdeck Kangama‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-kangama-ex-kampfdeck-quajutsu-ex"
@@ -64,6 +68,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6febc136-40b8-5794-ad90-a309b123231c",
       "name": "Deck Combat Kangourex-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-kangourex-ex-deck-combat-amphinobi-ex"

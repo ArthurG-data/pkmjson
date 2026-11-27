@@ -1,15 +1,18 @@
 {
   "id": "svd-ex-start-deck-water-gekkouga",
+  "uuid": "0037f58d-6ea6-5ecf-bb0f-3feecbdee5fc",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Water Gekkouga",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "93a4d8b5-04a2-5eda-85c2-b22878e34119",
       "name": "ex Start Deck Water Gekkouga",
       "identifiers": {
         "tcgplayerProductIds": [

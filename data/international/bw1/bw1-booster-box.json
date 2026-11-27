@@ -1,9 +1,11 @@
 {
   "id": "bw1-booster-box",
+  "uuid": "00300766-3cc9-58a1-8470-08f22aab41b9",
   "region": "international",
   "set": "bw1",
   "category": "booster_box",
   "name": "Black and White Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271891
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc6aaf24-1e24-537a-bcb0-dfa4063f74b2",
       "name": "Black and White Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

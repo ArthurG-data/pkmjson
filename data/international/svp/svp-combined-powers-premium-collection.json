@@ -1,9 +1,11 @@
 {
   "id": "svp-combined-powers-premium-collection",
+  "uuid": "19f37cae-4574-5582-bd22-e17b10dda7b4",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Combined Powers Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0a13a394-2fdd-5f64-bf50-dfa89f9c83b0",
       "name": "Combined Powers Premium Collection",
       "releaseDate": "2024-02-23",
       "identifiers": {

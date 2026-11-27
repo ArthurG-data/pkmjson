@@ -1,9 +1,11 @@
 {
   "id": "swshp-knock-out-collection-toxtricity-duraludon-sandaconda",
+  "uuid": "cd286fe1-1d94-5395-bc39-623982fcd7fd",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Knock Out Collection [Toxtricity, Duraludon, Sandaconda]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a3a91f11-7521-55fa-bb29-9c4f607ba5c7",
       "name": "Knock Out Collection [Toxtricity, Duraludon, Sandaconda]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "mep-aegislash-ex-box-eu-exclusive",
+  "uuid": "bddc2bbf-ae43-5c43-aeb9-a0c6a3e55208",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Aegislash ex Box (EU Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "665e0a95-7b4d-5688-9399-86519ed3c7f7",
       "name": "Aegislash ex Box (EU Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

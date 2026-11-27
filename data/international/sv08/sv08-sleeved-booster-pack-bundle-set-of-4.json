@@ -1,15 +1,18 @@
 {
   "id": "sv08-sleeved-booster-pack-bundle-set-of-4",
+  "uuid": "6b14c1aa-f968-52aa-bf4b-230fdcaa8144",
   "region": "international",
   "set": "sv08",
   "category": "other",
   "name": "Surging Sparks Sleeved Booster Pack Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c7de4962-b521-55a4-8bce-b0dca3c9a692",
       "name": "Surging Sparks Sleeved Booster Pack Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

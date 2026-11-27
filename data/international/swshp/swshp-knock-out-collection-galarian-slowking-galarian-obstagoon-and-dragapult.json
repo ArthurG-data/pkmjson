@@ -1,9 +1,11 @@
 {
   "id": "swshp-knock-out-collection-galarian-slowking-galarian-obstagoon-and-dragapult",
+  "uuid": "acc92782-296f-5847-bd0e-575bfbc24894",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Knock Out Collection [Galarian Slowking, Galarian Obstagoon, and Dragapult]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "682fcf53-2d22-5f7b-b00d-765d1fbe1480",
       "name": "Knock Out Collection [Galarian Slowking, Galarian Obstagoon, and Dragapult]",
       "identifiers": {
         "tcgplayerProductIds": [

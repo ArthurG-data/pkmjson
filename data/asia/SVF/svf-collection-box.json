@@ -1,15 +1,18 @@
 {
   "id": "svf-collection-box",
+  "uuid": "48736b75-3772-5504-ad2f-fde699a1741b",
   "region": "asia",
   "set": "SVF",
   "category": "collection_box",
   "name": "Ruler of the Black Flame Deck Build Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "8cd4c166-e0d3-5184-98fe-903b11a6778b",
       "name": "Ruler of the Black Flame Deck Build Box",
       "identifiers": {
         "tcgplayerProductIds": [

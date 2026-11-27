@@ -1,15 +1,18 @@
 {
   "id": "dc1-team-aqua-blister",
+  "uuid": "22aa6804-56ed-5c05-b0b7-03586dd8c158",
   "region": "international",
   "set": "dc1",
   "category": "blister",
   "name": "Double Crisis: Team Aqua Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "44830e11-1f89-5fd7-8023-049302884478",
       "name": "Double Crisis: Team Aqua Blister",
       "identifiers": {
         "tcgplayerProductIds": [

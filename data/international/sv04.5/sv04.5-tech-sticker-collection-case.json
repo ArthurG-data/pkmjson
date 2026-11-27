@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-tech-sticker-collection-case",
+  "uuid": "80e30153-090a-54de-b9a5-54b368d6c23b",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Tech Sticker Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "852ef86b-213f-5631-8419-034c9f31e3ba",
       "name": "Paldean Fates Tech Sticker Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

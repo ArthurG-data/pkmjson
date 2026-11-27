@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-eternatus-v",
+  "uuid": "0910b5ef-b9c9-5fa6-a01a-4641d309ae7e",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Eternatus V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7e606356-f79c-54cb-8186-d6e63490e070",
       "name": "V Powers Tin [Eternatus V]",
       "releaseDate": "2020-09-04",
       "identifiers": {
@@ -26,6 +29,37 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/220311/pokemon-miscellaneous-cards-and-products-v-powers-tin-eternatus-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "252a7d3e-932c-5f53-8c92-5d1cf16c5d43",
+      "name": "Boîte Puissances-V Éthernatos",
+      "releaseDate": "2020-09-04",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh3-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissances-V_%C3%89thernatos-V"
       ]
     }
   ]

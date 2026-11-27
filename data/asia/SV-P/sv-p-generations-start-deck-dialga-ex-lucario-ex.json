@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-dialga-ex-lucario-ex",
+  "uuid": "aa136915-898a-5b14-979a-e3200211e061",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Dialga ex & Lucario ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7fa95563-f54a-55ab-9af3-b84e8e5b477f",
       "name": "スタートデッキGenerations ディアルガex・ルカリオex",
       "releaseDate": "2024-11-22",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "bw10-booster-pack",
+  "uuid": "bf208461-b928-51c1-b4fe-bb48076b592d",
   "region": "international",
   "set": "bw10",
   "category": "booster_pack",
   "name": "Plasma Blast Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271832
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0b25ede7-e45a-5f32-91ce-e5e96f0c2e12",
       "name": "Black & White—Plasma Blast",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "gym2-theme-deck-sabrina",
+  "uuid": "86cebdf6-a0b5-5e72-a336-40b9840961db",
   "region": "international",
   "set": "gym2",
   "category": "theme_deck",
   "name": "Gym Challenge Theme Deck - \"Sabrina\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286508
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0380b485-852b-58ae-a82b-076f6ee5851a",
       "name": "Gym Challenge Theme Deck - \"Sabrina\"",
       "identifiers": {
         "tcgplayerProductIds": [

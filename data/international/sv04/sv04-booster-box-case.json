@@ -1,9 +1,11 @@
 {
   "id": "sv04-booster-box-case",
+  "uuid": "225d087e-f65a-55a1-8ee9-d498875b6f98",
   "region": "international",
   "set": "sv04",
   "category": "case",
   "name": "Paradox Rift Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 729189
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a7181b37-40ec-51eb-956e-8e035f96e0d2",
       "name": "Paradox Rift Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

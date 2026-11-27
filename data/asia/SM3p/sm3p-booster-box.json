@@ -1,9 +1,11 @@
 {
   "id": "sm3p-booster-box",
+  "uuid": "619ee4c8-b4f7-59ec-85e7-936c395efb1d",
   "region": "asia",
   "set": "SM3p",
   "category": "booster_box",
   "name": "Shining Legends Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8a691776-f097-5d00-ab00-33a9157cc90d",
       "name": "Shining Legends Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

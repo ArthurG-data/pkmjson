@@ -1,15 +1,18 @@
 {
   "id": "bw4-mewtwo-collection",
+  "uuid": "3cfec862-c939-51b3-8891-0535342dfbff",
   "region": "international",
   "set": "bw4",
   "category": "collection_box",
   "name": "Mewtwo Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0b426d6f-66de-5261-b9b5-6b7152989b62",
       "name": "Mewtwo Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fdcd83b8-1703-59c7-a5ab-4b7ede0e50c9",
       "name": "Collection Mewtwo",
       "sources": [
         "https://www.pokepedia.fr/Collection_Mewtwo"

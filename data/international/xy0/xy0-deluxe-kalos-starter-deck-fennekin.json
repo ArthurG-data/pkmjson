@@ -1,9 +1,11 @@
 {
   "id": "xy0-deluxe-kalos-starter-deck-fennekin",
+  "uuid": "0c562dd0-6fe4-5a9b-83ee-4cefe46fd0a5",
   "region": "international",
   "set": "xy0",
   "category": "battle_deck",
   "name": "Deluxe Kalos Starter Deck [Fennekin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "371d9394-1064-5e43-ba6c-1981da64e704",
       "name": "Deluxe Kalos Starter Deck [Fennekin]",
       "identifiers": {
         "tcgplayerProductIds": [

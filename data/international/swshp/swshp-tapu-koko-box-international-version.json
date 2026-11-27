@@ -1,15 +1,18 @@
 {
   "id": "swshp-tapu-koko-box-international-version",
+  "uuid": "34953868-4b7c-5733-9c1e-e6739a055a00",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Tapu Koko Box (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Assorted Pokemon TCG booster packs; 1 promotional card featuring Tapu Koko.",
   "releases": [
     {
       "language": "en",
+      "uuid": "88ba1e7b-529b-5c97-a42b-8502039f6c72",
       "name": "Tapu Koko Box (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

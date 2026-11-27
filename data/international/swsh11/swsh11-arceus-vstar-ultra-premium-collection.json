@@ -1,9 +1,11 @@
 {
   "id": "swsh11-arceus-vstar-ultra-premium-collection",
+  "uuid": "5f28cf6c-40c8-57a8-8559-12894b2e67d5",
   "region": "international",
   "set": "swsh11",
   "category": "premium_collection",
   "name": "Arceus VSTAR Ultra-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6cfdbb7c-df9c-5c51-b1c2-646fb38c1e37",
       "name": "Arceus VSTAR Ultra-Premium Collection",
       "releaseDate": "2022-11-12",
       "identifiers": {

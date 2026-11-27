@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-v-battle-deck-bundle-mewtwo-v-melmetal-v",
+  "uuid": "47ea7b18-b3c1-563c-9dcf-92e7b56ac8fb",
   "region": "international",
   "set": "swsh10.5",
   "category": "battle_deck",
   "name": "Pokemon GO V Battle Deck Bundle [Mewtwo V/Melmetal V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -55,6 +57,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2004c81d-1e0a-5b99-bc5a-f6620b2f50f1",
       "name": "Pokemon GO V Battle Deck Bundle [Mewtwo V/Melmetal V]",
       "identifiers": {
         "tcgplayerProductIds": [

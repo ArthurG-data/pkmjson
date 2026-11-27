@@ -1,9 +1,11 @@
 {
   "id": "me05-elite-trainer-box-case",
+  "uuid": "1977f1da-3526-54fa-b634-c0f62a7a04d9",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885529
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eb9dbf2a-2f93-5626-a270-e36171af8347",
       "name": "Pitch Black Elite Trainer Box Case",
       "releaseDate": "2026-07-17",
       "identifiers": {

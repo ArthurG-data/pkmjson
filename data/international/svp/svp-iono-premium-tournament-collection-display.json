@@ -1,15 +1,18 @@
 {
   "id": "svp-iono-premium-tournament-collection-display",
+  "uuid": "356ce4be-5c30-5679-be4c-56c535833124",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Iono Premium Tournament Collection Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "51d3d652-ca1b-5181-8678-f2d66eba66a2",
       "name": "Iono Premium Tournament Collection Display",
       "identifiers": {
         "tcgplayerProductIds": [

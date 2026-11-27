@@ -1,9 +1,11 @@
 {
   "id": "swsh12-elite-trainer-box-case",
+  "uuid": "7b385fd4-d76f-5be9-b757-ac7cc46bb747",
   "region": "international",
   "set": "swsh12",
   "category": "case",
   "name": "Silver Tempest Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873121
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1508ccc8-9e73-5a56-a55c-c9a03eb40381",
       "name": "Silver Tempest Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm10-sleeved-booster-case",
+  "uuid": "7d6e1979-a545-5f8e-b106-fab2c9afb70c",
   "region": "international",
   "set": "sm10",
   "category": "case",
   "name": "Unbroken Bonds Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a1c8004c-8c13-55dc-b7dd-18db890ee9f1",
       "name": "Unbroken Bonds Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

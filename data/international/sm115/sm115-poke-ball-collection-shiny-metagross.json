@@ -1,9 +1,11 @@
 {
   "id": "sm115-poke-ball-collection-shiny-metagross",
+  "uuid": "4473a8c9-78a5-50bf-913b-1c0d455df639",
   "region": "international",
   "set": "sm115",
   "category": "collection_box",
   "name": "Hidden Fates Poke Ball Collection [Shiny Metagross]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3ca705c5-d64b-5267-ac41-698425a95099",
       "name": "Hidden Fates Poke Ball Collection [Shiny Metagross]",
       "releaseDate": "2019-10-04",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e692eefc-2a35-5930-bf49-120057731fb2",
       "name": "Collection Hyper Ball Destinées Occultes Métalosse-GX chromatique",
       "sources": [
         "https://www.pokepedia.fr/Collection_Hyper_Ball_Destin%C3%A9es_Occultes_M%C3%A9talosse-GX_chromatique"
@@ -43,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "8b9eadc9-b418-5952-8d93-58a004acac46",
       "name": "Pokéball-Kollektion Verborgenes Schicksal – Schillerndes Zoroark-GX/ Schillerndes Metagross-GX",
       "releaseDate": "2019-10-04",
       "sources": [
@@ -51,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "b6684a3a-8777-52e1-9579-ed581d884017",
       "name": "Collezioni Poké Ball Zoroark-GX cromatico e Metagross-GX cromatico dell’espansione Destino Sfuggente",
       "releaseDate": "2019-10-04",
       "sources": [

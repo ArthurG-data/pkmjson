@@ -1,9 +1,11 @@
 {
   "id": "sv5k-booster-pack",
+  "uuid": "53a9d109-1c22-522b-99a2-217cac018148",
   "region": "asia",
   "set": "SV5K",
   "category": "booster_pack",
   "name": "Wild Force Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 749453
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0841fb1d-141e-595c-904f-a90964bf396d",
       "name": "拡張パック「ワイルドフォース」",
       "releaseDate": "2024-01-26",
       "identifiers": {

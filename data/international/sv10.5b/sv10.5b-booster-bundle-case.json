@@ -1,15 +1,18 @@
 {
   "id": "sv10.5b-booster-bundle-case",
+  "uuid": "fef5eee9-f384-526c-9466-a76851baa642",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Black Bolt Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7296baed-be0d-50f3-ad5e-4055b3d6aaf2",
       "name": "Black Bolt Booster Bundle Case",
       "releaseDate": "2025-08-22",
       "identifiers": {

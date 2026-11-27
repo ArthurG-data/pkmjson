@@ -1,9 +1,11 @@
 {
   "id": "sm7a-booster-pack",
+  "uuid": "2d0b635f-9997-5bfa-a218-ab7e674de585",
   "region": "asia",
   "set": "SM7a",
   "category": "booster_pack",
   "name": "Thunderclap Spark Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551871
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c6826fb0-6e02-5b77-8924-db55a8b5930a",
       "name": "Thunderclap Spark Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

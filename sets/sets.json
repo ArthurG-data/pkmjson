@@ -555,6 +555,16 @@
    }
   }
  },
+ "asia/SI": {
+  "region": "asia",
+  "set": "SI",
+  "languages": {}
+ },
+ "asia/SK": {
+  "region": "asia",
+  "set": "SK",
+  "languages": {}
+ },
  "asia/SM0": {
   "region": "asia",
   "set": "SM0",
@@ -975,7 +985,7 @@
    "ja": {
     "name": "GXウルトラシャイニー",
     "source": "https://api.tcgdex.net/v2/ja/sets/SM8b",
-    "logo": "https://www.pokemon-card.com/assets/images/products/archive/sm/1335_SM8b_pillow_img (2).png",
+    "logo": "https://www.pokemon-card.com/assets/images/products/archive/sm/1335_SM8b_pillow_img%20%282%29.png",
     "logoSource": "pokemon-card.com",
     "logoKind": "product image"
    }
@@ -1401,6 +1411,11 @@
    }
   }
  },
+ "asia/SVB": {
+  "region": "asia",
+  "set": "SVB",
+  "languages": {}
+ },
  "asia/SVC": {
   "region": "asia",
   "set": "SVC",
@@ -1423,6 +1438,11 @@
    }
   }
  },
+ "asia/SVEL": {
+  "region": "asia",
+  "set": "SVEL",
+  "languages": {}
+ },
  "asia/SVEM": {
   "region": "asia",
   "set": "SVEM",
@@ -1433,6 +1453,21 @@
     "logoKind": "product image"
    }
   }
+ },
+ "asia/SVF": {
+  "region": "asia",
+  "set": "SVF",
+  "languages": {}
+ },
+ "asia/SVHK": {
+  "region": "asia",
+  "set": "SVHK",
+  "languages": {}
+ },
+ "asia/SVHM": {
+  "region": "asia",
+  "set": "SVHM",
+  "languages": {}
  },
  "asia/SVLN": {
   "region": "asia",
@@ -1459,6 +1494,11 @@
     "logoKind": "product image"
    }
   }
+ },
+ "asia/SVP1": {
+  "region": "asia",
+  "set": "SVP1",
+  "languages": {}
  },
  "asia/XY5a": {
   "region": "asia",

@@ -1,9 +1,11 @@
 {
   "id": "sm2p-booster-box",
+  "uuid": "ad384d02-27b0-58ee-ba6d-3a50f1f3b6ae",
   "region": "asia",
   "set": "SM2p",
   "category": "booster_box",
   "name": "Facing a New Trial Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551836
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "78ed4b4c-d737-597c-a420-2b4e234843f4",
       "name": "Facing a New Trial Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

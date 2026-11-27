@@ -1,9 +1,11 @@
 {
   "id": "smp-premium-checklane-blister-gardevoir",
+  "uuid": "c048ce82-99d7-50c8-a4b8-9e02f4666f8a",
   "region": "international",
   "set": "smp",
   "category": "blister",
   "name": "Premium Checklane Blister [Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "274351c3-224a-557f-9779-cd5fcd4c774e",
       "name": "Premium Checklane Blister [Gardevoir]",
       "identifiers": {
         "tcgplayerProductIds": [

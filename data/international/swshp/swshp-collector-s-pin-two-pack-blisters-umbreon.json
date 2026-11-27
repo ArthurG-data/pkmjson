@@ -1,9 +1,11 @@
 {
   "id": "swshp-collector-s-pin-two-pack-blisters-umbreon",
+  "uuid": "05476d84-649d-5c1c-aeba-59db030a9d57",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Collector's Pin Two Pack Blisters [Umbreon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ea04bca-ad79-5e41-b40c-4461600d7df3",
       "name": "Collector's Pin Two Pack Blisters [Umbreon]",
       "identifiers": {
         "tcgplayerProductIds": [

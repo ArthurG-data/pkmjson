@@ -1,15 +1,18 @@
 {
   "id": "swshp-galar-pal-mini-tin-display",
+  "uuid": "905a591f-ca50-569f-aad7-18855d451904",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Galar Pal Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e1d84f71-24cc-5d40-877f-44b84340851c",
       "name": "Galar Pal Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

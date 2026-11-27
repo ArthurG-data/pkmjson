@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-tech-sticker-collections-set-of-3",
+  "uuid": "88be0abd-f181-5f0b-b28e-6e39af810c34",
   "region": "international",
   "set": "sv04.5",
   "category": "other",
   "name": "Paldean Fates Tech Sticker Collections [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Shiny Greavard; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b987c72e-ba84-532f-9836-b119a24745c5",
       "name": "Paldean Fates Tech Sticker Collections [Set of 3]",
       "releaseDate": "2024-01-26",
       "identifiers": {

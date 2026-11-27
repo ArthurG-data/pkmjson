@@ -1,9 +1,11 @@
 {
   "id": "me02-sleeved-booster-case",
+  "uuid": "8d8a733d-2e15-5a57-9dde-fbf4dd120426",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846731
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "93255a37-c7a4-51d4-a8b1-5f7837510172",
       "name": "Phantasmal Flames Sleeved Booster Case",
       "releaseDate": "2025-11-14",
       "identifiers": {

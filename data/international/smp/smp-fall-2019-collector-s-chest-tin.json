@@ -1,9 +1,11 @@
 {
   "id": "smp-fall-2019-collector-s-chest-tin",
+  "uuid": "80c334ca-ff03-5add-9ffe-90ddf9bf6ffe",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Fall 2019 Collector's Chest Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -47,6 +49,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "563b01b8-52fd-58b5-a5b2-d320ea976a87",
       "name": "Fall 2019 Collector's Chest Tin",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -59,6 +62,7 @@
     },
     {
       "language": "fr",
+      "uuid": "79bdec50-c2cc-54dd-900b-f22136d0ebe5",
       "name": "Coffre de collection (Automne 2019)",
       "releaseDate": "2019-11-22",
       "sources": [
@@ -67,6 +71,7 @@
     },
     {
       "language": "es",
+      "uuid": "adf5c6ea-d750-540c-a982-616d9e674394",
       "name": "Maletín de Coleccionistas de JCC Pokémon (otoño 2019)",
       "releaseDate": "2019-11-22",
       "sources": [
@@ -75,6 +80,7 @@
     },
     {
       "language": "de",
+      "uuid": "01f0809b-b6e8-50e6-acad-d39faa7ea4f6",
       "name": "Sammelkoffer (Herbst 2019)",
       "releaseDate": "2019-11-22",
       "sources": [
@@ -83,6 +89,7 @@
     },
     {
       "language": "it",
+      "uuid": "6ae496ea-acaf-5857-b0cc-573b1178cdfc",
       "name": "Bauletto da collezione del GCC Pokémon (autunno 2019)",
       "releaseDate": "2019-11-22",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-roaring-moon-ex-box",
+  "uuid": "8fc71533-e8fd-58f6-883b-2f0e78f436f0",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Roaring Moon ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "05cc3749-df65-5ca9-9c40-e55f6e8a860d",
       "name": "Roaring Moon ex Box",
       "releaseDate": "2023-11-17",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "a49fc45b-3705-5450-80ae-0cd917e9b40a",
       "name": "Kollektion Donnersichel‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-donnersichel-ex-kollektion-eisenkrieger-ex"
@@ -51,6 +55,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c962b325-7567-5011-80da-e8b556666e3c",
       "name": "Coffret Rugit-Lune-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-rugit-lune-ex-coffret-garde-de-fer-ex"

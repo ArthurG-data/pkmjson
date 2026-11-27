@@ -1,9 +1,11 @@
 {
   "id": "mep-checklane-2-pack-pin-blister-darkrai",
+  "uuid": "3a6905f0-d627-524c-8053-e3944292fa0d",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Darkrai]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c26d690c-274b-5c93-8cfa-16afa8bfc1d7",
       "name": "Checklane 2-Pack Pin Blister [Darkrai]",
       "identifiers": {
         "tcgplayerProductIds": [

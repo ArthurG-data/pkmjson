@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-tcg-trainer-s-toolkit-2024",
+  "uuid": "d18f4724-9495-5054-942b-758606239cb3",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon TCG: Trainer's Toolkit (2024)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4d0e63ca-c030-56f6-a7ed-d7f002fc99f1",
       "name": "Pokemon TCG: Trainer's Toolkit (2024)",
       "releaseDate": "2024-10-18",
       "identifiers": {

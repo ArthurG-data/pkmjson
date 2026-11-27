@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-friends-mini-tin-fuecoco-smoliv",
+  "uuid": "1c5a586c-dd75-58ed-935c-c6e9c45e62cc",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Friends Mini Tin [Fuecoco & Smoliv]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dcfc3cc8-b1f2-5f3c-9297-73fa43a2d537",
       "name": "Paldea Friends Mini Tin [Fuecoco & Smoliv]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d9a790a7-6d69-522f-8eb2-e849207634a1",
       "name": "Mini-boîte Amis de Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-amis-de-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "c90e19fa-c26d-5cb5-8f91-c370896f0d87",
       "name": "Mini-Tin-Box Paldea-Freunde",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-paldea-freunde"
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "ce7e1f73-14e4-50dd-8a8e-2624d1171734",
       "name": "Minilata Amigos de Paldea",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-amigos-de-paldea"
@@ -55,6 +61,7 @@
     },
     {
       "language": "it",
+      "uuid": "ac35e9c0-8837-5ae9-a350-fd88a0294bce",
       "name": "Miniscatola da collezione Amici di Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-amici-di-paldea"

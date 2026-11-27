@@ -1,15 +1,18 @@
 {
   "id": "xy8-collector-chest",
+  "uuid": "55a29525-0288-5911-80a2-5dc4fdf5192f",
   "region": "international",
   "set": "xy8",
   "category": "other",
   "name": "XY BREAKthrough Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f7fbd82a-dfe2-5069-a99c-51d77c2bb7ea",
       "name": "XY BREAKthrough Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b3a0b9e6-05ab-5a7a-b288-1c3e4daeaa11",
       "name": "Coffre de collection",
       "releaseDate": "2018-03-23",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "it",
+      "uuid": "98ea672b-c861-526f-b28f-c01167ac3f41",
       "name": "Bauletto da collezione",
       "releaseDate": "2018-03-23",
       "sources": [
@@ -38,6 +43,7 @@
     },
     {
       "language": "de",
+      "uuid": "b5723817-84d4-567d-8bf1-a16fecfd0fe7",
       "name": "Sammelkoffer",
       "releaseDate": "2018-03-23",
       "sources": [

@@ -1,15 +1,18 @@
 {
   "id": "svp-houndstone-ex-box-case",
+  "uuid": "bf843002-d93f-5116-8420-2f5f5102a1f2",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Houndstone ex Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b8095bb6-1571-52be-9096-cfd1b9bc594e",
       "name": "Houndstone ex Box Case",
       "releaseDate": "2024-10-04",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-poke-ball-tin-dive-ball",
+  "uuid": "cd92069c-2d84-59bf-9975-89dab60967c8",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Dive Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a20afd3b-baaf-525f-b15b-92a601a65ea7",
       "name": "Pokemon - Poke Ball Tin - Dive Ball",
       "identifiers": {
         "tcgplayerProductIds": [

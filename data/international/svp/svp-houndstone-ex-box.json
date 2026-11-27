@@ -1,9 +1,11 @@
 {
   "id": "svp-houndstone-ex-box",
+  "uuid": "32cc9c5e-a1d3-5543-8b23-49e7a598d92b",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Houndstone ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fa39948f-cda9-592d-86fd-5dd8983ca7d9",
       "name": "Houndstone ex Box",
       "releaseDate": "2024-10-04",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "c8908871-3a7d-5a19-af9e-8e956b06a271",
       "name": "Kollektion Friedwuff-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-friedwuff-ex"
@@ -59,6 +63,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7aa95a2a-cd58-50b3-83bc-d8388334e01d",
       "name": "Coffret Tomberro‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-tomberro-ex"
@@ -66,6 +71,7 @@
     },
     {
       "language": "it",
+      "uuid": "e4f950b4-bf9a-5200-b630-3ac673c07f69",
       "name": "Collezione Houndstone‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-houndstone-ex"
@@ -73,6 +79,7 @@
     },
     {
       "language": "es",
+      "uuid": "e82e422d-3b9c-5f82-9a1a-3f53d28deec8",
       "name": "Colección Houndstone ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-houndstone-ex"

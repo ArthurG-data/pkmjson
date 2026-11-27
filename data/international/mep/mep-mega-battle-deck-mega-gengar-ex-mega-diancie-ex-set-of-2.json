@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-battle-deck-mega-gengar-ex-mega-diancie-ex-set-of-2",
+  "uuid": "34b58357-5544-5207-bd0d-9413f6209602",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Mega Battle Deck: Mega Gengar ex/Mega Diancie ex [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "533c07fc-5333-5366-8cf1-4c3bc75a83f1",
       "name": "Mega Battle Deck: Mega Gengar ex/Mega Diancie ex [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

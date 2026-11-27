@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-morpeko-v-union-premium-treasures-collection-case",
+  "uuid": "08a38a11-1cbd-5e35-b0e9-7ffe4b868714",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Morpeko V-UNION Premium Treasures Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a4f256ec-4505-5be9-8dd6-00207408fcc8",
       "name": "Morpeko V-UNION Premium Treasures Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-stacking-tin-water",
+  "uuid": "8b7ad8e9-7d8c-50c0-a080-186be63bc52a",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Water",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "108724d8-93ea-5378-b697-a830b7b873b6",
       "name": "Pokemon Stacking Tin: Water",
       "identifiers": {
         "tcgplayerProductIds": [

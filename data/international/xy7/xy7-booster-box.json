@@ -1,9 +1,11 @@
 {
   "id": "xy7-booster-box",
+  "uuid": "3b772bb7-bf49-576b-abfe-bc7932f817d9",
   "region": "international",
   "set": "xy7",
   "category": "booster_box",
   "name": "XY Ancient Origins Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 283943
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3dbd68c3-be18-5d30-bcda-cade90b2b512",
       "name": "XY Ancient Origins Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

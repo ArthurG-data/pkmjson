@@ -1,9 +1,11 @@
 {
   "id": "bw1-theme-deck-green-tornado-serperior",
+  "uuid": "ef9763ee-6039-5f5d-a8dd-5cb7a7976a89",
   "region": "international",
   "set": "bw1",
   "category": "theme_deck",
   "name": "Black & White Theme Deck - \"Green Tornado\" [Serperior]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286543
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c72086d5-0ecd-5448-bf3d-9341824af970",
       "name": "Black & White Theme Deck - \"Green Tornado\" [Serperior]",
       "identifiers": {
         "tcgplayerProductIds": [

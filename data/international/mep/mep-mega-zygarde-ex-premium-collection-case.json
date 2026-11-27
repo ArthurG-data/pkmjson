@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-zygarde-ex-premium-collection-case",
+  "uuid": "b385e8b7-ecff-54dd-8eac-c8dcd7dcc3bf",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Zygarde ex Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7373e4b1-7c12-5c98-908f-751e5a246d35",
       "name": "Mega Zygarde ex Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

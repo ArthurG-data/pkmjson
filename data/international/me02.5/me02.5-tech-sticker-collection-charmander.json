@@ -1,9 +1,11 @@
 {
   "id": "me02.5-tech-sticker-collection-charmander",
+  "uuid": "521d198b-c47e-5eac-a555-5471573d348c",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Charmander",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860565
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8f091dfa-4bef-583b-8d9e-d3c7a76fb61e",
       "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Charmander",
       "releaseDate": "2026-01-30",
       "identifiers": {
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "56d535e8-1abb-5d7d-8bd5-7c6d7520a485",
       "name": "Collection autocollant réajustable Méga-Évolution Héros Transcendants Salamèche",
       "releaseDate": "2026-01-30",
       "sources": [

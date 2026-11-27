@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-mini-tin-set-of-5",
+  "uuid": "55d8fdae-8f05-5de1-8728-6770aac38b60",
   "region": "international",
   "set": "swsh12.5",
   "category": "other",
   "name": "Crown Zenith Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "de93683f-b943-581a-9cfa-defadc727e65",
       "name": "Crown Zenith Mini Tin [Set of 5]",
       "releaseDate": "2023-02-17",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm2-shiny-tapu-koko-gx-box",
+  "uuid": "0c90d38a-f85c-569e-9c5a-05ed26a996b8",
   "region": "international",
   "set": "sm2",
   "category": "collection_box",
   "name": "Shiny Tapu Koko GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c8750c69-19b1-5d37-9499-8c59952b318a",
       "name": "Shiny Tapu Koko GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1958b52c-5a8b-5bbf-988c-aae682c643bd",
       "name": "Coffret Tokorico chromatique",
       "releaseDate": "2017-08-17",
       "sources": [

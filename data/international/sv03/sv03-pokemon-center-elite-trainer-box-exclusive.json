@@ -1,9 +1,11 @@
 {
   "id": "sv03-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "a33fc6c3-6d2b-56be-9fee-48d5850d245a",
   "region": "international",
   "set": "sv03",
   "category": "elite_trainer_box",
   "name": "Obsidian Flames Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715777
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "28e0e176-0a93-500a-9fc9-25ae5235da77",
       "name": "Obsidian Flames Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2023-08-11",
       "identifiers": {

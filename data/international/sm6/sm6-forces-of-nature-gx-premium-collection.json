@@ -1,9 +1,11 @@
 {
   "id": "sm6-forces-of-nature-gx-premium-collection",
+  "uuid": "b4aa9097-00b5-5ccb-bd71-2a96c387c474",
   "region": "international",
   "set": "sm6",
   "category": "premium_collection",
   "name": "Forces of Nature GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8e50ec11-f394-59e1-90e6-a1c2f61ed0ac",
       "name": "Forces of Nature GX Premium Collection",
       "releaseDate": "2018-07-06",
       "identifiers": {

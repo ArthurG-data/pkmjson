@@ -1,9 +1,11 @@
 {
   "id": "sm12-single-pack-blister-mismagius",
+  "uuid": "61f960e2-e5e2-5a43-ab5d-ef21bda2f3c7",
   "region": "international",
   "set": "sm12",
   "category": "blister",
   "name": "Cosmic Eclipse Single Pack Blister [Mismagius]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585899
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f07f1948-9534-5374-910e-82f2a1229246",
       "name": "Cosmic Eclipse Single Pack Blister [Mismagius]",
       "releaseDate": "2019-11-01",
       "identifiers": {

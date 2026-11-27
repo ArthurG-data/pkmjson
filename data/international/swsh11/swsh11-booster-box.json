@@ -1,9 +1,11 @@
 {
   "id": "swsh11-booster-box",
+  "uuid": "02a9d2bb-0b09-5e25-b6ea-2120188b1ffa",
   "region": "international",
   "set": "swsh11",
   "category": "booster_box",
   "name": "Lost Origin Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 665526
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ecbe443-9e87-54ec-84f5-aec9294f047a",
       "name": "Lost Origin Booster Box",
       "releaseDate": "2022-09-09",
       "identifiers": {

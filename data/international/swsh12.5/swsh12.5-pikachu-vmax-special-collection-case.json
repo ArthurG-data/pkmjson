@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-pikachu-vmax-special-collection-case",
+  "uuid": "64201e03-1f31-53f6-9789-efa152d55c0b",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Pikachu VMAX Special Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "45d68cd5-7da4-5591-8e8f-3171b362d93e",
       "name": "Pikachu VMAX Special Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

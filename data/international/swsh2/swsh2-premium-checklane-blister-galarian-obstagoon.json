@@ -1,9 +1,11 @@
 {
   "id": "swsh2-premium-checklane-blister-galarian-obstagoon",
+  "uuid": "5e4ae020-78f8-5b2c-aece-5f5180c85574",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Rebel Clash Premium Checklane Blister [Galarian Obstagoon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585889
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8dff366a-03ec-59a0-a784-465f9bd70240",
       "name": "Rebel Clash Premium Checklane Blister [Galarian Obstagoon]",
       "identifiers": {
         "tcgplayerProductIds": [

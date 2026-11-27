@@ -1,15 +1,18 @@
 {
   "id": "svp-paldea-partners-tin-set-of-3",
+  "uuid": "6c0a0066-69d7-5615-adea-0a9d5ab738ae",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Paldea Partners Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2d7e2890-0dfd-5ccc-8278-5516dd12b49e",
       "name": "Paldea Partners Tin [Set of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

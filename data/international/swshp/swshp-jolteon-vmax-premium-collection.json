@@ -1,9 +1,11 @@
 {
   "id": "swshp-jolteon-vmax-premium-collection",
+  "uuid": "478b5118-d416-5f47-b920-ddbd7c370b2d",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Jolteon VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d5337c80-5a7e-5ebf-8a44-22583d378c4e",
       "name": "Jolteon VMAX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

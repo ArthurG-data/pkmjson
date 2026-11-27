@@ -1,15 +1,18 @@
 {
   "id": "swsh9-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "d2400f1b-b581-5c7d-ae37-d6438af1ef4c",
   "region": "international",
   "set": "swsh9",
   "category": "case",
   "name": "Brilliant Stars Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dcce739d-5e52-519a-b14c-0b1dda444e88",
       "name": "Brilliant Stars Pokemon Center Elite Trainer Box (Exclusive) Case",
       "identifiers": {
         "tcgplayerProductIds": [

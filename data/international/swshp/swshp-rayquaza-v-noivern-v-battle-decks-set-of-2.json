@@ -1,15 +1,18 @@
 {
   "id": "swshp-rayquaza-v-noivern-v-battle-decks-set-of-2",
+  "uuid": "78a98b2e-dab7-53be-96bd-3680679049ee",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Rayquaza V / Noivern V Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e1fef9c9-c717-5887-8c5e-ca8fedd46d59",
       "name": "Rayquaza V / Noivern V Battle Decks [Set of 2]",
       "releaseDate": "2021-10-08",
       "identifiers": {

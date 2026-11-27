@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-tech-sticker-collection-leafeon",
+  "uuid": "ca9c79e0-9c14-587d-87b9-6be9a43b919d",
   "region": "international",
   "set": "sv08.5",
   "category": "collection_box",
   "name": "Prismatic Evolutions Tech Sticker Collection [Leafeon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 798926
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0f68641-99af-54fc-a12c-64ed74beb1ba",
       "name": "Prismatic Evolutions Tech Sticker Collection [Leafeon]",
       "releaseDate": "2025-01-17",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "0e6069d6-ff0c-598f-afc0-692b96d77e8b",
       "name": "Collection autocollant réajustable Écarlate et Violet Évolutions Prismatiques Phyllali",
       "releaseDate": "2025-01-17",
       "sources": [

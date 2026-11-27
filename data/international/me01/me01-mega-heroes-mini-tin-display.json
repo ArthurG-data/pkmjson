@@ -1,9 +1,11 @@
 {
   "id": "me01-mega-heroes-mini-tin-display",
+  "uuid": "d158b2af-467c-5108-9acc-effdf44432cf",
   "region": "international",
   "set": "me01",
   "category": "case",
   "name": "Mega Heroes Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834809
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a6ddf33f-50ca-5ee2-a7c5-5a1dfa3a4b2a",
       "name": "Mega Heroes Mini Tin Display",
       "releaseDate": "2025-09-26",
       "identifiers": {

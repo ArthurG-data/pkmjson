@@ -1,15 +1,18 @@
 {
   "id": "sv06.5-kingambit-illustration-collection-case",
+  "uuid": "ec81bd39-27f0-5f85-adfd-69a2934965fc",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Kingambit Illustration Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "55441947-e7b8-591c-ad03-948d341681e8",
       "name": "Kingambit Illustration Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

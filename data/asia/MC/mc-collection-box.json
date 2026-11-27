@@ -1,15 +1,18 @@
 {
   "id": "mc-collection-box",
+  "uuid": "88e73a8a-a7d3-5160-b6c5-38fe6fd3fedf",
   "region": "asia",
   "set": "MC",
   "category": "battle_deck",
   "name": "Start Deck 100 Battle Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "2961cca1-1cda-59e0-a0fa-e4b8cc9b8235",
       "name": "スタートデッキ100 バトルコレクション",
       "releaseDate": "2025-12-19",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv03-single-blister-pack-revavroom",
+  "uuid": "acab54fd-7b2f-5d94-b9db-3c864290f553",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames Single Blister Pack [Revavroom]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2e1c6318-ec22-560e-861a-c1847863a95d",
       "name": "Obsidian Flames Single Blister Pack [Revavroom]",
       "identifiers": {
         "tcgplayerProductIds": [

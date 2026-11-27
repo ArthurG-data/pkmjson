@@ -1,9 +1,11 @@
 {
   "id": "sm2p-booster-pack",
+  "uuid": "a32a7ac4-d903-5074-bb37-f8d39ca48e00",
   "region": "asia",
   "set": "SM2p",
   "category": "booster_pack",
   "name": "Facing a New Trial Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551941
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8e32c0e7-4e12-59a8-8ed7-662195a89820",
       "name": "強化拡張パック「新たなる試練の向こう」",
       "releaseDate": "2017-04-21",
       "identifiers": {

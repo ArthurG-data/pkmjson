@@ -1,9 +1,11 @@
 {
   "id": "ex6-firered-leafgreen-theme-deck-leafgreen-ivysaur",
+  "uuid": "8f0e5691-b694-5ffe-8596-f60488c5ab22",
   "region": "international",
   "set": "ex6",
   "category": "theme_deck",
   "name": "FireRed & LeafGreen Theme Deck - \"LeafGreen\" [Ivysaur]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286523
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "37f36edd-e204-5375-b315-a81ca53d8976",
       "name": "FireRed & LeafGreen Theme Deck - \"LeafGreen\" [Ivysaur]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-slashing-legends-tin-zacian-ex",
+  "uuid": "6f1a8fb3-2d0d-574b-955f-e85d4ea105b3",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Slashing Legends Tin [Zacian ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ed73e16b-cceb-5373-81cf-0d580b2bb7fe",
       "name": "Slashing Legends Tin [Zacian ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,9 +42,19 @@
     },
     {
       "language": "it",
+      "uuid": "1b405df4-0b5e-5c43-9da9-5467c699ce7b",
       "name": "Scatola da collezione Leggende Sovrane",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-leggende-sovrane"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "d0a19a64-6331-510a-910f-64feaf9c2202",
+      "name": "Boîte Légendes Tranchantes Zacian",
+      "releaseDate": "2025-05-16",
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_L%C3%A9gendes_Tranchantes_Zacian-ex"
       ]
     }
   ]

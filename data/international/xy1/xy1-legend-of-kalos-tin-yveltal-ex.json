@@ -1,9 +1,11 @@
 {
   "id": "xy1-legend-of-kalos-tin-yveltal-ex",
+  "uuid": "2e4110bb-7edd-5824-918f-5b5a4ef73f2e",
   "region": "international",
   "set": "xy1",
   "category": "tin",
   "name": "Legend of Kalos Tin [Yveltal EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4b0239f-4e35-5b33-98e7-772cba7fffa0",
       "name": "Legend of Kalos Tin [Yveltal EX]",
       "identifiers": {
         "tcgplayerProductIds": [

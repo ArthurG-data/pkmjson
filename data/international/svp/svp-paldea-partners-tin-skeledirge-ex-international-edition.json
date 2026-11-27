@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-partners-tin-skeledirge-ex-international-edition",
+  "uuid": "67ea60f6-d0dd-528e-8b62-ab5f50b96005",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Partners Tin [Skeledirge ex] [International Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "179fbd86-c32e-502c-9d35-07f724440088",
       "name": "Paldea Partners Tin [Skeledirge ex] [International Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

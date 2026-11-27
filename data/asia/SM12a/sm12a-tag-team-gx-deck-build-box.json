@@ -1,14 +1,16 @@
 {
   "id": "sm12a-tag-team-gx-deck-build-box",
+  "uuid": "cc76bc1b-a80d-5efb-bbd5-9b29529628a6",
   "region": "asia",
   "set": "SM12a",
   "category": "collection_box",
   "name": "TAG TEAM GX: Deck Build Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
       {
-        "product": "sm10-booster-pack-576913",
+        "product": "asia-sm10-booster-pack",
         "count": 10
       }
     ],
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ffda6c08-1649-5e79-9837-2640e09cf51e",
       "name": "TAG TEAM GX: Deck Build Box",
       "identifiers": {
         "tcgplayerProductIds": [

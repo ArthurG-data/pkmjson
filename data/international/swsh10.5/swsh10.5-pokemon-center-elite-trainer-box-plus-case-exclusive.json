@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-pokemon-center-elite-trainer-box-plus-case-exclusive",
+  "uuid": "55a89686-5e69-5075-8458-53c08e7420ec",
   "region": "international",
   "set": "swsh10.5",
   "category": "case",
   "name": "Pokemon Go Pokemon Center Elite Trainer Box Plus Case (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fece26c-0508-55e9-a3be-df128446c6b6",
       "name": "Pokemon Go Pokemon Center Elite Trainer Box Plus Case (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

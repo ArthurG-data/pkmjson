@@ -1,9 +1,11 @@
 {
-  "id": "sm9-booster-box-576912",
+  "id": "asia-sm9-booster-box",
+  "uuid": "dd295340-4de6-5684-a2cc-7e344eff0f84",
   "region": "asia",
   "set": "SM9",
   "category": "booster_box",
   "name": "Tag Bolt Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550441
   },
@@ -11,7 +13,7 @@
   "contents": {
     "sealed": [
       {
-        "product": "sm9-booster-pack-576911",
+        "product": "asia-sm9-booster-pack",
         "count": 30
       }
     ]
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "aee27bc3-6974-5223-9a97-2d74cbf3177f",
       "name": "Tag Bolt Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

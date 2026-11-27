@@ -1,9 +1,11 @@
 {
   "id": "s8-booster-box",
+  "uuid": "c7eeaea6-f848-571d-8fab-d396014a2bd3",
   "region": "asia",
   "set": "S8",
   "category": "booster_box",
   "name": "Fusion Arts Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 573595
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "78a4b60e-81e0-5784-8a61-a380dcda9745",
       "name": "Fusion Arts Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

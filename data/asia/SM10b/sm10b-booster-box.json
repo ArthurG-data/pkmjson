@@ -1,9 +1,11 @@
 {
   "id": "sm10b-booster-box",
+  "uuid": "6e50c9bf-06f6-5bd0-b462-4929c1088c24",
   "region": "asia",
   "set": "SM10b",
   "category": "booster_box",
   "name": "Sky Legend Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550386
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "a678831f-8d37-596c-8768-386d42043de2",
       "name": "Sky Legend Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

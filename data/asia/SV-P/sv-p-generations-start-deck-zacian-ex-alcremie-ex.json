@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-zacian-ex-alcremie-ex",
+  "uuid": "cb58997a-4258-5146-a1ed-fce400a1a630",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Zacian ex & Alcremie ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "316bfaa3-bb79-58c8-8246-be5db57c92a8",
       "name": "スタートデッキGenerations ザシアンex・マホイップex",
       "releaseDate": "2024-11-22",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-pal-mini-tin-yamper-morpeko",
+  "uuid": "424dafdb-30ac-5dd5-bc78-283f33b1753b",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Pal Mini Tin [Yamper & Morpeko]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2b637c34-3e2c-5c3b-87fb-5389cfac93c7",
       "name": "Galar Pal Mini Tin [Yamper & Morpeko]",
       "identifiers": {
         "tcgplayerProductIds": [

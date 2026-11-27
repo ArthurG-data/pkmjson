@@ -1,9 +1,11 @@
 {
   "id": "sv9a-booster-pack",
+  "uuid": "0ec23f82-80a9-5b07-83ae-41ff11cdf941",
   "region": "asia",
   "set": "SV9a",
   "category": "booster_pack",
   "name": "Heat Wave Arena Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 810651
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "b8bae9a4-3b93-5913-9add-b8b9ecafddfc",
       "name": "強化拡張パック「熱風のアリーナ」",
       "releaseDate": "2025-03-14",
       "identifiers": {

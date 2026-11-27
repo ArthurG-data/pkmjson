@@ -1,9 +1,11 @@
 {
   "id": "swsh6-booster-box",
+  "uuid": "e320c21b-55da-5689-9161-f99b8b6887c2",
   "region": "international",
   "set": "swsh6",
   "category": "booster_box",
   "name": "Chilling Reign Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557968
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "204f6676-1c20-56b7-96d0-618f9539f8da",
       "name": "Chilling Reign Booster Box",
       "releaseDate": "2021-06-18",
       "identifiers": {

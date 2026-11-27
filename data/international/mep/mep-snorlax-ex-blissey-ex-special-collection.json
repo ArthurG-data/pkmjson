@@ -1,9 +1,11 @@
 {
   "id": "mep-snorlax-ex-blissey-ex-special-collection",
+  "uuid": "b00f3192-6490-58ed-8e84-6d03dec46af2",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Snorlax ex & Blissey ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "27b2b927-1430-5b61-8a2d-ba5fd7ee7919",
       "name": "Snorlax ex & Blissey ex Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [

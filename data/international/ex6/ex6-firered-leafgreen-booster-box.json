@@ -1,9 +1,11 @@
 {
   "id": "ex6-firered-leafgreen-booster-box",
+  "uuid": "1634e46b-720a-52ad-8725-c842cd9bf120",
   "region": "international",
   "set": "ex6",
   "category": "booster_box",
   "name": "FireRed & LeafGreen Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271913
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d24f8d5e-e0e5-5704-8e64-5e5b93e627b9",
       "name": "FireRed & LeafGreen Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

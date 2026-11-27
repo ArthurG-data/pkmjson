@@ -1,9 +1,11 @@
 {
   "id": "sm11a-booster-box",
+  "uuid": "98bfffce-03d5-5038-9bf4-7d8263f4a431",
   "region": "asia",
   "set": "SM11a",
   "category": "booster_box",
   "name": "Remix Bout Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550371
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c235864e-bd40-5368-9552-e63ba76ffa16",
       "name": "Remix Bout Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

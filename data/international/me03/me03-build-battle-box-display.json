@@ -1,9 +1,11 @@
 {
   "id": "me03-build-battle-box-display",
+  "uuid": "71021cc4-1d82-53ec-8818-5b98cfa2d4e7",
   "region": "international",
   "set": "me03",
   "category": "case",
   "name": "Perfect Order Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 887471
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5df51e5f-3909-5e13-bf06-9badd7cbd2c6",
       "name": "Perfect Order Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

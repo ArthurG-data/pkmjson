@@ -1,9 +1,11 @@
 {
   "id": "swsh3-premium-checklane-blister-grimmsnarl",
+  "uuid": "3d8d9506-d6c8-5165-892c-4325fbcca676",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze Premium Checklane Blister [Grimmsnarl]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585877
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d7b774b-abe0-5fd7-9fba-c9b773171b94",
       "name": "Darkness Ablaze Premium Checklane Blister [Grimmsnarl]",
       "releaseDate": "2020-08-14",
       "identifiers": {

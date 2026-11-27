@@ -1,9 +1,11 @@
 {
   "id": "s2a-booster-pack",
+  "uuid": "9c22459a-c856-5b5f-8148-3b58a903984d",
   "region": "asia",
   "set": "S2a",
   "category": "booster_pack",
   "name": "Explosive Walker Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c47e172e-2f28-519e-bca0-315c1e322057",
       "name": "強化拡張パック「爆炎ウォーカー」",
       "releaseDate": "2020-04-24",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh4-alakazam-v-box",
+  "uuid": "29ec856a-9fa1-558b-a192-b495009d2d6e",
   "region": "international",
   "set": "swsh4",
   "category": "collection_box",
   "name": "Alakazam V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "85caf2b9-228e-5988-914a-2b447b68363e",
       "name": "Alakazam V Box",
       "releaseDate": "2021-01-08",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "es",
+      "uuid": "c6b1fbbc-6919-5d37-a5b0-aa2cdcf46a9d",
       "name": "Colección Alakazam V",
       "releaseDate": "2021-01-08",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "3e9ce3f1-c46b-548c-8a1b-b983d0908015",
       "name": "Collezione Alakazam-V",
       "releaseDate": "2021-01-08",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "de",
+      "uuid": "144d8196-d9dc-58d8-b56a-66e6b81a7560",
       "name": "Kollektion Simsala‑V",
       "releaseDate": "2021-01-08",
       "sources": [
@@ -68,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "126b668b-fad9-528f-8ef3-ff0d04546ac8",
       "name": "Coffret Alakazam‑V",
       "releaseDate": "2021-01-08",
       "sources": [

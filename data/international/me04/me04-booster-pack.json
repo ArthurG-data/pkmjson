@@ -1,9 +1,11 @@
 {
   "id": "me04-booster-pack",
+  "uuid": "d090de50-5f3c-5707-bf53-d5863c100b0e",
   "region": "international",
   "set": "me04",
   "category": "booster_pack",
   "name": "Chaos Rising Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877296
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d245fdd-4935-54aa-a1bc-39a92574bc40",
       "name": "Mega Evolution—Chaos Rising",
       "releaseDate": "2026-05-22",
       "identifiers": {
@@ -29,6 +32,14 @@
       "sources": [
         "https://www.tcgplayer.com/product/684446/pokemon-me04-chaos-rising-chaos-rising-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-chaos-rising"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "6d15bd04-36da-5d88-8abb-ebdfdcc55a11",
+      "name": "Méga-Évolution – Chaos Ascendant",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Amphinobi-ex"
       ]
     }
   ]

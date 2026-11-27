@@ -1,15 +1,18 @@
 {
   "id": "sm11-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "6e59f359-d427-5939-8842-fd58bdd4f1df",
   "region": "international",
   "set": "sm11",
   "category": "other",
   "name": "Unified Minds Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "adb8f3a0-9170-5a4f-8831-8b2c121faad0",
       "name": "Unified Minds Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

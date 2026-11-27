@@ -1,9 +1,11 @@
 {
   "id": "me02.5-tin-mega-emboar-ex",
+  "uuid": "2eba8978-c214-5931-8ed0-9adf0de30ff4",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Tin [Mega Emboar ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be64e236-dec1-5f72-9b79-3624f0d20ac6",
       "name": "Ascended Heroes Tin [Mega Emboar ex]",
       "releaseDate": "2026-08-28",
       "identifiers": {

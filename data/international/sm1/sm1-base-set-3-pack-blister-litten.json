@@ -1,9 +1,11 @@
 {
   "id": "sm1-base-set-3-pack-blister-litten",
+  "uuid": "f9abebd2-2724-521f-a1ab-880d71ca04b8",
   "region": "international",
   "set": "sm1",
   "category": "blister",
   "name": "Sun & Moon Base Set 3 Pack Blister [Litten]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9a6d07b0-6d9c-5ba7-91fe-8cca09009999",
       "name": "Sun & Moon Base Set 3 Pack Blister [Litten]",
       "identifiers": {
         "tcgplayerProductIds": [

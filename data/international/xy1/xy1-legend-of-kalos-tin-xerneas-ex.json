@@ -1,9 +1,11 @@
 {
   "id": "xy1-legend-of-kalos-tin-xerneas-ex",
+  "uuid": "b990f21c-7097-5172-b1dc-2f9b8fa9da64",
   "region": "international",
   "set": "xy1",
   "category": "tin",
   "name": "Legend of Kalos Tin [Xerneas EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dba1820c-6436-559f-adce-e1eaf48fa7d2",
       "name": "Legend of Kalos Tin [Xerneas EX]",
       "identifiers": {
         "tcgplayerProductIds": [

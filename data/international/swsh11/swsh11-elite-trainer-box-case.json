@@ -1,9 +1,11 @@
 {
   "id": "swsh11-elite-trainer-box-case",
+  "uuid": "5764e770-4ff7-5bf2-8161-fff74c5c6a3e",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873120
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc4779fa-c2d9-5dd7-a8e2-1cb4857fb9f4",
       "name": "Lost Origin Elite Trainer Box Case",
       "releaseDate": "2022-09-09",
       "identifiers": {

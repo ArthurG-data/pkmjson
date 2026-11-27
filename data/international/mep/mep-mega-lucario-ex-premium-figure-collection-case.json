@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-lucario-ex-premium-figure-collection-case",
+  "uuid": "c5c9bcc9-1cc5-5a99-af6d-d3ef7a918601",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Lucario ex Premium Figure Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e0d297d5-9cc5-5a69-b3fe-87190a03c250",
       "name": "Mega Lucario ex Premium Figure Collection Case",
       "releaseDate": "2025-11-07",
       "identifiers": {

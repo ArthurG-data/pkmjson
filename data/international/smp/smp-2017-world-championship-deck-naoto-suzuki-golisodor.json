@@ -1,15 +1,18 @@
 {
   "id": "smp-2017-world-championship-deck-naoto-suzuki-golisodor",
+  "uuid": "b862c3aa-bd1b-51d8-ab87-ca27fb28c8c1",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2017 World Championship Deck: Naoto Suzuki (Golisodor)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9f84855f-f305-5a8b-a8a1-9d8df69c7572",
       "name": "2017 World Championship Deck: Naoto Suzuki (Golisodor)",
       "identifiers": {
         "tcgplayerProductIds": [

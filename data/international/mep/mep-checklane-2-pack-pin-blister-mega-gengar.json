@@ -1,9 +1,11 @@
 {
   "id": "mep-checklane-2-pack-pin-blister-mega-gengar",
+  "uuid": "5236d783-8ec6-53c1-a8b5-32a18312ca02",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Mega Gengar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cf0accaf-17da-5505-833b-5d46580cc5dc",
       "name": "Checklane 2-Pack Pin Blister [Mega Gengar]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh8-fun-pack",
+  "uuid": "82d1ebe3-21f8-5445-a072-e446edac8b5a",
   "region": "international",
   "set": "swsh8",
   "category": "other",
   "name": "Fusion Strike Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "16473214-5552-5d4e-b0a9-386861d084ad",
       "name": "Fusion Strike Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

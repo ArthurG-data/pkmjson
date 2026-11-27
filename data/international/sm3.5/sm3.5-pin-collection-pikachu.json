@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-pin-collection-pikachu",
+  "uuid": "75c1edc5-d3e3-5235-8783-38d87868f964",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Pin Collection: Pikachu",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301160
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "31add86d-92c0-52a8-9817-b5b3a277126a",
       "name": "Shining Legends Pin Collection: Pikachu",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "acf483bb-28b1-5b05-8eb8-d103ca29993a",
       "name": "Collection avec pin's Légendes Brillantes Pikachu",
       "releaseDate": "2017-10-07",
       "sources": [

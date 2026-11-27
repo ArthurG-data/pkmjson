@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-tcg-back-to-school-bundle",
+  "uuid": "9e633889-69bb-5822-abcd-74b59673413c",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon TCG: Back to School Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8b1036b9-19a9-5d76-b440-c1d3a6b24753",
       "name": "Pokemon TCG: Back to School Bundle",
       "releaseDate": "2022-07-22",
       "identifiers": {

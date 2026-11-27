@@ -1,15 +1,18 @@
 {
   "id": "me05-3-pack-blister-case",
+  "uuid": "b4390003-7b7d-5385-a4a2-296c502e10dd",
   "region": "international",
   "set": "me05",
   "category": "case",
   "name": "Pitch Black 3-Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b023f612-7cfa-58b1-8914-d1382e36bf5a",
       "name": "Pitch Black 3-Pack Blister Case",
       "releaseDate": "2026-07-17",
       "identifiers": {

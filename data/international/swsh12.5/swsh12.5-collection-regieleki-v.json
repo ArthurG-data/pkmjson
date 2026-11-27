@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-collection-regieleki-v",
+  "uuid": "82d01f6c-a979-5e9a-8f54-740606d27e17",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Collection [Regieleki V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683010
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fc472eb1-c5c6-515d-bc9e-d45214573388",
       "name": "Crown Zenith Collection [Regieleki V]",
       "releaseDate": "2023-01-20",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm6-dawn-wings-necrozma-box",
+  "uuid": "aa1320c8-4785-52fb-82d7-d808d48732dd",
   "region": "international",
   "set": "sm6",
   "category": "collection_box",
   "name": "Dawn Wings Necrozma Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "850ca36f-5268-57a1-a647-3c60e9a34cc6",
       "name": "Dawn Wings Necrozma Box",
       "identifiers": {
         "tcgplayerProductIds": [

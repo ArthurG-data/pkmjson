@@ -1,9 +1,11 @@
 {
   "id": "smp2-booster-pack",
+  "uuid": "570db613-9161-5133-9e57-a04f42ac50ac",
   "region": "asia",
   "set": "SMP2",
   "category": "booster_pack",
   "name": "Great Detective Pikachu Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550426
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f590a72a-985e-5191-adbe-ef4c0954a4ae",
       "name": "ムービースペシャルパック「名探偵ピカチュウ」",
       "releaseDate": "2019-04-26",
       "identifiers": {

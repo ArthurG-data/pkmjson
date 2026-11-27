@@ -1,9 +1,11 @@
 {
   "id": "xy4-collector-s-pin-3-pack-blister-mega-gengar",
+  "uuid": "1694304e-aa5b-5ce5-a349-2d6db8064bb1",
   "region": "international",
   "set": "xy4",
   "category": "blister",
   "name": "Phantom Forces Collector's Pin 3 Pack Blister [Mega Gengar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2eea4a9d-45ff-56fd-b737-456042cc62d4",
       "name": "Phantom Forces Collector's Pin 3 Pack Blister [Mega Gengar]",
       "identifiers": {
         "tcgplayerProductIds": [

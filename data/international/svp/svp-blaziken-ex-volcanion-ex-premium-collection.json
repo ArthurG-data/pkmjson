@@ -1,9 +1,11 @@
 {
   "id": "svp-blaziken-ex-volcanion-ex-premium-collection",
+  "uuid": "fc5597ec-ff44-574f-81cf-9a2de405cfa9",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Blaziken ex & Volcanion ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "778ed276-350f-5058-ac0f-0bd4d5c0dce4",
       "name": "Blaziken ex & Volcanion ex Premium Collection",
       "releaseDate": "2025-09-05",
       "identifiers": {

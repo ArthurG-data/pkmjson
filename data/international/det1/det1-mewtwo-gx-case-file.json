@@ -1,9 +1,11 @@
 {
   "id": "det1-mewtwo-gx-case-file",
+  "uuid": "6c2cf6d9-7344-560f-9e1d-c4c4d7aa5454",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu: Mewtwo GX Case File",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370781
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f6ca7de-9fe6-5947-9f65-130bb5ab3433",
       "name": "Detective Pikachu: Mewtwo GX Case File",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -21,6 +24,31 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/190324/pokemon-detective-pikachu-detective-pikachu-mewtwo-gx-case-file"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "9b5a9c01-ad79-5b28-a86e-b428f728c6a3",
+      "name": "Dossier Détective Pikachu Mewtwo-GX",
+      "releaseDate": "2019-05-03",
+      "contents": {
+        "sealed": [
+          {
+            "product": "det1-booster-pack",
+            "count": 4
+          },
+          {
+            "product": "sm4-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm2-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Dossier_D%C3%A9tective_Pikachu_Mewtwo-GX"
       ]
     }
   ]

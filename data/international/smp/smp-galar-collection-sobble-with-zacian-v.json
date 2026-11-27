@@ -1,9 +1,11 @@
 {
   "id": "smp-galar-collection-sobble-with-zacian-v",
+  "uuid": "75022ccf-fb20-52f7-82d7-5505774b05e6",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Galar Collection [Sobble] - with Zacian V",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f157d489-2c81-598b-8f60-6cab03bae7b0",
       "name": "Galar Collection [Sobble] - with Zacian V",
       "releaseDate": "2019-11-15",
       "identifiers": {

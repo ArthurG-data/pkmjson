@@ -1,9 +1,11 @@
 {
   "id": "sv-p-start-deck-generations-special-battle-set",
+  "uuid": "c9dfaccb-9857-5f02-a79c-ef8c34d1ec76",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Start Deck Generations Special Battle Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3e5156ec-d0fe-509b-a9ef-74ba7cddb839",
       "name": "Start Deck Generations Special Battle Set",
       "identifiers": {
         "tcgplayerProductIds": [

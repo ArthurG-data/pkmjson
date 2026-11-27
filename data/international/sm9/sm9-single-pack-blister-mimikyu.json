@@ -1,9 +1,11 @@
 {
   "id": "sm9-single-pack-blister-mimikyu",
+  "uuid": "7f543b0f-414b-51be-99a6-09ac3bf2ec4e",
   "region": "international",
   "set": "sm9",
   "category": "blister",
   "name": "Team Up Single Pack Blister [Mimikyu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585920
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8b9919d3-d39b-54de-bc33-d4c5e4b84946",
       "name": "Team Up Single Pack Blister [Mimikyu]",
       "identifiers": {
         "tcgplayerProductIds": [

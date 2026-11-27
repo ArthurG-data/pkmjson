@@ -1,9 +1,11 @@
 {
   "id": "s11a-booster-box",
+  "uuid": "3babbfa4-252b-505c-a545-d9c442b49e59",
   "region": "asia",
   "set": "S11a",
   "category": "booster_box",
   "name": "Incandescent Arcana Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 669629
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1b493049-9c4d-558c-a013-fa715a18f354",
       "name": "Incandescent Arcana Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

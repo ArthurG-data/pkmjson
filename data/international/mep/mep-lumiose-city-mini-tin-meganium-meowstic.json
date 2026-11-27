@@ -1,9 +1,11 @@
 {
   "id": "mep-lumiose-city-mini-tin-meganium-meowstic",
+  "uuid": "42a59c9c-a034-5538-81d3-2885299d9dbb",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Lumiose City Mini Tin [Meganium & Meowstic]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "83aa3a76-d559-5b19-85bc-da9b15e4d5c5",
       "name": "Lumiose City Mini Tin [Meganium & Meowstic]",
       "releaseDate": "2026-06-05",
       "identifiers": {

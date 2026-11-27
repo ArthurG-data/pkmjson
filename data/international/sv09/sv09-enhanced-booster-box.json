@@ -1,9 +1,11 @@
 {
   "id": "sv09-enhanced-booster-box",
+  "uuid": "04c8ecd4-2664-5b5d-acc1-5af42682d4ab",
   "region": "international",
   "set": "sv09",
   "category": "booster_box",
   "name": "Journey Together Enhanced Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805580
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dfbf8b43-5a6a-556d-a45f-bf7b140d0c43",
       "name": "Journey Together Enhanced Booster Box",
       "releaseDate": "2025-03-28",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-tcg-battle-academy",
+  "uuid": "1986392d-adfd-5bf5-8b6e-4224069ec51d",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Pokemon TCG: Battle Academy",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 466009
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "533d610d-cdec-5721-8bc5-3fea61c86099",
       "name": "Pokemon TCG: Battle Academy",
       "releaseDate": "2020-07-31",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d4722b0b-527a-57ba-934c-4e2d4b50ad20",
       "name": "Académie de Combat du Jeu de Cartes à Collectionner Pokémon",
       "releaseDate": "2020-07-31",
       "sources": [
@@ -61,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "afd1b29b-1798-51a3-89c4-dfc69784aa9c",
       "name": "Accademia Lotta del Gioco di Carte Collezionabili Pokémon",
       "releaseDate": "2020-07-31",
       "sources": [
@@ -69,6 +74,7 @@
     },
     {
       "language": "de",
+      "uuid": "0f3b6053-26a2-5403-985a-d244ce5faa14",
       "name": "Kampfakademie",
       "releaseDate": "2020-09-04",
       "sources": [

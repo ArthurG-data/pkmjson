@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-destinies-tin-gouging-fire-ex",
+  "uuid": "2f780c67-a6f1-5a23-ba92-de65d1b75c57",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Destinies Tin [Gouging Fire ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "addeef48-9ef6-5c48-9ccb-692b32d4cbdb",
       "name": "Paradox Destinies Tin [Gouging Fire ex]",
       "releaseDate": "2024-09-06",
       "identifiers": {

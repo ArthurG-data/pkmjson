@@ -1,15 +1,18 @@
 {
   "id": "bw4-ex-tin-reshiram",
+  "uuid": "79404efb-d820-524d-9cb7-d3cf9b1c646c",
   "region": "international",
   "set": "bw4",
   "category": "tin",
   "name": "EX Tin [Reshiram]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2915f7a3-75d0-5c65-91c1-a65ea0e498ee",
       "name": "EX Tin [Reshiram]",
       "identifiers": {
         "tcgplayerProductIds": [

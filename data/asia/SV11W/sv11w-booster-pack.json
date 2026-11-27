@@ -1,9 +1,11 @@
 {
   "id": "sv11w-booster-pack",
+  "uuid": "061ba7f3-9db0-560f-a161-00fd8f0efb72",
   "region": "asia",
   "set": "SV11W",
   "category": "booster_pack",
   "name": "White Flare Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3a6da12f-d345-53a3-a326-fee5c2933465",
       "name": "White Flare Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy9-3-pack-blister-umbreon",
+  "uuid": "fc08bc18-e464-52f3-a23a-1e3962ffdb41",
   "region": "international",
   "set": "xy9",
   "category": "blister",
   "name": "BREAKpoint 3 Pack Blister [Umbreon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586356
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e25e9e6e-0df1-5de0-8324-8999e7ea8fbe",
       "name": "BREAKpoint 3 Pack Blister [Umbreon]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -38,6 +41,7 @@
     },
     {
       "language": "fr",
+      "uuid": "78f50918-366f-5fb7-85a9-c4841786ca8d",
       "name": "Tripack XY09 Noctali",
       "releaseDate": "2016-02-06",
       "sources": [

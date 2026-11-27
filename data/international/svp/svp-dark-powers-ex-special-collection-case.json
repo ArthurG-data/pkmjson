@@ -1,15 +1,18 @@
 {
   "id": "svp-dark-powers-ex-special-collection-case",
+  "uuid": "9068f33e-0dce-585e-8c21-83c7ebe59c30",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Dark Powers ex Special Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "05971f93-1966-523d-a86d-b972ae81651f",
       "name": "Dark Powers ex Special Collection Case",
       "releaseDate": "2024-08-30",
       "identifiers": {

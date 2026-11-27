@@ -1,15 +1,18 @@
 {
   "id": "sv06.5-booster-bundle-display-case",
+  "uuid": "31f80016-4b9b-5412-b8a3-0976b031a6ed",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable Booster Bundle Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Booster Bundle Display Case contains 6 displays with 60 Booster Bundles.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f09a5ca1-0eb3-53f2-a6dc-b4419cbb77c0",
       "name": "Shrouded Fable Booster Bundle Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

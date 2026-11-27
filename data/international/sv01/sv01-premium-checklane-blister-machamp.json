@@ -1,9 +1,11 @@
 {
   "id": "sv01-premium-checklane-blister-machamp",
+  "uuid": "52bf7044-360e-5dbc-9123-fd48f529ca89",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet Premium Checklane Blister [Machamp]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 695518
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a5ec69db-1fc4-5215-857c-4216cddf382f",
       "name": "Scarlet & Violet Premium Checklane Blister [Machamp]",
       "identifiers": {
         "tcgplayerProductIds": [

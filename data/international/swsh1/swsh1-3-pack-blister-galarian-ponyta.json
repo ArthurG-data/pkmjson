@@ -1,9 +1,11 @@
 {
   "id": "swsh1-3-pack-blister-galarian-ponyta",
+  "uuid": "0716996e-594c-50e3-b7bd-7981ba3b4b53",
   "region": "international",
   "set": "swsh1",
   "category": "blister",
   "name": "Sword & Shield 3 Pack Blister [Galarian Ponyta]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585897
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2e027662-3ee1-5e2b-84e9-aef59b87a3ee",
       "name": "Sword & Shield 3 Pack Blister [Galarian Ponyta]",
       "identifiers": {
         "tcgplayerProductIds": [

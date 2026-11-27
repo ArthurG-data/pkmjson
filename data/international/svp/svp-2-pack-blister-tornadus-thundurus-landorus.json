@@ -1,9 +1,11 @@
 {
   "id": "svp-2-pack-blister-tornadus-thundurus-landorus",
+  "uuid": "52ba8369-6a4d-553e-a51f-199a1a930e67",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "2 Pack Blister [Tornadus, Thundurus & Landorus]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f29fa896-5090-5afc-bdca-e4878208d9c4",
       "name": "2 Pack Blister [Tornadus, Thundurus & Landorus]",
       "identifiers": {
         "tcgplayerProductIds": [

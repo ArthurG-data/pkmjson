@@ -1,9 +1,11 @@
 {
   "id": "base4-theme-deck-hot-water",
+  "uuid": "0399126e-48ac-5e71-a3cd-bcdbc5aa6707",
   "region": "international",
   "set": "base4",
   "category": "theme_deck",
   "name": "Base Set 2 Theme Deck - \"Hot Water\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286499
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4a9c7b75-0999-5e4e-88d6-700f2a7fc925",
       "name": "Base Set 2 Theme Deck - \"Hot Water\"",
       "identifiers": {
         "tcgplayerProductIds": [

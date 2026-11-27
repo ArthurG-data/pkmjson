@@ -1,15 +1,18 @@
 {
   "id": "sm115-poke-ball-collection-set-of-2",
+  "uuid": "b75dd1f6-f964-5326-973c-0ff10f3f7b43",
   "region": "international",
   "set": "sm115",
   "category": "other",
   "name": "Hidden Fates Poke Ball Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6be39817-aff6-5eae-8a52-af2b6c184ffc",
       "name": "Hidden Fates Poke Ball Collection [Set of 2]",
       "releaseDate": "2019-10-04",
       "identifiers": {

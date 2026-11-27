@@ -1,9 +1,11 @@
 {
   "id": "xy5-sleeved-booster-case",
+  "uuid": "26af229f-a1ed-51f6-aafd-9aed68d0ec80",
   "region": "international",
   "set": "xy5",
   "category": "case",
   "name": "Primal Clash Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c95d2561-8edb-53d6-a6fb-e8ba9450f91b",
       "name": "Primal Clash Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

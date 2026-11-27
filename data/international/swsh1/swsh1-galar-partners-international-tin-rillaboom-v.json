@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-international-tin-rillaboom-v",
+  "uuid": "f9221d2d-c70d-53f1-904a-4c166aab5a55",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Galar Partners International Tin [Rillaboom V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f2a8bcf-6399-5d64-bf25-ee6ecb8b6e88",
       "name": "Galar Partners International Tin [Rillaboom V]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv8-booster-box",
+  "uuid": "166c23e5-405d-5d3e-8a51-4853fe5383ca",
   "region": "asia",
   "set": "SV8",
   "category": "booster_box",
   "name": "Super Electric Breaker Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 789976
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9914103b-6d64-565d-b7a9-131615edf06a",
       "name": "Super Electric Breaker Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

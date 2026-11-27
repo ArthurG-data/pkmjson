@@ -1,9 +1,11 @@
 {
   "id": "m2a-mega-dream-ex-booster-box",
+  "uuid": "f0c89225-90bc-58cd-a8c5-7b1dfb3f660f",
   "region": "asia",
   "set": "M2a",
   "category": "booster_box",
   "name": "Mega Dream ex Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 858380
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "097ef3e4-0fae-54a7-b63f-3eac80c883a3",
       "name": "Mega Dream ex Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

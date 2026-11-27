@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-tin-blissey",
+  "uuid": "c1b68b76-5527-508e-aa2d-24ed4ec93233",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Tin [Blissey]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653710
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7ef3b3f5-832a-58ec-9367-1ef22e4a6cd9",
       "name": "Pokemon GO Tin [Blissey]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b41ce12c-02b9-5ad3-bfa9-9840d44757a8",
       "name": "Boîte Pokémon GO Leuphorie",
       "releaseDate": "2022-11-15",
       "sources": [

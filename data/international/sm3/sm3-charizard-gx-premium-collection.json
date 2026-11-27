@@ -1,9 +1,11 @@
 {
   "id": "sm3-charizard-gx-premium-collection",
+  "uuid": "2dd232d7-4b61-5698-8a6b-8b48252ceb90",
   "region": "international",
   "set": "sm3",
   "category": "premium_collection",
   "name": "Charizard GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f023c185-168b-5bd7-856a-2acc006112d6",
       "name": "Charizard GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -37,6 +40,7 @@
     },
     {
       "language": "it",
+      "uuid": "820d7c56-30c1-52bb-9896-75eeaf3d40d0",
       "name": "Collezione premium Charizard-GX",
       "releaseDate": "2017-09-01",
       "sources": [
@@ -45,6 +49,7 @@
     },
     {
       "language": "de",
+      "uuid": "e3bccbfb-9d7a-5f48-ae29-0e016662b1e6",
       "name": "Premium-Kollektion Glurak-GX",
       "releaseDate": "2017-10-13",
       "sources": [
@@ -53,6 +58,7 @@
     },
     {
       "language": "es",
+      "uuid": "7f02d083-6baa-5067-bc25-64a22c2fafdc",
       "name": "Colección premium Charizard-GX",
       "releaseDate": "2017-09-01",
       "sources": [
@@ -61,6 +67,7 @@
     },
     {
       "language": "fr",
+      "uuid": "63ce7f4e-cdf6-5b38-8c5b-45dc8ea37009",
       "name": "Collection Premium Dracaufeu-GX",
       "releaseDate": "2017-09-26",
       "sources": [

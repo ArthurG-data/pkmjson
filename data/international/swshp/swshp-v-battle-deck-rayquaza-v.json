@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-rayquaza-v",
+  "uuid": "d303294d-bebf-5655-8917-b980daf062e7",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Rayquaza V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b3b3260d-1a83-5782-b0e0-6b67c8967106",
       "name": "V Battle Deck [Rayquaza V]",
       "releaseDate": "2021-10-08",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "95fb62d4-5977-5042-84dc-ba33c0f23081",
       "name": "V-Kampfdeck Rayquaza-V und",
       "releaseDate": "2021-10-08",
       "sources": [

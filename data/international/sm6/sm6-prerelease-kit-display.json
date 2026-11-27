@@ -1,15 +1,18 @@
 {
   "id": "sm6-prerelease-kit-display",
+  "uuid": "aeb788fd-a0fe-568d-a2e4-a0e2594eed2b",
   "region": "international",
   "set": "sm6",
   "category": "case",
   "name": "Forbidden Light Prerelease Kit Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c1c2a72d-854e-525d-89b7-16bc05166e88",
       "name": "Forbidden Light Prerelease Kit Display",
       "identifiers": {
         "tcgplayerProductIds": [

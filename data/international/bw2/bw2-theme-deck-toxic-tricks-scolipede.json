@@ -1,9 +1,11 @@
 {
   "id": "bw2-theme-deck-toxic-tricks-scolipede",
+  "uuid": "1e4cc4bc-465c-56e3-8435-45bb40c3e54a",
   "region": "international",
   "set": "bw2",
   "category": "theme_deck",
   "name": "Emerging Powers Theme Deck - \"Toxic Tricks\" [Scolipede]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286547
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c59c5446-aa0b-57f1-bef0-cb39e06407cc",
       "name": "Emerging Powers Theme Deck - \"Toxic Tricks\" [Scolipede]",
       "identifiers": {
         "tcgplayerProductIds": [

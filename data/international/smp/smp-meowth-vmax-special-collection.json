@@ -1,9 +1,11 @@
 {
   "id": "smp-meowth-vmax-special-collection",
+  "uuid": "acda8499-5e56-52c3-bf9e-5188cd375c0e",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Meowth VMAX Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f5ee94f8-421a-58ad-8026-03051287b3db",
       "name": "Meowth VMAX Special Collection",
       "releaseDate": "2020-01-03",
       "identifiers": {

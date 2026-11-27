@@ -1,9 +1,11 @@
 {
   "id": "sm115-tin-raichu-gx",
+  "uuid": "c5855128-466f-5a4e-99e2-00986a606f7c",
   "region": "international",
   "set": "sm115",
   "category": "tin",
   "name": "Hidden Fates Tin [Raichu GX]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 381216
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e2280704-718c-50b3-8e3a-d5b98403b60c",
       "name": "Hidden Fates Tin [Raichu GX]",
       "releaseDate": "2019-09-06",
       "identifiers": {

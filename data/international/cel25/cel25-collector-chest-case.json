@@ -1,15 +1,18 @@
 {
   "id": "cel25-collector-chest-case",
+  "uuid": "c3f4907e-8f75-5b2f-809f-223845ae28f5",
   "region": "international",
   "set": "cel25",
   "category": "case",
   "name": "Celebrations Collector Chest Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6100550f-4b26-5d77-a730-9ba86bedba39",
       "name": "Celebrations Collector Chest Case",
       "identifiers": {
         "tcgplayerProductIds": [

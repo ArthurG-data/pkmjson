@@ -1,9 +1,11 @@
 {
   "id": "neo4-booster-pack-unlimited-edition",
+  "uuid": "932d7ad8-d5f7-5a45-9f87-d726a47f579b",
   "region": "international",
   "set": "neo4",
   "category": "booster_pack",
   "name": "Neo Destiny Booster Pack [Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ce3f3149-4a87-5e6d-ab32-747c42d85e43",
       "name": "Neo Destiny Booster Pack [Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

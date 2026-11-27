@@ -1,15 +1,18 @@
 {
   "id": "xy6-collector-s-pin-blisters-latios",
+  "uuid": "babc85c6-eb6b-5ed6-928f-d0833749eefd",
   "region": "international",
   "set": "xy6",
   "category": "blister",
   "name": "Mega Evolution Collector's Pin Blisters [Latios]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "75b7521e-fe66-5c48-92ac-662c9a49beda",
       "name": "Mega Evolution Collector's Pin Blisters [Latios]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm10a-booster-box",
+  "uuid": "46c3159c-cc73-52b0-a044-9ef0f79eab6f",
   "region": "asia",
   "set": "SM10a",
   "category": "booster_box",
   "name": "GG End Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550391
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "310cd06f-9fd2-5f2d-9167-e58c05c326bf",
       "name": "GG End Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

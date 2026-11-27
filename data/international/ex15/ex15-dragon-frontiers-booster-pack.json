@@ -1,9 +1,11 @@
 {
   "id": "ex15-dragon-frontiers-booster-pack",
+  "uuid": "e7fc1536-9958-5356-8175-2efc51f32f69",
   "region": "international",
   "set": "ex15",
   "category": "booster_pack",
   "name": "Dragon Frontiers Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271883
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c8f02fae-e7b3-52de-961e-1732a5d23d9f",
       "name": "EX Dragon Frontiers",
       "identifiers": {
         "tcgplayerProductIds": [

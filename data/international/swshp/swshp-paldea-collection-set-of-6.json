@@ -1,15 +1,18 @@
 {
   "id": "swshp-paldea-collection-set-of-6",
+  "uuid": "8a46f659-b0af-54dd-acc9-3581a57c3b22",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Paldea Collection [Set of 6]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Sprigatito; 1 promo card featuring Fuecoco; 1 promo card featuring Quaxly; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "909f6580-8011-5ea3-bd4a-b23b7cb0d3bc",
       "name": "Paldea Collection [Set of 6]",
       "releaseDate": "2023-01-06",
       "identifiers": {

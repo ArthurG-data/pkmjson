@@ -1,9 +1,11 @@
 {
   "id": "sv7-booster-box",
+  "uuid": "98de07c4-c661-500b-ab0c-145936c5a0dd",
   "region": "asia",
   "set": "SV7",
   "category": "booster_box",
   "name": "Stellar Miracle Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 773318
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d92697ff-9eb8-51f7-a217-c13616a88680",
       "name": "Stellar Miracle Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

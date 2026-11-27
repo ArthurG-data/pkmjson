@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-mewtwo",
+  "uuid": "cf70dd64-7547-5432-8c4c-57a59c185f05",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Mewtwo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "89cbcf79-0adb-529b-906f-6235cb3debec",
       "name": "30th Celebration Mini Tin [Mewtwo]",
       "releaseDate": "2026-10-02",
       "identifiers": {

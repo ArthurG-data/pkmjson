@@ -1,9 +1,11 @@
 {
   "id": "sv6a-booster-box",
+  "uuid": "4baaa883-3b42-55d0-ac8d-e3dec86b1d59",
   "region": "asia",
   "set": "SV6a",
   "category": "booster_box",
   "name": "Night Wanderer Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 769158
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "8bc6d1b7-bedb-5697-b447-27e6141990bb",
       "name": "Night Wanderer Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

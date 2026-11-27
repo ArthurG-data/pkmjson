@@ -1,9 +1,11 @@
 {
   "id": "dp3-booster-pack",
+  "uuid": "f0cca3ed-8006-5376-9d91-9324930c7a7b",
   "region": "international",
   "set": "dp3",
   "category": "booster_pack",
   "name": "Secret Wonders Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271838
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1aadcdce-7a7a-5a0d-a0ec-e6ccafdabb9e",
       "name": "Diamond & Pearl—Secret Wonders",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm5-theme-deck-imperial-command-empoleon",
+  "uuid": "febb4b53-4cca-55f3-a1d9-d554608c5364",
   "region": "international",
   "set": "sm5",
   "category": "theme_deck",
   "name": "Ultra Prism Theme Deck - \"Imperial Command\" [Empoleon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 315117
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef431d49-614b-581a-88f2-4e4ceb73245d",
       "name": "Ultra Prism Theme Deck - \"Imperial Command\" [Empoleon]",
       "identifiers": {
         "tcgplayerProductIds": [

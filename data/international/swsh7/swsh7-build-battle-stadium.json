@@ -1,9 +1,11 @@
 {
   "id": "swsh7-build-battle-stadium",
+  "uuid": "df28deb5-aaef-51e7-a8a7-95405701b9cf",
   "region": "international",
   "set": "swsh7",
   "category": "other",
   "name": "Evolving Skies Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "961dd148-695a-5d6f-b0d3-cc3f9d4454b6",
       "name": "Evolving Skies Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [

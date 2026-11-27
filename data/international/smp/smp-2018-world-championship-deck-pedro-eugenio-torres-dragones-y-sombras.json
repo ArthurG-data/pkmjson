@@ -1,15 +1,18 @@
 {
   "id": "smp-2018-world-championship-deck-pedro-eugenio-torres-dragones-y-sombras",
+  "uuid": "3b16cee0-81ef-5f62-bd82-4017a359feac",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2018 World Championship Deck: Pedro Eugenio Torres (Dragones Y Sombras)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1a5fafbf-19d2-5187-b6ae-b675231850a7",
       "name": "2018 World Championship Deck: Pedro Eugenio Torres (Dragones Y Sombras)",
       "identifiers": {
         "tcgplayerProductIds": [

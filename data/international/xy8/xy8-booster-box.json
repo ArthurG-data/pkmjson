@@ -1,9 +1,11 @@
 {
   "id": "xy8-booster-box",
+  "uuid": "a4bfbdd9-daa3-508f-8874-08dbcb9ef32c",
   "region": "international",
   "set": "xy8",
   "category": "booster_box",
   "name": "XY BREAKthrough Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 285575
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4012e709-5024-570c-ad8a-a01834d34541",
       "name": "XY BREAKthrough Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

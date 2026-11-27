@@ -1,9 +1,11 @@
 {
   "id": "xy1-elite-trainer-box-xerneas",
+  "uuid": "1ef7471e-788c-5919-91d7-4c0c03c60d6b",
   "region": "international",
   "set": "xy1",
   "category": "elite_trainer_box",
   "name": "XY Elite Trainer Box [Xerneas]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286955
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e7447f57-f3f9-55a7-9630-4ab441431aab",
       "name": "XY Elite Trainer Box [Xerneas]",
       "identifiers": {
         "tcgplayerProductIds": [

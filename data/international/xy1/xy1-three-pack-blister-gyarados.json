@@ -1,15 +1,18 @@
 {
   "id": "xy1-three-pack-blister-gyarados",
+  "uuid": "bf14f672-6bd2-5281-8e45-4c4f73504162",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Three Pack Blister [Gyarados]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7c23e3a2-784c-5f4f-b200-84e03a5159ce",
       "name": "XY Three Pack Blister [Gyarados]",
       "identifiers": {
         "tcgplayerProductIds": [

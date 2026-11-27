@@ -1,9 +1,11 @@
 {
   "id": "swsh2-legends-of-galar-tin-zamazenta-v",
+  "uuid": "5d83f086-042e-5914-ba5f-723cf685ee67",
   "region": "international",
   "set": "swsh2",
   "category": "tin",
   "name": "Legends of Galar Tin [Zamazenta V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "da73128d-e570-599d-be54-18c3b058f177",
       "name": "Legends of Galar Tin [Zamazenta V]",
       "releaseDate": "2020-05-22",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "fr",
+      "uuid": "87b4b0b0-4aea-500e-a41c-31e45b2ee179",
       "name": "Boîte Légendes de Galar Zamazenta",
       "releaseDate": "2020-05-22",
       "contents": {

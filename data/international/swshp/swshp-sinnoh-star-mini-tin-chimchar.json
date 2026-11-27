@@ -1,9 +1,11 @@
 {
   "id": "swshp-sinnoh-star-mini-tin-chimchar",
+  "uuid": "ec5260ab-7329-5c11-9849-e1952e6424d2",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Sinnoh Star Mini Tin [Chimchar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "92604332-a3b1-5b35-9105-c0d3ba0fc6ca",
       "name": "Sinnoh Star Mini Tin [Chimchar]",
       "releaseDate": "2022-04-08",
       "identifiers": {

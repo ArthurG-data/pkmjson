@@ -1,9 +1,11 @@
 {
   "id": "swsh10-elite-trainer-box-case",
+  "uuid": "5d3cb3e4-1f1c-56d1-85ef-bdd95fb85f4b",
   "region": "international",
   "set": "swsh10",
   "category": "case",
   "name": "Astral Radiance Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873119
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c35521f1-fe0d-5518-8278-663b456b69b5",
       "name": "Astral Radiance Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

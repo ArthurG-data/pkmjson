@@ -1,15 +1,18 @@
 {
   "id": "swsh11-single-pack-blister-set-of-2",
+  "uuid": "bfb74240-a9d8-5771-9bd4-2883163d716a",
   "region": "international",
   "set": "swsh11",
   "category": "other",
   "name": "Lost Origin Single Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Scorbunny or Croagunk; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a0a4cedd-2756-55c7-93d9-7fe3c105fcb3",
       "name": "Lost Origin Single Pack Blister [Set of 2]",
       "releaseDate": "2022-09-09",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv10.5b-unova-victini-illustration-collection-case",
+  "uuid": "b13ae4f2-2896-59f1-88f6-69384ecb690c",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Unova Victini Illustration Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ecaa5ac8-63f3-5d8d-b2cf-388820e6add6",
       "name": "Unova Victini Illustration Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

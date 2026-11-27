@@ -1,15 +1,18 @@
 {
   "id": "swsh4.5-mad-party-pin-collection-display",
+  "uuid": "4456c7e8-f28d-542a-82f6-2ebde0499139",
   "region": "international",
   "set": "swsh4.5",
   "category": "case",
   "name": "Shining Fates Mad Party Pin Collection Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1d6109c3-a730-5cd4-a345-f2e248142714",
       "name": "Shining Fates Mad Party Pin Collection Display",
       "identifiers": {
         "tcgplayerProductIds": [

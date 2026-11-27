@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-poster-collection-case",
+  "uuid": "8d0e2c79-df18-5726-bf53-868ebab0160f",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Poster Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f6fb15a3-058b-5775-ae65-63b6db37ea1a",
       "name": "151 Poster Collection Case",
       "releaseDate": "2023-09-22",
       "identifiers": {

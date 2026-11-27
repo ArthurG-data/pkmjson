@@ -1,15 +1,18 @@
 {
   "id": "smp-2018-world-championship-collectible-coin-and-damage-counter-box",
+  "uuid": "978195e0-6a0b-5f2d-b0b1-e2abb4eb02a2",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "2018 World Championship Collectible Coin and Damage Counter Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: product text.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d2dad7e8-240e-50fb-9fc6-4ccbae51d31c",
       "name": "2018 World Championship Collectible Coin and Damage Counter Box",
       "identifiers": {
         "tcgplayerProductIds": [

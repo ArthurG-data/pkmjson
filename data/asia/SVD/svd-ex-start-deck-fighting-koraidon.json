@@ -1,9 +1,11 @@
 {
   "id": "svd-ex-start-deck-fighting-koraidon",
+  "uuid": "bf6d5133-ae52-5f66-94a1-0f5aa71fd947",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Fighting Koraidon",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 712638
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "28513c74-7c58-516f-921a-d8e47e2ad625",
       "name": "ex Start Deck Fighting Koraidon",
       "identifiers": {
         "tcgplayerProductIds": [

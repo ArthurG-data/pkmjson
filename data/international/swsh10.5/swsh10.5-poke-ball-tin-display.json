@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-poke-ball-tin-display",
+  "uuid": "319a30a9-949b-522f-ba3d-5e67ff31f685",
   "region": "international",
   "set": "swsh10.5",
   "category": "case",
   "name": "Pokemon GO Poke Ball Tin Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653721
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3045ed5e-6bcd-5887-874f-29967328a48d",
       "name": "Pokemon GO Poke Ball Tin Display",
       "releaseDate": "2022-08-26",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv2a-booster-box",
+  "uuid": "f1fc034d-c783-553e-accf-ee7e815e3030",
   "region": "asia",
   "set": "SV2a",
   "category": "booster_box",
   "name": "Pokemon Card 151 Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 718514
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "52538776-413c-5ecf-8602-a0f93b0c82e5",
       "name": "Pokemon Card 151 Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

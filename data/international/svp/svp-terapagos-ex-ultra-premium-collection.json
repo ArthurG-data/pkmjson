@@ -1,9 +1,11 @@
 {
   "id": "svp-terapagos-ex-ultra-premium-collection",
+  "uuid": "57bd9f9b-f6de-5cc2-bb7c-02a430c86216",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Terapagos ex Ultra-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -67,6 +69,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ce4ebf02-d50f-50ce-966c-d50ba3a00e9a",
       "name": "Terapagos ex Ultra-Premium Collection",
       "releaseDate": "2024-11-22",
       "identifiers": {
@@ -80,6 +83,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1bf9c27e-e0d4-5662-a977-7ced91170c04",
       "name": "Collection Ultra‑Premium Terapagos‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-ultra-premium-terapagos-ex"
@@ -87,6 +91,7 @@
     },
     {
       "language": "it",
+      "uuid": "1a6a0d00-bb1e-5d63-b005-5496fdab1023",
       "name": "Collezione ultra premium Terapagos‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ultra-premium-terapagos-ex"

@@ -1,9 +1,11 @@
 {
   "id": "sv04-premium-checklane-blister-tinkaton",
+  "uuid": "da7e3841-a494-5649-98e8-8cd3646dbe2c",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift Premium Checklane Blister [Tinkaton]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728739
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3929c449-e19f-5c98-aef8-245133b87cc6",
       "name": "Paradox Rift Premium Checklane Blister [Tinkaton]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-collector-s-pin-two-pack-blisters-espeon",
+  "uuid": "8a994cf9-7a1f-5e60-9747-d6abb5507504",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Collector's Pin Two Pack Blisters [Espeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "39e3064b-974a-5769-aa69-660af81d3a93",
       "name": "Collector's Pin Two Pack Blisters [Espeon]",
       "identifiers": {
         "tcgplayerProductIds": [

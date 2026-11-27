@@ -1,9 +1,11 @@
 {
   "id": "sv04-sleeved-booster-pack",
+  "uuid": "b5b537dc-dc16-53d5-8304-93c1decfa770",
   "region": "international",
   "set": "sv04",
   "category": "sleeved_booster_pack",
   "name": "Paradox Rift Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728743
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "265c82a9-0eaf-5a3c-8e6e-ba6c3009e556",
       "name": "Paradox Rift Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

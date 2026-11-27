@@ -1,9 +1,11 @@
 {
   "id": "si-battle-deck",
+  "uuid": "1ca62eb0-e4d5-511b-a166-0e3b20a10e54",
   "region": "asia",
   "set": "SI",
   "category": "battle_deck",
   "name": "Start Deck 100",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c20bc779-3d7d-5ca8-8c78-c62643a41fac",
       "name": "Start Deck 100",
       "identifiers": {
         "tcgplayerProductIds": [

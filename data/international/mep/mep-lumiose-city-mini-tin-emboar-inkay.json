@@ -1,9 +1,11 @@
 {
   "id": "mep-lumiose-city-mini-tin-emboar-inkay",
+  "uuid": "339dddf1-1dc5-5214-aee0-e3157e5a7073",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Lumiose City Mini Tin [Emboar & Inkay]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae91ecfa-7e5a-55e9-9455-f33f51c398f6",
       "name": "Lumiose City Mini Tin [Emboar & Inkay]",
       "releaseDate": "2026-06-05",
       "identifiers": {

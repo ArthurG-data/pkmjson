@@ -1,9 +1,11 @@
 {
   "id": "xy1-booster-pack",
+  "uuid": "53580dd7-746f-5230-831d-798a5be0c26f",
   "region": "international",
   "set": "xy1",
   "category": "booster_pack",
   "name": "XY Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271861
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8af3bf13-6f5a-58bf-a837-e2f784c4a5d2",
       "name": "XY",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "40abfb10-ab76-518a-86ac-7e6975d0dcbd",
       "name": "XY",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Carchacrok-EX",

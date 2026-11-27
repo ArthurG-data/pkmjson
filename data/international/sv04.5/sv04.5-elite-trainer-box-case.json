@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-elite-trainer-box-case",
+  "uuid": "e73954fc-f068-5753-9cd1-6cc186019700",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745550
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d238e0af-a4a7-5852-94b9-2023c0953c32",
       "name": "Paldean Fates Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

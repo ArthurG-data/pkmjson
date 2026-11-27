@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-challengers-tin-polteageist-v",
+  "uuid": "f58bf7bf-9106-5c9f-a47f-0de2ea83a6dc",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Challengers Tin [Polteageist V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c879518a-183e-5038-88c2-5abbc88049ee",
       "name": "Galar Challengers Tin [Polteageist V]",
       "identifiers": {
         "tcgplayerProductIds": [

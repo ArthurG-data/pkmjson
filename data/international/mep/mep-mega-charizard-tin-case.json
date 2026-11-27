@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-charizard-tin-case",
+  "uuid": "c0a42df9-d8c1-51d3-ada4-68a9447602ee",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Charizard Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dfdfbcda-5556-5daa-9dc7-3a7f58fdcaee",
       "name": "Mega Charizard Tin Case",
       "releaseDate": "2026-02-20",
       "identifiers": {

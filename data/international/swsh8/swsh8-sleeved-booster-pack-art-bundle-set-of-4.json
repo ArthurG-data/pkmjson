@@ -1,15 +1,18 @@
 {
   "id": "swsh8-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "6c3a49ca-cfdc-5aa8-83b5-b9f09d1effba",
   "region": "international",
   "set": "swsh8",
   "category": "other",
   "name": "Fusion Strike Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ac8bc223-4017-5cc0-a127-7fc8e7a28f7d",
       "name": "Fusion Strike Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm12-pikachu-gx-eevee-gx-special-collection",
+  "uuid": "72631b49-ce17-5981-8d2e-6879d9297087",
   "region": "international",
   "set": "sm12",
   "category": "collection_box",
   "name": "Pikachu GX & Eevee GX Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c75ad53a-ba47-5ac2-a8bb-0bc286e93c52",
       "name": "Pikachu GX & Eevee GX Special Collection",
       "releaseDate": "2019-11-01",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "41e0026f-d7fe-5e15-a2fb-6f3148cd0169",
       "name": "Spezial-Kollektion Pikachu-GX & Evoli-GX",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -60,6 +64,7 @@
     },
     {
       "language": "fr",
+      "uuid": "33af4ccf-204b-5abe-b9ca-08ae618197fc",
       "name": "Collection spéciale – Pikachu-GX et Évoli-GX",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -68,6 +73,7 @@
     },
     {
       "language": "es",
+      "uuid": "a66e3231-0ef1-5289-a8b2-3f82d01a8782",
       "name": "Colección especial Pikachu-GX e Eevee-GX",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -76,6 +82,7 @@
     },
     {
       "language": "it",
+      "uuid": "50e638b2-9156-58ce-a478-2009df75e0b2",
       "name": "Collezione speciale Pikachu-GX e Eevee-GX",
       "releaseDate": "2019-11-01",
       "sources": [

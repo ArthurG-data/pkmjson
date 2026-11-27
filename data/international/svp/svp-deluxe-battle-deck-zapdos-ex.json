@@ -1,9 +1,11 @@
 {
   "id": "svp-deluxe-battle-deck-zapdos-ex",
+  "uuid": "e7152fd4-792e-57d6-b5e8-c8667f90d7c5",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "Deluxe Battle Deck [Zapdos ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ab4f875a-87bf-529d-937c-c7a306d885e4",
       "name": "Deluxe Battle Deck [Zapdos ex]",
       "releaseDate": "2024-03-22",
       "identifiers": {
@@ -54,6 +57,7 @@
     },
     {
       "language": "es",
+      "uuid": "451bba74-cd09-5fec-8808-66df60dc6a89",
       "name": "Baraja Combate Deluxe de Ninetales ex y baraja Combate Deluxe de Zapdos ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-deluxe-de-ninetales-ex-y-baraja-combate-deluxe-de-zapdos-ex"
@@ -61,6 +65,7 @@
     },
     {
       "language": "fr",
+      "uuid": "77fd9f46-a098-57a4-b68f-ee90ca2ecb0a",
       "name": "Deck Combat Deluxe Feunard‑ex et Deck Combat Deluxe Électhor‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-deluxe-feunard-ex-et-deck-combat-deluxe-electhor-ex"

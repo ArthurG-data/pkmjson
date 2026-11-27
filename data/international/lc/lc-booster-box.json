@@ -1,9 +1,11 @@
 {
   "id": "lc-booster-box",
+  "uuid": "d0e5eb08-8e97-5730-8d92-f9a6af54a26c",
   "region": "international",
   "set": "lc",
   "category": "booster_box",
   "name": "Legendary Collection Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271888
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0c77394f-e0f1-551e-9e64-80b778a95568",
       "name": "Legendary Collection Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

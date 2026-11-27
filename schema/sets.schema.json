@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/pkmjson/schema/sets.schema.json",
+  "title": "pkmjson sets",
+  "description": "sets/sets.json: every set a product family is filed under, keyed <region>/<set>, with its name as printed on its packs and a logo, per language. Each value cites its source.",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^(international|asia)/[A-Za-z0-9.+-]+$"
+  },
+  "additionalProperties": {
+    "$ref": "#/$defs/set"
+  },
+  "$defs": {
+    "set": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "region",
+        "set",
+        "languages"
+      ],
+      "properties": {
+        "region": {
+          "enum": [
+            "international",
+            "asia"
+          ]
+        },
+        "set": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9]+(?:[.+-]?[A-Za-z0-9+]+)*$"
+        },
+        "languages": {
+          "description": "Empty for a set no source names.",
+          "type": "object",
+          "propertyNames": {
+            "enum": [
+              "en",
+              "fr",
+              "de",
+              "it",
+              "es",
+              "pt",
+              "nl",
+              "pl",
+              "ja",
+              "ko",
+              "zh-tw",
+              "zh-cn",
+              "th",
+              "id"
+            ]
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/language"
+          }
+        }
+      }
+    },
+    "language": {
+      "type": "object",
+      "additionalProperties": false,
+      "dependentRequired": {
+        "name": [
+          "source"
+        ],
+        "logoSource": [
+          "logo"
+        ],
+        "logoLanguage": [
+          "logo"
+        ],
+        "logoKind": [
+          "logo"
+        ]
+      },
+      "anyOf": [
+        {
+          "required": [
+            "name"
+          ]
+        },
+        {
+          "required": [
+            "logo"
+          ]
+        }
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "releaseDate": {
+          "type": "string",
+          "format": "date"
+        },
+        "source": {
+          "description": "The page that states the name.",
+          "type": "string",
+          "format": "uri"
+        },
+        "logo": {
+          "type": "string",
+          "format": "uri"
+        },
+        "logoSource": {
+          "enum": [
+            "tcgdex",
+            "pokemon.com",
+            "pokemon-card.com"
+          ]
+        },
+        "logoLanguage": {
+          "description": "The language whose logo this is, when the set has none of its own.",
+          "type": "string"
+        },
+        "logoKind": {
+          "description": "What stands in for a logo the set does not have.",
+          "enum": [
+            "product image",
+            "symbol"
+          ]
+        }
+      }
+    }
+  }
+}

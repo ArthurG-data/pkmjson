@@ -1,9 +1,11 @@
 {
   "id": "swshp-lucario-vstar-premium-collection",
+  "uuid": "39b21293-cd9d-53c9-9b14-40213f4a9ee3",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Lucario VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f8209c4d-ad7a-5586-8a4d-08fdd907b023",
       "name": "Lucario VSTAR Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

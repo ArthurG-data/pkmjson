@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-pin-collection-marshadow",
+  "uuid": "34d460df-8a9c-5f31-bf02-85186e30e52d",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Pin Collection: Marshadow",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4f520c02-a10f-5fd7-bda9-4280730cffe4",
       "name": "Shining Legends Pin Collection: Marshadow",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "188fd9e1-dcc4-537f-8619-56146b01fb99",
       "name": "Collection avec pin's Légendes Brillantes Marshadow",
       "releaseDate": "2018-01-30",
       "sources": [
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "22a1e9dd-928b-5de3-b0aa-dfe6965b1473",
       "name": "Pin-Kollektion Marshadow der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
       "releaseDate": "2018-01-19",
       "sources": [

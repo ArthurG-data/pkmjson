@@ -1,9 +1,11 @@
 {
   "id": "sv05-booster-box-case",
+  "uuid": "bf9734d7-c908-528c-a280-f2810982309c",
   "region": "international",
   "set": "sv05",
   "category": "case",
   "name": "Temporal Forces Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750407
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "34649cfb-2da5-5896-b2a2-6b3ef10447e6",
       "name": "Temporal Forces Booster Box Case",
       "releaseDate": "2024-03-22",
       "identifiers": {

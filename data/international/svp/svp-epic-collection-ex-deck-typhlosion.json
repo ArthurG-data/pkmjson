@@ -1,9 +1,11 @@
 {
   "id": "svp-epic-collection-ex-deck-typhlosion",
+  "uuid": "cd0554be-08f5-56d6-acc8-fc6677ef3fa4",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Epic Collection ex Deck [Typhlosion]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d93f0868-f9fe-5dc3-b5ca-c7e73914e8de",
       "name": "Epic Collection ex Deck [Typhlosion]",
       "identifiers": {
         "tcgplayerProductIds": [

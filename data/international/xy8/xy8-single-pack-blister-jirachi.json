@@ -1,9 +1,11 @@
 {
   "id": "xy8-single-pack-blister-jirachi",
+  "uuid": "a60fd4b9-e064-5596-a231-413c8b0c698e",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough Single Pack Blister [Jirachi]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586368
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ca0ea866-55a6-5a03-9fb0-ff9a2dc83eee",
       "name": "BREAKthrough Single Pack Blister [Jirachi]",
       "identifiers": {
         "tcgplayerProductIds": [

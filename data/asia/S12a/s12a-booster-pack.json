@@ -1,9 +1,11 @@
 {
   "id": "s12a-booster-pack",
+  "uuid": "368c3904-196b-5655-8a3b-b3b84716d6cd",
   "region": "asia",
   "set": "S12a",
   "category": "booster_pack",
   "name": "VSTAR Universe Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 681797
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "552fef08-8593-5839-94a3-4d411c59f7b4",
       "name": "ハイクラスパック 「VSTARユニバース」",
       "releaseDate": "2022-12-02",
       "identifiers": {

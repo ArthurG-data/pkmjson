@@ -1,15 +1,18 @@
 {
   "id": "xy12-mythical-collection-volcanion",
+  "uuid": "ca8e5a7e-568e-5ce1-a105-de783d05d80b",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Mythical Collection [Volcanion]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0abd8358-d3ad-52df-9c9a-218d3f7bc8ae",
       "name": "Mythical Collection [Volcanion]",
       "identifiers": {
         "tcgplayerProductIds": [

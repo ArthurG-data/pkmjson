@@ -1,15 +1,18 @@
 {
   "id": "sm115-booster-pack-art-bundle-set-of-4",
+  "uuid": "8cd63c2b-f9c5-5f48-ae1d-1e2ac002c99b",
   "region": "international",
   "set": "sm115",
   "category": "other",
   "name": "Hidden Fates Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c48dfb47-8be3-56e3-836d-9cd7167f8eda",
       "name": "Hidden Fates Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

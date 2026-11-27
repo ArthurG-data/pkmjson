@@ -1,9 +1,11 @@
 {
   "id": "sm5-legends-of-johto-gx-premium-collection-box",
+  "uuid": "07cb7612-7b76-520a-9421-0ca0bd679917",
   "region": "international",
   "set": "sm5",
   "category": "premium_collection",
   "name": "Legends of Johto GX Premium Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6dd80a2c-fb8b-59d6-86bd-e8827ce5679a",
       "name": "Legends of Johto GX Premium Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [

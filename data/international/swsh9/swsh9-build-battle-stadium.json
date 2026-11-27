@@ -1,9 +1,11 @@
 {
   "id": "swsh9-build-battle-stadium",
+  "uuid": "0c225483-b4c3-5730-8ffd-c3757777f173",
   "region": "international",
   "set": "swsh9",
   "category": "other",
   "name": "Brilliant Stars Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "699f1480-b10d-5893-8201-c2791f0247e5",
       "name": "Brilliant Stars Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [

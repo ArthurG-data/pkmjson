@@ -1,15 +1,18 @@
 {
   "id": "tk-ex-latia-ex-trainer-kit",
+  "uuid": "3359fddb-8709-5cbc-b9b2-5ef17b6a8e9d",
   "region": "international",
   "set": "tk-ex-latia",
   "category": "other",
   "name": "EX Trainer Kit [Latias & Latios]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f9ef32d5-6280-5eae-a15c-2534e8fd0852",
       "name": "EX Trainer Kit [Latias & Latios]",
       "identifiers": {
         "tcgplayerProductIds": [

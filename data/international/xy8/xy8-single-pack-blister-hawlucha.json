@@ -1,9 +1,11 @@
 {
   "id": "xy8-single-pack-blister-hawlucha",
+  "uuid": "e2f351c8-d05e-57e7-a497-f0a9cc80db78",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough Single Pack Blister [Hawlucha]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586367
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae9d73fe-ed3c-5c95-9004-494f76b86f35",
       "name": "BREAKthrough Single Pack Blister [Hawlucha]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-knock-out-collection-alakazam",
+  "uuid": "3076f12c-fbde-55e6-8147-b4246df27868",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Knock Out Collection [Alakazam]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1926bbcb-6c28-5247-81a9-4eb719000d5e",
       "name": "Knock Out Collection [Alakazam]",
       "identifiers": {
         "tcgplayerProductIds": [

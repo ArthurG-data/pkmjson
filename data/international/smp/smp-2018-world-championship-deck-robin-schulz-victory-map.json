@@ -1,15 +1,18 @@
 {
   "id": "smp-2018-world-championship-deck-robin-schulz-victory-map",
+  "uuid": "47a01b48-452c-551d-86ee-c810fb980873",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2018 World Championship Deck: Robin Schulz (Victory Map)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ded4f372-d573-5526-a817-6b7ce02506e6",
       "name": "2018 World Championship Deck: Robin Schulz (Victory Map)",
       "identifiers": {
         "tcgplayerProductIds": [

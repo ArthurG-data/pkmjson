@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-v-tin-boltund-v",
+  "uuid": "933c5695-e7c2-5ebd-83eb-3d64422b2913",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates V Tin [Boltund V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "644adab4-48ef-59c0-b8d4-d458246031e9",
       "name": "Shining Fates V Tin [Boltund V]",
       "identifiers": {
         "tcgplayerProductIds": [

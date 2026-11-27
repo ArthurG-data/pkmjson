@@ -1,9 +1,11 @@
 {
   "id": "s10b-booster-box",
+  "uuid": "c7c1c579-dde5-526f-ac75-37f9bcd29f50",
   "region": "asia",
   "set": "S10b",
   "category": "booster_box",
   "name": "Pokemon GO Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "86c51d41-c176-570d-a3b9-2271ee5ffdbb",
       "name": "Pokemon GO Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

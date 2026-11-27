@@ -1,15 +1,18 @@
 {
   "id": "pop4-pack",
+  "uuid": "e4fc331f-da1b-5421-8ff3-49ea14a210c8",
   "region": "international",
   "set": "pop4",
   "category": "other",
   "name": "POP Series 4 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "673a72db-f6e2-5559-bf88-96eef760cf71",
       "name": "POP Series 4 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

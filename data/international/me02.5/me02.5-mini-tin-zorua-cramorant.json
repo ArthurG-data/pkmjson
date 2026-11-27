@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mini-tin-zorua-cramorant",
+  "uuid": "dc9be842-ae33-59a1-b6f2-67eda45dd582",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Mini Tin [Zorua & Cramorant]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b2acc5cc-857d-5f7d-b55d-a5b6cda7a8d4",
       "name": "Ascended Heroes Mini Tin [Zorua & Cramorant]",
       "releaseDate": "2026-02-20",
       "identifiers": {

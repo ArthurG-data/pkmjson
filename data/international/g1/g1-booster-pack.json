@@ -1,9 +1,11 @@
 {
   "id": "g1-booster-pack",
+  "uuid": "ce44b56c-49cc-59a7-9ab1-421994a19255",
   "region": "international",
   "set": "g1",
   "category": "booster_pack",
   "name": "Generations Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293301
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c114e15c-f7ce-5c9e-b269-a321decc9ca2",
       "name": "Generations",
       "identifiers": {
         "tcgplayerProductIds": [

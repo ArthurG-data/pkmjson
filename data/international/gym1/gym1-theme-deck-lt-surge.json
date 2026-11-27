@@ -1,9 +1,11 @@
 {
   "id": "gym1-theme-deck-lt-surge",
+  "uuid": "664ee01d-ff5c-519b-aaf0-509c7e7ffcff",
   "region": "international",
   "set": "gym1",
   "category": "theme_deck",
   "name": "Gym Heroes Theme Deck - \"Lt. Surge\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286506
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01fe1239-8c6f-595e-a868-1f9c47b5cfec",
       "name": "Gym Heroes Theme Deck - \"Lt. Surge\"",
       "identifiers": {
         "tcgplayerProductIds": [

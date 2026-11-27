@@ -1,9 +1,11 @@
 {
   "id": "swsh6-build-battle-box",
+  "uuid": "017e758c-8eef-5b6b-a1d3-0a33a3192a8f",
   "region": "international",
   "set": "swsh6",
   "category": "build_and_battle_box",
   "name": "Chilling Reign Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557970
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01c695e5-7cb5-521f-a3f0-a54957c139f3",
       "name": "Chilling Reign Build & Battle Box",
       "releaseDate": "2021-06-18",
       "identifiers": {

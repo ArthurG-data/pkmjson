@@ -1,9 +1,11 @@
 {
   "id": "sm3-3-pack-blister-cosmog",
+  "uuid": "22b42343-4f6a-5132-99d6-9dc4ec9d2159",
   "region": "international",
   "set": "sm3",
   "category": "blister",
   "name": "Burning Shadows 3 Pack Blister [Cosmog]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585991
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "af237b63-2618-5072-a850-9d3de4d85fea",
       "name": "Burning Shadows 3 Pack Blister [Cosmog]",
       "identifiers": {
         "tcgplayerProductIds": [

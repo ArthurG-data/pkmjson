@@ -1,9 +1,11 @@
 {
   "id": "svp-vibrant-paldea-mini-tin-dachsbun",
+  "uuid": "d73c2f34-286a-5d60-bc61-1a6ed8a5c3fe",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Vibrant Paldea Mini Tin [Dachsbun]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "05df9b3f-65cc-581b-8e0b-68cd7bd95796",
       "name": "Vibrant Paldea Mini Tin [Dachsbun]",
       "releaseDate": "2024-06-07",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f0a93b59-b059-5739-8b64-865273a37c7a",
       "name": "Mini‑boîte Magnifique Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-magnifique-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "f7f16e23-f8b2-5ecf-a677-5187302e2c00",
       "name": "Miniscatola da collezione Paldea Sfavillante",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-paldea-sfavillante"

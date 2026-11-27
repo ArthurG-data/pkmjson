@@ -1,9 +1,11 @@
 {
   "id": "sm6-booster-box",
+  "uuid": "aecbf6d5-53b4-565b-9737-823eef886495",
   "region": "international",
   "set": "sm6",
   "category": "booster_box",
   "name": "Forbidden Light Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 316135
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e7382515-5d93-5d52-bec2-9fef59b2d386",
       "name": "Forbidden Light Booster Box",
       "releaseDate": "2018-05-04",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh9-sleeved-booster-pack",
+  "uuid": "1439a940-de0f-59ac-a12e-337f9062f2ec",
   "region": "international",
   "set": "swsh9",
   "category": "sleeved_booster_pack",
   "name": "Brilliant Stars Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674710
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4f37263c-8287-5359-88a2-078050be8ab8",
       "name": "Brilliant Stars Sleeved Booster Pack",
       "releaseDate": "2022-02-25",
       "identifiers": {

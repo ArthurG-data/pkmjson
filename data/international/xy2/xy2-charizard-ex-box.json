@@ -1,15 +1,18 @@
 {
   "id": "xy2-charizard-ex-box",
+  "uuid": "4fde917f-f01c-5b55-a7c3-45d7761db28c",
   "region": "international",
   "set": "xy2",
   "category": "collection_box",
   "name": "Charizard Ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Charizard EX promo ard; Special Oversized Promo of Charizard EX; Bonus online code card for the Charizard EX promo card on the Pokemon TCG Online!; 4 Pokemon TCG Booster Packs.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e75a8629-d6b0-5ba1-96b7-ab753634e304",
       "name": "Charizard Ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

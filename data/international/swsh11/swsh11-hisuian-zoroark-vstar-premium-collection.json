@@ -1,9 +1,11 @@
 {
   "id": "swsh11-hisuian-zoroark-vstar-premium-collection",
+  "uuid": "9360e17c-3ee0-5337-aa6e-595095eb669c",
   "region": "international",
   "set": "swsh11",
   "category": "premium_collection",
   "name": "Hisuian Zoroark VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "966e9760-39b7-5720-b9bd-af952f53857f",
       "name": "Hisuian Zoroark VSTAR Premium Collection",
       "releaseDate": "2022-10-28",
       "identifiers": {

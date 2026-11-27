@@ -1,9 +1,11 @@
 {
   "id": "swsh10-premium-checklane-blister-steelix",
+  "uuid": "3e9a2acf-2206-5b2b-9a7f-fd8bae656afe",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance Premium Checklane Blister [Steelix]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "817216c4-f9b1-50c4-9c0b-3a35c41b0e9a",
       "name": "Astral Radiance Premium Checklane Blister [Steelix]",
       "identifiers": {
         "tcgplayerProductIds": [

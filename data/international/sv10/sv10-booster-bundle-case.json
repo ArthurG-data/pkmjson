@@ -1,15 +1,18 @@
 {
   "id": "sv10-booster-bundle-case",
+  "uuid": "0fec6899-7bd1-5762-8e84-a7c212374833",
   "region": "international",
   "set": "sv10",
   "category": "case",
   "name": "Destined Rivals Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e63bb25a-66b8-586c-b407-e3162cbfe3d8",
       "name": "Destined Rivals Booster Bundle Case",
       "releaseDate": "2025-05-30",
       "identifiers": {

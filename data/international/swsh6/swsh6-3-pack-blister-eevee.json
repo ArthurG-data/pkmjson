@@ -1,9 +1,11 @@
 {
   "id": "swsh6-3-pack-blister-eevee",
+  "uuid": "9ea583a6-0d1a-54c0-9b31-1803225416e6",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign 3 Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585723
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b7b42fd8-d4a5-5bf6-a992-51dbf4aecf75",
       "name": "Chilling Reign 3 Pack Blister [Eevee]",
       "releaseDate": "2021-06-18",
       "identifiers": {

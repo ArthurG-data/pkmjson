@@ -1,9 +1,11 @@
 {
   "id": "xy1-elite-trainer-box-yveltal",
+  "uuid": "0ccea675-c08a-518e-9144-b6052efd975b",
   "region": "international",
   "set": "xy1",
   "category": "elite_trainer_box",
   "name": "XY Elite Trainer Box [Yveltal]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286956
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ad1cc580-06a9-531d-bfe9-491253f1c4e8",
       "name": "XY Elite Trainer Box [Yveltal]",
       "identifiers": {
         "tcgplayerProductIds": [

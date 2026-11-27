@@ -21,26 +21,37 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
-import hashlib
 import html
 import json
 import re
 import sys
-import time
-import unicodedata
-import urllib.error
-import urllib.request
 from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from pkmjson import ROOT, Family, load, validate
+import uuids
+from net import Fetcher
+from pkmjson import (
+    MAPPINGS,
+    PACK_CATEGORIES,
+    REVIEW,
+    ROOT,
+    TCGDEX_API,
+    Family,
+    fold,
+    load,
+    read_json,
+    set_prefix,
+    slug,
+    validate,
+    write_family,
+    write_json,
+)
 
 TCGCSV = "https://tcgcsv.com/tcgplayer"
-TCGDEX_API = "https://api.tcgdex.net/v2"
-USER_AGENT = "pkmjson/0.1 (+https://github.com/ArthurG-data/pkmjson)"
 PROMO_WINDOW_DAYS = 45
-PACKS = ("booster_pack", "sleeved_booster_pack")  # random cards: never complete
+PACKS = PACK_CATEGORIES  # random cards: never complete
+GENERATED_BY = "import_tcgplayer"
 # Products that always hold booster packs (or boxes of them): one listed without any is not complete.
 HOLDS_PACKS = ("booster_box", "half_booster_box", "booster_bundle", "elite_trainer_box", "build_and_battle_box",
                "blister", "tin", "premium_collection", "collection_box")
@@ -85,45 +96,6 @@ CATEGORY_RULES = [
 ]
 
 
-# --- fetching ---------------------------------------------------------------------------------------------------
-
-
-class Fetcher:
-    """GETs JSON, cached on disk so a re-run does not refetch."""
-
-    def __init__(self, cache: Path, pause: float = 0.2):
-        self.cache, self.pause = cache, pause
-
-    def get(self, url: str) -> dict | list | None:
-        name = re.sub(r"[^A-Za-z0-9._-]+", "_", url.split("://", 1)[1])
-        if len(name) > 120:   # batched API URLs are longer than a file name may be (eCryptfs: 143)
-            name = f"{name[:70]}_{hashlib.sha1(url.encode()).hexdigest()}"
-        path = self.cache / name
-        if path.exists():
-            body = json.loads(path.read_text(encoding="utf-8"))
-            return None if body == {"__missing__": True} else body
-        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
-        for attempt in range(6):
-            try:
-                with urllib.request.urlopen(request, timeout=60) as response:
-                    body = json.load(response)
-                break
-            except urllib.error.HTTPError as error:
-                if error.code == 404:
-                    body = {"__missing__": True}
-                    break
-                if error.code not in (429, 500, 502, 503, 504) or attempt == 5:
-                    raise
-            except (urllib.error.URLError, TimeoutError):
-                if attempt == 5:
-                    raise
-            time.sleep(2 ** attempt)
-        time.sleep(self.pause)
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(json.dumps(body, ensure_ascii=False), encoding="utf-8")
-        return None if body == {"__missing__": True} else body
-
-
 def _results(body) -> list[dict]:
     if isinstance(body, dict):
         return body.get("results") or []
@@ -131,16 +103,6 @@ def _results(body) -> list[dict]:
 
 
 # --- text helpers -----------------------------------------------------------------------------------------------
-
-
-def fold(text: str) -> str:
-    """Lowercase, accents and punctuation folded, for comparing names."""
-    text = "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
-    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
-
-
-def slug(text: str) -> str:
-    return fold(text).replace(" ", "-")
 
 
 def count_of(word: str) -> int:
@@ -323,9 +285,9 @@ class PromoResolver:
                 third = variant.get("thirdParty") or {}
                 if third.get("tcgplayer") == listing.product_id and variant.get("variantId"):
                     # TCGplayer names the stamped listing and TCGdex links it; when they disagree on the stamp,
-                    # neither is trusted.
+                    # this variant is not trusted, but another may be.
                     if ("pokemon center" in listing.stamps) != ("pokemon-center" in (variant.get("stamp") or [])):
-                        return None
+                        continue
                     item = {"tcgdexCardId": card["id"], "tcgdexVariantId": variant["variantId"],
                             "tcgplayerProductId": listing.product_id}
                     if third.get("cardmarket") is not None:
@@ -681,6 +643,19 @@ class Parser:
 # --- assembling families ----------------------------------------------------------------------------------------
 
 
+def merged(items: list[dict]) -> list[dict]:
+    """Items that are the same thing listed twice ("1 Pokémon coin" on two lines) as one item with both counts, in
+    the order each first appears."""
+    out: dict[str, dict] = {}
+    for item in items:
+        key = json.dumps({k: v for k, v in item.items() if k != "count"}, sort_keys=True)
+        if key in out:
+            out[key]["count"] += item["count"]
+        else:
+            out[key] = dict(item)
+    return list(out.values())
+
+
 def family_file(draft: Draft, cardmarket: dict[int, int]) -> dict:
     product, edition = draft.product, draft.edition
     release = {"language": edition.language, "name": product["name"]}
@@ -689,11 +664,12 @@ def family_file(draft: Draft, cardmarket: dict[int, int]) -> dict:
     release["identifiers"] = {"tcgplayerProductIds": [product["productId"]]}
     release["sources"] = [product["url"]]
     data = {"id": draft.family_id, "region": edition.region, "set": draft.group.set_id, "category": draft.category,
-            "name": product["name"]}
+            "name": product["name"], "generatedBy": GENERATED_BY}
     if product["productId"] in cardmarket:
         data["identifiers"] = {"cardmarketProductId": cardmarket[product["productId"]]}
     data["contentsStatus"] = "complete" if draft.complete else "partial"
-    contents = {k: v for k, v in (("sealed", draft.sealed), ("cards", draft.cards), ("other", draft.other)) if v}
+    contents = {k: merged(v) for k, v in (("sealed", draft.sealed), ("cards", draft.cards), ("other", draft.other))
+                if v}
     data["contents"] = contents
     notes = ["Generated from TCGplayer's product text."]
     if draft.category in PACKS:
@@ -799,11 +775,12 @@ def japanese_era_groups(fetcher: Fetcher, edition: Edition, mapped: set[int], pr
 
 
 def is_generated(family: Family, language: str = "en") -> bool:
-    """Written by this tool: its notes say so and its release in the edition's language cites the TCGplayer page
-    first. Other releases, and sources another tool added after that page, do not make the family hand-written."""
+    """Written by this tool: it says so in generatedBy, and its release in the edition's language cites the
+    TCGplayer page first. Other releases, and sources another tool added after that page, do not make the family
+    hand-written. A family someone edits by hand loses generatedBy, and this tool leaves it alone from then on."""
     own = [r for r in family.data.get("releases") or [] if r.get("language") == language]
     return len(own) == 1 and "tcgplayer.com/product/" in (own[0].get("sources") or [""])[0] and \
-        str(family.data.get("notes", "")).startswith("Generated from TCGplayer")
+        family.data.get("generatedBy") == GENERATED_BY
 
 
 def keep_pool(data: dict, previous: dict) -> None:
@@ -811,6 +788,25 @@ def keep_pool(data: dict, previous: dict) -> None:
     pool = (previous.get("contents") or {}).get("pool")
     if pool and data["category"] in PACKS:
         data["contents"]["pool"] = pool
+
+
+def keep_identifiers(data: dict, previous: dict) -> None:
+    """A regenerated family keeps the family ids another tool or a person added (a Cardmarket id the mapping
+    lacks); the mapping's own ids win."""
+    merged = {**(previous.get("identifiers") or {}), **(data.get("identifiers") or {})}
+    if merged:
+        rest = {k: v for k, v in data.items() if k != "identifiers"}
+        data.clear()
+        for k, v in rest.items():
+            data[k] = v
+            if k == "generatedBy":
+                data["identifiers"] = merged
+
+
+def merge_review(previous: list[dict], fresh: list[dict], redone: set[int]) -> list[dict]:
+    """The review file after a run limited to some groups: the entries of the products it redid are replaced, every
+    other entry is kept."""
+    return [r for r in previous if r.get("tcgplayerProductId") not in redone] + fresh
 
 
 def merge_release(release: dict, previous: dict | None) -> dict:
@@ -825,6 +821,147 @@ def merge_release(release: dict, previous: dict | None) -> dict:
     return {k: merged[k] for k in ("language", "name", "releaseDate", "identifiers", "sources") if k in merged}
 
 
+class Matcher:
+    """One run of the importer over one TCGplayer category, one method per pass:
+
+    1. load_groups: the TCGplayer groups the mapping ties to a TCGdex set, the promo groups among them, and the era
+       groups for products filed outside any expansion;
+    2. name_families: each sealed product's family id, reused from the file that already holds its TCGplayer
+       product, else minted from its name;
+    3. choose_children: each expansion's own booster pack and booster box, the products other products hold;
+    4. parse: every draft's contents from its text, and what the text leaves unresolved.
+    """
+
+    def __init__(self, fetcher: Fetcher, edition: Edition, mapping: dict[int, dict], international: set[str],
+                 only: list[int] | None = None):
+        self.fetcher, self.edition, self.mapping = fetcher, edition, mapping
+        self.international, self.only = international, only
+        self.groups: list[Group] = []
+        self.promo_groups: list[Group] = []
+        self.product_groups: list[Group] = []
+        self.drafts: list[Draft] = []
+        self.kinds: dict[tuple[int, str], list[str]] = defaultdict(list)
+        self.names: dict[str, str] = {}
+        self.child_of: dict[tuple[int, str], str] = {}
+
+    def load_groups(self) -> None:
+        tcgdex = f"{TCGDEX_API}/{self.edition.language}"
+        tcgdex_sets = {s["id"]: s for s in self.fetcher.get(f"{tcgdex}/sets") or []}
+        category = self.edition.category
+        for g in _results(self.fetcher.get(f"{TCGCSV}/{category}/groups")):
+            if g["groupId"] in self.mapping:
+                group = Group(g["groupId"], self.mapping[g["groupId"]]["set"], g["name"], expansion_of(g["name"]),
+                              g.get("publishedOn"))
+                group.serie = ((self.fetcher.get(f"{tcgdex}/sets/{group.set_id}") or {}).get("serie") or {}).get("id")
+                group.products = _results(self.fetcher.get(f"{TCGCSV}/{category}/{g['groupId']}/products"))
+                self.groups.append(group)
+        # TCGdex names Japanese sets in Japanese: "スカーレット&バイオレット プロモカード".
+        set_names = {g.group_id: tcgdex_sets.get(g.set_id, {}).get("name", g.name) for g in self.groups}
+        self.promo_groups = [g for g in self.groups
+                             if "promo" in fold(set_names[g.group_id]) or "プロモ" in set_names[g.group_id]]
+        self.product_groups = [g for g in self.groups if g not in self.promo_groups]
+        self.product_groups += era_groups(self.fetcher, self.edition, set(self.mapping), self.product_groups,
+                                          self.promo_groups)
+
+    def mint_id(self, group: Group, product: dict, category: str, taken: set[str]) -> str:
+        """A new family's id: its set's prefix and its name without the expansion or series in it. Two products of
+        one name in one set: the later product's id ends with its TCGplayer id."""
+        stem = fold(product["name"])
+        if group.expansion:
+            stem = re.sub(rf"\b{re.escape(group.expansion)}\b", "", stem).strip()
+        # "XY BREAKthrough Booster Pack" leaves "xy booster pack": the series is already in the set id.
+        stem = re.sub(SERIES_PREFIX, "", stem).strip() or stem or category
+        # Japanese set ids can hold a "+" ("SM1+"), which a family id may not, and some are international set ids
+        # too (SM10, sm10): set_prefix keeps the two apart.
+        family_id = f"{set_prefix(self.edition.region, group.set_id, self.international)}-{slug(stem)}"
+        if family_id in taken:
+            family_id = f"{family_id}-{product['productId']}"
+        taken.add(family_id)
+        return family_id
+
+    def name_families(self, existing: list[Family]) -> None:
+        """Family ids first, so nested products can point at each other."""
+        by_tcgplayer: dict[int, Family] = {}
+        for family in existing:
+            for release in family.data.get("releases", []):
+                for pid in (release.get("identifiers") or {}).get("tcgplayerProductIds", []):
+                    by_tcgplayer[pid] = family
+        taken = {f.data["id"] for f in existing}
+        for group in self.product_groups:
+            # In TCGplayer's id order, so which of two same-named products gets the plain id does not depend on
+            # the order a page lists them in.
+            for product in sorted(group.products, key=lambda p: p["productId"]):
+                if not is_sealed(product):
+                    continue
+                category = classify(product["name"])
+                if (family := by_tcgplayer.get(product["productId"])):
+                    family_id = family.data["id"]
+                    curated = not is_generated(family, self.edition.language)
+                else:
+                    family_id, curated = self.mint_id(group, product, category, taken), False
+                self.kinds[(group.group_id, category)].append(family_id)
+                self.names[family_id] = fold(product["name"])
+                if not curated and (not self.only or group.group_id in self.only):
+                    self.drafts.append(Draft(product, group, family_id, category, self.edition))
+
+    def choose_children(self) -> None:
+        """The set's own pack or box is the one named "<expansion> booster pack|booster|booster box"."""
+        canonical = {"booster_pack": ("booster pack", "booster"), "booster_box": ("booster box",)}
+        by_id = {g.group_id: g for g in self.product_groups}
+        for (group_id, category), ids in self.kinds.items():
+            if group_id < 0:
+                continue   # an era group is no expansion: it has no pack or box of its own
+            group = by_id[group_id]
+            plain = [i for i in ids if self.names[i] in {f"{group.expansion} {s}" for s in canonical.get(category, ())}]
+            if len(plain) == 1 or len(ids) == 1:
+                self.child_of[(group_id, category)] = (plain or ids)[0]
+
+    def parse(self) -> list[dict]:
+        """Parse every draft's contents. The review entries of the drafts that left something unresolved."""
+        resolver = PromoResolver(self.fetcher, self.promo_groups, self.edition.language)
+        # Two groups selling one expansion: the first TCGplayer made is the expansion's.
+        by_expansion = {g.expansion: g for g in sorted(self.product_groups, key=lambda g: -g.group_id)
+                        if g.group_id > 0}
+        families = {key: [(fid, self.names[fid]) for fid in ids] for key, ids in self.kinds.items()}
+        content_parser = Parser(by_expansion, self.child_of, families, resolver)
+        review = []
+        for draft in self.drafts:
+            content_parser.parse(draft)
+            if draft.unresolved or not draft.listed:
+                review.append({"family": draft.family_id, "tcgplayerProductId": draft.product["productId"],
+                               "name": draft.product["name"], "listed": draft.listed, "unresolved": draft.unresolved})
+        return review
+
+    def run(self, existing: list[Family]) -> list[dict]:
+        self.load_groups()
+        self.name_families(existing)
+        self.choose_children()
+        return self.parse()
+
+
+def regenerated(drafts: list[Draft], existing: list[Family], data_dir: Path, edition: Edition,
+                cardmarket: dict[int, int]) -> list[tuple[Path, Family]]:
+    """(the path each regenerated family was at, the family at its new path), keeping what other tools added to
+    the file it replaces."""
+    paths = {f.data["id"]: f.path for f in existing}
+    out = []
+    for draft in drafts:
+        data = family_file(draft, cardmarket)
+        path = data_dir / edition.region / draft.group.set_id / f"{draft.family_id}.json"
+        # A family whose group now maps to another set moves there, under the same id.
+        old = paths.get(draft.family_id, path)
+        if old.exists():
+            # Other tools add the other languages' releases, and the local name of this one: keep them.
+            previous = read_json(old)
+            own = next((r for r in previous.get("releases", []) if r.get("language") == edition.language), None)
+            data["releases"] = [merge_release(data["releases"][0], own)] + \
+                [r for r in previous.get("releases", []) if r.get("language") != edition.language]
+            keep_pool(data, previous)
+            keep_identifiers(data, previous)
+        out.append((old, Family(path, data)))
+    return out
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--data", default=ROOT / "data", type=Path)
@@ -832,110 +969,40 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--category", type=int, choices=sorted(EDITIONS), default=3,
                         help="TCGplayer category: 3 English, 85 Japanese")
     parser.add_argument("--group", type=int, action="append", help="only these TCGplayer group ids")
+    parser.add_argument("--review", default=REVIEW, type=Path)
+    parser.add_argument("--refresh", action="store_true", help="fetch every page again")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
-    fetcher = Fetcher(args.cache)
+    fetcher = Fetcher(args.cache, refresh=args.refresh)
     edition = EDITIONS[args.category]
-    tcgdex = f"{TCGDEX_API}/{edition.language}"
-
-    mapping = {m["groupId"]: m for m in json.loads((ROOT / "mappings" / "tcgplayer_groups.json").read_text())
-               if m["region"] == edition.region}
+    mapping = {m["groupId"]: m for m in read_json(MAPPINGS / "tcgplayer_groups.json") if m["region"] == edition.region}
     cardmarket = {m["tcgplayerProductId"]: m["cardmarketProductId"]
-                  for m in json.loads((ROOT / "mappings" / "cardmarket_sealed.json").read_text())}
-    tcgdex_sets = {s["id"]: s for s in fetcher.get(f"{tcgdex}/sets") or []}
-
-    groups: list[Group] = []
-    for g in _results(fetcher.get(f"{TCGCSV}/{edition.category}/groups")):
-        if g["groupId"] in mapping:
-            group = Group(g["groupId"], mapping[g["groupId"]]["set"], g["name"], expansion_of(g["name"]),
-                          g.get("publishedOn"))
-            group.serie = ((fetcher.get(f"{tcgdex}/sets/{group.set_id}") or {}).get("serie") or {}).get("id")
-            group.products = _results(fetcher.get(f"{TCGCSV}/{edition.category}/{g['groupId']}/products"))
-            groups.append(group)
-    # TCGdex names Japanese sets in Japanese: "スカーレット&バイオレット プロモカード".
-    set_names = {g.group_id: tcgdex_sets.get(g.set_id, {}).get("name", g.name) for g in groups}
-    promo_groups = [g for g in groups if "promo" in fold(set_names[g.group_id]) or "プロモ" in set_names[g.group_id]]
-    product_groups = [g for g in groups if g not in promo_groups]
-    product_groups += era_groups(fetcher, edition, set(mapping), product_groups, promo_groups)
+                  for m in read_json(MAPPINGS / "cardmarket_sealed.json")}
+    international = {s["id"] for s in fetcher.get(f"{TCGDEX_API}/en/sets") or []}
 
     existing = load(args.data)
-    by_tcgplayer: dict[int, Family] = {}
-    for family in existing:
-        for release in family.data.get("releases", []):
-            for pid in (release.get("identifiers") or {}).get("tcgplayerProductIds", []):
-                by_tcgplayer[pid] = family
-    taken = {f.data["id"] for f in existing}
-
-    # Family ids first, so nested products can point at each other.
-    drafts: list[Draft] = []
-    child_of: dict[tuple[int, str], str] = {}
-    kinds: dict[tuple[int, str], list[str]] = defaultdict(list)
-    names: dict[str, str] = {}
-    for group in product_groups:
-        for product in group.products:
-            if not is_sealed(product):
-                continue
-            category = classify(product["name"])
-            if (family := by_tcgplayer.get(product["productId"])):
-                family_id = family.data["id"]
-                curated = not is_generated(family, edition.language)
-            else:
-                stem = fold(product["name"])
-                if group.expansion:
-                    stem = re.sub(rf"\b{re.escape(group.expansion)}\b", "", stem).strip()
-                # "XY BREAKthrough Booster Pack" leaves "xy booster pack": the series is already in the set id.
-                stem = re.sub(SERIES_PREFIX, "", stem).strip() or stem or category
-                # Japanese set ids can hold a "+" ("SM1+"), which a family id may not.
-                family_id = f"{group.set_id.lower().replace('+', 'plus')}-{slug(stem)}"
-                if family_id in taken:
-                    family_id = f"{family_id}-{product['productId']}"
-                taken.add(family_id)
-                curated = False
-            kinds[(group.group_id, category)].append(family_id)
-            names[family_id] = fold(product["name"])
-            if not curated and (not args.group or group.group_id in args.group):
-                drafts.append(Draft(product, group, family_id, category, edition))
-    # The set's own pack or box is the one named "<expansion> booster pack|booster|booster box".
-    canonical = {"booster_pack": ("booster pack", "booster"), "booster_box": ("booster box",)}
-    for (group_id, category), ids in kinds.items():
-        if group_id < 0:
-            continue   # an era group is no expansion: it has no pack or box of its own
-        group = next(g for g in product_groups if g.group_id == group_id)
-        plain = [i for i in ids if names[i] in {f"{group.expansion} {s}" for s in canonical.get(category, ())}]
-        if len(plain) == 1 or len(ids) == 1:
-            child_of[(group_id, category)] = (plain or ids)[0]
-
-    resolver = PromoResolver(fetcher, promo_groups, edition.language)
-    by_expansion = {g.expansion: g for g in product_groups if g.group_id > 0}
-    families = {key: [(fid, names[fid]) for fid in ids] for key, ids in kinds.items()}
-    content_parser = Parser(by_expansion, child_of, families, resolver)
-    review = []
-    for draft in drafts:
-        content_parser.parse(draft)
-        if draft.unresolved or not draft.listed:
-            review.append({"family": draft.family_id, "tcgplayerProductId": draft.product["productId"],
-                           "name": draft.product["name"], "listed": draft.listed, "unresolved": draft.unresolved})
-
-    files = {d.family_id: (d, family_file(d, cardmarket)) for d in drafts}
-    complete = sum(1 for _, f in files.values() if f["contentsStatus"] == "complete")
-    print(f"{len(groups)} groups ({len(promo_groups)} promo), {len(files)} generated families, "
+    matcher = Matcher(fetcher, edition, mapping, international, args.group)
+    review = matcher.run(existing)
+    moves = regenerated(matcher.drafts, existing, args.data, edition, cardmarket)
+    complete = sum(1 for _, f in moves if f.data["contentsStatus"] == "complete")
+    print(f"{len(matcher.groups)} groups ({len(matcher.promo_groups)} promo), {len(moves)} generated families, "
           f"{complete} complete, {len(review)} to review")
     if args.dry_run:
         return 0
-    for family_id, (draft, data) in files.items():
-        path = args.data / edition.region / draft.group.set_id / f"{family_id}.json"
-        path.parent.mkdir(parents=True, exist_ok=True)
-        if path.exists():
-            # Other tools add the other languages' releases, and the local name of this one: keep them.
-            previous = json.loads(path.read_text(encoding="utf-8"))
-            own = next((r for r in previous.get("releases", []) if r.get("language") == edition.language), None)
-            data["releases"] = [merge_release(data["releases"][0], own)] + \
-                [r for r in previous.get("releases", []) if r.get("language") != edition.language]
-            keep_pool(data, previous)
-        path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    review_path = ROOT / "review" / f"tcgplayer-{edition.category}.json"
-    review_path.parent.mkdir(parents=True, exist_ok=True)
-    review_path.write_text(json.dumps(review, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    written = {f.data["id"] for _, f in moves}
+    try:
+        uuids.stamp([*(f for f in existing if f.data["id"] not in written), *(f for _, f in moves)])
+    except uuids.Conflict as error:
+        print(error, file=sys.stderr)
+        return 1
+    for old, family in moves:
+        write_family(family)
+        if old != family.path and old.exists():
+            old.unlink()
+    review_path = args.review / f"tcgplayer-{edition.category}.json"
+    if args.group and review_path.exists():
+        review = merge_review(read_json(review_path), review, {d.product["productId"] for d in matcher.drafts})
+    write_json(review_path, review, indent=1)
     errors = validate(load(args.data), args.data)
     if errors:
         print("\n".join(errors[:50]), file=sys.stderr)

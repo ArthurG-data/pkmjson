@@ -1,9 +1,11 @@
 {
   "id": "sv-p-chien-pao-ex-battle-master-deck",
+  "uuid": "87758b4a-e020-595d-8afa-f0fd76f8f4ea",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Chien-Pao ex Battle Master Deck",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "513debe9-07d4-5cf9-a382-600c543dd97e",
       "name": "バトルマスターデッキ パオジアンex",
       "releaseDate": "2024-05-17",
       "identifiers": {

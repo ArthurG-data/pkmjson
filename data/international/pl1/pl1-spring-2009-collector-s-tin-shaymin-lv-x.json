@@ -1,15 +1,18 @@
 {
   "id": "pl1-spring-2009-collector-s-tin-shaymin-lv-x",
+  "uuid": "4ab26e45-d2e8-5282-84b1-e96679da2e0e",
   "region": "international",
   "set": "pl1",
   "category": "tin",
   "name": "Spring 2009 Collector's Tin [Shaymin LV.X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card; four booster packs: two from Platinum; two from the Diamond & Pearl Series.",
   "releases": [
     {
       "language": "en",
+      "uuid": "775437f5-88eb-513a-b387-46481c66ece8",
       "name": "Spring 2009 Collector's Tin [Shaymin LV.X]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,14 +25,9 @@
     },
     {
       "language": "fr",
+      "uuid": "d730c413-b7ca-51a4-a7d8-4f2b48cb8413",
       "name": "Boîte Collector Zénith Shaymin NIV.X",
       "contents": {
-        "other": [
-          {
-            "name": "From the Diamond & Pearl Series",
-            "count": 2
-          }
-        ],
         "sealed": [
           {
             "product": "pl1-booster-pack",

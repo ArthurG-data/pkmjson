@@ -1,9 +1,11 @@
 {
   "id": "svp-enhanced-2-pack-blister-pack-articuno-zapdos-moltres",
+  "uuid": "2331bcfd-be12-59c8-ba51-907dc0c5d973",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Enhanced 2-Pack Blister Pack [Articuno, Zapdos, & Moltres]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f496532-fe29-5744-b062-89ed26577209",
       "name": "Enhanced 2-Pack Blister Pack [Articuno, Zapdos, & Moltres]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/489343/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-articuno-zapdos-and-moltres"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "62122926-81f6-5917-90f0-b95857ef5264",
+      "name": "Duopack Artikodin de Galar, Électhor de Galar et Sulfura de Galar",
+      "releaseDate": "2022-10-24",
+      "sources": [
+        "https://www.pokepedia.fr/Duopack_Artikodin_de_Galar%2C_%C3%89lecthor_de_Galar_et_Sulfura_de_Galar"
       ]
     }
   ]

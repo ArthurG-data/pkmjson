@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-tapu-koko-ex-mimikyu-ex",
+  "uuid": "3d1ac328-fca1-5dde-acd4-89dfda41925d",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Tapu Koko ex & Mimikyu ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0dacd7cc-f220-5930-a3d1-5764dd3f8c3a",
       "name": "スタートデッキGenerations カプ・コケコex・ミミッキュex",
       "releaseDate": "2024-11-22",
       "identifiers": {

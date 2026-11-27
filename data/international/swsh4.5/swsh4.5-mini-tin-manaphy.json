@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mini-tin-manaphy",
+  "uuid": "d764ca34-ee33-5f79-8c09-bb2761e12b9b",
   "region": "international",
   "set": "swsh4.5",
   "category": "tin",
   "name": "Shining Fates Mini Tin [Manaphy]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e2bee5e8-4687-5005-9cc2-bc62bd1217c6",
       "name": "Shining Fates Mini Tin [Manaphy]",
       "releaseDate": "2021-03-19",
       "identifiers": {

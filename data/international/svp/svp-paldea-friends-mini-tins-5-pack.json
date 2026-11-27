@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-friends-mini-tins-5-pack",
+  "uuid": "407b2fc2-b3f6-547d-8785-e15bbb8ec400",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Paldea Friends Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "63fffb77-cf12-5f69-a145-9b598bad15db",
       "name": "Paldea Friends Mini Tins 5-Pack",
       "identifiers": {
         "tcgplayerProductIds": [

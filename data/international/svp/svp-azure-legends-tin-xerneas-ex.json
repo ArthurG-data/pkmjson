@@ -1,9 +1,11 @@
 {
   "id": "svp-azure-legends-tin-xerneas-ex",
+  "uuid": "92d949b2-0af8-514a-b286-1eb6bc6ab381",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Azure Legends Tin [Xerneas ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c1dd9a02-8b40-527a-8dcb-b1c78d8b4389",
       "name": "Azure Legends Tin [Xerneas ex]",
       "releaseDate": "2025-02-21",
       "identifiers": {

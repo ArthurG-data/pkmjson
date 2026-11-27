@@ -1,15 +1,18 @@
 {
   "id": "xy3-mega-charizard-x-collection",
+  "uuid": "e927a601-6df3-5cdc-b119-6cf0bd8d2e5e",
   "region": "international",
   "set": "xy3",
   "category": "collection_box",
   "name": "Mega Charizard X Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f0d8e5e8-8d54-5f9c-93cf-1bac075b51eb",
       "name": "Mega Charizard X Collection",
       "identifiers": {
         "tcgplayerProductIds": [

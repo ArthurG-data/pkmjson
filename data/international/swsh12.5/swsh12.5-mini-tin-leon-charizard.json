@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-mini-tin-leon-charizard",
+  "uuid": "08ff6940-3a6a-5cee-8017-df4cb137218a",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Mini Tin [Leon & Charizard]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683012
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c1c834b0-91fb-575a-b452-f6d43498eb45",
       "name": "Crown Zenith Mini Tin [Leon & Charizard]",
       "releaseDate": "2023-02-17",
       "identifiers": {

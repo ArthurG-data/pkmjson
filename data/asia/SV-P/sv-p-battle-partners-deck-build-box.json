@@ -1,9 +1,11 @@
 {
   "id": "sv-p-battle-partners-deck-build-box",
+  "uuid": "39dc691a-fa99-5560-9526-90f2586333cb",
   "region": "asia",
   "set": "SV-P",
   "category": "collection_box",
   "name": "Battle Partners Deck Build Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "4a9b3f00-6776-533c-bb8c-8cf4a8dd1d68",
       "name": "Battle Partners Deck Build Box",
       "identifiers": {
         "tcgplayerProductIds": [

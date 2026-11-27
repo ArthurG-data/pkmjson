@@ -1,9 +1,11 @@
 {
   "id": "sm115-elite-trainer-box",
+  "uuid": "ac1842f5-89f0-53ca-964e-c82446b76054",
   "region": "international",
   "set": "sm115",
   "category": "elite_trainer_box",
   "name": "Hidden Fates Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 381198
   },
@@ -68,6 +70,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "37cbdcc9-0db1-5591-bc1c-f74dfd43332a",
       "name": "Hidden Fates Elite Trainer Box",
       "releaseDate": "2019-09-20",
       "identifiers": {
@@ -81,6 +84,7 @@
     },
     {
       "language": "es",
+      "uuid": "39cdf755-d6f9-57a3-9e2d-bac68905104e",
       "name": "Caja de Entrenador Élite de Destinos Ocultos",
       "releaseDate": "2019-11-01",
       "sources": [
@@ -89,6 +93,7 @@
     },
     {
       "language": "it",
+      "uuid": "b023dda4-729f-57b8-96a4-4b12dbd7c16e",
       "name": "Set Allenatore Fuoriclasse dell’espansione Destino Sfuggente",
       "releaseDate": "2019-09-20",
       "sources": [
@@ -97,6 +102,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5a812b2e-b614-5686-8e04-1dd4afe77905",
       "name": "Coffret Dresseur d’élite de Destinées Occultes",
       "releaseDate": "2019-09-20",
       "sources": [
@@ -105,6 +111,7 @@
     },
     {
       "language": "de",
+      "uuid": "f8db8b53-69c6-53d4-b07e-2d29a555e52f",
       "name": "Top-Trainer-Box Verborgenes Schicksal",
       "releaseDate": "2019-09-20",
       "sources": [

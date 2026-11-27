@@ -1,9 +1,11 @@
 {
   "id": "svp-mythical-2-pack-blister-celebi",
+  "uuid": "014407a6-c591-5eba-91bd-9a2cad178b06",
   "region": "international",
   "set": "svp",
   "category": "blister",
   "name": "Mythical 2-Pack Blister [Celebi]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "35118027-3e6a-505f-919e-3632f29c40c5",
       "name": "Mythical 2-Pack Blister [Celebi]",
       "identifiers": {
         "tcgplayerProductIds": [

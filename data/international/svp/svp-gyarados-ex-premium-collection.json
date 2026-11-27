@@ -1,15 +1,18 @@
 {
   "id": "svp-gyarados-ex-premium-collection",
+  "uuid": "2213568f-3a91-535f-ba09-be4805a8c54f",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Gyarados ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "791ae94a-0b5c-575d-9bfb-9c0fc23fa046",
       "name": "Gyarados ex Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

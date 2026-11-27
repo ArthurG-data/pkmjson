@@ -1,9 +1,11 @@
 {
   "id": "swshp-salamence-dragons-tin",
+  "uuid": "45b60569-5afb-5d1b-a3bc-f5f336737d5e",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Salamence Dragons Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f90be5e-e996-5e44-8d46-4cbb9d490d12",
       "name": "Salamence Dragons Tin",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "svp-trick-or-trade-booster-bundle-2023-case",
+  "uuid": "6837716a-4d93-59b2-82f4-e81bb5740c2b",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Trick or Trade BOOster Bundle 2023 Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d840ccd6-5d5b-589d-8057-6bec30908d76",
       "name": "Trick or Trade BOOster Bundle 2023 Case",
       "releaseDate": "2023-09-01",
       "identifiers": {

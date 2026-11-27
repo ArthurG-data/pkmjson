@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-melmetal-ex",
+  "uuid": "706dd26e-a344-5f77-b954-c5d31f4766e0",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Melmetal ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f0879f7f-92a3-5acb-8c3b-7b354c5e768d",
       "name": "ex Battle Deck [Melmetal ex]",
       "releaseDate": "2024-02-23",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a1cf070e-006f-59a3-ad95-3d43b1597b30",
       "name": "Deck Combat Melmetal‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-melmetal-ex-deck-combat-demolosse-ex"

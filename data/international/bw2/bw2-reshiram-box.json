@@ -1,15 +1,18 @@
 {
   "id": "bw2-reshiram-box",
+  "uuid": "962e96c5-ba26-5bb3-b6b8-ff80f271d786",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Reshiram Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "28b8d082-e9cb-501d-b696-726d229dc2c3",
       "name": "Reshiram Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "93c7443e-a7f9-53ec-9d74-7b1ed1ff97c0",
       "name": "Coffret Reshiram",
       "releaseDate": "2011-10-19",
       "sources": [

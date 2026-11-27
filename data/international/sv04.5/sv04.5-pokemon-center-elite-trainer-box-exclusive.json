@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "d7fe03f8-1777-528c-8240-bd85e2bf8fb9",
   "region": "international",
   "set": "sv04.5",
   "category": "elite_trainer_box",
   "name": "Paldean Fates Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745549
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "158a8674-15b1-54e3-a8e5-77746d025428",
       "name": "Paldean Fates Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "tk-ex-m-ex-trainer-kit-2",
+  "uuid": "ba314c04-38f8-593c-b102-2c52d53f660a",
   "region": "international",
   "set": "tk-ex-m",
   "category": "other",
   "name": "EX Trainer Kit 2 [Plusle & Minun]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3ed76e61-1abb-5f05-a1b1-c5370e8804ba",
       "name": "EX Trainer Kit 2 [Plusle & Minun]",
       "identifiers": {
         "tcgplayerProductIds": [

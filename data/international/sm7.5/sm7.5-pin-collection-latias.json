@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-pin-collection-latias",
+  "uuid": "904e3c6c-db10-5458-9d05-1280b6e09763",
   "region": "international",
   "set": "sm7.5",
   "category": "collection_box",
   "name": "Dragon Majesty Pin Collection [Latias]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 361538
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e35dc335-95c5-5127-a4b1-afab442cfd70",
       "name": "Dragon Majesty Pin Collection [Latias]",
       "releaseDate": "2018-09-07",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "14096843-63f8-5676-ae6c-3513de73da00",
       "name": "Collection avec pin's Majesté des Dragons Latias",
       "releaseDate": "2018-09-07",
       "sources": [

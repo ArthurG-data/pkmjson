@@ -1,9 +1,11 @@
 {
   "id": "swshp-2-pack-blister-snorlax-morpeko-applin-cards",
+  "uuid": "ea7b3ad1-2a0c-5091-85cf-998d07c8a9f8",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "2 Pack Blister [Snorlax, Morpeko & Applin Cards]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0d257a20-89d6-5a97-bd6c-020ba74d8b3e",
       "name": "2 Pack Blister [Snorlax, Morpeko & Applin Cards]",
       "identifiers": {
         "tcgplayerProductIds": [

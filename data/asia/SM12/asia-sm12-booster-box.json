@@ -1,9 +1,11 @@
 {
-  "id": "sm12-booster-box-576919",
+  "id": "asia-sm12-booster-box",
+  "uuid": "1e11b354-8e74-560a-8f33-82b19d3afab6",
   "region": "asia",
   "set": "SM12",
   "category": "booster_box",
   "name": "Alter Genesis Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550351
   },
@@ -11,7 +13,7 @@
   "contents": {
     "sealed": [
       {
-        "product": "sm12-booster-pack-576918",
+        "product": "asia-sm12-booster-pack",
         "count": 30
       }
     ]
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "ce6657f0-c25b-5b8b-83a3-67c8de5e4972",
       "name": "Alter Genesis Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

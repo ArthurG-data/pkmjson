@@ -1,9 +1,11 @@
 {
   "id": "swsh4-elite-trainer-box-case",
+  "uuid": "2a7865fc-1ac9-55f3-9f32-e2b67855b337",
   "region": "international",
   "set": "swsh4",
   "category": "case",
   "name": "Vivid Voltage Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873113
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a5ed2da1-ad54-5b97-862e-43bfa48e752b",
       "name": "Vivid Voltage Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

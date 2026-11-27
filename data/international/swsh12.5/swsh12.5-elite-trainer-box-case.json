@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-elite-trainer-box-case",
+  "uuid": "78fb2b8b-ec0d-568e-b972-32832d0415b2",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 690880
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b5685d30-c577-5f07-bf99-471d50da0209",
       "name": "Crown Zenith Elite Trainer Box Case",
       "releaseDate": "2023-01-20",
       "identifiers": {

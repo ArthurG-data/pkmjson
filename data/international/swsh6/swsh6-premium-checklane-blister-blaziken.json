@@ -1,9 +1,11 @@
 {
   "id": "swsh6-premium-checklane-blister-blaziken",
+  "uuid": "57fcc78e-cc85-5784-b47a-a3380bdcc707",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign Premium Checklane Blister [Blaziken]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585720
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "153fa4e9-ad15-542e-a04e-993ff7459ad7",
       "name": "Chilling Reign Premium Checklane Blister [Blaziken]",
       "releaseDate": "2021-06-18",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "bw6-booster-pack",
+  "uuid": "e920bc8b-296a-5089-9869-11bce61306c4",
   "region": "international",
   "set": "bw6",
   "category": "booster_pack",
   "name": "Dragons Exalted Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271827
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "862cff92-061b-5356-b704-7790cb322cc1",
       "name": "Black & White—Dragons Exalted",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "52ce1e4d-3f0f-575b-9a83-0549151d27cb",
       "name": "Noir & Blanc – Dragons Exaltés",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Team_Plasma_Deoxys-EX",

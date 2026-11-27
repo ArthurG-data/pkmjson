@@ -1,9 +1,11 @@
 {
   "id": "swshp-kyurem-v-box",
+  "uuid": "7c7bafc4-9515-5edf-9add-afc797c8a080",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Kyurem V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dfd4b5ba-82b0-5f4b-a7e7-74cc151cbd62",
       "name": "Kyurem V Box",
       "releaseDate": "2022-11-04",
       "identifiers": {

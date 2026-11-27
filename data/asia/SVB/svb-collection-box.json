@@ -1,9 +1,11 @@
 {
   "id": "svb-collection-box",
+  "uuid": "0a7c9c70-a8f5-5223-9e9f-759870fd21b3",
   "region": "asia",
   "set": "SVB",
   "category": "collection_box",
   "name": "Premium Trainer Box ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "56e99c34-e8a5-56f6-9b02-6f40d2444c1f",
       "name": "Premium Trainer Box ex",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh8-booster-box",
+  "uuid": "41c6b85b-b2a9-59c4-9d6c-e931a91e0d9c",
   "region": "international",
   "set": "swsh8",
   "category": "booster_box",
   "name": "Fusion Strike Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 574592
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cbc267c2-d35f-5d46-946c-a53d4f317842",
       "name": "Fusion Strike Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

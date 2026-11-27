@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-trading-card-game-classic",
+  "uuid": "a5bdc200-d512-57fe-847f-51bd423aa865",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Pokemon Trading Card Game Classic",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "47de152c-2e13-5dcf-8bad-479841e89c27",
       "name": "Pokemon Trading Card Game Classic",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "de",
+      "uuid": "95bb78aa-9bc7-54f6-a796-30cbe62e54d4",
       "name": "Pokémon Trading Card Game Classic",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pokemon-trading-card-game-classic"
@@ -40,6 +44,7 @@
     },
     {
       "language": "it",
+      "uuid": "73e79556-e597-5b57-8919-e6226c824be0",
       "name": "Pokémon Trading Card Game Classic",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/pokemon-trading-card-game-classic"
@@ -47,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e72eaedb-7aad-5a2f-ba2b-c9d42ca0c937",
       "name": "Pokémon Trading Card Game Classic",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/pokemon-trading-card-game-classic"
@@ -54,6 +60,7 @@
     },
     {
       "language": "es",
+      "uuid": "4815d533-e06b-5c52-8625-d1f4361da82e",
       "name": "Pokémon Trading Card Game Classic",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/pokemon-trading-card-game-classic"

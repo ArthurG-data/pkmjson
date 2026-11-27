@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-premium-collection-skeledirge-ex",
+  "uuid": "5fa6dc39-dd17-5ff4-860f-2fbc5e92c6d0",
   "region": "international",
   "set": "sv04.5",
   "category": "premium_collection",
   "name": "Paldean Fates Premium Collection [Skeledirge ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745563
   },
@@ -34,6 +36,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "772e0b57-9fab-5d3a-9554-b180a52ea35a",
       "name": "Paldean Fates Premium Collection [Skeledirge ex]",
       "releaseDate": "2024-02-09",
       "identifiers": {

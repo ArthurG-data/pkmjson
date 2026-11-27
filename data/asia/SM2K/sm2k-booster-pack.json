@@ -1,9 +1,11 @@
 {
   "id": "sm2k-booster-pack",
+  "uuid": "3d60932b-5c6c-5ba7-9fbb-f8721ec5b2b0",
   "region": "asia",
   "set": "SM2K",
   "category": "booster_pack",
   "name": "Islands Await You Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551951
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "85a17303-0fd5-5b9c-bed3-9ca8d21cd35b",
       "name": "拡張パック「キミを待つ島々」",
       "releaseDate": "2017-03-17",
       "identifiers": {

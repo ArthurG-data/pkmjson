@@ -1,15 +1,18 @@
 {
   "id": "xy2-three-pack-blister-machamp",
+  "uuid": "bacbdd79-852e-5ce4-b31f-645dce466339",
   "region": "international",
   "set": "xy2",
   "category": "blister",
   "name": "Flashfire Three Pack Blister [Machamp]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3acdd828-9f74-59eb-8338-bd5aae9c08d5",
       "name": "Flashfire Three Pack Blister [Machamp]",
       "identifiers": {
         "tcgplayerProductIds": [

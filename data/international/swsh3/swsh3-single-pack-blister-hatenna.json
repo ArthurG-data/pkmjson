@@ -1,9 +1,11 @@
 {
   "id": "swsh3-single-pack-blister-hatenna",
+  "uuid": "5dfd9117-5c27-5543-9fd5-ea79b1c6c059",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze Single Pack Blister [Hatenna]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585873
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ff3dfb01-745d-5dd4-bfac-73ecf1ba61d7",
       "name": "Darkness Ablaze Single Pack Blister [Hatenna]",
       "releaseDate": "2020-08-14",
       "identifiers": {

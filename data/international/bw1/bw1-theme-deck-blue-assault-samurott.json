@@ -1,9 +1,11 @@
 {
   "id": "bw1-theme-deck-blue-assault-samurott",
+  "uuid": "ac3a16bb-a16b-571b-a85f-dd79ea78f593",
   "region": "international",
   "set": "bw1",
   "category": "theme_deck",
   "name": "Black & White Theme Deck - \"Blue Assault\" [Samurott]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286545
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "61f00e18-a968-58db-9cb1-ff83083494c6",
       "name": "Black & White Theme Deck - \"Blue Assault\" [Samurott]",
       "identifiers": {
         "tcgplayerProductIds": [

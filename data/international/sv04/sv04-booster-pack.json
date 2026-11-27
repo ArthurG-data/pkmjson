@@ -1,9 +1,11 @@
 {
   "id": "sv04-booster-pack",
+  "uuid": "55f8f3be-2ebd-550e-b3f6-d68d317fd9f5",
   "region": "international",
   "set": "sv04",
   "category": "booster_pack",
   "name": "Paradox Rift Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728716
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ab2fab4-182f-5a71-b5ef-425b64b4d6ee",
       "name": "Scarlet & Violet—Paradox Rift",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4c0677f0-93b6-59c0-9703-fd9a6172b3fc",
       "name": "Écarlate et Violet – Faille Paradoxe",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-faille-paradoxe",
@@ -40,6 +44,7 @@
     },
     {
       "language": "es",
+      "uuid": "5c7e00c3-c1a5-5839-84db-3780dfb46459",
       "name": "Escarlata y Púrpura-Brecha Paradójica",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-escarlata-y-purpura-brecha-paradojica",

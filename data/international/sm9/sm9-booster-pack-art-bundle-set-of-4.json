@@ -1,15 +1,18 @@
 {
   "id": "sm9-booster-pack-art-bundle-set-of-4",
+  "uuid": "bb58ff9f-2a74-5965-b475-752974ee19e0",
   "region": "international",
   "set": "sm9",
   "category": "other",
   "name": "Team Up Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "42fd8009-dc81-5493-82c5-bf89afabf015",
       "name": "Team Up Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

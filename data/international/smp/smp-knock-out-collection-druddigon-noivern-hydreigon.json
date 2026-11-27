@@ -1,9 +1,11 @@
 {
   "id": "smp-knock-out-collection-druddigon-noivern-hydreigon",
+  "uuid": "11fbb94d-0b6f-5e20-9ab8-bbe5fc6d8ec2",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Knock Out Collection [Druddigon, Noivern, Hydreigon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "632f8974-d7f5-5744-ba5b-82d4756d2327",
       "name": "Knock Out Collection [Druddigon, Noivern, Hydreigon]",
       "identifiers": {
         "tcgplayerProductIds": [

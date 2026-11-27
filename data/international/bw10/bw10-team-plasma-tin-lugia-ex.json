@@ -1,15 +1,18 @@
 {
   "id": "bw10-team-plasma-tin-lugia-ex",
+  "uuid": "b52eb16e-53e6-59fd-abfb-864bada27696",
   "region": "international",
   "set": "bw10",
   "category": "tin",
   "name": "Team Plasma Tin [Lugia EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "76f157be-ce21-5188-9ffe-bc7d7b8792bb",
       "name": "Team Plasma Tin [Lugia EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d4d339e4-14ee-5862-b8dd-13989bddb5e6",
       "name": "Boîte Team Plasma Lugia",
       "releaseDate": "2013-09-11",
       "contents": {

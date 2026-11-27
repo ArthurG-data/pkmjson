@@ -1,9 +1,11 @@
 {
   "id": "mep-mimikyu-ex-alcremie-ex-premium-collection",
+  "uuid": "4e643294-c4c8-54e9-918f-ead2d96b7147",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Mimikyu ex & Alcremie ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be573b18-cf2d-5550-82d1-c0a09767df3e",
       "name": "Mimikyu ex & Alcremie ex Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

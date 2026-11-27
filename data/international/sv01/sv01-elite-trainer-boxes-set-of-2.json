@@ -1,15 +1,18 @@
 {
   "id": "sv01-elite-trainer-boxes-set-of-2",
+  "uuid": "2ddf12b1-36ea-5920-ab76-8a750c930d8e",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet Elite Trainer Boxes [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 9 Pokémon TCG: Scarlet & Violet booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e6c6d18a-901a-5bfd-8927-00be37108a89",
       "name": "Scarlet & Violet Elite Trainer Boxes [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

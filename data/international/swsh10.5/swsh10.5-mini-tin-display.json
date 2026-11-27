@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-mini-tin-display",
+  "uuid": "ccec8532-3cbe-5ecc-afcd-d4bdc8bbb33d",
   "region": "international",
   "set": "swsh10.5",
   "category": "case",
   "name": "Pokemon GO Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653717
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "76345e9b-67b2-5491-bbe0-911df0ad44d3",
       "name": "Pokemon GO Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

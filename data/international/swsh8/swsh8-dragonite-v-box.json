@@ -1,9 +1,11 @@
 {
   "id": "swsh8-dragonite-v-box",
+  "uuid": "30b457f8-a676-5064-b3bd-02c386fe8717",
   "region": "international",
   "set": "swsh8",
   "category": "collection_box",
   "name": "Dragonite V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd83cc05-c675-50ae-b1fe-2d4bdeac9ee7",
       "name": "Dragonite V Box",
       "releaseDate": "2021-11-17",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "de",
+      "uuid": "0e7516d2-a04a-5b43-87c5-1422a0518568",
       "name": "Kollektion Dragoran-V",
       "releaseDate": "2021-09-24",
       "sources": [
@@ -38,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "afe60518-ab2a-58d2-ae56-4ff018c0788d",
       "name": "Coffret Dracolosse‑V",
       "releaseDate": "2021-09-24",
       "sources": [
@@ -46,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "23637281-03cf-5857-bbab-eeebe3d78896",
       "name": "Colección Dragonite V",
       "releaseDate": "2021-09-24",
       "sources": [
@@ -54,6 +60,7 @@
     },
     {
       "language": "it",
+      "uuid": "68e77b11-ea3d-53ce-9b26-2c60f05cb88f",
       "name": "Collezione Dragonite-V",
       "releaseDate": "2021-09-24",
       "sources": [

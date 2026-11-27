@@ -1,9 +1,11 @@
 {
   "id": "s11-booster-pack",
+  "uuid": "a0052e82-950f-591d-acca-59fcd2d92328",
   "region": "asia",
   "set": "S11",
   "category": "booster_pack",
   "name": "Lost Abyss Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 665653
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9d295a24-8989-51cc-bbad-2f7d643ae6d6",
       "name": "拡張パック「ロストアビス」",
       "releaseDate": "2022-07-15",
       "identifiers": {

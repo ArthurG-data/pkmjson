@@ -1,9 +1,11 @@
 {
   "id": "sm5-lucario-gx-box",
+  "uuid": "aca52751-c192-5d2e-bd57-1885c7ba9760",
   "region": "international",
   "set": "sm5",
   "category": "collection_box",
   "name": "Lucario GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a98b6737-d23a-5ca6-9835-a2b507c16266",
       "name": "Lucario GX Box",
       "releaseDate": "2018-03-09",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d7735b3d-ac1a-5f1d-a367-a17dc4e06757",
       "name": "Coffret Lucario-GX",
       "releaseDate": "2018-03-09",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "65c48be1-d2ca-53d3-9a04-159a1f236d44",
       "name": "Collezione Lucario-GX",
       "releaseDate": "2018-03-09",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "de",
+      "uuid": "754ccdb7-f09d-5771-a964-96c99282884b",
       "name": "Kollektion Lucario-GX",
       "releaseDate": "2018-03-09",
       "sources": [
@@ -68,6 +74,7 @@
     },
     {
       "language": "es",
+      "uuid": "0f0baf24-e53e-5c8f-899a-288841db61a9",
       "name": "Colección Lucario-GX",
       "releaseDate": "2018-03-09",
       "sources": [

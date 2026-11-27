@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-mini-tin-display-case",
+  "uuid": "6a69039c-bed8-57a0-9a9a-0617de0e637d",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "343c0331-2bab-5229-ae66-edf4ce0aa10d",
       "name": "Crown Zenith Mini Tin Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

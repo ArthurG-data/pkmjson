@@ -1,9 +1,11 @@
 {
   "id": "mep-checklane-2-pack-pin-blister-mega-alakazam",
+  "uuid": "6f298e36-3b9d-5fc8-86b5-5f5cfe37e884",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Mega Alakazam]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "acb9153e-61b3-55ee-9f36-bea7a606799c",
       "name": "Checklane 2-Pack Pin Blister [Mega Alakazam]",
       "identifiers": {
         "tcgplayerProductIds": [

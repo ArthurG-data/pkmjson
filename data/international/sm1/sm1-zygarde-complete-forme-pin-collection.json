@@ -1,9 +1,11 @@
 {
   "id": "sm1-zygarde-complete-forme-pin-collection",
+  "uuid": "730bfd98-79f8-58e4-8e70-82e8690abeab",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Zygarde Complete Forme Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1725c19f-9203-5775-8f4c-dc6f9d3959e6",
       "name": "Zygarde Complete Forme Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fd78ba73-6166-5ec7-9709-e481e040fe7d",
       "name": "Collection avec pin's Zygarde Parfait",
       "releaseDate": "2017-04-05",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "pl1-fall-2009-collector-s-tin-rayquaza-lv-x",
+  "uuid": "a2707025-cdf4-5b98-b7ea-ce822f55fc2f",
   "region": "international",
   "set": "pl1",
   "category": "tin",
   "name": "Fall 2009 Collector's Tin [Rayquaza LV.X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8b3e22a-85bb-5544-a891-937f7bb857d5",
       "name": "Fall 2009 Collector's Tin [Rayquaza LV.X]",
       "identifiers": {
         "tcgplayerProductIds": [

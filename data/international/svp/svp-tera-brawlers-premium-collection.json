@@ -1,9 +1,11 @@
 {
   "id": "svp-tera-brawlers-premium-collection",
+  "uuid": "fb0145a0-583a-55e0-8ef1-5e8da3ea4b78",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Tera Brawlers Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "81927967-ed80-5128-ae87-80bb6d3bd822",
       "name": "Tera Brawlers Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

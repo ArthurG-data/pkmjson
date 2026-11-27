@@ -1,15 +1,18 @@
 {
   "id": "xy1-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "239aebc9-c9c5-5ad0-afae-c71560770243",
   "region": "international",
   "set": "xy1",
   "category": "other",
   "name": "XY Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "07ac0e87-846d-5912-b5cb-e334594a73d8",
       "name": "XY Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

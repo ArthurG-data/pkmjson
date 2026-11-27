@@ -1,9 +1,11 @@
 {
   "id": "sv02-single-pack-blister-armarouge",
+  "uuid": "0cd58d7c-5c1d-5155-b15a-e07748348e6f",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved Single Pack Blister [Armarouge]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9f504eea-07f7-5e84-9910-fe0358424e81",
       "name": "Paldea Evolved Single Pack Blister [Armarouge]",
       "identifiers": {
         "tcgplayerProductIds": [

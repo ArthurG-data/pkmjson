@@ -1,15 +1,18 @@
 {
   "id": "xy2-kalos-power-tins-bundle-of-3",
+  "uuid": "ec7d9bc8-a44a-5f8c-adbb-829398bd0e36",
   "region": "international",
   "set": "xy2",
   "category": "other",
   "name": "Kalos Power Tins [Bundle of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9057005a-c1d0-53f5-8384-a7e78b2573a6",
       "name": "Kalos Power Tins [Bundle of 3]",
       "identifiers": {
         "tcgplayerProductIds": [

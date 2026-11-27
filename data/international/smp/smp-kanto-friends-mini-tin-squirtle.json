@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-friends-mini-tin-squirtle",
+  "uuid": "ce31fa53-5a42-54d9-85f2-4bcc9941959a",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Friends Mini Tin [Squirtle]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c3d04e4b-329a-53e6-ae89-a3a750a73ba8",
       "name": "Kanto Friends Mini Tin [Squirtle]",
       "identifiers": {
         "tcgplayerProductIds": [

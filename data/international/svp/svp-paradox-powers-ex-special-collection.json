@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-powers-ex-special-collection",
+  "uuid": "4efb8efc-e55e-593b-936a-d98446f44e95",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Paradox Powers ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "72d183f0-6136-5bd9-8955-070040545d3a",
       "name": "Paradox Powers ex Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [

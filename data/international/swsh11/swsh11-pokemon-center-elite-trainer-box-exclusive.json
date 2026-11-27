@@ -1,9 +1,11 @@
 {
   "id": "swsh11-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "617be621-ef53-5701-a69a-913192def753",
   "region": "international",
   "set": "swsh11",
   "category": "elite_trainer_box",
   "name": "Lost Origin Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 666151
   },
@@ -62,6 +64,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4f20b49c-3309-5ffd-bd12-4d1c8a75a214",
       "name": "Lost Origin Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

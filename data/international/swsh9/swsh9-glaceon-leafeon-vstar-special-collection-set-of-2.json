@@ -1,15 +1,18 @@
 {
   "id": "swsh9-glaceon-leafeon-vstar-special-collection-set-of-2",
+  "uuid": "65d27baa-ad63-5cd5-b3d4-d084f9976aea",
   "region": "international",
   "set": "swsh9",
   "category": "other",
   "name": "Glaceon / Leafeon VSTAR Special Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched promo card featuring Glaceon VSTAR or Leafeon VSTAR; 5 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a9f78614-811d-5739-a340-4649c5e8df86",
       "name": "Glaceon / Leafeon VSTAR Special Collection [Set of 2]",
       "releaseDate": "2022-01-28",
       "identifiers": {

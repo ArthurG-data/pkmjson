@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-bundle-rayquaza-v-noivern-v",
+  "uuid": "3edff8d0-a164-535f-8120-04fb24d5248b",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck Bundle [Rayquaza V/Noivern V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e9dad63e-68d2-5677-b0d8-c9f8582274be",
       "name": "V Battle Deck Bundle [Rayquaza V/Noivern V]",
       "releaseDate": "2021-10-08",
       "identifiers": {

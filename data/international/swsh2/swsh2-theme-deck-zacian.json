@@ -1,9 +1,11 @@
 {
   "id": "swsh2-theme-deck-zacian",
+  "uuid": "69ea6753-c7a5-5ef7-adc7-b2341e6bd5e8",
   "region": "international",
   "set": "swsh2",
   "category": "theme_deck",
   "name": "Rebel Clash Theme Deck [Zacian]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 453288
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f9165dc3-a75d-53eb-b4a9-634540c1a2d9",
       "name": "Rebel Clash Theme Deck [Zacian]",
       "identifiers": {
         "tcgplayerProductIds": [

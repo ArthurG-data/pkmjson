@@ -1,9 +1,11 @@
 {
   "id": "ex2-sandstorm-theme-deck-caravan",
+  "uuid": "66eea518-1e81-51e8-9a50-85e5d01d8f9b",
   "region": "international",
   "set": "ex2",
   "category": "theme_deck",
   "name": "Sandstorm Theme Deck - \"Caravan\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286515
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "53d52966-737d-5e93-a33c-346c07eca2da",
       "name": "Sandstorm Theme Deck - \"Caravan\"",
       "identifiers": {
         "tcgplayerProductIds": [

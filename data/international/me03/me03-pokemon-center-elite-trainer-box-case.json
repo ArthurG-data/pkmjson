@@ -1,15 +1,18 @@
 {
   "id": "me03-pokemon-center-elite-trainer-box-case",
+  "uuid": "4fe4ee6b-2ebc-5a1e-9326-e133848e984d",
   "region": "international",
   "set": "me03",
   "category": "case",
   "name": "Perfect Order Pokemon Center Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bd8d01af-e5a9-5701-8a48-6f00dbc565d4",
       "name": "Perfect Order Pokemon Center Elite Trainer Box Case",
       "releaseDate": "2026-03-27",
       "identifiers": {

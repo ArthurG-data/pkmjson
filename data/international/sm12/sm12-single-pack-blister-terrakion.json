@@ -1,9 +1,11 @@
 {
   "id": "sm12-single-pack-blister-terrakion",
+  "uuid": "a540df18-277d-5e42-bdec-23a634e63358",
   "region": "international",
   "set": "sm12",
   "category": "blister",
   "name": "Cosmic Eclipse Single Pack Blister [Terrakion]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585900
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e3455f19-de56-5866-9fa3-98067574390a",
       "name": "Cosmic Eclipse Single Pack Blister [Terrakion]",
       "releaseDate": "2019-11-01",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv01-3-pack-blister-set-of-2",
+  "uuid": "2135ec9a-383a-54aa-a32f-5d08db55497e",
   "region": "international",
   "set": "sv01",
   "category": "other",
   "name": "Scarlet & Violet 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Scarlet & Violet booster packs; a promotional card of Arcanine or Dondozo; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7afe5734-34db-5f02-b4a9-d339d080305c",
       "name": "Scarlet & Violet 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

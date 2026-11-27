@@ -1,9 +1,11 @@
 {
   "id": "xy6-theme-deck-storm-rider-zapdos",
+  "uuid": "89c692f0-b0d3-5726-a50e-187797b1f2f1",
   "region": "international",
   "set": "xy6",
   "category": "theme_deck",
   "name": "Roaring Skies Theme Deck - \"Storm Rider\" [Zapdos]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 282798
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf10b1d6-749a-53ef-b426-55c224267f27",
       "name": "Roaring Skies Theme Deck - \"Storm Rider\" [Zapdos]",
       "identifiers": {
         "tcgplayerProductIds": [

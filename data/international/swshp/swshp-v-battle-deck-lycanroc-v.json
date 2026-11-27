@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-lycanroc-v",
+  "uuid": "e76f28ca-2cfe-5bef-998a-69c2eb7dfa3a",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Lycanroc V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4b157a3b-7835-5f33-b7f7-185e07270289",
       "name": "V Battle Deck [Lycanroc V]",
       "releaseDate": "2022-03-01",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "448450d4-500f-5a72-b7c8-cdc6d0195e65",
       "name": "Deck Combat-V – Lougaroc-V /",
       "releaseDate": "2022-02-25",
       "sources": [
@@ -66,6 +70,7 @@
     },
     {
       "language": "de",
+      "uuid": "f0b0fff5-c005-5f0b-9676-a7cc3239c07c",
       "name": "V-Kampfdeck Wolwerock-V /",
       "releaseDate": "2022-02-25",
       "sources": [

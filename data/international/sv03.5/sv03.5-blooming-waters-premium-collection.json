@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-blooming-waters-premium-collection",
+  "uuid": "7016bc46-9928-5627-b07e-abc215ebdf0e",
   "region": "international",
   "set": "sv03.5",
   "category": "premium_collection",
   "name": "Blooming Waters Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 807118
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c69fc87b-a0ad-515c-b854-19b173e6e6f9",
       "name": "Blooming Waters Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

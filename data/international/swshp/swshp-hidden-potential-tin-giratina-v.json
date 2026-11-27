@@ -1,9 +1,11 @@
 {
   "id": "swshp-hidden-potential-tin-giratina-v",
+  "uuid": "402c3cfe-1689-5df2-aaa6-8b7e9ff65be1",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Hidden Potential Tin [Giratina V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eeacca0c-2114-51d0-8890-92e780c6f08d",
       "name": "Hidden Potential Tin [Giratina V]",
       "releaseDate": "2022-10-14",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "de",
+      "uuid": "91b74348-4b4a-5dc4-8d52-da5f3b0daa55",
       "name": "Tin-Box Verborgenes Potenzial",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-verborgenes-potenzial"
@@ -47,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "8c8cf22b-acf6-5cb8-9780-522d62a3e477",
       "name": "Lata Potencial Oculto",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-potencial-oculto"
@@ -54,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "4e0fc5bb-c240-575e-808f-bc3eaafbf61f",
       "name": "Scatole da collezione Potenziale Nascosto",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-potenziale-nascosto"

@@ -1,15 +1,18 @@
 {
   "id": "me02.5-costco-mega-ex-box-bundle",
+  "uuid": "dfd4eee3-e9bd-55dd-91de-3c44123d45c2",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Costco Ascended Heroes Mega ex Box Bundle",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Meganium ex, Mega Emboar ex, or Mega Feraligatr ex; 1 oversize lenticular promo card featuring Mega Meganium ex, Mega Emboar ex, or Mega Feraligatr ex; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f9ad20b1-4161-5666-8c37-06fac517311f",
       "name": "Costco Ascended Heroes Mega ex Box Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

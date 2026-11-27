@@ -1,9 +1,11 @@
 {
   "id": "sm115-collection-charizard-gx",
+  "uuid": "0db402c6-ffb9-5af8-a9d9-02878cc1196c",
   "region": "international",
   "set": "sm115",
   "category": "collection_box",
   "name": "Hidden Fates Collection [Charizard GX]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 560793
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5e33a42a-109b-5fb8-bbf3-3a37e52a7ab7",
       "name": "Hidden Fates Collection [Charizard GX]",
       "identifiers": {
         "tcgplayerProductIds": [

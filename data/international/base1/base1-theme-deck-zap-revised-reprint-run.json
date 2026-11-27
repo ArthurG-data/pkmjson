@@ -1,15 +1,18 @@
 {
   "id": "base1-theme-deck-zap-revised-reprint-run",
+  "uuid": "0f8d0341-8c20-5931-a9c0-c31dc6233fe7",
   "region": "international",
   "set": "base1",
   "category": "theme_deck",
   "name": "Base Set Theme Deck - \"Zap!\" (Revised Base Set Reprint Run)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "db2b20ee-7f72-5048-b8a2-d0cf62fee890",
       "name": "Base Set Theme Deck - \"Zap!\" (Revised Base Set Reprint Run)",
       "identifiers": {
         "tcgplayerProductIds": [

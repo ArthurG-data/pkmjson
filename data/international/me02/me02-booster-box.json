@@ -1,9 +1,11 @@
 {
   "id": "me02-booster-box",
+  "uuid": "64e655ad-a2b5-5df7-bacc-38f534243ad1",
   "region": "international",
   "set": "me02",
   "category": "booster_box",
   "name": "Phantasmal Flames Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846746
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5a8d8614-ade1-51d3-9a03-98563b8cc531",
       "name": "Phantasmal Flames Booster Box",
       "releaseDate": "2025-11-14",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "si-tropical-island-beach-box-set",
+  "uuid": "e49e9f2e-a3c4-55b6-bb09-fb014cb4d85c",
   "region": "asia",
   "set": "SI",
   "category": "collection_box",
   "name": "Tropical Island Beach Box Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Exeggutor; Slowking; Wartortle.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "6f700941-a2c7-5a5a-8b56-6510bf4aad4e",
       "name": "Tropical Island Beach Box Set",
       "identifiers": {
         "tcgplayerProductIds": [

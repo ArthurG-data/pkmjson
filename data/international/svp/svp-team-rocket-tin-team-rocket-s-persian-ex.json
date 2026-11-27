@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-tin-team-rocket-s-persian-ex",
+  "uuid": "f78772e1-873b-59a2-a314-023a47836687",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Team Rocket Tin [Team Rocket's Persian ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bcadf2f1-92ec-5216-954d-efb7137ff6c8",
       "name": "Team Rocket Tin [Team Rocket's Persian ex]",
       "releaseDate": "2025-09-05",
       "identifiers": {
@@ -36,6 +39,47 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/649195/pokemon-miscellaneous-cards-and-products-team-rocket-tin-team-rockets-persian-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "48444bee-6e0a-5f6a-8c08-93b0990b933e",
+      "name": "Boîte Team Rocket Persian de la Team Rocket",
+      "releaseDate": "2025-09-05",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "svp-218",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 653259,
+            "cardmarketProductId": 832227,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Code card for Pokémon TCG Live",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv02-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv03-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv10-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Rocket_Persian-ex_de_la_Team_Rocket"
       ]
     }
   ]

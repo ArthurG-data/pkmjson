@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-elite-trainer-box",
+  "uuid": "05c8e52c-5c0c-56ee-9e4f-7acd43cef25d",
   "region": "international",
   "set": "sm7.5",
   "category": "elite_trainer_box",
   "name": "Dragon Majesty Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 361540
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1592ee0d-0549-58ed-832d-d4ab90123e6a",
       "name": "Dragon Majesty Elite Trainer Box",
       "releaseDate": "2018-09-21",
       "identifiers": {
@@ -26,6 +29,7 @@
     },
     {
       "language": "fr",
+      "uuid": "08da4668-eab6-5ab0-86e3-4ee308b2e187",
       "name": "Coffret Dresseur d'élite Majesté des Dragons",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -34,6 +38,7 @@
     },
     {
       "language": "de",
+      "uuid": "f40be885-52fb-5764-8c0f-d04a11da844d",
       "name": "Top-Trainer-Box Majestät der Drachen",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -42,6 +47,7 @@
     },
     {
       "language": "es",
+      "uuid": "aeac8e29-8e59-53fe-93b1-e8de83001530",
       "name": "Caja de Entrenador Élite de Majestad de Dragones",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -50,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "552da573-4d95-5516-8ee8-5fca20985480",
       "name": "Set Allenatore Fuoriclasse dell’espansione Trionfo dei Draghi",
       "releaseDate": "2018-09-21",
       "sources": [

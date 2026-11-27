@@ -1,15 +1,18 @@
 {
   "id": "30th-tech-sticker-collection-set-of-2",
+  "uuid": "50062981-102a-5504-8752-f546573723c0",
   "region": "international",
   "set": "30th",
   "category": "other",
   "name": "30th Celebration Tech Sticker Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Alolan Exeggutor or Lucario; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1e262277-0af9-57bf-b878-e3e4927ea3bd",
       "name": "30th Celebration Tech Sticker Collection [Set of 2]",
       "releaseDate": "2026-09-16",
       "identifiers": {

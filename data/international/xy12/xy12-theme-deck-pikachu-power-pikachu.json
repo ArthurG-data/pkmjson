@@ -1,9 +1,11 @@
 {
   "id": "xy12-theme-deck-pikachu-power-pikachu",
+  "uuid": "3d309cfb-c003-57c9-bd76-b3cc0c0eff4c",
   "region": "international",
   "set": "xy12",
   "category": "theme_deck",
   "name": "Evolutions Theme Deck - \"Pikachu Power\" [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293333
   },
@@ -32,6 +34,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9876774c-50a6-5f9f-aa35-4beeebe47395",
       "name": "Evolutions Theme Deck - \"Pikachu Power\" [Pikachu]",
       "identifiers": {
         "tcgplayerProductIds": [

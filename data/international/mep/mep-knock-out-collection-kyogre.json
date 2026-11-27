@@ -1,9 +1,11 @@
 {
   "id": "mep-knock-out-collection-kyogre",
+  "uuid": "7bfcc881-aa05-528b-ab84-b1e769f25fe4",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Knock Out Collection [Kyogre]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c02be6c7-8bfe-5dde-9b72-15fb93ac9ec1",
       "name": "Knock Out Collection [Kyogre]",
       "identifiers": {
         "tcgplayerProductIds": [

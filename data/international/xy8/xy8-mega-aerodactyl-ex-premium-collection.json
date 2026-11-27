@@ -1,15 +1,18 @@
 {
   "id": "xy8-mega-aerodactyl-ex-premium-collection",
+  "uuid": "36e5acb9-bd00-527e-9117-f9f07d38b116",
   "region": "international",
   "set": "xy8",
   "category": "premium_collection",
   "name": "Mega Aerodactyl EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8e08c5d1-f6de-5e16-8db8-64821a9eda4d",
       "name": "Mega Aerodactyl EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fc7b8ef1-72df-55fc-9bdb-fc50286f4f1b",
       "name": "Coffret Méga-Ptéra",
       "releaseDate": "2016-10-25",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh10-premium-checklane-blister-swampert",
+  "uuid": "27218ac2-96da-5800-9fb1-21bb86bfddb9",
   "region": "international",
   "set": "swsh10",
   "category": "blister",
   "name": "Astral Radiance Premium Checklane Blister [Swampert]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 661276
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0367ff65-e76d-5bd3-bb8a-3019514ddde6",
       "name": "Astral Radiance Premium Checklane Blister [Swampert]",
       "identifiers": {
         "tcgplayerProductIds": [

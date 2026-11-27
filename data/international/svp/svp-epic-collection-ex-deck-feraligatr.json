@@ -1,9 +1,11 @@
 {
   "id": "svp-epic-collection-ex-deck-feraligatr",
+  "uuid": "b0a384da-6f05-5346-9476-8b5530bc09ff",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Epic Collection ex Deck [Feraligatr]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "19a3e83a-f4a1-5f46-bd08-d370b5393ef1",
       "name": "Epic Collection ex Deck [Feraligatr]",
       "identifiers": {
         "tcgplayerProductIds": [

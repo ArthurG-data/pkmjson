@@ -1,9 +1,11 @@
 {
   "id": "swsh10-sleeved-booster-pack",
+  "uuid": "532edfee-91d1-5266-a785-ef1e140827a5",
   "region": "international",
   "set": "swsh10",
   "category": "sleeved_booster_pack",
   "name": "Astral Radiance Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674711
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c695e41e-7363-5cc7-a61a-63f1596627a6",
       "name": "Astral Radiance Sleeved Booster Pack",
       "releaseDate": "2022-05-27",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm4-prerelease-kit",
+  "uuid": "27788b29-b568-5364-ae8d-506d9d89cc6d",
   "region": "international",
   "set": "sm4",
   "category": "other",
   "name": "Crimson Invasion Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "15d797fd-9dd2-547c-b755-c7c722dc7a25",
       "name": "Crimson Invasion Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

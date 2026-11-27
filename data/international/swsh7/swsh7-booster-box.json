@@ -1,9 +1,11 @@
 {
   "id": "swsh7-booster-box",
+  "uuid": "ba7e7ae9-6677-51c8-81b4-fcd289f43e03",
   "region": "international",
   "set": "swsh7",
   "category": "booster_box",
   "name": "Evolving Skies Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 568765
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2bb9012d-5e1d-517a-9ed8-3d4b5b20535e",
       "name": "Evolving Skies Booster Box",
       "releaseDate": "2021-08-27",
       "identifiers": {

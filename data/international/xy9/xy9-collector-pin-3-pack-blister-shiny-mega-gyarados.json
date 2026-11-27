@@ -1,9 +1,11 @@
 {
   "id": "xy9-collector-pin-3-pack-blister-shiny-mega-gyarados",
+  "uuid": "d04aacd7-c7db-55f3-b7aa-46c6d015e307",
   "region": "international",
   "set": "xy9",
   "category": "blister",
   "name": "BREAKpoint Collector Pin 3 Pack Blister [Shiny Mega Gyarados]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be3eec6c-4315-5e2b-925e-98de8a30a5b7",
       "name": "BREAKpoint Collector Pin 3 Pack Blister [Shiny Mega Gyarados]",
       "identifiers": {
         "tcgplayerProductIds": [

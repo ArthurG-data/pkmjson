@@ -1,9 +1,11 @@
 {
   "id": "sm115-booster-pack",
+  "uuid": "5ad91355-fb96-5c57-aa3e-e2b606d1ce86",
   "region": "international",
   "set": "sm115",
   "category": "booster_pack",
   "name": "Hidden Fates Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 381201
   },
@@ -22,6 +24,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "817682dc-eb45-5e27-ad9d-7cc2a91f08ce",
       "name": "Hidden Fates",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -35,6 +38,7 @@
     },
     {
       "language": "fr",
+      "uuid": "035ba2cf-2dc1-538d-9c18-cea778c6ccf4",
       "name": "Destinées Occultes",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Destin%C3%A9es_Occultes_Mew",
@@ -43,6 +47,7 @@
     },
     {
       "language": "es",
+      "uuid": "bc95ea5a-fc59-51ae-830a-2ab16603e765",
       "name": "Destinos Ocultos",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-destinos-ocultos",
@@ -51,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "d97026dc-2b51-55d4-814e-60e14ea7c92a",
       "name": "Destino Sfuggente",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-destino-sfuggente",
@@ -59,6 +65,7 @@
     },
     {
       "language": "de",
+      "uuid": "45a01113-d3f7-54db-9784-4aa826922ec8",
       "name": "Verborgenes Schicksal",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-verborgenes-schicksal",

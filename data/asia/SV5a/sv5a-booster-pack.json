@@ -1,9 +1,11 @@
 {
   "id": "sv5a-booster-pack",
+  "uuid": "293ff45f-b07f-598a-94b8-fbfacd1b122a",
   "region": "asia",
   "set": "SV5a",
   "category": "booster_pack",
   "name": "Crimson Haze Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 757140
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9c11b440-ea0d-59c5-b9d3-ce9182ed58d5",
       "name": "強化拡張パック「クリムゾンヘイズ」",
       "releaseDate": "2024-03-22",
       "identifiers": {

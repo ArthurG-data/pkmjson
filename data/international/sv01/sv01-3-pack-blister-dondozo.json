@@ -1,9 +1,11 @@
 {
   "id": "sv01-3-pack-blister-dondozo",
+  "uuid": "51921b00-5346-520e-bca4-683a732b666f",
   "region": "international",
   "set": "sv01",
   "category": "blister",
   "name": "Scarlet & Violet 3 Pack Blister [Dondozo]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692098
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "446c983c-2eb0-5355-8ee0-5078b57b0776",
       "name": "Scarlet & Violet 3 Pack Blister [Dondozo]",
       "identifiers": {
         "tcgplayerProductIds": [

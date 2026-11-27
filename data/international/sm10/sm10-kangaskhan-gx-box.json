@@ -1,15 +1,18 @@
 {
   "id": "sm10-kangaskhan-gx-box",
+  "uuid": "9d7a553d-fae5-5de4-bf2b-f5eefacb8dee",
   "region": "international",
   "set": "sm10",
   "category": "collection_box",
   "name": "Kangaskhan GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3a34bc43-3874-5a2a-bcc2-5d7bae11fb7d",
       "name": "Kangaskhan GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "it",
+      "uuid": "04226a88-270e-505c-b148-11c627519235",
       "name": "Collezione Kangaskhan-GX",
       "releaseDate": "2019-06-07",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "es",
+      "uuid": "602e09a7-087e-5c03-a9e8-22d74590466f",
       "name": "Colección Kangaskhan-GX",
       "releaseDate": "2019-06-07",
       "sources": [
@@ -38,6 +43,7 @@
     },
     {
       "language": "de",
+      "uuid": "c33908ba-2b1d-5f45-8d5d-f21b2c040cfe",
       "name": "Kollektion Kangama-GX",
       "releaseDate": "2019-06-07",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "ex14-crystal-guardians-booster-pack",
+  "uuid": "3246661b-452b-5c4c-ba0d-df5e5e34c69e",
   "region": "international",
   "set": "ex14",
   "category": "booster_pack",
   "name": "Crystal Guardians Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271839
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04a2dfd6-ac81-5af0-b531-1c71ef3bd4b9",
       "name": "EX Crystal Guardians",
       "identifiers": {
         "tcgplayerProductIds": [

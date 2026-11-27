@@ -1,15 +1,18 @@
 {
   "id": "g1-mythical-pokemon-collection-box-genesect",
+  "uuid": "7a2e88a5-0eec-504f-b58b-5c5f09031df9",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Mythical Pokemon Collection Box [Genesect]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c775c29c-a3ca-5dea-8c42-943fbe8493c8",
       "name": "Mythical Pokemon Collection Box [Genesect]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "11f36400-7425-57a2-a292-b7429425a635",
       "name": "Collection Pokémon fabuleux Genesect",
       "releaseDate": "2016-11-19",
       "sources": [

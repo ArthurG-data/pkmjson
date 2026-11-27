@@ -19,28 +19,31 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
-import json
 import re
 import sys
+import urllib.parse
 from pathlib import Path
 
+import uuids
 from import_pokemon_card_jp import clean_title, key, official_products, pack_name, release_day
-from import_tcgplayer import TCGDEX_API, Fetcher
-from pkmjson import ROOT, Family, load, validate
+from net import Fetcher
+from pkmjson import (
+    REVIEW,
+    ROOT,
+    SETS,
+    TCGDEX_API,
+    Family,
+    load,
+    plain_pack,
+    read_json,
+    validate,
+    write_family,
+    write_json,
+)
 
 POKEMON_COM = "https://www.pokemon.com"
 TCGDEX_LANGUAGES = {"international": ("en", "de", "it", "es", "fr"), "asia": ("ja",)}
 DATE_WINDOW_DAYS = 45
-
-
-def plain_pack(families: list[Family]) -> Family | None:
-    """The set's own booster pack: the one with id <set>-booster-pack (or <set>-booster), else the only pack. A
-    "3 Card Booster Pack" of the same set is another product."""
-    packs = [f for f in families if f.data["category"] == "booster_pack"]
-    plain = [f for f in packs if re.fullmatch(rf"{re.escape(f.data['set'].lower().replace('+', 'plus'))}-booster(?:-pack)?",
-                                              f.data["id"])]
-    chosen = plain if len(plain) == 1 else packs
-    return chosen[0] if len(chosen) == 1 else None
 
 
 def recorded_official(sets: dict) -> dict[str, dict]:
@@ -58,12 +61,19 @@ def recorded_official(sets: dict) -> dict[str, dict]:
     return found
 
 
+def image_url(path: str) -> str:
+    """A pokemon-card.com image path as a URL: some hold spaces and brackets ("pillow_img (2).png")."""
+    return "https://www.pokemon-card.com" + urllib.parse.quote(path, safe="/%+")
+
+
 def japanese_images(fetcher: Fetcher, families: list[Family], sets: dict) -> dict[str, str]:
     """pokemon-card.com shows no set logos, but each product's image carries one: the image of the product (pack,
     deck, special set) the set's Japanese release was named from, else of the pack named like the set. Keyed by set
     id."""
     products = [p for p in official_products(fetcher) if p.get("tumbsImg")]
-    by_title = {clean_title(p["productTitle"]): "https://www.pokemon-card.com" + p["tumbsImg"] for p in products}
+    by_title: dict[str, str] = {}
+    for p in products:   # a title sold twice keeps its first product's image
+        by_title.setdefault(clean_title(p["productTitle"]), image_url(p["tumbsImg"]))
     by_pack = {}
     for p in products:
         if p["kind"] == "expansion" and "デラックス" not in p["productTitle"]:
@@ -76,7 +86,7 @@ def japanese_images(fetcher: Fetcher, families: list[Family], sets: dict) -> dic
                  and abs((dt.date.fromisoformat(release_day(p["releaseDate"])) -
                           dt.date.fromisoformat(brief["releaseDate"])).days) <= DATE_WINDOW_DAYS]
         if len(found) == 1:
-            images[set_id] = "https://www.pokemon-card.com" + found[0]["tumbsImg"]
+            images[set_id] = image_url(found[0]["tumbsImg"])
     named = {}
     for family in sorted(families, key=lambda f: f.data["category"] != "booster_pack"):
         if family.data["region"] != "asia" or family.data["set"] in named:
@@ -90,7 +100,8 @@ def japanese_images(fetcher: Fetcher, families: list[Family], sets: dict) -> dic
 def japanese_names(families: list[Family]) -> dict[str, dict]:
     """The set name a booster pack's official Japanese name holds: 拡張パック「ストームエメラルダ」 -> ストームエメラルダ."""
     names = {}
-    for family in families:
+    # A set with two booster packs named from pokemon-card.com takes the first by id, whatever order they load in.
+    for family in sorted(families, key=lambda f: f.data["id"], reverse=True):
         if family.data["region"] != "asia" or family.data["category"] != "booster_pack":
             continue
         for release in family.data["releases"]:
@@ -104,15 +115,17 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--data", default=ROOT / "data", type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
-    parser.add_argument("--out", default=ROOT / "sets" / "sets.json", type=Path)
+    parser.add_argument("--out", default=SETS, type=Path)
+    parser.add_argument("--review", default=REVIEW, type=Path)
+    parser.add_argument("--refresh", action="store_true", help="fetch every page again")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
-    fetcher = Fetcher(args.cache, pause=0.3)
+    fetcher = Fetcher(args.cache, pause=0.3, refresh=args.refresh)
     tcgdex = {lang: {s["id"]: s for s in fetcher.get(f"{TCGDEX_API}/{lang}/sets") or []}
               for langs in TCGDEX_LANGUAGES.values() for lang in langs}
 
     families = load(args.data)
-    official = recorded_official(json.loads(args.out.read_text(encoding="utf-8")) if args.out.exists() else {})
+    official = recorded_official(read_json(args.out) if args.out.exists() else {})
     japanese = japanese_names(families)
     by_set: dict[tuple[str, str], list[Family]] = {}
     for family in families:
@@ -122,9 +135,9 @@ def main(argv: list[str] | None = None) -> int:
     for set_id, brief in tcgdex["ja"].items():
         detail = fetcher.get(f"{TCGDEX_API}/ja/sets/{set_id}") or {}
         ja_sets[set_id] = {"name": brief["name"], "releaseDate": detail.get("releaseDate")}
-    images = japanese_images(Fetcher(args.cache, pause=1.0), families, ja_sets)
+    images = japanese_images(Fetcher(args.cache, pause=1.0, refresh=args.refresh), families, ja_sets)
     sets, missing_logo = {}, []
-    for (region, set_id), members in sorted(by_set.items()):
+    for region, set_id in sorted(by_set):
         entry = {}
         for lang in TCGDEX_LANGUAGES[region]:
             value = dict((official.get(set_id) or {}).get(lang) or {}) if region == "international" else {}
@@ -156,8 +169,9 @@ def main(argv: list[str] | None = None) -> int:
                 value.update(logo=symbol + ".png", logoSource="tcgdex", logoKind="symbol")
             else:
                 missing_logo.append(f"{region}/{set_id}:{lang}")
-        if entry:
-            sets[f"{region}/{set_id}"] = {"region": region, "set": set_id, "languages": entry}
+        # A set no source names (one TCGplayer files products under that TCGdex does not list) is still listed, so
+        # every family's set is in this file.
+        sets[f"{region}/{set_id}"] = {"region": region, "set": set_id, "languages": entry}
 
     # Each set's plain booster pack takes the set's official name, as printed on the pack.
     renamed, changed = 0, {}
@@ -180,13 +194,11 @@ def main(argv: list[str] | None = None) -> int:
           f"{len(missing_logo)} set languages without a logo, {renamed} booster pack releases renamed")
     if args.dry_run:
         return 0
-    args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(sets, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    write_json(args.out, sets, indent=1)
+    uuids.stamp(families)
     for family in changed.values():
-        family.path.write_text(json.dumps(family.data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    (ROOT / "review" / "sets.json").write_text(
-        json.dumps({"missing_logo": missing_logo}, ensure_ascii=False, indent=1) + "\n",
-        encoding="utf-8")
+        write_family(family)
+    write_json(args.review / "sets.json", {"missing_logo": missing_logo}, indent=1)
     errors = validate(load(args.data), args.data)
     if errors:
         print("\n".join(errors[:50]), file=sys.stderr)

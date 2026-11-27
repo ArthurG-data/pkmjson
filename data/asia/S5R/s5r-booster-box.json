@@ -1,9 +1,11 @@
 {
   "id": "s5r-booster-box",
+  "uuid": "78e489a2-b973-589e-afb4-40ba01f27516",
   "region": "asia",
   "set": "S5R",
   "category": "booster_box",
   "name": "Rapid Strike Master Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 534132
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c7a73617-26e0-50ed-8c2b-01f8d65c33ae",
       "name": "Rapid Strike Master Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

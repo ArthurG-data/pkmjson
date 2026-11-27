@@ -1,9 +1,11 @@
 {
   "id": "ex15-dragon-frontiers-booster-box",
+  "uuid": "cdd25f40-2944-5b5b-845b-fd2a1214d2ca",
   "region": "international",
   "set": "ex15",
   "category": "booster_box",
   "name": "Dragon Frontiers Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271911
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d6bfe4af-b0d7-5016-8fdd-4888c4fdd185",
       "name": "Dragon Frontiers Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

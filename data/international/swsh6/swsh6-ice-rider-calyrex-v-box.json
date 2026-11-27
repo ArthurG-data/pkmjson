@@ -1,9 +1,11 @@
 {
   "id": "swsh6-ice-rider-calyrex-v-box",
+  "uuid": "14a9a23c-8a96-5d81-bafb-f49ea7a9a880",
   "region": "international",
   "set": "swsh6",
   "category": "collection_box",
   "name": "Ice Rider Calyrex V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "73b6a427-7cb1-5304-80dc-8d838d7b7970",
       "name": "Ice Rider Calyrex V Box",
       "releaseDate": "2021-08-06",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5b09c2b9-0c24-5ab7-9db6-be59a06e7979",
       "name": "Coffret Sylveroy Cavalier du Froid",
       "releaseDate": "2021-08-06",
       "sources": [
@@ -42,6 +46,7 @@
     },
     {
       "language": "de",
+      "uuid": "64aa99b6-4400-5ec6-805f-28ab5a5d25bc",
       "name": "Kollektion Schimmelreiter-Coronospa-V und",
       "releaseDate": "2021-08-06",
       "sources": [

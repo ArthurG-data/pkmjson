@@ -1,9 +1,11 @@
 {
   "id": "sm8-island-guardians-gx-premium-pin-collection",
+  "uuid": "3a99cf8f-f388-5b22-8723-50eef106c131",
   "region": "international",
   "set": "sm8",
   "category": "collection_box",
   "name": "Island Guardians GX Premium Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dacc4ac1-c8cc-5c94-a5fd-30826143503c",
       "name": "Island Guardians GX Premium Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "xy4-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "2e905738-1f9a-50d2-a675-bcd8798b5d03",
   "region": "international",
   "set": "xy4",
   "category": "other",
   "name": "Phantom Forces Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c0791365-bf60-5765-a8ff-ca113eac7556",
       "name": "Phantom Forces Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm7-evolution-celebration-tin-glaceon-gx",
+  "uuid": "c6ad5129-cb02-5878-8532-9aa7427a207d",
   "region": "international",
   "set": "sm7",
   "category": "tin",
   "name": "Evolution Celebration Tin [Glaceon GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a4e533f5-8162-538c-89df-bee84add8022",
       "name": "Evolution Celebration Tin [Glaceon GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "es",
+      "uuid": "53969d88-bbeb-5273-9498-f971557f3e13",
       "name": "Lata Celebración de Evolución",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -37,6 +41,7 @@
     },
     {
       "language": "it",
+      "uuid": "535a5b61-f279-503c-b2a6-ae9114d16f9d",
       "name": "Scatola da collezione Festa Evolutiva",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -45,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "6e7f521f-aae0-5263-ab6e-d59b591aa4ce",
       "name": "Tin-Box Entwicklungsfest",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -53,6 +59,7 @@
     },
     {
       "language": "fr",
+      "uuid": "28946be8-7541-5835-a11e-112f7fa70697",
       "name": "Boîte Célébration d’Évolutions",
       "releaseDate": "2018-09-21",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "s3-booster-pack",
+  "uuid": "0801607b-9c7f-5e87-a44c-81f185f52e12",
   "region": "asia",
   "set": "S3",
   "category": "booster_pack",
   "name": "Infinity Zone Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 463839
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f34cecbb-158f-5ff2-bb86-042988fc16f4",
       "name": "拡張パック「ムゲンゾーン」",
       "releaseDate": "2020-06-05",
       "identifiers": {

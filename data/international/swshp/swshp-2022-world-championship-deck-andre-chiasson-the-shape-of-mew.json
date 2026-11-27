@@ -1,9 +1,11 @@
 {
   "id": "swshp-2022-world-championship-deck-andre-chiasson-the-shape-of-mew",
+  "uuid": "3b816bd7-b0ab-5eb1-bdc7-b432b25d3e46",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "2022 World Championship Deck: Andre Chiasson (The Shape of Mew)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7892a6d6-962f-59a3-981b-87142133d263",
       "name": "2022 World Championship Deck: Andre Chiasson (The Shape of Mew)",
       "releaseDate": "2023-03-03",
       "identifiers": {

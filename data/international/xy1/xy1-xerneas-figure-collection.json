@@ -1,15 +1,18 @@
 {
   "id": "xy1-xerneas-figure-collection",
+  "uuid": "270affc1-d413-5163-9104-3051ba40c8a9",
   "region": "international",
   "set": "xy1",
   "category": "collection_box",
   "name": "Xerneas Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a collectible figure and XY Black Star Promo card featuring Xerneas, as well as 4 booster packs (3 from XY expansion; 1 from Legendary Treasures).",
   "releases": [
     {
       "language": "en",
+      "uuid": "efdfa20a-7fdd-542f-a651-d4d5a857c356",
       "name": "Xerneas Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [

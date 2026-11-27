@@ -1,9 +1,11 @@
 {
   "id": "swsh6-sleeved-booster-pack",
+  "uuid": "b39637ed-b0cd-50de-afda-d9cb73fb8f37",
   "region": "international",
   "set": "swsh6",
   "category": "sleeved_booster_pack",
   "name": "Chilling Reign Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674707
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b7cac05c-0da0-5c88-8571-93eefc9e45f4",
       "name": "Chilling Reign Sleeved Booster Pack",
       "releaseDate": "2021-06-18",
       "identifiers": {

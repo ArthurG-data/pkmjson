@@ -1,9 +1,11 @@
 {
   "id": "swsh12-3-pack-blister-manaphy",
+  "uuid": "c49bb777-2f3c-5ff7-86fa-2a75eff48446",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest 3 Pack Blister [Manaphy]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672336
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8249137b-fcb4-5d46-b5b3-72b8f202183d",
       "name": "Silver Tempest 3 Pack Blister [Manaphy]",
       "identifiers": {
         "tcgplayerProductIds": [

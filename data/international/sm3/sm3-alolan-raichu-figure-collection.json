@@ -1,9 +1,11 @@
 {
   "id": "sm3-alolan-raichu-figure-collection",
+  "uuid": "e691d031-bb32-5f94-a902-c3c1c86409ff",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Alolan Raichu Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "41bbcb76-d22e-594b-948a-be16f44f4891",
       "name": "Alolan Raichu Figure Collection",
       "releaseDate": "2018-01-19",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "42816a94-9a3c-50a5-9166-e20ff210a579",
       "name": "Coffret Raichu d'Alola",
       "releaseDate": "2017-11-01",
       "sources": [

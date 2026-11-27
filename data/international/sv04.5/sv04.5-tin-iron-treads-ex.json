@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-tin-iron-treads-ex",
+  "uuid": "6a32761e-1df5-5340-a977-70d3102aef67",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Tin [Iron Treads ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750590
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4f508d23-1f5f-5569-a64a-008c386b6478",
       "name": "Paldean Fates Tin [Iron Treads ex]",
       "releaseDate": "2024-02-09",
       "identifiers": {

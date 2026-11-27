@@ -1,9 +1,11 @@
 {
   "id": "sm4-pikachu-sidekick-collection",
+  "uuid": "ee1e10fe-fde1-5e82-a20b-32612be59b9e",
   "region": "international",
   "set": "sm4",
   "category": "collection_box",
   "name": "Pikachu Sidekick Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "47e2b13c-75f6-5042-a8a9-147a165d6109",
       "name": "Pikachu Sidekick Collection",
       "identifiers": {
         "tcgplayerProductIds": [

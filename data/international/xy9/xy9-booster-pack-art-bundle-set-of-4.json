@@ -1,15 +1,18 @@
 {
   "id": "xy9-booster-pack-art-bundle-set-of-4",
+  "uuid": "1484ed07-d58d-5c6e-9ace-52bdf0aaa9a0",
   "region": "international",
   "set": "xy9",
   "category": "other",
   "name": "BREAKpoint Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "df9513bf-9d09-5931-8cd9-6ed5c232101f",
       "name": "BREAKpoint Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

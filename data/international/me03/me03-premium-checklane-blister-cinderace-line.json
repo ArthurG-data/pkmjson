@@ -1,9 +1,11 @@
 {
   "id": "me03-premium-checklane-blister-cinderace-line",
+  "uuid": "46cceda7-c391-5169-b327-18f59336b956",
   "region": "international",
   "set": "me03",
   "category": "blister",
   "name": "Perfect Order Premium Checklane Blister [Cinderace Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "95e81ac2-373c-51a6-ac49-e1e103c36ca7",
       "name": "Perfect Order Premium Checklane Blister [Cinderace Line]",
       "releaseDate": "2026-03-27",
       "identifiers": {

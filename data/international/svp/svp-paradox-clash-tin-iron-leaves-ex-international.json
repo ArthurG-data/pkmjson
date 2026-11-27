@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-clash-tin-iron-leaves-ex-international",
+  "uuid": "779b49d6-7960-54f5-b4cf-088e133bc7f9",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Clash Tin [Iron Leaves ex] (International)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f288a172-adf5-535b-9047-8b9a3df0e9a4",
       "name": "Paradox Clash Tin [Iron Leaves ex] (International)",
       "releaseDate": "2024-05-24",
       "identifiers": {

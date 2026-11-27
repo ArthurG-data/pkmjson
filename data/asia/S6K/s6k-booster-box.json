@@ -1,9 +1,11 @@
 {
   "id": "s6k-booster-box",
+  "uuid": "c8ef18c5-90fe-57b6-b0db-51b9f4f09e27",
   "region": "asia",
   "set": "S6K",
   "category": "booster_box",
   "name": "Jet-Black Spirit Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557965
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "56786e15-7dcc-5deb-a5c2-8ce74cac307b",
       "name": "Jet-Black Spirit Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

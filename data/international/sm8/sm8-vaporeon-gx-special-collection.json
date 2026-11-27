@@ -1,9 +1,11 @@
 {
   "id": "sm8-vaporeon-gx-special-collection",
+  "uuid": "342cb175-af98-5a88-9279-efb6659b8a1f",
   "region": "international",
   "set": "sm8",
   "category": "collection_box",
   "name": "Vaporeon GX Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c1e755de-88b8-518c-9ab6-f002b6984bd2",
       "name": "Vaporeon GX Special Collection",
       "releaseDate": "2019-01-18",
       "identifiers": {

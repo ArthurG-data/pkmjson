@@ -1,15 +1,18 @@
 {
   "id": "xy12-snorlax-gx-box",
+  "uuid": "cdd542ec-b9d0-50d6-99a3-080ab13678b7",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Snorlax GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "11745177-7ad1-5297-84d0-bade9bd75810",
       "name": "Snorlax GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "aba0efdf-bf86-5842-90e4-4066c3cc06c6",
       "name": "Coffret Ronflex",
       "releaseDate": "2017-01-28",
       "contents": {
@@ -42,6 +46,7 @@
     },
     {
       "language": "it",
+      "uuid": "7be649de-c35c-57c5-a036-60e4654008d8",
       "name": "Set Snorlax-GX",
       "releaseDate": "2016-11-18",
       "sources": [

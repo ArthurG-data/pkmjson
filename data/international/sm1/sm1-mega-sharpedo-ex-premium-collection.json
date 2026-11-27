@@ -1,15 +1,18 @@
 {
   "id": "sm1-mega-sharpedo-ex-premium-collection",
+  "uuid": "4092d888-cd23-5b3f-b0c2-c8e67587c74b",
   "region": "international",
   "set": "sm1",
   "category": "premium_collection",
   "name": "Mega Sharpedo EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2c490804-b392-5c4d-9840-bef3e52561dc",
       "name": "Mega Sharpedo EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a1eb3606-f588-58cc-8e63-29c4cafae903",
       "name": "Coffret Méga-Sharpedo",
       "releaseDate": "2017-08-25",
       "sources": [

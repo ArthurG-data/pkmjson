@@ -1,9 +1,11 @@
 {
   "id": "svem-other",
+  "uuid": "8842d807-9ed8-5dde-8b90-dc2a89cc3e22",
   "region": "asia",
   "set": "SVEM",
   "category": "battle_deck",
   "name": "Mewtwo ex Terastal Starter Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6a83e347-6b7c-58b8-a3db-8bf47d714067",
       "name": "スターターセット テラスタル ミュウツーex",
       "releaseDate": "2023-09-22",
       "identifiers": {

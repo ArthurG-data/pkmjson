@@ -1,9 +1,11 @@
 {
   "id": "xy9-theme-deck-wave-slasher-greninja",
+  "uuid": "250d9680-751d-5aea-9e51-52e22f896f1d",
   "region": "international",
   "set": "xy9",
   "category": "theme_deck",
   "name": "BREAKpoint Theme Deck - \"Wave Slasher\" [Greninja]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 287834
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "91c611cf-b4a5-55d1-bbeb-142b38b35c21",
       "name": "BREAKpoint Theme Deck - \"Wave Slasher\" [Greninja]",
       "identifiers": {
         "tcgplayerProductIds": [

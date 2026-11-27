@@ -1,15 +1,18 @@
 {
   "id": "mep-enhanced-2-pack-blister-pack-gengar-marshadow-team-rocket-s-mimikyu",
+  "uuid": "2922a544-0fe2-5580-89f7-56f88c95bc79",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Enhanced 2-Pack Blister Pack [Gengar, Marshadow, Team Rocket's Mimikyu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4c9ae410-bf89-5a8e-9d19-3f2eb2be782c",
       "name": "Enhanced 2-Pack Blister Pack [Gengar, Marshadow, Team Rocket's Mimikyu]",
       "identifiers": {
         "tcgplayerProductIds": [

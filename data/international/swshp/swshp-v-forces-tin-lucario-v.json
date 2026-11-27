@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-forces-tin-lucario-v",
+  "uuid": "1c81dbd2-7dae-5d09-97c5-ca9511297355",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Forces Tin [Lucario V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "94f54908-b035-56b2-8d32-352704198b63",
       "name": "V Forces Tin [Lucario V]",
       "releaseDate": "2021-02-19",
       "identifiers": {
@@ -30,6 +33,7 @@
     },
     {
       "language": "it",
+      "uuid": "5febe80c-afd0-56f5-8e57-967658a7fc69",
       "name": "Scatole da collezione Forza V",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -38,6 +42,7 @@
     },
     {
       "language": "de",
+      "uuid": "19fae5e7-bfd7-5f88-98d5-5b405e8a9815",
       "name": "Tin-Box V-Kräfte",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -46,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "f74841f5-57f6-5d38-b190-809807fe7066",
       "name": "Lata Fuerzas V",
       "releaseDate": "2021-03-19",
       "sources": [
@@ -54,6 +60,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d31cdd8a-6829-524c-9e3d-66d6cae5c582",
       "name": "Boîte Forces‑V",
       "releaseDate": "2021-02-19",
       "sources": [

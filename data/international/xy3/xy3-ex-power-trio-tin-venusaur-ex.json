@@ -1,15 +1,18 @@
 {
   "id": "xy3-ex-power-trio-tin-venusaur-ex",
+  "uuid": "85a0992c-fdb9-5e7c-9ace-7ccd75c7f7cf",
   "region": "international",
   "set": "xy3",
   "category": "tin",
   "name": "EX Power Trio Tin [Venusaur EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a16c7504-5828-5e4d-bb1e-725f08b9237f",
       "name": "EX Power Trio Tin [Venusaur EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3de07b02-c06d-5d68-9250-a63c5456f672",
       "name": "Boîte Trio Puissance EX Florizarre",
       "contents": {
         "sealed": [

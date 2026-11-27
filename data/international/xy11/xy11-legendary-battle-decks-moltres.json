@@ -1,15 +1,18 @@
 {
   "id": "xy11-legendary-battle-decks-moltres",
+  "uuid": "94fce86d-2018-5874-813e-d66a3fe6e0bc",
   "region": "international",
   "set": "xy11",
   "category": "battle_deck",
   "name": "Legendary Battle Decks [Moltres]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a preconstructed 60-card deck featuring Moltres; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6eb14f14-3a0f-5bfa-92bc-2014a5aaadad",
       "name": "Legendary Battle Decks [Moltres]",
       "identifiers": {
         "tcgplayerProductIds": [

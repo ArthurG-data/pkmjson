@@ -1,15 +1,18 @@
 {
   "id": "swsh11-booster-pack-art-bundle-set-of-4",
+  "uuid": "575f6833-8e2e-54e1-bf42-47c64c9b9b54",
   "region": "international",
   "set": "swsh11",
   "category": "other",
   "name": "Lost Origin Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5b8039d0-a785-5f6c-a982-29e2aa134a12",
       "name": "Lost Origin Booster Pack Art Bundle [Set of 4]",
       "releaseDate": "2022-09-09",
       "identifiers": {

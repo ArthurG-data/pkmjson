@@ -1,9 +1,11 @@
 {
   "id": "me02-booster-bundle-case",
+  "uuid": "2b6d63a7-44da-5e13-96d9-4c191d8ab1d8",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1b85158a-1d42-5768-8163-cb30ceb859a2",
       "name": "Phantasmal Flames Booster Bundle Case",
       "releaseDate": "2025-11-14",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "me02-premium-checklane-blister-arven-s-greedent",
+  "uuid": "385531d9-3afc-5dfd-a0c3-0665029e4094",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames Premium Checklane Blister [Arven's Greedent]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "66438a1d-9b0f-5acc-aba4-3f420dd019cb",
       "name": "Phantasmal Flames Premium Checklane Blister [Arven's Greedent]",
       "identifiers": {
         "tcgplayerProductIds": [

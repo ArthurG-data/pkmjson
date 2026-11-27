@@ -1,9 +1,11 @@
 {
   "id": "ecard3-booster-pack",
+  "uuid": "33d2b0a9-c411-5c2d-9d63-a0d675f7ffd3",
   "region": "international",
   "set": "ecard3",
   "category": "booster_pack",
   "name": "Skyridge Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271860
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bb163bf3-365f-5187-9858-d5e9a75dbad3",
       "name": "Skyridge Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-zapdos-ex-collection",
+  "uuid": "345f5c9d-e139-5413-96b2-960aec2339b1",
   "region": "international",
   "set": "sv03.5",
   "category": "collection_box",
   "name": "151: Zapdos ex Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719700
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "88d2ed6a-c009-51a6-b1ec-e37b2cad1e5e",
       "name": "151: Zapdos ex Collection",
       "releaseDate": "2023-10-06",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "es",
+      "uuid": "c4e5cb7b-5314-5250-8728-920a65dc3db1",
       "name": "Colección Zapdos ex de Escarlata y Púrpura-151",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-zapdos-ex-de-escarlata-y-purpura-151"
@@ -60,6 +64,7 @@
     },
     {
       "language": "de",
+      "uuid": "cb00a287-7038-5f99-9ab1-fbc8ad5d0821",
       "name": "Kollektion Karmesin & Purpur – 151: Zapdos‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-zapdos-ex"
@@ -67,6 +72,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1f112e6a-ad80-59e9-8777-2b6e3800c90f",
       "name": "Collection Électhor-ex Écarlate et Violet – 151",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-electhor-ex-ecarlate-et-violet-151"
@@ -74,6 +80,7 @@
     },
     {
       "language": "it",
+      "uuid": "bb6881e8-9d3b-57f5-9965-ffc7715f53bd",
       "name": "Collezione Zapdos-ex dell’espansione Scarlatto e Violetto - 151",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-zapdos-ex-dellespansione-scarlatto-e-violetto-151"

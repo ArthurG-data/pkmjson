@@ -1,9 +1,11 @@
 {
   "id": "sv7a-booster-pack",
+  "uuid": "95d04b1f-6999-56b5-bb74-66e284af7926",
   "region": "asia",
   "set": "SV7a",
   "category": "booster_pack",
   "name": "Paradise Dragona Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 781843
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "dc394eba-83ac-52ec-a276-4260bdf335b2",
       "name": "強化拡張パック「楽園ドラゴーナ」",
       "releaseDate": "2024-09-13",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-legends-tin-koraidon-ex",
+  "uuid": "5c9afbf8-2e89-5c6d-b541-474e334cefde",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Legends Tin [Koraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67f48a1b-785f-5553-a93c-ef66417e55c3",
       "name": "Paldea Legends Tin [Koraidon ex]",
       "identifiers": {
         "tcgplayerProductIds": [

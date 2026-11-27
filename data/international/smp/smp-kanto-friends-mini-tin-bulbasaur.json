@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-friends-mini-tin-bulbasaur",
+  "uuid": "1cd895d7-c78d-5357-a4a2-e9a8f9486afd",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Friends Mini Tin [Bulbasaur]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0a5ecd1d-dd92-51b3-9161-f7d268940486",
       "name": "Kanto Friends Mini Tin [Bulbasaur]",
       "identifiers": {
         "tcgplayerProductIds": [

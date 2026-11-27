@@ -1,9 +1,11 @@
 {
   "id": "svp-oinkologne-ex-box",
+  "uuid": "3a897b57-a2ae-5894-8984-f5d2bf7e47a2",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Oinkologne ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9e5c09c-15c5-5c5e-a295-e0f72285c068",
       "name": "Oinkologne ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

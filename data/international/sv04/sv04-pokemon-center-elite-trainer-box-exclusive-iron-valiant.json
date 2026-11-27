@@ -1,9 +1,11 @@
 {
   "id": "sv04-pokemon-center-elite-trainer-box-exclusive-iron-valiant",
+  "uuid": "b59d310e-a927-5276-b95b-43c005a9a290",
   "region": "international",
   "set": "sv04",
   "category": "elite_trainer_box",
   "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Iron Valiant]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728729
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8921cfe6-238e-5e2a-8fb0-89732d0fd8ae",
       "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Iron Valiant]",
       "identifiers": {
         "tcgplayerProductIds": [

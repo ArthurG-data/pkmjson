@@ -1,9 +1,11 @@
 {
   "id": "sm3-team-skull-pin-collection",
+  "uuid": "2d9265fb-a8ab-5c08-b2f0-6e91bb8e3d05",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Team Skull Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -47,6 +49,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "93b48a1e-af84-54bb-8248-2bf5b7cff132",
       "name": "Team Skull Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [

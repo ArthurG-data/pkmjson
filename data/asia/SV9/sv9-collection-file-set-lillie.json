@@ -1,15 +1,18 @@
 {
   "id": "sv9-collection-file-set-lillie",
+  "uuid": "697640d9-156c-5c53-9e3f-2a0bfad57236",
   "region": "asia",
   "set": "SV9",
   "category": "collection_box",
   "name": "Collection File Set Lillie",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Cards are randomly included in 5 pieces each..",
   "releases": [
     {
       "language": "ja",
+      "uuid": "25328fb0-7843-5525-b280-ca01da27f4ab",
       "name": "Collection File Set Lillie",
       "identifiers": {
         "tcgplayerProductIds": [

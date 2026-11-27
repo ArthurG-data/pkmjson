@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-destinies-tin-raging-bolt-ex",
+  "uuid": "f459b8a0-b4a3-56ef-9bac-7743e722da98",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Destinies Tin [Raging Bolt ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c7c155e0-3b2e-5827-889c-9bebf3d5ecb4",
       "name": "Paradox Destinies Tin [Raging Bolt ex]",
       "releaseDate": "2024-09-06",
       "identifiers": {

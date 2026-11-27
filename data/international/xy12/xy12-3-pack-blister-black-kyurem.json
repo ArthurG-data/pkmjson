@@ -1,9 +1,11 @@
 {
   "id": "xy12-3-pack-blister-black-kyurem",
+  "uuid": "398f9446-e155-5b7f-93a8-aec593c0987a",
   "region": "international",
   "set": "xy12",
   "category": "blister",
   "name": "XY - Evolutions 3 Pack Blister [Black Kyurem]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586327
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa74aa2c-bb24-5653-810a-f738ebb440cd",
       "name": "XY - Evolutions 3 Pack Blister [Black Kyurem]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,7 @@
     },
     {
       "language": "fr",
+      "uuid": "58f6e9d1-2ada-5d08-b6c5-5c29a5bea9fc",
       "name": "Tripack XY12 Kyurem Noir",
       "releaseDate": "2016-11-19",
       "contents": {

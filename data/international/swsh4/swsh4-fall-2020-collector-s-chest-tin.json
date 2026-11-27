@@ -1,9 +1,11 @@
 {
   "id": "swsh4-fall-2020-collector-s-chest-tin",
+  "uuid": "7a2a80db-2f18-5b19-88e8-500fa613a4d9",
   "region": "international",
   "set": "swsh4",
   "category": "tin",
   "name": "Fall 2020 Collector's Chest Tin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -51,6 +53,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c1ca1714-a238-57b9-a7eb-acc6bf1d5a8c",
       "name": "Fall 2020 Collector's Chest Tin",
       "releaseDate": "2020-11-13",
       "identifiers": {
@@ -64,6 +67,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5a0a3ec7-c06e-5494-9fb7-4028762d7a9e",
       "name": "Coffre de collection (Automne 2020)",
       "releaseDate": "2020-11-13",
       "sources": [
@@ -72,6 +76,7 @@
     },
     {
       "language": "it",
+      "uuid": "3b604e84-0d16-5157-94c6-ef57407608a7",
       "name": "Bauletto da collezione del GCC Pokémon (autunno 2020)",
       "releaseDate": "2020-11-13",
       "sources": [
@@ -80,6 +85,7 @@
     },
     {
       "language": "de",
+      "uuid": "dc6f0b15-072a-5743-932d-d9b0fd4c358f",
       "name": "Sammelkoffer (Herbst 2020)",
       "releaseDate": "2020-11-13",
       "sources": [

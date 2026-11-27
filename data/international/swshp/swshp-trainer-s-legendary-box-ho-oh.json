@@ -1,9 +1,11 @@
 {
   "id": "swshp-trainer-s-legendary-box-ho-oh",
+  "uuid": "7ea68b29-d437-55c4-b26d-dda46ab23569",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Trainer's Legendary Box [Ho-Oh]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "db0a18e9-17e0-555a-ab6a-1fd45252f16e",
       "name": "Trainer's Legendary Box [Ho-Oh]",
       "identifiers": {
         "tcgplayerProductIds": [

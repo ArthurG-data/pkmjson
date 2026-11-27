@@ -1,9 +1,11 @@
 {
   "id": "swsh4-premium-checklane-blister-weezing",
+  "uuid": "eedd5a29-f29d-5abf-a1c6-25179603f23e",
   "region": "international",
   "set": "swsh4",
   "category": "blister",
   "name": "Vivid Voltage Premium Checklane Blister [Weezing]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e9798796-2291-5ebe-a412-20bdc4e5f010",
       "name": "Vivid Voltage Premium Checklane Blister [Weezing]",
       "identifiers": {
         "tcgplayerProductIds": [

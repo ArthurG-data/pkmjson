@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-stacking-tin-psychic",
+  "uuid": "f3e4f275-d5b4-57e3-a74d-c7e7bfaf0b7c",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Psychic",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "589dcf0a-bee0-5f10-b46b-24c4ebb37ae0",
       "name": "Pokemon Stacking Tin: Psychic",
       "identifiers": {
         "tcgplayerProductIds": [

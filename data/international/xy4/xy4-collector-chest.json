@@ -1,15 +1,18 @@
 {
   "id": "xy4-collector-chest",
+  "uuid": "81ac5b66-4ed7-52d4-936e-5e03a72aeee1",
   "region": "international",
   "set": "xy4",
   "category": "other",
   "name": "Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8d6c203a-d2d4-5880-a572-93c1457bd1da",
       "name": "Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [

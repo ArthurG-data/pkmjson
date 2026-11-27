@@ -1,15 +1,18 @@
 {
   "id": "g1-red-blue-collection-pikachu-ex",
+  "uuid": "8eddde71-8e0e-5603-b78e-e4d3e9d68e13",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Red & Blue Collection [Pikachu EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "18cd4d62-160a-56eb-aa40-9a2aa7e8d060",
       "name": "Red & Blue Collection [Pikachu EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bd84a8d0-d861-56e8-ad8a-d2cb483a4be5",
       "name": "Collection Rouge & Bleu Pikachu",
       "releaseDate": "2016-09-17",
       "sources": [

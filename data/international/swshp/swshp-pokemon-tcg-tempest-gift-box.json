@@ -1,15 +1,18 @@
 {
   "id": "swshp-pokemon-tcg-tempest-gift-box",
+  "uuid": "68164d28-ab4e-54e8-aea5-addb111a7852",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Pokemon TCG: Tempest Gift Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "606ce290-b52e-5dca-a6ba-85b339f18370",
       "name": "Pokemon TCG: Tempest Gift Box",
       "identifiers": {
         "tcgplayerProductIds": [

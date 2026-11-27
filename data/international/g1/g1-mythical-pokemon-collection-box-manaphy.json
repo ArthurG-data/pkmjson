@@ -1,15 +1,18 @@
 {
   "id": "g1-mythical-pokemon-collection-box-manaphy",
+  "uuid": "5032fc0b-c711-5502-985d-5160f6e28263",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Mythical Pokemon Collection Box [Manaphy]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6a0a8dbd-1263-5a03-a3e6-745df8d1a112",
       "name": "Mythical Pokemon Collection Box [Manaphy]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b44a8095-1d75-5a26-8193-0dbf21423b17",
       "name": "Collection Pokémon fabuleux Manaphy",
       "releaseDate": "2016-08-20",
       "sources": [

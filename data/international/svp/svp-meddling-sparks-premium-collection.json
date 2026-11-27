@@ -1,15 +1,18 @@
 {
   "id": "svp-meddling-sparks-premium-collection",
+  "uuid": "944f058b-fe5d-59c9-bb53-0fc6106c10fb",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Meddling Sparks Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4667f7fa-38cc-5de5-9b17-e16a6dbaac4e",
       "name": "Meddling Sparks Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

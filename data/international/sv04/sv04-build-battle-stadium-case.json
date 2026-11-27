@@ -1,15 +1,18 @@
 {
   "id": "sv04-build-battle-stadium-case",
+  "uuid": "1a3028c1-cca7-5981-8ca6-5a3aefc230a7",
   "region": "international",
   "set": "sv04",
   "category": "case",
   "name": "Paradox Rift Build & Battle Stadium Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "57f9f677-2eaf-5613-964d-fde741b567d4",
       "name": "Paradox Rift Build & Battle Stadium Case",
       "identifiers": {
         "tcgplayerProductIds": [

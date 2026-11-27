@@ -1,9 +1,11 @@
 {
   "id": "xy10-theme-deck-battle-ruler-zygarde",
+  "uuid": "d2944b48-a84e-5705-9165-fb7f7d5b7cad",
   "region": "international",
   "set": "xy10",
   "category": "theme_deck",
   "name": "Fates Collide Theme Deck - \"Battle Ruler\" [Zygarde]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 289043
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2a373847-5361-5a75-8259-35240ea5d1c3",
       "name": "Fates Collide Theme Deck - \"Battle Ruler\" [Zygarde]",
       "identifiers": {
         "tcgplayerProductIds": [

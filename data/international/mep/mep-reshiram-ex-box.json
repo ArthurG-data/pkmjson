@@ -1,9 +1,11 @@
 {
   "id": "mep-reshiram-ex-box",
+  "uuid": "b9cdb667-99ba-55e2-ae33-923598b7c9aa",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Reshiram ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d1895264-7e17-547c-a833-983906debf22",
       "name": "Reshiram ex Box",
       "identifiers": {
         "tcgplayerProductIds": [

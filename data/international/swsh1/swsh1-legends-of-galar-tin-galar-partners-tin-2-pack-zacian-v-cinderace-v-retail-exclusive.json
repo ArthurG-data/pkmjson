@@ -1,9 +1,11 @@
 {
   "id": "swsh1-legends-of-galar-tin-galar-partners-tin-2-pack-zacian-v-cinderace-v-retail-exclusive",
+  "uuid": "5b4298f4-d9cc-55d3-bec1-e04cbea83bf8",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Legends of Galar Tin + Galar Partners Tin 2-pack [Zacian V/Cinderace V] (Retail Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6e49e29e-dccd-56da-849a-1f8fb72cb1de",
       "name": "Legends of Galar Tin + Galar Partners Tin 2-pack [Zacian V/Cinderace V] (Retail Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

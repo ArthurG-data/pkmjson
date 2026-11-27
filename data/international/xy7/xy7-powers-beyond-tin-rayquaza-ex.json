@@ -1,15 +1,18 @@
 {
   "id": "xy7-powers-beyond-tin-rayquaza-ex",
+  "uuid": "c7621624-cdeb-5629-882d-033427bf6f8b",
   "region": "international",
   "set": "xy7",
   "category": "tin",
   "name": "Powers Beyond Tin [Rayquaza EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "97abd538-8dac-530c-bb79-b30e387c762a",
       "name": "Powers Beyond Tin [Rayquaza EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "0860586e-a4ba-5ea1-9105-1510fc13e655",
       "name": "Boîte Puissance d'un autre monde Rayquaza",
       "releaseDate": "2015-11-11",
       "contents": {

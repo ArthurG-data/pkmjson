@@ -1,9 +1,11 @@
 {
   "id": "xy6-theme-deck-aurora-blast-articuno",
+  "uuid": "3cfe15cc-d28e-5803-ac06-66e0e3077713",
   "region": "international",
   "set": "xy6",
   "category": "theme_deck",
   "name": "Roaring Skies Theme Deck - \"Aurora Blast\" [Articuno]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 282799
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "adad1971-6447-5e5e-baae-3b5e5475f151",
       "name": "Roaring Skies Theme Deck - \"Aurora Blast\" [Articuno]",
       "identifiers": {
         "tcgplayerProductIds": [

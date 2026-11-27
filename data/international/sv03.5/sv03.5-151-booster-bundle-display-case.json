@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-booster-bundle-display-case",
+  "uuid": "1f4183fc-c761-5059-a1fa-68f7b5adaaea",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Booster Bundle Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6ddde3b6-d0d6-56d3-80fa-d15f5d674e79",
       "name": "151 Booster Bundle Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

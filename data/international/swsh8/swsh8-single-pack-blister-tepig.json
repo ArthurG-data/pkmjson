@@ -1,9 +1,11 @@
 {
   "id": "swsh8-single-pack-blister-tepig",
+  "uuid": "2c3f0068-d370-5537-95f9-641a85b18849",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Fusion Strike Single Pack Blister [Tepig]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585667
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d6d7fb8f-07f4-5fde-a86d-a87f5b0d2c31",
       "name": "Fusion Strike Single Pack Blister [Tepig]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv09-build-battle-box",
+  "uuid": "faf2f117-4cde-5f04-8da3-869db77d88eb",
   "region": "international",
   "set": "sv09",
   "category": "build_and_battle_box",
   "name": "Journey Together Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805591
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "545c93b0-9f45-5127-8b32-45b515de7fc8",
       "name": "Journey Together Build & Battle Box",
       "releaseDate": "2025-04-11",
       "identifiers": {

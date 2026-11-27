@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-tin-charizard-ex",
+  "uuid": "3d54a230-d0d7-587c-98c0-e77e29b5c01b",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Tin [Charizard ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "034b728f-3528-5557-b154-3c912b243ce8",
       "name": "Paldean Fates Tin [Charizard ex]",
       "releaseDate": "2024-02-09",
       "identifiers": {

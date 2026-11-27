@@ -1,9 +1,11 @@
 {
   "id": "xy2-booster-pack",
+  "uuid": "53d558e0-39dc-5cea-963f-71e63151f5a4",
   "region": "international",
   "set": "xy2",
   "category": "booster_pack",
   "name": "Flashfire Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271862
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "983d4ecf-df59-55a0-8902-9426f4aec9d3",
       "name": "XY—Flashfire",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b4b526db-7f22-587f-a4f1-1150cac84b8e",
       "name": "XY – Étincelles",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Crocorible-EX",

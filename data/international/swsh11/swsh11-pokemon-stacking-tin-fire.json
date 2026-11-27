@@ -1,9 +1,11 @@
 {
   "id": "swsh11-pokemon-stacking-tin-fire",
+  "uuid": "356df799-c189-5312-8030-c40e92f852d2",
   "region": "international",
   "set": "swsh11",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Fire",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5ba4dde2-aab8-54da-86c6-f5094b53e510",
       "name": "Pokemon Stacking Tin: Fire",
       "releaseDate": "2022-10-28",
       "identifiers": {

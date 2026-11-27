@@ -1,15 +1,18 @@
 {
   "id": "swshp-marshadow-box-international-version",
+  "uuid": "6170e57b-3f4e-5389-a817-c0b2e8c1198d",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Marshadow Box (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Assorted Pokemon TCG booster packs; 1 promotional card featuring Marshadow.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7b43a918-e174-524a-9702-1d5ce6018d24",
       "name": "Marshadow Box (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

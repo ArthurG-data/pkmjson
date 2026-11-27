@@ -1,9 +1,11 @@
 {
   "id": "sm11-booster-pack",
+  "uuid": "4089138e-23f3-5110-83af-43e6f332afe5",
   "region": "international",
   "set": "sm11",
   "category": "booster_pack",
   "name": "Unified Minds Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 377490
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8035c16-f664-5231-9d56-4dbc5833fc1c",
       "name": "Sun & Moon—Unified Minds",
       "releaseDate": "2019-08-02",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ea35f548-4d37-5ec1-be74-f526b37be6b1",
       "name": "Soleil et Lune – Harmonie des Esprits",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX",

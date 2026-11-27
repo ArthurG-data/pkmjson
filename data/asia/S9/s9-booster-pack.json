@@ -1,9 +1,11 @@
 {
   "id": "s9-booster-pack",
+  "uuid": "e6864bd3-99a7-5c76-b46e-9cf0a62811cb",
   "region": "asia",
   "set": "S9",
   "category": "booster_pack",
   "name": "Star Birth Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 605850
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0a702fe4-6070-5755-bb44-85e741a15fd1",
       "name": "拡張パック「スターバース」",
       "releaseDate": "2022-01-14",
       "identifiers": {

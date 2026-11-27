@@ -1,15 +1,18 @@
 {
   "id": "swsh12-build-battle-box-display",
+  "uuid": "b276b775-2619-514a-8b74-e773cfd5d36a",
   "region": "international",
   "set": "swsh12",
   "category": "case",
   "name": "Silver Tempest Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4931db7d-4e5c-55e9-9f90-522f366f51f5",
       "name": "Silver Tempest Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv02-3-pack-blister-tinkatink",
+  "uuid": "5647dfa2-06be-5711-bb51-3c4050d9e348",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved 3 Pack Blister [Tinkatink]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703170
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4e439762-bbea-5a24-8938-6e5e6b1a738c",
       "name": "Paldea Evolved 3 Pack Blister [Tinkatink]",
       "identifiers": {
         "tcgplayerProductIds": [

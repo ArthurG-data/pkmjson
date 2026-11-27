@@ -1,15 +1,18 @@
 {
   "id": "xy6-hoenn-power-tin-blaziken",
+  "uuid": "d4606ef0-4552-5d2a-97ef-41d7361fc75f",
   "region": "international",
   "set": "xy6",
   "category": "tin",
   "name": "Hoenn Power Tin [Blaziken]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "86eafc68-965c-5fe7-8944-3590f23bb78f",
       "name": "Hoenn Power Tin [Blaziken]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f5566bc3-94cb-59a8-ab44-0d10e2d84bef",
       "name": "Boîte Puissance de Hoenn Braségali",
       "contents": {
         "sealed": [

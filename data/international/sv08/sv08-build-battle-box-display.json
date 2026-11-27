@@ -1,9 +1,11 @@
 {
   "id": "sv08-build-battle-box-display",
+  "uuid": "40273a4c-2ebb-5a7d-beca-2c5930052162",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784967
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9662cdf8-659b-5080-a088-e07022578b14",
       "name": "Surging Sparks Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv02-sleeved-booster-pack-art-bundle-set-of-5",
+  "uuid": "90da1563-6050-58d0-b614-a58719fdb341",
   "region": "international",
   "set": "sv02",
   "category": "other",
   "name": "Paldea Evolved Sleeved Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b4bd9a60-75de-5fbe-9687-b06ba4f2367d",
       "name": "Paldea Evolved Sleeved Booster Pack Art Bundle [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

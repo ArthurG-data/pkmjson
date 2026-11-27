@@ -1,9 +1,11 @@
 {
   "id": "sm4-theme-deck-clanging-thunder-kommo-o",
+  "uuid": "b91ae57c-4938-5b4d-98ba-502d789a78d2",
   "region": "international",
   "set": "sm4",
   "category": "theme_deck",
   "name": "Crimson Invasion Theme Deck - \"Clanging Thunder\" [Kommo-o]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301981
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c7c0e2b1-ed6c-5f4b-8054-c3424ac9d01d",
       "name": "Crimson Invasion Theme Deck - \"Clanging Thunder\" [Kommo-o]",
       "identifiers": {
         "tcgplayerProductIds": [

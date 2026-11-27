@@ -1,9 +1,11 @@
 {
   "id": "smp-elemental-power-tin-jolteon-gx",
+  "uuid": "a2b306a5-aa6c-5853-9a62-5d5c91b8b6eb",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Elemental Power Tin [Jolteon GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a3ce6a6b-87c8-5bd5-b38f-dadedfcd1af1",
       "name": "Elemental Power Tin [Jolteon GX]",
       "releaseDate": "2019-11-01",
       "identifiers": {

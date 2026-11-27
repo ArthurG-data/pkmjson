@@ -1,9 +1,11 @@
 {
   "id": "base4-theme-deck-lightning-bug",
+  "uuid": "81a57047-e405-5edb-8b56-f35b6a3e62a8",
   "region": "international",
   "set": "base4",
   "category": "theme_deck",
   "name": "Base Set 2 Theme Deck - \"Lightning Bug\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286500
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c64b6ddd-d325-5d51-ab9f-f7d475252afe",
       "name": "Base Set 2 Theme Deck - \"Lightning Bug\"",
       "identifiers": {
         "tcgplayerProductIds": [

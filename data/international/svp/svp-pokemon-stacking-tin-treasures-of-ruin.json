@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-stacking-tin-treasures-of-ruin",
+  "uuid": "2f9ee4ce-7a71-5e73-af36-6d650fa69cd1",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Treasures of Ruin",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dfc906b1-f62c-5b9b-be0a-30c1fc331ebe",
       "name": "Pokemon Stacking Tin: Treasures of Ruin",
       "releaseDate": "2025-03-07",
       "identifiers": {

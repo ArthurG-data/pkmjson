@@ -1,9 +1,11 @@
 {
   "id": "s9a-booster-pack",
+  "uuid": "b326d7c6-650d-5ea5-a844-260ef92d5a98",
   "region": "asia",
   "set": "S9a",
   "category": "booster_pack",
   "name": "Battle Region Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 609613
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "040f8b18-b57f-5e3f-a4e4-e9fb4e5a21e6",
       "name": "強化拡張パック「バトルリージョン」",
       "releaseDate": "2022-02-25",
       "identifiers": {

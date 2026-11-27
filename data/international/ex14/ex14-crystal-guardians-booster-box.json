@@ -1,9 +1,11 @@
 {
   "id": "ex14-crystal-guardians-booster-box",
+  "uuid": "fb9b239e-662b-54a6-98b9-e61fbd482688",
   "region": "international",
   "set": "ex14",
   "category": "booster_box",
   "name": "Crystal Guardians Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271907
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e3054227-b36e-528f-b1e1-b27a63bb7554",
       "name": "Crystal Guardians Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

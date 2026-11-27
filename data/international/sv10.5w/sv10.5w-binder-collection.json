@@ -1,9 +1,11 @@
 {
   "id": "sv10.5w-binder-collection",
+  "uuid": "035256df-5543-5f32-b7d0-9f8f7f04a6bd",
   "region": "international",
   "set": "sv10.5w",
   "category": "collection_box",
   "name": "White Flare Binder Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824095
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02975c27-d1b6-5420-9c59-0c5e01351e41",
       "name": "White Flare Binder Collection",
       "releaseDate": "2025-07-18",
       "identifiers": {

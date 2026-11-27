@@ -1,9 +1,11 @@
 {
   "id": "m3-booster-pack",
+  "uuid": "26b34ad8-adf0-545f-afa7-ac8fdd714cd6",
   "region": "asia",
   "set": "M3",
   "category": "booster_pack",
   "name": "Nihil Zero Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 864284
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3d521c3b-b28d-5cbc-ac59-0ddaf613095c",
       "name": "拡張パック「ムニキスゼロ」",
       "releaseDate": "2026-01-23",
       "identifiers": {

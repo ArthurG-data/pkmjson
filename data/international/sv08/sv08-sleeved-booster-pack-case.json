@@ -1,9 +1,11 @@
 {
   "id": "sv08-sleeved-booster-pack-case",
+  "uuid": "171ea5a5-64f3-568b-8d99-aaec52bd1c70",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Sleeved Booster Pack Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784952
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "070ad578-05db-5617-a806-264b0e6d61f0",
       "name": "Surging Sparks Sleeved Booster Pack Case",
       "identifiers": {
         "tcgplayerProductIds": [

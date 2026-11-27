@@ -1,9 +1,11 @@
 {
   "id": "sv02-sleeved-booster-pack",
+  "uuid": "20d2c8f3-226c-5c28-9ea3-269d574591c2",
   "region": "international",
   "set": "sv02",
   "category": "sleeved_booster_pack",
   "name": "Paldea Evolved Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703159
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cb7246a6-e20d-5371-9404-1e8264c1f229",
       "name": "Paldea Evolved Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

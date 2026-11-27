@@ -1,9 +1,11 @@
 {
   "id": "pl1-theme-deck-rebellion",
+  "uuid": "3b76f2f0-7e3f-573e-bc6c-48d8d4b54711",
   "region": "international",
   "set": "pl1",
   "category": "theme_deck",
   "name": "Platinum Theme Deck - \"Rebellion\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286595
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd7ef5a7-be6e-5276-ae05-b8403e0106e8",
       "name": "Platinum Theme Deck - \"Rebellion\"",
       "identifiers": {
         "tcgplayerProductIds": [

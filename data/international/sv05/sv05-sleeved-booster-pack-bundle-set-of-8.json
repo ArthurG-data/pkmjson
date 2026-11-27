@@ -1,15 +1,18 @@
 {
   "id": "sv05-sleeved-booster-pack-bundle-set-of-8",
+  "uuid": "80ab4bb4-6376-5fe6-ac28-b09ba745e681",
   "region": "international",
   "set": "sv05",
   "category": "other",
   "name": "Temporal Forces Sleeved Booster Pack Bundle [Set of 8]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2fcfb103-5dc2-534c-affd-31204b40fa73",
       "name": "Temporal Forces Sleeved Booster Pack Bundle [Set of 8]",
       "releaseDate": "2024-03-22",
       "identifiers": {

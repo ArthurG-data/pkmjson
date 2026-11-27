@@ -1,9 +1,11 @@
 {
   "id": "smp-general-mills-promo-booster-pack-sun-moon",
+  "uuid": "3b74ab85-6a57-59fb-8164-ef95208c297e",
   "region": "international",
   "set": "smp",
   "category": "booster_pack",
   "name": "General Mills Promo Booster Pack [Sun & Moon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d2f8874f-e262-5f8c-abe4-a3fc5380797b",
       "name": "General Mills Promo Booster Pack [Sun & Moon]",
       "identifiers": {
         "tcgplayerProductIds": [

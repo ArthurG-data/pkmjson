@@ -1,15 +1,18 @@
 {
   "id": "sm3-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "1f03102f-5f8e-5c0f-9477-177abfd86810",
   "region": "international",
   "set": "sm3",
   "category": "other",
   "name": "Burning Shadows Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ad0a24e1-f38d-51ad-b3ca-9438b278b122",
       "name": "Burning Shadows Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

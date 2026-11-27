@@ -1,9 +1,11 @@
 {
   "id": "ex11-delta-species-theme-deck-breakthrough",
+  "uuid": "1dfa5915-98f7-52dc-82cd-1a0f0c9f7d60",
   "region": "international",
   "set": "ex11",
   "category": "theme_deck",
   "name": "Delta Species Theme Deck - \"Breakthrough\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286530
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8dfdbc20-b811-5b41-8ebc-257ae774ec35",
       "name": "Delta Species Theme Deck - \"Breakthrough\"",
       "identifiers": {
         "tcgplayerProductIds": [

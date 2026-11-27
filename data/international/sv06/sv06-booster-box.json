@@ -1,9 +1,11 @@
 {
   "id": "sv06-booster-box",
+  "uuid": "9bf545c1-fe7f-58f1-9287-ae2b344d2684",
   "region": "international",
   "set": "sv06",
   "category": "booster_box",
   "name": "Twilight Masquerade Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761219
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "08bd7534-52ce-5c0d-9177-0eedd0af0f3f",
       "name": "Twilight Masquerade Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

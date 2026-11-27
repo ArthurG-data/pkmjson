@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-eevee-v",
+  "uuid": "3072eebe-b660-5606-a865-ed830071063b",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Eevee V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "40365480-cca7-5aab-b9d5-af23b3e28cd4",
       "name": "V Powers Tin [Eevee V]",
       "releaseDate": "2020-09-04",
       "identifiers": {
@@ -26,6 +29,37 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/220310/pokemon-miscellaneous-cards-and-products-v-powers-tin-eevee-v"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "a3c521ac-7c8c-52c0-ba4f-896777579894",
+      "name": "Boîte Puissances-V Évoli",
+      "releaseDate": "2020-09-04",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokémon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "swsh3-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm12-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sm3-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissances-V_%C3%89voli-V"
       ]
     }
   ]

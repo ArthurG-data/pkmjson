@@ -1,9 +1,11 @@
 {
   "id": "svp-knock-out-collection-chien-pao",
+  "uuid": "12c35ecc-989a-51a1-bc24-5017a3adfbee",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Knock Out Collection [Chien-Pao]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dfad6b24-ee63-5b20-b4c0-f222545ac84f",
       "name": "Knock Out Collection [Chien-Pao]",
       "identifiers": {
         "tcgplayerProductIds": [

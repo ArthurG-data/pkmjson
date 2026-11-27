@@ -1,9 +1,11 @@
 {
   "id": "30th-booster-pack",
+  "uuid": "b28a072b-72f6-5631-bbed-2ebd1e240d01",
   "region": "international",
   "set": "30th",
   "category": "booster_pack",
   "name": "30th Celebration Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 890360
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a227df78-1079-5683-904b-ca6612fdf57f",
       "name": "30th Celebration",
       "releaseDate": "2026-09-16",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8353bd2c-b301-5ba2-92ce-b61c80bd9a40",
       "name": "30ᵉ Anniversaire",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_30e_Anniversaire",

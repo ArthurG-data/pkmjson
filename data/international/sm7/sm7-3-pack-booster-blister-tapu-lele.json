@@ -1,9 +1,11 @@
 {
   "id": "sm7-3-pack-booster-blister-tapu-lele",
+  "uuid": "8946f556-b7e6-5b51-837c-583cd1425447",
   "region": "international",
   "set": "sm7",
   "category": "blister",
   "name": "Celestial Storm 3 Pack Booster Blister [Tapu Lele]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "008fb2fd-9665-545a-b796-195db3518eae",
       "name": "Celestial Storm 3 Pack Booster Blister [Tapu Lele]",
       "identifiers": {
         "tcgplayerProductIds": [

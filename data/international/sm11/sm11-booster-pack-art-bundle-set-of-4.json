@@ -1,15 +1,18 @@
 {
   "id": "sm11-booster-pack-art-bundle-set-of-4",
+  "uuid": "3cc1a028-b5e7-5e41-b9ae-049990d69207",
   "region": "international",
   "set": "sm11",
   "category": "other",
   "name": "Unified Minds Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "14a63751-476a-5334-9d79-04a39265249e",
       "name": "Unified Minds Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

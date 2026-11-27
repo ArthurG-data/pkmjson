@@ -1,9 +1,11 @@
 {
   "id": "sv7-deck-build-box",
+  "uuid": "680da185-675e-518e-be4a-1e1215800853",
   "region": "asia",
   "set": "SV7",
   "category": "collection_box",
   "name": "Stellar Miracle Deck Build Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "70bed460-d1c4-5f3e-b83f-dee1bedfc02c",
       "name": "Stellar Miracle Deck Build Box",
       "identifiers": {
         "tcgplayerProductIds": [

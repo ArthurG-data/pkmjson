@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-booster-bundle-case",
+  "uuid": "10f4bdcf-9cf4-531a-80f7-ab59068931e9",
   "region": "international",
   "set": "swsh12.5",
   "category": "case",
   "name": "Crown Zenith Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "3be5147c-1265-5bd1-a866-b5ff8a304ee3",
       "name": "Crown Zenith Booster Bundle Case",
       "identifiers": {
         "tcgplayerProductIds": [

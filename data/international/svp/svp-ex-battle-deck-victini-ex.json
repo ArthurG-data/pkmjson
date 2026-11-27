@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-victini-ex",
+  "uuid": "9f3f4624-da01-5571-86b8-edbde9b97c24",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Victini ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ec473ec8-105e-5c41-be81-2ad52ac97cc9",
       "name": "ex Battle Deck [Victini ex]",
       "releaseDate": "2024-07-12",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9c5a6341-6073-5d89-a110-d5b07662dbc6",
       "name": "Deck Combat Victini‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-victini-ex-deck-combat-miraidon-ex"
@@ -65,6 +69,7 @@
     },
     {
       "language": "de",
+      "uuid": "1658dbba-fdf6-5bd7-a71e-cfbe52dcab61",
       "name": "Kampfdeck Victini‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-victini-ex-kampfdeck-miraidon-ex"

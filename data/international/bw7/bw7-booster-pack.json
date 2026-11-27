@@ -1,9 +1,11 @@
 {
   "id": "bw7-booster-pack",
+  "uuid": "7080cdac-61f7-5243-b75d-e7493b55a911",
   "region": "international",
   "set": "bw7",
   "category": "booster_pack",
   "name": "Boundaries Crossed Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271881
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "39eadf0c-a8d3-59aa-910a-608657c8ef00",
       "name": "Black & White—Boundaries Crossed",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2735eba8-ef22-506d-9c42-52624b0439d2",
       "name": "Noir & Blanc – Frontières Franchies",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Kyurem_Blanc-EX",

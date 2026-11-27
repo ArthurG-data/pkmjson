@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-poster-collection",
+  "uuid": "f62d8010-1e00-5edc-9bb7-8f56897df7ba",
   "region": "international",
   "set": "sv03.5",
   "category": "collection_box",
   "name": "151 Poster Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719696
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "edde5e84-451a-5a98-88b4-b2ce249d3705",
       "name": "151 Poster Collection",
       "releaseDate": "2023-09-22",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1fe3e8ba-620b-507f-9367-1aaa1cecc40c",
       "name": "Collection poster Écarlate et Violet 151",
       "releaseDate": "2023-10-27",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "de",
+      "uuid": "ff180bf7-bf97-5ed5-94d3-c9b48f5a1314",
       "name": "Poster-Kollektion Karmesin & Purpur – 151",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/poster-kollektion-karmesin-purpur-151"
@@ -58,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "6a0ef3f0-0cbe-5864-8050-b72d7d0ceb34",
       "name": "Colección con póster de Escarlata y Púrpura-151",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-poster-de-escarlata-y-purpura-151"
@@ -65,6 +71,7 @@
     },
     {
       "language": "it",
+      "uuid": "0fcd9d5b-4626-5152-b997-af1598c937a9",
       "name": "Collezione con poster dell’espansione Scarlatto e Violetto - 151",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-poster-dellespansione-scarlatto-e-violetto-151"

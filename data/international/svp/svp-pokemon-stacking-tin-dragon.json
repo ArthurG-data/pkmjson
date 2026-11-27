@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-stacking-tin-dragon",
+  "uuid": "969ff5b8-8494-5a6c-8060-14d42a99464c",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Dragon",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "47022ebe-df72-5394-b9e8-2a25e5468d22",
       "name": "Pokemon Stacking Tin: Dragon",
       "identifiers": {
         "tcgplayerProductIds": [

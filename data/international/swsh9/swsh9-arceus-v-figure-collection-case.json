@@ -1,15 +1,18 @@
 {
   "id": "swsh9-arceus-v-figure-collection-case",
+  "uuid": "72fae5a6-824d-5f05-98f8-cf4652847352",
   "region": "international",
   "set": "swsh9",
   "category": "case",
   "name": "Arceus V Figure Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fc231ce0-7406-5723-9cc1-8dc1cdc22cb6",
       "name": "Arceus V Figure Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

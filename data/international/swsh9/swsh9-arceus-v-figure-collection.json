@@ -1,9 +1,11 @@
 {
   "id": "swsh9-arceus-v-figure-collection",
+  "uuid": "c62675df-9b4a-56bd-9904-39b315153154",
   "region": "international",
   "set": "swsh9",
   "category": "collection_box",
   "name": "Arceus V Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e1012d60-ad52-5cd5-9f32-bbac8f75558a",
       "name": "Arceus V Figure Collection",
       "releaseDate": "2022-05-06",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7352dee7-6cd4-53a4-bb85-49256749503d",
       "name": "Collection avec figurine – Arceus‑V",
       "releaseDate": "2022-04-01",
       "sources": [
@@ -42,6 +46,7 @@
     },
     {
       "language": "de",
+      "uuid": "bc48d3b3-bdf0-5bf1-8651-d3e1898dbaf2",
       "name": "Figuren-Kollektion Arceus-V",
       "releaseDate": "2022-05-06",
       "sources": [
@@ -50,6 +55,7 @@
     },
     {
       "language": "es",
+      "uuid": "0da46d2e-8535-5940-9876-11e673287963",
       "name": "Colección con figura Arceus V",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-arceus-v"

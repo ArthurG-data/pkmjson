@@ -1,9 +1,11 @@
 {
   "id": "svhk-battle-deck",
+  "uuid": "97b55f03-e9e1-5fea-8bbf-c4007b3be7b7",
   "region": "asia",
   "set": "SVHK",
   "category": "battle_deck",
   "name": "Ancient Koraidon ex Starter Deck & Build Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "65e25880-c912-5668-8625-ebe2edf97f67",
       "name": "Ancient Koraidon ex Starter Deck & Build Set",
       "identifiers": {
         "tcgplayerProductIds": [

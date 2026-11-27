@@ -1,9 +1,11 @@
 {
   "id": "svaw-other",
+  "uuid": "ae5e4db2-f370-5a09-9d79-b0e3fb235acf",
   "region": "asia",
   "set": "SVAW",
   "category": "battle_deck",
   "name": "ex Starter Set Quaxly & Mimikyu ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6e62d0e9-6c8c-5142-8db6-887950ef2031",
       "name": "スターターセットex クワッス&ミミッキュex",
       "releaseDate": "2023-01-20",
       "identifiers": {

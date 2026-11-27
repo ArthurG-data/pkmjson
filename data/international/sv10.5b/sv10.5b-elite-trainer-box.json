@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-elite-trainer-box",
+  "uuid": "831e1c8a-5a31-54c4-ad23-e0a8c20a2f23",
   "region": "international",
   "set": "sv10.5b",
   "category": "elite_trainer_box",
   "name": "Black Bolt Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824088
   },
@@ -64,6 +66,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f2d3f4d-ed6c-55c4-b5a6-f63aa4248442",
       "name": "Black Bolt Elite Trainer Box",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -77,6 +80,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7c9175b7-f28c-57d3-b5e1-7606bc7b8d0d",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Foudre Noire",
       "releaseDate": "2025-07-18",
       "sources": [

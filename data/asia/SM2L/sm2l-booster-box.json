@@ -1,9 +1,11 @@
 {
   "id": "sm2l-booster-box",
+  "uuid": "c24cbd7e-c8c5-5f92-945e-1a2f643b2446",
   "region": "asia",
   "set": "SM2L",
   "category": "booster_box",
   "name": "Alolan Moonlight Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551841
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1d3e6aa8-521c-56d9-913d-81311395ceef",
       "name": "Alolan Moonlight Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

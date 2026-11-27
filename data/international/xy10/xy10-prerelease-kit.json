@@ -1,9 +1,11 @@
 {
   "id": "xy10-prerelease-kit",
+  "uuid": "d9744147-2190-5379-8456-68b0ead791af",
   "region": "international",
   "set": "xy10",
   "category": "other",
   "name": "Fates Collide Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "daa69d40-b90f-5386-9858-264501a11634",
       "name": "Fates Collide Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

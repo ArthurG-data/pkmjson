@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-deoxys-v",
+  "uuid": "030f9516-8ab9-5d78-83bf-b6b5e4b74496",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Deoxys V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "279853f6-0276-55a5-990c-2cb09a33f639",
       "name": "V Battle Deck [Deoxys V]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh8-premium-checklane-blister-cinderace",
+  "uuid": "15c1c48c-3288-5e4a-a066-6c6dc6b15cdf",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Fusion Strike Premium Checklane Blister [Cinderace]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585671
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8e3908f-66dc-52a5-aa87-deef52232f64",
       "name": "Fusion Strike Premium Checklane Blister [Cinderace]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-sinnoh",
+  "uuid": "d5bb85d1-9c12-5499-9591-c0d6a091b4a6",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Sinnoh]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e10ade3-85dd-5130-8a42-c3d1d9ffaae5",
       "name": "Celebrations Mini Tin [Sinnoh]",
       "identifiers": {
         "tcgplayerProductIds": [

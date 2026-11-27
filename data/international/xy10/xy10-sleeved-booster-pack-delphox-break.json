@@ -1,9 +1,11 @@
 {
   "id": "xy10-sleeved-booster-pack-delphox-break",
+  "uuid": "5ca81dd8-c58e-597a-9018-2b254be7b062",
   "region": "international",
   "set": "xy10",
   "category": "sleeved_booster_pack",
   "name": "XY - Fates Collide Sleeved Booster Pack [Delphox BREAK]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d2919de8-40f8-5fc8-aa8d-64c3c1a388a0",
       "name": "XY - Fates Collide Sleeved Booster Pack [Delphox BREAK]",
       "identifiers": {
         "tcgplayerProductIds": [

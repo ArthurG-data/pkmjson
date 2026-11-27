@@ -1,15 +1,18 @@
 {
   "id": "xy6-mega-latios-collection",
+  "uuid": "b6f10015-adba-54d1-b90c-2b9a19d9624d",
   "region": "international",
   "set": "xy6",
   "category": "collection_box",
   "name": "Mega Latios Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "07bd023b-154e-5eb6-bebe-05e7d24ac788",
       "name": "Mega Latios Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "15c4f064-f784-5f4f-a7fc-329561dd920a",
       "name": "Coffret Latios",
       "contents": {
         "sealed": [

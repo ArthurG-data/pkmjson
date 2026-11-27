@@ -1,9 +1,11 @@
 {
   "id": "swsh2-build-battle-box",
+  "uuid": "5655fbb7-6f79-5f54-bb9e-cea9ba4e8678",
   "region": "international",
   "set": "swsh2",
   "category": "build_and_battle_box",
   "name": "Rebel Clash Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 453468
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a405b699-6397-57ef-bb75-a521373810e0",
       "name": "Rebel Clash Build & Battle Box",
       "releaseDate": "2020-05-01",
       "identifiers": {

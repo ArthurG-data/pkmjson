@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-dragonite-vileplume",
+  "uuid": "e590b241-4ea9-5dc4-a802-1f079365663f",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Dragonite & Vileplume]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "214334cc-0523-5de1-8b78-18cbb51c02c1",
       "name": "151 Mini Tin [Dragonite & Vileplume]",
       "identifiers": {
         "tcgplayerProductIds": [

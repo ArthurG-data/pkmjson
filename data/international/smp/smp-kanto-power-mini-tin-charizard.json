@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-power-mini-tin-charizard",
+  "uuid": "7151f382-8971-5784-8cd0-647211d9c40d",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Power Mini Tin [Charizard]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4c7b9cd2-f216-5349-a515-027d6769c8f1",
       "name": "Kanto Power Mini Tin [Charizard]",
       "identifiers": {
         "tcgplayerProductIds": [

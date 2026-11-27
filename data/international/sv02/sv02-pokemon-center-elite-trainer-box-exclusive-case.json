@@ -1,15 +1,18 @@
 {
   "id": "sv02-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "8a451cd4-61ab-5bea-8ab9-b5dbb152df38",
   "region": "international",
   "set": "sv02",
   "category": "case",
   "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b7c0f225-0c30-5bc3-bb77-36ac596af1dc",
       "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive) Case",
       "identifiers": {
         "tcgplayerProductIds": [

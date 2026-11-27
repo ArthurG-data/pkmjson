@@ -1,15 +1,18 @@
 {
   "id": "2022swsh-mcdonald-s-2022-match-battle-pack",
+  "uuid": "92ea90e9-a932-5cf0-88ae-d539ee086def",
   "region": "international",
   "set": "2022swsh",
   "category": "other",
   "name": "McDonald's 2022 Match & Battle Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4271b0c6-10f6-599d-9a35-6e15b1ac54e3",
       "name": "McDonald's 2022 Match & Battle Pack",
       "identifiers": {
         "tcgplayerProductIds": [

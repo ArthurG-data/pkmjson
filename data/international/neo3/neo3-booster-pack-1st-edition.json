@@ -1,9 +1,11 @@
 {
   "id": "neo3-booster-pack-1st-edition",
+  "uuid": "dd694f1e-d710-5e28-8d0e-871efb4520eb",
   "region": "international",
   "set": "neo3",
   "category": "booster_pack",
   "name": "Neo Revelation Booster Pack [1st Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "db625647-90c1-5097-9adb-315fe4dad311",
       "name": "Neo Revelation Booster Pack [1st Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

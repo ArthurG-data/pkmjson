@@ -1,9 +1,11 @@
 {
   "id": "bw8-booster-pack",
+  "uuid": "c921ce68-dfb2-5d51-9306-ebc1e4c284d0",
   "region": "international",
   "set": "bw8",
   "category": "booster_pack",
   "name": "Plasma Storm Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271866
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "66b812bf-b6e8-5f4d-862a-cc983c8c65dd",
       "name": "Black & White—Plasma Storm",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "44da8c06-0262-5f70-a7fa-c8142a437994",
       "name": "Noir & Blanc – Tempête Plasma",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Deoxys",

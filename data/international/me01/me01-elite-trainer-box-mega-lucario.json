@@ -1,9 +1,11 @@
 {
   "id": "me01-elite-trainer-box-mega-lucario",
+  "uuid": "683f84fb-74c4-54b5-8a57-6413a857fdc1",
   "region": "international",
   "set": "me01",
   "category": "elite_trainer_box",
   "name": "Mega Evolution Elite Trainer Box [Mega Lucario]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834830
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f74e8c13-98da-5548-95c1-4893219c5b11",
       "name": "Mega Evolution Elite Trainer Box [Mega Lucario]",
       "releaseDate": "2025-09-26",
       "identifiers": {

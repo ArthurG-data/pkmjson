@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-pin-collection-squirtle",
+  "uuid": "af2b2b98-7226-54e7-89a7-dda8878e26c7",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Pin Collection [Squirtle]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 664335
   },
@@ -40,6 +42,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "007220d3-369c-59ec-b6a7-2263efb98da9",
       "name": "Pokemon GO Pin Collection [Squirtle]",
       "releaseDate": "2022-09-02",
       "identifiers": {
@@ -53,6 +56,7 @@
     },
     {
       "language": "fr",
+      "uuid": "46a2d4c9-7799-53a7-bbe9-b1b5795c175d",
       "name": "Collection avec pin's Pokémon GO Carapuce",
       "releaseDate": "2022-10-28",
       "sources": [
@@ -61,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "3f86f20c-464c-50b7-b608-a69d11bd833a",
       "name": "Pokémon GO Pin Collection",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-spilla-pokemon-go"
@@ -68,6 +73,7 @@
     },
     {
       "language": "es",
+      "uuid": "973558b9-a84e-555f-a78c-611e0091870c",
       "name": "Colección con pin de Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-pin-de-pokemon-go"

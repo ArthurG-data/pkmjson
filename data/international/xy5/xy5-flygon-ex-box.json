@@ -1,15 +1,18 @@
 {
   "id": "xy5-flygon-ex-box",
+  "uuid": "78bfc6c5-24f5-5070-8cdd-cb4c9da4c75a",
   "region": "international",
   "set": "xy5",
   "category": "collection_box",
   "name": "Flygon EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9a5af37d-3fca-5e9d-97b4-e7813f228dd4",
       "name": "Flygon EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a9d085af-a870-50ed-8211-6c3c4a6f88d1",
       "name": "Coffret Libégon",
       "releaseDate": "2015-06-22",
       "contents": {

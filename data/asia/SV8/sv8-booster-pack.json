@@ -1,9 +1,11 @@
 {
   "id": "sv8-booster-pack",
+  "uuid": "2c2115c1-585a-529a-9ca6-4f9805db8d76",
   "region": "asia",
   "set": "SV8",
   "category": "booster_pack",
   "name": "Super Electric Breaker Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 789975
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "97953412-d0a7-5a3b-a827-4d66205e7004",
       "name": "拡張パック「超電ブレイカー」",
       "releaseDate": "2024-10-18",
       "identifiers": {

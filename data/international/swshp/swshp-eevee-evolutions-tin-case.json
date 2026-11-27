@@ -1,15 +1,18 @@
 {
   "id": "swshp-eevee-evolutions-tin-case",
+  "uuid": "d973ba67-bdda-5a14-8c5f-6b800f7b1929",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Eevee Evolutions Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0c69348e-f840-5de1-92ae-05e22a087248",
       "name": "Eevee Evolutions Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-pin-collection-rillaboom",
+  "uuid": "012bdc6a-b715-575f-a936-a004281ded0d",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Pin Collection [Rillaboom]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e57b0ae-38d9-5ae9-904d-bac965896d21",
       "name": "Crown Zenith Pin Collection [Rillaboom]",
       "releaseDate": "2023-04-14",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7394d16a-e819-5b71-8a52-9b05495d65d6",
       "name": "Collection avec pin's Zénith Suprême Gorythmic",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_pin%27s_Z%C3%A9nith_Supr%C3%AAme_Gorythmic"
@@ -57,6 +61,7 @@
     },
     {
       "language": "de",
+      "uuid": "7dc410a1-39e7-56ee-a396-4153310b14a5",
       "name": "Pin-Kollektion Zenit der Könige",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/pin-kollektion-zenit-der-koenige"
@@ -64,6 +69,7 @@
     },
     {
       "language": "es",
+      "uuid": "a77435b1-c3b4-59e6-aff8-defc7b2e14b4",
       "name": "Colecciones con pin de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-con-pin-de-cenit-supremo"

@@ -1,9 +1,11 @@
 {
   "id": "smp-galar-collection-sobble-with-zamazenta-v",
+  "uuid": "cfb9663d-02bf-5cad-a388-9af08e071942",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Galar Collection [Sobble] - with Zamazenta V",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4f4e411a-d42e-5d51-9bac-94c55df6e4fa",
       "name": "Galar Collection [Sobble] - with Zamazenta V",
       "releaseDate": "2019-11-15",
       "identifiers": {

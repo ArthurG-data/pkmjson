@@ -1,15 +1,18 @@
 {
   "id": "sm1-elite-trainer-box-case",
+  "uuid": "97b3b028-047e-56f6-9206-ea8cff745c47",
   "region": "international",
   "set": "sm1",
   "category": "case",
   "name": "Sun & Moon Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c53d2625-c0ed-5c0b-8f59-c0c588c8f8de",
       "name": "Sun & Moon Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

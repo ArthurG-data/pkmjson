@@ -1,15 +1,18 @@
 {
   "id": "sv02-booster-pack-art-bundle-set-of-5",
+  "uuid": "48867900-65bc-5d2e-813e-52cfbd44398c",
   "region": "international",
   "set": "sv02",
   "category": "other",
   "name": "Paldea Evolved Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a818ed6-fe19-5448-a919-196845cfb00f",
       "name": "Paldea Evolved Booster Pack Art Bundle [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

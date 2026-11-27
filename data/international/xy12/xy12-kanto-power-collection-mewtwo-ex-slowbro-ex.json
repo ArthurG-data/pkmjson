@@ -1,9 +1,11 @@
 {
   "id": "xy12-kanto-power-collection-mewtwo-ex-slowbro-ex",
+  "uuid": "78050f39-0e06-5473-835a-d923ea376b62",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Kanto Power Collection [Mewtwo EX/Slowbro EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a02c7b4e-e1c5-5dcc-b725-adfa793c0962",
       "name": "Kanto Power Collection [Mewtwo EX/Slowbro EX]",
       "identifiers": {
         "tcgplayerProductIds": [

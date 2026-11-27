@@ -1,9 +1,11 @@
 {
   "id": "me02.5-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "bccbf6bc-8daf-51c8-ad57-1da78d373e72",
   "region": "international",
   "set": "me02.5",
   "category": "elite_trainer_box",
   "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860575
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2705151a-5da6-5a73-b9fb-c210de5ddc54",
       "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

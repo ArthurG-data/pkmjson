@@ -1,9 +1,11 @@
 {
   "id": "mep-jolteon-vmax-premium-collection-eu-exclusive",
+  "uuid": "7df3386d-7e5b-5107-adad-897e9db61a1f",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Jolteon VMAX Premium Collection (EU Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a9de04dc-dc6a-5ad3-8aa2-2a67a20c63e0",
       "name": "Jolteon VMAX Premium Collection (EU Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

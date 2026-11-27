@@ -1,9 +1,11 @@
 {
   "id": "sm5s-booster-box",
+  "uuid": "595362fd-613f-5712-a23f-cfcb1cc16124",
   "region": "asia",
   "set": "SM5S",
   "category": "booster_box",
   "name": "Ultra Sun Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551796
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "90455c1e-b520-51e0-b552-8b27bf0148ae",
       "name": "Ultra Sun Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

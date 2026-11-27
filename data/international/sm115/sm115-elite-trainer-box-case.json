@@ -1,9 +1,11 @@
 {
   "id": "sm115-elite-trainer-box-case",
+  "uuid": "e3f948bb-26d6-53fa-9b79-a5fc2d2eafdd",
   "region": "international",
   "set": "sm115",
   "category": "case",
   "name": "Hidden Fates Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 690875
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dffb9da8-c872-5efc-98a2-0451d1daee4f",
       "name": "Hidden Fates Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

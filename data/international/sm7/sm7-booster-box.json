@@ -1,9 +1,11 @@
 {
   "id": "sm7-booster-box",
+  "uuid": "1f386c85-4786-5962-b4d2-529c6f45d6e7",
   "region": "international",
   "set": "sm7",
   "category": "booster_box",
   "name": "Celestial Storm Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 357063
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b66322d6-505a-5994-9acd-5967f8d0d9f8",
       "name": "Celestial Storm Booster Box",
       "releaseDate": "2018-08-03",
       "identifiers": {

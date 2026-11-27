@@ -1,9 +1,11 @@
 {
   "id": "swsh5-booster-box-case",
+  "uuid": "5b0c7b2b-6f3d-5f53-bfc1-2447e037e6e8",
   "region": "international",
   "set": "swsh5",
   "category": "case",
   "name": "Battle Styles Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 668179
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "13c70477-63a8-530d-9cf8-e9f480f59f8c",
       "name": "Battle Styles Booster Box Case",
       "releaseDate": "2021-03-19",
       "identifiers": {

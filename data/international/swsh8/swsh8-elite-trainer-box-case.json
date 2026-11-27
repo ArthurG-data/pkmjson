@@ -1,9 +1,11 @@
 {
   "id": "swsh8-elite-trainer-box-case",
+  "uuid": "3e59a3eb-7797-5672-a621-1bb0a728324c",
   "region": "international",
   "set": "swsh8",
   "category": "case",
   "name": "Fusion Strike Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873117
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e674e7c1-20de-5c2c-8b7a-126bf2bb6aa3",
       "name": "Fusion Strike Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-shiny-zygarde-gx-box",
+  "uuid": "a4c9f04a-1cdc-5990-aeea-3f8d6929325e",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends: Shiny Zygarde GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "97e523d7-8494-5817-b108-dedae9d76b68",
       "name": "Shining Legends: Shiny Zygarde GX Box",
       "identifiers": {
         "tcgplayerProductIds": [

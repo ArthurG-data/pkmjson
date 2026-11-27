@@ -1,9 +1,11 @@
 {
   "id": "sm12-sleeved-booster-case",
+  "uuid": "6b2f78d8-9773-5781-96d5-4baaccc80303",
   "region": "international",
   "set": "sm12",
   "category": "case",
   "name": "Cosmic Eclipse Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "512707fe-dee0-5063-9e00-cb9ba6be98aa",
       "name": "Cosmic Eclipse Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

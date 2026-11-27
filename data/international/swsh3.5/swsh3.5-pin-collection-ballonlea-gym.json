@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-pin-collection-ballonlea-gym",
+  "uuid": "521426a9-0402-5341-bc7d-2af7933cb08f",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Pin Collection [Ballonlea Gym]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e6d273f4-4c8c-5f0b-b394-01c8e1e02674",
       "name": "Champion's Path Pin Collection [Ballonlea Gym]",
       "releaseDate": "2020-11-13",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d6b4aba2-cf77-5ed4-9f0b-16d3ef08fff0",
       "name": "Collection avec pin's La Voie du Maître Arène de Corrifey",
       "releaseDate": "2020-11-13",
       "sources": [

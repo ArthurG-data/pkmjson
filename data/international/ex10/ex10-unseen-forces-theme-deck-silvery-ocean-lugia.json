@@ -1,9 +1,11 @@
 {
   "id": "ex10-unseen-forces-theme-deck-silvery-ocean-lugia",
+  "uuid": "4d6c0d81-579e-5af9-9a7a-d0292147027c",
   "region": "international",
   "set": "ex10",
   "category": "theme_deck",
   "name": "Unseen Forces Theme Deck - \"Silvery Ocean\" [Lugia]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286529
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7d62a126-d21b-53f2-a42b-65ca4fc22bb6",
       "name": "Unseen Forces Theme Deck - \"Silvery Ocean\" [Lugia]",
       "identifiers": {
         "tcgplayerProductIds": [

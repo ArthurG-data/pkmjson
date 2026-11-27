@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-reshiram-ex-amoonguss-ex",
+  "uuid": "191e67ce-a8dd-5930-9288-4b1a8b0357b1",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Reshiram ex & Amoonguss ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f7b0cf00-14ff-51d9-890e-8be85c72a754",
       "name": "スタートデッキGenerations レシラムex・モロバレルex",
       "releaseDate": "2024-11-22",
       "identifiers": {

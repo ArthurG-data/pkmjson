@@ -1,9 +1,11 @@
 {
   "id": "sv05-3-pack-blister-cyclizar",
+  "uuid": "12d460a0-0303-50e1-8c26-9060b257742d",
   "region": "international",
   "set": "sv05",
   "category": "blister",
   "name": "Temporal Forces 3 Pack Blister [Cyclizar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750416
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a48bc0ce-89b9-517b-ad63-e50f23c147b6",
       "name": "Temporal Forces 3 Pack Blister [Cyclizar]",
       "identifiers": {
         "tcgplayerProductIds": [

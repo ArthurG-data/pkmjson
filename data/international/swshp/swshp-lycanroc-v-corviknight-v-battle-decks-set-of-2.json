@@ -1,15 +1,18 @@
 {
   "id": "swshp-lycanroc-v-corviknight-v-battle-decks-set-of-2",
+  "uuid": "35e7bd25-6f7b-55d3-9d16-ae0d3e1d5832",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Lycanroc V / Corviknight V Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fc83f67e-66e0-59d7-827c-bb6f260471b0",
       "name": "Lycanroc V / Corviknight V Battle Decks [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

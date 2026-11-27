@@ -1,15 +1,18 @@
 {
   "id": "base1-theme-deck-blackout-revised-reprint-run",
+  "uuid": "28dc6ada-5cad-5bc7-a970-0c91511af777",
   "region": "international",
   "set": "base1",
   "category": "theme_deck",
   "name": "Base Set Theme Deck - \"Blackout\" (Revised Base Set Reprint Run)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "234a7dc7-bf08-511b-b4f8-1e08b7d781f5",
       "name": "Base Set Theme Deck - \"Blackout\" (Revised Base Set Reprint Run)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "g1-red-blue-collection-venusaur-ex",
+  "uuid": "63fc946d-b16a-5158-833f-1a1bfc0f08a6",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Red & Blue Collection [Venusaur EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b39fd174-d55c-580a-bbe0-c5b2fdcfb332",
       "name": "Red & Blue Collection [Venusaur EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cdfc4b28-2fa8-52a5-8b1e-589695ced4c6",
       "name": "Collection Rouge & Bleu Florizarre",
       "releaseDate": "2016-09-17",
       "sources": [

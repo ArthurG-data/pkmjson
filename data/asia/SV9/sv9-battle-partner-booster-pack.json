@@ -1,9 +1,11 @@
 {
   "id": "sv9-battle-partner-booster-pack",
+  "uuid": "8e666e6a-419d-519a-98a7-660f239706b3",
   "region": "asia",
   "set": "SV9",
   "category": "booster_pack",
   "name": "Battle Partner Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d82aeebf-6aa8-5613-a455-6907a3223d9d",
       "name": "拡張パック「バトルパートナーズ」",
       "releaseDate": "2025-01-24",
       "identifiers": {

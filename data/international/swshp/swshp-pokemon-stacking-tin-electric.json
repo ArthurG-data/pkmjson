@@ -1,9 +1,11 @@
 {
   "id": "swshp-pokemon-stacking-tin-electric",
+  "uuid": "43c34bd6-6171-5eab-af4c-0fbe2088dada",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Pokemon Stacking Tin: Electric",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ddd93a80-6921-5ee3-ac52-c73ca07d1e70",
       "name": "Pokemon Stacking Tin: Electric",
       "identifiers": {
         "tcgplayerProductIds": [

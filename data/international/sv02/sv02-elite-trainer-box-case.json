@@ -1,9 +1,11 @@
 {
   "id": "sv02-elite-trainer-box-case",
+  "uuid": "42c1ba1d-5773-5b14-b5f5-80feed2ae09b",
   "region": "international",
   "set": "sv02",
   "category": "case",
   "name": "Paldea Evolved Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703177
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d4512739-5b89-5b9e-9228-3cf23c7214e5",
       "name": "Paldea Evolved Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

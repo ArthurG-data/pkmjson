@@ -1,15 +1,18 @@
 {
   "id": "swsh7-pokemon-center-elite-trainer-box-case-glaceon-vaporeon-sylveon-espeon-exclusive",
+  "uuid": "87cf5362-580e-5c05-8bf4-eacecf1511fc",
   "region": "international",
   "set": "swsh7",
   "category": "case",
   "name": "Evolving Skies Pokemon Center Elite Trainer Box Case [Glaceon/Vaporeon/Sylveon/Espeon] (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c910d2dc-baad-5007-b084-5064bd426a04",
       "name": "Evolving Skies Pokemon Center Elite Trainer Box Case [Glaceon/Vaporeon/Sylveon/Espeon] (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

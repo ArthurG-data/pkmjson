@@ -1,9 +1,11 @@
 {
   "id": "swsh4-single-pack-blister-scorbunny",
+  "uuid": "b76ff99b-3b62-5604-aee4-6b7ce467dda0",
   "region": "international",
   "set": "swsh4",
   "category": "blister",
   "name": "Vivid Voltage Single Pack Blister [Scorbunny]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585813
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bfc9fc70-a9d4-5abb-a7b3-1a6f1d6d2baa",
       "name": "Vivid Voltage Single Pack Blister [Scorbunny]",
       "releaseDate": "2020-11-13",
       "identifiers": {

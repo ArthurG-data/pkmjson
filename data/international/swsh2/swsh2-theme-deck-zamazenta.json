@@ -1,9 +1,11 @@
 {
   "id": "swsh2-theme-deck-zamazenta",
+  "uuid": "2b6cdd4d-4038-50f3-a1f6-8ba1a94bfbaa",
   "region": "international",
   "set": "swsh2",
   "category": "theme_deck",
   "name": "Rebel Clash Theme Deck [Zamazenta]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 453293
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d7b135e5-6c71-5384-a16c-4cb67be66ffe",
       "name": "Rebel Clash Theme Deck [Zamazenta]",
       "identifiers": {
         "tcgplayerProductIds": [

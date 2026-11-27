@@ -1,9 +1,11 @@
 {
   "id": "sv07-build-battle-box",
+  "uuid": "278622c9-ff39-5cbd-8424-3233582f41cb",
   "region": "international",
   "set": "sv07",
   "category": "build_and_battle_box",
   "name": "Stellar Crown Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776335
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "68fda94b-c772-5ed3-a9da-53966bde4749",
       "name": "Stellar Crown Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-xerneas-ex-noivern-ex",
+  "uuid": "ea94b838-4923-5c12-b802-7ebd9dda0de2",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Xerneas ex & Noivern ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3d558e13-71d8-5e23-be38-2cacbb5b562f",
       "name": "スタートデッキGenerations ゼルネアスex・オンバーンex",
       "releaseDate": "2024-11-22",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sm2-bewear-gx-box",
+  "uuid": "4c0e7ec3-3cab-5320-a0e2-01700b1d458e",
   "region": "international",
   "set": "sm2",
   "category": "collection_box",
   "name": "Bewear GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "63771ea0-ed0e-5b09-8549-040a373c2ce3",
       "name": "Bewear GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b1728e89-8c06-5031-adc8-b2790a468887",
       "name": "Coffret Chelours",
       "releaseDate": "2017-06-07",
       "sources": [

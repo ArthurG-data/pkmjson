@@ -1,9 +1,11 @@
 {
   "id": "sm2-prerelease-kit",
+  "uuid": "2a69656c-48c0-5cbe-b73e-c97f1a334ad4",
   "region": "international",
   "set": "sm2",
   "category": "other",
   "name": "Guardians Rising Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4779b1e3-452b-5402-91fe-5b731d8d622b",
       "name": "Guardians Rising Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

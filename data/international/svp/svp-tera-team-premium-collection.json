@@ -1,15 +1,18 @@
 {
   "id": "svp-tera-team-premium-collection",
+  "uuid": "c9a42ef8-a98f-565c-bfbd-96e1f9cf3bf4",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Tera Team Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "50d30ea2-0f12-51ae-a37c-214858e81c48",
       "name": "Tera Team Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

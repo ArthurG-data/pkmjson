@@ -1,9 +1,11 @@
 {
   "id": "sv02-build-battle-stadium",
+  "uuid": "03a9a93f-c074-526e-92c6-fd22007d2174",
   "region": "international",
   "set": "sv02",
   "category": "other",
   "name": "Paldea Evolved Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c3373f20-e980-559d-b749-855a8f69f9f1",
       "name": "Paldea Evolved Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -55,6 +58,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d6659e0d-3a68-5217-b0a2-4a8a07621740",
       "name": "Stade Stratégies et Combats Écarlate et Violet – Évolutions à Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-ecarlate-et-violet-evolutions-a-paldea"

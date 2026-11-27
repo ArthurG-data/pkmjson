@@ -1,9 +1,11 @@
 {
   "id": "me02-3-pack-blister-sneasel",
+  "uuid": "689dca17-d692-585c-b486-b60a51cc3792",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames 3 Pack Blister [Sneasel]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846739
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fa828389-33ce-55da-8f64-c324d515f8e3",
       "name": "Phantasmal Flames 3 Pack Blister [Sneasel]",
       "identifiers": {
         "tcgplayerProductIds": [

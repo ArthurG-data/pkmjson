@@ -1,9 +1,11 @@
 {
   "id": "sv5k-booster-box",
+  "uuid": "094539e4-9f25-51df-bfd3-d72e4d784a4f",
   "region": "asia",
   "set": "SV5K",
   "category": "booster_box",
   "name": "Wild Force Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 749455
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "a7240d08-fe88-5fde-a8eb-af08d5e305f0",
       "name": "Wild Force Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh4-3-pack-blister-vaporeon",
+  "uuid": "e1ec90d8-af9b-5251-8672-09fbe68d08e5",
   "region": "international",
   "set": "swsh4",
   "category": "blister",
   "name": "Vivid Voltage 3 Pack Blister [Vaporeon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585831
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "370e5025-571f-5fab-940f-650ef74f9002",
       "name": "Vivid Voltage 3 Pack Blister [Vaporeon]",
       "releaseDate": "2020-11-13",
       "identifiers": {

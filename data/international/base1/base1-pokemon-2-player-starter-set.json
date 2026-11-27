@@ -1,9 +1,11 @@
 {
   "id": "base1-pokemon-2-player-starter-set",
+  "uuid": "6efa4fa5-dee2-51d5-a5aa-0b5d039d097b",
   "region": "international",
   "set": "base1",
   "category": "battle_deck",
   "name": "Pokemon 2-Player Starter Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b10bdc02-27aa-5365-94c4-effb64c5170c",
       "name": "Pokemon 2-Player Starter Set",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-box-inteleon-v",
+  "uuid": "65b1f399-6372-5965-9ede-567ae86dfe69",
   "region": "international",
   "set": "swsh1",
   "category": "collection_box",
   "name": "Galar Partners Box [Inteleon V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5b6215a9-64c6-5eda-b26a-bc2278158033",
       "name": "Galar Partners Box [Inteleon V]",
       "identifiers": {
         "tcgplayerProductIds": [

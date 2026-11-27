@@ -1,15 +1,18 @@
 {
   "id": "sm11-mini-pack",
+  "uuid": "5fd80b65-2dae-5336-8bad-bdf9fdda0373",
   "region": "international",
   "set": "sm11",
   "category": "other",
   "name": "Unified Minds Mini Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ec496586-052a-598b-bf6f-20b7e6358cf5",
       "name": "Unified Minds Mini Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "xy12-prerelease-kit",
+  "uuid": "f4a6b7dd-2666-54d5-ba0c-97b471e5ae2b",
   "region": "international",
   "set": "xy12",
   "category": "other",
   "name": "XY Evolutions Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "05de99d5-e4cb-50be-97e6-2b311708c34f",
       "name": "XY Evolutions Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

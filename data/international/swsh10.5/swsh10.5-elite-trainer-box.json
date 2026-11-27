@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-elite-trainer-box",
+  "uuid": "14604e35-b788-55c6-8874-21ccd4f100a0",
   "region": "international",
   "set": "swsh10.5",
   "category": "elite_trainer_box",
   "name": "Pokemon GO Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653700
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8adce9c6-6f71-5330-9121-68f29f9a60e9",
       "name": "Pokemon GO Elite Trainer Box",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f8bcd208-bd51-5a16-bff6-6608f69f05dd",
       "name": "Coffret Dresseur d'élite Pokémon GO",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_Pok%C3%A9mon_GO"
@@ -78,6 +82,7 @@
     },
     {
       "language": "es",
+      "uuid": "b09c0711-6704-5408-903d-07250c7fc7c6",
       "name": "Caja de Entrenador Élite de Pokémon GO",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-pokemon-go"
@@ -85,6 +90,7 @@
     },
     {
       "language": "it",
+      "uuid": "964cd883-810c-5df9-b335-3fb76f724605",
       "name": "Set Allenatore Fuoriclasse dell’espansione Pokémon GO",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-pokemon-go"

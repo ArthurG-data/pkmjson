@@ -1,9 +1,11 @@
 {
   "id": "sv03-3-pack-blister-houndstone",
+  "uuid": "cd3b2e2b-6c8b-5850-ab58-2db77faacaad",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames 3 Pack Blister [Houndstone]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 715772
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c5313f75-92a6-5e01-84b0-e3740724d7f5",
       "name": "Obsidian Flames 3 Pack Blister [Houndstone]",
       "releaseDate": "2023-08-11",
       "identifiers": {

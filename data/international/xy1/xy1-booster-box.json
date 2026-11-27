@@ -1,9 +1,11 @@
 {
   "id": "xy1-booster-box",
+  "uuid": "5e0a4028-033c-5b56-9d37-d46968ffee05",
   "region": "international",
   "set": "xy1",
   "category": "booster_box",
   "name": "XY Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271942
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a8e84aab-960a-5a70-8612-ab200524e8d7",
       "name": "XY Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

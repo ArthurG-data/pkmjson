@@ -1,15 +1,18 @@
 {
   "id": "mep-costco-exclusive-4-tin-bundle-v-powers-tin-set-of-3-v-strikers-tyranitar",
+  "uuid": "fd803151-d855-5549-8706-7f7074443537",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Costco Exclusive 4-Tin Bundle: V Powers Tin [Set of 3] + V Strikers [Tyranitar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Eevee (V Powers); Pikachu (V Powers); Eternatus (V Powers); Tyranitar (V Strikers); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "46a28fd1-f876-5125-ab2e-e9aae95ff2d6",
       "name": "Costco Exclusive 4-Tin Bundle: V Powers Tin [Set of 3] + V Strikers [Tyranitar]",
       "identifiers": {
         "tcgplayerProductIds": [

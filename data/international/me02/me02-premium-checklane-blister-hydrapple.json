@@ -1,9 +1,11 @@
 {
   "id": "me02-premium-checklane-blister-hydrapple",
+  "uuid": "d0952b1e-07a8-5f2e-92e4-bec923b6d7e8",
   "region": "international",
   "set": "me02",
   "category": "blister",
   "name": "Phantasmal Flames Premium Checklane Blister [Hydrapple]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846736
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b39400d7-be0c-5ff7-80ff-8f1c427e394c",
       "name": "Phantasmal Flames Premium Checklane Blister [Hydrapple]",
       "releaseDate": "2025-11-14",
       "identifiers": {

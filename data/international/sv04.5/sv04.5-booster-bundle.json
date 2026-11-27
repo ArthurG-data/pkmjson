@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-booster-bundle",
+  "uuid": "a19f7ac9-7299-5a4b-afec-9aca704ada67",
   "region": "international",
   "set": "sv04.5",
   "category": "booster_bundle",
   "name": "Paldean Fates Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745565
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "48a1208d-ea72-59c6-9586-262cc6f34ee3",
       "name": "Paldean Fates Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

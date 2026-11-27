@@ -1,15 +1,18 @@
 {
   "id": "me02.5-tech-sticker-collection-case",
+  "uuid": "91f19357-5563-5d54-8ced-64be15886430",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4cb5abbb-9932-5ace-9e73-d1feb55b081f",
       "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

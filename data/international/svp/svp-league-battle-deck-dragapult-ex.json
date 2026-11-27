@@ -1,9 +1,11 @@
 {
   "id": "svp-league-battle-deck-dragapult-ex",
+  "uuid": "2eff0df2-9552-5aa2-b77c-003dcf4f41a7",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "League Battle Deck [Dragapult ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "933ba54a-43be-5fc0-a367-286f6f86998a",
       "name": "League Battle Deck [Dragapult ex]",
       "releaseDate": "2025-04-25",
       "identifiers": {

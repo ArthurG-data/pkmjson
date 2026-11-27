@@ -1,15 +1,18 @@
 {
   "id": "xy8-elite-trainer-box-mewtwo-x",
+  "uuid": "782bfcfe-1274-5422-88e8-d2d91eb96c7a",
   "region": "international",
   "set": "xy8",
   "category": "elite_trainer_box",
   "name": "Elite Trainer Box [Mewtwo X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c982d26c-59ad-5357-a55c-eea446ffb099",
       "name": "Elite Trainer Box [Mewtwo X]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "898159c2-6a12-5136-903c-c3f99b27e78c",
   "region": "international",
   "set": "sv10.5b",
   "category": "elite_trainer_box",
   "name": "Black Bolt Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 824092
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4916b045-6adb-52c2-87dd-d9073e38c1c8",
       "name": "Black Bolt Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2025-07-18",
       "identifiers": {

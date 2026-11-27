@@ -1,9 +1,11 @@
 {
   "id": "sm4-shiny-silvally-gx-box",
+  "uuid": "01fc86b8-c0bd-596e-8454-0e0459cc4fd6",
   "region": "international",
   "set": "sm4",
   "category": "collection_box",
   "name": "Shiny Silvally GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01c70992-01b4-5921-97aa-6a2d2e11eb74",
       "name": "Shiny Silvally GX Box",
       "releaseDate": "2017-11-16",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f294eb7b-2310-51f0-a06c-fdfc131a3ed0",
       "name": "Coffret Silvallié chromatique",
       "releaseDate": "2017-11-13",
       "contents": {
@@ -72,6 +76,7 @@
     },
     {
       "language": "es",
+      "uuid": "64ce21f1-dc18-520c-b3f4-3f8664ba3464",
       "name": "Colección Silvally-GX variocolor",
       "releaseDate": "2017-11-17",
       "sources": [
@@ -80,6 +85,7 @@
     },
     {
       "language": "it",
+      "uuid": "1e9ea7d1-3715-5025-9199-41612dcd2ae1",
       "name": "Collezione Silvally-GX cromatico",
       "releaseDate": "2017-11-17",
       "sources": [

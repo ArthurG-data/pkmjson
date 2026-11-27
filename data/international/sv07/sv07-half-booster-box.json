@@ -1,9 +1,11 @@
 {
   "id": "sv07-half-booster-box",
+  "uuid": "f1b38b77-038f-54d7-a1e9-008deadf0331",
   "region": "international",
   "set": "sv07",
   "category": "half_booster_box",
   "name": "Stellar Crown Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776326
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "442fb9e5-c86b-51e7-8f99-86967deaab2d",
       "name": "Stellar Crown Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

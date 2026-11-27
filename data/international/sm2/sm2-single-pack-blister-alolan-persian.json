@@ -1,9 +1,11 @@
 {
   "id": "sm2-single-pack-blister-alolan-persian",
+  "uuid": "2803b672-3ea4-5662-828b-c752cefbcca2",
   "region": "international",
   "set": "sm2",
   "category": "blister",
   "name": "Guardians Rising Single Pack Blister [Alolan Persian]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "72dd788b-d601-5243-a391-e1096727248a",
       "name": "Guardians Rising Single Pack Blister [Alolan Persian]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-bloodmoon-ursaluna-ex-box",
+  "uuid": "30d9ea9b-1363-5da6-a509-47dbd60b3baf",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Bloodmoon Ursaluna ex Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51c58f49-c9b8-5808-8e2b-2ac712639a28",
       "name": "Bloodmoon Ursaluna ex Box",
       "releaseDate": "2024-11-15",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "53b10ae6-6adf-5b2a-a996-851032f5e464",
       "name": "Collezione Ursaluna Luna Cremisi‑ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-ursaluna-luna-cremisi-ex"
@@ -59,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "6c4ca939-75c5-5730-b325-4ba0f838f2a6",
       "name": "Kollektion Blutmond‑Ursaluna‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-blutmond-ursaluna-ex"
@@ -66,6 +71,7 @@
     },
     {
       "language": "es",
+      "uuid": "f8a0b550-f4a2-50e8-ab85-1232ec1bb090",
       "name": "Colección Ursaluna Luna Carmesí ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-ursaluna-luna-carmesi-ex"
@@ -73,6 +79,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d5b8217a-9fb4-5f99-8036-075a68ceea65",
       "name": "Coffret Ursaking Lune Vermeille‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffret-ursaking-lune-vermeille-ex"

@@ -1,9 +1,11 @@
 {
   "id": "lc-theme-deck-turmoil",
+  "uuid": "2cf8adda-4d7b-5a6d-8057-b05ad0adaf46",
   "region": "international",
   "set": "lc",
   "category": "collection_box",
   "name": "Legendary Collection Theme Deck - \"Turmoil\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286570
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dc79a416-b2d9-51d3-881a-2c34680f4c60",
       "name": "Legendary Collection Theme Deck - \"Turmoil\"",
       "identifiers": {
         "tcgplayerProductIds": [

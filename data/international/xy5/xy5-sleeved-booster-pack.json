@@ -1,9 +1,11 @@
 {
   "id": "xy5-sleeved-booster-pack",
+  "uuid": "96b152eb-b54d-535c-b9e2-5b90fd6f8431",
   "region": "international",
   "set": "xy5",
   "category": "sleeved_booster_pack",
   "name": "XY - Primal Clash Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3b9c4dae-6700-59e0-ad39-aa10cc128646",
       "name": "XY - Primal Clash Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

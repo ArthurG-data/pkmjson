@@ -1,9 +1,11 @@
 {
   "id": "swshp-paldea-collection-fuecoco-miraidon-ex",
+  "uuid": "1a8171b8-0cb5-52f5-9d6a-bfcfb152d6a5",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Paldea Collection [Fuecoco/Miraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f3325956-6af0-569c-954f-5e82c09ec8ac",
       "name": "Paldea Collection [Fuecoco/Miraidon ex]",
       "releaseDate": "2023-01-06",
       "identifiers": {

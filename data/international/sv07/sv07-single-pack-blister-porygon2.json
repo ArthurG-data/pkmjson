@@ -1,9 +1,11 @@
 {
   "id": "sv07-single-pack-blister-porygon2",
+  "uuid": "965063e8-2a04-5560-bb27-8672f7aa07a9",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown Single Pack Blister [Porygon2]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776332
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6f3ea793-ebf2-536b-8f07-d840eed8e3f0",
       "name": "Stellar Crown Single Pack Blister [Porygon2]",
       "releaseDate": "2024-09-13",
       "identifiers": {

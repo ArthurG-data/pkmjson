@@ -1,9 +1,11 @@
 {
   "id": "svp-league-battle-deck-charizard-ex",
+  "uuid": "ee53d814-817e-53bd-b6b6-602c003c0265",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "League Battle Deck [Charizard ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b77f4385-9202-5e12-a9a4-a59e4a99fef8",
       "name": "League Battle Deck [Charizard ex]",
       "releaseDate": "2024-11-15",
       "identifiers": {

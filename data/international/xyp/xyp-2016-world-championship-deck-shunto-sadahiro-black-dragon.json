@@ -1,9 +1,11 @@
 {
   "id": "xyp-2016-world-championship-deck-shunto-sadahiro-black-dragon",
+  "uuid": "e769c8ef-4624-527b-afe4-039bdcfa19b0",
   "region": "international",
   "set": "xyp",
   "category": "battle_deck",
   "name": "2016 World Championship Deck: Shunto Sadahiro (Black Dragon)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be59cf17-253b-5f0d-8324-29139f749477",
       "name": "2016 World Championship Deck: Shunto Sadahiro (Black Dragon)",
       "identifiers": {
         "tcgplayerProductIds": [

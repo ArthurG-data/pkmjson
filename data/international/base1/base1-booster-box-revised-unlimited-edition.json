@@ -1,15 +1,18 @@
 {
   "id": "base1-booster-box-revised-unlimited-edition",
+  "uuid": "53d5d93a-7556-5213-919e-6b153d18f0e2",
   "region": "international",
   "set": "base1",
   "category": "booster_box",
   "name": "Base Set Booster Box [Revised Unlimited Edition]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d3a57e24-b7f6-5e91-be75-5ae6a1d595d4",
       "name": "Base Set Booster Box [Revised Unlimited Edition]",
       "identifiers": {
         "tcgplayerProductIds": [

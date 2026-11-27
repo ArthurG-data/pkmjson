@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-tin-galarian-articuno",
+  "uuid": "b26abd44-cead-5490-952f-175c4e2c4f97",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Tin [Galarian Articuno]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683019
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f1b76da9-4cb8-53ed-a96d-d601847fd544",
       "name": "Crown Zenith Tin [Galarian Articuno]",
       "releaseDate": "2023-03-17",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "svd-ex-start-deck-terastal-kairyu",
+  "uuid": "7ce20bcf-430e-5cf5-b018-603b3d6a5280",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Terastal Kairyu",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "42f95e7f-5d0f-5482-9bd1-b58505d4161b",
       "name": "ex Start Deck Terastal Kairyu",
       "identifiers": {
         "tcgplayerProductIds": [

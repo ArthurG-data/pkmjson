@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-partners-tin-skeledirge-ex",
+  "uuid": "7d5cff76-4865-5f4a-9f8f-1611b92c1f19",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Partners Tin [Skeledirge ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1c63bbf5-1774-58e9-932d-a881eeccd094",
       "name": "Paldea Partners Tin [Skeledirge ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,37 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/504431/pokemon-miscellaneous-cards-and-products-paldea-partners-tin-skeledirge-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "ac370df1-f861-51a1-8437-00114b24bca2",
+      "name": "Boîte Partenaires de Paldea Flâmigator",
+      "releaseDate": "2023-09-01",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv03-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sv01-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "swsh9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Partenaires_de_Paldea_Fl%C3%A2migator-ex"
       ]
     }
   ]

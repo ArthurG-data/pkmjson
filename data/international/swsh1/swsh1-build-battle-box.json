@@ -1,9 +1,11 @@
 {
   "id": "swsh1-build-battle-box",
+  "uuid": "d772b7ae-f8b2-59f0-9082-70a8618297ad",
   "region": "international",
   "set": "swsh1",
   "category": "build_and_battle_box",
   "name": "Sword & Shield Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 437174
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6193d821-1e03-596c-9b39-4bfca4af6978",
       "name": "Sword & Shield Build & Battle Box",
       "releaseDate": "2020-02-07",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "es",
+      "uuid": "d29825ae-a813-542c-89f9-89bd712e681b",
       "name": "Caja de Combina y Combate de Espada y Escudo",
       "releaseDate": "2020-02-21",
       "sources": [
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "49df9f9a-4ae9-5ded-a9e4-24782fe31f1b",
       "name": "Schwert & Schild Build & Battle Box",
       "releaseDate": "2020-02-21",
       "sources": [
@@ -49,6 +54,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fee55acf-a1bf-58cd-906e-f1bbdc02a8d6",
       "name": "Boîtier Stratégies et Combats d’Épée et Bouclier",
       "releaseDate": "2020-02-21",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "bw6-booster-box",
+  "uuid": "f0f8bc2e-39cf-5065-ab44-47b1fcc5fe30",
   "region": "international",
   "set": "bw6",
   "category": "booster_box",
   "name": "Dragons Exalted Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271893
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "42a65cee-cfba-58fb-b2cd-ca9d7f676414",
       "name": "Dragons Exalted Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

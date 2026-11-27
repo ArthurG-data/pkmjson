@@ -1,15 +1,18 @@
 {
   "id": "svp-vibrant-paldea-mini-tin-set-of-5",
+  "uuid": "375703f3-1839-56a6-8f30-b15d44d40f60",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Vibrant Paldea Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 2 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "61b0d706-f86e-5ca9-b95f-4c80f5ad4784",
       "name": "Vibrant Paldea Mini Tin [Set of 5]",
       "releaseDate": "2024-06-07",
       "identifiers": {

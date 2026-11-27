@@ -1,15 +1,18 @@
 {
   "id": "svp-deluxe-battle-deck-miraidon-ex-koraidon-ex-set-of-2",
+  "uuid": "c371ec6e-cb70-5353-b2f2-6adea6672b56",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Deluxe Battle Deck: Miraidon ex/Koraidon ex  [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9887581c-c937-5589-8622-1b2c85327a97",
       "name": "Deluxe Battle Deck: Miraidon ex/Koraidon ex  [Set of 2]",
       "releaseDate": "2024-08-23",
       "identifiers": {

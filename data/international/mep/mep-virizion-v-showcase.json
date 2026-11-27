@@ -1,9 +1,11 @@
 {
   "id": "mep-virizion-v-showcase",
+  "uuid": "90bff000-778d-5f40-810a-a3df61800ba5",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Virizion V Showcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a891b61e-35b8-5bf0-b63f-e8f36a3b63b6",
       "name": "Virizion V Showcase",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-mini-tin-machamp-cubone",
+  "uuid": "c034faf5-7f07-586c-8ac7-839c0f2bb19d",
   "region": "international",
   "set": "sv03.5",
   "category": "tin",
   "name": "151 Mini Tin [Machamp & Cubone]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "66f5fc35-ce78-5bd6-87b9-1c87a30e4416",
       "name": "151 Mini Tin [Machamp & Cubone]",
       "identifiers": {
         "tcgplayerProductIds": [

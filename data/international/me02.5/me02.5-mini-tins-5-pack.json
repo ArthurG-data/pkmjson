@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mini-tins-5-pack",
+  "uuid": "50466c89-cd7c-50f8-a276-e4ac5ea5fcea",
   "region": "international",
   "set": "me02.5",
   "category": "other",
   "name": "Ascended Heroes Mini Tins 5-Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8ae3216f-ce34-5992-b155-5e6d894f72ba",
       "name": "Ascended Heroes Mini Tins 5-Pack",
       "releaseDate": "2026-02-20",
       "identifiers": {

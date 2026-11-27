@@ -1,15 +1,18 @@
 {
   "id": "xy10-shiny-kalos-tin-yveltal-ex",
+  "uuid": "6c77a3db-a7d5-5c4c-851f-796da9cab6bd",
   "region": "international",
   "set": "xy10",
   "category": "tin",
   "name": "Shiny Kalos Tin [Yveltal EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "61154b7c-d2c0-56a7-ab92-2521c4aa7699",
       "name": "Shiny Kalos Tin [Yveltal EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "67baff3f-5f1e-5ead-b224-0d5edc5071f7",
       "name": "Boîte Kalos chromatique Yveltal",
       "releaseDate": "2016-06-12",
       "contents": {

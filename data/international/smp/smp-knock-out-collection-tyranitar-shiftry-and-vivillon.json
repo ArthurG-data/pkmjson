@@ -1,9 +1,11 @@
 {
   "id": "smp-knock-out-collection-tyranitar-shiftry-and-vivillon",
+  "uuid": "77d67c20-ea0e-5765-a713-ac7801183e9b",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Knock Out Collection [Tyranitar, Shiftry, and Vivillon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3ab1d996-ef4e-5f02-b224-4a5a9ac26265",
       "name": "Knock Out Collection [Tyranitar, Shiftry, and Vivillon]",
       "identifiers": {
         "tcgplayerProductIds": [

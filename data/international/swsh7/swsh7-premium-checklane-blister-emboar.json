@@ -1,9 +1,11 @@
 {
   "id": "swsh7-premium-checklane-blister-emboar",
+  "uuid": "9cde7a64-930e-5f04-8c4e-2bd001e391c1",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies Premium Checklane Blister [Emboar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585713
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3fb22acd-9420-51c7-b36e-16552ad54e2b",
       "name": "Evolving Skies Premium Checklane Blister [Emboar]",
       "releaseDate": "2021-08-27",
       "identifiers": {

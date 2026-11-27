@@ -1,9 +1,11 @@
 {
   "id": "mep-flareon-vmax-premium-collection-eu-exclusive",
+  "uuid": "e2c55f40-7069-54f9-830b-ddaa7feaa72c",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Flareon VMAX Premium Collection (EU Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24368ac5-7e9f-544b-9380-6bf7decc239d",
       "name": "Flareon VMAX Premium Collection (EU Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

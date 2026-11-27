@@ -1,9 +1,11 @@
 {
   "id": "bw5-3-pack-blister-luxray",
+  "uuid": "99d584c0-9392-5a3a-99e4-042adf0d6a17",
   "region": "international",
   "set": "bw5",
   "category": "blister",
   "name": "Dark Explorers 3 Pack Blister [Luxray]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f0efbf0-3491-52bd-b5f3-92572b08e815",
       "name": "Dark Explorers 3 Pack Blister [Luxray]",
       "identifiers": {
         "tcgplayerProductIds": [

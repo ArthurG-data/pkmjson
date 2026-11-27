@@ -1,9 +1,11 @@
 {
   "id": "svp-back-to-school-2024-collector-chest",
+  "uuid": "2a6b6163-01b1-56a5-abd3-e6b9b6eb5b93",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Back-to-School 2024 Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ede53a42-676e-5a5b-ae05-8b94c1f86d9f",
       "name": "Back-to-School 2024 Collector Chest",
       "releaseDate": "2024-07-05",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "9b22778e-39ae-5d53-a593-9bc39a728c86",
       "name": "Bauletto da collezione del GCC Pokémon (Ritorno a scuola 2024)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/bauletto-da-collezione-ritorno-a-scuola-2024"
@@ -59,6 +63,7 @@
     },
     {
       "language": "fr",
+      "uuid": "20b0b45a-7e54-546a-b092-14e048333ee3",
       "name": "Coffre de collection (C’est la rentrée 2024)",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/coffre-de-collection-cest-la-rentree-2024"

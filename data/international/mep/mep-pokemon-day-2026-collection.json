@@ -1,9 +1,11 @@
 {
   "id": "mep-pokemon-day-2026-collection",
+  "uuid": "9455fd9f-8260-51af-932c-2c8f22d2ce16",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Pokemon Day 2026 Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5bb5cc10-7eb9-5fd0-bb3b-8e96b3a53e68",
       "name": "Pokemon Day 2026 Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,33 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/668590/pokemon-miscellaneous-cards-and-products-pokemon-day-2026-collection"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "a128d21e-efe3-5454-9634-89ff0b1aab32",
+      "name": "Collection Journée Pokémon 2026",
+      "releaseDate": "2026-01-30",
+      "contents": {
+        "other": [
+          {
+            "name": "Pokémon coin",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "me01-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "me02-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Journ%C3%A9e_Pok%C3%A9mon_2026"
       ]
     }
   ]

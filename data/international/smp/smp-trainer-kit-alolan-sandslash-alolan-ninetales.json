@@ -1,9 +1,11 @@
 {
   "id": "smp-trainer-kit-alolan-sandslash-alolan-ninetales",
+  "uuid": "457f55f2-2128-5784-ba70-714457f96aa6",
   "region": "international",
   "set": "smp",
   "category": "other",
   "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -29,6 +31,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "45105665-4b7a-5599-9fb5-fe02e0425438",
       "name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -37,6 +40,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/162111/pokemon-sm-trainer-kit-alolan-sandslash-and-alolan-ninetales-sun-and-moon-trainer-kit-alolan-sandslash-and-alolan-ninetales"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "1814d2c0-1768-5f36-9105-f7f14303e2a2",
+      "name": "Soleil et Lune Kit du Dresseur: Sablaireau d'Alola et Feunard d'Alola",
+      "releaseDate": "2018-04-17",
+      "sources": [
+        "https://www.pokepedia.fr/Soleil_et_Lune_Kit_du_Dresseur%3A_Sablaireau_d%27Alola_et_Feunard_d%27Alola"
       ]
     }
   ]

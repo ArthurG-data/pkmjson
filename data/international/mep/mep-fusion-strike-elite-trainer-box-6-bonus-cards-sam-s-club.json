@@ -1,15 +1,18 @@
 {
   "id": "mep-fusion-strike-elite-trainer-box-6-bonus-cards-sam-s-club",
+  "uuid": "59b8238c-d44c-59d7-a98b-f7a17edf0473",
   "region": "international",
   "set": "mep",
   "category": "elite_trainer_box",
   "name": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 6 Bonus Cards included; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ca3faf62-1f2e-5ab0-ba91-bd1fe839efaf",
       "name": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

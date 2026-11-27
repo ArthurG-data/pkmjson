@@ -1,15 +1,18 @@
 {
   "id": "sm7-booster-pack-art-bundle-set-of-4",
+  "uuid": "5342f8af-1a7f-595e-aa4d-fa3231599b2e",
   "region": "international",
   "set": "sm7",
   "category": "other",
   "name": "Celestial Storm Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "55f9f27c-ebd5-5585-9acd-25f538b59c47",
       "name": "Celestial Storm Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

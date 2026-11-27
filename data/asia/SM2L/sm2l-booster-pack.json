@@ -1,9 +1,11 @@
 {
   "id": "sm2l-booster-pack",
+  "uuid": "072bb4e0-7f6f-5cdd-b0e9-a7cebcdf0bbe",
   "region": "asia",
   "set": "SM2L",
   "category": "booster_pack",
   "name": "Alolan Moonlight Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551946
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1458a627-c6fb-595a-86b9-e41ef671790e",
       "name": "拡張パック「アローラの月光」",
       "releaseDate": "2017-03-17",
       "identifiers": {

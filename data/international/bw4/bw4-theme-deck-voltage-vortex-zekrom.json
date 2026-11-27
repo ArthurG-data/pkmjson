@@ -1,9 +1,11 @@
 {
   "id": "bw4-theme-deck-voltage-vortex-zekrom",
+  "uuid": "1bd13388-19f9-5a47-a23f-011f750d996e",
   "region": "international",
   "set": "bw4",
   "category": "theme_deck",
   "name": "Next Destinies Theme Deck - \"Voltage Vortex\" [Zekrom]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286551
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02cac299-50ef-5d03-b658-515b097140a9",
       "name": "Next Destinies Theme Deck - \"Voltage Vortex\" [Zekrom]",
       "identifiers": {
         "tcgplayerProductIds": [

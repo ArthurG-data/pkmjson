@@ -1,9 +1,11 @@
 {
   "id": "svp-kleavor-vstar-premium-collection-international",
+  "uuid": "72823bd6-0fba-5812-8deb-f573b27feb60",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Kleavor VSTAR Premium Collection (International)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0beb7081-c2c0-5336-a0ef-9556d14bd334",
       "name": "Kleavor VSTAR Premium Collection (International)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm11-3-pack-blister-stakataka",
+  "uuid": "067189e1-c1b7-5d8d-8b98-f761deab2643",
   "region": "international",
   "set": "sm11",
   "category": "blister",
   "name": "Unified Minds 3 Pack Blister [Stakataka]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585910
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f794217-521f-5532-b2d0-05166403b20e",
       "name": "Unified Minds 3 Pack Blister [Stakataka]",
       "releaseDate": "2019-08-02",
       "identifiers": {

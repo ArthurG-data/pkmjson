@@ -1,9 +1,11 @@
 {
   "id": "me03-half-booster-boxes",
+  "uuid": "7b76a89b-c9c7-5733-b89d-98a89045c768",
   "region": "international",
   "set": "me03",
   "category": "half_booster_box",
   "name": "Perfect Order Half Booster Boxes",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a30999f3-2029-5fc8-bc4c-c8202242e3ee",
       "name": "Perfect Order Half Booster Boxes",
       "releaseDate": "2026-03-27",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sm2-island-guardians-tin-tapu-koko-gx",
+  "uuid": "8f2b3196-2e60-50c5-8b42-82238ea7505c",
   "region": "international",
   "set": "sm2",
   "category": "tin",
   "name": "Island Guardians Tin [Tapu Koko GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b57a734d-5bb7-50e2-bcde-a33d4ddc6399",
       "name": "Island Guardians Tin [Tapu Koko GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "69eff951-1f81-5d72-8382-e4184e56c3f8",
       "name": "Boîte Gardiens des Îles Tokorico",
       "releaseDate": "2017-08-12",
       "contents": {

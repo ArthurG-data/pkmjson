@@ -1,9 +1,11 @@
 {
   "id": "sm10-booster-box",
+  "uuid": "66bf16cf-7042-5406-9754-6b2f86b4f34f",
   "region": "international",
   "set": "sm10",
   "category": "booster_box",
   "name": "Unbroken Bonds Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 370620
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "873b5908-ab24-5d5b-ac5e-76c9ba06aab3",
       "name": "Unbroken Bonds Booster Box",
       "releaseDate": "2019-05-03",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "ex7-team-rocket-returns-booster-box",
+  "uuid": "12dedd2f-512b-5987-9ebe-80af7f09c3cd",
   "region": "international",
   "set": "ex7",
   "category": "booster_box",
   "name": "Team Rocket Returns Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271921
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "271dddec-716b-54aa-84d7-ee8ebc1b56b2",
       "name": "Team Rocket Returns Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

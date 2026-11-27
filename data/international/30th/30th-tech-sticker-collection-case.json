@@ -1,15 +1,18 @@
 {
   "id": "30th-tech-sticker-collection-case",
+  "uuid": "19aa0837-8ff6-5b00-9d34-35f944c15c7e",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Tech Sticker Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2edbe99d-3471-505e-9a74-5e6c6e6f5fcd",
       "name": "30th Celebration Tech Sticker Collection Case",
       "releaseDate": "2026-09-16",
       "identifiers": {

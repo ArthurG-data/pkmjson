@@ -1,9 +1,11 @@
 {
   "id": "swshp-mighty-mysterious-tin-mimikyu",
+  "uuid": "4507bf91-56f6-516e-bd2a-266e49054213",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Mighty Mysterious Tin [Mimikyu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ea8070e-3b6b-5ca0-a772-6db2cac4fe80",
       "name": "Mighty Mysterious Tin [Mimikyu]",
       "identifiers": {
         "tcgplayerProductIds": [

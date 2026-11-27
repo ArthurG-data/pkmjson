@@ -1,15 +1,18 @@
 {
   "id": "sm10-alolan-marowak-gx-box",
+  "uuid": "8a6c9ed8-44f6-52fe-ae32-8d132b68e002",
   "region": "international",
   "set": "sm10",
   "category": "collection_box",
   "name": "Alolan Marowak GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "da3e2f5a-4d51-5d70-b1cd-05237bb8fda8",
       "name": "Alolan Marowak GX Box",
       "releaseDate": "2019-05-03",
       "identifiers": {
@@ -23,6 +26,7 @@
     },
     {
       "language": "de",
+      "uuid": "80940a74-48a4-56b0-9af8-5d731f57f9db",
       "name": "Kollektion Alola-Knogga-GX",
       "releaseDate": "2019-05-03",
       "sources": [
@@ -31,6 +35,7 @@
     },
     {
       "language": "es",
+      "uuid": "7d605487-757d-5aad-a540-92bc830880d6",
       "name": "Colección Marowak de Alola-GX",
       "releaseDate": "2019-05-03",
       "sources": [
@@ -39,6 +44,7 @@
     },
     {
       "language": "it",
+      "uuid": "0bdb26a0-ef50-5b77-98df-dfbb8828d1f7",
       "name": "Collezione Marowak di Alola-GX",
       "releaseDate": "2019-05-03",
       "sources": [

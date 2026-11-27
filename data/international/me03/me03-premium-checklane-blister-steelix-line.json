@@ -1,9 +1,11 @@
 {
   "id": "me03-premium-checklane-blister-steelix-line",
+  "uuid": "1bd561df-1528-538a-8339-80f2a72ae0a3",
   "region": "international",
   "set": "me03",
   "category": "blister",
   "name": "Perfect Order Premium Checklane Blister [Steelix Line]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fb635f38-63d4-5480-b4b4-21932e31584b",
       "name": "Perfect Order Premium Checklane Blister [Steelix Line]",
       "releaseDate": "2026-03-27",
       "identifiers": {

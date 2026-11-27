@@ -1,9 +1,11 @@
 {
   "id": "swshp-paldea-collection-sprigatito-miraidon-ex",
+  "uuid": "17001100-94a5-5387-92e6-0361a097947d",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Paldea Collection [Sprigatito/Miraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7135dd7e-9e1b-5d41-b7a8-0b2bcb80ad2c",
       "name": "Paldea Collection [Sprigatito/Miraidon ex]",
       "releaseDate": "2023-01-06",
       "identifiers": {

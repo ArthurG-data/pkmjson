@@ -1,15 +1,18 @@
 {
   "id": "xy8-mega-mewtwo-collection-set-of-2",
+  "uuid": "3c7ce5b9-f9ed-5849-ba08-1c8b7525631b",
   "region": "international",
   "set": "xy8",
   "category": "other",
   "name": "Mega Mewtwo Collection (Set of 2)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "09bc4b1f-c9c1-5797-a081-c92de1c8a2d1",
       "name": "Mega Mewtwo Collection (Set of 2)",
       "identifiers": {
         "tcgplayerProductIds": [

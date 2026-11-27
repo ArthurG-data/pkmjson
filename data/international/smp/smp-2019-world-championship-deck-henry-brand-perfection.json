@@ -1,15 +1,18 @@
 {
   "id": "smp-2019-world-championship-deck-henry-brand-perfection",
+  "uuid": "8be2062e-bb4b-530e-b5cc-a5a61656ffab",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2019 World Championship Deck: Henry Brand (Perfection)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "61505109-3650-5541-ac9d-fe8c154e4376",
       "name": "2019 World Championship Deck: Henry Brand (Perfection)",
       "releaseDate": "2019-11-22",
       "identifiers": {

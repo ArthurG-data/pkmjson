@@ -1,9 +1,11 @@
 {
   "id": "swsh8-premium-checklane-blister-rillaboom",
+  "uuid": "9936504c-4a40-5411-94be-d42b4e3ee9a6",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Fusion Strike Premium Checklane Blister [Rillaboom]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585670
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e25a71fa-78b7-5bee-aa7f-fa08a3b5278b",
       "name": "Fusion Strike Premium Checklane Blister [Rillaboom]",
       "identifiers": {
         "tcgplayerProductIds": [

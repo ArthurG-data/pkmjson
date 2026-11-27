@@ -1,9 +1,11 @@
 {
   "id": "s7d-booster-pack",
+  "uuid": "5608a061-7a5e-579e-832c-8104766b23c0",
   "region": "asia",
   "set": "S7D",
   "category": "booster_pack",
   "name": "Skyscraping Perfection Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "5150a5c7-7643-53f3-bfc1-1c817ac101e4",
       "name": "拡張パック「摩天パーフェクト」",
       "releaseDate": "2021-07-09",
       "identifiers": {

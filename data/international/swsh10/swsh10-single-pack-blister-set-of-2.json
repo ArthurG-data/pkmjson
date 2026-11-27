@@ -1,15 +1,18 @@
 {
   "id": "swsh10-single-pack-blister-set-of-2",
+  "uuid": "29de949f-45ca-53af-a9cc-c3dae1c22c46",
   "region": "international",
   "set": "swsh10",
   "category": "other",
   "name": "Astral Radiance Single Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card of Oricorio or Toxel; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bc7203b8-050e-5d75-822f-680b83901a3d",
       "name": "Astral Radiance Single Pack Blister [Set of 2]",
       "releaseDate": "2022-05-27",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sv10-booster-box-case",
+  "uuid": "5d3d606c-7f41-5dc4-ad48-867c2f2d9e60",
   "region": "international",
   "set": "sv10",
   "category": "case",
   "name": "Destined Rivals Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818576
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e7edc467-7c8f-5170-9cbf-dfdcc7feb3c8",
       "name": "Destined Rivals Booster Box Case",
       "releaseDate": "2025-05-30",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "mep-lumiose-city-mini-tin-gallade-goomy",
+  "uuid": "e1875858-c2e7-58e1-8fac-2d4a394cb90b",
   "region": "international",
   "set": "mep",
   "category": "tin",
   "name": "Lumiose City Mini Tin [Gallade & Goomy]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de8dabb4-1f87-511b-bbda-a76702a3b1c2",
       "name": "Lumiose City Mini Tin [Gallade & Goomy]",
       "releaseDate": "2026-06-05",
       "identifiers": {

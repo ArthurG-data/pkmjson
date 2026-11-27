@@ -1,15 +1,18 @@
 {
   "id": "sm4-booster-pack-art-bundle-set-of-4",
+  "uuid": "8e368ba2-0d84-5d75-946f-9f09b84fe1e5",
   "region": "international",
   "set": "sm4",
   "category": "other",
   "name": "Crimson Invasion Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1913d702-5479-55e5-bc81-6daa7e39431c",
       "name": "Crimson Invasion Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

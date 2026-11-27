@@ -1,9 +1,11 @@
 {
   "id": "s10p-booster-box",
+  "uuid": "c4cc0cb5-6c8a-5e31-b375-c611a605f47a",
   "region": "asia",
   "set": "S10P",
   "category": "booster_box",
   "name": "Space Juggler Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611243
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d1df6f33-fa6f-518b-b928-2784f5eafcdd",
       "name": "Space Juggler Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

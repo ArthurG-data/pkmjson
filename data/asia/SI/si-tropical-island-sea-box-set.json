@@ -1,15 +1,18 @@
 {
   "id": "si-tropical-island-sea-box-set",
+  "uuid": "8a8415fa-575f-54a5-a3cb-624219893673",
   "region": "asia",
   "set": "SI",
   "category": "collection_box",
   "name": "Tropical Island Sea Box Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Tentacruel; Marill; Lapras.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "fb510b60-62dd-5ba2-b797-9be875ff7ef7",
       "name": "Tropical Island Sea Box Set",
       "identifiers": {
         "tcgplayerProductIds": [

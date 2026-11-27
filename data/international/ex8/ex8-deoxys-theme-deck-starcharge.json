@@ -1,9 +1,11 @@
 {
   "id": "ex8-deoxys-theme-deck-starcharge",
+  "uuid": "92fc4c8c-a214-502c-86fa-fe3d7ed5c9b0",
   "region": "international",
   "set": "ex8",
   "category": "theme_deck",
   "name": "Deoxys Theme Deck - \"Starcharge\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286526
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "48346de2-54cf-5a6a-b36c-96110609bf26",
       "name": "Deoxys Theme Deck - \"Starcharge\"",
       "identifiers": {
         "tcgplayerProductIds": [

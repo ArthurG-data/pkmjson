@@ -1,9 +1,11 @@
 {
   "id": "swsh2-premium-checklane-blister-gengar",
+  "uuid": "5dc16eaf-efbc-5536-b71f-47df92311f94",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Rebel Clash Premium Checklane Blister [Gengar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585888
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "04b7f8a6-329f-5ae4-a77c-c2360b78f62e",
       "name": "Rebel Clash Premium Checklane Blister [Gengar]",
       "identifiers": {
         "tcgplayerProductIds": [

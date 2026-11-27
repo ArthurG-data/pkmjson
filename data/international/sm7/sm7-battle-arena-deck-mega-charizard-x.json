@@ -1,9 +1,11 @@
 {
   "id": "sm7-battle-arena-deck-mega-charizard-x",
+  "uuid": "6ccf6f2f-91ab-5e06-a8e7-84e12974b2e8",
   "region": "international",
   "set": "sm7",
   "category": "battle_deck",
   "name": "Battle Arena Deck [Mega Charizard X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df1eb0f5-6bbd-54bb-ac06-67ac92e9b2a8",
       "name": "Battle Arena Deck [Mega Charizard X]",
       "releaseDate": "2018-09-21",
       "identifiers": {

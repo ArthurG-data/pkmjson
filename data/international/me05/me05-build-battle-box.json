@@ -1,9 +1,11 @@
 {
   "id": "me05-build-battle-box",
+  "uuid": "e6875ab2-104b-59b5-b938-b37ce2eadda6",
   "region": "international",
   "set": "me05",
   "category": "build_and_battle_box",
   "name": "Pitch Black Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 885540
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef75dbde-5aea-52a2-a283-388b24d6b212",
       "name": "Pitch Black Build & Battle Box",
       "releaseDate": "2026-07-31",
       "identifiers": {

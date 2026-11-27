@@ -1,9 +1,11 @@
 {
   "id": "mfb-pikachu-bulbasaur",
+  "uuid": "eddaf172-c122-575a-b999-54cd31a5beda",
   "region": "international",
   "set": "mfb",
   "category": "other",
   "name": "My First Battle [Pikachu & Bulbasaur]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 721852
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "42b89484-f44d-532d-a90b-1935b849e3f6",
       "name": "My First Battle [Pikachu & Bulbasaur]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,7 @@
     },
     {
       "language": "it",
+      "uuid": "df1127bd-bb5f-5189-8863-5b7386bc58c8",
       "name": "Prima Lotta",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/prima-lotta"
@@ -32,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f3574df7-322b-5184-8671-cd914b435e13",
       "name": "Mon premier combat",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mon-premier-combat"
@@ -39,6 +44,7 @@
     },
     {
       "language": "de",
+      "uuid": "3d20d9c1-db6e-56cc-8af3-94119e967892",
       "name": "Mein erstes Spiel",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
@@ -46,6 +52,7 @@
     },
     {
       "language": "es",
+      "uuid": "12fe678b-bf2a-5f23-a26a-10eb923b65c1",
       "name": "Mi Primer Combate",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/mi-primer-combate"

@@ -1,15 +1,18 @@
 {
   "id": "xy12-elite-trainer-box-case",
+  "uuid": "2c9cc1de-ff57-5d4b-848e-f7e7b44e39bc",
   "region": "international",
   "set": "xy12",
   "category": "case",
   "name": "Evolutions Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4b7ea17e-a5c8-58f5-8671-d930ba6aced6",
       "name": "Evolutions Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

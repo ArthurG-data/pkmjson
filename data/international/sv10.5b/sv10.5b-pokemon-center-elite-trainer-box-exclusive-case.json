@@ -1,15 +1,18 @@
 {
   "id": "sv10.5b-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "a6070c14-19af-58b1-b311-a7e825448d37",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Black Bolt Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "71062daa-ca89-5f1e-ab9c-724db827fc23",
       "name": "Black Bolt Pokemon Center Elite Trainer Box (Exclusive) Case",
       "releaseDate": "2025-07-18",
       "identifiers": {

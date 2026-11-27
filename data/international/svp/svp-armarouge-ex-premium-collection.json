@@ -1,9 +1,11 @@
 {
   "id": "svp-armarouge-ex-premium-collection",
+  "uuid": "e28ed530-fd01-5b37-9570-54aa12812ad4",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Armarouge ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ef540bf2-347d-5c98-aff9-e393adde1442",
       "name": "Armarouge ex Premium Collection",
       "releaseDate": "2024-04-19",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "es",
+      "uuid": "a5f95efd-7760-5569-be2e-a1113f098c16",
       "name": "Colección prémium Armarouge ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-armarouge-ex"
@@ -41,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a7492d89-27da-554d-9734-1ca3f4d07ded",
       "name": "Collection Premium Carmadura‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-premium-carmadura-ex"

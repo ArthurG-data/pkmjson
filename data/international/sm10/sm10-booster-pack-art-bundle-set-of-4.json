@@ -1,15 +1,18 @@
 {
   "id": "sm10-booster-pack-art-bundle-set-of-4",
+  "uuid": "4b9bbbee-14b7-5f3c-b2ce-ec90c3d4e055",
   "region": "international",
   "set": "sm10",
   "category": "other",
   "name": "Unbroken Bonds Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "aa46abcc-8012-5f3f-abda-393f642251b0",
       "name": "Unbroken Bonds Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

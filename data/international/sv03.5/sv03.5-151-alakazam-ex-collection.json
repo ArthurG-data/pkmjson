@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-alakazam-ex-collection",
+  "uuid": "e00a4cd4-d3f7-51cb-80b1-6af25d9044f6",
   "region": "international",
   "set": "sv03.5",
   "category": "collection_box",
   "name": "151: Alakazam ex Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719699
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0adf6f0d-4670-5fac-a36b-f1bf59ca17d7",
       "name": "151: Alakazam ex Collection",
       "releaseDate": "2023-10-06",
       "identifiers": {
@@ -49,6 +52,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5d44b774-4778-5f73-bbe7-7defb88b8327",
       "name": "Écarlate et Violet – 151 – Collection Alakazam-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/ecarlate-et-violet-151-collection-alakazam-ex"
@@ -56,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "2a756ee5-810c-5c90-9048-4e7ddd24851d",
       "name": "Kollektion Karmesin & Purpur – 151: Simsala‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-karmesin-purpur-151-simsala-ex"
@@ -63,6 +68,7 @@
     },
     {
       "language": "es",
+      "uuid": "b7a3c2e1-f4ea-5115-9c6c-39c799a7105a",
       "name": "Colección Alakazam ex de Escarlata y Púrpura-151",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-alakazam-ex-de-escarlata-y-purpura-151"
@@ -70,6 +76,7 @@
     },
     {
       "language": "it",
+      "uuid": "16389a4d-61d1-5995-89ce-dd313da0e2cd",
       "name": "Collezione Alakazam‑ex dell’espansione Scarlatto e Violetto - 151",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-alakazam-ex-dellespansione-scarlatto-e-violetto-151"

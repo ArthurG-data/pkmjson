@@ -1,15 +1,18 @@
 {
   "id": "swshp-v-battle-deck-display-victini-v-gardevoir-v",
+  "uuid": "3e9ac5b4-f247-5d6a-99fa-9f0521b69691",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "V Battle Deck Display [Victini V/Gardevoir V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f6c9ccae-4de9-52f9-b903-41d6a1eb9ce6",
       "name": "V Battle Deck Display [Victini V/Gardevoir V]",
       "identifiers": {
         "tcgplayerProductIds": [

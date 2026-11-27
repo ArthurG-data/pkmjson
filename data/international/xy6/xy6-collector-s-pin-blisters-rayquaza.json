@@ -1,15 +1,18 @@
 {
   "id": "xy6-collector-s-pin-blisters-rayquaza",
+  "uuid": "8a67927c-5d70-5c2f-b73b-2b8a01cdb7f2",
   "region": "international",
   "set": "xy6",
   "category": "blister",
   "name": "Mega Evolution Collector's Pin Blisters [Rayquaza]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "69689191-7668-5fe7-9687-da25f1a94f8d",
       "name": "Mega Evolution Collector's Pin Blisters [Rayquaza]",
       "identifiers": {
         "tcgplayerProductIds": [

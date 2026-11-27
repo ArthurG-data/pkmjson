@@ -1,9 +1,11 @@
 {
   "id": "xy10-single-pack-blister-pansear",
+  "uuid": "69c30240-47e8-5553-b99e-ac49b725be74",
   "region": "international",
   "set": "xy10",
   "category": "blister",
   "name": "Fates Collide Single Pack Blister [Pansear]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586346
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a46f8b09-bc22-5138-8856-3c5383bb3d49",
       "name": "Fates Collide Single Pack Blister [Pansear]",
       "identifiers": {
         "tcgplayerProductIds": [

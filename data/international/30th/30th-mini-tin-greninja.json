@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-greninja",
+  "uuid": "f56197c3-f37e-5e12-b813-3e5255c81772",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Greninja]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8b651c8c-2ba7-5b47-94da-1b1267e40651",
       "name": "30th Celebration Mini Tin [Greninja]",
       "releaseDate": "2026-10-02",
       "identifiers": {

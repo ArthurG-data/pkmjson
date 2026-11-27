@@ -1,9 +1,11 @@
 {
   "id": "sm4a-booster-pack",
+  "uuid": "d8ed27b6-0630-57f8-aa67-a11f6eb36a25",
   "region": "asia",
   "set": "SM4A",
   "category": "booster_pack",
   "name": "Ultradimensional Beasts Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551916
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "35580ec1-e10d-54a1-aa9c-ec3b451afdf5",
       "name": "拡張パック「超次元の暴獣」",
       "releaseDate": "2017-09-15",
       "identifiers": {

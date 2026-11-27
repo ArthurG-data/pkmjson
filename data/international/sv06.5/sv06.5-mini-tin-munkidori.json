@@ -1,9 +1,11 @@
 {
   "id": "sv06.5-mini-tin-munkidori",
+  "uuid": "43c5600b-e224-501b-b35d-f0ea8f882297",
   "region": "international",
   "set": "sv06.5",
   "category": "tin",
   "name": "Shrouded Fable Mini Tin (Munkidori)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 770964
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5afc3b7e-c700-5fdd-bf91-ee736384ab59",
       "name": "Shrouded Fable Mini Tin (Munkidori)",
       "releaseDate": "2024-08-02",
       "identifiers": {

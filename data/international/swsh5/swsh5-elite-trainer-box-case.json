@@ -1,9 +1,11 @@
 {
   "id": "swsh5-elite-trainer-box-case",
+  "uuid": "55508ccf-91e4-50d0-8f1c-14c6b3760abf",
   "region": "international",
   "set": "swsh5",
   "category": "case",
   "name": "Battle Styles Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873114
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8137031d-c0ab-5e57-820c-98fe21ceb524",
       "name": "Battle Styles Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

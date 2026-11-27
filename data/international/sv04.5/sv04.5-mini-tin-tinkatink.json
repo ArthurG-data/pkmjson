@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-mini-tin-tinkatink",
+  "uuid": "8997eefc-c71d-5e9b-a9b7-7b830e1f64d8",
   "region": "international",
   "set": "sv04.5",
   "category": "tin",
   "name": "Paldean Fates Mini Tin [Tinkatink]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745559
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c6193594-2ff0-5e08-b78d-0e5e8b59eb1d",
       "name": "Paldean Fates Mini Tin [Tinkatink]",
       "releaseDate": "2024-02-09",
       "identifiers": {

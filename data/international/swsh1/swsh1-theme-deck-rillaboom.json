@@ -1,9 +1,11 @@
 {
   "id": "swsh1-theme-deck-rillaboom",
+  "uuid": "45e5983d-ac3b-5e7a-b22c-9c261e131efb",
   "region": "international",
   "set": "swsh1",
   "category": "theme_deck",
   "name": "Sword & Shield Theme Deck [Rillaboom]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 427131
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ed7dc49a-a076-59d7-97a6-da1067469d04",
       "name": "Sword & Shield Theme Deck [Rillaboom]",
       "identifiers": {
         "tcgplayerProductIds": [

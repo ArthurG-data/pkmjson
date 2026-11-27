@@ -1,9 +1,11 @@
 {
   "id": "smp-kanto-friends-mini-tin-pikachu",
+  "uuid": "c075c5f4-b22f-55b6-b538-4208656f8315",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Kanto Friends Mini Tin [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ab8731a9-21d8-5655-b1cf-d0328218f241",
       "name": "Kanto Friends Mini Tin [Pikachu]",
       "identifiers": {
         "tcgplayerProductIds": [

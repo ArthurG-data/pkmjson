@@ -1,15 +1,18 @@
 {
   "id": "si-rainbow-island-sky-box-set",
+  "uuid": "c62379a8-84c5-599d-9dab-da3c2650c22f",
   "region": "asia",
   "set": "SI",
   "category": "collection_box",
   "name": "Rainbow Island Sky Box Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Mew; Pidgeot; Onix.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "d38bf362-7485-5989-ba15-a7f2fe534334",
       "name": "Rainbow Island Sky Box Set",
       "identifiers": {
         "tcgplayerProductIds": [

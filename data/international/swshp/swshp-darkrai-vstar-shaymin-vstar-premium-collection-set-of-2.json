@@ -1,15 +1,18 @@
 {
   "id": "swshp-darkrai-vstar-shaymin-vstar-premium-collection-set-of-2",
+  "uuid": "29fea818-166b-5265-a71f-1c92461368c9",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Darkrai VSTAR/Shaymin VSTAR Premium Collection [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil card featuring Origin Forme Dialga VSTAR or Origin Forme Palkia VSTAR; 1 etched foil card featuring Origin Forme Dialga V or Origin Forme Palkia V; 6 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "16ae1a67-87d7-58c5-84df-cb25b0b356e1",
       "name": "Darkrai VSTAR/Shaymin VSTAR Premium Collection [Set of 2]",
       "releaseDate": "2022-11-01",
       "identifiers": {

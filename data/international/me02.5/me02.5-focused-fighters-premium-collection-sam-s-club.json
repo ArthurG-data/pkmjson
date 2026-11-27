@@ -1,15 +1,18 @@
 {
   "id": "me02.5-focused-fighters-premium-collection-sam-s-club",
+  "uuid": "fc8601e4-6d43-5fa1-bcae-ee6547f96e85",
   "region": "international",
   "set": "me02.5",
   "category": "premium_collection",
   "name": "Ascended Heroes Focused Fighters Premium Collection (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card featuring Mega Hawlucha ex; 1 promo card featuring Team Rocket's Mewtwo ex:; 1 promo card featuring N's Reshiram:; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cc9db1ef-8c53-5423-9534-03df181663b1",
       "name": "Ascended Heroes Focused Fighters Premium Collection (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

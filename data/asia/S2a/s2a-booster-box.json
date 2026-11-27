@@ -1,9 +1,11 @@
 {
   "id": "s2a-booster-box",
+  "uuid": "3443c676-50b8-55a4-b96c-b04ba3257dc7",
   "region": "asia",
   "set": "S2a",
   "category": "booster_box",
   "name": "Explosive Walker Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "82006a40-6aea-54a7-817f-f632ec08ccbf",
       "name": "Explosive Walker Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

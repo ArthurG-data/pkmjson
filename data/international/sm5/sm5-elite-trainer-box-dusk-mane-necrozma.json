@@ -1,9 +1,11 @@
 {
   "id": "sm5-elite-trainer-box-dusk-mane-necrozma",
+  "uuid": "3749375a-7ad2-5ec4-a847-26f0c9e59d20",
   "region": "international",
   "set": "sm5",
   "category": "elite_trainer_box",
   "name": "Ultra Prism Elite Trainer Box [Dusk Mane Necrozma]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 315119
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "979f4ba4-f480-5ce0-add7-9e543b695946",
       "name": "Ultra Prism Elite Trainer Box [Dusk Mane Necrozma]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,7 @@
     },
     {
       "language": "de",
+      "uuid": "1b3bc206-2c86-5f04-966b-0738d8f48ef5",
       "name": "Top-Trainer-Box Sonne & Mond – Ultra-Prisma",
       "releaseDate": "2018-02-02",
       "sources": [
@@ -33,6 +37,7 @@
     },
     {
       "language": "es",
+      "uuid": "93a6e361-61bf-5db7-a6e2-3c639120acfb",
       "name": "Caja de Entrenador Élite de Sol y Luna-Ultraprisma",
       "releaseDate": "2018-02-02",
       "sources": [
@@ -41,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6766b1ce-74bd-5e9d-b4f2-1c51553e8bef",
       "name": "Coffret Dresseur d’élite Soleil et Lune – Ultra-Prisme",
       "releaseDate": "2018-02-02",
       "sources": [
@@ -49,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "93a00d11-f6e7-5565-9d49-adf594d996f6",
       "name": "Set Allenatore Fuoriclasse Sole e Luna - Ultraprisma",
       "releaseDate": "2018-02-02",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "sv9a-booster-box",
+  "uuid": "dc912c72-cd5d-57dd-9c15-730192cb8a0d",
   "region": "asia",
   "set": "SV9a",
   "category": "booster_box",
   "name": "Heat Wave Arena Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 810652
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "b913a442-df60-56ae-a087-7cd51b73d039",
       "name": "Heat Wave Arena Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

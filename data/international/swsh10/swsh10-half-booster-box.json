@@ -1,9 +1,11 @@
 {
   "id": "swsh10-half-booster-box",
+  "uuid": "aa484385-1052-54e7-a874-6a239976802d",
   "region": "international",
   "set": "swsh10",
   "category": "half_booster_box",
   "name": "Astral Radiance Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611351
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d5a60485-7857-57b9-8730-4fb327e4b91c",
       "name": "Astral Radiance Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

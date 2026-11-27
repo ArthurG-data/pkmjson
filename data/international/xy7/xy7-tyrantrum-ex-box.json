@@ -1,15 +1,18 @@
 {
   "id": "xy7-tyrantrum-ex-box",
+  "uuid": "5ad57f31-a485-50ee-9880-63c4129c4326",
   "region": "international",
   "set": "xy7",
   "category": "collection_box",
   "name": "Tyrantrum EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5387c6f9-fbb7-5aa9-b51c-eda55fe1f23b",
       "name": "Tyrantrum EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "14a8eecb-4fd9-597d-9bd8-a4b83ae6c7a8",
       "name": "Coffret Rexillius",
       "contents": {
         "sealed": [

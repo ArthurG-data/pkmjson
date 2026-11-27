@@ -1,9 +1,11 @@
 {
   "id": "sv08.5-super-premium-collection",
+  "uuid": "4edadad1-69b5-532c-bafb-a4a4209005ae",
   "region": "international",
   "set": "sv08.5",
   "category": "premium_collection",
   "name": "Prismatic Evolutions Super-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 813966
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e3680834-ebf3-5bec-be3c-2e295444c454",
       "name": "Prismatic Evolutions Super-Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -60,6 +63,7 @@
     },
     {
       "language": "fr",
+      "uuid": "61e75dad-c305-5a87-b32e-cc8f17e798f9",
       "name": "Collection Super-Premium Évolutions Prismatiques",
       "releaseDate": "2025-05-16",
       "sources": [
@@ -68,6 +72,7 @@
     },
     {
       "language": "es",
+      "uuid": "daad9ea3-6b79-5d39-9950-74fab65451af",
       "name": "Colección superprémium de Escarlata y Púrpura-Evoluciones Prismáticas",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-superpremium-de-escarlata-y-purpura-evoluciones-prismaticas"
@@ -75,6 +80,7 @@
     },
     {
       "language": "de",
+      "uuid": "e2f09792-cee7-509f-a4be-6fa911be5c3e",
       "name": "Super-Premium-Kollektion Karmesin & Purpur – Prismatische Entwicklungen",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/super-premium-kollektion-karmesin-purpur-prismatische-entwicklungen"
@@ -82,6 +88,7 @@
     },
     {
       "language": "it",
+      "uuid": "77bde1ac-9df3-5f4c-89c5-ed0aac696422",
       "name": "Collezione super premium dell’espansione Scarlatto e Violetto - Evoluzioni Prismatiche",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-super-premium-dellespansione-scarlatto-e-violetto-evoluzioni-prismatiche"

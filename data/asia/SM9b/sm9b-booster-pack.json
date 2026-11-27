@@ -1,9 +1,11 @@
 {
   "id": "sm9b-booster-pack",
+  "uuid": "10f9aaf3-4859-5a26-8274-c1cbb45fb4a6",
   "region": "asia",
   "set": "SM9b",
   "category": "booster_pack",
   "name": "Full Metal Wall Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550446
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6fa68e8d-c610-55cf-995e-9d6cee4b9cc5",
       "name": "強化拡張パック「フルメタルウォール」",
       "releaseDate": "2019-02-01",
       "identifiers": {

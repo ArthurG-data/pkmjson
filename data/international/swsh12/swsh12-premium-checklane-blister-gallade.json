@@ -1,9 +1,11 @@
 {
   "id": "swsh12-premium-checklane-blister-gallade",
+  "uuid": "4ac087bc-c893-5774-bb01-b2e90d4e60df",
   "region": "international",
   "set": "swsh12",
   "category": "blister",
   "name": "Silver Tempest Premium Checklane Blister [Gallade]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683487
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b9ad3507-c05b-5027-bc8a-72606ee894ce",
       "name": "Silver Tempest Premium Checklane Blister [Gallade]",
       "identifiers": {
         "tcgplayerProductIds": [

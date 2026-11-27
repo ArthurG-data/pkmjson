@@ -1,15 +1,18 @@
 {
   "id": "sm1-kingdra-ex-box",
+  "uuid": "7cb293e8-d9db-5afd-b90d-3aad18d28aa5",
   "region": "international",
   "set": "sm1",
   "category": "collection_box",
   "name": "Kingdra EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "772cdb3a-c684-54ae-8abc-d37ae599d7ad",
       "name": "Kingdra EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "56ddd6a0-35f2-5ad5-a028-196293dcc11d",
       "name": "Coffret Hyporoi",
       "releaseDate": "2017-10-28",
       "sources": [

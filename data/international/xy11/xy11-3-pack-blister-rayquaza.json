@@ -1,9 +1,11 @@
 {
   "id": "xy11-3-pack-blister-rayquaza",
+  "uuid": "8af92f90-6033-5ac3-bb0b-c1399056b710",
   "region": "international",
   "set": "xy11",
   "category": "blister",
   "name": "Steam Siege 3 Pack Blister [Rayquaza]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586338
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ec68a352-2ed7-567d-9f03-38c442896912",
       "name": "Steam Siege 3 Pack Blister [Rayquaza]",
       "identifiers": {
         "tcgplayerProductIds": [

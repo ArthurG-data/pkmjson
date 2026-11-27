@@ -1,15 +1,18 @@
 {
   "id": "swsh6-sleeved-booster-pack-art-bundle-set-of-5",
+  "uuid": "e468e5bc-e92f-5afc-a39c-16198b865191",
   "region": "international",
   "set": "swsh6",
   "category": "other",
   "name": "Chilling Reign Sleeved Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 10 random cards; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "460ee3ab-8da5-573c-9c6d-bbf6b968bb4c",
       "name": "Chilling Reign Sleeved Booster Pack Art Bundle [Set of 5]",
       "identifiers": {
         "tcgplayerProductIds": [

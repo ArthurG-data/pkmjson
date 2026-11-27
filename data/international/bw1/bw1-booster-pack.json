@@ -1,9 +1,11 @@
 {
   "id": "bw1-booster-pack",
+  "uuid": "f513503c-26eb-5844-8c64-805f7a18ba37",
   "region": "international",
   "set": "bw1",
   "category": "booster_pack",
   "name": "Black and White Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271825
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a0adc199-fee9-54d3-a971-26701fcb9172",
       "name": "Black & White",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "54d932c3-57c8-5d2e-8203-d9b189585b68",
       "name": "JCC Pokémon : Noir & Blanc",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Victini",

@@ -1,9 +1,11 @@
 {
   "id": "swsh1-galar-partners-tin-cinderace-v",
+  "uuid": "435a8610-5373-5589-9142-91b1e95231cf",
   "region": "international",
   "set": "swsh1",
   "category": "tin",
   "name": "Galar Partners Tin [Cinderace V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e93fec74-26a8-528f-949c-4d1d2c941de8",
       "name": "Galar Partners Tin [Cinderace V]",
       "releaseDate": "2020-02-27",
       "identifiers": {

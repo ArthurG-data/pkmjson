@@ -1,9 +1,11 @@
 {
   "id": "swsh5-3-pack-blister-eevee",
+  "uuid": "5af8ceb1-b999-5b5a-8db2-8d1d2da1bf98",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles 3 Pack Blister [Eevee]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585749
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "19bfa811-ed63-5267-9039-6868cc3ba04d",
       "name": "Battle Styles 3 Pack Blister [Eevee]",
       "releaseDate": "2021-03-19",
       "identifiers": {

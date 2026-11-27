@@ -1,9 +1,11 @@
 {
   "id": "swsh7-booster-box-case",
+  "uuid": "bb9218b2-b594-5161-ad0b-cdb59a487255",
   "region": "international",
   "set": "swsh7",
   "category": "case",
   "name": "Evolving Skies Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 668177
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "49e20c31-6b47-5a71-a20f-c000bb7f42c3",
       "name": "Evolving Skies Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

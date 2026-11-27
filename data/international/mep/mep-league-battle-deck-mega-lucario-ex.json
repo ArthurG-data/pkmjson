@@ -1,9 +1,11 @@
 {
   "id": "mep-league-battle-deck-mega-lucario-ex",
+  "uuid": "72cedf1a-7111-5fcf-b543-1b08c0f22ba9",
   "region": "international",
   "set": "mep",
   "category": "battle_deck",
   "name": "League Battle Deck [Mega Lucario ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3461961a-ad0d-5f39-8857-85754f2ebd8a",
       "name": "League Battle Deck [Mega Lucario ex]",
       "releaseDate": "2026-05-27",
       "identifiers": {

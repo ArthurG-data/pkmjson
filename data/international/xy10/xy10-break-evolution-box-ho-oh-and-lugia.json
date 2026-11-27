@@ -1,15 +1,18 @@
 {
   "id": "xy10-break-evolution-box-ho-oh-and-lugia",
+  "uuid": "a3e1c699-4f43-52b1-900f-9c21be4f0214",
   "region": "international",
   "set": "xy10",
   "category": "collection_box",
   "name": "BREAK Evolution Box [Ho-oh and Lugia]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "aebe99b0-da83-5031-9198-a5957843fd38",
       "name": "BREAK Evolution Box [Ho-oh and Lugia]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7a04a6e7-64b3-5d55-9f8a-bcaf6f0df33a",
       "name": "Coffret Lugia",
       "releaseDate": "2016-08-27",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "cel25-mini-tin-unova",
+  "uuid": "23e24f6a-28d6-5d63-8a54-f52a218c8bf5",
   "region": "international",
   "set": "cel25",
   "category": "tin",
   "name": "Celebrations Mini Tin [Unova]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ad407ef7-34db-5365-86fe-8b6317b474e4",
       "name": "Celebrations Mini Tin [Unova]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b89f3af5-8565-568a-aaae-7c92c1ed36e6",
       "name": "Mini-boîte Unys",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
@@ -46,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "ed81cafd-83ac-58b9-a2a1-b4c893dbd573",
       "name": "Mini-Tin-Box Einall",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
@@ -53,6 +58,7 @@
     },
     {
       "language": "es",
+      "uuid": "ac06063b-8eac-5696-ae84-090e6c53f74a",
       "name": "Colecciona las ocho minilatas Teselia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
@@ -60,6 +66,7 @@
     },
     {
       "language": "it",
+      "uuid": "6eefed24-4942-595d-a58a-60330eda8712",
       "name": "Miniscatola da collezione Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"

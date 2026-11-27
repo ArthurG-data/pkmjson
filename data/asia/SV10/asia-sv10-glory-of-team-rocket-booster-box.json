@@ -1,14 +1,16 @@
 {
-  "id": "sv10-glory-of-team-rocket-booster-box",
+  "id": "asia-sv10-glory-of-team-rocket-booster-box",
+  "uuid": "b4b1bb14-caee-54f4-975b-6c0bc28df0d7",
   "region": "asia",
   "set": "SV10",
   "category": "booster_box",
   "name": "Glory of Team Rocket Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
       {
-        "product": "sv10-glory-of-team-rocket-booster-pack",
+        "product": "asia-sv10-glory-of-team-rocket-booster-pack",
         "count": 30
       }
     ]
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "525ea62d-c21c-5887-bda8-0bb386ef03bf",
       "name": "Glory of Team Rocket Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

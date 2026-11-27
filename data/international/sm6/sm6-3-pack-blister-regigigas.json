@@ -1,9 +1,11 @@
 {
   "id": "sm6-3-pack-blister-regigigas",
+  "uuid": "cd73fc14-a8c6-5ffe-b4f2-9d7d38f61b70",
   "region": "international",
   "set": "sm6",
   "category": "blister",
   "name": "Forbidden Light 3 Pack Blister [Regigigas]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585979
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eb528a10-63a6-5f66-b9c7-5222a77cf206",
       "name": "Forbidden Light 3 Pack Blister [Regigigas]",
       "identifiers": {
         "tcgplayerProductIds": [

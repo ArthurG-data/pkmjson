@@ -1,15 +1,18 @@
 {
   "id": "swshp-eevee-evolution-vmax-premium-collection-set-of-3",
+  "uuid": "5222f733-6348-5f49-8564-c1a094e46a2b",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Eevee Evolution VMAX Premium Collection [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: One of each Premium Collection (Jolteon, Flareon and, Vaporeon); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9a956464-0fd8-5871-b5aa-9c96c8154771",
       "name": "Eevee Evolution VMAX Premium Collection [Set of 3]",
       "releaseDate": "2021-12-03",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "ex11-delta-species-booster-pack",
+  "uuid": "d23d2d34-d58c-5bcb-948c-7a27fcc106c3",
   "region": "international",
   "set": "ex11",
   "category": "booster_pack",
   "name": "Delta Species Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271840
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d4d04a30-36f2-505d-8a72-a87a12a017e0",
       "name": "EX Delta Species",
       "identifiers": {
         "tcgplayerProductIds": [

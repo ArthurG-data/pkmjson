@@ -1,15 +1,18 @@
 {
   "id": "swsh7-fun-pack",
+  "uuid": "6c3e34c9-9381-5959-8f00-7e1a41beb8cd",
   "region": "international",
   "set": "swsh7",
   "category": "other",
   "name": "Evolving Skies Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "423447e9-89c5-586b-a665-c8ca322b29d6",
       "name": "Evolving Skies Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

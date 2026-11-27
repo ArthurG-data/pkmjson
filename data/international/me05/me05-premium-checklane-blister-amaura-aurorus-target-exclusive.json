@@ -1,9 +1,11 @@
 {
   "id": "me05-premium-checklane-blister-amaura-aurorus-target-exclusive",
+  "uuid": "ccff1e27-b82d-5a63-a032-336a43eac542",
   "region": "international",
   "set": "me05",
   "category": "blister",
   "name": "Pitch Black Premium Checklane Blister [Amaura, Aurorus] (Target Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "21c85343-082b-56a1-9a34-c4d4ed166722",
       "name": "Pitch Black Premium Checklane Blister [Amaura, Aurorus] (Target Exclusive)",
       "releaseDate": "2026-07-17",
       "identifiers": {

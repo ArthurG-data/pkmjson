@@ -1,9 +1,11 @@
 {
   "id": "cel25-deluxe-pin-collection-zacian-lv-x",
+  "uuid": "e687bd95-8d9a-55f8-a055-4b3996279eee",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d5949ff1-35f1-5879-9f85-c34305c47b84",
       "name": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
       "identifiers": {
         "tcgplayerProductIds": [

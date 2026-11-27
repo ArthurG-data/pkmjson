@@ -1,9 +1,11 @@
 {
   "id": "base2-theme-deck-water-blast",
+  "uuid": "a546f761-97ee-5077-b674-2e26972fb1c4",
   "region": "international",
   "set": "base2",
   "category": "theme_deck",
   "name": "Jungle Theme Deck - \"Water Blast\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286493
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f83231b6-3813-5ce9-aaaf-720466cd0ef2",
       "name": "Jungle Theme Deck - \"Water Blast\"",
       "identifiers": {
         "tcgplayerProductIds": [

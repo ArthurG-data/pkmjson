@@ -1,9 +1,11 @@
 {
   "id": "sv10.5w-tech-sticker-collection",
+  "uuid": "a23ecd9d-cbfb-5473-a1de-382cd6918581",
   "region": "international",
   "set": "sv10.5w",
   "category": "collection_box",
   "name": "White Flare Tech Sticker Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "059d153a-b3ad-540e-a1e3-f3c102e3a559",
       "name": "White Flare Tech Sticker Collection",
       "releaseDate": "2025-08-01",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "09e03a79-7bfb-5faa-9e55-67630d4e16e4",
       "name": "Collection autocollant réajustable Écarlate et Violet Flamme Blanche",
       "releaseDate": "2025-08-01",
       "sources": [

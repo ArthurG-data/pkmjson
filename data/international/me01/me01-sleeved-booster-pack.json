@@ -1,9 +1,11 @@
 {
   "id": "me01-sleeved-booster-pack",
+  "uuid": "76c36634-c745-54af-b91e-5bda3aea5389",
   "region": "international",
   "set": "me01",
   "category": "sleeved_booster_pack",
   "name": "Mega Evolution Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834828
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eaf49d34-5ffc-5d3b-b77a-eebdc0768a8c",
       "name": "Mega Evolution Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

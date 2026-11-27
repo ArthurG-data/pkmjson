@@ -1,9 +1,11 @@
 {
   "id": "sm9-tag-team-tin-pikachu-zekrom-gx",
+  "uuid": "e6c346a7-0711-5461-bd38-c6578ad5530f",
   "region": "international",
   "set": "sm9",
   "category": "tin",
   "name": "TAG TEAM Tin [Pikachu & Zekrom GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2c286259-a855-5dfa-ae5b-527835d10552",
       "name": "TAG TEAM Tin [Pikachu & Zekrom GX]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swshp-gardevoir-v-victini-v-battle-decks-set-of-2",
+  "uuid": "8bed5dd2-d472-5710-a323-886d8f7ab8e0",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Gardevoir V/Victini V Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c33735fd-575f-516d-9311-5843ef625921",
       "name": "Gardevoir V/Victini V Battle Decks [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

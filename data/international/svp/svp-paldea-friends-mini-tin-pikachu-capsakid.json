@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-friends-mini-tin-pikachu-capsakid",
+  "uuid": "1be1df93-f497-5c50-ba20-89c631720f81",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Friends Mini Tin [Pikachu & Capsakid]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fb35d92d-d877-595a-a25b-02eda465d490",
       "name": "Paldea Friends Mini Tin [Pikachu & Capsakid]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5ee7ad4a-5bfa-5ff4-8b8e-11712d380f42",
       "name": "Mini-boîte Amis de Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-amis-de-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "ac5c4897-9671-558c-8fd8-98d0c5f07586",
       "name": "Mini-Tin-Box Paldea-Freunde",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-paldea-freunde"
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "2f8d15f2-03b5-59e5-8324-3f47d00bae58",
       "name": "Minilata Amigos de Paldea",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-amigos-de-paldea"
@@ -55,6 +61,7 @@
     },
     {
       "language": "it",
+      "uuid": "409c7436-048f-53ea-82f9-e598833c6c6e",
       "name": "Miniscatola da collezione Amici di Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-amici-di-paldea"

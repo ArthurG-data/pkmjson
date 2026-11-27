@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-venusaur-v",
+  "uuid": "37d6a38e-c4d3-54aa-bef4-e3f1d4a89069",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Venusaur V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c16511a0-d6d4-507d-aa52-0585b44f2d52",
       "name": "V Battle Deck [Venusaur V]",
       "identifiers": {
         "tcgplayerProductIds": [

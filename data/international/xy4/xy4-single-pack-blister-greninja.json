@@ -1,9 +1,11 @@
 {
   "id": "xy4-single-pack-blister-greninja",
+  "uuid": "f52d4782-9de1-5f19-9e1f-82d34590a1cd",
   "region": "international",
   "set": "xy4",
   "category": "blister",
   "name": "Phantom Forces Single Pack Blister [Greninja]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586397
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "279339a3-5682-541f-b099-c7d63b60151e",
       "name": "Phantom Forces Single Pack Blister [Greninja]",
       "identifiers": {
         "tcgplayerProductIds": [

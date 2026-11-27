@@ -1,15 +1,18 @@
 {
   "id": "swsh11-pokemon-center-elite-trainer-box-case-exclusive",
+  "uuid": "81c1caa1-9d5c-52dd-9101-133ae8489689",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin Pokemon Center Elite Trainer Box Case (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "841c06e1-079e-5e0d-92ae-f3039a178248",
       "name": "Lost Origin Pokemon Center Elite Trainer Box Case (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

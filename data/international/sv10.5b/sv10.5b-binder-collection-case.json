@@ -1,15 +1,18 @@
 {
   "id": "sv10.5b-binder-collection-case",
+  "uuid": "d44f0d7e-3e70-55a1-9ee5-fcb9c5065c20",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Black Bolt  Binder Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fcb1873c-42ed-5d88-bb41-67921bf6d03b",
       "name": "Black Bolt  Binder Collection Case",
       "releaseDate": "2025-07-18",
       "identifiers": {

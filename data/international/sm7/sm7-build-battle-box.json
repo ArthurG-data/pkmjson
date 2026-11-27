@@ -1,9 +1,11 @@
 {
   "id": "sm7-build-battle-box",
+  "uuid": "d9d4060a-2aa0-5f79-8bce-d89114ede1be",
   "region": "international",
   "set": "sm7",
   "category": "build_and_battle_box",
   "name": "Celestial Storm Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 362625
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7fcfde1d-a999-5ff5-a2df-561c6947b045",
       "name": "Celestial Storm Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

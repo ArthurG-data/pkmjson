@@ -1,9 +1,11 @@
 {
   "id": "xy11-hoopa-ex-challenge-box",
+  "uuid": "cfb692d3-a5de-5bdb-bd26-71f3f9a4c9ee",
   "region": "international",
   "set": "xy11",
   "category": "collection_box",
   "name": "Hoopa EX Challenge Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "74020fb2-92b3-5977-9b8f-2162c1dd4ea5",
       "name": "Hoopa EX Challenge Box",
       "identifiers": {
         "tcgplayerProductIds": [

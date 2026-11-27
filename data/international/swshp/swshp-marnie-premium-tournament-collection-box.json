@@ -1,9 +1,11 @@
 {
   "id": "swshp-marnie-premium-tournament-collection-box",
+  "uuid": "8a41827a-486c-5ce2-b82f-e92a7fdba422",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Marnie Premium Tournament Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "578e4a94-14c6-574b-ade7-3450a2995d69",
       "name": "Marnie Premium Tournament Collection Box",
       "releaseDate": "2021-08-06",
       "identifiers": {
@@ -50,6 +53,7 @@
     },
     {
       "language": "it",
+      "uuid": "f376593c-27e8-5eb9-b52e-473d07855fb3",
       "name": "Collezione torneo premium Mary",
       "releaseDate": "2021-08-06",
       "sources": [
@@ -58,6 +62,7 @@
     },
     {
       "language": "fr",
+      "uuid": "75433ca6-40d8-55b8-8693-b1fd10967a89",
       "name": "Collection Tournoi Premium – Rosemary",
       "releaseDate": "2021-08-06",
       "sources": [
@@ -66,6 +71,7 @@
     },
     {
       "language": "de",
+      "uuid": "88347dc0-6b8c-55c6-9f2d-309210834cdc",
       "name": "Premium-Turnierkollektion Mary",
       "releaseDate": "2021-08-06",
       "sources": [

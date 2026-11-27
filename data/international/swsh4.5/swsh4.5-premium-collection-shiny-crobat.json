@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-premium-collection-shiny-crobat",
+  "uuid": "7c291ef7-d076-5358-b0d3-3bfd8586df66",
   "region": "international",
   "set": "swsh4.5",
   "category": "premium_collection",
   "name": "Shining Fates Premium Collection [Shiny Crobat]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c11a2fb1-b187-5243-b501-c7b8e09f2e58",
       "name": "Shining Fates Premium Collection [Shiny Crobat]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -35,6 +38,7 @@
     },
     {
       "language": "fr",
+      "uuid": "00e77a46-ab53-59d5-8e8e-edfab91f0553",
       "name": "Collection Premium Destinées Radieuses Nostenfer-VMAX chromatique",
       "releaseDate": "2021-03-05",
       "sources": [

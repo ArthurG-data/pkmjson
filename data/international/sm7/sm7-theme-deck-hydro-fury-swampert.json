@@ -1,9 +1,11 @@
 {
   "id": "sm7-theme-deck-hydro-fury-swampert",
+  "uuid": "fc7c775d-75dc-50f8-b0d5-b7e3ca7208dd",
   "region": "international",
   "set": "sm7",
   "category": "theme_deck",
   "name": "Celestial Storm Theme Deck - \"Hydro Fury\" [Swampert]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 361596
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ed606af2-8ac7-5c3d-a1fd-089fb58e5b23",
       "name": "Celestial Storm Theme Deck - \"Hydro Fury\" [Swampert]",
       "identifiers": {
         "tcgplayerProductIds": [

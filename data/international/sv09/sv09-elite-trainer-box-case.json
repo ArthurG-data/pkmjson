@@ -1,9 +1,11 @@
 {
   "id": "sv09-elite-trainer-box-case",
+  "uuid": "ecc81018-f931-53ab-bfc1-3cb741ddeac6",
   "region": "international",
   "set": "sv09",
   "category": "case",
   "name": "Journey Together Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805595
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a5661a09-77de-5641-98ae-db4ab7b69ffa",
       "name": "Journey Together Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

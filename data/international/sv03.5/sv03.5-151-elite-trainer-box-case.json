@@ -1,9 +1,11 @@
 {
   "id": "sv03.5-151-elite-trainer-box-case",
+  "uuid": "367eb93b-6019-5652-a293-02af57b49d42",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719692
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "75147fac-9e1c-57a9-9225-acd1ffabc762",
       "name": "151 Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-league-battle-deck-rapid-strike-urshifu-vmax",
+  "uuid": "5a555f78-f94b-5b39-b852-d15c4e0b040f",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "League Battle Deck [Rapid Strike Urshifu VMAX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0b193323-41c4-5620-b2fb-bfe4eba78824",
       "name": "League Battle Deck [Rapid Strike Urshifu VMAX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "es",
+      "uuid": "fbb4c370-24fb-5faa-9ed1-8e9da560ee76",
       "name": "Barajas Combate de Liga de Urshifu Golpe Brusco VMAX y Urshifu Golpe Fluido VMAX",
       "releaseDate": "2021-12-03",
       "sources": [
@@ -57,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d453bf4d-397e-57b0-93ce-18943643d242",
       "name": "Deck Combat de Ligue – Shifours Poing Final-VMAX et Deck Combat de Ligue – Shifours Mille Poings-VMAX",
       "releaseDate": "2021-12-03",
       "sources": [
@@ -65,6 +70,7 @@
     },
     {
       "language": "de",
+      "uuid": "133cafb8-6d40-546b-8e93-c48e5886e95b",
       "name": "Liga-Kampfdecks Fokussierter-Angriff-Wulaosu-VMAX und Fließender-Angriff-Wulaosu-VMAX",
       "releaseDate": "2021-11-12",
       "sources": [
@@ -73,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "398f8097-1385-5720-89af-21fc24d8909f",
       "name": "Mazzo Lotte di Lega Urshifu Singolcolpo-VMAX o Mazzo Lotte di Lega Urshifu Pluricolpo-VMAX",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-urshifu-singolcolpo-vmax-o-mazzo-lotte-di-lega-urshifu-pluricolpo-vmax"

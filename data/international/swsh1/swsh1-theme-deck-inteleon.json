@@ -1,9 +1,11 @@
 {
   "id": "swsh1-theme-deck-inteleon",
+  "uuid": "b6c32586-370d-51ec-8f2a-d05ca8270108",
   "region": "international",
   "set": "swsh1",
   "category": "theme_deck",
   "name": "Sword & Shield Theme Deck [Inteleon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 427121
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1c5c3021-3638-59f2-8d7b-9207b92430da",
       "name": "Sword & Shield Theme Deck [Inteleon]",
       "identifiers": {
         "tcgplayerProductIds": [

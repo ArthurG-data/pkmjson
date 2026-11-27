@@ -1,9 +1,11 @@
 {
   "id": "swshp-legends-of-johto-pin-collection",
+  "uuid": "9da0e084-1504-569f-8b84-a2db8ae4e8d6",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Legends of Johto Pin Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fa69c066-13c5-5bd0-8eca-a2ec252dfdb6",
       "name": "Legends of Johto Pin Collection",
       "identifiers": {
         "tcgplayerProductIds": [

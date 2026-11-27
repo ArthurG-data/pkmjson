@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-pal-mini-tin-scorbunny-pikachu",
+  "uuid": "8eb07561-d445-5271-8461-79f705c966a8",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Pal Mini Tin [Scorbunny & Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f8d95b5-f511-59ca-9c41-dc7d55bcefe0",
       "name": "Galar Pal Mini Tin [Scorbunny & Pikachu]",
       "identifiers": {
         "tcgplayerProductIds": [

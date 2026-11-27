@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-special-collection-zoroark-gx",
+  "uuid": "496533e2-e234-58d0-9ad1-9332741093d7",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Special Collection: Zoroark GX",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301678
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "27d3fbb5-5e93-5776-a50f-d044096497bc",
       "name": "Shining Legends Special Collection: Zoroark GX",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,7 @@
     },
     {
       "language": "fr",
+      "uuid": "5a5f646a-a854-597c-8ae3-0d18af553caf",
       "name": "Collection spéciale Légendes Brillantes Zoroark",
       "releaseDate": "2017-11-17",
       "sources": [
@@ -33,6 +37,7 @@
     },
     {
       "language": "es",
+      "uuid": "b62ad7f7-0615-59dd-9466-d94a6d700872",
       "name": "Colección especial Zoroark-GX de Leyendas Luminosas",
       "releaseDate": "2017-11-03",
       "sources": [
@@ -41,6 +46,7 @@
     },
     {
       "language": "de",
+      "uuid": "ecd0662d-1c7a-5827-bcd9-f7f4bf8f495d",
       "name": "Spezial-Kollektion Zoroark-GX der Pokémon-Sammelkartenspiel-Erweiterung Schimmernde Legenden",
       "releaseDate": "2017-11-03",
       "sources": [

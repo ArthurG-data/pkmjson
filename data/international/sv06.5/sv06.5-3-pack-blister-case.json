@@ -1,15 +1,18 @@
 {
   "id": "sv06.5-3-pack-blister-case",
+  "uuid": "6724084e-9ad1-5e2a-8e50-4e446e1ec605",
   "region": "international",
   "set": "sv06.5",
   "category": "case",
   "name": "Shrouded Fable 3 Pack Blister Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9fd0290a-b8b3-5605-b9c4-b549b0053a3a",
       "name": "Shrouded Fable 3 Pack Blister Case",
       "identifiers": {
         "tcgplayerProductIds": [

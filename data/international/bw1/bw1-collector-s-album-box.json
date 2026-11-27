@@ -1,15 +1,18 @@
 {
   "id": "bw1-collector-s-album-box",
+  "uuid": "96eeb7b7-0458-59fd-850c-5c0aa5748881",
   "region": "international",
   "set": "bw1",
   "category": "collection_box",
   "name": "Collector's Album Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a8050a3-5ce5-51c6-9862-4439ef32dddc",
       "name": "Collector's Album Box",
       "identifiers": {
         "tcgplayerProductIds": [

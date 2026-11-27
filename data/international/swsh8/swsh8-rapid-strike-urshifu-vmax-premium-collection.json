@@ -1,9 +1,11 @@
 {
   "id": "swsh8-rapid-strike-urshifu-vmax-premium-collection",
+  "uuid": "18fc4146-89ae-5dfc-a989-feba3539d5d1",
   "region": "international",
   "set": "swsh8",
   "category": "premium_collection",
   "name": "Rapid Strike Urshifu VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f00a8ecb-60cd-5e40-b893-09d58bec6097",
       "name": "Rapid Strike Urshifu VMAX Premium Collection",
       "releaseDate": "2021-11-12",
       "identifiers": {

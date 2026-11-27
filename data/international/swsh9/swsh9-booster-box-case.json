@@ -1,9 +1,11 @@
 {
   "id": "swsh9-booster-box-case",
+  "uuid": "1ce227c6-832c-5fe0-b108-d76b1ac1ec4a",
   "region": "international",
   "set": "swsh9",
   "category": "case",
   "name": "Brilliant Stars Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 668175
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "df9e2b66-bebc-5ddf-9a64-dba9dbf02348",
       "name": "Brilliant Stars Booster Box Case",
       "releaseDate": "2022-02-25",
       "identifiers": {

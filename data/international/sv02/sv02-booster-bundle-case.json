@@ -1,9 +1,11 @@
 {
   "id": "sv02-booster-bundle-case",
+  "uuid": "cdebd708-1f5a-5a5f-a6b1-81d9571fcd06",
   "region": "international",
   "set": "sv02",
   "category": "case",
   "name": "Paldea Evolved Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d85101f5-6983-556e-90c6-435ef582c521",
       "name": "Paldea Evolved Booster Bundle Case",
       "identifiers": {
         "tcgplayerProductIds": [

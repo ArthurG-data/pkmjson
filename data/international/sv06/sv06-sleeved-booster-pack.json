@@ -1,9 +1,11 @@
 {
   "id": "sv06-sleeved-booster-pack",
+  "uuid": "829d0994-90e0-57e9-99a7-00b757a01665",
   "region": "international",
   "set": "sv06",
   "category": "sleeved_booster_pack",
   "name": "Twilight Masquerade Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761218
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "11cfb570-792d-5df7-b4f6-7f17730ef30b",
       "name": "Twilight Masquerade Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

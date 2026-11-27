@@ -1,9 +1,11 @@
 {
   "id": "swshp-morpeko-v-union-special-collection",
+  "uuid": "c16d75fc-7207-5d4f-a790-718f676e2a87",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Morpeko V-UNION Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4d0821ac-5fc9-58be-9da1-e299f6a3e778",
       "name": "Morpeko V-UNION Special Collection",
       "releaseDate": "2022-04-08",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "es",
+      "uuid": "35152632-5ad8-5650-9e29-f2970951b5d4",
       "name": "Colección especial Morpeko V-UNIÓN",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-especial-morpeko-v-union"
@@ -41,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "3311e0e6-f5f0-5099-9c46-3829179d22d6",
       "name": "Collection spéciale Morpeko-V-UNION",
       "releaseDate": "2022-04-08",
       "sources": [
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "c1f447cd-6143-5b7c-b6d5-62f3f038881b",
       "name": "Collezione speciale Morpeko-V UNIONE",
       "releaseDate": "2022-04-08",
       "sources": [
@@ -57,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "ba92a28e-4bbc-5a00-bcfe-053fc59ec09c",
       "name": "Spezial‑Kollektion Morpeko-V-UNION",
       "releaseDate": "2022-04-08",
       "sources": [

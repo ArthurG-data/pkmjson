@@ -1,9 +1,11 @@
 {
   "id": "sv7-booster-pack",
+  "uuid": "1a14b52d-09e0-5db1-8807-863fb17a0d06",
   "region": "asia",
   "set": "SV7",
   "category": "booster_pack",
   "name": "Stellar Miracle Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 773317
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "31607432-2ac6-5b84-b1da-f23f67d6a3d2",
       "name": "拡張パック 「ステラミラクル」",
       "releaseDate": "2024-07-19",
       "identifiers": {

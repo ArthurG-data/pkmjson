@@ -1,9 +1,11 @@
 {
   "id": "sk-collection-box",
+  "uuid": "1602840f-95f4-5f6b-8ec9-5318d7d9611a",
   "region": "asia",
   "set": "SK",
   "category": "collection_box",
   "name": "VStar Premium Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "30783c07-9213-5d5d-9984-3648b1ba37c1",
       "name": "VStar Premium Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

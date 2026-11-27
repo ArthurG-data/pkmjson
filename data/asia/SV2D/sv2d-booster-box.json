@@ -1,9 +1,11 @@
 {
   "id": "sv2d-booster-box",
+  "uuid": "5a4bd0c1-9df2-56e9-81e8-f2ad739e22b1",
   "region": "asia",
   "set": "SV2D",
   "category": "booster_box",
   "name": "Clay Burst Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 702933
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "5a5b0349-39df-54b8-981a-bbc2dff2058b",
       "name": "Clay Burst Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

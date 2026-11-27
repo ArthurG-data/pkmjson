@@ -1,9 +1,11 @@
 {
   "id": "bw5-3-pack-blister-krookodile",
+  "uuid": "842c48a1-9030-513b-a5ec-33101a9e89b9",
   "region": "international",
   "set": "bw5",
   "category": "blister",
   "name": "Dark Explorers 3 Pack Blister [Krookodile]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b440f36d-c9f9-5479-8574-91db2dbfba6b",
       "name": "Dark Explorers 3 Pack Blister [Krookodile]",
       "identifiers": {
         "tcgplayerProductIds": [

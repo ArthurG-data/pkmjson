@@ -1,9 +1,11 @@
 {
   "id": "s7d-booster-box",
+  "uuid": "e1baad2a-da27-5558-9ccc-767f32093084",
   "region": "asia",
   "set": "S7D",
   "category": "booster_box",
   "name": "Skyscraping Perfection Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "35460c8f-8769-5792-a0db-e8881e0b42cf",
       "name": "Skyscraping Perfection Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swsh11-arceus-vstar-ultra-premium-collection-case",
+  "uuid": "94a6f770-c6e0-5e28-a3e1-a70b5c90bb00",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Arceus VSTAR Ultra-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fdf50d1a-ddc0-5285-a819-01d5cdb08361",
       "name": "Arceus VSTAR Ultra-Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm10-prerelease-kit",
+  "uuid": "2aeffa71-44d1-5ba8-8d0b-0317e1808d1e",
   "region": "international",
   "set": "sm10",
   "category": "other",
   "name": "Unbroken Bonds Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01b6a3c2-6a42-5c07-b041-2a217964cf00",
       "name": "Unbroken Bonds Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

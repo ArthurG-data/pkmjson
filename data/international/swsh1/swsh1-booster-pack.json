@@ -1,9 +1,11 @@
 {
   "id": "swsh1-booster-pack",
+  "uuid": "15e59e78-de1f-54a8-8717-cf3945a7ee72",
   "region": "international",
   "set": "swsh1",
   "category": "booster_pack",
   "name": "Sword & Shield Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 427151
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d3476581-4a92-5584-a028-f0336d6eccca",
       "name": "Sword & Shield",
       "releaseDate": "2020-02-07",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "11b1541c-2824-5d0e-8d47-77a447fc2ea4",
       "name": "Épée et Bouclier",
       "sources": [
         "https://www.pokepedia.fr/Coffre_de_collection_%28Printemps_2020%29",

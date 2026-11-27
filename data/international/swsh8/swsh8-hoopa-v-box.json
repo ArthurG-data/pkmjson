@@ -1,9 +1,11 @@
 {
   "id": "swsh8-hoopa-v-box",
+  "uuid": "35c39620-5d49-5dfa-82b4-6ee555f14d8a",
   "region": "international",
   "set": "swsh8",
   "category": "collection_box",
   "name": "Hoopa V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9eafba09-8cb0-5835-b230-26ff2fa6f428",
       "name": "Hoopa V Box",
       "releaseDate": "2021-11-17",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f8e6c7a4-6246-577b-a30f-a68a4bcffeb5",
       "name": "Coffret Hoopa-V",
       "releaseDate": "2021-11-12",
       "sources": [
@@ -48,6 +52,7 @@
     },
     {
       "language": "de",
+      "uuid": "a7cc0f80-dedc-5b31-b04e-d447b71e0dae",
       "name": "Kollektion Hoopa-V",
       "releaseDate": "2021-11-12",
       "sources": [
@@ -56,6 +61,7 @@
     },
     {
       "language": "es",
+      "uuid": "ef150b0d-7837-5b39-bdb8-71879c55bfbe",
       "name": "Colección Hoopa V",
       "releaseDate": "2021-11-12",
       "sources": [

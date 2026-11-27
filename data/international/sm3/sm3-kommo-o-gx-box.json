@@ -1,9 +1,11 @@
 {
   "id": "sm3-kommo-o-gx-box",
+  "uuid": "27ec78b5-a51f-540e-b481-e1d27f8c1a63",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Kommo-o GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "56a2efb1-3bd4-5170-a003-3e190f433c6f",
       "name": "Kommo-o GX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7bc38eee-d98c-5f06-ac86-eae26af51e1e",
       "name": "Coffret Ékaïser",
       "releaseDate": "2017-10-03",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "sm6-single-pack-blister-exeggcute",
+  "uuid": "a964d8b6-0391-5f24-afc4-6f3964c1700e",
   "region": "international",
   "set": "sm6",
   "category": "blister",
   "name": "Forbidden Light Single Pack Blister [Exeggcute]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585976
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aa237a75-b05e-5238-8815-16cd9a11ee63",
       "name": "Forbidden Light Single Pack Blister [Exeggcute]",
       "identifiers": {
         "tcgplayerProductIds": [

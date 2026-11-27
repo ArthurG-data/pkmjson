@@ -1,9 +1,11 @@
 {
   "id": "sm10a-booster-pack",
+  "uuid": "7757287e-138c-5eb5-8bb4-d191766e07d5",
   "region": "asia",
   "set": "SM10a",
   "category": "booster_pack",
   "name": "GG End Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550411
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f8b8e56b-1c36-5990-abe3-c94b47edcd69",
       "name": "強化拡張パック「ジージーエンド」",
       "releaseDate": "2019-04-05",
       "identifiers": {

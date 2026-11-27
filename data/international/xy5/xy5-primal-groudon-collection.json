@@ -1,15 +1,18 @@
 {
   "id": "xy5-primal-groudon-collection",
+  "uuid": "c8352551-b385-5fe4-a1b8-65c62e972ca4",
   "region": "international",
   "set": "xy5",
   "category": "collection_box",
   "name": "Primal Groudon Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "636b63a0-d8b4-59eb-bbb2-33d7130f1bc3",
       "name": "Primal Groudon Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9425f7dd-f448-58b5-8787-49cf2fb22602",
       "name": "Coffret Groudon",
       "contents": {
         "sealed": [

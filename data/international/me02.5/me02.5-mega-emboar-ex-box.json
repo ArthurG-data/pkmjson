@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mega-emboar-ex-box",
+  "uuid": "29f21c51-b3e0-523a-b824-a2a3602a2915",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Ascended Heroes Mega Emboar ex Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 864108
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "668d86c3-9208-5531-ba3d-b162f1b5ed11",
       "name": "Ascended Heroes Mega Emboar ex Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "67d91fa6-10ce-52a2-8a0c-8b4981cdad32",
       "name": "Coffret Méga-Évolution Héros Transcendants Méga-Roitiflam-ex",
       "releaseDate": "2026-04-24",
       "sources": [

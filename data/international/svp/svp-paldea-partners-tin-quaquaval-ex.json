@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-partners-tin-quaquaval-ex",
+  "uuid": "3cce4e43-266a-507e-875b-98f4be4146b2",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Partners Tin [Quaquaval ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6bc5ad17-d975-5169-a0f8-d78c14047c5e",
       "name": "Paldea Partners Tin [Quaquaval ex]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,37 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/504438/pokemon-miscellaneous-cards-and-products-paldea-partners-tin-quaquaval-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "953f02a6-3df4-5a3f-921d-6085a7b7a23e",
+      "name": "Boîte Partenaires de Paldea Palmaval",
+      "releaseDate": "2023-09-01",
+      "contents": {
+        "other": [
+          {
+            "name": "Code card to unlock a promo card in the Pokemon Trading Card Game Online",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv03-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sv01-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "swsh9-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Partenaires_de_Paldea_Palmaval-ex"
       ]
     }
   ]

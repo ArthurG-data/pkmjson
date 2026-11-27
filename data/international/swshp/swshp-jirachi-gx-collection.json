@@ -1,9 +1,11 @@
 {
   "id": "swshp-jirachi-gx-collection",
+  "uuid": "45133f3e-871f-56f2-8c7a-b7abcdc1b6a7",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Jirachi GX Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "24676b89-5232-5a4f-9094-97ade70aac25",
       "name": "Jirachi GX Collection",
       "releaseDate": "2020-11-04",
       "identifiers": {

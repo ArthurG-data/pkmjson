@@ -1,15 +1,18 @@
 {
   "id": "pl1-spring-2009-collector-s-tin-dialga-lv-x",
+  "uuid": "2e016367-c53c-5597-84dd-dc0394e5b52b",
   "region": "international",
   "set": "pl1",
   "category": "tin",
   "name": "Spring 2009 Collector's Tin [Dialga LV.X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 promo card; four booster packs: two from Platinum; two from the Diamond & Pearl Series.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bc634951-c38c-5374-98d2-768b5d05c6a4",
       "name": "Spring 2009 Collector's Tin [Dialga LV.X]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,14 +25,9 @@
     },
     {
       "language": "fr",
+      "uuid": "a41d2151-d50b-503a-9818-eda2026afa07",
       "name": "Boîte Collector Zénith Dialga NIV.X",
       "contents": {
-        "other": [
-          {
-            "name": "From the Diamond & Pearl Series",
-            "count": 2
-          }
-        ],
         "sealed": [
           {
             "product": "pl1-booster-pack",

@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-v-battle-deck-mewtwo-v",
+  "uuid": "0403ca91-ae09-5331-9be3-52992f1fe93b",
   "region": "international",
   "set": "swsh10.5",
   "category": "battle_deck",
   "name": "V Battle Deck [Mewtwo V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0174c06f-c645-5903-ab54-89cabe094c8c",
       "name": "V Battle Deck [Mewtwo V]",
       "releaseDate": "2022-07-01",
       "identifiers": {

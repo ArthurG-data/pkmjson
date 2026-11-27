@@ -1,15 +1,18 @@
 {
   "id": "swsh10.5-pin-collection-case",
+  "uuid": "3b93e2b8-8273-5a58-88fd-219b6f205a4a",
   "region": "international",
   "set": "swsh10.5",
   "category": "case",
   "name": "Pokemon GO Pin Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5837b957-622f-520a-ae33-2874de5930a4",
       "name": "Pokemon GO Pin Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "me01-pokemon-center-elite-trainer-box-exclusive-mega-gardevoir",
+  "uuid": "9be9cdba-b407-58dd-8fad-53937dbfc544",
   "region": "international",
   "set": "me01",
   "category": "elite_trainer_box",
   "name": "Mega Evolution Pokemon Center Elite Trainer Box (Exclusive) [Mega Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834824
   },
@@ -48,6 +50,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0b3ee426-e658-5584-aeae-c48bc01d2187",
       "name": "Mega Evolution Pokemon Center Elite Trainer Box (Exclusive) [Mega Gardevoir]",
       "releaseDate": "2025-09-26",
       "identifiers": {

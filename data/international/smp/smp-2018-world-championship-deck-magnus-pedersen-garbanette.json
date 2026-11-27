@@ -1,15 +1,18 @@
 {
   "id": "smp-2018-world-championship-deck-magnus-pedersen-garbanette",
+  "uuid": "38ff5658-5e35-5dd6-872e-03cd299ebd9f",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2018 World Championship Deck: Magnus Pedersen (Garbanette)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2a12a49a-afa8-5fd2-9225-2c2d0f2c5ccb",
       "name": "2018 World Championship Deck: Magnus Pedersen (Garbanette)",
       "identifiers": {
         "tcgplayerProductIds": [

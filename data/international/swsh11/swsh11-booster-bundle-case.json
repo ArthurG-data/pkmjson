@@ -1,15 +1,18 @@
 {
   "id": "swsh11-booster-bundle-case",
+  "uuid": "f1d9f778-149b-5cb5-aabf-04f04c5989b1",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "13eacf61-cb47-5bb2-8361-5508aa3e6b5f",
       "name": "Lost Origin Booster Bundle Case",
       "identifiers": {
         "tcgplayerProductIds": [

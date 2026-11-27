@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-elite-trainer-box",
+  "uuid": "be499e42-7fbc-516e-8553-8eeaf5458453",
   "region": "international",
   "set": "swsh4.5",
   "category": "elite_trainer_box",
   "name": "Shining Fates Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 526120
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "02e2e2a4-99cd-55ea-a4b8-ba385ca681c7",
       "name": "Shining Fates Elite Trainer Box",
       "releaseDate": "2021-02-19",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fcad07aa-663b-5ec2-ad3d-ec895e17ff35",
       "name": "Coffret Dresseur d'élite Destinées Radieuses",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -41,6 +45,7 @@
     },
     {
       "language": "es",
+      "uuid": "37e0c385-0fb1-5248-a8fa-22fa3c0e6395",
       "name": "Caja de Entrenador Élite de Destinos Brillantes",
       "releaseDate": "2021-03-12",
       "sources": [
@@ -49,6 +54,7 @@
     },
     {
       "language": "it",
+      "uuid": "370d47e3-e6a6-5ceb-9575-df9373e367fd",
       "name": "Set Allenatore Fuoriclasse dell’espansione Destino Splendente",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -57,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "3e199f53-74a0-5730-880f-3e1160943805",
       "name": "Top-Trainer-Box Glänzendes Schicksal",
       "releaseDate": "2021-02-19",
       "sources": [

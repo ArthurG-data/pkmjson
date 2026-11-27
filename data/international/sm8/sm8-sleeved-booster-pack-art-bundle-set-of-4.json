@@ -1,15 +1,18 @@
 {
   "id": "sm8-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "189acf00-0c17-5ed7-b234-a71d42f0e631",
   "region": "international",
   "set": "sm8",
   "category": "other",
   "name": "Lost Thunder Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bee65312-ce4f-577e-9c30-46471707860d",
       "name": "Lost Thunder Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

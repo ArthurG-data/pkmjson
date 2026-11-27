@@ -1,9 +1,11 @@
 {
   "id": "sm7-battle-arena-deck-mega-blastoise",
+  "uuid": "d9010747-f193-5235-ac7f-cd0c81f5ff3f",
   "region": "international",
   "set": "sm7",
   "category": "battle_deck",
   "name": "Battle Arena Deck [Mega Blastoise]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f65c4670-266f-53cf-bd08-bf3c8c819f51",
       "name": "Battle Arena Deck [Mega Blastoise]",
       "releaseDate": "2018-09-21",
       "identifiers": {

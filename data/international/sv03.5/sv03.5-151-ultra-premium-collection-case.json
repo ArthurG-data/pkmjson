@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-ultra-premium-collection-case",
+  "uuid": "63d7d1a4-a320-52a0-afa8-09a805ac4b41",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Ultra-Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5b0f062f-5109-540c-83a4-3341850025fd",
       "name": "151 Ultra-Premium Collection Case",
       "releaseDate": "2023-10-06",
       "identifiers": {

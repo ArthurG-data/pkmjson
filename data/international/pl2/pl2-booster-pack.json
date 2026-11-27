@@ -1,9 +1,11 @@
 {
   "id": "pl2-booster-pack",
+  "uuid": "e9703050-3e8a-5e25-ae5c-58fa160648dd",
   "region": "international",
   "set": "pl2",
   "category": "booster_pack",
   "name": "Rising Rivals Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271879
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "36f6d8d2-2f31-5dac-9429-1005ab286e95",
       "name": "Platinum—Rising Rivals",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ef33c226-7417-56e2-a6b7-8f1d64f59917",
       "name": "Platine - Rivaux Émergeants",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Collector_Z%C3%A9nith_Dialga_NIV.X",

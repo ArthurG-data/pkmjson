@@ -1,15 +1,18 @@
 {
   "id": "mep-play-pokemon-prize-pack-series-eight",
+  "uuid": "c4ccf730-7935-57c3-8715-7748a9534df7",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Play! Pokemon Prize Pack Series Eight",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
   "releases": [
     {
       "language": "en",
+      "uuid": "72221521-c22a-5ef3-9263-b08300f7aec7",
       "name": "Play! Pokemon Prize Pack Series Eight",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/670914/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-eight"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "f7587be6-879d-5237-b068-697592f5bb25",
+      "name": "Pack Récompense Play! Pokémon Série 8",
+      "releaseDate": "2026-01-01",
+      "sources": [
+        "https://www.pokepedia.fr/Pack_R%C3%A9compense_Play%21_Pok%C3%A9mon_S%C3%A9rie_8"
       ]
     }
   ]

@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-surprise-box-case",
+  "uuid": "5fe06858-ebed-5575-a649-5d188aaf4af3",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions Surprise Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "56faf5d0-359c-5af5-a20a-77dd0a867169",
       "name": "Prismatic Evolutions Surprise Box Case",
       "releaseDate": "2025-02-07",
       "identifiers": {

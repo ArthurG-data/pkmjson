@@ -1,9 +1,11 @@
 {
   "id": "xy11-theme-deck-ring-of-lightning-hoopa",
+  "uuid": "445717bc-3c57-521b-8b40-3efe6f5e10c6",
   "region": "international",
   "set": "xy11",
   "category": "theme_deck",
   "name": "Steam Siege Theme Deck - \"Ring of Lightning\" [Hoopa]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293304
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7eeeb5be-bcb6-5c48-a4d4-e6a7f090cd73",
       "name": "Steam Siege Theme Deck - \"Ring of Lightning\" [Hoopa]",
       "identifiers": {
         "tcgplayerProductIds": [

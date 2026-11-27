@@ -1,9 +1,11 @@
 {
   "id": "cel25-elite-trainer-box-case",
+  "uuid": "d8e7436e-56f2-50f4-82c0-25028d93e1a5",
   "region": "international",
   "set": "cel25",
   "category": "case",
   "name": "Celebrations Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 690878
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ff05620d-5304-5276-b12a-a7e91f87c579",
       "name": "Celebrations Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

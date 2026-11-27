@@ -1,9 +1,11 @@
 {
   "id": "mep-hydreigon-ex-dragapult-ex-premium-collection",
+  "uuid": "4c9c5b94-f6da-53e9-a16a-0196b3614b0b",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Hydreigon ex & Dragapult ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de65ae51-3231-5c66-8b53-d3b8acb5982c",
       "name": "Hydreigon ex & Dragapult ex Premium Collection",
       "releaseDate": "2025-10-10",
       "identifiers": {

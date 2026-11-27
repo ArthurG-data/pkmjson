@@ -1,9 +1,11 @@
 {
   "id": "mep-lugia-ex-special-collection",
+  "uuid": "37f51b3b-76ab-5276-b316-d19d5cf6a178",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Lugia ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "74e4179f-e1c9-51f0-932e-6cb3928348c7",
       "name": "Lugia ex Special Collection",
       "releaseDate": "2025-11-28",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm11-power-partnership-tin-lucario-melmetal-gx",
+  "uuid": "a8121873-6c6e-5a25-8500-404061609bff",
   "region": "international",
   "set": "sm11",
   "category": "tin",
   "name": "Power Partnership Tin [Lucario & Melmetal GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "909e5ba6-6ba0-5d1a-8da1-b0e502d6264b",
       "name": "Power Partnership Tin [Lucario & Melmetal GX]",
       "releaseDate": "2019-09-06",
       "identifiers": {

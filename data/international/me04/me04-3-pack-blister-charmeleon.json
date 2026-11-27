@@ -1,9 +1,11 @@
 {
   "id": "me04-3-pack-blister-charmeleon",
+  "uuid": "ac7a0225-c08a-51d2-b6d3-cf18174f177c",
   "region": "international",
   "set": "me04",
   "category": "blister",
   "name": "Chaos Rising 3-Pack Blister [Charmeleon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877290
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d6b2f6a0-badb-5440-9b21-c4ed9b180e5a",
       "name": "Chaos Rising 3-Pack Blister [Charmeleon]",
       "identifiers": {
         "tcgplayerProductIds": [

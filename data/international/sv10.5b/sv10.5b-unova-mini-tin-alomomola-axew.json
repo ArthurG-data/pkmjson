@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-mini-tin-alomomola-axew",
+  "uuid": "a53f56d1-6f60-5bae-b9cd-a235caf4a548",
   "region": "international",
   "set": "sv10.5b",
   "category": "tin",
   "name": "Unova Mini Tin [Alomomola & Axew]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1adb1480-9331-5ce3-b002-08719eedce2e",
       "name": "Unova Mini Tin [Alomomola & Axew]",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a4a2ab11-e1ec-54fc-b51b-cffb684fe14d",
       "name": "Mini-boîte Unys",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "b80ad80e-2911-5cd9-8e69-b0df9610ca20",
       "name": "Mini-Tin-Box Einall",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "351165e0-ce06-55a7-8d43-abb943b095b2",
       "name": "Colecciona las ocho minilatas Teselia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
@@ -61,6 +67,7 @@
     },
     {
       "language": "it",
+      "uuid": "5bd12540-20e3-5909-88d3-3ab18bc4487d",
       "name": "Miniscatola da collezione Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"

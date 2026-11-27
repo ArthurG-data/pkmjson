@@ -1,9 +1,11 @@
 {
-  "id": "sm7-booster-box-576908",
+  "id": "asia-sm7-booster-box",
+  "uuid": "d76974bc-3940-58fa-a61d-f5dad4dbe54f",
   "region": "asia",
   "set": "SM7",
   "category": "booster_box",
   "name": "Sky-Splitting Charisma Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551761
   },
@@ -11,7 +13,7 @@
   "contents": {
     "sealed": [
       {
-        "product": "sm7-booster-pack-576907",
+        "product": "asia-sm7-booster-pack",
         "count": 30
       }
     ]
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "abc1656d-c386-58bb-bd71-b2af602bbafa",
       "name": "Sky-Splitting Charisma Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

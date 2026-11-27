@@ -1,9 +1,11 @@
 {
   "id": "swsh11-build-battle-stadium",
+  "uuid": "23b2e62d-dfa4-51ae-b551-bde64abb13ed",
   "region": "international",
   "set": "swsh11",
   "category": "other",
   "name": "Lost Origin Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "29abcb87-ceac-503b-9fce-908a5c6e21f1",
       "name": "Lost Origin Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [

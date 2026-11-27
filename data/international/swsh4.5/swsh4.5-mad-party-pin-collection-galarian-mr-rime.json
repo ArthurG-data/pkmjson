@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mad-party-pin-collection-galarian-mr-rime",
+  "uuid": "3169d7fe-20f7-5999-963f-c346fa557245",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Mad Party Pin Collection [Galarian Mr. Rime]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9780c4ce-3a3f-5126-995b-6c528d56dc41",
       "name": "Shining Fates Mad Party Pin Collection [Galarian Mr. Rime]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "fr",
+      "uuid": "57bc9a1b-1621-528b-9bed-69859ceae6fd",
       "name": "Collection Folle Aventure avec pin's Destinées Radieuses M. Glaquette de Galar",
       "releaseDate": "2021-02-19",
       "sources": [

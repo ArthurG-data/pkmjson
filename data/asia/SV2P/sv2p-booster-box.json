@@ -1,9 +1,11 @@
 {
   "id": "sv2p-booster-box",
+  "uuid": "499ee471-01b6-5a57-873b-bbbee4d80d2e",
   "region": "asia",
   "set": "SV2P",
   "category": "booster_box",
   "name": "Snow Hazard Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 702932
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "cabacf28-6f72-55af-a867-45d37242ee8c",
       "name": "Snow Hazard Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

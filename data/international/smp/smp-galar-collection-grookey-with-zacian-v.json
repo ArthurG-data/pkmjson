@@ -1,9 +1,11 @@
 {
   "id": "smp-galar-collection-grookey-with-zacian-v",
+  "uuid": "f025185c-7a7a-56ba-81f5-04925eb0a5ba",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Galar Collection [Grookey] - with Zacian V",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8023d72-0ab6-5774-94cd-bddcd4736c08",
       "name": "Galar Collection [Grookey] - with Zacian V",
       "releaseDate": "2019-11-15",
       "identifiers": {

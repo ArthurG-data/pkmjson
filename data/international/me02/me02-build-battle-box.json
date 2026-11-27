@@ -1,9 +1,11 @@
 {
   "id": "me02-build-battle-box",
+  "uuid": "84d9e46e-15c4-53b1-9d77-533a785039f2",
   "region": "international",
   "set": "me02",
   "category": "build_and_battle_box",
   "name": "Phantasmal Flames Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846742
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f3598e8f-fd36-5b84-929e-f6b309dd2b14",
       "name": "Phantasmal Flames Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

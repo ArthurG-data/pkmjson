@@ -1,15 +1,18 @@
 {
   "id": "swsh2-build-battle-display",
+  "uuid": "3e5c4f7e-3346-5492-bf14-852eb70782af",
   "region": "international",
   "set": "swsh2",
   "category": "case",
   "name": "Rebel Clash Build & Battle Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "645e2e37-c2c0-5a73-854d-83c5efe95f1c",
       "name": "Rebel Clash Build & Battle Display",
       "identifiers": {
         "tcgplayerProductIds": [

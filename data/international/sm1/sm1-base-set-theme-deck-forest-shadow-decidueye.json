@@ -1,9 +1,11 @@
 {
   "id": "sm1-base-set-theme-deck-forest-shadow-decidueye",
+  "uuid": "bc5207cc-ffdd-50ed-b332-ab00ef803152",
   "region": "international",
   "set": "sm1",
   "category": "theme_deck",
   "name": "Sun & Moon Base Set Theme Deck - \"Forest Shadow\" [Decidueye]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 295478
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6b8d606d-4ea8-56f6-aa04-415ab4f59677",
       "name": "Sun & Moon Base Set Theme Deck - \"Forest Shadow\" [Decidueye]",
       "identifiers": {
         "tcgplayerProductIds": [

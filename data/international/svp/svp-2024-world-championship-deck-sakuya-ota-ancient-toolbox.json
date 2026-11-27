@@ -1,9 +1,11 @@
 {
   "id": "svp-2024-world-championship-deck-sakuya-ota-ancient-toolbox",
+  "uuid": "2cc4c1bd-46d8-51f1-aa37-a9d5c04adfa9",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2024 World Championship Deck: Sakuya Ota (Ancient Toolbox)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2f63d002-9d17-584a-9d53-54582785584e",
       "name": "2024 World Championship Deck: Sakuya Ota (Ancient Toolbox)",
       "releaseDate": "2025-05-16",
       "identifiers": {

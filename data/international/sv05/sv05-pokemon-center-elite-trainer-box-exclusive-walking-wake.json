@@ -1,9 +1,11 @@
 {
   "id": "sv05-pokemon-center-elite-trainer-box-exclusive-walking-wake",
+  "uuid": "d692e0f4-cd26-5b0b-9038-84ded453c368",
   "region": "international",
   "set": "sv05",
   "category": "elite_trainer_box",
   "name": "Temporal Forces Pokemon Center Elite Trainer Box (Exclusive) [Walking Wake]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750413
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2530e962-c7b6-51b3-ba59-2fb20ba12f93",
       "name": "Temporal Forces Pokemon Center Elite Trainer Box (Exclusive) [Walking Wake]",
       "identifiers": {
         "tcgplayerProductIds": [

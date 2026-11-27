@@ -1,9 +1,11 @@
 {
   "id": "swshp-enhanced-2-pack-blister-pack-alolan-dugtrio-alolan-muk-alolan-golem",
+  "uuid": "293c09fa-45d6-5bb8-836b-645675f000a3",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Enhanced 2-Pack Blister Pack [Alolan Dugtrio, Alolan Muk, & Alolan Golem]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b87686b5-e516-5f0b-b135-ec2208d530bb",
       "name": "Enhanced 2-Pack Blister Pack [Alolan Dugtrio, Alolan Muk, & Alolan Golem]",
       "identifiers": {
         "tcgplayerProductIds": [

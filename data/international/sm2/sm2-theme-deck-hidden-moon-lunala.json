@@ -1,9 +1,11 @@
 {
   "id": "sm2-theme-deck-hidden-moon-lunala",
+  "uuid": "89631947-3771-53ee-8361-21ef4d27529f",
   "region": "international",
   "set": "sm2",
   "category": "theme_deck",
   "name": "Guardians Rising Theme Deck - \"Hidden Moon\" [Lunala]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 296948
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "142eabeb-3a7e-54ff-96d7-75d8897a6f0b",
       "name": "Guardians Rising Theme Deck - \"Hidden Moon\" [Lunala]",
       "identifiers": {
         "tcgplayerProductIds": [

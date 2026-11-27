@@ -1,15 +1,18 @@
 {
   "id": "sm7-solgaleo-gx-box-lunala-gx-box",
+  "uuid": "f9d19fa0-1321-52ad-a3d8-78e63e47d114",
   "region": "international",
   "set": "sm7",
   "category": "collection_box",
   "name": "Solgaleo GX Box & Lunala GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "03c9d298-f18d-5bc0-a680-b6fece055117",
       "name": "Solgaleo GX Box & Lunala GX Box",
       "releaseDate": "2018-10-05",
       "identifiers": {
@@ -23,6 +26,7 @@
     },
     {
       "language": "de",
+      "uuid": "b33baa8d-e76c-5079-bc4f-8ee54e86c87f",
       "name": "Kollektion Solgaleo-GX und Kollektion Lunala-GX",
       "releaseDate": "2018-10-05",
       "sources": [
@@ -31,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8f3247e0-097e-5516-9c1a-186521d208f6",
       "name": "Coffrets Solgaleo-GX et Lunala-GX",
       "releaseDate": "2018-10-05",
       "sources": [

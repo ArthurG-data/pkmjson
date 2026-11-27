@@ -1,15 +1,18 @@
 {
   "id": "svp-charizard-ex-premium-collection-case",
+  "uuid": "ba1ec884-99ce-533f-b6eb-cd6d2693b5c0",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Charizard ex Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "72a85f6e-fac5-5e8e-919d-337e9a19d303",
       "name": "Charizard ex Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

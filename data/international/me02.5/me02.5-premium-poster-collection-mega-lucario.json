@@ -1,9 +1,11 @@
 {
   "id": "me02.5-premium-poster-collection-mega-lucario",
+  "uuid": "2932e0b0-3d33-50d7-a528-5b37114e464a",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Premium Poster Collection: Mega Lucario",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860576
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "45a71672-d26e-58fc-8089-59d11ceda5cf",
       "name": "Premium Poster Collection: Mega Lucario",
       "releaseDate": "2026-03-20",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c652424e-232a-5976-856c-65f5a727a8d3",
       "name": "Collection poster Premium Méga-Évolution Héros Transcendants Méga-Lucario",
       "releaseDate": "2026-03-20",
       "sources": [

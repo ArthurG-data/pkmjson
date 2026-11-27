@@ -1,15 +1,18 @@
 {
   "id": "svp-ex-tin-keldeo",
+  "uuid": "5e8ca5d7-6139-5bde-9854-8a1b2a1d87f2",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "EX Tin [Keldeo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "eac55a5e-f4d7-5703-b2e8-5b68733e6ed9",
       "name": "EX Tin [Keldeo]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,30 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/625906/pokemon-miscellaneous-cards-and-products-ex-tin-keldeo"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "61e8484b-f161-522b-b365-bc5fca6a97bc",
+      "name": "Boîte Puissance EX Keldeo",
+      "contents": {
+        "sealed": [
+          {
+            "product": "bw7-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw3-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "bw2-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Puissance_EX_Keldeo-EX"
       ]
     }
   ]

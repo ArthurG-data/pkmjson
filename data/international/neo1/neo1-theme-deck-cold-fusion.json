@@ -1,9 +1,11 @@
 {
   "id": "neo1-theme-deck-cold-fusion",
+  "uuid": "db9bf575-04fc-5ef1-89b1-ba85a798e567",
   "region": "international",
   "set": "neo1",
   "category": "theme_deck",
   "name": "Neo Genesis Theme Deck - \"Cold Fusion\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286565
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9858b215-1b21-55f2-b36a-1ddebd05ad7c",
       "name": "Neo Genesis Theme Deck - \"Cold Fusion\"",
       "identifiers": {
         "tcgplayerProductIds": [

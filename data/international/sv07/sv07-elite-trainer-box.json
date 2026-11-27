@@ -1,9 +1,11 @@
 {
   "id": "sv07-elite-trainer-box",
+  "uuid": "78a82338-0d2d-5795-8250-ef6a40a6890b",
   "region": "international",
   "set": "sv07",
   "category": "elite_trainer_box",
   "name": "Stellar Crown Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776336
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9c212367-a803-5f12-8f88-d039f571f587",
       "name": "Stellar Crown Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -84,6 +87,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b2643926-99e4-5be6-a82f-f50cb9e48b45",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Couronne Stellaire",
       "releaseDate": "2024-09-13",
       "sources": [
@@ -92,6 +96,7 @@
     },
     {
       "language": "it",
+      "uuid": "2f0f232a-c446-5607-80f4-0f050cbabd33",
       "name": "Set Allenatore Fuoriclasse dell’espansione Scarlatto e Violetto - Corona Astrale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-corona-astrale"

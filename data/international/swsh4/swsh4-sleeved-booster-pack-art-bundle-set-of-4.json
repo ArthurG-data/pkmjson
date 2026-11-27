@@ -1,15 +1,18 @@
 {
   "id": "swsh4-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "89feed60-11e7-53f2-9f66-d66ade17026e",
   "region": "international",
   "set": "swsh4",
   "category": "other",
   "name": "Vivid Voltage Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "479b44d1-aa09-56d8-8206-d65ef210b4df",
       "name": "Vivid Voltage Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

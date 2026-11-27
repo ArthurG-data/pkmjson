@@ -1,15 +1,18 @@
 {
   "id": "dc1-team-magma-blister",
+  "uuid": "780a2339-7b04-5195-a4c1-df6cda4c6614",
   "region": "international",
   "set": "dc1",
   "category": "blister",
   "name": "Double Crisis: Team Magma Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b9f18523-d4df-5b93-b379-14cdd6d2c33c",
       "name": "Double Crisis: Team Magma Blister",
       "identifiers": {
         "tcgplayerProductIds": [

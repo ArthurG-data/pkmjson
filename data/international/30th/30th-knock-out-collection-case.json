@@ -1,15 +1,18 @@
 {
   "id": "30th-knock-out-collection-case",
+  "uuid": "5d15af29-3a65-5317-95d7-a010a08445d7",
   "region": "international",
   "set": "30th",
   "category": "case",
   "name": "30th Celebration Knock Out Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "52ccd088-cc16-5e02-8681-32ba45a78a90",
       "name": "30th Celebration Knock Out Collection Case",
       "releaseDate": "2026-09-16",
       "identifiers": {

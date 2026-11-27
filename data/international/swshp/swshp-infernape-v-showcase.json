@@ -1,9 +1,11 @@
 {
   "id": "swshp-infernape-v-showcase",
+  "uuid": "be31a62a-4373-597c-b465-cda36c59bcd4",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Infernape V Showcase",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "db63a6a4-280a-5b2c-8bea-f8a8dd7f69b5",
       "name": "Infernape V Showcase",
       "releaseDate": "2022-09-09",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "swsh3-elite-trainer-box-case",
+  "uuid": "db1843ae-eff7-59a8-b603-1ac38b715d52",
   "region": "international",
   "set": "swsh3",
   "category": "case",
   "name": "Darkness Ablaze Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873112
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d177d307-650f-571b-9648-b6de8d7fbec1",
       "name": "Darkness Ablaze Elite Trainer Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv07-sleeved-booster-master-carton",
+  "uuid": "3870f8c3-162b-52e4-a7c3-395134871937",
   "region": "international",
   "set": "sv07",
   "category": "sleeved_booster_pack",
   "name": "Stellar Crown Sleeved Booster Master Carton",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b7357e91-4a26-5665-a77e-e71fbb1c19bf",
       "name": "Stellar Crown Sleeved Booster Master Carton",
       "releaseDate": "2024-09-13",
       "identifiers": {

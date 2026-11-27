@@ -1,9 +1,11 @@
 {
   "id": "svp-vibrant-paldea-mini-tin-ceruledge",
+  "uuid": "01ef9ce8-8e7d-566a-a867-89920542e979",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Vibrant Paldea Mini Tin [Ceruledge]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ab40a846-48b8-5974-b12e-70fb6f8dc28e",
       "name": "Vibrant Paldea Mini Tin [Ceruledge]",
       "releaseDate": "2024-06-07",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "918a3c63-94bc-5ac7-96e9-31706a199219",
       "name": "Mini‑boîte Magnifique Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-magnifique-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "b665d15c-84fe-5d81-9e0e-cf24dbd80f10",
       "name": "Miniscatola da collezione Paldea Sfavillante",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-paldea-sfavillante"

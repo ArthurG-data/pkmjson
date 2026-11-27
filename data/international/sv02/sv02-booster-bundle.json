@@ -1,9 +1,11 @@
 {
   "id": "sv02-booster-bundle",
+  "uuid": "27845cac-fcd6-5ff6-adfc-1850b1569068",
   "region": "international",
   "set": "sv02",
   "category": "booster_bundle",
   "name": "Paldea Evolved Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703164
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e7781cb4-51c8-5de0-9fa9-d5509334682d",
       "name": "Paldea Evolved Booster Bundle",
       "identifiers": {
         "tcgplayerProductIds": [

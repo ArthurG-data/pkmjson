@@ -1,9 +1,11 @@
 {
   "id": "xyp-2016-world-championship-deck-jesper-eriksen-bebe-deck",
+  "uuid": "bfc4dd1c-4dee-5ba0-bed0-e42b7f1c9817",
   "region": "international",
   "set": "xyp",
   "category": "battle_deck",
   "name": "2016 World Championship Deck: Jesper Eriksen (Bebe Deck)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5d9419c8-c663-56df-bb2e-a821365b7cda",
       "name": "2016 World Championship Deck: Jesper Eriksen (Bebe Deck)",
       "identifiers": {
         "tcgplayerProductIds": [

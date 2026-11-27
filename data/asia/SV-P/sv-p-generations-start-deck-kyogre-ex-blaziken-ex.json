@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-kyogre-ex-blaziken-ex",
+  "uuid": "cba349c4-66bf-51aa-bc3d-0e59f0c30004",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Kyogre ex & Blaziken ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3d4a33ca-6caf-5bca-a4a2-4ebe5ca3d0f0",
       "name": "スタートデッキGenerations カイオーガex・バシャーモex",
       "releaseDate": "2024-11-22",
       "identifiers": {

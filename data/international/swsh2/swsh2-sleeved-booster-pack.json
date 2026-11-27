@@ -1,9 +1,11 @@
 {
   "id": "swsh2-sleeved-booster-pack",
+  "uuid": "b182dee8-fa50-5781-9032-89041fd14579",
   "region": "international",
   "set": "swsh2",
   "category": "sleeved_booster_pack",
   "name": "Rebel Clash Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674703
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4b4bdee5-748a-53dd-8839-076d3c7cc410",
       "name": "Rebel Clash Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

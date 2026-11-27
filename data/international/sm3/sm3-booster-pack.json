@@ -1,9 +1,11 @@
 {
   "id": "sm3-booster-pack",
+  "uuid": "8b13a6ed-2731-5ee1-8c3f-6ecf4ab48d11",
   "region": "international",
   "set": "sm3",
   "category": "booster_pack",
   "name": "Burning Shadows Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 298777
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "548ca0dc-c918-5f97-b3a0-65d552d70c9e",
       "name": "Sun & Moon—Burning Shadows",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "66564929-a64f-5714-92ee-e6d7796da025",
       "name": "Soleil et Lune – Ombres Ardentes",
       "sources": [
         "https://www.pokepedia.fr/Collection_avec_figurine_Reshiram_et_Dracaufeu-GX",

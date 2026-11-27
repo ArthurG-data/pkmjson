@@ -1,9 +1,11 @@
 {
   "id": "sv04.5-tech-sticker-collection-fidough",
+  "uuid": "35127167-ca2b-5c40-9725-7676bb792d4e",
   "region": "international",
   "set": "sv04.5",
   "category": "collection_box",
   "name": "Paldean Fates Tech Sticker Collection [Fidough]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 745545
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "faac6b41-3969-57fc-9a6d-c9529cbd1d6a",
       "name": "Paldean Fates Tech Sticker Collection [Fidough]",
       "releaseDate": "2024-01-26",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "1bb53394-d629-588a-9741-9af6163dd437",
       "name": "Collection autocollant réajustable Écarlate et Violet Destinées de Paldea Pâtachiot",
       "releaseDate": "2024-01-26",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "svp-2024-world-championship-deck-fernando-cifuentes-crushing-thorn",
+  "uuid": "6c40c5eb-ff97-5223-8320-13f1f4e4ff67",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2024 World Championship Deck: Fernando Cifuentes (Crushing Thorn)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1c9503f2-9d3e-51c3-b0ce-75edd776b8b3",
       "name": "2024 World Championship Deck: Fernando Cifuentes (Crushing Thorn)",
       "releaseDate": "2025-05-16",
       "identifiers": {

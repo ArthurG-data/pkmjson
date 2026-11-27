@@ -1,9 +1,11 @@
 {
   "id": "xy1-base-set-sleeved-booster-pack",
+  "uuid": "90dc0205-ad5b-5403-8f57-a73d2119b9b6",
   "region": "international",
   "set": "xy1",
   "category": "sleeved_booster_pack",
   "name": "XY Base Set Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf2bd4e8-60f3-53aa-99e6-5f6f06420bb9",
       "name": "XY Base Set Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

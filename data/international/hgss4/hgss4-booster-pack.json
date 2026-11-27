@@ -1,9 +1,11 @@
 {
   "id": "hgss4-booster-pack",
+  "uuid": "387d3d41-274d-58a4-9fb2-4d9661c617bc",
   "region": "international",
   "set": "hgss4",
   "category": "booster_pack",
   "name": "Triumphant Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271851
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "79722599-c4e3-53ee-b8f8-ab0d831fd770",
       "name": "Pokémon TCG: HS—Triumphant",
       "identifiers": {
         "tcgplayerProductIds": [

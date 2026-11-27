@@ -1,9 +1,11 @@
 {
   "id": "mep-mega-lucario-ex-premium-figure-collection",
+  "uuid": "5b00bfb0-f59d-5a38-bdc5-430c2e42ec5e",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Mega Lucario ex Premium Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "12227560-bb6b-50c0-8bf1-c7aeedb0277b",
       "name": "Mega Lucario ex Premium Figure Collection",
       "releaseDate": "2025-11-07",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "eb02bb90-6c53-51cb-b9e7-abf5f728f24e",
       "name": "Collection avec figurine Méga-Lucario-ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-avec-figurine-mega-lucario-ex"
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "ec9eddf8-9c7f-5647-9760-be9c353a2c84",
       "name": "Collezione con statuina Mega Lucario-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-con-statuina-mega-lucario-ex"
@@ -48,6 +53,7 @@
     },
     {
       "language": "de",
+      "uuid": "754812b1-b468-5682-9a07-528ace00f1ee",
       "name": "Figuren-Kollektion Mega-Lucario-ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/figuren-kollektion-mega-lucario-ex"
@@ -55,6 +61,7 @@
     },
     {
       "language": "es",
+      "uuid": "e5cf778e-123e-5b69-b122-47c025ed73a4",
       "name": "Colección con figura Mega-Lucario ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-con-figura-mega-lucario-ex"

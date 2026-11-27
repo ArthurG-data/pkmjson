@@ -1,9 +1,11 @@
 {
   "id": "sv02-single-pack-blister-growlithe",
+  "uuid": "e12c9ca7-0ac6-5ac0-a167-80914d972862",
   "region": "international",
   "set": "sv02",
   "category": "blister",
   "name": "Paldea Evolved Single Pack Blister [Growlithe]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703167
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2d26a905-b1b4-5390-88cd-82542d8114db",
       "name": "Paldea Evolved Single Pack Blister [Growlithe]",
       "identifiers": {
         "tcgplayerProductIds": [

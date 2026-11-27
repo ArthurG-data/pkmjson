@@ -1,9 +1,11 @@
 {
   "id": "sm9-premium-checklane-blister-gyarados",
+  "uuid": "e75a99bd-6e9f-542b-b2db-4daa208bd33b",
   "region": "international",
   "set": "sm9",
   "category": "blister",
   "name": "Team Up Premium Checklane Blister [Gyarados]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d365a6da-d111-56a3-8dc3-675ca38fc85f",
       "name": "Team Up Premium Checklane Blister [Gyarados]",
       "identifiers": {
         "tcgplayerProductIds": [

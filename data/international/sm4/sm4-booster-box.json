@@ -1,9 +1,11 @@
 {
   "id": "sm4-booster-box",
+  "uuid": "3de0519b-8bbf-58bb-9572-74584ccb8630",
   "region": "international",
   "set": "sm4",
   "category": "booster_box",
   "name": "Crimson Invasion Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301169
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8bd5b3f3-9684-55f5-81f3-3b47818a5ada",
       "name": "Crimson Invasion Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

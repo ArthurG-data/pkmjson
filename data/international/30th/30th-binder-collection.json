@@ -1,9 +1,11 @@
 {
   "id": "30th-binder-collection",
+  "uuid": "2dcfd9cf-bcc4-5d41-8bb1-16bdfe62106a",
   "region": "international",
   "set": "30th",
   "category": "collection_box",
   "name": "30th Celebration Binder Collection",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895560
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9d142d3e-5811-5823-8783-9bcc0b78ea4d",
       "name": "30th Celebration Binder Collection",
       "releaseDate": "2026-12-04",
       "identifiers": {

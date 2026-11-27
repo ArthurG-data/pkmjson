@@ -1,15 +1,18 @@
 {
   "id": "swsh12-sleeved-booster-pack-bundle-set-of-8",
+  "uuid": "34673452-ec9d-5cc4-8198-1e25b516b983",
   "region": "international",
   "set": "swsh12",
   "category": "other",
   "name": "Silver Tempest Sleeved Booster Pack Bundle [Set of 8]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 8 Sleeved Booster packs for Silver Tempest; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ed0ee7d6-8966-519c-b8e1-0b9de9e8611c",
       "name": "Silver Tempest Sleeved Booster Pack Bundle [Set of 8]",
       "identifiers": {
         "tcgplayerProductIds": [

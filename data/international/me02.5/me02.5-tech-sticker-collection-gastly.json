@@ -1,9 +1,11 @@
 {
   "id": "me02.5-tech-sticker-collection-gastly",
+  "uuid": "d77815d1-211b-5c56-b7c7-0d3f291933a0",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Gastly",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 860566
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a20958bd-04c2-5511-87de-04d3cacb8ea5",
       "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Gastly",
       "releaseDate": "2026-01-30",
       "identifiers": {
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "fdc4d8b6-f049-5534-bf7a-c6d31554a21f",
       "name": "Collection autocollant réajustable Méga-Évolution Héros Transcendants Fantominus",
       "releaseDate": "2026-01-30",
       "sources": [

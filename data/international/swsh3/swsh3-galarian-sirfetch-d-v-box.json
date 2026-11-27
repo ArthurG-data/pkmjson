@@ -1,9 +1,11 @@
 {
   "id": "swsh3-galarian-sirfetch-d-v-box",
+  "uuid": "4a45f762-3791-5af6-a4e4-7a6c5b53c48f",
   "region": "international",
   "set": "swsh3",
   "category": "collection_box",
   "name": "Galarian Sirfetch'd V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "567d76ee-0ec4-5599-9644-73f76d0e9fd7",
       "name": "Galarian Sirfetch'd V Box",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e84687eb-2513-5e60-9107-ed7d3f0a1ae9",
       "name": "Coffret Palarticho de Galar",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "it",
+      "uuid": "403d41ad-4a67-52ae-bd37-7e8c2529cf8f",
       "name": "Collezione Sirfetch’d di Galar-V",
       "releaseDate": "2020-09-25",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "de",
+      "uuid": "ec85a864-b4a4-5d7e-b489-99108ac217fc",
       "name": "Kollektion Galar-Lauchzelot-V",
       "releaseDate": "2020-09-25",
       "sources": [

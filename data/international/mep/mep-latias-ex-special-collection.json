@@ -1,9 +1,11 @@
 {
   "id": "mep-latias-ex-special-collection",
+  "uuid": "544db645-ef4f-504a-a4e1-3dcfd53cea46",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Latias ex Special Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8190dee2-ff65-54e8-abec-39d2f96258da",
       "name": "Latias ex Special Collection",
       "identifiers": {
         "tcgplayerProductIds": [

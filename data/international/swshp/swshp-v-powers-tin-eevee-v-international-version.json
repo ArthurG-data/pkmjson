@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-eevee-v-international-version",
+  "uuid": "90b2dad9-cf00-5d2d-85b0-3e7fd51576d7",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Eevee V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6c35f821-f2bc-52df-92fb-a02dabc53569",
       "name": "V Powers Tin [Eevee V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

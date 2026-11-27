@@ -1,9 +1,11 @@
 {
   "id": "swsh6-premium-checklane-blister-decidueye",
+  "uuid": "e6716ef5-9098-5268-b213-9be8617b9e34",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign Premium Checklane Blister [Decidueye]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585719
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "56992064-ee34-50e7-b439-fb643a401963",
       "name": "Chilling Reign Premium Checklane Blister [Decidueye]",
       "releaseDate": "2021-06-18",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "me02.5-collection-larry-3-tab",
+  "uuid": "4497a5c1-4605-5076-bc75-3db3b3447f85",
   "region": "international",
   "set": "me02.5",
   "category": "collection_box",
   "name": "Mega Evolution: Ascended Heroes Collection - Larry (3-Tab)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ae3072bd-6995-5123-b004-de1858b257c4",
       "name": "Mega Evolution: Ascended Heroes Collection - Larry (3-Tab)",
       "identifiers": {
         "tcgplayerProductIds": [

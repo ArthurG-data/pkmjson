@@ -1,9 +1,11 @@
 {
   "id": "sv04-elite-trainer-box-roaring-moon",
+  "uuid": "2985d93b-0258-5c51-8dab-5009cc3ddd85",
   "region": "international",
   "set": "sv04",
   "category": "elite_trainer_box",
   "name": "Paradox Rift Elite Trainer Box [Roaring Moon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728727
   },
@@ -54,6 +56,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e08b182e-0862-55f9-892b-78246964cd15",
       "name": "Paradox Rift Elite Trainer Box [Roaring Moon]",
       "identifiers": {
         "tcgplayerProductIds": [

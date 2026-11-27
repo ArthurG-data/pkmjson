@@ -1,15 +1,18 @@
 {
   "id": "swsh9-build-battle-box-display",
+  "uuid": "7f070e16-375d-54ef-834c-90810d5bad2a",
   "region": "international",
   "set": "swsh9",
   "category": "case",
   "name": "Brilliant Stars Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b67f4b2a-2a82-5a26-aed1-7d5076d375a2",
       "name": "Brilliant Stars Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "me02.5-first-partners-deluxe-pin-collection-case",
+  "uuid": "2707dbc3-56b4-5803-89a3-9ebc7f7d157e",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Ascended Heroes First Partners Deluxe Pin Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "51e830ca-9a68-59bc-b15a-8a5cadae9b9d",
       "name": "Ascended Heroes First Partners Deluxe Pin Collection Case",
       "releaseDate": "2026-03-20",
       "identifiers": {

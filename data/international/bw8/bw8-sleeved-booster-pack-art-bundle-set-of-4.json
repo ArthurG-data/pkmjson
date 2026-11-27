@@ -1,15 +1,18 @@
 {
   "id": "bw8-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "11db0839-efc4-56a7-a22f-9186bce47055",
   "region": "international",
   "set": "bw8",
   "category": "other",
   "name": "Plasma Storm Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "82bc7e97-4c4e-5889-a020-cd9e61501043",
       "name": "Plasma Storm Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

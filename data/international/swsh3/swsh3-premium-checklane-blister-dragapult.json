@@ -1,9 +1,11 @@
 {
   "id": "swsh3-premium-checklane-blister-dragapult",
+  "uuid": "56ff44d3-105f-56ff-ae0f-6d34cead10c9",
   "region": "international",
   "set": "swsh3",
   "category": "blister",
   "name": "Darkness Ablaze Premium Checklane Blister [Dragapult]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585876
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de6fa072-b9d6-5ff2-804e-9a6288ac6501",
       "name": "Darkness Ablaze Premium Checklane Blister [Dragapult]",
       "releaseDate": "2020-08-14",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "xy5-legend-of-hoenn-tin-groudon-ex",
+  "uuid": "74fb7620-977f-5f3c-89a7-0717f4312dce",
   "region": "international",
   "set": "xy5",
   "category": "tin",
   "name": "Legend of Hoenn Tin [Groudon EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d95dda4a-45b5-59c1-8be9-258bc1b5ef36",
       "name": "Legend of Hoenn Tin [Groudon EX]",
       "identifiers": {
         "tcgplayerProductIds": [

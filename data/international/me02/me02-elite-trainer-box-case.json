@@ -1,9 +1,11 @@
 {
   "id": "me02-elite-trainer-box-case",
+  "uuid": "3c864c1f-8145-554d-bcd3-07c0c6276278",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846732
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b1d4b7ed-df0f-5ebd-888f-eeee17f478e0",
       "name": "Phantasmal Flames Elite Trainer Box Case",
       "releaseDate": "2025-11-14",
       "identifiers": {

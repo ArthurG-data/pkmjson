@@ -1,9 +1,11 @@
 {
   "id": "sm3.5-pin-collection-mewtwo",
+  "uuid": "6fdc27de-2cbd-5a15-9060-550c47a8e21d",
   "region": "international",
   "set": "sm3.5",
   "category": "collection_box",
   "name": "Shining Legends Pin Collection: Mewtwo",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 301161
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "76ac41bc-6d0b-5949-96c4-79a91c54662c",
       "name": "Shining Legends Pin Collection: Mewtwo",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "26db4e1c-640b-58bf-8560-5f8a88c9c24f",
       "name": "Collection avec pin's Légendes Brillantes Mewtwo",
       "releaseDate": "2017-10-07",
       "sources": [

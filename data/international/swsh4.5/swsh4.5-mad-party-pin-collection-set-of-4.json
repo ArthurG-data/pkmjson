@@ -1,15 +1,18 @@
 {
   "id": "swsh4.5-mad-party-pin-collection-set-of-4",
+  "uuid": "18174c37-ebb5-5a52-80a4-3c0b25caad1c",
   "region": "international",
   "set": "swsh4.5",
   "category": "other",
   "name": "Shining Fates Mad Party Pin Collection [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5e591843-f99c-5722-ad87-a4efd1820e1c",
       "name": "Shining Fates Mad Party Pin Collection [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

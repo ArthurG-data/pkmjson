@@ -1,15 +1,18 @@
 {
   "id": "sv10.5w-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "f8d9bb71-1a46-5950-95b6-db9fa29fc464",
   "region": "international",
   "set": "sv10.5w",
   "category": "case",
   "name": "White Flare Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e72a8c7b-3d51-5c6c-9270-2cdee0cf5edf",
       "name": "White Flare Pokemon Center Elite Trainer Box (Exclusive) Case",
       "releaseDate": "2025-07-18",
       "identifiers": {

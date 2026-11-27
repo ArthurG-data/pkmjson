@@ -1,15 +1,18 @@
 {
   "id": "xy4-hoenn-collection-primal-groudon-ex",
+  "uuid": "6c45c9fc-e723-58fb-8907-002bb51898c0",
   "region": "international",
   "set": "xy4",
   "category": "collection_box",
   "name": "Hoenn Collection [Primal Groudon EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "ec4baa11-a80d-5744-ac68-1d0af78493c3",
       "name": "Hoenn Collection [Primal Groudon EX]",
       "identifiers": {
         "tcgplayerProductIds": [

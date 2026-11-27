@@ -1,9 +1,11 @@
 {
   "id": "xy5-three-pack-blister-furfrou",
+  "uuid": "a227a0d5-8cef-5194-a3a8-5490a586ba7e",
   "region": "international",
   "set": "xy5",
   "category": "blister",
   "name": "Primal Clash Three Pack Blister [Furfrou]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "01b97b3d-0b61-5e77-9d7c-1de0d90c6ccc",
       "name": "Primal Clash Three Pack Blister [Furfrou]",
       "identifiers": {
         "tcgplayerProductIds": [

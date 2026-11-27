@@ -1,9 +1,11 @@
 {
   "id": "sv09-elite-trainer-box",
+  "uuid": "191efbd9-eb3c-5941-9b0e-ea318fd722e4",
   "region": "international",
   "set": "sv09",
   "category": "elite_trainer_box",
   "name": "Journey Together Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805593
   },
@@ -64,6 +66,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3620980a-7df3-53e6-9da1-d01b996a54d5",
       "name": "Journey Together Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -76,6 +79,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f54b931e-d81e-54c2-8072-073b8e6f3a52",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Aventures Ensemble",
       "releaseDate": "2025-03-28",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "sv09-premium-checklane-blister-rhyperior",
+  "uuid": "df7569ca-10b8-5d23-8a39-59e295682775",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together Premium Checklane Blister [Rhyperior]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805589
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0f035bfe-b7c7-588d-bfc4-6df2f8e1b2f2",
       "name": "Journey Together Premium Checklane Blister [Rhyperior]",
       "identifiers": {
         "tcgplayerProductIds": [

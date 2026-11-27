@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-elite-trainer-box",
+  "uuid": "a385e6d4-43ad-5f28-a655-2e774f0ba133",
   "region": "international",
   "set": "swsh12.5",
   "category": "elite_trainer_box",
   "name": "Crown Zenith Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 683009
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3be01aea-38e1-5091-8945-58e95bc10bc1",
       "name": "Crown Zenith Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -70,6 +73,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6798d6da-3d38-5629-9605-3abc7b9e1f9f",
       "name": "Coffret Dresseur d'élite Zénith Suprême",
       "releaseDate": "2023-02-24",
       "sources": [
@@ -78,6 +82,7 @@
     },
     {
       "language": "de",
+      "uuid": "95250e91-000d-53a2-a95b-602696b8d636",
       "name": "Top-Trainer-Box Zenit der Könige",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-zenit-der-koenige"
@@ -85,6 +90,7 @@
     },
     {
       "language": "it",
+      "uuid": "de5e3f29-8bfe-5ea6-b9bc-620f77a878ab",
       "name": "Set Allenatore Fuoriclasse dell’espansione Zenit Regale",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-zenit-regale"
@@ -92,6 +98,7 @@
     },
     {
       "language": "es",
+      "uuid": "f876a63e-35ff-57c6-8ed4-d67774f8426e",
       "name": "Caja de Entrenador Élite de Cenit Supremo",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-cenit-supremo"

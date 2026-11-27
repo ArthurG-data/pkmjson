@@ -1,9 +1,11 @@
 {
   "id": "xy8-pin-collection-zoroark",
+  "uuid": "631dafb9-663b-5fdd-9176-bd03a766bc36",
   "region": "international",
   "set": "xy8",
   "category": "collection_box",
   "name": "XY BREAKthrough Pin Collection [Zoroark]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2cfabc4f-11b0-56bd-84a3-76ac9e6929e8",
       "name": "XY BREAKthrough Pin Collection [Zoroark]",
       "identifiers": {
         "tcgplayerProductIds": [

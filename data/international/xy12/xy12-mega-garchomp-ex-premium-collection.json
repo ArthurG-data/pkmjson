@@ -1,15 +1,18 @@
 {
   "id": "xy12-mega-garchomp-ex-premium-collection",
+  "uuid": "734123b4-8108-51a9-bb08-8843d85fa5c4",
   "region": "international",
   "set": "xy12",
   "category": "premium_collection",
   "name": "Mega Garchomp EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "97dc0f6b-bf53-53cb-b6ee-4b685be6a193",
       "name": "Mega Garchomp EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "cc360553-c038-50d4-8a32-ff7e144dc0d7",
       "name": "Coffret Méga-Carchacrok",
       "releaseDate": "2017-09-02",
       "sources": [
@@ -30,6 +34,7 @@
     },
     {
       "language": "it",
+      "uuid": "ad8b948c-8f99-5b14-88aa-651d99394eba",
       "name": "Collezione premium Garchomp‑ex di Camilla",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/collezione-premium-garchomp-ex-di-camilla"
@@ -37,6 +42,7 @@
     },
     {
       "language": "de",
+      "uuid": "f4f6bab2-17c1-5eb6-a827-726a8d99289f",
       "name": "Premium-Kollektion Cynthias Knakrack‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-cynthias-knakrack-ex"
@@ -44,6 +50,7 @@
     },
     {
       "language": "es",
+      "uuid": "4c4f3e34-89a6-5601-9040-9fb4e1dad3b0",
       "name": "Colección prémium Garchomp ex de Cintia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-premium-garchomp-ex-de-cintia"

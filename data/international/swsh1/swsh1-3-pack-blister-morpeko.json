@@ -1,9 +1,11 @@
 {
   "id": "swsh1-3-pack-blister-morpeko",
+  "uuid": "b8168a04-af15-5a39-8b54-a5add30242f4",
   "region": "international",
   "set": "swsh1",
   "category": "blister",
   "name": "Sword & Shield 3 Pack Blister [Morpeko]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585898
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "eebeaf7c-b8b7-5397-994f-06fb67cfc763",
       "name": "Sword & Shield 3 Pack Blister [Morpeko]",
       "identifiers": {
         "tcgplayerProductIds": [

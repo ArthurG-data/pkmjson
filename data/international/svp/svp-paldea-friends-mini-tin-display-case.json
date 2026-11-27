@@ -1,15 +1,18 @@
 {
   "id": "svp-paldea-friends-mini-tin-display-case",
+  "uuid": "94d10446-9b82-5ccc-8d20-19e999977c36",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Paldea Friends Mini Tin Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f2a9be2a-7a98-5c38-b4bc-61fa8dfb14d2",
       "name": "Paldea Friends Mini Tin Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

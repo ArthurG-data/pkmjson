@@ -1,9 +1,11 @@
 {
   "id": "swshp-league-battle-deck-zacian-v",
+  "uuid": "6a2c5d23-9937-5d59-b73a-33a6203f4fed",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "League Battle Deck [Zacian V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8f3ebd8f-5cae-55ae-9c68-d7aa276b78b0",
       "name": "League Battle Deck [Zacian V]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -57,6 +60,7 @@
     },
     {
       "language": "de",
+      "uuid": "aebc6ae3-8245-5233-a8e4-622be75d3218",
       "name": "Liga-Kampfdeck Zacian-V",
       "releaseDate": "2020-11-20",
       "sources": [
@@ -65,6 +69,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d030074b-75d1-59b9-b09d-271d98944786",
       "name": "Deck Combat de Ligue – Zacian-V",
       "releaseDate": "2020-11-20",
       "sources": [
@@ -73,6 +78,7 @@
     },
     {
       "language": "it",
+      "uuid": "d94138fa-5d63-55e5-8a78-e26430a4d2a2",
       "name": "Mazzo Lotte di Lega Zacian-V",
       "releaseDate": "2020-11-20",
       "sources": [

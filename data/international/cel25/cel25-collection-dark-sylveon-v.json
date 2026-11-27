@@ -1,9 +1,11 @@
 {
   "id": "cel25-collection-dark-sylveon-v",
+  "uuid": "1f0d5f74-5db4-561e-81f3-9bab21cee2c5",
   "region": "international",
   "set": "cel25",
   "category": "collection_box",
   "name": "Celebrations Collection [Dark Sylveon V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 570892
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "45f8f872-9134-5a4d-8592-3e3661a3644e",
       "name": "Celebrations Collection [Dark Sylveon V]",
       "identifiers": {
         "tcgplayerProductIds": [

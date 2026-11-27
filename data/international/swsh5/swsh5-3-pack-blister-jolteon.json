@@ -1,9 +1,11 @@
 {
   "id": "swsh5-3-pack-blister-jolteon",
+  "uuid": "a6b2ade4-d490-5db3-9f7b-990b0281f823",
   "region": "international",
   "set": "swsh5",
   "category": "blister",
   "name": "Battle Styles 3 Pack Blister [Jolteon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585751
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "31d6d805-fd16-59a3-8636-16a004bbda3f",
       "name": "Battle Styles 3 Pack Blister [Jolteon]",
       "releaseDate": "2021-03-19",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "xyp-ex-master-trainer-deck-gardevoir",
+  "uuid": "5002fe71-235c-5315-b904-73c15cee29f2",
   "region": "international",
   "set": "xyp",
   "category": "battle_deck",
   "name": "EX Master Trainer Deck [Gardevoir]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "e56106d0-7b3a-540a-b846-2d0ec0a816e6",
       "name": "EX Master Trainer Deck [Gardevoir]",
       "identifiers": {
         "tcgplayerProductIds": [

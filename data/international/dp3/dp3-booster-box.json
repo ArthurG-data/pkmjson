@@ -1,9 +1,11 @@
 {
   "id": "dp3-booster-box",
+  "uuid": "2da594aa-4da4-580b-bca7-3e2c30be646b",
   "region": "international",
   "set": "dp3",
   "category": "booster_box",
   "name": "Secret Wonders Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271905
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "084a3dbf-f095-5e2b-82f9-02d027cd134c",
       "name": "Secret Wonders Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

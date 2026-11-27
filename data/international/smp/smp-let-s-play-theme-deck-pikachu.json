@@ -1,9 +1,11 @@
 {
   "id": "smp-let-s-play-theme-deck-pikachu",
+  "uuid": "cf60be00-48f7-566e-80fc-d666e0285777",
   "region": "international",
   "set": "smp",
   "category": "theme_deck",
   "name": "Let's Play Theme Deck [Pikachu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f2669a9-d351-547c-a2b6-843145b6e0ba",
       "name": "Let's Play Theme Deck [Pikachu]",
       "identifiers": {
         "tcgplayerProductIds": [

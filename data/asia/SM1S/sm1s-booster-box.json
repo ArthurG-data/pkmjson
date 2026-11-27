@@ -1,9 +1,11 @@
 {
   "id": "sm1s-booster-box",
+  "uuid": "1a2f52c4-b884-5e71-95d7-e8bb1f799e4e",
   "region": "asia",
   "set": "SM1S",
   "category": "booster_box",
   "name": "Collection Sun Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551861
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0bf1facb-3926-5082-b4a4-127bd7f6733a",
       "name": "Collection Sun Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

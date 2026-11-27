@@ -1,9 +1,11 @@
 {
   "id": "swsh5-v-strikers-tin-tyranitar-v-international-version",
+  "uuid": "7b368b75-cf12-52ff-8b80-7f9f1b3c2379",
   "region": "international",
   "set": "swsh5",
   "category": "tin",
   "name": "V Strikers Tin [Tyranitar V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "126dd14a-5e18-5101-875b-bab960460049",
       "name": "V Strikers Tin [Tyranitar V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

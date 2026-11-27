@@ -1,9 +1,11 @@
 {
   "id": "me04-elite-trainer-box-case",
+  "uuid": "2ab1eb4c-3e50-58db-8813-ac8a43c3b2ae",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877279
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "68962bee-5711-5998-895b-8270935fdcd5",
       "name": "Chaos Rising Elite Trainer Box Case",
       "releaseDate": "2026-05-22",
       "identifiers": {

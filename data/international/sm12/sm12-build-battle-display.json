@@ -1,15 +1,18 @@
 {
   "id": "sm12-build-battle-display",
+  "uuid": "e736d864-06f5-589c-be52-4d124408524f",
   "region": "international",
   "set": "sm12",
   "category": "case",
   "name": "Cosmic Eclipse Build & Battle Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4bbc70d7-3d64-5fac-a346-31a8a3f480a7",
       "name": "Cosmic Eclipse Build & Battle Display",
       "identifiers": {
         "tcgplayerProductIds": [

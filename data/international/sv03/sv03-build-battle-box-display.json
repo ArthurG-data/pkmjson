@@ -1,15 +1,18 @@
 {
   "id": "sv03-build-battle-box-display",
+  "uuid": "45945783-3add-50aa-b85e-a5907dd24426",
   "region": "international",
   "set": "sv03",
   "category": "case",
   "name": "Obsidian Flames Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a07709fb-a657-567f-9099-526b581ea66c",
       "name": "Obsidian Flames Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

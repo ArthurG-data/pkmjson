@@ -1,9 +1,11 @@
 {
   "id": "mep-team-rocket-s-moltres-ex-ultra-premium-collection",
+  "uuid": "7aeb44c3-2f2a-51ad-9f27-0baf09328bfe",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Team Rocket’s Moltres ex Ultra-Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "00a7bd2d-1189-51c6-8c7e-c8c99f4a7ee0",
       "name": "Team Rocket’s Moltres ex Ultra-Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

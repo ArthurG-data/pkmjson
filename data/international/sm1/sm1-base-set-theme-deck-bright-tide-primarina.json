@@ -1,9 +1,11 @@
 {
   "id": "sm1-base-set-theme-deck-bright-tide-primarina",
+  "uuid": "2fc6899a-4de8-556a-a66e-abf35538f474",
   "region": "international",
   "set": "sm1",
   "category": "theme_deck",
   "name": "Sun & Moon Base Set Theme Deck - \"Bright Tide\" [Primarina]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 295480
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f8fd93cd-5f91-59da-a988-4d9ea4ca39aa",
       "name": "Sun & Moon Base Set Theme Deck - \"Bright Tide\" [Primarina]",
       "identifiers": {
         "tcgplayerProductIds": [

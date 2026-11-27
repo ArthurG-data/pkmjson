@@ -1,9 +1,11 @@
 {
   "id": "svd-ex-start-deck-lightning-miraidon",
+  "uuid": "7df54855-54c8-534c-9113-54e902571ec3",
   "region": "asia",
   "set": "SVD",
   "category": "battle_deck",
   "name": "ex Start Deck Lightning Miraidon",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 712636
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c84a48ee-0943-51cf-97ed-1badd1fc3cca",
       "name": "exスタートデッキ 雷 ミライドン",
       "releaseDate": "2023-07-07",
       "identifiers": {

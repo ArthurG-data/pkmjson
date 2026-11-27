@@ -1,15 +1,18 @@
 {
   "id": "bw2-evolved-battle-action-tin-emboar",
+  "uuid": "5dfe88d1-420c-5139-9992-0aad98d97418",
   "region": "international",
   "set": "bw2",
   "category": "tin",
   "name": "Evolved Battle Action Tin [Emboar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "75e4be1f-39d3-5c2d-8294-b93ac5e7a597",
       "name": "Evolved Battle Action Tin [Emboar]",
       "identifiers": {
         "tcgplayerProductIds": [

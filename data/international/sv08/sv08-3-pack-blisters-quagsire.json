@@ -1,9 +1,11 @@
 {
   "id": "sv08-3-pack-blisters-quagsire",
+  "uuid": "f47c60c8-94b0-539a-a986-acd46adda0f3",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks 3 Pack Blisters [Quagsire]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784957
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0760dbb9-3270-5151-86f7-752146ce278c",
       "name": "Surging Sparks 3 Pack Blisters [Quagsire]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "bf048a5e-4866-5bc4-a71f-f9994749f16b",
       "name": "Tripack EV08 Maraiste",
       "releaseDate": "2024-11-08",
       "sources": [

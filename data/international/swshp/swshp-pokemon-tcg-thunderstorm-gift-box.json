@@ -1,15 +1,18 @@
 {
   "id": "swshp-pokemon-tcg-thunderstorm-gift-box",
+  "uuid": "3daea84d-6c66-5eb1-9e4c-ebac9b1f3799",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Pokemon TCG: Thunderstorm Gift Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a unique Thunderstorm preconstructed Theme Deck featuring cards from Base Set, Jungle, Fossil, Team Rocket, Gym Heroes expansions; three booster packs; one each from Fossil, Team Rocket, Gym Heroes, the Pokémon Play It.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9a7be84c-bf5e-58d7-b592-c73ff776e00c",
       "name": "Pokemon TCG: Thunderstorm Gift Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,14 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/210200/pokemon-miscellaneous-cards-and-products-pokemon-tcg-thunderstorm-gift-box"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "3a425c3d-a2d1-584f-9474-0018fb7174f6",
+      "name": "Tempête",
+      "sources": [
+        "https://www.pokepedia.fr/Temp%C3%AAte_%28Coffret_cadeau%29"
       ]
     }
   ]

@@ -1,9 +1,11 @@
 {
   "id": "sv08-single-pack-blister-hisuian-arcanine",
+  "uuid": "2b4228cc-1418-5a2c-b51e-51cf09b7940b",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks Single Pack Blister [Hisuian Arcanine]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e4952de5-7522-5ba0-981c-1b62e8781597",
       "name": "Surging Sparks Single Pack Blister [Hisuian Arcanine]",
       "identifiers": {
         "tcgplayerProductIds": [

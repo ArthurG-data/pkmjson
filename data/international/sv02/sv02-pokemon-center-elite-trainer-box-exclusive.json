@@ -1,9 +1,11 @@
 {
   "id": "sv02-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "16fd8b6c-885f-5bb9-8d7e-e5b750d28522",
   "region": "international",
   "set": "sv02",
   "category": "elite_trainer_box",
   "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 703176
   },
@@ -64,6 +66,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2b2c65b5-ce06-5a6e-98fe-cd7447e9e3c5",
       "name": "Paldea Evolved Pokemon Center Elite Trainer Box (Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh12-build-battle-box",
+  "uuid": "647267a5-5e08-5548-b410-f5a0dd10e49d",
   "region": "international",
   "set": "swsh12",
   "category": "build_and_battle_box",
   "name": "Silver Tempest Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672606
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2df431df-6468-535c-93ba-53b9462ac970",
       "name": "Silver Tempest Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

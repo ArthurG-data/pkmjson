@@ -1,9 +1,11 @@
 {
   "id": "s4a-booster-box",
+  "uuid": "ddf95c89-6f72-55ac-84dd-a6d3e1a5487e",
   "region": "asia",
   "set": "S4a",
   "category": "booster_box",
   "name": "Shiny Star V Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 522560
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "71f9e6b1-390b-58a5-adc0-dce9f7e827ec",
       "name": "Shiny Star V Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

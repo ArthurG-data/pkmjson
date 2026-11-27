@@ -1,9 +1,11 @@
 {
   "id": "swshp-mew-v-box",
+  "uuid": "ed7a9363-25d2-5cd4-893e-598bbccb594c",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Mew V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "743470f8-9648-5e1d-b3f9-e724af6c3c89",
       "name": "Mew V Box",
       "releaseDate": "2022-11-04",
       "identifiers": {

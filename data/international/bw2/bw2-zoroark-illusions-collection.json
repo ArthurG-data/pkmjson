@@ -1,15 +1,18 @@
 {
   "id": "bw2-zoroark-illusions-collection",
+  "uuid": "a33110f1-1c57-5c29-a0a3-a90493bc7a0f",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Zoroark-Illusions Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "091297f0-e32d-58b3-859d-a88abb0fd3d6",
       "name": "Zoroark-Illusions Collection",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sv10-3-pack-blister-set-of-2",
+  "uuid": "b08505a5-5235-5655-80b6-5d8ea6f30c24",
   "region": "international",
   "set": "sv10",
   "category": "other",
   "name": "Destined Rivals 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cb45b700-7742-50d5-98a5-fe7da77bfa36",
       "name": "Destined Rivals 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

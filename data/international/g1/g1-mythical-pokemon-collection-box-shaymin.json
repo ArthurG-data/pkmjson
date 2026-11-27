@@ -1,15 +1,18 @@
 {
   "id": "g1-mythical-pokemon-collection-box-shaymin",
+  "uuid": "a4f00e0e-ae53-5da4-8174-ecbd5896e2bb",
   "region": "international",
   "set": "g1",
   "category": "collection_box",
   "name": "Mythical Pokemon Collection Box [Shaymin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0612ea3d-59c8-579e-bf4d-abff3206d40b",
       "name": "Mythical Pokemon Collection Box [Shaymin]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "a2813fc3-3e9b-583c-aefe-eb4177554777",
       "name": "Collection Pokémon fabuleux Shaymin",
       "releaseDate": "2016-08-20",
       "sources": [

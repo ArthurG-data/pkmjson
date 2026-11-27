@@ -1,15 +1,18 @@
 {
   "id": "mep-team-rocket-tin-case",
+  "uuid": "3dab9f4e-fe84-5a15-976e-9714603300a8",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Team Rocket Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d499bdca-30f8-5fa7-8ccf-28686fdcf695",
       "name": "Team Rocket Tin Case",
       "identifiers": {
         "tcgplayerProductIds": [

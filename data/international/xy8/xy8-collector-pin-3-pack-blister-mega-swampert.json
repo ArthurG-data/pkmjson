@@ -1,9 +1,11 @@
 {
   "id": "xy8-collector-pin-3-pack-blister-mega-swampert",
+  "uuid": "5ea38b3f-9d3d-5c60-b031-45678296b61a",
   "region": "international",
   "set": "xy8",
   "category": "blister",
   "name": "BREAKthrough Collector Pin 3 Pack Blister [Mega Swampert]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aeae8813-13f3-55d9-ad6d-76d8ebfc2a87",
       "name": "BREAKthrough Collector Pin 3 Pack Blister [Mega Swampert]",
       "identifiers": {
         "tcgplayerProductIds": [

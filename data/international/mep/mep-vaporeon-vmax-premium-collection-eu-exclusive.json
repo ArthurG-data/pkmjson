@@ -1,9 +1,11 @@
 {
   "id": "mep-vaporeon-vmax-premium-collection-eu-exclusive",
+  "uuid": "6cbbf378-c1d3-5f5c-b4bd-2264faf57d71",
   "region": "international",
   "set": "mep",
   "category": "premium_collection",
   "name": "Vaporeon VMAX Premium Collection (EU Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "aaa1f47f-25af-56fd-b5c5-6377cefc55b1",
       "name": "Vaporeon VMAX Premium Collection (EU Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

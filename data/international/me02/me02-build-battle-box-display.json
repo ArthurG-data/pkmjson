@@ -1,9 +1,11 @@
 {
   "id": "me02-build-battle-box-display",
+  "uuid": "a89a01f6-ac1c-5e99-bbdb-43e3dae9dab9",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846741
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6925baf6-d3bf-5d3e-abff-1a787f636332",
       "name": "Phantasmal Flames Build & Battle Box Display",
       "releaseDate": "2025-11-28",
       "identifiers": {

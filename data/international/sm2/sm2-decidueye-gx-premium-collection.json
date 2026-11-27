@@ -1,15 +1,18 @@
 {
   "id": "sm2-decidueye-gx-premium-collection",
+  "uuid": "ccc962a4-d56f-51ae-8924-a501b035d240",
   "region": "international",
   "set": "sm2",
   "category": "premium_collection",
   "name": "Decidueye GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "81a638d9-c82e-54f3-a1a6-c6434f8289c9",
       "name": "Decidueye GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "4cbd9573-f03a-5bd7-be52-468943892ea6",
       "name": "Coffret Archéduc",
       "releaseDate": "2017-08-17",
       "sources": [

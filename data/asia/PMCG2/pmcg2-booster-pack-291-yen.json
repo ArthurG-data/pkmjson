@@ -1,9 +1,11 @@
 {
   "id": "pmcg2-booster-pack-291-yen",
+  "uuid": "b6b8b3ec-6d66-5490-99c4-358976a64b8a",
   "region": "asia",
   "set": "PMCG2",
   "category": "booster_pack",
   "name": "Pokemon Jungle Booster Pack (291 Yen)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6b5da696-5acb-5931-8e3f-a0c59c6a04b6",
       "name": "第2弾 拡張パック「ポケモンジャングル」",
       "releaseDate": "1997-03-05",
       "identifiers": {

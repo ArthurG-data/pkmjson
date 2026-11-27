@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-tin-team-rocket-s-nidoking-ex",
+  "uuid": "05c9a21a-18a1-5ed9-b700-7d073e128546",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Team Rocket Tin [Team Rocket's Nidoking ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ecb16a59-8aec-5786-9158-4be8d9104e5a",
       "name": "Team Rocket Tin [Team Rocket's Nidoking ex]",
       "releaseDate": "2025-09-05",
       "identifiers": {
@@ -36,6 +39,47 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/649194/pokemon-miscellaneous-cards-and-products-team-rocket-tin-team-rockets-nidoking-ex"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "b699b8b9-09d0-5f81-86bd-744e72ca8ec4",
+      "name": "Boîte Team Rocket Nidoking de la Team Rocket",
+      "releaseDate": "2025-09-05",
+      "contents": {
+        "cards": [
+          {
+            "tcgdexCardId": "svp-217",
+            "tcgdexVariantId": "jr7oetx1mqug9",
+            "tcgplayerProductId": 653258,
+            "cardmarketProductId": 832226,
+            "count": 1,
+            "role": "promo"
+          }
+        ],
+        "other": [
+          {
+            "name": "Code card for Pokémon TCG Live",
+            "count": 1
+          }
+        ],
+        "sealed": [
+          {
+            "product": "sv02-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv03-booster-pack",
+            "count": 1
+          },
+          {
+            "product": "sv10-booster-pack",
+            "count": 2
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Bo%C3%AEte_Team_Rocket_Nidoking-ex_de_la_Team_Rocket"
       ]
     }
   ]

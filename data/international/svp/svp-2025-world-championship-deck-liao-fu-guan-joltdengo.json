@@ -1,9 +1,11 @@
 {
   "id": "svp-2025-world-championship-deck-liao-fu-guan-joltdengo",
+  "uuid": "44a49593-f991-53f3-86bb-1a99ce1d350e",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2025 World Championship Deck: Liao Fu Guan (Joltdengo)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "acff9135-aab2-5bc4-816c-e38fa274ee0a",
       "name": "2025 World Championship Deck: Liao Fu Guan (Joltdengo)",
       "identifiers": {
         "tcgplayerProductIds": [

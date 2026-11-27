@@ -1,9 +1,11 @@
 {
   "id": "svp-iono-premium-tournament-collection-box",
+  "uuid": "ed1523c9-740e-5200-bcf2-b1c4e519795f",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Iono Premium Tournament Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -47,6 +49,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cd471d54-8212-507d-9993-aed512e96ebd",
       "name": "Iono Premium Tournament Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -59,6 +62,7 @@
     },
     {
       "language": "es",
+      "uuid": "82fde14d-f712-514c-bf52-94264d160196",
       "name": "Colección torneo prémium e‑Nigma",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/coleccion-torneo-premium-e-nigma"
@@ -66,6 +70,7 @@
     },
     {
       "language": "fr",
+      "uuid": "55d666fe-b166-5dd0-b3da-e6121cb19857",
       "name": "Collection Tournoi Premium – Mashynn",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/collection-tournoi-premium-mashynn"

@@ -1,9 +1,11 @@
 {
   "id": "xy4-sleeved-booster-pack",
+  "uuid": "7cdbd770-fc18-591c-bb6d-62826bb7256c",
   "region": "international",
   "set": "xy4",
   "category": "sleeved_booster_pack",
   "name": "Phantom Forces Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bcb0f5b6-8cd1-50b6-9438-9e1661c98d77",
       "name": "Phantom Forces Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

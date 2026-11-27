@@ -1,9 +1,11 @@
 {
   "id": "neo2-theme-deck-wallop",
+  "uuid": "964409ad-82a4-58cc-8241-e10593663ca7",
   "region": "international",
   "set": "neo2",
   "category": "theme_deck",
   "name": "Neo Discovery Theme Deck - \"Wallop\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286567
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c5ebdce2-ba3f-5110-8af1-3c89a003823a",
       "name": "Neo Discovery Theme Deck - \"Wallop\"",
       "identifiers": {
         "tcgplayerProductIds": [

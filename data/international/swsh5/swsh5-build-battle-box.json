@@ -1,9 +1,11 @@
 {
   "id": "swsh5-build-battle-box",
+  "uuid": "32a36b69-2b48-5861-83ba-183d05bcbc56",
   "region": "international",
   "set": "swsh5",
   "category": "build_and_battle_box",
   "name": "Battle Styles Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 544801
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9f09f00a-48bb-5514-b24b-a4dd7a4160b2",
       "name": "Battle Styles Build & Battle Box",
       "identifiers": {
         "tcgplayerProductIds": [

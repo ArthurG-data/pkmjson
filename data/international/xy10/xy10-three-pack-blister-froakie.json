@@ -1,15 +1,18 @@
 {
   "id": "xy10-three-pack-blister-froakie",
+  "uuid": "ef32eb6f-6ee5-5144-928d-a62714c056b9",
   "region": "international",
   "set": "xy10",
   "category": "blister",
   "name": "Fates Collide Three Pack Blister [Froakie]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bb60c9cc-df58-5a01-9456-1cbad0d0474f",
       "name": "Fates Collide Three Pack Blister [Froakie]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "12b34e97-acae-58b5-a3b1-0062367111d5",
       "name": "Tripack XY10 Grenousse",
       "releaseDate": "2016-05-07",
       "contents": {

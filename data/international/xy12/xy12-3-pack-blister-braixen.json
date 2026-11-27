@@ -1,9 +1,11 @@
 {
   "id": "xy12-3-pack-blister-braixen",
+  "uuid": "6650acf4-d65b-5ae1-baef-1650ff8e76f4",
   "region": "international",
   "set": "xy12",
   "category": "blister",
   "name": "XY - Evolutions 3 Pack Blister [Braixen]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586328
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a40c9afd-fd1a-5729-96c1-dce2dffd21ea",
       "name": "XY - Evolutions 3 Pack Blister [Braixen]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -25,6 +28,7 @@
     },
     {
       "language": "fr",
+      "uuid": "49eb8ba5-6282-5bc7-b90c-30ecda6c79cb",
       "name": "Tripack XY12 Roussil",
       "releaseDate": "2016-11-19",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "sv08-half-booster-box",
+  "uuid": "13df69b4-589e-55db-9774-a532d33c788f",
   "region": "international",
   "set": "sv08",
   "category": "half_booster_box",
   "name": "Surging Sparks Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784951
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "db1b62af-4ca5-50f1-8682-c5b24b790288",
       "name": "Surging Sparks Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

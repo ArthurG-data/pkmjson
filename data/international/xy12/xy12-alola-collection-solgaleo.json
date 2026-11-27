@@ -1,15 +1,18 @@
 {
   "id": "xy12-alola-collection-solgaleo",
+  "uuid": "bb7cd07d-4280-587e-90bc-69473908ac89",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Alola Collection [Solgaleo]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7387abef-0a66-5bde-bd66-2540d26544df",
       "name": "Alola Collection [Solgaleo]",
       "identifiers": {
         "tcgplayerProductIds": [

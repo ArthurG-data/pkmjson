@@ -1,15 +1,18 @@
 {
   "id": "swsh5-build-battle-box-display",
+  "uuid": "7bd7ce6d-f51a-5114-adb5-c219491d2fc4",
   "region": "international",
   "set": "swsh5",
   "category": "case",
   "name": "Battle Styles Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "06103019-4c4c-5aba-804e-046b11246ef3",
       "name": "Battle Styles Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

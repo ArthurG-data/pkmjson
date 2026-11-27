@@ -1,9 +1,11 @@
 {
   "id": "swshp-cyrus-premium-tournament-collection-box",
+  "uuid": "84c9c739-2a1f-5c50-a939-70069fd95b9e",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Cyrus Premium Tournament Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b3940a9a-483e-5bd4-8a79-13f8de9d5068",
       "name": "Cyrus Premium Tournament Collection Box",
       "releaseDate": "2023-03-24",
       "identifiers": {

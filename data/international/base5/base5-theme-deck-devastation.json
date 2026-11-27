@@ -1,9 +1,11 @@
 {
   "id": "base5-theme-deck-devastation",
+  "uuid": "e5477075-ec1a-58cf-8637-8965c7deff18",
   "region": "international",
   "set": "base5",
   "category": "theme_deck",
   "name": "Team Rocket Theme Deck - \"Devastation\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286502
   },
@@ -28,6 +30,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "65e1c559-3872-5e4f-af4f-c60c4a69b367",
       "name": "Team Rocket Theme Deck - \"Devastation\"",
       "identifiers": {
         "tcgplayerProductIds": [

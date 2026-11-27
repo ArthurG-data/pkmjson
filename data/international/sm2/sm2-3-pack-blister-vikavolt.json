@@ -1,9 +1,11 @@
 {
   "id": "sm2-3-pack-blister-vikavolt",
+  "uuid": "a7dbbff3-6507-52b7-a145-38029c2f10f7",
   "region": "international",
   "set": "sm2",
   "category": "blister",
   "name": "Guardians Rising 3 Pack Blister [Vikavolt]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586008
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3c9cb8e6-38ce-5f9d-91f8-4c055ddfbaf3",
       "name": "Guardians Rising 3 Pack Blister [Vikavolt]",
       "identifiers": {
         "tcgplayerProductIds": [

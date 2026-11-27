@@ -1,9 +1,11 @@
 {
   "id": "swshp-divergent-powers-tin-hisuian-decidueye-v",
+  "uuid": "9e7fdf94-fa19-5ee9-b6e6-12b68f25b645",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Divergent Powers Tin [Hisuian Decidueye V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5883af43-afb6-5778-9d87-76a121a6dde4",
       "name": "Divergent Powers Tin [Hisuian Decidueye V]",
       "releaseDate": "2022-06-17",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "es",
+      "uuid": "f079e116-7467-58e5-930d-68e40bb32315",
       "name": "Lata Poderes Divergentes",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poderes-divergentes"
@@ -47,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "539cb134-a2b7-5da5-9ba4-ccbd4aee75b5",
       "name": "Boîte Puissances Divergentes",
       "releaseDate": "2022-06-17",
       "sources": [
@@ -55,6 +60,7 @@
     },
     {
       "language": "it",
+      "uuid": "66996de5-c690-575f-bbcc-829c55c02b98",
       "name": "Scatola da collezione Poteri Divergenti",
       "releaseDate": "2022-06-17",
       "sources": [

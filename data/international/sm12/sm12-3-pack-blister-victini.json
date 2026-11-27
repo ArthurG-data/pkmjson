@@ -1,9 +1,11 @@
 {
   "id": "sm12-3-pack-blister-victini",
+  "uuid": "85181dda-1f69-520c-8b1d-af105d6c5744",
   "region": "international",
   "set": "sm12",
   "category": "blister",
   "name": "Cosmic Eclipse 3 Pack Blister [Victini]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585904
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "15967607-4512-5514-a5de-2b63b975cc70",
       "name": "Cosmic Eclipse 3 Pack Blister [Victini]",
       "releaseDate": "2019-11-01",
       "identifiers": {

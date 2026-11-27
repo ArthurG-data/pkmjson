@@ -1,9 +1,11 @@
 {
   "id": "pl4-booster-pack",
+  "uuid": "c3381509-442f-5283-9d6b-6f7469a4394f",
   "region": "international",
   "set": "pl4",
   "category": "booster_pack",
   "name": "Arceus Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271858
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "820f0b8d-d36e-58a5-b0ec-2402298252ec",
       "name": "Platinum—Arceus",
       "identifiers": {
         "tcgplayerProductIds": [

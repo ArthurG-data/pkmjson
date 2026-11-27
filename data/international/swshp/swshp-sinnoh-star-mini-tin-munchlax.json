@@ -1,9 +1,11 @@
 {
   "id": "swshp-sinnoh-star-mini-tin-munchlax",
+  "uuid": "4865c769-0393-5b07-b6fd-8fe41d58d385",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Sinnoh Star Mini Tin [Munchlax]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c7c0c8b9-9592-5150-acbd-64be1014320d",
       "name": "Sinnoh Star Mini Tin [Munchlax]",
       "releaseDate": "2022-04-08",
       "identifiers": {

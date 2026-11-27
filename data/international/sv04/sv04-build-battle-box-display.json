@@ -1,15 +1,18 @@
 {
   "id": "sv04-build-battle-box-display",
+  "uuid": "b8692415-c74a-5d0a-b66e-d7756badda7f",
   "region": "international",
   "set": "sv04",
   "category": "case",
   "name": "Paradox Rift Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "997d882b-1cdd-5708-b23d-99c6e16634c2",
       "name": "Paradox Rift Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv09-single-pack-blister-scraggy",
+  "uuid": "d42b20bf-ec6b-5e6c-bcd9-6586f889c1c1",
   "region": "international",
   "set": "sv09",
   "category": "blister",
   "name": "Journey Together Single Pack Blister [Scraggy]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 805588
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9a802eb2-e664-58dc-b6bf-8497858e6768",
       "name": "Journey Together Single Pack Blister [Scraggy]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "pop9-pack",
+  "uuid": "3ff0e627-7f05-5647-9946-d48595d9e9ce",
   "region": "international",
   "set": "pop9",
   "category": "other",
   "name": "POP Series 9 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "83bf3b2f-1c21-5b15-8e94-8186bb706034",
       "name": "POP Series 9 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "ex16-power-keepers-booster-box",
+  "uuid": "c86aec26-6a1a-5dbb-aaaf-2553ecc50e6a",
   "region": "international",
   "set": "ex16",
   "category": "booster_box",
   "name": "Power Keepers Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271917
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a7c8c0f3-1149-5ee0-a435-8b53c33cb0b7",
       "name": "Power Keepers Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

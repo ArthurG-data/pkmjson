@@ -1,15 +1,18 @@
 {
   "id": "svp-play-pokemon-prize-pack-series-five",
+  "uuid": "566f05d4-f6a3-5b57-8e43-baaca988d8e3",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Play! Pokemon Prize Pack Series Five",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
   "releases": [
     {
       "language": "en",
+      "uuid": "70a2cb96-9c8f-555d-8054-507b2f196425",
       "name": "Play! Pokemon Prize Pack Series Five",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/577596/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-five"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "ae181293-d293-569e-bb8c-377bfec2121a",
+      "name": "Pack Récompense Play! Pokémon Série 5",
+      "releaseDate": "2024-08-14",
+      "sources": [
+        "https://www.pokepedia.fr/Pack_R%C3%A9compense_Play%21_Pok%C3%A9mon_S%C3%A9rie_5"
       ]
     }
   ]

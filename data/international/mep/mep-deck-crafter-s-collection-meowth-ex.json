@@ -1,9 +1,11 @@
 {
   "id": "mep-deck-crafter-s-collection-meowth-ex",
+  "uuid": "e1be84e6-5e13-5415-a56b-82efca80dbb1",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Deck Crafter's Collection - Meowth ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bf2eda7b-fa0d-5f73-94e0-9b423a5e1d98",
       "name": "Deck Crafter's Collection - Meowth ex",
       "releaseDate": "2026-10-23",
       "identifiers": {

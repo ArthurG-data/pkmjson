@@ -1,9 +1,11 @@
 {
   "id": "swsh7-half-booster-box",
+  "uuid": "b7236e73-87b5-5c6c-9d16-21eb5bcdad22",
   "region": "international",
   "set": "swsh7",
   "category": "half_booster_box",
   "name": "Evolving Skies Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 574435
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e0be418c-35f0-5ca2-a318-6c305f2a95d9",
       "name": "Evolving Skies Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

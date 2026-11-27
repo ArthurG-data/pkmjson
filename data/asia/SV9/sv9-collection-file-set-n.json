@@ -1,15 +1,18 @@
 {
   "id": "sv9-collection-file-set-n",
+  "uuid": "c6884d5d-2e12-5e24-8d2a-2a9b1a454ff5",
   "region": "asia",
   "set": "SV9",
   "category": "collection_box",
   "name": "Collection File Set N",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Cards are randomly included in 5 pieces each..",
   "releases": [
     {
       "language": "ja",
+      "uuid": "cc6b4c03-95bc-58af-90ee-f1ae22044c11",
       "name": "Collection File Set N",
       "identifiers": {
         "tcgplayerProductIds": [

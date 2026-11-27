@@ -1,9 +1,11 @@
 {
   "id": "swshp-sinnoh-star-mini-tin-piplup",
+  "uuid": "0655b431-e404-59d4-bc8d-db1037fc8aff",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Sinnoh Star Mini Tin [Piplup]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de3b163d-60c3-5926-b915-31cb1ed2ed91",
       "name": "Sinnoh Star Mini Tin [Piplup]",
       "identifiers": {
         "tcgplayerProductIds": [

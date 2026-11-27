@@ -1,15 +1,18 @@
 {
   "id": "sv02-build-battle-box-display",
+  "uuid": "5ba9947a-a88c-5ba7-9dfe-bc3b8be5cf89",
   "region": "international",
   "set": "sv02",
   "category": "case",
   "name": "Paldea Evolved Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9181d000-bd48-503a-9d3b-70b77a7fbdf7",
       "name": "Paldea Evolved Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

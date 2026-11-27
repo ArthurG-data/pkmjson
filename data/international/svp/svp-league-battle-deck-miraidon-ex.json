@@ -1,9 +1,11 @@
 {
   "id": "svp-league-battle-deck-miraidon-ex",
+  "uuid": "1b457ed9-0c27-5289-8ef3-bb37fe180fdc",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "League Battle Deck [Miraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c5dd7557-3036-599d-a848-32ed32362e0d",
       "name": "League Battle Deck [Miraidon ex]",
       "releaseDate": "2023-11-17",
       "identifiers": {
@@ -54,6 +57,7 @@
     },
     {
       "language": "fr",
+      "uuid": "58b61ff4-3400-56fb-859e-708acac8ecad",
       "name": "Deck Combat de Ligue Miraidon‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-de-ligue-miraidon-ex"
@@ -61,6 +65,7 @@
     },
     {
       "language": "it",
+      "uuid": "13c4fb47-945f-5de8-bc2e-b8387d12d118",
       "name": "Mazzo Lotte di Lega Miraidon-ex",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/mazzo-lotte-di-lega-miraidon-ex"
@@ -68,6 +73,7 @@
     },
     {
       "language": "de",
+      "uuid": "d89141ca-41ac-5be1-9ffc-4522124dc61b",
       "name": "Liga-Kampfdeck Miraidon‑ex",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/liga-kampfdeck-miraidon-ex"
@@ -75,6 +81,7 @@
     },
     {
       "language": "es",
+      "uuid": "720dabcc-5730-5a3d-8bc1-3d4d64411fc9",
       "name": "Baraja Combate de Liga de Miraidon ex",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/baraja-combate-de-liga-de-miraidon-ex"

@@ -1,15 +1,18 @@
 {
   "id": "mep-2-pack-blister-pack-team-rocket-s-articuno-zapdos-tyranitar",
+  "uuid": "8eddcaeb-cbc2-5807-ab6a-00d966f3b8e8",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "2-Pack Blister Pack [Team Rocket's Articuno, Zapdos & Tyranitar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cdc42414-c7db-5724-b535-4acabe08cc9b",
       "name": "2-Pack Blister Pack [Team Rocket's Articuno, Zapdos & Tyranitar]",
       "identifiers": {
         "tcgplayerProductIds": [

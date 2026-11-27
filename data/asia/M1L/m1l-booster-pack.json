@@ -1,9 +1,11 @@
 {
   "id": "m1l-booster-pack",
+  "uuid": "767a690e-0f4a-5ee4-9cf9-106853fe0cb9",
   "region": "asia",
   "set": "M1L",
   "category": "booster_pack",
   "name": "Mega Brave Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 831331
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "022ae8c1-73f1-5bd0-8efe-8707ebd95563",
       "name": "拡張パック「メガブレイブ」",
       "releaseDate": "2025-08-01",
       "identifiers": {

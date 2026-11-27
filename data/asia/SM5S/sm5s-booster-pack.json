@@ -1,9 +1,11 @@
 {
   "id": "sm5s-booster-pack",
+  "uuid": "67786c7e-09c2-52d0-8b32-c65818c74de2",
   "region": "asia",
   "set": "SM5S",
   "category": "booster_pack",
   "name": "Ultra Sun Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551906
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7b09903f-903a-5327-a05c-4f1dc906560e",
       "name": "拡張パック「ウルトラサン」",
       "releaseDate": "2017-12-08",
       "identifiers": {

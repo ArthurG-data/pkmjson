@@ -1,9 +1,11 @@
 {
   "id": "s3a-booster-box",
+  "uuid": "cb3e4f6d-a7b6-5497-aa1a-6dcdab871d42",
   "region": "asia",
   "set": "S3a",
   "category": "booster_box",
   "name": "Legendary Heartbeat Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 480104
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "c6638fa0-dc0d-5ec1-ba02-5be72df8fc37",
       "name": "Legendary Heartbeat Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

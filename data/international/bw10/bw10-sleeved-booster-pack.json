@@ -1,9 +1,11 @@
 {
   "id": "bw10-sleeved-booster-pack",
+  "uuid": "3112f74c-1ab9-5251-bf2d-430bbbb48f6d",
   "region": "international",
   "set": "bw10",
   "category": "sleeved_booster_pack",
   "name": "Plasma Blast Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9a2c319e-7cd8-5841-8d87-3093bd884c09",
       "name": "Plasma Blast Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

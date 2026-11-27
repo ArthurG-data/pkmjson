@@ -1,9 +1,11 @@
 {
   "id": "sv06-premium-checklane-blister-porygon",
+  "uuid": "8c92e558-98e8-5821-afca-95038c010b59",
   "region": "international",
   "set": "sv06",
   "category": "blister",
   "name": "Twilight Masquerade Premium Checklane Blister [Porygon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5120c8f4-a11c-5cf5-8f74-2e84d4d3b09f",
       "name": "Twilight Masquerade Premium Checklane Blister [Porygon]",
       "identifiers": {
         "tcgplayerProductIds": [

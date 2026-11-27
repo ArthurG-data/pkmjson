@@ -1,9 +1,11 @@
 {
   "id": "xy10-booster-pack",
+  "uuid": "c7c1befa-73e1-5658-99c5-19bd3935ec43",
   "region": "international",
   "set": "xy10",
   "category": "booster_pack",
   "name": "XY Fates Collide Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 289046
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ea931c28-e5e3-583a-9629-9e511762241e",
       "name": "XY—Fates Collide",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "124bb558-57c1-5891-91c6-ca88f2bd2847",
       "name": "XY – Impact des Destins",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Gardiens_des_%C3%8Eles_Tokotoro-GX",

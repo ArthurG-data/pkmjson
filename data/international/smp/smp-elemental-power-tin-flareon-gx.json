@@ -1,9 +1,11 @@
 {
   "id": "smp-elemental-power-tin-flareon-gx",
+  "uuid": "3998bd99-aa41-53ee-b329-e8e427fdedfd",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Elemental Power Tin [Flareon GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "904be4b1-5c17-528d-a3f4-ae9eab382be3",
       "name": "Elemental Power Tin [Flareon GX]",
       "releaseDate": "2019-11-01",
       "identifiers": {

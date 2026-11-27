@@ -1,9 +1,11 @@
 {
   "id": "smp-galar-collection-grookey-with-zamazenta-v",
+  "uuid": "4588a6b1-614d-5906-9332-852fc67c6edb",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Galar Collection [Grookey] - with Zamazenta V",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5d7c34f6-0bce-5022-a955-325e57a1e0d1",
       "name": "Galar Collection [Grookey] - with Zamazenta V",
       "releaseDate": "2019-11-15",
       "identifiers": {

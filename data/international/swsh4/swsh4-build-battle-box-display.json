@@ -1,15 +1,18 @@
 {
   "id": "swsh4-build-battle-box-display",
+  "uuid": "89e5b25f-733a-583a-964d-fe3d656ff43a",
   "region": "international",
   "set": "swsh4",
   "category": "case",
   "name": "Vivid Voltage Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "36366592-3935-5cd3-9ef1-0ec12d8164b0",
       "name": "Vivid Voltage Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

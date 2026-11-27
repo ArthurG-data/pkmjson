@@ -1,9 +1,11 @@
 {
   "id": "me02-booster-pack",
+  "uuid": "c35a21cd-fb73-5e78-beb6-e34204a74998",
   "region": "international",
   "set": "me02",
   "category": "booster_pack",
   "name": "Phantasmal Flames Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846729
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "212194c4-4553-56eb-a7cc-f04a2b9644f0",
       "name": "Mega Evolution—Phantasmal Flames",
       "releaseDate": "2025-11-14",
       "identifiers": {
@@ -29,6 +32,14 @@
       "sources": [
         "https://www.tcgplayer.com/product/654144/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-pack",
         "https://www.pokemon.com/us/pokemon-tcg/mega-evolution-phantasmal-flames"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "736c010d-a07d-56da-b61c-2d55683286fa",
+      "name": "Méga-Évolution – Flammes Fantasmagoriques",
+      "sources": [
+        "https://www.pokepedia.fr/Collection_Premium_M%C3%A9ga-Amphinobi-ex"
       ]
     }
   ]

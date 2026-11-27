@@ -1,9 +1,11 @@
 {
   "id": "xy12-dragonite-ex-box",
+  "uuid": "fa6cf8bf-7051-5635-80ca-9a9a91303b19",
   "region": "international",
   "set": "xy12",
   "category": "collection_box",
   "name": "Dragonite EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6f6fd21c-629a-5525-8f1f-f70dc5a094e0",
       "name": "Dragonite EX Box",
       "identifiers": {
         "tcgplayerProductIds": [

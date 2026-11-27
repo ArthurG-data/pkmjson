@@ -1,9 +1,11 @@
 {
   "id": "swshp-kleavor-vstar-premium-collection",
+  "uuid": "ea125329-a6d5-5fce-aae6-0fb153c53c7d",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Kleavor VSTAR Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f28bd4db-4744-50f3-98ad-3ef0c1fad491",
       "name": "Kleavor VSTAR Premium Collection",
       "releaseDate": "2022-05-27",
       "identifiers": {
@@ -46,6 +49,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8523b8b6-5008-5039-a023-d42735a7202b",
       "name": "Collection Premium Hachécateur‑VSTAR",
       "releaseDate": "2022-05-27",
       "sources": [

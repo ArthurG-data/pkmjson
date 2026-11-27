@@ -1,9 +1,11 @@
 {
   "id": "sm11b-booster-box",
+  "uuid": "a9006998-a226-5e1a-9fa7-85d1884491b9",
   "region": "asia",
   "set": "SM11b",
   "category": "booster_box",
   "name": "Dream League Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550356
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6b501df0-ff37-592c-bf9d-9baf370d4c4a",
       "name": "Dream League Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

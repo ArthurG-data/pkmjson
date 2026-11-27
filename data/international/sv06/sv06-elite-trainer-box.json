@@ -1,9 +1,11 @@
 {
   "id": "sv06-elite-trainer-box",
+  "uuid": "fad78de4-6611-5e32-be3e-3ba57350bf4e",
   "region": "international",
   "set": "sv06",
   "category": "elite_trainer_box",
   "name": "Twilight Masquerade Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761229
   },
@@ -64,6 +66,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6ad6dd92-b25d-59b8-82d3-ddf73b3c61f2",
       "name": "Twilight Masquerade Elite Trainer Box",
       "releaseDate": "2024-05-24",
       "identifiers": {
@@ -77,6 +80,7 @@
     },
     {
       "language": "fr",
+      "uuid": "16cc80f6-ac01-5cf5-9fd5-9bb49523ee0a",
       "name": "Coffret Dresseur d'élite Écarlate et Violet Mascarade Crépusculaire",
       "releaseDate": "2024-05-24",
       "sources": [
@@ -85,6 +89,7 @@
     },
     {
       "language": "es",
+      "uuid": "834f9b9e-fae5-5c06-bd51-06a9e8883047",
       "name": "Caja de Entrenador Élite de Escarlata y Púrpura-Mascarada Crepuscular",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-mascarada-crepuscular"

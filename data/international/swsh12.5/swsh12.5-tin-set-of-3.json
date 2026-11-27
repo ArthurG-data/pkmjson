@@ -1,15 +1,18 @@
 {
   "id": "swsh12.5-tin-set-of-3",
+  "uuid": "dbfcce04-f840-54e4-b81c-858554d3b883",
   "region": "international",
   "set": "swsh12.5",
   "category": "other",
   "name": "Crown Zenith Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a full art promo card featuring: Galarian Articunos, Galarian Zapdos, or Galarian Moltres; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d382f679-7911-5dc5-9b72-76d713e79ea6",
       "name": "Crown Zenith Tin [Set of 3]",
       "releaseDate": "2023-03-17",
       "identifiers": {

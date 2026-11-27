@@ -1,9 +1,11 @@
 {
   "id": "sm9-tag-team-tin-celebi-venusaur-gx",
+  "uuid": "0569b81b-cd91-59db-9335-932a7828b112",
   "region": "international",
   "set": "sm9",
   "category": "tin",
   "name": "TAG TEAM Tin [Celebi & Venusaur GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4b835739-96e5-5522-a095-91dddc4b3af8",
       "name": "TAG TEAM Tin [Celebi & Venusaur GX]",
       "identifiers": {
         "tcgplayerProductIds": [

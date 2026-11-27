@@ -1,9 +1,11 @@
 {
   "id": "svp-triple-whammy-tin-tyranitar",
+  "uuid": "34b3baea-19f3-5187-bf97-f6660dfe6efb",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Triple Whammy Tin [Tyranitar]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "241c5858-1a2c-5b28-8f0c-af29bfb0ceaf",
       "name": "Triple Whammy Tin [Tyranitar]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "swshp-legendary-dragons-of-unova-collection",
+  "uuid": "a42e8539-56e1-57ae-aad4-5ed610d04cdd",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Legendary Dragons of Unova Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "09115e38-5b84-5257-8d75-868f44247078",
       "name": "Legendary Dragons of Unova Collection",
       "identifiers": {
         "tcgplayerProductIds": [

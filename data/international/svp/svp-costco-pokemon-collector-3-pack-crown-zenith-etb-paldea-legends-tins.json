@@ -1,15 +1,18 @@
 {
   "id": "svp-costco-pokemon-collector-3-pack-crown-zenith-etb-paldea-legends-tins",
+  "uuid": "ffe80812-7eab-590f-96c1-36e2c4d4c7f5",
   "region": "international",
   "set": "svp",
   "category": "elite_trainer_box",
   "name": "Costco Pokemon Collector 3-Pack: Crown Zenith ETB + Paldea Legends Tins",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 18 packs in total; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c1a12554-95d0-58c6-8b84-5dd235882be2",
       "name": "Costco Pokemon Collector 3-Pack: Crown Zenith ETB + Paldea Legends Tins",
       "identifiers": {
         "tcgplayerProductIds": [

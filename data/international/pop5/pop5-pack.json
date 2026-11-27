@@ -1,15 +1,18 @@
 {
   "id": "pop5-pack",
+  "uuid": "e25aae04-b1d0-5b2a-955f-2d3615db4832",
   "region": "international",
   "set": "pop5",
   "category": "other",
   "name": "POP Series 5 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "92d6d3e3-f52c-5ad0-a8c6-68f6e2cd1098",
       "name": "POP Series 5 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

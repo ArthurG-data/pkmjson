@@ -1,9 +1,11 @@
 {
   "id": "sm7-evolution-celebration-tin-sylveon-gx",
+  "uuid": "445078b7-b395-56ed-9440-58bd7559e7d3",
   "region": "international",
   "set": "sm7",
   "category": "tin",
   "name": "Evolution Celebration Tin [Sylveon GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "debbb436-79bc-5cc1-a71c-1fa6a2ce98e8",
       "name": "Evolution Celebration Tin [Sylveon GX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -29,6 +32,7 @@
     },
     {
       "language": "es",
+      "uuid": "88fb9c4b-c8d0-53d5-8868-714cb8dce98b",
       "name": "Lata Celebración de Evolución",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -37,6 +41,7 @@
     },
     {
       "language": "it",
+      "uuid": "4577eac3-5ade-5a9f-88af-f21d93a0d350",
       "name": "Scatola da collezione Festa Evolutiva",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -45,6 +50,7 @@
     },
     {
       "language": "de",
+      "uuid": "9eaec793-0107-56b7-a0a4-8d2770b0edf8",
       "name": "Tin-Box Entwicklungsfest",
       "releaseDate": "2018-09-21",
       "sources": [
@@ -53,6 +59,7 @@
     },
     {
       "language": "fr",
+      "uuid": "7503cb3b-12ee-5f44-bf7b-9c3e5ce8093a",
       "name": "Boîte Célébration d’Évolutions",
       "releaseDate": "2018-09-21",
       "sources": [

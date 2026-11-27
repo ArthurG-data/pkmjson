@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-collection-zapdos-ex-case",
+  "uuid": "9fcd0ac3-528d-50b6-9b5d-8455111e1647",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Collection Zapdos ex Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "cc5a744f-99f8-51ff-86af-2412ca3b0c35",
       "name": "151 Collection Zapdos ex Case",
       "releaseDate": "2023-10-06",
       "identifiers": {

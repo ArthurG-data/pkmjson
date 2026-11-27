@@ -1,9 +1,11 @@
 {
   "id": "gym2-theme-deck-koga",
+  "uuid": "6bf0b677-bbef-5433-be64-4e28128f4970",
   "region": "international",
   "set": "gym2",
   "category": "theme_deck",
   "name": "Gym Challenge Theme Deck - \"Koga\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286509
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ee19948-ac6e-51b5-8467-c9b2ceea77ca",
       "name": "Gym Challenge Theme Deck - \"Koga\"",
       "identifiers": {
         "tcgplayerProductIds": [

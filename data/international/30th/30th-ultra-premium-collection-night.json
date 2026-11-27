@@ -1,19 +1,17 @@
 {
   "id": "30th-ultra-premium-collection-night",
+  "uuid": "62805e94-ad35-53cb-b01d-fb827b76d614",
   "region": "international",
   "set": "30th",
   "category": "premium_collection",
   "name": "30th Celebration Ultra-Premium Collection [Night]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
       {
         "product": "30th-booster-pack",
-        "count": 29
-      },
-      {
-        "product": "30th-booster-pack",
-        "count": 1
+        "count": 30
       }
     ],
     "other": [
@@ -47,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "06abb8ab-585c-5639-a291-8cae4ed6af9a",
       "name": "30th Celebration Ultra-Premium Collection [Night]",
       "releaseDate": "2026-11-06",
       "identifiers": {

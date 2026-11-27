@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-booster-bundle-display-case",
+  "uuid": "b5206527-c558-581e-9ed8-75922f32938c",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Booster Bundle Display Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "0655332d-b05a-5f4f-83b5-e21720a88df3",
       "name": "Paldean Fates Booster Bundle Display Case",
       "identifiers": {
         "tcgplayerProductIds": [

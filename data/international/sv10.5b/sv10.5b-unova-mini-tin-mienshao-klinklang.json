@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-unova-mini-tin-mienshao-klinklang",
+  "uuid": "9adae88b-1ef6-5c31-b597-00d5bd5dfbb0",
   "region": "international",
   "set": "sv10.5b",
   "category": "tin",
   "name": "Unova Mini Tin [Mienshao & Klinklang]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "22f8479e-8b05-5b27-9065-7044b50a0abf",
       "name": "Unova Mini Tin [Mienshao & Klinklang]",
       "releaseDate": "2025-07-18",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "eeb79ec3-83c2-5d3e-b23f-49e04a3beca7",
       "name": "Mini-boîte Unys",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-unys"
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "415e50c4-d528-5b86-9470-1ad4e7692eb2",
       "name": "Mini-Tin-Box Einall",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-einall"
@@ -54,6 +59,7 @@
     },
     {
       "language": "es",
+      "uuid": "9392c294-a299-5e68-8aef-bcd0b5fcbe10",
       "name": "Colecciona las ocho minilatas Teselia",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciona-las-ocho-minilatas-teselia"
@@ -61,6 +67,7 @@
     },
     {
       "language": "it",
+      "uuid": "24defe14-fb81-567c-bb09-1698b2e4ca9a",
       "name": "Miniscatola da collezione Unima",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-unima"

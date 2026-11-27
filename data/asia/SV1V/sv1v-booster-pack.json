@@ -1,9 +1,11 @@
 {
   "id": "sv1v-booster-pack",
+  "uuid": "ca9fd03d-20b5-548b-80e0-3600b0bb16bf",
   "region": "asia",
   "set": "SV1V",
   "category": "booster_pack",
   "name": "Violet ex Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 689086
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "186d817d-a47e-50ed-b878-5c4be3c3fdb0",
       "name": "拡張パック「バイオレットex」",
       "releaseDate": "2023-01-20",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "xy2-collector-chest",
+  "uuid": "b1f6b009-320e-51e8-9710-d93328ade570",
   "region": "international",
   "set": "xy2",
   "category": "other",
   "name": "XY Flashfire Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f88ed847-93d9-53ee-9630-c312707cdddc",
       "name": "XY Flashfire Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [

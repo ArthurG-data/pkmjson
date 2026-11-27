@@ -1,9 +1,11 @@
 {
   "id": "svp-knock-out-collection-iron-jugulis",
+  "uuid": "0d813f25-9d8c-5a71-b00e-cc3704718430",
   "region": "international",
   "set": "svp",
   "category": "collection_box",
   "name": "Knock Out Collection [Iron Jugulis]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fd3a8a7b-9f9a-589e-8f2c-46cf448cac3f",
       "name": "Knock Out Collection [Iron Jugulis]",
       "identifiers": {
         "tcgplayerProductIds": [

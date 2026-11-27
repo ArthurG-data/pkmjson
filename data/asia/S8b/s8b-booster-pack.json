@@ -1,9 +1,11 @@
 {
   "id": "s8b-booster-pack",
+  "uuid": "5717af8f-a6d9-5d25-a640-90fad11831dc",
   "region": "asia",
   "set": "S8b",
   "category": "booster_pack",
   "name": "VMAX Climax Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 576801
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "18038ec0-fe9f-57ee-ae9f-6e2b5e10cf10",
       "name": "ハイクラスパック「VMAXクライマックス」",
       "releaseDate": "2021-12-03",
       "identifiers": {

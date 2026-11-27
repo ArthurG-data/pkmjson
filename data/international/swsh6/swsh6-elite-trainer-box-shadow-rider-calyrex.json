@@ -1,9 +1,11 @@
 {
   "id": "swsh6-elite-trainer-box-shadow-rider-calyrex",
+  "uuid": "6979453f-a467-5166-8771-8ef155b6f882",
   "region": "international",
   "set": "swsh6",
   "category": "elite_trainer_box",
   "name": "Chilling Reign Elite Trainer Box [Shadow Rider Calyrex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557972
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9a0a50b3-b797-53e1-92ef-8ef35bc4377a",
       "name": "Chilling Reign Elite Trainer Box [Shadow Rider Calyrex]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy12-booster-box",
+  "uuid": "7697475d-9742-5fbd-a5dc-21ac4bbcd69f",
   "region": "international",
   "set": "xy12",
   "category": "booster_box",
   "name": "XY Evolutions Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293332
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bc3c4598-04e8-575d-8106-0d387ee0db19",
       "name": "XY Evolutions Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

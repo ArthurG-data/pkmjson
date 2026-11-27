@@ -1,9 +1,11 @@
 {
   "id": "mep-snorlax-lapras-vmax-collection",
+  "uuid": "1f45c629-b076-52e6-946b-31b56f13dcf1",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Snorlax & Lapras VMAX Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1c7a26b8-f5aa-5d2c-8f9a-92b463234076",
       "name": "Snorlax & Lapras VMAX Collection",
       "identifiers": {
         "tcgplayerProductIds": [

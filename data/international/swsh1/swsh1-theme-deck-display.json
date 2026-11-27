@@ -1,15 +1,18 @@
 {
   "id": "swsh1-theme-deck-display",
+  "uuid": "53a5119a-213b-52b0-80c7-eab3c0bc9967",
   "region": "international",
   "set": "swsh1",
   "category": "case",
   "name": "Sword & Shield Theme Deck Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d1fbd7e4-bcbd-5c31-8508-fc18a1c8ac12",
       "name": "Sword & Shield Theme Deck Display",
       "identifiers": {
         "tcgplayerProductIds": [

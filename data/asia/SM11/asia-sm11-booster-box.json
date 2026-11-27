@@ -1,9 +1,11 @@
 {
-  "id": "sm11-booster-box-576917",
+  "id": "asia-sm11-booster-box",
+  "uuid": "b8f2cfbf-f3d7-5600-bc09-071bf6dd47f0",
   "region": "asia",
   "set": "SM11",
   "category": "booster_box",
   "name": "Miracle Twin Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550381
   },
@@ -11,7 +13,7 @@
   "contents": {
     "sealed": [
       {
-        "product": "sm11-booster-pack-576916",
+        "product": "asia-sm11-booster-pack",
         "count": 30
       }
     ]
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "d263b96a-507e-5d33-ae89-8c94ca42eddb",
       "name": "Miracle Twin Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

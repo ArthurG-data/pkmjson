@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/pkmjson/schema/uuids.schema.json",
+  "title": "pkmjson UUID registry",
+  "description": "data/uuids.json, kept by tools/uuids.py.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "products",
+    "productReleases"
+  ],
+  "properties": {
+    "products": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "keys",
+        "bridges"
+      ],
+      "properties": {
+        "keys": {
+          "description": "Identity key -> UUID. Only grows; a value never changes.",
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+          }
+        },
+        "bridges": {
+          "description": "Alias key -> the UUID it was last on.",
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+          }
+        }
+      }
+    },
+    "productReleases": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "keys",
+        "bridges"
+      ],
+      "properties": {
+        "keys": {
+          "description": "Identity key -> UUID. Only grows; a value never changes.",
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+          }
+        },
+        "bridges": {
+          "description": "Alias key -> the UUID it was last on.",
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+          }
+        }
+      }
+    }
+  }
+}

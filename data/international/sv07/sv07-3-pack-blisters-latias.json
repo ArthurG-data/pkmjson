@@ -1,9 +1,11 @@
 {
   "id": "sv07-3-pack-blisters-latias",
+  "uuid": "1993d854-4d30-53d5-8831-358f2fe0261c",
   "region": "international",
   "set": "sv07",
   "category": "blister",
   "name": "Stellar Crown 3 Pack Blisters [Latias]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 776334
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fcd22692-5d0c-555c-92c0-18d54e199ca0",
       "name": "Stellar Crown 3 Pack Blisters [Latias]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -48,6 +51,7 @@
     },
     {
       "language": "fr",
+      "uuid": "71433bc6-b612-5949-b081-ba573f7754b2",
       "name": "Tripack EV07 Latias",
       "releaseDate": "2024-09-13",
       "sources": [

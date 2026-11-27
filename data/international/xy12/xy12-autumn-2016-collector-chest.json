@@ -1,9 +1,11 @@
 {
   "id": "xy12-autumn-2016-collector-chest",
+  "uuid": "57c5718c-4d87-5e74-be14-bf716484f397",
   "region": "international",
   "set": "xy12",
   "category": "other",
   "name": "Autumn 2016 Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8a4c1242-3ea2-50bf-9e7a-bf360603b6b3",
       "name": "Autumn 2016 Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [

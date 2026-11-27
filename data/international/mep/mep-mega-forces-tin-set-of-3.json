@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-forces-tin-set-of-3",
+  "uuid": "6f9673ad-06a3-57d3-ac27-20a61b8acaf7",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Mega Forces Tin [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Mega Dragonite ex, Mega Darkrai ex, or Mega Zeraora ex respectively; 4 Pokémon TCG booster packs (Pokemon TCG booster packs and contents vary by product.); set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "b6ac49cd-4a47-570e-8258-f30579adf926",
       "name": "Mega Forces Tin [Set of 3]",
       "releaseDate": "2026-08-28",
       "identifiers": {

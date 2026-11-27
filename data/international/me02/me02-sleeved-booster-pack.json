@@ -1,9 +1,11 @@
 {
   "id": "me02-sleeved-booster-pack",
+  "uuid": "267cf1b9-bcff-57b9-bb43-ef7b36b10fc4",
   "region": "international",
   "set": "me02",
   "category": "sleeved_booster_pack",
   "name": "Phantasmal Flames Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846730
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "059359a6-e5ea-5075-8d80-e85011c3ee4f",
       "name": "Phantasmal Flames Sleeved Booster Pack",
       "releaseDate": "2025-11-14",
       "identifiers": {

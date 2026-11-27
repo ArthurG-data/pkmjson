@@ -1,9 +1,11 @@
 {
   "id": "svp-league-battle-deck-gardevoir-ex",
+  "uuid": "d3059911-c070-54e3-99e4-126d16580fcb",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "League Battle Deck [Gardevoir ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "259f1da6-a41b-5727-96b4-b3819660560b",
       "name": "League Battle Deck [Gardevoir ex]",
       "releaseDate": "2024-04-19",
       "identifiers": {

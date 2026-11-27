@@ -1,9 +1,11 @@
 {
   "id": "swsh6-single-pack-blister-morpeko",
+  "uuid": "4a0e030a-216e-5191-a189-e1b587f1b47d",
   "region": "international",
   "set": "swsh6",
   "category": "blister",
   "name": "Chilling Reign Single Pack Blister [Morpeko]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585717
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "98363cb7-92fa-54d0-9f51-81c4f58f90e3",
       "name": "Chilling Reign Single Pack Blister [Morpeko]",
       "releaseDate": "2021-06-18",
       "identifiers": {

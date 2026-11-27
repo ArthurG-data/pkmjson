@@ -1,15 +1,18 @@
 {
   "id": "sv09-3-pack-blister-set-of-2",
+  "uuid": "9cc8eefb-41ea-533a-8ee4-27654fc5dd72",
   "region": "international",
   "set": "sv09",
   "category": "other",
   "name": "Journey Together 3 Pack Blister [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a promotional card; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "c5ed469b-653a-5591-a6f7-2a1b5348a4a8",
       "name": "Journey Together 3 Pack Blister [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

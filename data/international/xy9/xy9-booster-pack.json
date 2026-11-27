@@ -1,9 +1,11 @@
 {
   "id": "xy9-booster-pack",
+  "uuid": "c5bc6f3f-ac76-55ed-a19c-16b2a973d8f1",
   "region": "international",
   "set": "xy9",
   "category": "booster_pack",
   "name": "XY BREAKpoint Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 287243
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67cd7b91-a7ff-5065-a11a-9bcd145dd6a6",
       "name": "XY—BREAKpoint",
       "releaseDate": "2016-02-03",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c7e698db-c4e6-5b01-b80c-a327f8b05122",
       "name": "XY – Rupture TURBO",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Lugia",

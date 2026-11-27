@@ -1,9 +1,11 @@
 {
   "id": "sv-p-generations-start-deck-pikachu-ex-snorlax-ex",
+  "uuid": "63fe6d32-e992-582a-9837-1c3d4289e053",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Generations Start Deck - Pikachu ex & Snorlax ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "0ca8e971-8893-5b61-9b79-130e4fbf0572",
       "name": "スタートデッキGenerations ピカチュウex・カビゴンex",
       "releaseDate": "2024-11-22",
       "identifiers": {

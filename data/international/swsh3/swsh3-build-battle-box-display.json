@@ -1,15 +1,18 @@
 {
   "id": "swsh3-build-battle-box-display",
+  "uuid": "43c67631-c2f6-557a-a7b0-510f4691224d",
   "region": "international",
   "set": "swsh3",
   "category": "case",
   "name": "Darkness Ablaze Build & Battle Box Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "808b559f-148f-5a6a-95fb-f973c216f08b",
       "name": "Darkness Ablaze Build & Battle Box Display",
       "identifiers": {
         "tcgplayerProductIds": [

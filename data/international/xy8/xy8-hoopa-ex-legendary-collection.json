@@ -1,15 +1,18 @@
 {
   "id": "xy8-hoopa-ex-legendary-collection",
+  "uuid": "6bc6b0d3-c0e2-5901-8c2a-1525ec1d111e",
   "region": "international",
   "set": "xy8",
   "category": "collection_box",
   "name": "Hoopa EX Legendary Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "84bd0f55-0781-5964-b9dd-6e05af57879c",
       "name": "Hoopa EX Legendary Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "c8d1a818-780b-5a3a-b7b7-8435fa33a8bd",
       "name": "Collection Légendaire Hoopa",
       "releaseDate": "2016-04-09",
       "sources": [

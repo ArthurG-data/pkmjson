@@ -1,15 +1,18 @@
 {
   "id": "swsh2-legends-of-galar-tin-set-of-2-international-version",
+  "uuid": "fa28a138-86c6-58f4-8f03-b2d7b7f93490",
   "region": "international",
   "set": "swsh2",
   "category": "other",
   "name": "Legends of Galar Tin [Set of 2] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo featuring Zamazenta V or Zacian V; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1f97dd8d-087a-53e4-9ae5-a0c430b1224b",
       "name": "Legends of Galar Tin [Set of 2] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

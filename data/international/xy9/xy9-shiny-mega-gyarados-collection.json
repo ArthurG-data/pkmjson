@@ -1,15 +1,18 @@
 {
   "id": "xy9-shiny-mega-gyarados-collection",
+  "uuid": "c7ace1ee-0922-5921-9478-ae3d1fc15b14",
   "region": "international",
   "set": "xy9",
   "category": "collection_box",
   "name": "Shiny Mega Gyarados Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5a9adb8f-5d65-5b9c-9f5b-238230624272",
       "name": "Shiny Mega Gyarados Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "405cb378-feec-534a-aea2-0315ed12d197",
       "name": "Coffret Méga-Léviator chromatique",
       "releaseDate": "2016-10-14",
       "sources": [

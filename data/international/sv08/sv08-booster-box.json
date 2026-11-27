@@ -1,20 +1,33 @@
 {
   "id": "sv08-booster-box",
+  "uuid": "e31c9ae0-932e-5dfb-9b60-db750a01c0ec",
   "region": "international",
   "set": "sv08",
   "category": "booster_box",
   "name": "Surging Sparks Booster Box",
-  "identifiers": {"cardmarketProductId": 784949},
+  "identifiers": {
+    "cardmarketProductId": 784949
+  },
   "contentsStatus": "complete",
   "contents": {
-    "sealed": [{"product": "sv08-booster", "count": 36}]
+    "sealed": [
+      {
+        "product": "sv08-booster",
+        "count": 36
+      }
+    ]
   },
   "releases": [
     {
       "language": "en",
+      "uuid": "189de186-e86c-5521-bdcc-b3e9cf5d3436",
       "name": "Surging Sparks Booster Box",
       "releaseDate": "2024-11-08",
-      "identifiers": {"tcgplayerProductIds": [565606]},
+      "identifiers": {
+        "tcgplayerProductIds": [
+          565606
+        ]
+      },
       "sources": [
         "https://www.tcgplayer.com/product/565606/pokemon-sv08-surging-sparks-surging-sparks-booster-box",
         "https://topshelfco.ca/products/pokemon-surging-sparks-booster-box"

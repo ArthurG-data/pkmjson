@@ -1,9 +1,11 @@
 {
   "id": "me02.5-booster-bundle-display",
+  "uuid": "21339aaf-7b01-5f9a-b94f-dbcaa62253e3",
   "region": "international",
   "set": "me02.5",
   "category": "case",
   "name": "Ascended Heroes Booster Bundle Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 873607
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "75441200-7601-5e87-bf9d-762331410752",
       "name": "Ascended Heroes Booster Bundle Display",
       "identifiers": {
         "tcgplayerProductIds": [

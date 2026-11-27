@@ -1,15 +1,18 @@
 {
   "id": "xy8-legendary-collection-set-of-2",
+  "uuid": "b01367cf-593e-5f89-988f-97cc5dd25c0c",
   "region": "international",
   "set": "xy8",
   "category": "other",
   "name": "BREAKthrough Legendary Collection (Set of 2)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a82e411c-9043-512c-8341-eb10bcdaae51",
       "name": "BREAKthrough Legendary Collection (Set of 2)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "tk-dp-m-trainer-kit",
+  "uuid": "79bbe94d-9c59-53b1-a7ad-0118c4678e0e",
   "region": "international",
   "set": "tk-dp-m",
   "category": "other",
   "name": "DP Trainer Kit [Manaphy & Lucario]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "bd39f22b-e805-5896-9bee-65480a75eb3a",
       "name": "DP Trainer Kit [Manaphy & Lucario]",
       "identifiers": {
         "tcgplayerProductIds": [

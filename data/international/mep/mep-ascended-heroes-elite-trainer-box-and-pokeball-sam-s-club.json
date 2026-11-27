@@ -1,15 +1,18 @@
 {
   "id": "mep-ascended-heroes-elite-trainer-box-and-pokeball-sam-s-club",
+  "uuid": "b93ea111-40f9-5227-b5ec-d386680925ee",
   "region": "international",
   "set": "mep",
   "category": "elite_trainer_box",
   "name": "Ascended Heroes Elite Trainer Box and Pokeball (Sam's Club)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokémon Booster Packs; 1 full-art foil promo card; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "457acd68-2000-547a-abf4-7456414eaa5b",
       "name": "Ascended Heroes Elite Trainer Box and Pokeball (Sam's Club)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
-  "id": "sm11-booster-pack-576916",
+  "id": "asia-sm11-booster-pack",
+  "uuid": "80c110b3-e6b4-5acb-8a79-2c457d725932",
   "region": "asia",
   "set": "SM11",
   "category": "booster_pack",
   "name": "Miracle Twin Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550401
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f97350d2-98b1-50b9-b350-c291c47457ee",
       "name": "拡張パック「ミラクルツイン」",
       "releaseDate": "2019-05-31",
       "identifiers": {

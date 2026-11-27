@@ -1,14 +1,16 @@
 {
-  "id": "sm6-booster-box-576906",
+  "id": "asia-sm6-booster-box",
+  "uuid": "7647f013-ea08-5c1f-bea7-01644eb23c12",
   "region": "asia",
   "set": "SM6",
   "category": "booster_box",
   "name": "Forbidden Light Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
       {
-        "product": "sm6-booster-pack-576905",
+        "product": "asia-sm6-booster-pack",
         "count": 30
       }
     ]
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "fd60c538-b496-5a56-aeb3-7d29126c38f8",
       "name": "Forbidden Light Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

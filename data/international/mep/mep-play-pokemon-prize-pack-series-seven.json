@@ -1,15 +1,18 @@
 {
   "id": "mep-play-pokemon-prize-pack-series-seven",
+  "uuid": "36fe9e25-1aca-5eb3-9d9c-f3c8ef7629d3",
   "region": "international",
   "set": "mep",
   "category": "other",
   "name": "Play! Pokemon Prize Pack Series Seven",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a handful of awesome cards for your Pokémon TCG collection, each stamped with a Play.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f45c5477-5640-501a-b505-cffe58801dbb",
       "name": "Play! Pokemon Prize Pack Series Seven",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -18,6 +21,15 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/649191/pokemon-prize-pack-series-cards-play-pokemon-prize-pack-series-seven"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "3be1b4a9-0303-5660-8844-e20f22894e51",
+      "name": "Pack Récompense Play! Pokémon Série 7",
+      "releaseDate": "2025-08-14",
+      "sources": [
+        "https://www.pokepedia.fr/Pack_R%C3%A9compense_Play%21_Pok%C3%A9mon_S%C3%A9rie_7"
       ]
     }
   ]

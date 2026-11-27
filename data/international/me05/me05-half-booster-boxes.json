@@ -1,9 +1,11 @@
 {
   "id": "me05-half-booster-boxes",
+  "uuid": "fb309687-9d09-546e-987d-7b3f057bc488",
   "region": "international",
   "set": "me05",
   "category": "half_booster_box",
   "name": "Pitch Black Half Booster Boxes",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6293d5ed-6ae6-597a-980f-4105de3920a7",
       "name": "Pitch Black Half Booster Boxes",
       "releaseDate": "2026-07-17",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "sv03.5-151-collection-alakazam-ex-case",
+  "uuid": "ee30604a-87c5-5ca0-8dcc-b3b1d9b2ed7c",
   "region": "international",
   "set": "sv03.5",
   "category": "case",
   "name": "151 Collection Alakazam ex Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "eb30d618-d65a-5746-b695-caf9280fb25e",
       "name": "151 Collection Alakazam ex Case",
       "releaseDate": "2023-10-06",
       "identifiers": {

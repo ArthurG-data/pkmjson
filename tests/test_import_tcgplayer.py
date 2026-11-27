@@ -1,6 +1,24 @@
 """Regressions from the import audits: each test is a product text the generator once got wrong."""
-from import_tcgplayer import (EDITIONS, Draft, Group, Parser, PromoResolver, classify, expansion_of, fold, is_sealed,
-                              list_items, merge_release)
+from import_tcgplayer import (
+    EDITIONS,
+    Draft,
+    Group,
+    Matcher,
+    Parser,
+    PromoListing,
+    PromoResolver,
+    classify,
+    expansion_of,
+    fold,
+    is_generated,
+    is_sealed,
+    keep_identifiers,
+    list_items,
+    merge_release,
+    merge_review,
+    merged,
+)
+from pkmjson import Family
 
 
 def test_a_basic_energy_without_card_fields_is_a_card_but_an_energy_product_is_not():
@@ -169,3 +187,79 @@ def test_a_rerun_keeps_the_name_and_date_another_tool_gave_the_release():
     assert merge_release(generated, named) == {k: named[k] for k in
                                                ("language", "name", "releaseDate", "identifiers", "sources")}
     assert merge_release(generated, generated) == generated
+
+
+# --- ids and rebuilds -------------------------------------------------------------------------------------------
+
+
+def _matcher(region="international", international=("sm10",)):
+    edition = EDITIONS[85] if region == "asia" else EDITIONS[3]
+    return Matcher(None, edition, {}, set(international))
+
+
+def test_a_new_family_is_named_from_its_product_without_expansion_or_series():
+    taken = set()
+    group = _group(9, "sv08", "SV08: Surging Sparks")
+    assert _matcher().mint_id(group, {"productId": 5, "name": "Surging Sparks Elite Trainer Box"}, "x", taken) == \
+        "sv08-elite-trainer-box"
+    assert _matcher().mint_id(group, {"productId": 6, "name": "Surging Sparks Elite Trainer Box"}, "x", taken) == \
+        "sv08-elite-trainer-box-6"
+
+
+def test_an_asia_family_never_takes_an_international_id():
+    group = Group(10, "SM10", "SM10: Double Blaze", "double blaze")
+    product = {"productId": 576913, "name": "Double Blaze Booster Pack"}
+    assert _matcher("asia").mint_id(group, product, "booster_pack", set()) == "asia-sm10-booster-pack"
+    plus = Group(11, "SM1+", "SM1+: Sun & Moon Strengthening Expansion", "sun moon strengthening expansion")
+    assert _matcher("asia").mint_id(plus, {"productId": 1, "name": "Booster Box"}, "x", set()) == "sm1plus-booster-box"
+
+
+def test_items_listed_twice_become_one_item_with_both_counts():
+    assert merged([{"name": "Coin", "count": 1}, {"name": "Art card", "count": 1}, {"name": "Coin", "count": 1}]) == \
+        [{"name": "Coin", "count": 2}, {"name": "Art card", "count": 1}]
+
+
+def test_a_regenerated_family_keeps_ids_others_added_and_the_mapping_wins():
+    data = {"id": "x", "name": "x", "generatedBy": "import_tcgplayer", "contentsStatus": "partial"}
+    keep_identifiers(data, {"identifiers": {"cardmarketProductId": 5}})
+    assert data == {"id": "x", "name": "x", "generatedBy": "import_tcgplayer",
+                    "identifiers": {"cardmarketProductId": 5}, "contentsStatus": "partial"}
+    data["identifiers"] = {"cardmarketProductId": 9}
+    keep_identifiers(data, {"identifiers": {"cardmarketProductId": 5}})
+    assert data["identifiers"] == {"cardmarketProductId": 9}
+
+
+def test_a_run_limited_to_some_groups_keeps_the_other_review_entries():
+    previous = [{"family": "a", "tcgplayerProductId": 1}, {"family": "b", "tcgplayerProductId": 2}]
+    assert merge_review(previous, [{"family": "a", "tcgplayerProductId": 1, "new": True}], {1}) == [
+        {"family": "b", "tcgplayerProductId": 2}, {"family": "a", "tcgplayerProductId": 1, "new": True}]
+
+
+def test_a_hand_edited_family_is_not_regenerated():
+    page = "https://www.tcgplayer.com/product/1/x"
+    family = {"generatedBy": "import_tcgplayer", "releases": [{"language": "en", "sources": [page]}]}
+    assert is_generated(Family(None, family))
+    assert not is_generated(Family(None, {**family, "generatedBy": None}))
+    assert not is_generated(Family(None, {"notes": "Generated from TCGplayer's product text.",
+                                          "releases": family["releases"]}))
+
+
+class _Pages:
+    def __init__(self, pages):
+        self.pages = pages
+
+    def get(self, url):
+        return self.pages.get(url)
+
+
+def test_a_promo_whose_first_variant_disagrees_on_the_stamp_tries_the_next():
+    listing = PromoListing(42, Group(1, "svp", "SV: Promo", ""), "pikachu", frozenset({"pokemon center"}), None, "1")
+    pages = _Pages({
+        "https://api.tcgdex.net/v2/en/sets/svp": {"cards": [{"id": "svp-001", "localId": "001"}]},
+        "https://api.tcgdex.net/v2/en/cards/svp-001": {"id": "svp-001", "variants_detailed": [
+            {"variantId": "plain", "thirdParty": {"tcgplayer": 42}},
+            {"variantId": "stamped", "stamp": ["pokemon-center"], "thirdParty": {"tcgplayer": 42}}]}})
+    resolver = PromoResolver.__new__(PromoResolver)
+    resolver.fetcher, resolver.language = pages, "en"
+    assert resolver.tcgdex_card(listing) == {"tcgdexCardId": "svp-001", "tcgdexVariantId": "stamped",
+                                             "tcgplayerProductId": 42}

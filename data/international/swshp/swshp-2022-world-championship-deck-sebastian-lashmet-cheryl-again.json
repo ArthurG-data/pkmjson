@@ -1,9 +1,11 @@
 {
   "id": "swshp-2022-world-championship-deck-sebastian-lashmet-cheryl-again",
+  "uuid": "accaca84-b508-5fab-bbb5-e37a9499db4d",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "2022 World Championship Deck: Sebastian Lashmet (Cheryl Again)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "42137bb4-e7c9-5a36-b91d-04b78aa7f6e7",
       "name": "2022 World Championship Deck: Sebastian Lashmet (Cheryl Again)",
       "releaseDate": "2023-03-03",
       "identifiers": {

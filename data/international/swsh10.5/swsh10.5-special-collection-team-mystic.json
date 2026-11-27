@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-special-collection-team-mystic",
+  "uuid": "86e01b81-f4fb-558f-a1e4-a5e37dece05e",
   "region": "international",
   "set": "swsh10.5",
   "category": "collection_box",
   "name": "Pokemon GO Special Collection - Team Mystic",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653706
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "561aefd8-65c2-5f83-a2d3-6c480a75420d",
       "name": "Pokemon GO Special Collection - Team Mystic",
       "releaseDate": "2022-07-01",
       "identifiers": {
@@ -43,6 +46,7 @@
     },
     {
       "language": "fr",
+      "uuid": "24e6b4d3-3e6f-59c5-9d4c-674292f48f0c",
       "name": "Collection spéciale Pokémon GO Équipe Sagesse",
       "releaseDate": "2022-08-26",
       "sources": [
@@ -51,6 +55,7 @@
     },
     {
       "language": "es",
+      "uuid": "6e95f226-b49e-52b3-a1b4-dc62e4679b3d",
       "name": "Colecciones especiales de Pokémon GO (Equipo Valor, Equipo Instinto y Equipo Sabiduría)",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/colecciones-especiales-de-pokemon-go-equipo-valor-equipo-instinto-y-equipo-sabiduria"

@@ -1,15 +1,18 @@
 {
   "id": "swshp-ex-battle-stadium-blaziken-vs-gardevoir",
+  "uuid": "4938342c-646b-53e5-b7d8-60e648d76cb9",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "EX Battle Stadium: Blaziken vs. Gardevoir",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "861b58e8-9900-5db5-9145-e06e2c6dff55",
       "name": "EX Battle Stadium: Blaziken vs. Gardevoir",
       "identifiers": {
         "tcgplayerProductIds": [

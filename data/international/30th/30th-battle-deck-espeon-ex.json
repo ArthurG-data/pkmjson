@@ -1,9 +1,11 @@
 {
   "id": "30th-battle-deck-espeon-ex",
+  "uuid": "a5eb2501-4eac-5cc2-8971-30dcefd43497",
   "region": "international",
   "set": "30th",
   "category": "battle_deck",
   "name": "30th Celebration Battle Deck [Espeon ex]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895562
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6a7e3b24-4804-5041-8e34-b369d35d6016",
       "name": "30th Celebration Battle Deck [Espeon ex]",
       "releaseDate": "2026-10-30",
       "identifiers": {

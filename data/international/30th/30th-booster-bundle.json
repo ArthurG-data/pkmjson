@@ -1,9 +1,11 @@
 {
   "id": "30th-booster-bundle",
+  "uuid": "ae632085-9d7d-5116-bfca-bb543f17c249",
   "region": "international",
   "set": "30th",
   "category": "booster_bundle",
   "name": "30th Celebration Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 895561
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "def857b4-1220-50d6-8f03-698b336e0c42",
       "name": "30th Celebration Booster Bundle",
       "releaseDate": "2026-10-02",
       "identifiers": {

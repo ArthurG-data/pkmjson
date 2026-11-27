@@ -1,9 +1,11 @@
 {
   "id": "mep-checklane-2-pack-pin-blister-arceus",
+  "uuid": "9958d015-e34a-54c9-8043-ddc06b26f498",
   "region": "international",
   "set": "mep",
   "category": "blister",
   "name": "Checklane 2-Pack Pin Blister [Arceus]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d199c7dd-43f5-5a7b-8fa3-adc1f79b244b",
       "name": "Checklane 2-Pack Pin Blister [Arceus]",
       "identifiers": {
         "tcgplayerProductIds": [

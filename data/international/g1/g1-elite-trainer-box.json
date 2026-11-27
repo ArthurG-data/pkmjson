@@ -1,9 +1,11 @@
 {
   "id": "g1-elite-trainer-box",
+  "uuid": "cf90f360-42b8-5202-9713-fcfb5887305a",
   "region": "international",
   "set": "g1",
   "category": "elite_trainer_box",
   "name": "Generations Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 293302
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "33c1eecc-de37-52a7-91ad-6911cf1a61d5",
       "name": "Generations Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

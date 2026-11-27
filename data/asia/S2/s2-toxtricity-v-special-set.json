@@ -1,9 +1,11 @@
 {
   "id": "s2-toxtricity-v-special-set",
+  "uuid": "aebb2ade-b6ad-5a37-96fc-ed87cfd16e23",
   "region": "asia",
   "set": "S2",
   "category": "other",
   "name": "Toxtricity V Special Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "9c3f3315-8f63-5108-9d1d-66ec90717353",
       "name": "Toxtricity V Special Set",
       "identifiers": {
         "tcgplayerProductIds": [

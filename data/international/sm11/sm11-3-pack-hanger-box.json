@@ -1,9 +1,11 @@
 {
   "id": "sm11-3-pack-hanger-box",
+  "uuid": "3f41917c-a02d-5da3-8b7d-384b85b3b5f5",
   "region": "international",
   "set": "sm11",
   "category": "collection_box",
   "name": "Unified Minds 3 Pack Hanger Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d950f82d-8767-5a3b-9067-9331eeec5e61",
       "name": "Unified Minds 3 Pack Hanger Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh2-copperajah-v-box",
+  "uuid": "6e2748d6-b22d-5dfb-8031-7b1aa3e95170",
   "region": "international",
   "set": "swsh2",
   "category": "collection_box",
   "name": "Copperajah V Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1393bcef-620f-5e8b-9cda-0659c26b030f",
       "name": "Copperajah V Box",
       "releaseDate": "2020-06-05",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "fr",
+      "uuid": "da8c0ac0-607a-57ba-84f1-2ba3acf9b40a",
       "name": "Coffret Pachyradjah",
       "releaseDate": "2020-06-05",
       "contents": {
@@ -88,6 +92,7 @@
     },
     {
       "language": "de",
+      "uuid": "947bd0df-508e-5d56-99de-27fd8c27e88e",
       "name": "Kollektion Patinaraja-V",
       "releaseDate": "2020-06-05",
       "sources": [
@@ -96,6 +101,7 @@
     },
     {
       "language": "it",
+      "uuid": "b6f3601d-b6a5-552a-b482-3e69ec16b46a",
       "name": "Collezione Copperajah-V",
       "releaseDate": "2020-06-05",
       "sources": [

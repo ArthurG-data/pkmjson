@@ -1,9 +1,11 @@
 {
   "id": "swsh5-sleeved-booster-case",
+  "uuid": "e4a30730-c9f7-5514-aae0-a1e13f34b847",
   "region": "international",
   "set": "swsh5",
   "category": "case",
   "name": "Battle Styles Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 674716
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f3ece02f-2bcd-5ce5-ab45-6bf38770a623",
       "name": "Battle Styles Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv08-elite-trainer-box-case",
+  "uuid": "2fa3262e-6843-576e-85a5-95009d72e87e",
   "region": "international",
   "set": "sv08",
   "category": "case",
   "name": "Surging Sparks Elite Trainer Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784965
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e444b236-3bb2-54c2-bdd4-aa2cc1d16bf9",
       "name": "Surging Sparks Elite Trainer Box Case",
       "releaseDate": "2024-11-08",
       "identifiers": {

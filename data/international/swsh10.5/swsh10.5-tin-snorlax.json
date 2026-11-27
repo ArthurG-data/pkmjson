@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-tin-snorlax",
+  "uuid": "7b7b0420-e7c3-5266-8398-4b8d7ffe9bf1",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Tin [Snorlax]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653711
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d1849fb2-8931-5af5-95a8-ae67a582673c",
       "name": "Pokemon GO Tin [Snorlax]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "fr",
+      "uuid": "ceb91289-2bc1-54bc-a026-2b3d6fdd5c90",
       "name": "Boîte Pokémon GO Ronflex",
       "releaseDate": "2022-11-15",
       "sources": [

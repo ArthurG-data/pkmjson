@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-special-collection-unown-v-lugia-v",
+  "uuid": "686bd036-bd38-57ad-b3e2-2027622877fc",
   "region": "international",
   "set": "swsh12.5",
   "category": "collection_box",
   "name": "Crown Zenith Special Collection [Unown V & Lugia V]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719690
   },
@@ -52,6 +54,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5360e86b-06e4-5b9a-8e7b-685c7f3824a3",
       "name": "Crown Zenith Special Collection [Unown V & Lugia V]",
       "releaseDate": "2023-08-04",
       "identifiers": {
@@ -65,6 +68,7 @@
     },
     {
       "language": "fr",
+      "uuid": "718d504f-60e7-5a43-b6f1-5802cfc8ac0f",
       "name": "Collection spéciale Zénith Suprême Zarbi-V et Lugia-V",
       "sources": [
         "https://www.pokepedia.fr/Collection_sp%C3%A9ciale_Z%C3%A9nith_Supr%C3%AAme_Zarbi-V_et_Lugia-V"

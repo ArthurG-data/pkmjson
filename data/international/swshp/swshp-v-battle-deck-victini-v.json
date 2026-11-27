@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-victini-v",
+  "uuid": "f8c73afc-4a63-5d00-931b-2f3137a7a496",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck [Victini V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "08b20fff-336b-58c6-8a6b-d3b4dffa558d",
       "name": "V Battle Deck [Victini V]",
       "identifiers": {
         "tcgplayerProductIds": [

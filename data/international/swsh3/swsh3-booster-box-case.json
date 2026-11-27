@@ -1,9 +1,11 @@
 {
   "id": "swsh3-booster-box-case",
+  "uuid": "015087bf-8acf-5245-8375-24af6f9fc17d",
   "region": "international",
   "set": "swsh3",
   "category": "case",
   "name": "Darkness Ablaze Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 668181
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f7ca6140-76f7-5b53-84e9-bb671eb5264a",
       "name": "Darkness Ablaze Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

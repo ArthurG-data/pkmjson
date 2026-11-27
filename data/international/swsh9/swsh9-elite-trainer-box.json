@@ -1,9 +1,11 @@
 {
   "id": "swsh9-elite-trainer-box",
+  "uuid": "7ff6400f-d95c-5a82-b881-dd8368bb49ea",
   "region": "international",
   "set": "swsh9",
   "category": "elite_trainer_box",
   "name": "Brilliant Stars Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 583510
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9144cfa7-49ca-556b-907c-f34257f84e4a",
       "name": "Brilliant Stars Elite Trainer Box",
       "releaseDate": "2022-02-25",
       "identifiers": {
@@ -71,6 +74,7 @@
     },
     {
       "language": "fr",
+      "uuid": "dd30357a-4367-574e-b5a6-229d177c9aec",
       "name": "Coffret Dresseur d'élite Épée et Bouclier Stars Étincelantes",
       "sources": [
         "https://www.pokepedia.fr/Coffret_Dresseur_d%27%C3%A9lite_%C3%89p%C3%A9e_et_Bouclier_Stars_%C3%89tincelantes"
@@ -78,6 +82,7 @@
     },
     {
       "language": "es",
+      "uuid": "3a54207e-efcd-5d2a-83fc-fd52d7b3afa8",
       "name": "Caja de Entrenador Élite de Espada y Escudo-Astros Brillantes",
       "releaseDate": "2022-02-25",
       "sources": [
@@ -86,6 +91,7 @@
     },
     {
       "language": "de",
+      "uuid": "8175db1b-033b-5b68-9870-5b5bbf7efbf2",
       "name": "Top-Trainer-Box Schwert & Schild – Strahlende Sterne",
       "releaseDate": "2022-02-25",
       "sources": [

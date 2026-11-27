@@ -1,15 +1,18 @@
 {
   "id": "xy5a-booster-box",
+  "uuid": "1c1d5106-c844-5f4d-8a8a-7cbfa597947f",
   "region": "asia",
   "set": "XY5a",
   "category": "booster_box",
   "name": "Gaia Volcano Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "ja",
+      "uuid": "87c4fcc0-01b6-5f5d-88a2-8d25aab49c45",
       "name": "Gaia Volcano Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

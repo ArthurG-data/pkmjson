@@ -1,15 +1,18 @@
 {
   "id": "xy10-mega-mawile-ex-premium-collection",
+  "uuid": "2afb99b5-a99b-51ad-a006-297dd427a3b6",
   "region": "international",
   "set": "xy10",
   "category": "premium_collection",
   "name": "Mega Mawile EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "598c4509-e274-5800-8906-22bcb82370d3",
       "name": "Mega Mawile EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "24f96dac-a3f4-5630-a059-366ed08af66c",
       "name": "Collection Premium Méga-Mysdibule",
       "releaseDate": "2016-10-12",
       "contents": {

@@ -1,9 +1,11 @@
 {
   "id": "svp-2025-world-championship-deck-yuyu-okita-jp-raging-bolt",
+  "uuid": "0e9ce7ec-6877-5e11-9adc-69114a1bca45",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2025 World Championship Deck: Yuyu Okita (JP Raging Bolt)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "23c8989f-0501-51ba-9c59-382ea193cb8d",
       "name": "2025 World Championship Deck: Yuyu Okita (JP Raging Bolt)",
       "identifiers": {
         "tcgplayerProductIds": [

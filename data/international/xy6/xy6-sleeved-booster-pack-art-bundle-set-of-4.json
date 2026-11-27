@@ -1,15 +1,18 @@
 {
   "id": "xy6-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "b8d5f81c-f62e-52f0-8cca-8b84bcc7ccf1",
   "region": "international",
   "set": "xy6",
   "category": "other",
   "name": "Roaring Skies Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1309d4f2-0a17-5e16-9384-3bbf9538de29",
       "name": "Roaring Skies Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

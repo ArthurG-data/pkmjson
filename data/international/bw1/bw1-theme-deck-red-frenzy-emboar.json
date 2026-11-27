@@ -1,9 +1,11 @@
 {
   "id": "bw1-theme-deck-red-frenzy-emboar",
+  "uuid": "61130b2c-052c-53de-b1c5-8332cb25e9a2",
   "region": "international",
   "set": "bw1",
   "category": "theme_deck",
   "name": "Black & White Theme Deck - \"Red Frenzy\" [Emboar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286544
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1d87a1f2-1ab4-5cb4-84fa-a029e6d49d9c",
       "name": "Black & White Theme Deck - \"Red Frenzy\" [Emboar]",
       "identifiers": {
         "tcgplayerProductIds": [

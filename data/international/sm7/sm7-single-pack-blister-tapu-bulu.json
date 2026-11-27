@@ -1,9 +1,11 @@
 {
   "id": "sm7-single-pack-blister-tapu-bulu",
+  "uuid": "8a7a31d2-b388-5a75-9e45-135b4d43bce2",
   "region": "international",
   "set": "sm7",
   "category": "blister",
   "name": "Celestial Storm Single Pack Blister [Tapu Bulu]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585930
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7abdce5b-68b9-50cf-a6d4-a03268fcaf12",
       "name": "Celestial Storm Single Pack Blister [Tapu Bulu]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "dp1-diamond-pearl-theme-deck-terra-firma",
+  "uuid": "e6059061-506a-5f9c-873f-5ce2f913c34c",
   "region": "international",
   "set": "dp1",
   "category": "theme_deck",
   "name": "Diamond & Pearl Theme Deck - \"Terra Firma\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286578
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "68ef2b43-2997-5821-8d02-d16d84912889",
       "name": "Diamond & Pearl Theme Deck - \"Terra Firma\"",
       "identifiers": {
         "tcgplayerProductIds": [

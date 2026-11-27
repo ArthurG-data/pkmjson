@@ -1,15 +1,18 @@
 {
   "id": "sm7-battle-arena-deck-mega-blastoise-mega-charizard-x",
+  "uuid": "c7e7d3e9-46b9-5de3-96dd-f83750f43375",
   "region": "international",
   "set": "sm7",
   "category": "battle_deck",
   "name": "Battle Arena Deck [Mega Blastoise & Mega Charizard X]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 11 foil cards; 11 foil cards; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "a442bb51-3dab-5536-9c01-08ffce51d396",
       "name": "Battle Arena Deck [Mega Blastoise & Mega Charizard X]",
       "releaseDate": "2018-09-21",
       "identifiers": {

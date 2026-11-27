@@ -1,15 +1,18 @@
 {
   "id": "me04-booster-bundle-case",
+  "uuid": "c4e09a08-4204-50e3-b31e-3b5e0006ea07",
   "region": "international",
   "set": "me04",
   "category": "case",
   "name": "Chaos Rising Booster Bundle Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d3e06853-d52c-5942-a4c3-8bb4bd7f4a32",
       "name": "Chaos Rising Booster Bundle Case",
       "releaseDate": "2026-05-22",
       "identifiers": {

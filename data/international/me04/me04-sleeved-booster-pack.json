@@ -1,9 +1,11 @@
 {
   "id": "me04-sleeved-booster-pack",
+  "uuid": "b6a78b55-2ac5-5cc3-9455-cacfaba48778",
   "region": "international",
   "set": "me04",
   "category": "sleeved_booster_pack",
   "name": "Chaos Rising Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 877292
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6a525161-13cc-5ad7-b964-28fc1ffbd56a",
       "name": "Chaos Rising Sleeved Booster Pack",
       "releaseDate": "2026-05-22",
       "identifiers": {

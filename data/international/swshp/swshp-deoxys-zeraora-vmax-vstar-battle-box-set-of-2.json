@@ -1,15 +1,18 @@
 {
   "id": "swshp-deoxys-zeraora-vmax-vstar-battle-box-set-of-2",
+  "uuid": "e870c9ed-b55d-5381-b2a3-ea559bfe671b",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Deoxys/Zeraora VMAX & VSTAR Battle Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 etched foil promo card featuring Deoxys VMAX or Zeraora VMAX; 1 etched foil promo card featuring Deoxys VSTAR or Zeraora VSTAR; 4 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "d1603e30-177b-546b-851c-bdc4ea68afea",
       "name": "Deoxys/Zeraora VMAX & VSTAR Battle Box [Set of 2]",
       "releaseDate": "2022-10-14",
       "identifiers": {

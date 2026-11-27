@@ -1,9 +1,11 @@
 {
-  "id": "sm12-booster-pack-576918",
+  "id": "asia-sm12-booster-pack",
+  "uuid": "5ab5a552-41a1-5900-ae9d-ce57b82d90d9",
   "region": "asia",
   "set": "SM12",
   "category": "booster_pack",
   "name": "Alter Genesis Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 550361
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "97a816f5-b782-5e8a-8300-58d91aa11590",
       "name": "拡張パック「オルタージェネシス」",
       "releaseDate": "2019-09-06",
       "identifiers": {

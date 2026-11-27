@@ -1,9 +1,11 @@
 {
   "id": "swshp-spring-2022-collector-chest",
+  "uuid": "8eb98dba-99e0-551c-9824-8e3250441d21",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Spring 2022 Collector Chest",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f4c5d466-d3a4-52e1-af2c-84d5ad1546ff",
       "name": "Spring 2022 Collector Chest",
       "identifiers": {
         "tcgplayerProductIds": [

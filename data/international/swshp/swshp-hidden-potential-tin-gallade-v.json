@@ -1,9 +1,11 @@
 {
   "id": "swshp-hidden-potential-tin-gallade-v",
+  "uuid": "bb94ec0c-6065-5f5d-bb35-87ecfbd00055",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Hidden Potential Tin [Gallade V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "787497ab-bae2-574d-a13f-ab3ea77c436f",
       "name": "Hidden Potential Tin [Gallade V]",
       "releaseDate": "2022-10-14",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "de",
+      "uuid": "bd83a6b0-9e17-539a-8091-2a840c9ba45d",
       "name": "Tin-Box Verborgenes Potenzial",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-verborgenes-potenzial"
@@ -47,6 +51,7 @@
     },
     {
       "language": "es",
+      "uuid": "82bb58c7-e032-5b74-8939-8fa822a51061",
       "name": "Lata Potencial Oculto",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-potencial-oculto"
@@ -54,6 +59,7 @@
     },
     {
       "language": "it",
+      "uuid": "8036451c-5b49-5d48-9056-137c59a0b83d",
       "name": "Scatole da collezione Potenziale Nascosto",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatole-da-collezione-potenziale-nascosto"

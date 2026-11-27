@@ -1,15 +1,18 @@
 {
   "id": "det1-special-case-file-3-pack-booster-blister",
+  "uuid": "366ef86d-f999-5bab-8560-6a9895a1ba95",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu Special Case File - 3 Pack Booster Blister",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9249e3f2-e944-5b08-ba41-b595355e4b0f",
       "name": "Detective Pikachu Special Case File - 3 Pack Booster Blister",
       "identifiers": {
         "tcgplayerProductIds": [

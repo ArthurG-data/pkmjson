@@ -1,15 +1,18 @@
 {
   "id": "xy5-sleeved-booster-pack-art-bundle-set-of-4",
+  "uuid": "0e308cab-b962-587d-87d7-a107fc3bd57f",
   "region": "international",
   "set": "xy5",
   "category": "other",
   "name": "Primal Clash Sleeved Booster Pack Art Bundle [Set of 4]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5a71cff6-bbe1-5db4-92f9-0c72e72248fc",
       "name": "Primal Clash Sleeved Booster Pack Art Bundle [Set of 4]",
       "identifiers": {
         "tcgplayerProductIds": [

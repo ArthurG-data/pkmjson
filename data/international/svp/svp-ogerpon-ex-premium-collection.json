@@ -1,9 +1,11 @@
 {
   "id": "svp-ogerpon-ex-premium-collection",
+  "uuid": "194b6112-ee40-5258-be74-d10de5627cbb",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Ogerpon ex Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0be2b40e-4737-53dd-8926-1c9d64800605",
       "name": "Ogerpon ex Premium Collection",
       "releaseDate": "2024-11-15",
       "identifiers": {

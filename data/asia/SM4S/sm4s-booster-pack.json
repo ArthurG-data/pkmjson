@@ -1,9 +1,11 @@
 {
   "id": "sm4s-booster-pack",
+  "uuid": "2723f2e5-b5d9-5a9e-993a-97f2839e0a83",
   "region": "asia",
   "set": "SM4S",
   "category": "booster_pack",
   "name": "Awakened Heroes Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551921
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7bc17a57-6520-5a5a-b671-900de1feef79",
       "name": "拡張パック「覚醒の勇者」",
       "releaseDate": "2017-09-15",
       "identifiers": {

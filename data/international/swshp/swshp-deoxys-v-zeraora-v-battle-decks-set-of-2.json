@@ -1,15 +1,18 @@
 {
   "id": "swshp-deoxys-v-zeraora-v-battle-decks-set-of-2",
+  "uuid": "b3565339-3812-56c6-908f-97b75804e8b2",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "Deoxys V / Zeraora V Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck featuring either Deoxys V or Zeraora V; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9916c549-f9ed-543f-ae94-0319ce8b2d77",
       "name": "Deoxys V / Zeraora V Battle Decks [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "smp-premium-checklane-blister-gallade",
+  "uuid": "46235eb6-406c-5c33-8118-5263a5bfaf40",
   "region": "international",
   "set": "smp",
   "category": "blister",
   "name": "Premium Checklane Blister [Gallade]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "96ffaca4-67aa-5100-b1a9-57a04451b1d5",
       "name": "Premium Checklane Blister [Gallade]",
       "identifiers": {
         "tcgplayerProductIds": [

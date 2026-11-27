@@ -1,9 +1,11 @@
 {
   "id": "sv10.5b-booster-bundle-display",
+  "uuid": "33e64df0-a3cf-569c-a35f-866c39014dcc",
   "region": "international",
   "set": "sv10.5b",
   "category": "case",
   "name": "Black Bolt Booster Bundle Display",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 836257
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1411a118-1a1c-5041-9949-a3cb66ea8520",
       "name": "Black Bolt Booster Bundle Display",
       "releaseDate": "2025-08-22",
       "identifiers": {

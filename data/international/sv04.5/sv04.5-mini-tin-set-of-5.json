@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-mini-tin-set-of-5",
+  "uuid": "4d410cd0-4a12-5933-b6a4-a6a5d2a8b133",
   "region": "international",
   "set": "sv04.5",
   "category": "other",
   "name": "Paldean Fates Mini Tin [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "086af41f-27d5-57a2-a35f-9e96496fc4ce",
       "name": "Paldean Fates Mini Tin [Set of 5]",
       "releaseDate": "2024-02-09",
       "identifiers": {

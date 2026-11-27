@@ -1,9 +1,11 @@
 {
   "id": "xy11-sleeved-booster-case",
+  "uuid": "437d581f-5f8e-5021-8053-5448c7a06a69",
   "region": "international",
   "set": "xy11",
   "category": "case",
   "name": "Steam Siege Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f32a9c86-44c1-5972-a3c0-0ec968af1a78",
       "name": "Steam Siege Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

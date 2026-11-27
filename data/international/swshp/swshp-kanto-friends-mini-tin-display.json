@@ -1,15 +1,18 @@
 {
   "id": "swshp-kanto-friends-mini-tin-display",
+  "uuid": "9ded056e-1fc9-538b-b232-a105fd625319",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Kanto Friends Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4db5ba06-77a0-5dcd-aee2-c202919170e7",
       "name": "Kanto Friends Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

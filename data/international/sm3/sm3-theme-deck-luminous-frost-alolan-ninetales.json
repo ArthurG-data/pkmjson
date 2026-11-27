@@ -1,9 +1,11 @@
 {
   "id": "sm3-theme-deck-luminous-frost-alolan-ninetales",
+  "uuid": "08f7ecbc-c217-5d01-b3dc-f94c62873b91",
   "region": "international",
   "set": "sm3",
   "category": "theme_deck",
   "name": "Burning Shadows Theme Deck - \"Luminous Frost\" [Alolan Ninetales]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 298774
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a0bac39d-b148-587f-bad7-860dda7befc7",
       "name": "Burning Shadows Theme Deck - \"Luminous Frost\" [Alolan Ninetales]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sv4k-booster-pack",
+  "uuid": "2a594798-eb18-5c67-89cd-e6b41adecd91",
   "region": "asia",
   "set": "SV4K",
   "category": "booster_pack",
   "name": "Ancient Roar Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 732593
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "1a502c80-8adc-5698-8ded-9380aa92c5d2",
       "name": "拡張パック「古代の咆哮」",
       "releaseDate": "2023-10-27",
       "identifiers": {

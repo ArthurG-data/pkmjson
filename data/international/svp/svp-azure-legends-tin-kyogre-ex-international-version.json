@@ -1,9 +1,11 @@
 {
   "id": "svp-azure-legends-tin-kyogre-ex-international-version",
+  "uuid": "abb00d2b-d30d-52d9-a43a-4063e398ebb8",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Azure Legends Tin [Kyogre ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2ec44fa6-0af7-5061-b34b-72cb0c6af843",
       "name": "Azure Legends Tin [Kyogre ex] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

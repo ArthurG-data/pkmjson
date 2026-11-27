@@ -1,9 +1,11 @@
 {
   "id": "sm9-mini-booster-pack",
+  "uuid": "8a63a667-a658-578b-b40d-d53ee0121528",
   "region": "international",
   "set": "sm9",
   "category": "booster_pack",
   "name": "Team Up - Mini Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "200f9679-70c0-537d-b056-0c2675edea32",
       "name": "Team Up - Mini Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

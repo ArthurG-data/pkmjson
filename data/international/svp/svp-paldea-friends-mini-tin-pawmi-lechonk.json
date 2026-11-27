@@ -1,9 +1,11 @@
 {
   "id": "svp-paldea-friends-mini-tin-pawmi-lechonk",
+  "uuid": "8c3e0cd8-546e-5882-a228-d5d7e1bc9dd4",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paldea Friends Mini Tin [Pawmi & Lechonk]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "3806ddba-6b6b-5ae6-9756-b296efdaa041",
       "name": "Paldea Friends Mini Tin [Pawmi & Lechonk]",
       "releaseDate": "2023-05-05",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "782ad1ce-0421-5699-879b-67e3bdb3e568",
       "name": "Mini-boîte Amis de Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-amis-de-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "de",
+      "uuid": "f0694b89-e5d7-5202-90d8-56a43e61ee6b",
       "name": "Mini-Tin-Box Paldea-Freunde",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mini-tin-box-paldea-freunde"
@@ -48,6 +53,7 @@
     },
     {
       "language": "es",
+      "uuid": "18139bfb-0df2-5fbb-a1fb-0e4caf0db5e0",
       "name": "Minilata Amigos de Paldea",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/minilata-amigos-de-paldea"
@@ -55,6 +61,7 @@
     },
     {
       "language": "it",
+      "uuid": "24426579-d082-51e0-820a-e91594b72292",
       "name": "Miniscatola da collezione Amici di Paldea",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-amici-di-paldea"

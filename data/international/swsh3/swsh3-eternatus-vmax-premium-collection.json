@@ -1,9 +1,11 @@
 {
   "id": "swsh3-eternatus-vmax-premium-collection",
+  "uuid": "2e0c4f61-36ab-5c60-8738-920c85c694cd",
   "region": "international",
   "set": "swsh3",
   "category": "premium_collection",
   "name": "Eternatus VMAX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "058a3e88-ddf6-5d24-af9d-a26815f976f7",
       "name": "Eternatus VMAX Premium Collection",
       "releaseDate": "2020-09-04",
       "identifiers": {
@@ -52,6 +55,7 @@
     },
     {
       "language": "fr",
+      "uuid": "142fbb44-5a7c-5568-a0de-d43e712e5d4a",
       "name": "Collection Premium Éthernatos",
       "releaseDate": "2020-09-18",
       "contents": {

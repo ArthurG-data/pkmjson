@@ -1,9 +1,11 @@
 {
   "id": "sv04-single-pack-blister-pineco",
+  "uuid": "fb987b87-1ec8-55e3-be7b-078f5fd7c12a",
   "region": "international",
   "set": "sv04",
   "category": "blister",
   "name": "Paradox Rift Single Pack Blister [Pineco]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 728734
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "210d0d79-a7cd-51de-abe3-19f2c408fd47",
       "name": "Paradox Rift Single Pack Blister [Pineco]",
       "identifiers": {
         "tcgplayerProductIds": [

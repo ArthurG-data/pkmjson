@@ -1,9 +1,11 @@
 {
   "id": "xy0-deluxe-kalos-starter-deck-chespin",
+  "uuid": "3779a864-b414-52d3-830e-d17a7132d88a",
   "region": "international",
   "set": "xy0",
   "category": "battle_deck",
   "name": "Deluxe Kalos Starter Deck [Chespin]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "831a5722-9319-5836-93f0-776e786ef2e9",
       "name": "Deluxe Kalos Starter Deck [Chespin]",
       "identifiers": {
         "tcgplayerProductIds": [

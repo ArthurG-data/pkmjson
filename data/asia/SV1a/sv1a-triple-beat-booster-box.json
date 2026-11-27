@@ -1,9 +1,11 @@
 {
   "id": "sv1a-triple-beat-booster-box",
+  "uuid": "7d908126-b5a1-58cc-a84d-6eaaa79a75c9",
   "region": "asia",
   "set": "SV1a",
   "category": "booster_box",
   "name": "Triple Beat Booster Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3478cd69-0e16-50c2-9bc5-b1f40a280d5e",
       "name": "Triple Beat Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

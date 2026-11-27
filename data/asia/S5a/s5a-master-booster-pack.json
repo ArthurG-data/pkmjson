@@ -1,9 +1,11 @@
 {
   "id": "s5a-master-booster-pack",
+  "uuid": "71d1f598-e995-5224-9dab-9f093542e4d2",
   "region": "asia",
   "set": "S5a",
   "category": "booster_pack",
   "name": "Peerless Fighters Master Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "819111a6-af01-5d1d-8954-2146dd95fce9",
       "name": "強化拡張パック「双璧のファイター」",
       "releaseDate": "2021-03-19",
       "identifiers": {

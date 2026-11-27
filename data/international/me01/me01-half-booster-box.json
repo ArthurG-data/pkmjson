@@ -1,9 +1,11 @@
 {
   "id": "me01-half-booster-box",
+  "uuid": "ca76441a-48d7-5203-ba5a-3ead1d24c6f7",
   "region": "international",
   "set": "me01",
   "category": "half_booster_box",
   "name": "Mega Evolution Half Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834825
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d75bbbff-e53b-5d12-808f-617e9ab454ea",
       "name": "Mega Evolution Half Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

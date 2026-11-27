@@ -1,15 +1,18 @@
 {
   "id": "xy4-gallade-ex-box",
+  "uuid": "0a04797f-8e24-5515-a47b-3ad199e77b5c",
   "region": "international",
   "set": "xy4",
   "category": "collection_box",
   "name": "Gallade EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "72ed3668-392d-5c0a-9f11-ce703ffefe56",
       "name": "Gallade EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "92e89bdc-91b0-5355-9030-26b73966b6ca",
       "name": "Coffret Gallame-EX",
       "releaseDate": "2015-06-22",
       "contents": {

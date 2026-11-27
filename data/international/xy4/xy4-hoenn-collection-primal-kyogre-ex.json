@@ -1,15 +1,18 @@
 {
   "id": "xy4-hoenn-collection-primal-kyogre-ex",
+  "uuid": "aba252d2-c3c6-50f5-9cee-80486b87eec6",
   "region": "international",
   "set": "xy4",
   "category": "collection_box",
   "name": "Hoenn Collection [Primal Kyogre EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "760aa805-d8f5-5f80-b45c-d7bf1d85115c",
       "name": "Hoenn Collection [Primal Kyogre EX]",
       "identifiers": {
         "tcgplayerProductIds": [

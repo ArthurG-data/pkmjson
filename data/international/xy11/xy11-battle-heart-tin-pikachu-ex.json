@@ -1,15 +1,18 @@
 {
   "id": "xy11-battle-heart-tin-pikachu-ex",
+  "uuid": "d0384243-27dd-52d4-8f05-16927d312d3b",
   "region": "international",
   "set": "xy11",
   "category": "tin",
   "name": "Battle Heart Tin [Pikachu EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "084d4b81-f26a-5500-84cd-f5733a3fcff8",
       "name": "Battle Heart Tin [Pikachu EX]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e95ba15e-6bc7-5a0e-b34d-41c175f97ade",
       "name": "Boîte Cœur au Combat Pikachu",
       "releaseDate": "2016-11-06",
       "contents": {

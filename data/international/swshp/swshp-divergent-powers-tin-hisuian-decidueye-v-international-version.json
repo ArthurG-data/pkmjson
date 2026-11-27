@@ -1,9 +1,11 @@
 {
   "id": "swshp-divergent-powers-tin-hisuian-decidueye-v-international-version",
+  "uuid": "3dde2e63-7a0f-597d-b2c6-461676a97193",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Divergent Powers Tin [Hisuian Decidueye V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "23ea216c-9d87-5ef5-9622-1d780007de86",
       "name": "Divergent Powers Tin [Hisuian Decidueye V] (International Version)",
       "releaseDate": "2022-06-17",
       "identifiers": {

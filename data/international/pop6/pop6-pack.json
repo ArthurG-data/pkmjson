@@ -1,15 +1,18 @@
 {
   "id": "pop6-pack",
+  "uuid": "3fbe891c-cc80-55a9-95b7-3ea41aeb06eb",
   "region": "international",
   "set": "pop6",
   "category": "other",
   "name": "POP Series 6 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2aa942ca-3fe8-57fb-93f7-e6a2a0571375",
       "name": "POP Series 6 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

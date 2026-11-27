@@ -1,9 +1,11 @@
 {
   "id": "xy12-elite-trainer-box-mega-blastoise",
+  "uuid": "5c40564f-6662-5381-b7af-fefbd48ab270",
   "region": "international",
   "set": "xy12",
   "category": "elite_trainer_box",
   "name": "XY Evolutions Elite Trainer Box [Mega Blastoise]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "fb130984-f314-5657-b3d5-8eaa69c15a64",
       "name": "XY Evolutions Elite Trainer Box [Mega Blastoise]",
       "identifiers": {
         "tcgplayerProductIds": [

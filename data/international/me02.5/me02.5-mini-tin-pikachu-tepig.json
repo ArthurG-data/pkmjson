@@ -1,9 +1,11 @@
 {
   "id": "me02.5-mini-tin-pikachu-tepig",
+  "uuid": "d31cd69a-8e7b-5d3d-a1dc-abec3af05604",
   "region": "international",
   "set": "me02.5",
   "category": "tin",
   "name": "Ascended Heroes Mini Tin [Pikachu & Tepig]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a1f6a100-cc74-5b39-bc82-23e0b9451a76",
       "name": "Ascended Heroes Mini Tin [Pikachu & Tepig]",
       "releaseDate": "2026-02-20",
       "identifiers": {

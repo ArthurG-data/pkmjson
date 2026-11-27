@@ -1,9 +1,11 @@
 {
   "id": "swsh11-premium-checklane-blister-infernape",
+  "uuid": "d324c54c-3d78-59dc-9c8a-3f3221f949bd",
   "region": "international",
   "set": "swsh11",
   "category": "blister",
   "name": "Lost Origin Premium Checklane Blister [Infernape]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 672595
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "28699e90-451a-5b16-aa78-dcfe780264c9",
       "name": "Lost Origin Premium Checklane Blister [Infernape]",
       "releaseDate": "2022-09-09",
       "identifiers": {

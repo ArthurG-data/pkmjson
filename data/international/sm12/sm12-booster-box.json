@@ -1,9 +1,11 @@
 {
   "id": "sm12-booster-box",
+  "uuid": "d67c8b20-ea06-5d23-885c-2eae22603200",
   "region": "international",
   "set": "sm12",
   "category": "booster_box",
   "name": "Cosmic Eclipse Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 398439
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "33c7b13a-caa7-546a-aafb-777e66049d65",
       "name": "Cosmic Eclipse Booster Box",
       "releaseDate": "2019-11-01",
       "identifiers": {

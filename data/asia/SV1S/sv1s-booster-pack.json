@@ -1,9 +1,11 @@
 {
   "id": "sv1s-booster-pack",
+  "uuid": "23e6d0da-3429-5e3a-a7f7-e83f67192d9a",
   "region": "asia",
   "set": "SV1S",
   "category": "booster_pack",
   "name": "Scarlet ex Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 689085
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "3a7c420a-d415-5b26-bde5-e852f6b7d0f3",
       "name": "拡張パック「スカーレットex」",
       "releaseDate": "2023-01-20",
       "identifiers": {

@@ -1,15 +1,18 @@
 {
   "id": "swshp-sinnoh-star-mini-tin-display",
+  "uuid": "3f2fd921-5f0d-5e4d-915e-3445376e0e89",
   "region": "international",
   "set": "swshp",
   "category": "case",
   "name": "Sinnoh Star Mini Tin Display",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "79c626e9-034a-50be-a390-537a5ae0181d",
       "name": "Sinnoh Star Mini Tin Display",
       "identifiers": {
         "tcgplayerProductIds": [

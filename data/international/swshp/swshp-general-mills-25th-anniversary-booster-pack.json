@@ -1,9 +1,11 @@
 {
   "id": "swshp-general-mills-25th-anniversary-booster-pack",
+  "uuid": "9497a627-1888-50fb-b3bc-7bd24841f702",
   "region": "international",
   "set": "swshp",
   "category": "booster_pack",
   "name": "General Mills 25th Anniversary Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c0f34a8d-a30a-5cc7-93f1-02d7f4c2524d",
       "name": "General Mills 25th Anniversary Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

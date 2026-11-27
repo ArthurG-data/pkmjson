@@ -1,15 +1,18 @@
 {
   "id": "swsh4-alakazam-v-box-case",
+  "uuid": "6243ad60-1fd9-5474-83eb-cf9b52f512b7",
   "region": "international",
   "set": "swsh4",
   "category": "case",
   "name": "Alakazam V Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "763ea86c-9827-5bfd-a7e7-b886945f6a0f",
       "name": "Alakazam V Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "swshp-paldea-collection-fuecoco-koraidon-ex",
+  "uuid": "72645cfc-2f88-5c06-ae15-9d7abb88bce2",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Paldea Collection [Fuecoco/Koraidon ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cfa21980-f5bd-5a31-b3f9-5270442d43c0",
       "name": "Paldea Collection [Fuecoco/Koraidon ex]",
       "releaseDate": "2023-01-06",
       "identifiers": {

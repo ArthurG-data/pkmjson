@@ -1,9 +1,11 @@
 {
   "id": "me02-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "d6a63aee-7e6f-51b2-ad0d-12968620069e",
   "region": "international",
   "set": "me02",
   "category": "elite_trainer_box",
   "name": "Phantasmal Flames Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 846743
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6171902f-895f-517a-965e-98839e49287c",
       "name": "Phantasmal Flames Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2025-11-14",
       "identifiers": {

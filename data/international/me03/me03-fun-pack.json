@@ -1,15 +1,18 @@
 {
   "id": "me03-fun-pack",
+  "uuid": "1ad265d3-e745-5357-915a-0252bd1eca77",
   "region": "international",
   "set": "me03",
   "category": "other",
   "name": "Perfect Order Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "142c57a5-556f-5806-a159-7215e67a787a",
       "name": "Perfect Order Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

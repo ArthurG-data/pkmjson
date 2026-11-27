@@ -1,9 +1,11 @@
 {
   "id": "swshp-trainer-s-legendary-box-lugia",
+  "uuid": "f6b34514-c34a-5322-84bb-2115f8163625",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "Trainer's Legendary Box [Lugia]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4980fc7c-8be3-5bd6-b0eb-854616dc2356",
       "name": "Trainer's Legendary Box [Lugia]",
       "identifiers": {
         "tcgplayerProductIds": [

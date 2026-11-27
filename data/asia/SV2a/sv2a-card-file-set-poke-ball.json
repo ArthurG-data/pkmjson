@@ -1,9 +1,11 @@
 {
   "id": "sv2a-card-file-set-poke-ball",
+  "uuid": "0e687b79-33ea-5ab5-99f9-7678687d2180",
   "region": "asia",
   "set": "SV2a",
   "category": "other",
   "name": "Pokemon Card 151 Card File Set - Poke Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "772641ac-89f7-553f-b869-5b86c97ba337",
       "name": "Pokemon Card 151 Card File Set - Poke Ball",
       "identifiers": {
         "tcgplayerProductIds": [

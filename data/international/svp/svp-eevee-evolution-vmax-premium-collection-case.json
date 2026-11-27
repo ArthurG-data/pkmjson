@@ -1,15 +1,18 @@
 {
   "id": "svp-eevee-evolution-vmax-premium-collection-case",
+  "uuid": "eb41dc0f-6561-5576-8dd7-3454056f0deb",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Eevee Evolution VMAX Premium Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "556c9c5a-ac9a-5835-b776-fbceca68dc43",
       "name": "Eevee Evolution VMAX Premium Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

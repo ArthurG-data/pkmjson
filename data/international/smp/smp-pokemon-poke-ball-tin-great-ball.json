@@ -1,9 +1,11 @@
 {
   "id": "smp-pokemon-poke-ball-tin-great-ball",
+  "uuid": "232aa102-7197-569b-808e-e2da08b83079",
   "region": "international",
   "set": "smp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Great Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9cc726f3-25a0-5e86-8bff-6239deac69bc",
       "name": "Pokemon - Poke Ball Tin - Great Ball",
       "identifiers": {
         "tcgplayerProductIds": [

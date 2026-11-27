@@ -1,9 +1,11 @@
 {
   "id": "svp-team-rocket-tin-team-rocket-s-persian-ex-international-version",
+  "uuid": "f8eb3301-7d9d-5cd7-b299-d638b91b69c1",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Team Rocket Tin [Team Rocket's Persian ex] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "be5619a0-44c7-566a-9d4a-a21acecde268",
       "name": "Team Rocket Tin [Team Rocket's Persian ex] (International Version)",
       "releaseDate": "2025-09-05",
       "identifiers": {

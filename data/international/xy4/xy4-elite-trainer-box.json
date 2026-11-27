@@ -1,9 +1,11 @@
 {
   "id": "xy4-elite-trainer-box",
+  "uuid": "6f69163f-b5b6-52b4-a3d2-c1e1dcc199e8",
   "region": "international",
   "set": "xy4",
   "category": "elite_trainer_box",
   "name": "Phantom Forces Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286949
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "07e39bf7-8d76-5440-9020-6fd9af8b1a66",
       "name": "Phantom Forces Elite Trainer Box",
       "identifiers": {
         "tcgplayerProductIds": [

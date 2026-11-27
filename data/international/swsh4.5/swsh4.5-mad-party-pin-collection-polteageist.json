@@ -1,9 +1,11 @@
 {
   "id": "swsh4.5-mad-party-pin-collection-polteageist",
+  "uuid": "faa94f0c-225b-5a68-a2f7-689614250bca",
   "region": "international",
   "set": "swsh4.5",
   "category": "collection_box",
   "name": "Shining Fates Mad Party Pin Collection [Polteageist]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a50c032f-0d31-5b82-9d8b-d128125c4714",
       "name": "Shining Fates Mad Party Pin Collection [Polteageist]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -39,6 +42,7 @@
     },
     {
       "language": "fr",
+      "uuid": "e5a695bc-b527-572d-bfa5-1c3f1bf4ec4b",
       "name": "Collection Folle Aventure avec pin's Destinées Radieuses Polthégeist",
       "releaseDate": "2021-02-19",
       "sources": [
@@ -47,6 +51,7 @@
     },
     {
       "language": "de",
+      "uuid": "a5e8bfa2-7d65-5aa0-99a5-6247a0534413",
       "name": "Pokémon-Sammelkartenspiel-Pin-Kollektionen Verrückte Party der Erweiterung Glänzendes Schicksal",
       "releaseDate": "2021-02-19",
       "sources": [

@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-pokemon-center-elite-trainer-box-plus-exclusive",
+  "uuid": "591e4e01-7d30-5818-94ba-6073ae91552e",
   "region": "international",
   "set": "swsh10.5",
   "category": "elite_trainer_box",
   "name": "Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 653701
   },
@@ -58,6 +60,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6923805d-a24e-508a-b426-60b2de0f991f",
       "name": "Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
       "releaseDate": "2022-07-29",
       "identifiers": {

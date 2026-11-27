@@ -1,9 +1,11 @@
 {
   "id": "xy9-booster-box",
+  "uuid": "cd9aa066-cfb1-54c8-80c0-4cd73f0393f9",
   "region": "international",
   "set": "xy9",
   "category": "booster_box",
   "name": "XY BREAKpoint Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 287244
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f28aea7-7fd1-5798-82e1-23229e8698e2",
       "name": "XY BREAKpoint Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

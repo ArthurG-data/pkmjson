@@ -1,9 +1,11 @@
 {
   "id": "sm8-launch-kit",
+  "uuid": "3af5e08f-b6fc-5cd8-9fea-8e61dc1be032",
   "region": "international",
   "set": "sm8",
   "category": "other",
   "name": "Lost Thunder Launch Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "389d3ceb-26b6-5ef3-b914-b66e6b6ad88f",
       "name": "Lost Thunder Launch Kit",
       "identifiers": {
         "tcgplayerProductIds": [

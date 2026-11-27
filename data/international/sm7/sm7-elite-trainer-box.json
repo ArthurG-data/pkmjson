@@ -1,9 +1,11 @@
 {
   "id": "sm7-elite-trainer-box",
+  "uuid": "9af140cd-dd36-5c19-a674-3353e1f0e399",
   "region": "international",
   "set": "sm7",
   "category": "elite_trainer_box",
   "name": "Celestial Storm Elite Trainer Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 357062
   },
@@ -62,6 +64,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bc9bfcd3-de44-568c-897e-bb6011aad356",
       "name": "Celestial Storm Elite Trainer Box",
       "releaseDate": "2018-08-03",
       "identifiers": {
@@ -75,6 +78,7 @@
     },
     {
       "language": "fr",
+      "uuid": "d3f3fc43-071f-594f-a505-dae76eca2a71",
       "name": "Coffret Dresseur d'élite Soleil et Lune Tempête Céleste",
       "releaseDate": "2018-08-03",
       "sources": [
@@ -83,6 +87,7 @@
     },
     {
       "language": "de",
+      "uuid": "539b4501-8db4-549b-a849-fdfab0db7f53",
       "name": "Top-Trainer-Box Sonne & Mond – Sturm am Firmament",
       "releaseDate": "2018-08-03",
       "sources": [
@@ -91,6 +96,7 @@
     },
     {
       "language": "es",
+      "uuid": "980c8550-7ea5-536b-bba7-93c2786675e3",
       "name": "Caja de Entrenador Élite de Sol y Luna-Tormenta Celestial",
       "releaseDate": "2018-08-03",
       "sources": [
@@ -99,6 +105,7 @@
     },
     {
       "language": "it",
+      "uuid": "197ff125-bc81-5aa7-870b-863e22945f34",
       "name": "Set Allenatore Fuoriclasse dell’espansione Sole e Luna - Tempesta Astrale",
       "releaseDate": "2018-08-03",
       "sources": [

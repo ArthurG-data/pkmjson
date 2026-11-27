@@ -1,15 +1,18 @@
 {
   "id": "xy2-krookodile-ex-box",
+  "uuid": "1707223e-e937-5a4a-b658-30c29f7ec928",
   "region": "international",
   "set": "xy2",
   "category": "collection_box",
   "name": "Krookodile EX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9fb3d266-5c08-5bfd-9581-142b878e3062",
       "name": "Krookodile EX Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6eb59c00-859e-5f8c-9476-292da36f9f6e",
       "name": "Coffret Crocorible",
       "releaseDate": "2014-07-25",
       "contents": {

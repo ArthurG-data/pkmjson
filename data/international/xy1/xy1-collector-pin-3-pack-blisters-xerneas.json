@@ -1,9 +1,11 @@
 {
   "id": "xy1-collector-pin-3-pack-blisters-xerneas",
+  "uuid": "d3817b44-3ef1-59ca-87a3-b137f426e14e",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "XY Collector Pin 3 Pack Blisters [Xerneas]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "891aec73-c1a9-5ddb-8c98-7bbd0a6920bd",
       "name": "XY Collector Pin 3 Pack Blisters [Xerneas]",
       "identifiers": {
         "tcgplayerProductIds": [

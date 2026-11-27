@@ -1,9 +1,11 @@
 {
   "id": "svp-heavy-hitters-premium-collection-fall-2023",
+  "uuid": "75e8ee7d-1425-59a9-bb9c-9eea20c41e26",
   "region": "international",
   "set": "svp",
   "category": "premium_collection",
   "name": "Heavy Hitters Premium Collection (Fall 2023)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e17c003f-323a-5625-b619-e096982654d0",
       "name": "Heavy Hitters Premium Collection (Fall 2023)",
       "identifiers": {
         "tcgplayerProductIds": [

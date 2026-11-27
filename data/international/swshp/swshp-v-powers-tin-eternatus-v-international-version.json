@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-powers-tin-eternatus-v-international-version",
+  "uuid": "bea90bdf-b39e-5663-9456-f83fc67ce2f0",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "V Powers Tin [Eternatus V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "17840d7b-0e63-53af-9646-ee24e58a296f",
       "name": "V Powers Tin [Eternatus V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

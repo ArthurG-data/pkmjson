@@ -1,15 +1,18 @@
 {
   "id": "mep-mega-forces-tin-case",
+  "uuid": "cc67530e-563a-5ed6-8eb2-9d41eca2017a",
   "region": "international",
   "set": "mep",
   "category": "case",
   "name": "Mega Forces Tin Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: case mix; case unit.",
   "releases": [
     {
       "language": "en",
+      "uuid": "1d33aa79-d652-5097-8ef2-0eb640a6d9fe",
       "name": "Mega Forces Tin Case",
       "releaseDate": "2026-08-28",
       "identifiers": {

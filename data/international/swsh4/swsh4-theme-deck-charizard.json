@@ -1,9 +1,11 @@
 {
   "id": "swsh4-theme-deck-charizard",
+  "uuid": "420b6f4c-d40d-50e9-917a-d89e044ba841",
   "region": "international",
   "set": "swsh4",
   "category": "theme_deck",
   "name": "Vivid Voltage Theme Deck [Charizard]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 494489
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9480c810-08df-5f8c-b47f-35e416876023",
       "name": "Vivid Voltage Theme Deck [Charizard]",
       "releaseDate": "2020-11-13",
       "identifiers": {

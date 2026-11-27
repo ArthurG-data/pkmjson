@@ -1,9 +1,11 @@
 {
   "id": "sv06-pokemon-center-elite-trainer-box-exclusive",
+  "uuid": "9210f7de-1c75-55ab-a0a2-96f8d58e6fdf",
   "region": "international",
   "set": "sv06",
   "category": "elite_trainer_box",
   "name": "Twilight Masquerade Pokemon Center Elite Trainer Box (Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 761230
   },
@@ -72,6 +74,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "8aa2fcf8-a88a-5719-a183-5d01d40d016f",
       "name": "Twilight Masquerade Pokemon Center Elite Trainer Box (Exclusive)",
       "releaseDate": "2024-05-24",
       "identifiers": {

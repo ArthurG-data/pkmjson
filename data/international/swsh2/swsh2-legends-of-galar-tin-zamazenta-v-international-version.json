@@ -1,9 +1,11 @@
 {
   "id": "swsh2-legends-of-galar-tin-zamazenta-v-international-version",
+  "uuid": "b3592bba-7acd-5541-9999-395365771f7e",
   "region": "international",
   "set": "swsh2",
   "category": "tin",
   "name": "Legends of Galar Tin [Zamazenta V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "20565811-0d85-545f-be17-17d018042c58",
       "name": "Legends of Galar Tin [Zamazenta V] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

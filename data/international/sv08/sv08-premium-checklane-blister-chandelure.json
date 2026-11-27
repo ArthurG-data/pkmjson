@@ -1,9 +1,11 @@
 {
   "id": "sv08-premium-checklane-blister-chandelure",
+  "uuid": "20e05a6d-9d8d-52f5-9d71-38af1ef1eaef",
   "region": "international",
   "set": "sv08",
   "category": "blister",
   "name": "Surging Sparks Premium Checklane Blister [Chandelure]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 784960
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9e88af46-213c-55b0-a3de-34dbef374515",
       "name": "Surging Sparks Premium Checklane Blister [Chandelure]",
       "identifiers": {
         "tcgplayerProductIds": [

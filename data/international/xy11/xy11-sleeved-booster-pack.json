@@ -1,9 +1,11 @@
 {
   "id": "xy11-sleeved-booster-pack",
+  "uuid": "e32f4ad3-9394-5207-b77b-140d6e230f9d",
   "region": "international",
   "set": "xy11",
   "category": "sleeved_booster_pack",
   "name": "XY Steam Siege Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a23c96ba-d14d-51cc-9172-18925c661709",
       "name": "XY Steam Siege Sleeved Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "svp-trick-or-trade-booster-bundle-2023-120-ct",
+  "uuid": "8a3cb784-a322-5481-a741-5101373a7e03",
   "region": "international",
   "set": "svp",
   "category": "booster_bundle",
   "name": "Trick or Trade BOOster Bundle 2023 (120 ct)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "44c1148d-65c0-596e-a725-4ccbed6b5c48",
       "name": "Trick or Trade BOOster Bundle 2023 (120 ct)",
       "identifiers": {
         "tcgplayerProductIds": [

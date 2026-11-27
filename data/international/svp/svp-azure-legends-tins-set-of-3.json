@@ -1,15 +1,18 @@
 {
   "id": "svp-azure-legends-tins-set-of-3",
+  "uuid": "4ce87e6b-1840-581c-a12f-334e0e05a757",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Azure Legends Tins [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 foil promo card featuring Kyogre ex, Xerneas ex, or Dialga ex; 5 Pokémon TCG booster packs; set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "fa5c4a59-4d79-5c48-8e22-cb5fd9921802",
       "name": "Azure Legends Tins [Set of 3]",
       "releaseDate": "2025-02-21",
       "identifiers": {

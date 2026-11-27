@@ -1,9 +1,11 @@
 {
   "id": "xy7-booster-pack",
+  "uuid": "f411c886-034c-5851-a99c-ac0b2726301a",
   "region": "international",
   "set": "xy7",
   "category": "booster_pack",
   "name": "XY Ancient Origins Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 283942
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1ff571c1-ca25-5220-b3e6-f8264817b48a",
       "name": "XY—Ancient Origins",
       "releaseDate": "2015-08-12",
       "identifiers": {
@@ -33,6 +36,7 @@
     },
     {
       "language": "fr",
+      "uuid": "b994d740-4ee6-5147-be77-e481e44aba41",
       "name": "XY – Origines Antiques",
       "sources": [
         "https://www.pokepedia.fr/Coffret_M%C3%A9ga-M%C3%A9talosse-EX",

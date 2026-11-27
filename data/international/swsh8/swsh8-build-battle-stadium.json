@@ -1,9 +1,11 @@
 {
   "id": "swsh8-build-battle-stadium",
+  "uuid": "c30aaf5b-921b-5815-a9b2-236001a33d10",
   "region": "international",
   "set": "swsh8",
   "category": "other",
   "name": "Fusion Strike Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "5f9c532d-773c-569a-86dd-a2a174e423e3",
       "name": "Fusion Strike Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [

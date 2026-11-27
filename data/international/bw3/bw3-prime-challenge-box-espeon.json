@@ -1,15 +1,18 @@
 {
   "id": "bw3-prime-challenge-box-espeon",
+  "uuid": "2d0163ad-4f3b-536e-a36d-8b15dc946716",
   "region": "international",
   "set": "bw3",
   "category": "collection_box",
   "name": "Prime Challenge Box [Espeon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "83afb995-db3d-536a-8905-5cd2eb2ea003",
       "name": "Prime Challenge Box [Espeon]",
       "identifiers": {
         "tcgplayerProductIds": [

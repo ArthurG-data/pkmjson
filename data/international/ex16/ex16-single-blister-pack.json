@@ -1,15 +1,18 @@
 {
   "id": "ex16-single-blister-pack",
+  "uuid": "c741fd9a-2307-5ec6-ba10-7fa56e627037",
   "region": "international",
   "set": "ex16",
   "category": "blister",
   "name": "EX Power Keepers Single Blister Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: a booster pack containing 9 cards.",
   "releases": [
     {
       "language": "en",
+      "uuid": "9e43f731-d960-5ff2-b58c-a6bb089d18b4",
       "name": "EX Power Keepers Single Blister Pack",
       "identifiers": {
         "tcgplayerProductIds": [

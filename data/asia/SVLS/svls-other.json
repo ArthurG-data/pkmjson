@@ -1,9 +1,11 @@
 {
   "id": "svls-other",
+  "uuid": "b78a429d-1347-5038-a179-73fa45c3bdec",
   "region": "asia",
   "set": "SVLS",
   "category": "battle_deck",
   "name": "Ceruledge ex Stellar Tera Type Starter Set",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "bd2a9169-28b4-567a-ab0c-56b102895950",
       "name": "スターターセット テラスタイプ：ステラ ソウブレイズex",
       "releaseDate": "2024-08-30",
       "identifiers": {

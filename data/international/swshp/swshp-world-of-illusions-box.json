@@ -1,15 +1,18 @@
 {
   "id": "swshp-world-of-illusions-box",
+  "uuid": "ec031eea-72b7-51da-bd78-40f427ef4870",
   "region": "international",
   "set": "swshp",
   "category": "collection_box",
   "name": "World of Illusions Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 3 Pokemon TCG booster packs; An amazing Celebi Prime foil card; A brand-new foil oversized card of the Illusion Fox Pokemon Zoroark surrounded by Legendary Pokemon.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8d1c9e1c-781c-5546-bf6b-baafdc7bcfb8",
       "name": "World of Illusions Box",
       "identifiers": {
         "tcgplayerProductIds": [

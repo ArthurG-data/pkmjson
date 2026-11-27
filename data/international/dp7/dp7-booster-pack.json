@@ -1,9 +1,11 @@
 {
   "id": "dp7-booster-pack",
+  "uuid": "181aeffc-4992-5a8c-938f-65aa77a8ca73",
   "region": "international",
   "set": "dp7",
   "category": "booster_pack",
   "name": "Stormfront Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271867
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "48398a6d-f1f6-524e-8078-92bf2172fb04",
       "name": "Diamond & Pearl—Stormfront",
       "identifiers": {
         "tcgplayerProductIds": [

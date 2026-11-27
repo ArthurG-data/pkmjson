@@ -1,9 +1,11 @@
 {
   "id": "sv4m-booster-box",
+  "uuid": "89af8c69-a384-5597-836c-be644271b834",
   "region": "asia",
   "set": "SV4M",
   "category": "booster_box",
   "name": "Future Flash Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 732596
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "497b3ef7-ff11-5c35-8c97-4159c138aedf",
       "name": "Future Flash Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

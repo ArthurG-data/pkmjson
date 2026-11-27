@@ -1,15 +1,18 @@
 {
   "id": "cel25-collection-case",
+  "uuid": "7911dbb1-a18e-5443-8c50-cb180429d828",
   "region": "international",
   "set": "cel25",
   "category": "case",
   "name": "Celebrations Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "34938431-02e2-5b36-aad4-4c3e49033d80",
       "name": "Celebrations Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

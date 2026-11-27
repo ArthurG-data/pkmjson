@@ -1,9 +1,11 @@
 {
   "id": "sv03-single-blister-pack-annihilape",
+  "uuid": "bc812dfb-308d-56a6-ba35-1dfbf8f606e0",
   "region": "international",
   "set": "sv03",
   "category": "blister",
   "name": "Obsidian Flames Single Blister Pack [Annihilape]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d4c46538-0567-599b-ae41-104ea98c74ba",
       "name": "Obsidian Flames Single Blister Pack [Annihilape]",
       "identifiers": {
         "tcgplayerProductIds": [

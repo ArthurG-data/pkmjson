@@ -1,9 +1,11 @@
 {
   "id": "sv05-booster-bundle",
+  "uuid": "9b5c2bd3-0a4e-56c0-8210-d7a9db3242c0",
   "region": "international",
   "set": "sv05",
   "category": "booster_bundle",
   "name": "Temporal Forces Booster Bundle",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 750406
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a699b3d3-c78c-5384-b8dd-a2e23783c1ae",
       "name": "Temporal Forces Booster Bundle",
       "releaseDate": "2024-03-22",
       "identifiers": {

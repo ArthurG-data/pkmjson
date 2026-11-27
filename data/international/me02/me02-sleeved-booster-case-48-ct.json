@@ -1,9 +1,11 @@
 {
   "id": "me02-sleeved-booster-case-48-ct",
+  "uuid": "82e21047-db8e-5685-a4c8-fff635a4542a",
   "region": "international",
   "set": "me02",
   "category": "case",
   "name": "Phantasmal Flames Sleeved Booster Case (48 ct)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "7b0a6169-b54a-5bb0-a2d3-d23d711e196a",
       "name": "Phantasmal Flames Sleeved Booster Case (48 ct)",
       "identifiers": {
         "tcgplayerProductIds": [

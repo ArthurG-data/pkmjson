@@ -1,9 +1,11 @@
 {
   "id": "xy1-collector-s-pin-three-pack-blisters-fennekin",
+  "uuid": "b25b1395-aae1-5857-9aab-2759140ccc7c",
   "region": "international",
   "set": "xy1",
   "category": "blister",
   "name": "Collector's Pin Three Pack Blisters (Fennekin)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51ae2035-8fe1-5620-a46a-8417a6af555d",
       "name": "Collector's Pin Three Pack Blisters (Fennekin)",
       "identifiers": {
         "tcgplayerProductIds": [

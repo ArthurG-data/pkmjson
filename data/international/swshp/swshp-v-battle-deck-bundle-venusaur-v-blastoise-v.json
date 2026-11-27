@@ -1,9 +1,11 @@
 {
   "id": "swshp-v-battle-deck-bundle-venusaur-v-blastoise-v",
+  "uuid": "95262c48-727c-5368-b10f-796a95a36ced",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "V Battle Deck Bundle [Venusaur V/Blastoise V]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a9be2d58-bc17-5ed4-9d0b-3150b9de8424",
       "name": "V Battle Deck Bundle [Venusaur V/Blastoise V]",
       "identifiers": {
         "tcgplayerProductIds": [

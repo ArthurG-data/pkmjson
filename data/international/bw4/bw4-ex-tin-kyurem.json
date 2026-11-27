@@ -1,15 +1,18 @@
 {
   "id": "bw4-ex-tin-kyurem",
+  "uuid": "eafa4b43-168e-5e3e-9016-12246b8ea7a0",
   "region": "international",
   "set": "bw4",
   "category": "tin",
   "name": "EX Tin [Kyurem]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "dfacabce-6955-5219-82b0-28de69ea2b87",
       "name": "EX Tin [Kyurem]",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "834d3cb3-f952-5aba-b630-0bf792a7f837",
       "name": "Boîte Puissance EX Kyurem Blanc",
       "contents": {
         "sealed": [

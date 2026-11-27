@@ -1,9 +1,11 @@
 {
   "id": "swsh12.5-tin-galarian-articuno-international-version",
+  "uuid": "cd6c8e3c-0d61-50b2-bfd7-79771d7874a0",
   "region": "international",
   "set": "swsh12.5",
   "category": "tin",
   "name": "Crown Zenith Tin [Galarian Articuno] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "826210d3-fd05-55b7-bda2-0ea3546f2720",
       "name": "Crown Zenith Tin [Galarian Articuno] (International Version)",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm9-3-pack-blister-deoxys",
+  "uuid": "6c0aedb0-05c2-5161-84e5-02bed7fa4ba3",
   "region": "international",
   "set": "sm9",
   "category": "blister",
   "name": "Team Up 3 Pack Blister [Deoxys]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585923
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1fc2e132-e001-5503-a2e5-326e8b222bfe",
       "name": "Team Up 3 Pack Blister [Deoxys]",
       "releaseDate": "2019-02-01",
       "identifiers": {

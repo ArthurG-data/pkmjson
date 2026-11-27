@@ -1,9 +1,11 @@
 {
   "id": "svp-pokemon-poke-ball-tin-premier-ball-q4-2024",
+  "uuid": "2cc1bd4a-7490-5585-a8a0-2b0051a7f6ff",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Pokemon - Poke Ball Tin - Premier Ball (Q4 2024)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "73146840-0537-5e89-b3e3-b0582b3b07aa",
       "name": "Pokemon - Poke Ball Tin - Premier Ball (Q4 2024)",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -33,6 +36,7 @@
     },
     {
       "language": "it",
+      "uuid": "4c22c44e-c2e6-5682-85f0-1b70c27adc49",
       "name": "Scatola da collezione Poké Ball (autunno 2024)",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball-autunno-2024"

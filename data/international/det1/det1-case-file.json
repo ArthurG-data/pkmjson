@@ -1,15 +1,18 @@
 {
   "id": "det1-case-file",
+  "uuid": "09c7abc1-fbab-5856-911f-995f24b1c465",
   "region": "international",
   "set": "det1",
   "category": "case",
   "name": "Detective Pikachu Case File",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "890aeadf-80ab-53d9-a61b-820693298c85",
       "name": "Detective Pikachu Case File",
       "releaseDate": "2019-04-05",
       "identifiers": {
@@ -19,6 +22,27 @@
       },
       "sources": [
         "https://www.tcgplayer.com/product/185245/pokemon-detective-pikachu-detective-pikachu-case-file"
+      ]
+    },
+    {
+      "language": "fr",
+      "uuid": "1494eb3f-17dc-5014-a877-eea8629d572d",
+      "name": "Dossier Détective Pikachu",
+      "releaseDate": "2019-04-15",
+      "contents": {
+        "sealed": [
+          {
+            "product": "det1-booster-pack",
+            "count": 2
+          },
+          {
+            "product": "sm1-booster-pack",
+            "count": 1
+          }
+        ]
+      },
+      "sources": [
+        "https://www.pokepedia.fr/Dossier_D%C3%A9tective_Pikachu"
       ]
     }
   ]

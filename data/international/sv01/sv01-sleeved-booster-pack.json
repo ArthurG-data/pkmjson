@@ -1,9 +1,11 @@
 {
   "id": "sv01-sleeved-booster-pack",
+  "uuid": "a7440957-c692-5171-bb01-c921b3ff94b8",
   "region": "international",
   "set": "sv01",
   "category": "sleeved_booster_pack",
   "name": "Scarlet & Violet Sleeved Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 692091
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4068c722-3c52-5b73-9fc6-791feea55d27",
       "name": "Scarlet & Violet Sleeved Booster Pack",
       "releaseDate": "2023-03-31",
       "identifiers": {

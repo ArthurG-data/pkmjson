@@ -1,15 +1,18 @@
 {
   "id": "xy10-sleeved-booster-case",
+  "uuid": "cd9a06de-f663-57bf-ad8a-d3087aaca770",
   "region": "international",
   "set": "xy10",
   "category": "case",
   "name": "Fates Collide Sleeved Booster Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: Each Fates Collide sleeved booster pack case contains 144 booster packs..",
   "releases": [
     {
       "language": "en",
+      "uuid": "ad6a46db-b9b3-5153-8430-55a7b6d674a0",
       "name": "Fates Collide Sleeved Booster Case",
       "identifiers": {
         "tcgplayerProductIds": [

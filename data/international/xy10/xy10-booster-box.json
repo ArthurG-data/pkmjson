@@ -1,9 +1,11 @@
 {
   "id": "xy10-booster-box",
+  "uuid": "8d2bd9a0-9717-59e3-902b-a008da375b54",
   "region": "international",
   "set": "xy10",
   "category": "booster_box",
   "name": "XY Fates Collide Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 289045
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "43b42148-4b7f-575e-816b-25f568765c6e",
       "name": "XY Fates Collide Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm3n-booster-pack",
+  "uuid": "6b9badd2-c5aa-5341-a460-8be35ceafb48",
   "region": "asia",
   "set": "SM3N",
   "category": "booster_pack",
   "name": "Darkness that Consumes Light Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 551931
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "fdd3d439-f8c1-5ff7-9e78-abb6ac5d490c",
       "name": "拡張パック「光を喰らう闇」",
       "releaseDate": "2017-06-16",
       "identifiers": {

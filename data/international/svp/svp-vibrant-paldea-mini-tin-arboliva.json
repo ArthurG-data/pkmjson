@@ -1,9 +1,11 @@
 {
   "id": "svp-vibrant-paldea-mini-tin-arboliva",
+  "uuid": "ac0aa989-7971-5d63-a392-a77ec3ab8967",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Vibrant Paldea Mini Tin [Arboliva]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d8871148-9cc3-5932-bcf5-93cf1c2d6997",
       "name": "Vibrant Paldea Mini Tin [Arboliva]",
       "releaseDate": "2024-06-07",
       "identifiers": {
@@ -34,6 +37,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6f68aacc-9c6c-5b41-b782-16180682ee3a",
       "name": "Mini‑boîte Magnifique Paldea",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/mini-boite-magnifique-paldea"
@@ -41,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "e0330c08-a62b-5db9-9750-f69fcfd29b78",
       "name": "Miniscatola da collezione Paldea Sfavillante",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/miniscatola-da-collezione-paldea-sfavillante"

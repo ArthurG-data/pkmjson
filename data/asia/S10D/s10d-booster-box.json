@@ -1,9 +1,11 @@
 {
   "id": "s10d-booster-box",
+  "uuid": "96e25171-8f93-56b9-bfb9-8a6ca03b8fa7",
   "region": "asia",
   "set": "S10D",
   "category": "booster_box",
   "name": "Time Gazer Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611242
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "f21397d5-ba19-5b79-9691-356d79b7875c",
       "name": "Time Gazer Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

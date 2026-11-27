@@ -1,9 +1,11 @@
 {
   "id": "mep-lycanroc-ex-box-eu-exclusive",
+  "uuid": "0d44b819-352a-551e-a598-f9bfba31fa26",
   "region": "international",
   "set": "mep",
   "category": "collection_box",
   "name": "Lycanroc ex Box (EU Exclusive)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "85b5a874-4a2e-5ef3-b4dc-aa3780013901",
       "name": "Lycanroc ex Box (EU Exclusive)",
       "identifiers": {
         "tcgplayerProductIds": [

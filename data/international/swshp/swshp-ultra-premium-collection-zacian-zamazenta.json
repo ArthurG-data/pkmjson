@@ -1,9 +1,11 @@
 {
   "id": "swshp-ultra-premium-collection-zacian-zamazenta",
+  "uuid": "be507a0f-838a-504e-a654-9d04ab1e5e71",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Sword & Shield Ultra-Premium Collection - Zacian & Zamazenta",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "67a1403c-f0c5-5040-947c-ca39db98940f",
       "name": "Sword & Shield Ultra-Premium Collection - Zacian & Zamazenta",
       "releaseDate": "2020-11-20",
       "identifiers": {

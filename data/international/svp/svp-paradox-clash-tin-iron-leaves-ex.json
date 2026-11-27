@@ -1,9 +1,11 @@
 {
   "id": "svp-paradox-clash-tin-iron-leaves-ex",
+  "uuid": "7e31966c-9ce7-57bd-acfe-f7a730099d5f",
   "region": "international",
   "set": "svp",
   "category": "tin",
   "name": "Paradox Clash Tin [Iron Leaves ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "bb4d4132-bba6-51bb-896f-21df7b62b9fd",
       "name": "Paradox Clash Tin [Iron Leaves ex]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm2-booster-box-case",
+  "uuid": "8e927599-9210-558c-9579-2eed89d5a553",
   "region": "international",
   "set": "sm2",
   "category": "case",
   "name": "Guardians Rising Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4e761faa-409c-55b6-af94-c4f78e266574",
       "name": "Guardians Rising Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

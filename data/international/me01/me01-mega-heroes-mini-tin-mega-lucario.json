@@ -1,9 +1,11 @@
 {
   "id": "me01-mega-heroes-mini-tin-mega-lucario",
+  "uuid": "5561e05a-b70a-54b8-887e-9198629254dc",
   "region": "international",
   "set": "me01",
   "category": "tin",
   "name": "Mega Heroes Mini Tin [Mega Lucario]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834808
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d006188c-acca-57dd-95b5-4270b61d0bb6",
       "name": "Mega Heroes Mini Tin [Mega Lucario]",
       "releaseDate": "2025-09-26",
       "identifiers": {

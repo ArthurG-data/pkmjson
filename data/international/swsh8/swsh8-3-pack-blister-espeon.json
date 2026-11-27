@@ -1,9 +1,11 @@
 {
   "id": "swsh8-3-pack-blister-espeon",
+  "uuid": "28161336-cc00-5dc3-aa76-946144e7f181",
   "region": "international",
   "set": "swsh8",
   "category": "blister",
   "name": "Fusion Strike 3 Pack Blister [Espeon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585677
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a8f1f88f-2e6f-52ac-ad16-b966378e4ede",
       "name": "Fusion Strike 3 Pack Blister [Espeon]",
       "identifiers": {
         "tcgplayerProductIds": [

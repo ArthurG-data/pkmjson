@@ -1,9 +1,11 @@
 {
   "id": "swshp-hidden-potential-tin-gallade-v-international-version",
+  "uuid": "4e4cebc2-9dbe-5e24-a440-10635fa89463",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Hidden Potential Tin [Gallade V] (International Version)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "d0efee78-fb42-5879-82e1-6c28759ebfed",
       "name": "Hidden Potential Tin [Gallade V] (International Version)",
       "releaseDate": "2022-10-14",
       "identifiers": {

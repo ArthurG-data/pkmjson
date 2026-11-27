@@ -1,15 +1,18 @@
 {
   "id": "sv06-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "d7a280cc-8aa3-5b05-a010-abb2eeb3958c",
   "region": "international",
   "set": "sv06",
   "category": "case",
   "name": "Twilight Masquerade Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "343153f3-452b-51b5-9949-581c4467bfae",
       "name": "Twilight Masquerade Pokemon Center Elite Trainer Box (Exclusive) Case",
       "identifiers": {
         "tcgplayerProductIds": [

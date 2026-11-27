@@ -1,15 +1,18 @@
 {
   "id": "swshp-first-partner-packs-set-of-8-binder",
+  "uuid": "4efd6ce7-b413-58da-a957-9930cac1e273",
   "region": "international",
   "set": "swshp",
   "category": "other",
   "name": "First Partner Packs [Set of 8] + Binder",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "255777c5-726e-5fa4-af25-32281ffe9daa",
       "name": "First Partner Packs [Set of 8] + Binder",
       "identifiers": {
         "tcgplayerProductIds": [

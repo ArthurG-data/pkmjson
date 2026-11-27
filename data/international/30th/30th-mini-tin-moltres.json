@@ -1,9 +1,11 @@
 {
   "id": "30th-mini-tin-moltres",
+  "uuid": "32ea9758-ec4e-5a91-b169-b587645172f9",
   "region": "international",
   "set": "30th",
   "category": "tin",
   "name": "30th Celebration Mini Tin [Moltres]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "cfebb331-cbbd-570a-afec-6324d5240cc2",
       "name": "30th Celebration Mini Tin [Moltres]",
       "releaseDate": "2026-10-02",
       "identifiers": {

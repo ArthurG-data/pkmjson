@@ -1,9 +1,11 @@
 {
   "id": "xy12-booster-box-case",
+  "uuid": "a3edf1b1-ce09-5f3a-8d67-1acaf2eae894",
   "region": "international",
   "set": "xy12",
   "category": "case",
   "name": "XY Evolutions Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a6722cb9-d699-5e4e-b219-4d90680dbbe7",
       "name": "XY Evolutions Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

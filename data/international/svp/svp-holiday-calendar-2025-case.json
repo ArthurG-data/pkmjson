@@ -1,15 +1,18 @@
 {
   "id": "svp-holiday-calendar-2025-case",
+  "uuid": "dc6e290f-898f-5510-bf1d-e8ffc9c4e4b7",
   "region": "international",
   "set": "svp",
   "category": "case",
   "name": "Holiday Calendar 2025 Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "8dad6124-39b3-5a9e-8e3c-0f836ca4f632",
       "name": "Holiday Calendar 2025 Case",
       "releaseDate": "2025-08-22",
       "identifiers": {

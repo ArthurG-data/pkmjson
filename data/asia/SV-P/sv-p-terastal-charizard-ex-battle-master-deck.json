@@ -1,9 +1,11 @@
 {
   "id": "sv-p-terastal-charizard-ex-battle-master-deck",
+  "uuid": "028e60a0-5407-5e99-a407-8646ce3685f4",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Terastal Charizard ex Battle Master Deck",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "41466d43-4d8b-59bf-9e69-65114d031d47",
       "name": "バトルマスターデッキ テラスタル リザードンex",
       "releaseDate": "2024-05-17",
       "identifiers": {

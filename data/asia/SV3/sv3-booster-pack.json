@@ -1,9 +1,11 @@
 {
   "id": "sv3-booster-pack",
+  "uuid": "b6494034-7e27-5116-8588-43c5ef72948f",
   "region": "asia",
   "set": "SV3",
   "category": "booster_pack",
   "name": "Ruler of the Black Flame Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 719787
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "6fc7cd52-76a3-5927-9025-e0a2c715516c",
       "name": "拡張パック「黒炎の支配者」",
       "releaseDate": "2023-07-28",
       "identifiers": {

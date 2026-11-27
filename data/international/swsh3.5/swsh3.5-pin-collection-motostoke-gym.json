@@ -1,9 +1,11 @@
 {
   "id": "swsh3.5-pin-collection-motostoke-gym",
+  "uuid": "27cd30ee-5959-5783-968f-7e1c178220a6",
   "region": "international",
   "set": "swsh3.5",
   "category": "collection_box",
   "name": "Champion's Path Pin Collection [Motostoke Gym]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -27,6 +29,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6a900be4-e4dd-5c29-9b0f-6ebd79c54ecc",
       "name": "Champion's Path Pin Collection [Motostoke Gym]",
       "releaseDate": "2020-09-25",
       "identifiers": {
@@ -40,6 +43,7 @@
     },
     {
       "language": "fr",
+      "uuid": "6731ac63-99d4-5431-aa25-3fc8caf33dee",
       "name": "Collection avec pin's La Voie du Maître Arène de Motorby",
       "releaseDate": "2020-09-25",
       "sources": [

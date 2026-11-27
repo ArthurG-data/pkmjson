@@ -1,9 +1,11 @@
 {
   "id": "me01-premium-checklane-blister-tyranitar",
+  "uuid": "aa5e7be9-fe59-5c41-89e5-f62b19324809",
   "region": "international",
   "set": "me01",
   "category": "blister",
   "name": "Mega Evolution Premium Checklane Blister [Tyranitar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 834816
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a791a1b9-1f13-5c24-bd4e-86108bdfb99b",
       "name": "Mega Evolution Premium Checklane Blister [Tyranitar]",
       "releaseDate": "2025-09-26",
       "identifiers": {

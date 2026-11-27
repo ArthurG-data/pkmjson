@@ -1,15 +1,18 @@
 {
   "id": "bw4-ex-tin-zekrom",
+  "uuid": "b8de8163-da19-52c8-8571-719a35ef43a6",
   "region": "international",
   "set": "bw4",
   "category": "tin",
   "name": "EX Tin [Zekrom]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "05285fe3-f238-5db0-8077-f528d5ba5060",
       "name": "EX Tin [Zekrom]",
       "identifiers": {
         "tcgplayerProductIds": [

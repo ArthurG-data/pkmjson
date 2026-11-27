@@ -1,15 +1,18 @@
 {
   "id": "sv04.5-pokemon-center-elite-trainer-box-exclusive-case",
+  "uuid": "07f93147-1095-54dd-903c-9c49ef4bb631",
   "region": "international",
   "set": "sv04.5",
   "category": "case",
   "name": "Paldean Fates Pokemon Center Elite Trainer Box (Exclusive) Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "43830739-5a5d-5842-88df-531660db692f",
       "name": "Paldean Fates Pokemon Center Elite Trainer Box (Exclusive) Case",
       "identifiers": {
         "tcgplayerProductIds": [

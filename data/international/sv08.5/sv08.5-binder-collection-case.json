@@ -1,15 +1,18 @@
 {
   "id": "sv08.5-binder-collection-case",
+  "uuid": "c893204c-dd89-581c-85fc-06a2e05aef08",
   "region": "international",
   "set": "sv08.5",
   "category": "case",
   "name": "Prismatic Evolutions  Binder Collection Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2065e76f-eed9-5d46-95e8-ccebdc599ba0",
       "name": "Prismatic Evolutions  Binder Collection Case",
       "identifiers": {
         "tcgplayerProductIds": [

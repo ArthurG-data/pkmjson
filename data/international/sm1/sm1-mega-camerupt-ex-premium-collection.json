@@ -1,15 +1,18 @@
 {
   "id": "sm1-mega-camerupt-ex-premium-collection",
+  "uuid": "f70bb3d5-6a00-5f9a-a75d-0f2204da783e",
   "region": "international",
   "set": "sm1",
   "category": "premium_collection",
   "name": "Mega Camerupt EX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "41947852-aa6d-5261-972d-d4d22d745435",
       "name": "Mega Camerupt EX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "8ab69c38-26b8-51ec-8a12-de2f9cd5d32d",
       "name": "Coffret Méga-Camérupt",
       "releaseDate": "2017-08-31",
       "sources": [

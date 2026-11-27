@@ -1,9 +1,11 @@
 {
   "id": "me04-single-pack-blister-zacian-mimikyu",
+  "uuid": "15d29463-d08d-5618-9a2e-6f26f983ef9d",
   "region": "international",
   "set": "me04",
   "category": "blister",
   "name": "Chaos Rising Single Pack Blister [Zacian/Mimikyu]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "470cc4ed-d2e1-5eef-8e04-5e4fb02d9d3c",
       "name": "Chaos Rising Single Pack Blister [Zacian/Mimikyu]",
       "identifiers": {
         "tcgplayerProductIds": [

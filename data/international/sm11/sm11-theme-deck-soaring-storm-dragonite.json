@@ -1,9 +1,11 @@
 {
   "id": "sm11-theme-deck-soaring-storm-dragonite",
+  "uuid": "2d70440f-24e4-5bbb-8b08-2dd801d0b75a",
   "region": "international",
   "set": "sm11",
   "category": "theme_deck",
   "name": "Unified Minds Theme Deck - \"Soaring Storm\" [Dragonite]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 377484
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2df5f7a8-3c23-517e-9f42-33dfc32fbd67",
       "name": "Unified Minds Theme Deck - \"Soaring Storm\" [Dragonite]",
       "releaseDate": "2019-08-02",
       "identifiers": {

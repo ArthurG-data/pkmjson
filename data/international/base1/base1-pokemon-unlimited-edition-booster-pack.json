@@ -1,9 +1,11 @@
 {
   "id": "base1-pokemon-unlimited-edition-booster-pack",
+  "uuid": "4e0d5dc8-57c6-52f9-8c2d-f86486fd0683",
   "region": "international",
   "set": "base1",
   "category": "booster_pack",
   "name": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "pool": [
@@ -16,6 +18,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "51196fa3-8a54-5c62-b140-5a3888e89628",
       "name": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Pack",
       "identifiers": {
         "tcgplayerProductIds": [

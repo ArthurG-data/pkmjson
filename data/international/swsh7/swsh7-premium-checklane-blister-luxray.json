@@ -1,9 +1,11 @@
 {
   "id": "swsh7-premium-checklane-blister-luxray",
+  "uuid": "a858dc4b-27a8-5516-9e48-df67a4eefb62",
   "region": "international",
   "set": "swsh7",
   "category": "blister",
   "name": "Evolving Skies Premium Checklane Blister [Luxray]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585714
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "315afad7-6ca5-5b2a-81ef-e868bda0b6e6",
       "name": "Evolving Skies Premium Checklane Blister [Luxray]",
       "releaseDate": "2021-08-27",
       "identifiers": {

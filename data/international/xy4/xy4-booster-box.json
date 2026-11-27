@@ -1,9 +1,11 @@
 {
   "id": "xy4-booster-box",
+  "uuid": "843c7346-56a5-5875-9ff0-3aee7e8306b9",
   "region": "international",
   "set": "xy4",
   "category": "booster_box",
   "name": "XY Phantom Forces Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271440
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1f535136-2695-5603-9477-baa4967bc73b",
       "name": "XY Phantom Forces Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

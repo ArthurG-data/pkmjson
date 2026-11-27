@@ -1,15 +1,18 @@
 {
   "id": "svp-paldea-legends-tins-bundle-of-2",
+  "uuid": "8b6e8df1-24e4-5dea-ad31-1b909522e43d",
   "region": "international",
   "set": "svp",
   "category": "other",
   "name": "Paldea Legends Tins [Bundle of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "4a4f4dfe-64d0-58e7-b77d-239d6afc34c3",
       "name": "Paldea Legends Tins [Bundle of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

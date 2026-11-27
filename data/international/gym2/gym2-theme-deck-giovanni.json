@@ -1,9 +1,11 @@
 {
   "id": "gym2-theme-deck-giovanni",
+  "uuid": "557594f0-7fd2-59ff-972b-f0954e12c540",
   "region": "international",
   "set": "gym2",
   "category": "theme_deck",
   "name": "Gym Challenge Theme Deck - \"Giovanni\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286511
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "564131ee-d096-5ddb-b98b-6313fbf22e7d",
       "name": "Gym Challenge Theme Deck - \"Giovanni\"",
       "identifiers": {
         "tcgplayerProductIds": [

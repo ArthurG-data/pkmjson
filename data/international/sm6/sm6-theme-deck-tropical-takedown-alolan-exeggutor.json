@@ -1,9 +1,11 @@
 {
   "id": "sm6-theme-deck-tropical-takedown-alolan-exeggutor",
+  "uuid": "3441e5e3-8ca3-59bb-8c6a-7fcfce57a12c",
   "region": "international",
   "set": "sm6",
   "category": "theme_deck",
   "name": "Forbidden Light Theme Deck - \"Tropical Takedown\" [Alolan Exeggutor]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 320015
   },
@@ -36,6 +38,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0fac57c2-1113-570c-9c64-0f4dffad98a5",
       "name": "Forbidden Light Theme Deck - \"Tropical Takedown\" [Alolan Exeggutor]",
       "identifiers": {
         "tcgplayerProductIds": [

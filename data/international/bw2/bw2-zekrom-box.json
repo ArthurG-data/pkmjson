@@ -1,15 +1,18 @@
 {
   "id": "bw2-zekrom-box",
+  "uuid": "f15ee728-7ee5-5979-82c1-9f69b1a725b7",
   "region": "international",
   "set": "bw2",
   "category": "collection_box",
   "name": "Zekrom Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6bb7832f-a2f0-5851-9fd3-de1739e236a5",
       "name": "Zekrom Box",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -22,6 +25,7 @@
     },
     {
       "language": "fr",
+      "uuid": "2cc6a052-bda1-5bec-be05-2271096247d3",
       "name": "Coffret Zekrom",
       "releaseDate": "2011-10-19",
       "sources": [

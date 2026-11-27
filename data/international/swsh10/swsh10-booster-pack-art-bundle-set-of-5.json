@@ -1,15 +1,18 @@
 {
   "id": "swsh10-booster-pack-art-bundle-set-of-5",
+  "uuid": "3c14e730-38e0-5e9a-997b-138a7558b900",
   "region": "international",
   "set": "swsh10",
   "category": "other",
   "name": "Astral Radiance Booster Pack Art Bundle [Set of 5]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "6beb1833-aff3-5b1a-9f1e-f4c46b957c09",
       "name": "Astral Radiance Booster Pack Art Bundle [Set of 5]",
       "releaseDate": "2022-05-27",
       "identifiers": {

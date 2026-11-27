@@ -1,15 +1,18 @@
 {
   "id": "swsh1-trial-deck-set-of-3",
+  "uuid": "a948736b-89e9-5bba-a811-3207ad7c78fc",
   "region": "international",
   "set": "swsh1",
   "category": "other",
   "name": "Sword & Shield Trial Deck [Set of 3]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "06434db4-34d2-539f-8ff4-76ec03964342",
       "name": "Sword & Shield Trial Deck [Set of 3]",
       "releaseDate": "2020-02-07",
       "identifiers": {

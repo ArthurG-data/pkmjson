@@ -1,9 +1,11 @@
 {
   "id": "swsh2-3-pack-blister-duraludon",
+  "uuid": "1a858e26-e883-594a-bb01-1fa2dd568ab4",
   "region": "international",
   "set": "swsh2",
   "category": "blister",
   "name": "Rebel Clash 3 Pack Blister [Duraludon]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 585890
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b27b3e1d-abdf-5681-805e-b1b2aa4d4e64",
       "name": "Rebel Clash 3 Pack Blister [Duraludon]",
       "releaseDate": "2020-05-01",
       "identifiers": {

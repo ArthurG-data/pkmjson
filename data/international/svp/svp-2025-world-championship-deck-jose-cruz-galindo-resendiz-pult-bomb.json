@@ -1,9 +1,11 @@
 {
   "id": "svp-2025-world-championship-deck-jose-cruz-galindo-resendiz-pult-bomb",
+  "uuid": "faf42298-4fac-52ac-bac6-7b481170c7c9",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "2025 World Championship Deck: Jose Cruz Galindo-Resendiz (Pult Bomb)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1a701b35-b9e4-5609-ba9f-3c7f184e7817",
       "name": "2025 World Championship Deck: Jose Cruz Galindo-Resendiz (Pult Bomb)",
       "identifiers": {
         "tcgplayerProductIds": [

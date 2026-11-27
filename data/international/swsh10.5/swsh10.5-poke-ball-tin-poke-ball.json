@@ -1,9 +1,11 @@
 {
   "id": "swsh10.5-poke-ball-tin-poke-ball",
+  "uuid": "46e05810-46ab-549f-b2fb-90cf7a4aa5ad",
   "region": "international",
   "set": "swsh10.5",
   "category": "tin",
   "name": "Pokemon GO Poke Ball Tin - Poke Ball",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -23,6 +25,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b0c5ca36-be81-56ab-948d-ab6bc9b39364",
       "name": "Pokemon GO Poke Ball Tin - Poke Ball",
       "releaseDate": "2022-08-26",
       "identifiers": {
@@ -36,6 +39,7 @@
     },
     {
       "language": "fr",
+      "uuid": "682e3541-72a7-56cc-8d3a-37ae10a20ff8",
       "name": "Boîte Poké Ball",
       "sources": [
         "https://www.pokepedia.fr/Bo%C3%AEte_Pok%C3%A9_Ball"
@@ -43,6 +47,7 @@
     },
     {
       "language": "de",
+      "uuid": "c6e77c6e-a784-5369-ba46-f075bd516a28",
       "name": "Tin-Box Pokéball",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-pokeball"
@@ -50,6 +55,7 @@
     },
     {
       "language": "it",
+      "uuid": "3e8641d1-c411-50b7-9165-d3bdf5fe0e64",
       "name": "Scatola da collezione Poké Ball",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/scatola-da-collezione-poke-ball"
@@ -57,6 +63,7 @@
     },
     {
       "language": "es",
+      "uuid": "5c538211-04f0-544f-9568-682f6a495dfa",
       "name": "Lata Poké Ball",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/lata-poke-ball"

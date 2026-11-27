@@ -1,9 +1,11 @@
 {
   "id": "swshp-pikachu-zekrom-gx-premium-collection",
+  "uuid": "91bae0e6-b0aa-575b-b701-1aaf7a5734f8",
   "region": "international",
   "set": "swshp",
   "category": "premium_collection",
   "name": "Pikachu & Zekrom GX Premium Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "061f4d66-fc13-5928-8722-3a146b131f7a",
       "name": "Pikachu & Zekrom GX Premium Collection",
       "identifiers": {
         "tcgplayerProductIds": [

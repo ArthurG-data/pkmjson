@@ -1,9 +1,11 @@
 {
   "id": "base1-base-set-theme-deck-overgrowth",
+  "uuid": "78e7bbf2-2b1b-5ee1-8f41-a1498235feb2",
   "region": "international",
   "set": "base1",
   "category": "theme_deck",
   "name": "Base Set Theme Deck - \"Overgrowth\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286488
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c9d6dd1b-01ea-56f0-abf9-bb8c75d411df",
       "name": "Base Set Theme Deck - \"Overgrowth\"",
       "identifiers": {
         "tcgplayerProductIds": [

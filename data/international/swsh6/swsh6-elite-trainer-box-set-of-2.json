@@ -1,15 +1,18 @@
 {
   "id": "swsh6-elite-trainer-box-set-of-2",
+  "uuid": "fc645ea4-ae78-5306-b05b-83787f5a1d3c",
   "region": "international",
   "set": "swsh6",
   "category": "other",
   "name": "Chilling Reign Elite Trainer Box [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: set of products.",
   "releases": [
     {
       "language": "en",
+      "uuid": "7ebd9c3e-7231-52d9-bf34-54ca62bdeb27",
       "name": "Chilling Reign Elite Trainer Box [Set of 2]",
       "identifiers": {
         "tcgplayerProductIds": [

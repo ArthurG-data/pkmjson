@@ -1,15 +1,18 @@
 {
   "id": "swsh11-swsh11-build-battle-box-case",
+  "uuid": "d66286dd-57c9-5599-9f5b-b077df844b5f",
   "region": "international",
   "set": "swsh11",
   "category": "case",
   "name": "Lost Origin SWSH11 Build & Battle Box Case",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "5bb8a603-16ff-5385-af65-4c7f456b3d22",
       "name": "Lost Origin SWSH11 Build & Battle Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

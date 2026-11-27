@@ -1,9 +1,11 @@
 {
   "id": "swsh6-booster-pack",
+  "uuid": "5752c4a5-6119-5544-a215-9c07a44710fc",
   "region": "international",
   "set": "swsh6",
   "category": "booster_pack",
   "name": "Chilling Reign Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 557969
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "62a32268-28a3-5b67-bab4-1364cbc11f31",
       "name": "Sword & Shield—Chilling Reign",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -32,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "79f5c35e-a724-5cc7-b791-5e70366b8048",
       "name": "Épée et Bouclier – Règne de Glace",
       "sources": [
         "https://www.pokepedia.fr/Duopack_Artikodin_de_Galar%2C_%C3%89lecthor_de_Galar_et_Sulfura_de_Galar",

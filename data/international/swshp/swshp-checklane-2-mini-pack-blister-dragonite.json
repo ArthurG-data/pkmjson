@@ -1,9 +1,11 @@
 {
   "id": "swshp-checklane-2-mini-pack-blister-dragonite",
+  "uuid": "7586394e-8d34-525e-a54d-2c5a0b4f5861",
   "region": "international",
   "set": "swshp",
   "category": "blister",
   "name": "Checklane 2 Mini-Pack Blister [Dragonite]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "441cae0e-a911-50e0-a25c-5dd2e8484dad",
       "name": "Checklane 2 Mini-Pack Blister [Dragonite]",
       "identifiers": {
         "tcgplayerProductIds": [

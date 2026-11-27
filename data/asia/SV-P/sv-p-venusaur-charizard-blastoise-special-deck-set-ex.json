@@ -1,9 +1,11 @@
 {
   "id": "sv-p-venusaur-charizard-blastoise-special-deck-set-ex",
+  "uuid": "2fc33bef-aeeb-5e02-b0c4-2979f0cf7919",
   "region": "asia",
   "set": "SV-P",
   "category": "battle_deck",
   "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -33,6 +35,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "2a755ffc-146b-5b9c-8361-ce9eebd5ac03",
       "name": "スペシャルデッキセットex フシギバナ・リザードン・カメックス",
       "releaseDate": "2023-11-10",
       "identifiers": {

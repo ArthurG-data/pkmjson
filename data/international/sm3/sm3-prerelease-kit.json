@@ -1,9 +1,11 @@
 {
   "id": "sm3-prerelease-kit",
+  "uuid": "b422834e-2ddd-55d5-a9f1-33da13557566",
   "region": "international",
   "set": "sm3",
   "category": "other",
   "name": "Burning Shadows Prerelease Kit",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "6930c7b9-4930-5736-a2ad-b0688b61d80b",
       "name": "Burning Shadows Prerelease Kit",
       "identifiers": {
         "tcgplayerProductIds": [

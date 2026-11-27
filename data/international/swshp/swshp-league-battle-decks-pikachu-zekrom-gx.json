@@ -1,9 +1,11 @@
 {
   "id": "swshp-league-battle-decks-pikachu-zekrom-gx",
+  "uuid": "bbcf5203-4409-50ec-967d-7fc78bddb30d",
   "region": "international",
   "set": "swshp",
   "category": "battle_deck",
   "name": "League Battle Decks [Pikachu & Zekrom GX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -41,6 +43,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "c3d22344-4bbf-542d-a776-44d2467b88d8",
       "name": "League Battle Decks [Pikachu & Zekrom GX]",
       "releaseDate": "2020-05-22",
       "identifiers": {
@@ -54,6 +57,7 @@
     },
     {
       "language": "de",
+      "uuid": "f3e871f5-c529-58cf-af1b-021c89420c61",
       "name": "Liga-Kampfdecks Pikachu & Zekrom-GX und Reshiram & Glurak-GX",
       "releaseDate": "2020-05-22",
       "sources": [
@@ -62,6 +66,7 @@
     },
     {
       "language": "fr",
+      "uuid": "f300748f-fe84-539c-a318-101adfb7b194",
       "name": "Decks Combat de Ligue Pikachu et Zekrom-GX ou Reshiram et Dracaufeu-GX",
       "releaseDate": "2020-05-22",
       "sources": [
@@ -70,6 +75,7 @@
     },
     {
       "language": "it",
+      "uuid": "7ca08638-fb5b-5493-9363-c8df3984f381",
       "name": "Mazzo Lotte di Lega Pikachu e Zekrom-GX e mazzo Lotte di Lega Reshiram e Charizard-GX",
       "releaseDate": "2020-05-22",
       "sources": [

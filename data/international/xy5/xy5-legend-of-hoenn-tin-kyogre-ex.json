@@ -1,15 +1,18 @@
 {
   "id": "xy5-legend-of-hoenn-tin-kyogre-ex",
+  "uuid": "9a6c03f6-c57c-52f6-96b6-6595667fc8fe",
   "region": "international",
   "set": "xy5",
   "category": "tin",
   "name": "Legend of Hoenn Tin [Kyogre EX]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "2549d10a-70b6-5fe7-8369-c3caa35ee65c",
       "name": "Legend of Hoenn Tin [Kyogre EX]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "bw3-theme-deck-furious-knights-escavalier",
+  "uuid": "0ab3f079-65ed-5a06-aa84-e27c4563f475",
   "region": "international",
   "set": "bw3",
   "category": "theme_deck",
   "name": "Noble Victories Theme Deck - \"Furious Knights\" [Escavalier]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286549
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e78900b5-8a00-5673-8f49-47620f6be75b",
       "name": "Noble Victories Theme Deck - \"Furious Knights\" [Escavalier]",
       "identifiers": {
         "tcgplayerProductIds": [

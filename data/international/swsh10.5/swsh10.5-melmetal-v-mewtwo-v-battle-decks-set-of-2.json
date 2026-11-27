@@ -1,15 +1,18 @@
 {
   "id": "swsh10.5-melmetal-v-mewtwo-v-battle-decks-set-of-2",
+  "uuid": "36ac06a2-572d-5a4d-beb6-6ddb14cda506",
   "region": "international",
   "set": "swsh10.5",
   "category": "other",
   "name": "Pokemon GO Melmetal V/Mewtwo V Battle Decks [Set of 2]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. Not resolved: 1 ready-to-play 60-card deck; set of products; deck list.",
   "releases": [
     {
       "language": "en",
+      "uuid": "58980520-bd19-571b-be46-2c40439d79a8",
       "name": "Pokemon GO Melmetal V/Mewtwo V Battle Decks [Set of 2]",
       "releaseDate": "2022-07-01",
       "identifiers": {

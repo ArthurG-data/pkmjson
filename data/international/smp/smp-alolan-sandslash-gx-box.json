@@ -1,9 +1,11 @@
 {
   "id": "smp-alolan-sandslash-gx-box",
+  "uuid": "c968fdef-5b2d-5fd4-93d1-cd4d05aaf618",
   "region": "international",
   "set": "smp",
   "category": "collection_box",
   "name": "Alolan Sandslash GX Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -31,6 +33,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dc0dd1d7-0392-526d-8cd3-1126ad11498b",
       "name": "Alolan Sandslash GX Box",
       "releaseDate": "2020-01-24",
       "identifiers": {
@@ -44,6 +47,7 @@
     },
     {
       "language": "it",
+      "uuid": "120a2030-5786-5303-8b31-c301bd20b4f3",
       "name": "Collezione Sandslash di Alola-GX",
       "releaseDate": "2020-01-24",
       "sources": [
@@ -52,6 +56,7 @@
     },
     {
       "language": "de",
+      "uuid": "41780aa5-d2f1-57fb-b54c-c013ec5249d2",
       "name": "Kollektion Alola-Sandamer-GX",
       "releaseDate": "2020-01-24",
       "sources": [
@@ -60,6 +65,7 @@
     },
     {
       "language": "fr",
+      "uuid": "07404018-664b-555c-9856-9f4bca2eab89",
       "name": "Coffret Sablaireau d’Alola-GX",
       "releaseDate": "2020-03-13",
       "sources": [

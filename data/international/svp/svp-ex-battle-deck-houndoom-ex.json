@@ -1,9 +1,11 @@
 {
   "id": "svp-ex-battle-deck-houndoom-ex",
+  "uuid": "b0c9c416-75c6-5b46-9a74-1c445be11b3b",
   "region": "international",
   "set": "svp",
   "category": "battle_deck",
   "name": "ex Battle Deck [Houndoom ex]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -45,6 +47,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ed936791-b713-5cb5-97e7-7d1755630113",
       "name": "ex Battle Deck [Houndoom ex]",
       "releaseDate": "2024-02-23",
       "identifiers": {
@@ -58,6 +61,7 @@
     },
     {
       "language": "fr",
+      "uuid": "549f07a9-318e-50aa-a265-3cc8fba8a1fe",
       "name": "Deck Combat Démolosse‑ex",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/deck-combat-melmetal-ex-deck-combat-demolosse-ex"

@@ -1,9 +1,11 @@
 {
   "id": "bw9-booster-box",
+  "uuid": "94c6f8dc-fd07-59d9-8151-1ff4680fe041",
   "region": "international",
   "set": "bw9",
   "category": "booster_box",
   "name": "Plasma Freeze Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271946
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "ea3d8a25-1d3e-5f68-b118-8d0797948e1f",
       "name": "Plasma Freeze Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

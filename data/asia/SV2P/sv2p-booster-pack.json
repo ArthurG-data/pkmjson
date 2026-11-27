@@ -1,9 +1,11 @@
 {
   "id": "sv2p-booster-pack",
+  "uuid": "9f993c2a-85e6-5fab-80a4-074b4cd55ee0",
   "region": "asia",
   "set": "SV2P",
   "category": "booster_pack",
   "name": "Snow Hazard Booster Pack",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 702930
   },
@@ -19,6 +21,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "7b6ff847-4dab-53f0-9ce6-ace274eea443",
       "name": "拡張パック「スノーハザード」",
       "releaseDate": "2023-04-14",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "sm3-lycanroc-gx-challenge-box",
+  "uuid": "85e5a3b5-10d1-5c7d-b8ce-d1ec15ae2630",
   "region": "international",
   "set": "sm3",
   "category": "collection_box",
   "name": "Lycanroc GX Challenge Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "cards": [
@@ -35,6 +37,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "a1ce0be4-083a-5a1c-8636-609238f2238e",
       "name": "Lycanroc GX Challenge Box",
       "identifiers": {
         "tcgplayerProductIds": [

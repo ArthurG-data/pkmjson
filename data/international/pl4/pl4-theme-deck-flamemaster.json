@@ -1,9 +1,11 @@
 {
   "id": "pl4-theme-deck-flamemaster",
+  "uuid": "126f948c-a30c-5a46-96d1-7175ac6d153d",
   "region": "international",
   "set": "pl4",
   "category": "theme_deck",
   "name": "Arceus Theme Deck - \"Flamemaster\"",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 286601
   },
@@ -24,6 +26,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f88d034e-bc1d-52d4-af53-9fc76cb8c037",
       "name": "Arceus Theme Deck - \"Flamemaster\"",
       "identifiers": {
         "tcgplayerProductIds": [

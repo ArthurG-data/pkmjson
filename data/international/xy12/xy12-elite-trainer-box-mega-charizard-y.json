@@ -1,9 +1,11 @@
 {
   "id": "xy12-elite-trainer-box-mega-charizard-y",
+  "uuid": "b38acdbc-3b21-5212-9ec1-fc9f50549e2c",
   "region": "international",
   "set": "xy12",
   "category": "elite_trainer_box",
   "name": "XY Evolutions Elite Trainer Box [Mega Charizard Y]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -39,6 +41,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "de80bf79-9f61-5e6d-9e39-220c5380fd24",
       "name": "XY Evolutions Elite Trainer Box [Mega Charizard Y]",
       "identifiers": {
         "tcgplayerProductIds": [

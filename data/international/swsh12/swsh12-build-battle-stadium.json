@@ -1,9 +1,11 @@
 {
   "id": "swsh12-build-battle-stadium",
+  "uuid": "d47316a1-d20f-5627-9456-72734118f3dd",
   "region": "international",
   "set": "swsh12",
   "category": "other",
   "name": "Silver Tempest Build & Battle Stadium",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "sealed": [
@@ -43,6 +45,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "2d0fdfb3-8d02-57bb-8561-53917a09abed",
       "name": "Silver Tempest Build & Battle Stadium",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -55,6 +58,7 @@
     },
     {
       "language": "es",
+      "uuid": "7cbafe24-725d-5991-a25a-f422569b6220",
       "name": "Estadio Combina y Combate de Espada y Escudo-Tempestad Plateada",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/estadio-combina-y-combate-de-espada-y-escudo-tempestad-plateada"
@@ -62,6 +66,7 @@
     },
     {
       "language": "fr",
+      "uuid": "75ce99d5-e599-592d-9914-b20aa36441c4",
       "name": "Stade Stratégies et Combats Épée et Bouclier – Tempête Argentée",
       "sources": [
         "https://www.pokemon.com/fr/jcc-pokemon/galerie-produits/stade-strategies-et-combats-epee-et-bouclier-tempete-argentee"

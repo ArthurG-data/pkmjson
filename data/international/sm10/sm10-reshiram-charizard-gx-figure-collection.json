@@ -1,9 +1,11 @@
 {
   "id": "sm10-reshiram-charizard-gx-figure-collection",
+  "uuid": "b864f4ec-f333-563f-8b84-5ed397e9e95a",
   "region": "international",
   "set": "sm10",
   "category": "collection_box",
   "name": "Reshiram & Charizard GX Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -25,6 +27,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1dc6a5a5-c86f-50ee-9ebe-2b23055f4b8f",
       "name": "Reshiram & Charizard GX Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -37,6 +40,7 @@
     },
     {
       "language": "fr",
+      "uuid": "43a0f416-c823-5e6d-9ec4-1f91f951e598",
       "name": "Collection avec figurine Reshiram et Dracaufeu-GX",
       "releaseDate": "2019-11-22",
       "contents": {
@@ -75,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "155e64c3-d6f8-5160-98a0-c9d73e13576d",
       "name": "Collezione con statuina Reshiram e Charizard-GX",
       "releaseDate": "2019-08-09",
       "sources": [
@@ -83,6 +88,7 @@
     },
     {
       "language": "de",
+      "uuid": "2470b94b-fe9c-5810-aef2-97285c5b1887",
       "name": "Figuren-Kollektion Reshiram & Glurak-GX",
       "releaseDate": "2019-08-09",
       "sources": [
@@ -91,6 +97,7 @@
     },
     {
       "language": "es",
+      "uuid": "54363c29-bad8-5b67-bb9f-714c9f62a023",
       "name": "Colección con figura Reshiram y Charizard-GX",
       "releaseDate": "2019-08-09",
       "sources": [

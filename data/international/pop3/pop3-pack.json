@@ -1,15 +1,18 @@
 {
   "id": "pop3-pack",
+  "uuid": "8595d91f-3c52-508d-bc25-dc8c01d6c652",
   "region": "international",
   "set": "pop3",
   "category": "other",
   "name": "POP Series 3 Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "f3583fd6-1045-5f82-85ea-3a81c82f1725",
       "name": "POP Series 3 Pack",
       "identifiers": {
         "tcgplayerProductIds": [

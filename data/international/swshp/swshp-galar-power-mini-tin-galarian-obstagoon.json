@@ -1,9 +1,11 @@
 {
   "id": "swshp-galar-power-mini-tin-galarian-obstagoon",
+  "uuid": "3de05a78-4d4a-522f-b779-d8e950af451d",
   "region": "international",
   "set": "swshp",
   "category": "tin",
   "name": "Galar Power Mini Tin [Galarian Obstagoon]",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -17,6 +19,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "4b9054c4-03ce-58b6-9ef4-c236b0594716",
       "name": "Galar Power Mini Tin [Galarian Obstagoon]",
       "releaseDate": "2020-10-02",
       "identifiers": {

@@ -1,9 +1,11 @@
 {
   "id": "bw2-booster-box",
+  "uuid": "524670d0-750a-5ce9-8c51-d1b1765814ca",
   "region": "international",
   "set": "bw2",
   "category": "booster_box",
   "name": "Emerging Powers Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271894
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "45b888ba-51f9-506d-bbb6-55411daa46b4",
       "name": "Emerging Powers Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

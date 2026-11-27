@@ -1,9 +1,11 @@
 {
   "id": "swsh1-booster-box-case",
+  "uuid": "690fea3e-9324-51b6-9a89-405db19e0405",
   "region": "international",
   "set": "swsh1",
   "category": "case",
   "name": "Sword & Shield Booster Box Case",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 668183
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "e5ca9b4d-7112-5b14-8fb7-ee2792386506",
       "name": "Sword & Shield Booster Box Case",
       "identifiers": {
         "tcgplayerProductIds": [

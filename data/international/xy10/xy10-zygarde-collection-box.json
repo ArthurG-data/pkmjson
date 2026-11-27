@@ -1,9 +1,11 @@
 {
   "id": "xy10-zygarde-collection-box",
+  "uuid": "4597d41b-77a7-5cfb-83e1-5501f11117f2",
   "region": "international",
   "set": "xy10",
   "category": "collection_box",
   "name": "Zygarde Collection Box",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {
     "other": [
@@ -21,6 +23,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "b2a8dbf4-801f-5652-bae7-631e4c789d3e",
       "name": "Zygarde Collection Box",
       "identifiers": {
         "tcgplayerProductIds": [

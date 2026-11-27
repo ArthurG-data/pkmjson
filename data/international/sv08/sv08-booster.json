@@ -1,5 +1,6 @@
 {
   "id": "sv08-booster",
+  "uuid": "239c7d66-f6ce-5eac-95aa-642b3713dbe1",
   "region": "international",
   "set": "sv08",
   "category": "booster_pack",
@@ -19,6 +20,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "dba139cc-d8d4-5dbb-9866-ff2dfa8a6aff",
       "name": "Scarlet & Violet—Surging Sparks",
       "releaseDate": "2024-11-08",
       "identifiers": {
@@ -33,6 +35,7 @@
     },
     {
       "language": "fr",
+      "uuid": "164f6e6b-093a-5cef-9f99-20bd2a1b6427",
       "name": "Écarlate et Violet – Étincelles Déferlantes",
       "releaseDate": "2024-11-08",
       "sources": [
@@ -42,6 +45,7 @@
     },
     {
       "language": "it",
+      "uuid": "4908d31c-526d-59c5-aa22-a4f16082603f",
       "name": "Scarlatto e Violetto - Scintille Folgoranti",
       "sources": [
         "https://www.pokemon.com/it/gcc/galleria-prodotti/set-allenatore-fuoriclasse-dellespansione-scarlatto-e-violetto-scintille-folgoranti",
@@ -50,6 +54,7 @@
     },
     {
       "language": "es",
+      "uuid": "6c86cf8a-0e03-5352-9f18-e7c22102c9f7",
       "name": "Escarlata y Púrpura-Chispas Fulgurantes",
       "sources": [
         "https://www.pokemon.com/es/jcc-pokemon/galeria-de-productos/caja-de-entrenador-elite-de-escarlata-y-purpura-chispas-fulgurantes",
@@ -58,6 +63,7 @@
     },
     {
       "language": "de",
+      "uuid": "ff988893-7331-50b8-9b64-11db790967ee",
       "name": "Karmesin & Purpur – Stürmische Funken",
       "sources": [
         "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-karmesin-purpur-stuermische-funken",

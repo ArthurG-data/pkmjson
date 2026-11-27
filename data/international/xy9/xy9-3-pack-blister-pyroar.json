@@ -1,9 +1,11 @@
 {
   "id": "xy9-3-pack-blister-pyroar",
+  "uuid": "135b0dba-6959-5c54-ac3c-f5838225086c",
   "region": "international",
   "set": "xy9",
   "category": "blister",
   "name": "BREAKpoint 3 Pack Blister [Pyroar]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586357
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "0465e7df-f255-5138-a262-b6b27cf43320",
       "name": "BREAKpoint 3 Pack Blister [Pyroar]",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "sm7.5-ultra-necrozma-gx-figure-collection",
+  "uuid": "7ead99ff-d96c-5095-a79b-36b6ce0bb872",
   "region": "international",
   "set": "sm7.5",
   "category": "collection_box",
   "name": "Ultra Necrozma GX Figure Collection",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "complete",
   "contents": {
     "sealed": [
@@ -37,6 +39,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "52e23f68-67c4-5096-b1b1-60af169aa53a",
       "name": "Ultra Necrozma GX Figure Collection",
       "identifiers": {
         "tcgplayerProductIds": [
@@ -49,6 +52,7 @@
     },
     {
       "language": "de",
+      "uuid": "2bf01b19-7678-5daa-8cc8-d199d4b8d049",
       "name": "Kollektion Majestät der Drachen – Ultra-Necrozma-GX",
       "releaseDate": "2018-11-02",
       "sources": [
@@ -57,6 +61,7 @@
     },
     {
       "language": "es",
+      "uuid": "b6aae0de-dd80-57d0-bd27-a71f192bd310",
       "name": "Colección Ultra-Necrozma-GX de Majestad de Dragones",
       "releaseDate": "2018-11-02",
       "sources": [
@@ -65,6 +70,7 @@
     },
     {
       "language": "fr",
+      "uuid": "9dfd9dcc-42d9-5b12-8a49-ae3506bc4ea2",
       "name": "Collection Majesté des Dragons – Ultra-Necrozma-GX",
       "releaseDate": "2018-11-02",
       "sources": [
@@ -73,6 +79,7 @@
     },
     {
       "language": "it",
+      "uuid": "bf2bafeb-696e-5c0d-a982-32c788d02073",
       "name": "Collezione UltraNecrozma-GX dell’espansione Trionfo dei Draghi",
       "releaseDate": "2018-11-02",
       "sources": [

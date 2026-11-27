@@ -1,9 +1,11 @@
 {
   "id": "s12-booster-box",
+  "uuid": "f595744a-da50-5ff3-974d-8af751c9e8e8",
   "region": "asia",
   "set": "S12",
   "category": "booster_box",
   "name": "Paradigm Trigger Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 675864
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "ja",
+      "uuid": "16eebec5-9bfc-5667-9995-56fd4e283f4e",
       "name": "Paradigm Trigger Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

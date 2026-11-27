@@ -1,9 +1,11 @@
 {
   "id": "swsh10-booster-box",
+  "uuid": "378e73ee-6b90-5429-b15d-3a01f53d85ff",
   "region": "international",
   "set": "swsh10",
   "category": "booster_box",
   "name": "Astral Radiance Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611352
   },
@@ -20,6 +22,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "1501bb75-74f9-5caf-ad43-60cadc0b6c61",
       "name": "Astral Radiance Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,15 +1,18 @@
 {
   "id": "sm8-fun-pack",
+  "uuid": "0f5ad70f-2c5b-53e2-ab89-319bd90b558c",
   "region": "international",
   "set": "sm8",
   "category": "other",
   "name": "Lost Thunder Fun Pack",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "932687bc-a9f2-51a4-8c8b-115f10fcf767",
       "name": "Lost Thunder Fun Pack",
       "identifiers": {
         "tcgplayerProductIds": [

@@ -1,9 +1,11 @@
 {
   "id": "xy4-single-pack-blister-talonflame",
+  "uuid": "85b197f8-d994-5f3e-89d1-814acb653a41",
   "region": "international",
   "set": "xy4",
   "category": "blister",
   "name": "Phantom Forces Single Pack Blister [Talonflame]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 586396
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "33b4cbd1-2db3-5451-997c-fbe7c12e08e7",
       "name": "Phantom Forces Single Pack Blister [Talonflame]",
       "identifiers": {
         "tcgplayerProductIds": [

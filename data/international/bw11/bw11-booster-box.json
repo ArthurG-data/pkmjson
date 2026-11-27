@@ -1,9 +1,11 @@
 {
   "id": "bw11-booster-box",
+  "uuid": "35ad23d2-fdf2-5ccc-b2fc-8b0acd7b92b1",
   "region": "international",
   "set": "bw11",
   "category": "booster_box",
   "name": "Legendary Treasures Booster Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 271895
   },
@@ -13,6 +15,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f59f85af-f41b-58ed-9176-b9424518f64f",
       "name": "Legendary Treasures Booster Box",
       "identifiers": {
         "tcgplayerProductIds": [

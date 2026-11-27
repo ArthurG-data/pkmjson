@@ -1,15 +1,18 @@
 {
   "id": "smp-2019-world-championship-deck-shintaro-ito-mind-blown",
+  "uuid": "c3fe0b09-13d1-5743-9b2a-9f40d6324328",
   "region": "international",
   "set": "smp",
   "category": "battle_deck",
   "name": "2019 World Championship Deck: Shintaro Ito (Mind Blown)",
+  "generatedBy": "import_tcgplayer",
   "contentsStatus": "partial",
   "contents": {},
   "notes": "Generated from TCGplayer's product text. The text states no contents.",
   "releases": [
     {
       "language": "en",
+      "uuid": "525019fd-edbf-51fa-acc2-bbf90f022735",
       "name": "2019 World Championship Deck: Shintaro Ito (Mind Blown)",
       "releaseDate": "2019-11-22",
       "identifiers": {

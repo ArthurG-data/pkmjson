@@ -1,9 +1,11 @@
 {
   "id": "swsh10-build-battle-box",
+  "uuid": "83d3703b-3fdb-5dd7-b855-b1a61e324bb2",
   "region": "international",
   "set": "swsh10",
   "category": "build_and_battle_box",
   "name": "Astral Radiance Build & Battle Box",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 611357
   },
@@ -26,6 +28,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "9bc07e3d-0aa0-5938-8a9f-74facc9dfe14",
       "name": "Astral Radiance Build & Battle Box",
       "releaseDate": "2022-05-27",
       "identifiers": {

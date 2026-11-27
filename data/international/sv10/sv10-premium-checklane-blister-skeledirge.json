@@ -1,9 +1,11 @@
 {
   "id": "sv10-premium-checklane-blister-skeledirge",
+  "uuid": "bd8c30c2-dd67-5f1d-b0d2-7eab2ff9fd94",
   "region": "international",
   "set": "sv10",
   "category": "blister",
   "name": "Destined Rivals Premium Checklane Blister [Skeledirge]",
+  "generatedBy": "import_tcgplayer",
   "identifiers": {
     "cardmarketProductId": 818581
   },
@@ -30,6 +32,7 @@
   "releases": [
     {
       "language": "en",
+      "uuid": "f9596128-8bb3-5a71-bbab-c6db317c5999",
       "name": "Destined Rivals Premium Checklane Blister [Skeledirge]",
       "releaseDate": "2025-05-30",
       "identifiers": {
