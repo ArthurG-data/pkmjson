@@ -6,8 +6,8 @@ and logo per language), each with its schema beside it (dist/AllProducts.schema.
 It refuses to build invalid data, or a file its schema does not describe, and then writes nothing: dist/ holds
 the files of one build or of none.
 
-The release files are AllSets, AllCards, AllPrintings, AllProducts and AllUuids. meta.sources names the TCGdex commit the
-cards come from.
+The release files are AllSets, AllCards, AllPrintings, AllProducts, AllUuids and AllTranslations. meta.sources names
+the TCGdex commit the cards come from.
 
 meta.date is the date of the data, not of the build: by default the day of the
 last commit that changed sets/ or data/, so building one commit twice writes the same files.
@@ -27,7 +27,20 @@ import net
 import release_schema
 import spine
 import uuids
-from pkmjson import CARDS, MAPPINGS, ROOT, SEALED, SERIES, SETS, UUIDS, file_errors, read_json, validate, write_json
+from pkmjson import (
+    CARDS,
+    MAPPINGS,
+    ROOT,
+    SEALED,
+    SERIES,
+    SETS,
+    TRANSLATIONS,
+    UUIDS,
+    file_errors,
+    read_json,
+    validate,
+    write_json,
+)
 
 DIST = ROOT / "dist"
 
@@ -46,9 +59,11 @@ def data_date(root: Path = ROOT) -> str:
     return shown or dt.date.today().isoformat()
 
 
-def outputs(whole: uuids.Spine, meta: dict, sets_path: Path = SETS, series_path: Path = SERIES) -> dict[str, dict]:
+def outputs(whole: uuids.Spine, meta: dict, sets_path: Path = SETS, series_path: Path = SERIES,
+            translations_path: Path = TRANSLATIONS) -> dict[str, dict]:
     """{file name: document} for every release file and schema, or Invalid."""
-    errors = file_errors(sets_path, registry=whole.registry_path, series_path=series_path)
+    errors = file_errors(sets_path, registry=whole.registry_path, series_path=series_path,
+                         translations_path=translations_path)
     errors += validate(whole.families, whole.sealed_path, sets=whole.sets)
     if not errors:
         errors = spine.errors(whole, uuids.load_registry(whole.registry_path))
@@ -58,6 +73,7 @@ def outputs(whole: uuids.Spine, meta: dict, sets_path: Path = SETS, series_path:
     data = {"AllSets": spine.all_sets(whole), "AllCards": cards, "AllPrintings": prints,
             "AllProducts": spine.all_products(whole)}
     data["AllUuids"] = spine.all_uuids(whole.sets, cards, prints, data["AllProducts"], whole.series)
+    data["AllTranslations"] = read_json(translations_path)
     documents = {name: {"meta": meta, "data": records} for name, records in data.items()}
     schemas = release_schema.schemas()
     errors = [f"{name}.json: {e.json_path}: {e.message}" for name, doc in documents.items()
@@ -80,6 +96,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--series", default=SERIES, type=Path)
     parser.add_argument("--cards", default=CARDS, type=Path)
     parser.add_argument("--registry", default=UUIDS, type=Path)
+    parser.add_argument("--translations", default=TRANSLATIONS, type=Path)
     parser.add_argument("--out", default=DIST, type=Path)
     parser.add_argument("--version", default="0.0.0-dev")
     parser.add_argument("--date", type=dt.date.fromisoformat, help="meta.date; default: the day sets/ or data/ last changed")
@@ -88,7 +105,7 @@ def main(argv: list[str] | None = None) -> int:
             "sources": sources()}
     try:
         files = outputs(uuids.Spine.load(args.data, args.series, args.sets, args.cards, args.registry), meta,
-                        args.sets, args.series)
+                        args.sets, args.series, args.translations)
     except Invalid as error:
         print(error, file=sys.stderr)
         return 1

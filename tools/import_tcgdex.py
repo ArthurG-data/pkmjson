@@ -7,7 +7,8 @@ It writes:
 - sets/series.json: every TCGdex series, keyed `<region>/<serie>`, with its name per language;
 - sets/sets.json: in every set's entry, the keys this tool owns (`serie`, `identifiers` and `tcgdex`). The other
   keys are kept: `languages` is import_sets.py's, `uuid` is uuids.py's. A TCGdex set sets.json lacks is added.
-- data/cards/<region>/<set>.json: the set's cards, each with its printings (see tools/tcgdex.py for the rules).
+- data/cards/<region>/<set>.json: the set's cards, each with its printings (see tools/tcgdex.py for the rules);
+- data/translations.json: TCGdex's meta/translations, the word its API shows for each English enum value.
 
 Every UUID is kept or given by tools/uuids.py before anything is written. The repository's placeholders do not
 make it in, and review/tcgdex.json says why: a set file that declares another file's set id, and the cards filed
@@ -25,13 +26,13 @@ from pathlib import Path
 
 import tcgdex
 import uuids
-from pkmjson import CARDS, MAPPINGS, REVIEW, SERIES, SETS, read_json, write_cards, write_json
+from pkmjson import CARDS, MAPPINGS, REVIEW, SERIES, SETS, TRANSLATIONS, read_json, write_cards, write_json
 
 # The card fields kept as TCGdex states them, in this order. A card's set, number and variants become the record's
 # own keys and its printings.
 CARD_FIELDS = ("category", "name", "rarity", "illustrator", "regulationMark", "hp", "types", "stage", "suffix",
                "evolveFrom", "retreat", "trainerType", "energyType", "dexId", "cameoDexIds", "effect", "description",
-               "item", "attacks", "abilities", "weaknesses", "resistances", "boosters", "legal")
+               "item", "attacks", "abilities", "weaknesses", "resistances", "boosters", "legal", "banned")
 
 
 def serie_key(serie: dict) -> str:
@@ -57,8 +58,8 @@ def kept_sets(sets: list[dict]) -> tuple[dict[tuple[str, str], dict], list[dict]
 def grouped_versions(card: dict, region: str, promo_map: dict, stats: Counter) -> list[dict]:
     """The card's versions, each with its printings by language.
 
-    A version holds what its printings share: promo types, oversize, finishes and the TCGdex and Cardmarket ids of
-    each finish. Each language holds its own TCGplayer ids, the home language's only, and whatever differs from the
+    A version holds what its printings share: promo types, oversize, finishes and the TCGdex, Cardmarket and
+    CardTrader ids of each finish. Each language holds its own TCGplayer ids, the home language's only, and whatever differs from the
     version, which is a variant TCGdex marks as printed in some languages only. pkmjson.printings() lays them out
     one printing per language and version again.
     """
@@ -75,8 +76,7 @@ def grouped_versions(card: dict, region: str, promo_map: dict, stats: Counter) -
             if variants := {f: v["variantId"] for f, v in sorted(version["finishes"].items())
                             if v.get("variantId") and v["variantId"] != tcgdex.GENERATED}:
                 shared["tcgdexVariantIds"] = variants
-            if "cardmarketProductIds" in ids:
-                shared["cardmarketProductIds"] = ids["cardmarketProductIds"]
+            shared.update({k: ids[k] for k in ("cardmarketProductIds", "cardtraderIds") if k in ids})
             facts["identifiers"] = shared
             facts["own"] = {k: v for k, v in ids.items() if k == "tcgplayerProductIds"}
             facts["version"] = version
@@ -208,6 +208,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--series", default=SERIES, type=Path)
     parser.add_argument("--cards", default=CARDS, type=Path)
     parser.add_argument("--review", default=REVIEW, type=Path)
+    parser.add_argument("--translations", default=TRANSLATIONS, type=Path)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
     if not (args.dump / "cards.jsonl").exists():
@@ -237,6 +238,7 @@ def main(argv: list[str] | None = None) -> int:
     for path in stale:
         path.unlink()
     write_json(args.review / "tcgdex.json", review, indent=1)
+    write_json(args.translations, tcgdex.load_translations(args.dump), indent=1)
     return 0
 
 

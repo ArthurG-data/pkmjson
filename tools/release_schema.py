@@ -143,8 +143,12 @@ def schemas() -> dict[str, dict]:
                              "items": False, "minItems": 2}}}},
         },
     }
+    translations = _source("translations.schema.json")
     return {
         "AllUuids": uuids_doc,
+        "AllTranslations": _release("AllTranslations", "pkmjson AllTranslations: per language, the word TCGdex shows "
+                                    "for each English enum value", translations["additionalProperties"], {},
+                                    translations["propertyNames"]["pattern"]),
         "AllCards": _release("AllCards", "pkmjson AllCards: every TCGdex card, with its oracle id", card, {},
                              keys["region"]),
         "AllPrintings": _release("AllPrintings", "pkmjson AllPrintings: every card in every language and version",

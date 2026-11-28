@@ -26,6 +26,7 @@ SERIES = ROOT / "sets" / "series.json"
 SEALED = ROOT / "data" / "sealed"
 CARDS = ROOT / "data" / "cards"
 UUIDS = ROOT / "data" / "uuids"
+TRANSLATIONS = ROOT / "data" / "translations.json"
 REVIEW = ROOT / "review"
 MAPPINGS = ROOT / "mappings"
 # An asia family whose set id, lowercased, is also an international set id starts with this, so the two trees'
@@ -381,10 +382,12 @@ def _schema(name: str) -> dict:
 
 
 def file_errors(sets_path: Path = SETS, mappings: Path = MAPPINGS, registry: Path | None = None,
-                series_path: Path = SERIES) -> list[str]:
-    """sets/sets.json, sets/series.json, the mappings and the UUID registry (data/uuids/) against their schemas."""
+                series_path: Path = SERIES, translations_path: Path = TRANSLATIONS) -> list[str]:
+    """sets/sets.json, sets/series.json, data/translations.json, the mappings and the UUID registry (data/uuids/)
+    against their schemas."""
     errors = []
-    checks = [(sets_path, _schema("sets.schema.json")), (series_path, _schema("series.schema.json"))]
+    checks = [(sets_path, _schema("sets.schema.json")), (series_path, _schema("series.schema.json")),
+              (translations_path, _schema("translations.schema.json"))]
     defs = _schema("mappings.schema.json")
     for name in ("tcgplayer_groups", "cardmarket_sealed", "pack_pools", "tcgdex_renames", "sources"):
         checks.append((mappings / f"{name}.json", {**defs, "$ref": f"#/$defs/{name}"}))

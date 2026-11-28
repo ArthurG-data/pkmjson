@@ -130,6 +130,18 @@
           "items": {
             "$ref": "#/$defs/version"
           }
+        },
+        "banned": {
+          "description": "The formats that ban the card by name, as TCGdex's meta/legals.ts lists them. A card not listed is not banned; whether it is legal is `legal`.",
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "standard",
+              "expanded"
+            ]
+          }
         }
       },
       "patternProperties": {
@@ -228,6 +240,21 @@
               }
             },
             "cardmarketProductIds": {
+              "type": "object",
+              "propertyNames": {
+                "enum": [
+                  "nonfoil",
+                  "holo",
+                  "reverse-holo",
+                  "unknown"
+                ]
+              },
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "cardtraderIds": {
               "type": "object",
               "propertyNames": {
                 "enum": [
@@ -343,6 +370,28 @@
                     }
                   },
                   "cardmarketProductIds": {
+                    "anyOf": [
+                      {
+                        "type": "object",
+                        "propertyNames": {
+                          "enum": [
+                            "nonfoil",
+                            "holo",
+                            "reverse-holo",
+                            "unknown"
+                          ]
+                        },
+                        "additionalProperties": {
+                          "type": "integer",
+                          "minimum": 1
+                        }
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "cardtraderIds": {
                     "anyOf": [
                       {
                         "type": "object",
