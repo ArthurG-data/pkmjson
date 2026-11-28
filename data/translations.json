@@ -247,6 +247,7 @@
    "international-championship-latin-america": "international-championship-latin-america",
    "international-championship-north-america": "international-championship-north-america",
    "ace-trainer": "Ace Trainer",
+   "game-on": "Pokémon Game On!",
    "30th-pokeday": "30th-pokeday",
    "pikachu": "pikachu",
    "bulbasaur": "bulbasaur",
@@ -276,7 +277,13 @@
    "jose-cruz-galindo-resendiz": "Jose Cruz Galindo-Resendiz",
    "sakuya-ota": "sakuya-ota",
    "poketour-99": "PokeTour 1999",
-   "fossil-museum": "Fossil Museum"
+   "fossil-museum": "Fossil Museum",
+   "4th-place": "4. Platz",
+   "3rd-place": "3. Platz",
+   "2nd-place": "2. Platz",
+   "1st-place": "1. Platz",
+   "toys-r-us": "Toys R Us",
+   "build-a-bear": "Build a Bear"
   },
   "variantSubtype": {
    "shadowless": "schattenlos",
@@ -557,6 +564,7 @@
    "international-championship-latin-america": "campeonato-internacional-américa-latina",
    "international-championship-north-america": "campeonato-internacional-américa-del-norte",
    "ace-trainer": "Ace Trainer",
+   "game-on": "Pokémon Game On!",
    "30th-pokeday": "30th-pokeday",
    "pikachu": "pikachu",
    "bulbasaur": "bulbasaur",
@@ -586,7 +594,13 @@
    "jose-cruz-galindo-resendiz": "Jose Cruz Galindo-Resendiz",
    "sakuya-ota": "sakuya-ota",
    "poketour-99": "PokeTour 1999",
-   "fossil-museum": "Fossil Museum"
+   "fossil-museum": "Fossil Museum",
+   "4th-place": "4th puesto",
+   "3rd-place": "3rd puesto",
+   "2nd-place": "2nd puesto",
+   "1st-place": "1st puesto",
+   "toys-r-us": "Toys R Us",
+   "build-a-bear": "Build a Bear"
   },
   "variantSubtype": {
    "shadowless": "sin sombra",
@@ -868,6 +882,7 @@
    "international-championship-north-america": "championnat-international-amérique-du-nord",
    "30th-pokeday": "30th-pokeday",
    "ace-trainer": "Entraîneur d'as",
+   "game-on": "Pokémon Game On!",
    "pikachu": "pikachu",
    "bulbasaur": "bulbizarre",
    "squirtle": "carapuce",
@@ -896,7 +911,13 @@
    "jose-cruz-galindo-resendiz": "Jose Cruz Galindo-Resendiz",
    "sakuya-ota": "sakuya-ota",
    "poketour-99": "PokeTour 1999",
-   "fossil-museum": "Fossil Museum"
+   "fossil-museum": "Fossil Museum",
+   "4th-place": "4e place",
+   "3rd-place": "3e place",
+   "2nd-place": "2e place",
+   "1st-place": "1re place",
+   "toys-r-us": "Toys R Us",
+   "build-a-bear": "Build a Bear"
   },
   "variantSubtype": {
    "shadowless": "sans ombre",
@@ -1178,6 +1199,7 @@
    "international-championship-latin-america": "campionato-internazionale-america-latina",
    "international-championship-north-america": "campionato-internazionale-america-del-nord",
    "ace-trainer": "Ace Trainer",
+   "game-on": "Pokémon Game On!",
    "30th-pokeday": "30th-pokeday",
    "pikachu": "pikachu",
    "bulbasaur": "bulbasaur",
@@ -1207,7 +1229,13 @@
    "jose-cruz-galindo-resendiz": "Jose Cruz Galindo-Resendiz",
    "sakuya-ota": "sakuya-ota",
    "poketour-99": "PokeTour 1999",
-   "fossil-museum": "Fossil Museum"
+   "fossil-museum": "Fossil Museum",
+   "4th-place": "4th posto",
+   "3rd-place": "3rd posto",
+   "2nd-place": "2nd posto",
+   "1st-place": "1st posto",
+   "toys-r-us": "Toys R Us",
+   "build-a-bear": "Build a Bear"
   },
   "variantSubtype": {
    "shadowless": "senza ombra",
@@ -1488,6 +1516,7 @@
    "international-championship-latin-america": "campeonato-internacional-américa-latina",
    "international-championship-north-america": "campeonato-internacional-américa-do-norte",
    "ace-trainer": "Ace Trainer",
+   "game-on": "Pokémon Game On!",
    "30th-pokeday": "30th-pokeday",
    "pikachu": "pikachu",
    "bulbasaur": "bulbasaur",
@@ -1517,7 +1546,13 @@
    "jose-cruz-galindo-resendiz": "Jose Cruz Galindo-Resendiz",
    "sakuya-ota": "sakuya-ota",
    "poketour-99": "PokeTour 1999",
-   "fossil-museum": "Fossil Museum"
+   "fossil-museum": "Fossil Museum",
+   "4th-place": "4th lugar",
+   "3rd-place": "3rd lugar",
+   "2nd-place": "2nd lugar",
+   "1st-place": "1st lugar",
+   "toys-r-us": "Toys R Us",
+   "build-a-bear": "Build a Bear"
   },
   "variantSubtype": {
    "shadowless": "sem sombra",

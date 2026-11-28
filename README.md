@@ -10,8 +10,8 @@ sell it. The sealed products come from TCGplayer's product text, pokemon-card.co
 are what no other source publishes: the booster packs in a booster box, the packs, promo cards and accessories in an
 Elite Trainer Box, and so on.
 
-The data holds 559 sets in 39 series, and 41967 cards: 23841 international and 18126 Asian. They are 26355 oracles
-and 167318 printings. 29910 printings carry a TCGplayer product and 135402 a Cardmarket product.
+The data holds 564 sets in 39 series, and 42356 cards: 24012 international and 18344 Asian. They are 26338 oracles
+and 172259 printings. 30904 printings carry a TCGplayer product and 141079 a Cardmarket product.
 
 The data also holds 3189 product families in 4445 language releases. 2905 families are international and
 284 are Japanese. By language, the releases are 2905 English, 553 French, 284 Japanese, 249 German, 230 Italian and

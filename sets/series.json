@@ -115,6 +115,7 @@
   "serie": "mc",
   "uuid": "d6d6fcb6-de54-5816-b3ad-d7f3ad923abe",
   "name": {
+   "de": "McDonald's Kollektion",
    "en": "McDonald's Collection",
    "fr": "Collection McDonald's",
    "es": "Colección de McDonald's",
@@ -272,7 +273,9 @@
   "region": "asia",
   "serie": "BW",
   "uuid": "43c1d72b-3961-5e43-b219-f72893be21b5",
-  "name": {}
+  "name": {
+   "ja": "BW"
+  }
  },
  "asia/DP": {
   "region": "asia",

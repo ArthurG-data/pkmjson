@@ -37,18 +37,6 @@
  },
  {
   "region": "asia",
-  "set": "BW3a",
-  "file": "BW3b",
-  "reason": "declares the id of BW3a"
- },
- {
-  "region": "asia",
-  "set": "BW8a",
-  "file": "BW8b",
-  "reason": "declares the id of BW8a"
- },
- {
-  "region": "asia",
   "set": "CSV1C",
   "file": "CBB1C",
   "reason": "declares the id of CSV1C"
