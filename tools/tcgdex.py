@@ -274,6 +274,11 @@ def load_promo_map(path: Path = MAPPINGS / "promo_types.csv") -> dict[tuple[str,
         return {(r["source"], r["value"]): (r["promo_type"], r["category"]) for r in csv.DictReader(fh)}
 
 
+def load_set_stamps(path: Path = MAPPINGS / "set_stamps.json") -> dict[tuple[str, str], str]:
+    """(region, set) -> the promo type every card of the set carries, from the curated mappings/set_stamps.json."""
+    return {tuple(key.split("/", 1)): name for key, name in json.loads(path.read_text(encoding="utf-8")).items()}
+
+
 def detailed_variants(card: dict) -> list[dict] | None:
     """The card's variants, legacy boolean variants rebuilt the way TCGdex's compiler rebuilds them. None when TCGdex
     has no variant data (its API would invent one "normal" variant)."""
@@ -308,10 +313,16 @@ def version_key(promos: Iterable[str], oversized: bool) -> str:
     return "+".join(sorted(promos)) + ("|oversized" if oversized else "")
 
 
-def versions(card: dict, lang: str, promo_map: dict, stats: Counter | None = None) -> dict[str, dict]:
-    """{version key: {"promos", "oversized", "finishes": {finish: first TCGdex variant with it}}} of the card in
-    one language. A variant that names its languages is only in those."""
+def versions(card: dict, lang: str, promo_map: dict, stats: Counter | None = None,
+             set_stamp: str | None = None) -> dict[str, dict]:
+    """{version key: {"promos", "keyed", "oversized", "finishes": {finish: first TCGdex variant with it}}} of the card
+    in one language. A variant that names its languages is only in those.
+
+    ``set_stamp`` is the promo type every card of the card's set carries (mappings/set_stamps.json). It tells no two
+    printings apart, so it is one of the version's promo types but not part of its key: ``keyed`` holds the promo
+    types the key is made of. A card whose variants differ only by that stamp is refused."""
     out: dict[str, dict] = {}
+    stamped: dict[str, bool] = {}
     for v in detailed_variants(card) or []:
         if v.get("languages") and lang not in v["languages"]:
             continue
@@ -320,9 +331,14 @@ def versions(card: dict, lang: str, promo_map: dict, stats: Counter | None = Non
                 stats["unknown variant type"] += 1
             continue
         found = variant_promo_types(v, promo_map)
+        keyed = {n for n, _ in found if n != set_stamp}
         oversized = v.get("size") == "jumbo"
-        version = out.setdefault(version_key((n for n, _ in found), oversized),
-                                 {"promos": found, "oversized": oversized, "finishes": {}})
+        key = version_key(keyed, oversized)
+        has_stamp = len(keyed) < len({n for n, _ in found})
+        if stamped.setdefault(key, has_stamp) != has_stamp:
+            raise ValueError(f"{card['id']}: a variant with and one without {set_stamp}, the stamp mappings/"
+                             f"set_stamps.json gives its whole set, would share the version key {key!r}")
+        version = out.setdefault(key, {"promos": found, "keyed": keyed, "oversized": oversized, "finishes": {}})
         version["finishes"].setdefault(FINISH[v["type"]], v)
     return out
 
@@ -338,13 +354,13 @@ def marketplace_ids(card: dict, region: str, lang: str, version: dict) -> dict[s
     stands for a printing whose finishes TCGdex does not know.
 
     A TCGplayer id goes only on the home language's printing. The card-level id names the regular printing, so it
-    is never lent to a stamped or special version.
+    is never lent to a stamped or special version. A stamp its whole set carries does not make a version special.
     """
     out: dict[str, dict[str, int]] = {}
     for source, key in MARKETPLACES:
         if source == "tcgplayer" and lang != HOME_LANGUAGE[region]:
             continue
-        fallback = (card.get("thirdParty") or {}).get(source) if not version["promos"] else None
+        fallback = (card.get("thirdParty") or {}).get(source) if not version.get("keyed", version["promos"]) else None
         if not version["finishes"]:
             if fallback:
                 out[key] = {"unknown": fallback}

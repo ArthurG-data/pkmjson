@@ -55,7 +55,8 @@ def kept_sets(sets: list[dict]) -> tuple[dict[tuple[str, str], dict], list[dict]
     return kept, review
 
 
-def grouped_versions(card: dict, region: str, promo_map: dict, stats: Counter) -> list[dict]:
+def grouped_versions(card: dict, region: str, promo_map: dict, stats: Counter,
+                     set_stamp: str | None = None) -> list[dict]:
     """The card's versions, each with its printings by language.
 
     A version holds what its printings share: promo types, oversize, finishes and the TCGdex, Cardmarket and
@@ -65,7 +66,7 @@ def grouped_versions(card: dict, region: str, promo_map: dict, stats: Counter) -
     """
     per_key: dict[str, dict[str, dict]] = {}
     for lang in card["languages"]:
-        found = tcgdex.versions(card, lang, promo_map, stats)
+        found = tcgdex.versions(card, lang, promo_map, stats, set_stamp)
         known = bool(found)
         if not found:
             found = {"": {"promos": set(), "oversized": False, "finishes": {}}}
@@ -114,14 +115,14 @@ def grouped_versions(card: dict, region: str, promo_map: dict, stats: Counter) -
     return out
 
 
-def card_record(card: dict, region: str, promo_map: dict, stats: Counter) -> dict:
+def card_record(card: dict, region: str, promo_map: dict, stats: Counter, set_stamp: str | None = None) -> dict:
     record = {"id": card["id"], "localId": card["localId"]}
     # Kept exactly as TCGdex has them, an empty list included: the oracle fingerprint reads them.
     record.update({k: card[k] for k in CARD_FIELDS if k in card})
     # The languages TCGdex has an image in. The image is https://assets.tcgdex.net/<language>/<serie>/<set>/<number>.
     if images := [lang for lang in card["languages"] if lang in (card.get("images") or {})]:
         record["imageLanguages"] = images
-    record["versions"] = grouped_versions(card, region, promo_map, stats)
+    record["versions"] = grouped_versions(card, region, promo_map, stats, set_stamp)
     return record
 
 
@@ -146,17 +147,30 @@ def set_entry(previous: dict | None, s: dict, region: str, groups: list[int]) ->
     return entry
 
 
+def set_stamp_errors(set_stamps: dict[tuple[str, str], str], kept: dict, promo_map: dict) -> list[str]:
+    """What is wrong with mappings/set_stamps.json: a set TCGdex does not list, or a stamp that is no promo type."""
+    known = {name for name, _ in promo_map.values()}
+    errors = [f"mappings/set_stamps.json names {region}/{set_id}, which TCGdex does not list"
+              for region, set_id in sorted(set_stamps) if (region, set_id) not in kept]
+    errors += [f"mappings/set_stamps.json gives {region}/{set_id} {name}, which is no promo type of "
+               "mappings/promo_types.csv" for (region, set_id), name in sorted(set_stamps.items()) if name not in known]
+    return errors
+
+
 def build(dump: Path, sets_path: Path, groups: dict[tuple[str, str], list[int]]):
     """(series, sets, card files {(region, set): body}, review, stats) from a dump, sets.json as it is, and the
     TCGplayer groups the mapping ties to each set."""
     raw_series, raw_sets, raw_cards = tcgdex.load_dump(dump)
     promo_map = tcgdex.load_promo_map()
+    set_stamps = tcgdex.load_set_stamps()
     stats: Counter = Counter()
     series = {}
     for s in sorted(raw_series, key=lambda s: (s["folder"], serie_key(s))):
         region = tcgdex.region_of(s["folder"])
         series[f"{region}/{serie_key(s)}"] = {"region": region, "serie": serie_key(s), "name": s["name"]}
     kept, review = kept_sets(raw_sets)
+    if errors := set_stamp_errors(set_stamps, kept, promo_map):
+        raise SystemExit("\n".join(errors))
     previous = read_json(sets_path) if sets_path.exists() else {}
     sets = dict(previous)
     for (region, set_id), s in kept.items():
@@ -181,7 +195,7 @@ def build(dump: Path, sets_path: Path, groups: dict[tuple[str, str], list[int]])
             continue
         seen.add((region, card["id"]))
         body = files.setdefault((region, card["set"]), {"region": region, "set": card["set"], "cards": []})
-        body["cards"].append(card_record(card, region, promo_map, stats))
+        body["cards"].append(card_record(card, region, promo_map, stats, set_stamps.get((region, card["set"]))))
     for body in files.values():
         body["cards"].sort(key=lambda c: natural(c["localId"]))
     stats["cards"] = len(seen)
