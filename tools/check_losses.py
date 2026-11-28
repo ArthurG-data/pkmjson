@@ -1,6 +1,6 @@
 """Compare the data with a git ref and fail when it lost more than a few of anything. Exits 1 on a loss.
 
-    uv run python tools/check_losses.py [--base HEAD] [--allow-loss]
+    uv run python tools/check_losses.py [--base HEAD] [--allow-loss] [--changes]
 
 The importers rebuild what they own from the sites they read. So a page a site served wrong can drop a set's
 products, a language's releases or the contents a text listed, without an error, and every other check passes on
@@ -19,7 +19,8 @@ A count that fell by more than MIN_LOSS and by more than LOSS_SHARE of itself is
 
 Run it after a pipeline run, before committing (the default base is HEAD). CI runs it on a pull request against
 the branch it targets. When a loss is meant (TCGplayer delisted a product), --allow-loss prints it and exits 0, and
-"[allow-loss]" in a pull request's title skips the CI check.
+"[allow-loss]" in a pull request's title skips the CI check. --changes also prints every count that moved, gains
+included, for a person reviewing a refresh.
 """
 from __future__ import annotations
 
@@ -83,6 +84,12 @@ def losses(base: collections.Counter, now: collections.Counter) -> list[str]:
     return out
 
 
+def changes(base: collections.Counter, now: collections.Counter) -> list[str]:
+    """A line for each count that moved, up or down."""
+    return [f"{what}: {base.get(what, 0)} -> {now.get(what, 0)}" for what in sorted(base.keys() | now.keys())
+            if base.get(what, 0) != now.get(what, 0)]
+
+
 def load_at(ref: str, into: Path) -> tuple[list[Family], dict, dict]:
     """The families, sets and cards as committed at ref, unpacked into the directory into. Before the products
     moved to data/sealed/ they sat in data/ itself."""
@@ -103,11 +110,14 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--base", default="HEAD", help="the git ref to compare with (default HEAD)")
     parser.add_argument("--allow-loss", action="store_true", help="print the losses but exit 0")
+    parser.add_argument("--changes", action="store_true", help="also print every count that moved")
     args = parser.parse_args(argv)
     with tempfile.TemporaryDirectory(prefix="pkmjson-base-") as tmp:
         base = tally(*load_at(args.base, Path(tmp)))
     now = tally(load(SEALED), read_json(SETS), load_cards(CARDS))
     found = losses(base, now)
+    if args.changes:
+        print("\n".join(changes(base, now)) or "no count moved")
     for message in found:
         print(message)
     print(f"{len(found)} losses against {args.base}")

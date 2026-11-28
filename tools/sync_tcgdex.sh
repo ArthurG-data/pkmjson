@@ -26,6 +26,7 @@ if [ "$(git -C "$REPO" rev-parse HEAD)" != "$COMMIT" ]; then
     git -C "$REPO" fetch --depth 1 origin "$COMMIT"
     git -C "$REPO" -c advice.detachedHead=false checkout "$COMMIT"
 fi
-(cd "$REPO" && bun install --silent) && (cd "$REPO/server" && bun install --silent)
+# --ignore-scripts: install the packages without running any of their install scripts.
+(cd "$REPO" && bun install --silent --ignore-scripts) && (cd "$REPO/server" && bun install --silent --ignore-scripts)
 bun tools/dump_tcgdex.ts "$REPO" .cache/tcgdex
 echo "$COMMIT" > .cache/tcgdex/commit.txt
