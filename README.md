@@ -48,8 +48,11 @@ have a `neo1`), so a set or card is always named with its region. TCG Pocket is 
 - A **printing** is a card in one language and one version. Its id is `<card id>~<language>`. A version other than
   the plain one adds its promo types and size: `international/svp-159~en~pokemon-center`, `…~oversized`. A version
   is what TCGdex's variants of the card carry besides their finish: a stamp, a foil pattern, an edition, a metal or
-  lenticular card. `mappings/promo_types.csv` names each of them (AutoMana's table). A printing lists its finishes
-  (`nonfoil`, `holo`, `reverse-holo`), or `null` when TCGdex knows no variant of the card. It also carries the TCGdex
+  lenticular card. `mappings/promo_types.csv` names each of them (AutoMana's table). A version is what tells a
+  card's printings apart, so a stamp that a whole set carries (`mappings/set_stamps.json`: the McDonald's sets, 30th
+  Celebration) is one of its printings' promo types but not part of their key: `international/30th-001~en`.
+  A printing lists its finishes (`nonfoil`, `holo`, `reverse-holo`), or `null` when TCGdex knows no variant of the
+  card. It also carries the TCGdex
   variant, TCGplayer product, Cardmarket product and CardTrader id of each finish. TCGdex knows CardTrader ids
   for a few sets only. A TCGplayer id goes only on the home language's
   printing: English for international, Japanese for Asian. The card-level TCGdex id names the regular printing, so

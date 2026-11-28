@@ -23,5 +23,11 @@ Lookup tables the import tools read. Each row is a fact another source states; n
 - `promo_types.csv`: what each TCGdex variant attribute that is not a finish is, as a promo type and its category
   (`stamp,pokemon-center,pokemon-center,stamp`). Copied from AutoMana's table. A printing's version key and id are
   built from these names. Renaming one keeps the printing's UUID, through its TCGdex variant ids.
+- `set_stamps.json`: `{"<region>/<set>": "<promo type>"}`, the stamp every card of a set carries: the McDonald's
+  sets (`mcdonalds`, `25th-celebration`) and 30th Celebration with its Classic Collection (`30th-anniversary`). It tells no two printings apart,
+  so it stays one of the printing's promo types but is left out of its version key, as Scryfall lists a stamp in
+  `promo_types` without making it a printing of its own. `tools/import_tcgdex.py` refuses a set TCGdex does not
+  list, a stamp that is not a promo type of `promo_types.csv`, and a card whose variants differ only by its set's
+  stamp. Changing an entry keeps the printings' UUIDs, through their TCGdex variant ids.
 - `tcgdex_renames.json`: ids TCGdex changed, `{"sets": {"<region>/<old>": "<region>/<new>"}, "series": {...}}`. The
   renamed set keeps its UUID, and so do its cards. Empty until TCGdex renames something.

@@ -91,9 +91,10 @@ def write_json(path: Path, data: object, indent: int = 2) -> None:
 
 
 def printing_id(card_id: str, language: str, version: dict) -> str:
-    """`<card id>~<language>`, with `~<promo types>[+oversized]` for any version but the plain one."""
-    parts = [p["name"] for p in version.get("promoTypes", [])] + (["oversized"] if version.get("oversized") else [])
-    return f"{card_id}~{language}" + (f"~{'+'.join(parts)}" if parts else "")
+    """`<card id>~<language>`, with `~<promo types>[+oversized]` for any version but the plain one: the version key's.
+    A stamp its whole set carries is a promo type but not in the key (mappings/set_stamps.json), so not in the id."""
+    suffix = "+".join(part for part in version.get("key", "").split("|") if part)
+    return f"{card_id}~{language}" + (f"~{suffix}" if suffix else "")
 
 
 def printings(card: dict) -> list[dict]:

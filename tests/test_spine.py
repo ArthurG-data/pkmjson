@@ -4,6 +4,8 @@ import copy
 import json
 from collections import Counter
 
+import pytest
+
 import import_tcgdex
 import spine as spine_module
 import tcgdex
@@ -32,6 +34,40 @@ def test_a_stamp_is_a_version_and_the_finish_types_are_three():
     assert set(found[""]["finishes"]) == {"nonfoil", "reverse-holo"}
     assert set(found["pokemon-center"]["finishes"]) == {"holo"}
     assert found["metal"]["promos"] == {("metal", "uncategorized")} and set(found["metal"]["finishes"]) == {"holo"}
+
+
+def test_a_stamp_its_whole_set_carries_is_a_promo_type_but_not_the_key():
+    promos = {**PROMOS, ("stamp", "30th-anniversary"): ("30th-anniversary", "anniversary")}
+    card_ = _dump_card([{"type": "holo", "stamp": ["30th-anniversary"], "variantId": "a", "thirdParty": {"tcgplayer": 7}},
+                        {"type": "holo", "stamp": ["30th-anniversary", "pokemon-center"], "variantId": "b"}])
+    found = tcgdex.versions(card_, "en", promos, set_stamp="30th-anniversary")
+    assert set(found) == {"", "pokemon-center"}
+    assert found[""]["promos"] == {("30th-anniversary", "anniversary")}
+    assert tcgdex.marketplace_ids(card_, "international", "en", found[""])["tcgplayerProductIds"] == {"holo": 7}
+    # Without the set's stamp, the same variants are two stamped versions.
+    assert set(tcgdex.versions(card_, "en", promos)) == {"30th-anniversary", "30th-anniversary+pokemon-center"}
+
+
+def test_a_card_whose_variants_differ_only_by_its_set_stamp_is_refused():
+    promos = {("stamp", "mcdonalds"): ("mcdonalds", "retail")}
+    card_ = _dump_card([{"type": "holo", "stamp": ["mcdonalds"], "variantId": "a"}, {"type": "normal", "variantId": "b"}])
+    with pytest.raises(ValueError, match="zz1-1: a variant with and one without mcdonalds"):
+        tcgdex.versions(card_, "en", promos, set_stamp="mcdonalds")
+
+
+def test_the_set_stamps_name_sets_tcgdex_lists_and_known_promo_types():
+    promos = {("stamp", "mcdonalds"): ("mcdonalds", "retail")}
+    kept = {("international", "2012bw"): {}}
+    assert import_tcgdex.set_stamp_errors({("international", "2012bw"): "mcdonalds"}, kept, promos) == []
+    assert import_tcgdex.set_stamp_errors({("international", "zz9"): "mcdonalds",
+                                           ("international", "2012bw"): "mcdonald"}, kept, promos) == [
+        "mappings/set_stamps.json names international/zz9, which TCGdex does not list",
+        "mappings/set_stamps.json gives international/2012bw mcdonald, which is no promo type of "
+        "mappings/promo_types.csv"]
+
+
+def test_the_set_stamps_mapping_loads_as_region_and_set():
+    assert tcgdex.load_set_stamps()[("international", "30th")] == "30th-anniversary"
 
 
 def test_a_variant_printed_in_some_languages_only_is_only_there():
