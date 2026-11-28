@@ -3,11 +3,13 @@
  *
  *     bun tools/dump_tcgdex.ts <cards-database checkout> <output directory>
  *
- * Writes series.jsonl, sets.jsonl and cards.jsonl. It reuses the repository's own compiler helpers, so a variant's
- * variantId and a card's legality are the ones TCGdex's API serves. Unlike the API, it keeps each variant's
- * `languages`. Adapted from pokemon_exploration/scripts/dump_tcgdex.ts.
+ * Writes series.jsonl, sets.jsonl, cards.jsonl and translations.json. It reuses the repository's own compiler
+ * helpers, so a variant's variantId and a card's legality are the ones TCGdex's API serves. Unlike the API, it keeps
+ * each variant's `languages`, and each card says which formats ban it by name (meta/legals.ts). translations.json is
+ * the repository's meta/translations: the words the API puts in place of the English enum values, per language.
+ * Adapted from pokemon_exploration/scripts/dump_tcgdex.ts.
  */
-import { mkdirSync, writeFileSync } from 'node:fs'
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import path from 'node:path'
 
 const [repoArg, outArg] = process.argv.slice(2)
@@ -18,6 +20,10 @@ const FOLDERS = ['data', 'data-asia']
 
 const { variantToIdentifier } = await import(`${REPO}/server/compiler/utils/variantUtil`)
 const { cardIsLegal } = await import(`${REPO}/server/compiler/utils/util`)
+const legals: Record<string, { excludes: { cards: Array<string> } }> = await import(`${REPO}/meta/legals`)
+// The formats that ban a card by its id, as the compiler reads them.
+const FORMATS = ['standard', 'expanded']
+const bannedIn = (id: string) => FORMATS.filter((f) => legals[f].excludes.cards.includes(id))
 
 const jsonl = (rows: Array<unknown>) => rows.map((r) => JSON.stringify(r)).join('\n') + '\n'
 const load = async (file: string) => (await import(file)).default
@@ -58,9 +64,11 @@ for (const folder of FOLDERS) {
 		const images = Object.fromEntries(languages
 			.filter((lang) => assets[lang]?.[set.serie.id]?.[set.id]?.[localId])
 			.map((lang) => [lang, `https://assets.tcgdex.net/${lang}/${set.serie.id}/${set.id}/${localId}`]))
+		const id = `${set.id}-${localId}`
+		const banned = bannedIn(id)
 		cards.push({
 			...card,
-			id: `${set.id}-${localId}`,
+			id,
 			localId,
 			set: set.id,
 			setFile: path.basename(path.dirname(file)),
@@ -77,6 +85,7 @@ for (const folder of FOLDERS) {
 				standard: cardIsLegal('standard', card, localId),
 				expanded: cardIsLegal('expanded', card, localId),
 			},
+			...(banned.length ? { banned } : {}),
 		})
 	}
 }
@@ -85,4 +94,12 @@ mkdirSync(OUT, { recursive: true })
 writeFileSync(`${OUT}/series.jsonl`, jsonl(series))
 writeFileSync(`${OUT}/sets.jsonl`, jsonl(sets))
 writeFileSync(`${OUT}/cards.jsonl`, jsonl(cards))
+const translations = Object.fromEntries(files('*.json', `${REPO}/meta/translations`)
+	.filter((file) => path.basename(file) !== 'schema.json')
+	.map((file) => {
+		// The enum tables only: a file also holds `$schema` and `__comment__` notes.
+		const table = Object.entries(JSON.parse(readFileSync(file, 'utf-8'))).filter(([, v]) => typeof v === 'object')
+		return [path.basename(file, '.json'), Object.fromEntries(table)]
+	}))
+writeFileSync(`${OUT}/translations.json`, JSON.stringify(translations, null, '\t') + '\n')
 console.log(`${series.length} series, ${sets.length} sets, ${cards.length} cards -> ${OUT}`)

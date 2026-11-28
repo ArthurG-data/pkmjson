@@ -59,6 +59,15 @@ def test_tcgplayer_ids_go_on_the_home_language_and_never_to_a_stamped_version():
     assert tcgdex.marketplace_ids(card_, "international", "en", unknown)["tcgplayerProductIds"] == {"unknown": 7}
 
 
+def test_cardtrader_ids_go_on_every_language_of_the_version_that_names_them():
+    dump = _dump_card([{"type": "normal", "variantId": "a", "thirdParty": {"cardtrader": 9}},
+                       {"type": "holo", "stamp": ["pokemon-center"], "variantId": "c"}])
+    plain, stamped = import_tcgdex.grouped_versions(dump, "international", tcgdex.load_promo_map(), Counter())
+    assert plain["identifiers"] == {"tcgdexVariantIds": {"nonfoil": "a"}, "cardtraderIds": {"nonfoil": 9}}
+    assert plain["printings"] == {"en": {}, "fr": {}}
+    assert "cardtraderIds" not in stamped["identifiers"]
+
+
 def test_versions_group_their_languages_and_lay_out_as_one_printing_each():
     dump = _dump_card([{"type": "normal", "variantId": "a", "thirdParty": {"tcgplayer": 7}},
                        {"type": "reverse", "variantId": "b", "languages": ["fr"]},

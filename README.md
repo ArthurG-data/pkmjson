@@ -19,18 +19,19 @@ The data also holds 3189 product families in 4445 language releases. 2905 famili
 
 ## Using the data
 
-Each tagged release attaches five files to a GitHub release, each with its JSON schema beside it
+Each tagged release attaches six files to a GitHub release, each with its JSON schema beside it
 (`AllSets.schema.json`, ...):
 
 | File | Keyed by | Holds |
 |---|---|---|
 | `AllSets.json` | `<region>/<set>` (`international/sv08`) | the set's UUID, its series (id, UUID, names), TCGplayer group and Cardmarket expansion ids, TCGdex's names, dates, card count and abbreviations, and per language the name printed on its packs and a logo |
-| `AllCards.json` | `<region>/<card id>` (`international/sv08-001`) | the card's UUID, its oracle id, its set and set UUID, its number, its gameplay facts and text in every language, and the keys of its printings |
-| `AllPrintings.json` | `<region>/<printing id>` (`international/sv08-001~fr`) | one card in one language and version: its UUID, its card's and oracle's UUIDs, its finishes, promo types, image, TCGdex variant ids and the TCGplayer and Cardmarket product of each finish |
+| `AllCards.json` | `<region>/<card id>` (`international/sv08-001`) | the card's UUID, its oracle id, its set and set UUID, its number, its gameplay facts and text in every language, its legality (`legal`, and `banned`: the formats that ban it by name), and the keys of its printings |
+| `AllPrintings.json` | `<region>/<printing id>` (`international/sv08-001~fr`) | one card in one language and version: its UUID, its card's and oracle's UUIDs, its finishes, promo types, image, TCGdex variant ids, the TCGplayer and Cardmarket product and the CardTrader id of each finish |
 | `AllProducts.json` | `<family id>:<language>` (`sv08-etb:fr`) | one sealed product in one language: its UUID, its family's UUID, its contents (each card with its printing's UUID, each pool set with its UUID) and the sources that state them |
 | `AllUuids.json` | kind, then UUID | every UUID and the natural key of its record: a set's or series' `<region>/<code>`, a card's key and oracle id, a printing's card key, language and version key, an oracle's cards, a product release's key and family UUID. It is 19 MB, for a reader that only needs to match its own rows to pkmjson's UUIDs |
+| `AllTranslations.json` | language, then enum | the word TCGdex shows, in German, Spanish, French, Italian and Portuguese, for each English enum value. Cards and printings state their category, rarity, stage, types, finishes and so on as TCGdex's English keys; a value this file lacks is shown in English |
 
-Every file is `{"meta": {"version", "date", "sources"}, "data": {...}}`. All five come from one build, so a reader
+Every file is `{"meta": {"version", "date", "sources"}, "data": {...}}`. All six come from one build, so a reader
 that downloads them separately can check that the versions agree. `date` is the day the data last changed (the last
 commit to `sets/` or `data/`), so one commit always builds the same files. `sources.tcgdex` is the TCGdex commit the
 cards come from.
@@ -49,7 +50,8 @@ have a `neo1`), so a set or card is always named with its region. TCG Pocket is 
   is what TCGdex's variants of the card carry besides their finish: a stamp, a foil pattern, an edition, a metal or
   lenticular card. `mappings/promo_types.csv` names each of them (AutoMana's table). A printing lists its finishes
   (`nonfoil`, `holo`, `reverse-holo`), or `null` when TCGdex knows no variant of the card. It also carries the TCGdex
-  variant, TCGplayer product and Cardmarket product of each finish. A TCGplayer id goes only on the home language's
+  variant, TCGplayer product, Cardmarket product and CardTrader id of each finish. TCGdex knows CardTrader ids
+  for a few sets only. A TCGplayer id goes only on the home language's
   printing: English for international, Japanese for Asian. The card-level TCGdex id names the regular printing, so
   it is never given to a stamped version.
 - An **oracle** is one gameplay card, whatever its reprints: MTG's oracle id, `oracleId` on a card and a printing.
@@ -160,7 +162,8 @@ it on every pull request and push. Every import tool stamps the UUIDs before it 
 
 - **Sets, cards and printings:** `tools/sync_tcgdex.sh` checks out TCGdex's cards-database at the commit
   `mappings/sources.json` pins, and `tools/dump_tcgdex.ts` (bun) dumps it with the repository's own variant-id and
-  legality code. Unlike TCGdex's API, the repository keeps the languages each variant is printed in.
+  legality code, and copies its ban list (`meta/legals.ts`) and enum translations (`meta/translations`). Unlike
+  TCGdex's API, the repository keeps the languages each variant is printed in.
   `tools/import_tcgdex.py` turns the dump into the spine. Placeholder files in the repository (a set file declaring
   another file's set id, cards in no language of their set) are left out and listed in `review/tcgdex.json`.
   `sync_tcgdex.sh --latest` moves the pin forward.

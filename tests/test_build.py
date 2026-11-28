@@ -32,8 +32,8 @@ def _unused_sets(tmp_path, *set_ids):
 
 def test_the_committed_data_builds_release_files_their_schemas_describe():
     files = build.outputs(uuids.Spine.load(), META)
-    assert set(files) == {f"{n}{s}" for n in ("AllSets", "AllCards", "AllPrintings", "AllProducts", "AllUuids")
-                          for s in (".json", ".schema.json")}
+    assert set(files) == {f"{n}{s}" for n in ("AllSets", "AllCards", "AllPrintings", "AllProducts", "AllUuids",
+                                              "AllTranslations") for s in (".json", ".schema.json")}
     product = files["AllProducts.json"]["data"]["sv08-etb:fr"]
     assert {"uuid", "familyUuid", "familyId", "language"} <= set(product)
     promo = product["contents"]["cards"][0]
@@ -47,6 +47,12 @@ def test_the_committed_data_builds_release_files_their_schemas_describe():
     assert ids["cards"][card["uuid"]] == ["international/svp-159", card["oracleId"]]
     assert "international/svp-159" in ids["oracles"][card["oracleId"]]
     assert ids["productReleases"][product["uuid"]] == ["sv08-etb:fr", product["familyUuid"]]
+    # What AutoMana's TCGdex loader read from the API: CardTrader ids, the ban list and the enum translations.
+    assert files["AllCards.json"]["data"]["international/bw3-67"]["banned"] == ["expanded"]
+    assert "banned" not in card
+    hoppip = files["AllPrintings.json"]["data"]["international/sv02-001~fr"]
+    assert hoppip["identifiers"]["cardtraderIds"] == {"nonfoil": 248297, "reverse-holo": 248297}
+    assert files["AllTranslations.json"]["data"]["fr"]["category"]["Trainer"] == "Dresseur"
 
 
 def _spine(tmp_path, family_set="zz1"):

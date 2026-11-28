@@ -89,7 +89,7 @@ jobs:
       # the files to it (--clobber replaces them when a second run gets here).
       - run: |
           files=""
-          for name in AllSets AllCards AllPrintings AllProducts AllUuids; do
+          for name in AllSets AllCards AllPrintings AllProducts AllUuids AllTranslations; do
             files="$files dist/$name.json dist/$name.schema.json"
           done
           if gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1; then

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/pkmjson/schema/translations.schema.json",
+  "title": "pkmjson enum translations",
+  "description": "data/translations.json: TCGdex's meta/translations. Cards and printings state their enum values (category, rarity, stage, types, ...) as TCGdex's English keys; this gives, per language, the word TCGdex's API shows for each. A language or a key it lacks is shown in English.",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^[a-z]{2}(-[a-z]{2})?$"
+  },
+  "additionalProperties": {
+    "description": "{enum: {English key: translation}}.",
+    "type": "object",
+    "propertyNames": {
+      "pattern": "^[a-zA-Z]+$"
+    },
+    "additionalProperties": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

@@ -56,6 +56,11 @@ def load_dump(path: Path = DUMP) -> tuple[list[dict], list[dict], list[dict]]:
     return rows("series"), rows("sets"), rows("cards")
 
 
+def load_translations(path: Path = DUMP) -> dict:
+    """TCGdex's meta/translations as dump_tcgdex.ts copied them: {language: {enum: {English key: translation}}}."""
+    return json.loads((path / "translations.json").read_text(encoding="utf-8"))
+
+
 def dump_commit(path: Path = DUMP) -> str | None:
     commit = path / "commit.txt"
     return commit.read_text(encoding="utf-8").strip() if commit.exists() else None
@@ -322,15 +327,21 @@ def versions(card: dict, lang: str, promo_map: dict, stats: Counter | None = Non
     return out
 
 
+# TCGdex's thirdParty key and the identifiers key it becomes. A CardTrader id names the card in every finish,
+# and TCGdex repeats it on each variant.
+MARKETPLACES = (("tcgplayer", "tcgplayerProductIds"), ("cardmarket", "cardmarketProductIds"),
+                ("cardtrader", "cardtraderIds"))
+
+
 def marketplace_ids(card: dict, region: str, lang: str, version: dict) -> dict[str, dict[str, int]]:
-    """{"tcgplayerProductIds" | "cardmarketProductIds": {finish: product id}} for one printing. A finish of "unknown"
+    """{"tcgplayerProductIds" | "cardmarketProductIds" | "cardtraderIds": {finish: id}} for one printing. A finish of "unknown"
     stands for a printing whose finishes TCGdex does not know.
 
     A TCGplayer id goes only on the home language's printing. The card-level id names the regular printing, so it
     is never lent to a stamped or special version.
     """
     out: dict[str, dict[str, int]] = {}
-    for source, key in (("tcgplayer", "tcgplayerProductIds"), ("cardmarket", "cardmarketProductIds")):
+    for source, key in MARKETPLACES:
         if source == "tcgplayer" and lang != HOME_LANGUAGE[region]:
             continue
         fallback = (card.get("thirdParty") or {}).get(source) if not version["promos"] else None
