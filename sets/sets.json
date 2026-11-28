@@ -524,6 +524,23 @@
   },
   "languages": {}
  },
+ "asia/BW3b": {
+  "region": "asia",
+  "set": "BW3b",
+  "uuid": "78694f18-d2b0-50a0-a755-d478b2e20fa0",
+  "serie": "BW",
+  "tcgdex": {
+   "name": {
+    "ja": "ヘイルブリザード",
+    "ko": "헤일 블리자드"
+   },
+   "releaseDate": "2011-09-16",
+   "cardCount": {
+    "official": 52
+   }
+  },
+  "languages": {}
+ },
  "asia/BW4": {
   "region": "asia",
   "set": "BW4",
@@ -635,6 +652,23 @@
    "name": {
     "ja": "ラセンフォース",
     "ko": "스파이럴포스"
+   },
+   "releaseDate": "2012-12-14",
+   "cardCount": {
+    "official": 51
+   }
+  },
+  "languages": {}
+ },
+ "asia/BW8b": {
+  "region": "asia",
+  "set": "BW8b",
+  "uuid": "f3290558-0787-51eb-98ce-6b989a73d80b",
+  "serie": "BW",
+  "tcgdex": {
+   "name": {
+    "ja": "ライデンナックル",
+    "ko": "볼트너클"
    },
    "releaseDate": "2012-12-14",
    "cardCount": {
@@ -2439,6 +2473,24 @@
    },
    "cardCount": {
     "official": 103
+   }
+  },
+  "languages": {}
+ },
+ "asia/MBG": {
+  "region": "asia",
+  "set": "MBG",
+  "uuid": "f0523368-c0e8-50a7-95c3-20b30444888a",
+  "serie": "M",
+  "tcgdex": {
+   "name": {
+    "ja": "スターターセットMEGA メガゲンガーex"
+   },
+   "releaseDate": {
+    "ja": "2025-09-05"
+   },
+   "cardCount": {
+    "official": 21
    }
   },
   "languages": {}
@@ -4738,7 +4790,7 @@
    },
    "releaseDate": "2019-04-26",
    "cardCount": {
-    "official": 56
+    "official": 54
    }
   },
   "languages": {
@@ -5179,11 +5231,10 @@
   },
   "tcgdex": {
    "name": {
-    "ja": "ひかる伝説"
+    "ja": "ひかる伝説",
+    "ko": "빛나는 전설"
    },
-   "releaseDate": {
-    "ja": "2017-07-15"
-   },
+   "releaseDate": "2017-07-15",
    "cardCount": {
     "official": 72
    }
@@ -6030,7 +6081,7 @@
     "ja": "2025-06-06"
    },
    "cardCount": {
-    "official": 174
+    "official": 86
    }
   },
   "languages": {
@@ -6509,7 +6560,7 @@
   },
   "tcgdex": {
    "name": {
-    "ja": "レイジングサーフ",
+    "ja": "シャイニートレジャーex",
     "ko": "샤이니트레저 ex",
     "zh-tw": "閃色寶藏ex",
     "id": "Harta Berkilau ex",
@@ -7514,6 +7565,24 @@
   },
   "languages": {}
  },
+ "asia/WCS23": {
+  "region": "asia",
+  "set": "WCS23",
+  "uuid": "11afa547-df6b-5082-b8ab-006ab25e47c3",
+  "serie": "SV",
+  "tcgdex": {
+   "name": {
+    "ja": "ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」"
+   },
+   "releaseDate": {
+    "ja": "2023-07-28"
+   },
+   "cardCount": {
+    "official": 30
+   }
+  },
+  "languages": {}
+ },
  "asia/XY": {
   "region": "asia",
   "set": "XY",
@@ -8340,6 +8409,7 @@
   },
   "tcgdex": {
    "name": {
+    "de": "McDonald's Kollektion 2018",
     "en": "McDonald's Collection 2018",
     "it": "McDonald's Collection 2018"
    },
@@ -8621,6 +8691,9 @@
   "identifiers": {
    "tcgplayerGroupIds": [
     24722
+   ],
+   "cardmarketExpansionIds": [
+    6601
    ]
   },
   "tcgdex": {
@@ -8687,14 +8760,17 @@
   "identifiers": {
    "tcgplayerGroupIds": [
     24837
+   ],
+   "cardmarketExpansionIds": [
+    6601
    ]
   },
   "tcgdex": {
    "name": {
     "en": "30th Classic Collection",
-    "fr": "Collection Classique30ᵉ Anniversaire",
+    "fr": "Collection Classique 30ᵉ Anniversaire",
     "de": "30 Jahre: Klassische Sammlung",
-    "it": "Collzione Classica del 30°",
+    "it": "Collezione Classica del 30°",
     "pt": "Coleção Clássica de 30 Anos",
     "es": "Colección Clásica del 30.º Aniversario",
     "es-mx": "Colección Clásica del 30.º Aniversario "
@@ -9536,6 +9612,7 @@
   "tcgdex": {
    "name": {
     "en": "Plasma Blast",
+    "es": "Explosión Plasma",
     "fr": "Explosion Plasma",
     "it": "Esplosione Plasma",
     "de": "Plasma-Blaster",
@@ -9603,7 +9680,9 @@
   },
   "tcgdex": {
    "name": {
+    "de": "Legendäre Schätze",
     "en": "Legendary Treasures",
+    "es": "Tesoros Legendarios",
     "pt": "Tesouros Lendários"
    },
    "releaseDate": "2013-11-06",
@@ -10489,6 +10568,7 @@
   },
   "tcgdex": {
    "name": {
+    "de": "Doppeltes Dilemma",
     "en": "Double Crisis",
     "fr": "Double Danger",
     "pt": "Crise Dupla"
@@ -13494,6 +13574,39 @@
    }
   }
  },
+ "international/me06": {
+  "region": "international",
+  "set": "me06",
+  "uuid": "b3161980-9cc2-5a3a-aeaf-4705d686243c",
+  "serie": "me",
+  "identifiers": {
+   "tcgplayerGroupIds": [
+    24831
+   ],
+   "cardmarketExpansionIds": [
+    6704
+   ]
+  },
+  "tcgdex": {
+   "name": {
+    "en": "Delta Reign",
+    "fr": "Règne Delta",
+    "de": "Delta-Herrschaft",
+    "it": "Dominio Delta ",
+    "pt": "Reinado Delta",
+    "es": "Dominio Delta",
+    "es-mx": "Dominio Delta"
+   },
+   "releaseDate": "2026-11-06",
+   "cardCount": {
+    "official": 103
+   },
+   "abbreviations": {
+    "official": "DLR"
+   }
+  },
+  "languages": {}
+ },
  "international/mee": {
   "region": "international",
   "set": "mee",
@@ -14647,7 +14760,8 @@
   "tcgdex": {
    "name": {
     "en": "Radiant Collection",
-    "fr": "Radiant Collection"
+    "fr": "Radiant Collection",
+    "es": "Colección Radiante"
    },
    "releaseDate": "2013-11-06",
    "cardCount": {
@@ -17226,8 +17340,7 @@
   "serie": "sv",
   "identifiers": {
    "tcgplayerGroupIds": [
-    22872,
-    22873
+    22872
    ],
    "cardmarketExpansionIds": [
     5241
