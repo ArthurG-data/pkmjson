@@ -19,7 +19,7 @@ The data also holds 3189 product families in 4445 language releases. 2905 famili
 
 ## Using the data
 
-Each tagged release attaches six files to a GitHub release, each with its JSON schema beside it
+Each release attaches six files to a GitHub release, each with its JSON schema beside it
 (`AllSets.schema.json`, ...):
 
 | File | Keyed by | Holds |
@@ -217,6 +217,19 @@ more than 5%. It counts the families of each set, the releases of each language,
 pools, and set names and logos. CI runs it on pull requests. A pull request whose title holds `[allow-loss]` skips
 it. The online check (`validate.py --online`) compares each card with TCGdex. CI runs it weekly, before a release
 and when started by hand, not on every pull request.
+
+### Releases
+
+- **Every day** at 06:00 UTC, `.github/workflows/daily.yml` reads TCGdex's cards-database at its latest commit and
+  rebuilds the card spine (`sync_tcgdex.sh --latest`, `import_tcgdex.py`, `uuids.py`). It then runs `validate.py
+  --since` and `check_losses.py`, and a failed check stops it. When the data changed, it opens one pull request,
+  `bot/tcgdex-refresh`, listing the counts that moved, or brings the open one up to date. `main` takes changes only
+  through a reviewed pull request, so a person approves and merges it. The other importers stay manual: their
+  review files need a person, and their sites are not to be read every day.
+- **A merge into `main` that changes `sets/` or `data/`** is released as the next patch version
+  (`tools/next_version.sh`) by CI's `publish` job, so readers of the latest release get it the same day.
+- **A minor version** is a tag pushed by hand (`git tag -a v0.4.0`). CI builds it and attaches the files
+  (`tools/release.sh`).
 
 ## Adding a product
 

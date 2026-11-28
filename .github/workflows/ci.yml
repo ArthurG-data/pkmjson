@@ -31,6 +31,10 @@ jobs:
         with:
           fetch-depth: 2
       - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          # No job restores a cache: the daily refresh runs TCGdex's code on main, so a cache main holds is
+          # not trusted.
+          enable-cache: false
       - run: uv sync --locked --group dev
       - run: uv run ruff check tools tests
       - run: uv run pytest -q
@@ -68,6 +72,10 @@ jobs:
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
       - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          # No job restores a cache: the daily refresh runs TCGdex's code on main, so a cache main holds is
+          # not trusted.
+          enable-cache: false
       - run: uv sync --locked --group dev
       - run: uv run python tools/validate.py --online
 
@@ -83,21 +91,54 @@ jobs:
         with:
           fetch-depth: 0
       - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          enable-cache: false
       - run: uv sync --locked --group dev
-      - run: uv run python tools/build.py --version "${GITHUB_REF_NAME#v}"
-      # A pushed tag has no release yet, so create it. A release published in the UI already exists, so attach
-      # the files to it (--clobber replaces them when a second run gets here).
-      - run: |
-          files=""
-          for name in AllSets AllCards AllPrintings AllProducts AllUuids AllTranslations; do
-            files="$files dist/$name.json dist/$name.schema.json"
-          done
-          if gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1; then
-            gh release upload "$GITHUB_REF_NAME" $files --clobber
+      # A pushed tag has no release yet, so it is created. A release published in the UI already exists, so the
+      # files are attached to it.
+      - run: tools/release.sh "$GITHUB_REF_NAME"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  # A merge into main that changes the data is released as the next patch version, so AutoMana, which reads the
+  # latest release, gets it the same day. The daily TCGdex refresh (daily.yml) arrives this way. A minor version is
+  # still a tag pushed by hand. The release is created through the API, and a tag made with the workflow's token
+  # starts no other run, so the release job above does not run a second time.
+  publish:
+    needs: [validate]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 0
+      - id: version
+        run: |
+          before=HEAD^
+          if [ "$BEFORE" != 0000000000000000000000000000000000000000 ] && git cat-file -e "$BEFORE^{commit}" 2> /dev/null; then
+            before=$BEFORE
+          fi
+          if git diff --quiet "$before" HEAD -- sets data mappings/sources.json; then
+            echo "the data did not change: nothing to release"
+          elif git tag --points-at HEAD | grep -q '^v'; then
+            echo "HEAD is already released"
           else
-            gh release create "$GITHUB_REF_NAME" $files --generate-notes
+            echo "tag=$(tools/next_version.sh)" >> "$GITHUB_OUTPUT"
           fi
         env:
+          BEFORE: ${{ github.event.before }}
+      - if: steps.version.outputs.tag
+        uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          enable-cache: false
+      - if: steps.version.outputs.tag
+        run: uv sync --locked --group dev
+      - if: steps.version.outputs.tag
+        run: tools/release.sh "$TAG" "$GITHUB_SHA"
+        env:
+          TAG: ${{ steps.version.outputs.tag }}
           GH_TOKEN: ${{ github.token }}
 
   # A release published in the UI is public before CI checks it. If the checks or the build fail, turn it back

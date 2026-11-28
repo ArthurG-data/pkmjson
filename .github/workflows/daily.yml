@@ -1,0 +1,181 @@
+name: daily
+
+# Every day, read TCGdex's cards-database at its latest commit and rebuild the card spine. When the data changed,
+# open (or bring up to date) one pull request, bot/tcgdex-refresh, for a person to approve: main takes changes only
+# through a reviewed pull request. Merging it releases the data (ci.yml, job publish).
+#
+# Only the TCGdex spine is refreshed. The other importers (tcgcsv, Poképédia, pokemon-card.com) stay manual: their
+# review files need a person, and those sites are not to be read every day.
+#
+# Rebuilding runs TCGdex's own code (its compiler helpers, through bun), so it runs in a job that can write nothing:
+# no token, no stored credentials. It hands its changes on as a patch. The job that pushes and opens the pull request
+# never runs TCGdex's code, and refuses a patch that touches anything but the data. Neither job reads or writes a
+# cache, so the first cannot leave anything behind for a job that holds a token.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    # With the shell named, a step runs with pipefail: check_losses piped into tee still fails the step.
+    defaults:
+      run:
+        shell: bash
+    outputs:
+      changed: ${{ steps.changed.outputs.changed }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          enable-cache: false
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
+        with:
+          no-cache: true
+      - run: uv sync --locked --group dev
+      - run: tools/sync_tcgdex.sh --latest
+      - run: uv run python tools/import_tcgdex.py
+      - run: uv run python tools/uuids.py
+      # Any check that fails stops the run before anything is handed on. GitHub reports the failed run to the owner.
+      - run: uv run python tools/validate.py --since HEAD
+      - run: uv run python tools/check_losses.py --base HEAD
+      - id: changed
+        run: |
+          # The pin moves with every TCGdex commit; only a change to the data is worth a pull request.
+          if [ -z "$(git status --porcelain -- sets data)" ]; then
+            echo "TCGdex changed nothing pkmjson keeps"
+          else
+            mkdir -p "$RUNNER_TEMP/refresh"
+            git add -A -- sets data mappings review
+            git diff --cached --binary > "$RUNNER_TEMP/refresh/refresh.patch"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.changed.outputs.changed
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: refresh
+          path: ${{ runner.temp }}/refresh
+          retention-days: 7
+
+  propose:
+    needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # push the bot branch
+      pull-requests: write  # open its pull request
+      actions: write        # start ci.yml on it: a push or pull request made with this token starts no workflow
+    defaults:
+      run:
+        shell: bash
+    env:
+      BRANCH: bot/tcgdex-refresh
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: main
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: refresh
+          path: ${{ runner.temp }}/refresh
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          enable-cache: false
+      - run: uv sync --locked --group dev
+      - run: |
+          # The patch came from a job that ran TCGdex's code. Check what it did once applied: only plain JSON files
+          # (mode 100644, before and after) under the data, nothing renamed out of it, then the data's own checks.
+          git apply --index "$RUNNER_TEMP/refresh/refresh.patch"
+          refused=$(git diff --cached --raw --no-renames | awk -F'\t' '{
+              split($1, f, " "); old = substr(f[1], 2); new = f[2]; path = $2
+              data = path ~ /^(sets|data|review)\/[A-Za-z0-9._\/+-]+\.json$/ || path == "mappings/sources.json"
+              if (!data || (old != "100644" && old != "000000") || (new != "100644" && new != "000000")) print path
+            }')
+          if [ -n "$refused" ]; then
+            echo "the refresh patch changes more than the data's JSON files:" >&2
+            echo "$refused" >&2
+            exit 1
+          fi
+          uv run python tools/validate.py --since HEAD
+          # The loss check is this job's own, and so are the counts in the pull request: only lines shaped like a
+          # count go in.
+          rc=0
+          uv run python tools/check_losses.py --base HEAD --changes > "$RUNNER_TEMP/losses.txt" || rc=$?
+          grep -E '^[A-Za-z0-9 ._/+-]+: [0-9]+ -> [0-9]+( \(lost [0-9]+\))?$|^no count moved$|^[0-9]+ losses against HEAD$' \
+            "$RUNNER_TEMP/losses.txt" > "$RUNNER_TEMP/tally.txt" || true
+          if [ "$rc" -ne 0 ]; then
+            echo "the refresh loses data:" >&2
+            cat "$RUNNER_TEMP/tally.txt" >&2
+            exit 1
+          fi
+          commit=$(python3 -c 'import json; print(json.load(open("mappings/sources.json"))["tcgdex"]["commit"])')
+          if ! [[ "$commit" =~ ^[0-9a-f]{40}$ ]]; then
+            echo "mappings/sources.json does not name a commit" >&2
+            exit 1
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git commit -q -m "Refresh the card spine from TCGdex ${commit:0:8}"
+          # This repository's own refresh pull request, by number: a fork's pull request may use the same branch
+          # name. An approval stays on a pull request when its branch moves (the ruleset keeps it), so an approved
+          # refresh is left as it is until it is merged: replacing it would merge data nobody approved. Looked up
+          # just before the push, and the push only moves the branch from the head seen here.
+          found=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --state open \
+                    --json number,isCrossRepository,reviewDecision,headRefOid \
+                    -q '[.[] | select(.isCrossRepository | not)][0] // empty | "\(.number)|\(.reviewDecision)|\(.headRefOid)"')
+          IFS="|" read -r number decision head <<< "$found"
+          if [ "$decision" = APPROVED ]; then
+            echo "refresh pull request #$number is approved: it is left as it is until it is merged"
+            exit 0
+          fi
+          if [ -z "$number" ]; then
+            head=$(git ls-remote origin "refs/heads/$BRANCH" | cut -f1)
+          fi
+          # One rolling branch: today's run replaces yesterday's, rebuilt from main.
+          git push --force-with-lease="refs/heads/$BRANCH:$head" origin "HEAD:refs/heads/$BRANCH"
+          # An approval that arrived between the check and the push approved the old data: dismiss it, so the new
+          # data needs its own. A review records the commit it approved.
+          if [ -n "$number" ]; then
+            pushed=$(git rev-parse HEAD)
+            for review in $(gh api "repos/$GITHUB_REPOSITORY/pulls/$number/reviews" \
+                              -q ".[] | select(.state == \"APPROVED\" and .commit_id != \"$pushed\") | .id"); do
+              gh api -X PUT "repos/$GITHUB_REPOSITORY/pulls/$number/reviews/$review/dismissals" \
+                -f message="The daily refresh replaced the data this approved." -f event=DISMISS > /dev/null
+            done
+          fi
+          {
+            echo "TCGdex's cards-database at [\`${commit:0:8}\`](https://github.com/tcgdex/cards-database/commit/$commit), read by the daily refresh."
+            echo
+            echo "\`validate.py --since main\` found no problem. The counts that moved against main (\`check_losses.py --changes\`):"
+            echo
+            echo '```'
+            cat "$RUNNER_TEMP/tally.txt"
+            echo '```'
+            echo
+            echo "Merging releases the data as the next patch version."
+          } > "$RUNNER_TEMP/body.md"
+          title="Refresh the card spine from TCGdex ${commit:0:8}"
+          if [ -n "$number" ]; then
+            gh pr edit "$number" --repo "$GITHUB_REPOSITORY" --title "$title" --body-file "$RUNNER_TEMP/body.md"
+          else
+            gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$BRANCH" --title "$title" \
+              --body-file "$RUNNER_TEMP/body.md"
+          fi
+          # The required check: a pull request opened with this token does not start ci.yml by itself.
+          gh workflow run ci.yml --repo "$GITHUB_REPOSITORY" --ref "$BRANCH"

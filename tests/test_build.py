@@ -92,6 +92,8 @@ def test_a_loss_is_more_than_a_few_and_more_than_a_share():
     assert check_losses.losses(base, collections.Counter({"en releases": 94, "fr releases": 10, "sets": 3})) == [
         "en releases: 100 -> 94 (lost 6)"]
     assert check_losses.losses(base, base + collections.Counter({"en releases": 50})) == []
+    assert check_losses.changes(base, collections.Counter({"en releases": 150, "sets": 3, "de releases": 2})) == [
+        "de releases: 0 -> 2", "en releases: 100 -> 150", "fr releases: 10 -> 0"]
 
 
 def test_the_tally_counts_releases_per_language_and_families_per_set():
