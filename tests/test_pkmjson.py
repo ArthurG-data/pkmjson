@@ -5,6 +5,7 @@ from pathlib import Path
 
 import pytest
 
+import readme_counts
 import uuids
 from conftest import write_families
 from pkmjson import (
@@ -15,7 +16,6 @@ from pkmjson import (
     is_plain_pack,
     load,
     official_set_names,
-    printings,
     set_prefix,
     validate,
     validate_cards,
@@ -206,17 +206,15 @@ def test_the_readme_counts_are_the_datas():
 
 
 def test_the_readme_counts_of_the_spine_are_the_datas():
-    import uuids
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    spine = uuids.Spine.load()
-    cards = [(b["region"], c) for b in spine.cards.values() for c in b["cards"]]
-    flat = [p for _, c in cards for p in printings(c)]
-    regions = collections.Counter(r for r, _ in cards)
-    stated = re.search(r"The data holds (\d+) sets in (\d+) series, and (\d+) cards: (\d+) international and (\d+) "
-                       r"Asian\. They are (\d+) oracles\s+and (\d+) printings\. (\d+) printings carry a TCGplayer "
-                       r"product and (\d+) a Cardmarket product\.", readme)
-    assert stated and tuple(map(int, stated.groups())) == (
-        len(spine.sets), len(spine.series), len(cards), regions["international"], regions["asia"],
-        len({c["oracleId"] for _, c in cards}), len(flat),
-        sum(bool((p.get("identifiers") or {}).get("tcgplayerProductIds")) for p in flat),
-        sum(bool((p.get("identifiers") or {}).get("cardmarketProductIds")) for p in flat))
+    # tools/readme_counts.py rewrites the sentence; the daily refresh runs it.
+    assert readme_counts.rewrite(readme, uuids.Spine.load()) == readme
+
+
+def test_readme_counts_rewrites_a_stale_sentence_and_only_it():
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    stale = re.sub(r"The data holds \d+ sets", "The data holds 1 sets", readme)
+    assert stale != readme
+    assert readme_counts.rewrite(stale, uuids.Spine.load()) == readme
+    with pytest.raises(SystemExit, match="0 times"):
+        readme_counts.rewrite("no counts here", uuids.Spine.load())

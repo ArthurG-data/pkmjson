@@ -112,6 +112,9 @@ jobs:
             exit 1
           fi
           uv run python tools/validate.py --since HEAD
+          # The README states the spine's counts, and CI checks them. This job's own tool rewrites them from the data.
+          uv run python tools/readme_counts.py
+          git add README.md
           # The loss check is this job's own, and so are the counts in the pull request: only lines shaped like a
           # count go in.
           rc=0
