@@ -17,3 +17,11 @@ Lookup tables the import tools read. Each row is a fact another source states; n
   Classic Collection pack holds `30th-c`, not `30th`. The regular 30th packs stay `30th`, since no source says they
   hold Classic Collection cards. `skip` maps a family id to why it gets no pool: bundles of packs from several sets that
   TCGplayer files under a promo set. The tool refuses a mapped id TCGdex does not list.
+- `sources.json`: the TCGdex cards-database commit the card spine is built from. `tools/sync_tcgdex.sh` checks it out,
+  and `--latest` moves it to the latest commit of master. `build.py` writes it into each release file's
+  `meta.sources`.
+- `promo_types.csv`: what each TCGdex variant attribute that is not a finish is, as a promo type and its category
+  (`stamp,pokemon-center,pokemon-center,stamp`). Copied from AutoMana's table. A printing's version key and id are
+  built from these names. Renaming one keeps the printing's UUID, through its TCGdex variant ids.
+- `tcgdex_renames.json`: ids TCGdex changed, `{"sets": {"<region>/<old>": "<region>/<new>"}, "series": {...}}`. The
+  renamed set keeps its UUID, and so do its cards. Empty until TCGdex renames something.

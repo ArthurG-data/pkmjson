@@ -36,6 +36,7 @@ from pkmjson import (
     PACK_CATEGORIES,
     REVIEW,
     ROOT,
+    SEALED,
     TCGDEX_API,
     Family,
     fold,
@@ -964,7 +965,7 @@ def regenerated(drafts: list[Draft], existing: list[Family], data_dir: Path, edi
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--data", default=ROOT / "data", type=Path)
+    parser.add_argument("--data", default=SEALED, type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
     parser.add_argument("--category", type=int, choices=sorted(EDITIONS), default=3,
                         help="TCGplayer category: 3 English, 85 Japanese")

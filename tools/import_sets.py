@@ -30,6 +30,7 @@ from net import Fetcher
 from pkmjson import (
     REVIEW,
     ROOT,
+    SEALED,
     SETS,
     TCGDEX_API,
     Family,
@@ -113,7 +114,7 @@ def japanese_names(families: list[Family]) -> dict[str, dict]:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--data", default=ROOT / "data", type=Path)
+    parser.add_argument("--data", default=SEALED, type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
     parser.add_argument("--out", default=SETS, type=Path)
     parser.add_argument("--review", default=REVIEW, type=Path)
@@ -125,7 +126,8 @@ def main(argv: list[str] | None = None) -> int:
               for langs in TCGDEX_LANGUAGES.values() for lang in langs}
 
     families = load(args.data)
-    official = recorded_official(read_json(args.out) if args.out.exists() else {})
+    previous = read_json(args.out) if args.out.exists() else {}
+    official = recorded_official(previous)
     japanese = japanese_names(families)
     by_set: dict[tuple[str, str], list[Family]] = {}
     for family in families:
@@ -136,7 +138,8 @@ def main(argv: list[str] | None = None) -> int:
         detail = fetcher.get(f"{TCGDEX_API}/ja/sets/{set_id}") or {}
         ja_sets[set_id] = {"name": brief["name"], "releaseDate": detail.get("releaseDate")}
     images = japanese_images(Fetcher(args.cache, pause=1.0, refresh=args.refresh), families, ja_sets)
-    sets, missing_logo = {}, []
+    # import_tcgdex.py owns the other keys of an entry, and the sets no family is filed under: they are kept.
+    sets, missing_logo = dict(previous), []
     for region, set_id in sorted(by_set):
         entry = {}
         for lang in TCGDEX_LANGUAGES[region]:
@@ -171,7 +174,9 @@ def main(argv: list[str] | None = None) -> int:
                 missing_logo.append(f"{region}/{set_id}:{lang}")
         # A set no source names (one TCGplayer files products under that TCGdex does not list) is still listed, so
         # every family's set is in this file.
-        sets[f"{region}/{set_id}"] = {"region": region, "set": set_id, "languages": entry}
+        key = f"{region}/{set_id}"
+        sets[key] = {**(previous.get(key) or {"region": region, "set": set_id}), "languages": entry}
+    sets = dict(sorted(sets.items()))
 
     # Each set's plain booster pack takes the set's official name, as printed on the pack.
     renamed, changed = 0, {}

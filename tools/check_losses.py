@@ -11,7 +11,9 @@ count at --base:
 - the families whose contents are complete;
 - the card items;
 - the booster packs with a pool;
-- the sets with a name or a logo per language.
+- the sets with a name or a logo per language, and with a TCGplayer group;
+- the cards of each set, the printings of each language, and those with each kind of identifier;
+- the oracles.
 
 A count that fell by more than MIN_LOSS and by more than LOSS_SHARE of itself is a loss. A gain is never one.
 
@@ -29,14 +31,15 @@ import tarfile
 import tempfile
 from pathlib import Path
 
-from pkmjson import ROOT, Family, load, read_json
+from pkmjson import CARDS, ROOT, SEALED, SETS, Family, load, printings, read_json
+from uuids import load_cards
 
 MIN_LOSS = 2
 LOSS_SHARE = 0.05
 DATA = ("sets/sets.json", "data")
 
 
-def tally(families: list[Family], sets: dict) -> collections.Counter:
+def tally(families: list[Family], sets: dict, cards: dict[str, dict] | None = None) -> collections.Counter:
     """{what: how many} for everything a loss could hide in."""
     count = collections.Counter()
     for f in families:
@@ -50,8 +53,20 @@ def tally(families: list[Family], sets: dict) -> collections.Counter:
             count[f"{r['language']} releases"] += 1
             count[f"{r['language']} releases with a release date"] += "releaseDate" in r
             count[f"{r['language']} releases with their own contents"] += "contents" in r
+    oracles = set()
+    for key, body in (cards or {}).items():
+        for card in body["cards"]:
+            count["cards"] += 1
+            count[f"cards in {key}"] += 1
+            oracles.add(card.get("oracleId"))
+            for p in printings(card):
+                count[f"{p['language']} printings"] += 1
+                for kind in (p.get("identifiers") or {}):
+                    count[f"{p['language']} printings with {kind}"] += 1
+    count["oracles"] = len(oracles - {None})
     for s in sets.values():
         count["sets"] += 1
+        count["sets with a TCGplayer group"] += bool((s.get("identifiers") or {}).get("tcgplayerGroupIds"))
         for lang, value in s["languages"].items():
             count[f"{lang} set names"] += "name" in value
             count[f"{lang} set logos"] += "logo" in value
@@ -68,8 +83,9 @@ def losses(base: collections.Counter, now: collections.Counter) -> list[str]:
     return out
 
 
-def load_at(ref: str, into: Path) -> tuple[list[Family], dict]:
-    """The families and sets as committed at ref, unpacked into the directory into."""
+def load_at(ref: str, into: Path) -> tuple[list[Family], dict, dict]:
+    """The families, sets and cards as committed at ref, unpacked into the directory into. Before the products
+    moved to data/sealed/ they sat in data/ itself."""
     present = subprocess.run(["git", "ls-tree", "--name-only", ref, "--", *DATA], cwd=ROOT, check=True,
                              capture_output=True, text=True).stdout.split()
     archive = into / "base.tar"
@@ -77,7 +93,10 @@ def load_at(ref: str, into: Path) -> tuple[list[Family], dict]:
     with tarfile.open(archive) as tar:
         tar.extractall(into, filter="data")
     sets = into / "sets" / "sets.json"
-    return load(into / "data"), read_json(sets) if sets.exists() else {}
+    sealed = into / "data" / "sealed"
+    families = load(sealed) if sealed.exists() else [f for f in load(into / "data") if f.path.parent.parent.parent ==
+                                                     into / "data" and f.path.name != "uuids.json"]
+    return families, read_json(sets) if sets.exists() else {}, load_cards(into / "data" / "cards")
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -87,7 +106,7 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     with tempfile.TemporaryDirectory(prefix="pkmjson-base-") as tmp:
         base = tally(*load_at(args.base, Path(tmp)))
-    now = tally(load(ROOT / "data"), read_json(ROOT / "sets" / "sets.json"))
+    now = tally(load(SEALED), read_json(SETS), load_cards(CARDS))
     found = losses(base, now)
     for message in found:
         print(message)

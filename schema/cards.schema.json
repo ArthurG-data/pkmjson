@@ -1,0 +1,375 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/pkmjson/schema/cards.schema.json",
+  "title": "pkmjson cards of one set",
+  "description": "data/cards/<region>/<set>.json: a TCGdex set's cards, each with its versions and their printings per language.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "region",
+    "set",
+    "cards"
+  ],
+  "properties": {
+    "region": {
+      "enum": [
+        "international",
+        "asia"
+      ]
+    },
+    "set": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9]+(?:[.+-]?[A-Za-z0-9+]+)*$"
+    },
+    "cards": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/card"
+      }
+    }
+  },
+  "$defs": {
+    "card": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "uuid",
+        "oracleId",
+        "localId",
+        "category",
+        "name",
+        "versions"
+      ],
+      "properties": {
+        "id": {
+          "description": "TCGdex card id: the set id, a dash and the card's number.",
+          "type": "string",
+          "minLength": 3
+        },
+        "uuid": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+          "description": "The card's pkmjson UUID: this card id in this tree."
+        },
+        "oracleId": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+          "description": "Shared by every reprint of one gameplay card (tools/tcgdex.py group_cards), as MTG's oracle id."
+        },
+        "localId": {
+          "description": "The card's number in its set.",
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "enum": [
+            "Pokemon",
+            "Trainer",
+            "Energy"
+          ]
+        },
+        "name": {
+          "description": "Text per language.",
+          "type": "object",
+          "propertyNames": {
+            "enum": [
+              "en",
+              "fr",
+              "es",
+              "es-mx",
+              "it",
+              "pt",
+              "pt-br",
+              "pt-pt",
+              "de",
+              "nl",
+              "pl",
+              "ru",
+              "ja",
+              "ko",
+              "zh-tw",
+              "zh-cn",
+              "id",
+              "th"
+            ]
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "imageLanguages": {
+          "description": "The languages TCGdex has an image of the card in, at https://assets.tcgdex.net/<language>/<serie>/<set>/<number>.",
+          "type": "array",
+          "items": {
+            "enum": [
+              "en",
+              "fr",
+              "es",
+              "es-mx",
+              "it",
+              "pt",
+              "pt-br",
+              "pt-pt",
+              "de",
+              "nl",
+              "pl",
+              "ru",
+              "ja",
+              "ko",
+              "zh-tw",
+              "zh-cn",
+              "id",
+              "th"
+            ]
+          }
+        },
+        "versions": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/version"
+          }
+        }
+      },
+      "patternProperties": {
+        "^(rarity|illustrator|regulationMark|hp|types|stage|suffix|evolveFrom|retreat|trainerType|energyType|dexId|cameoDexIds|effect|description|item|attacks|abilities|weaknesses|resistances|boosters|legal)$": {
+          "description": "As TCGdex states it."
+        }
+      }
+    },
+    "version": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "finishes",
+        "printings"
+      ],
+      "properties": {
+        "key": {
+          "description": "AutoMana's version key: the sorted promo types joined by '+', and '|oversized'. Absent for the plain version.",
+          "type": "string",
+          "minLength": 1
+        },
+        "promoTypes": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "category"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "category": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "oversized": {
+          "const": true
+        },
+        "finishes": {
+          "description": "null when TCGdex knows no variant of the card: its finishes are not known.",
+          "anyOf": [
+            {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "enum": [
+                  "nonfoil",
+                  "holo",
+                  "reverse-holo"
+                ]
+              }
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "identifiers": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "tcgdexVariantIds": {
+              "type": "object",
+              "propertyNames": {
+                "enum": [
+                  "nonfoil",
+                  "holo",
+                  "reverse-holo",
+                  "unknown"
+                ]
+              },
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+$"
+              }
+            },
+            "tcgplayerProductIds": {
+              "type": "object",
+              "propertyNames": {
+                "enum": [
+                  "nonfoil",
+                  "holo",
+                  "reverse-holo",
+                  "unknown"
+                ]
+              },
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "cardmarketProductIds": {
+              "type": "object",
+              "propertyNames": {
+                "enum": [
+                  "nonfoil",
+                  "holo",
+                  "reverse-holo",
+                  "unknown"
+                ]
+              },
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": 1
+              }
+            }
+          }
+        },
+        "printings": {
+          "description": "One printing per language the version is printed in.",
+          "type": "object",
+          "propertyNames": {
+            "enum": [
+              "en",
+              "fr",
+              "es",
+              "es-mx",
+              "it",
+              "pt",
+              "pt-br",
+              "pt-pt",
+              "de",
+              "nl",
+              "pl",
+              "ru",
+              "ja",
+              "ko",
+              "zh-tw",
+              "zh-cn",
+              "id",
+              "th"
+            ]
+          },
+          "minProperties": 1,
+          "additionalProperties": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "uuid"
+            ],
+            "properties": {
+              "uuid": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+                "description": "The printing's pkmjson UUID."
+              },
+              "finishes": {
+                "description": "null when TCGdex knows no variant of the card: its finishes are not known.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "uniqueItems": true,
+                    "items": {
+                      "enum": [
+                        "nonfoil",
+                        "holo",
+                        "reverse-holo"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "identifiers": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "tcgdexVariantIds": {
+                    "anyOf": [
+                      {
+                        "type": "object",
+                        "propertyNames": {
+                          "enum": [
+                            "nonfoil",
+                            "holo",
+                            "reverse-holo",
+                            "unknown"
+                          ]
+                        },
+                        "additionalProperties": {
+                          "type": "string",
+                          "pattern": "^[a-z0-9]+$"
+                        }
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "tcgplayerProductIds": {
+                    "type": "object",
+                    "propertyNames": {
+                      "enum": [
+                        "nonfoil",
+                        "holo",
+                        "reverse-holo",
+                        "unknown"
+                      ]
+                    },
+                    "additionalProperties": {
+                      "type": "integer",
+                      "minimum": 1
+                    }
+                  },
+                  "cardmarketProductIds": {
+                    "anyOf": [
+                      {
+                        "type": "object",
+                        "propertyNames": {
+                          "enum": [
+                            "nonfoil",
+                            "holo",
+                            "reverse-holo",
+                            "unknown"
+                          ]
+                        },
+                        "additionalProperties": {
+                          "type": "integer",
+                          "minimum": 1
+                        }
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

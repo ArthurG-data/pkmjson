@@ -1,0 +1,413 @@
+{
+ "international/base": {
+  "region": "international",
+  "serie": "base",
+  "uuid": "e5f1eb52-2c95-5ea3-9591-ba0c01f92950",
+  "name": {
+   "en": "Base",
+   "fr": "Base",
+   "es": "Clásica",
+   "it": "Originale",
+   "de": "Grund",
+   "pt": "Coleção Básica",
+   "nl": "Basis",
+   "pl": "Opierać"
+  }
+ },
+ "international/bw": {
+  "region": "international",
+  "serie": "bw",
+  "uuid": "2728a523-f221-5c53-b0af-efc6a5a37cc9",
+  "name": {
+   "en": "Black & White",
+   "fr": "Noir & Blanc",
+   "es": "Negro y Blanco",
+   "it": "Nero e Bianco",
+   "de": "Schwarz & Weiß",
+   "pt": "Black & White"
+  }
+ },
+ "international/col": {
+  "region": "international",
+  "serie": "col",
+  "uuid": "fac1d179-93bc-5d7c-a45c-1e777075a37e",
+  "name": {
+   "en": "Call of Legends",
+   "fr": "L'appel des Légendes",
+   "it": "Richiamo delle Leggende",
+   "de": "Ruf der Legenden",
+   "pt": "Chamado das Lendas"
+  }
+ },
+ "international/dp": {
+  "region": "international",
+  "serie": "dp",
+  "uuid": "6cd7e6fa-f94b-5e8d-b07c-58912dddeedf",
+  "name": {
+   "en": "Diamond & Pearl",
+   "fr": "Diamant & Perle",
+   "es": "Diamante & Perla",
+   "it": "Diamante & Perla",
+   "de": "Diamant & Perl",
+   "pt": "Diamante & Pérola",
+   "pl": "Diament i Perla"
+  }
+ },
+ "international/ecard": {
+  "region": "international",
+  "serie": "ecard",
+  "uuid": "dcc98f22-1237-5a4b-aa9f-905751fa5c19",
+  "name": {
+   "en": "E-Card",
+   "fr": "e-cards",
+   "it": "e-Series",
+   "de": "e-Card"
+  }
+ },
+ "international/ex": {
+  "region": "international",
+  "serie": "ex",
+  "uuid": "c8df5403-6a98-5fb0-b540-bdb48bd9cff4",
+  "name": {
+   "en": "EX",
+   "fr": "EX",
+   "es": "ex",
+   "it": "EX",
+   "de": "EX",
+   "pt": "EX"
+  }
+ },
+ "international/gym": {
+  "region": "international",
+  "serie": "gym",
+  "uuid": "f110d829-78be-5937-a4cf-b6771ebedc37",
+  "name": {
+   "en": "Gym"
+  }
+ },
+ "international/hgss": {
+  "region": "international",
+  "serie": "hgss",
+  "uuid": "66751aaf-aaec-54bd-b07f-30d986631885",
+  "name": {
+   "en": "HeartGold & SoulSilver",
+   "fr": "HeartGold SoulSilver",
+   "es": "HeartGold SoulSilver",
+   "it": "HeartGold SoulSilver",
+   "de": "HeartGold SoulSilver",
+   "pt": "HeartGold SoulSilver"
+  }
+ },
+ "international/lc": {
+  "region": "international",
+  "serie": "lc",
+  "uuid": "b44bec89-d702-5444-9d8d-780f394797f1",
+  "name": {
+   "en": "Legendary Collection",
+   "it": "Richiamo delle Leggende",
+   "de": "Ruf der Legenden",
+   "es": "Llamada de las Leyendas",
+   "fr": "L'Appel des Légendes"
+  }
+ },
+ "international/mc": {
+  "region": "international",
+  "serie": "mc",
+  "uuid": "d6d6fcb6-de54-5816-b3ad-d7f3ad923abe",
+  "name": {
+   "en": "McDonald's Collection",
+   "fr": "Collection McDonald's",
+   "es": "Colección de McDonald's",
+   "it": "McDonald's Collection"
+  }
+ },
+ "international/me": {
+  "region": "international",
+  "serie": "me",
+  "uuid": "cabbb2b8-186c-5391-96c5-9e811a762f2e",
+  "name": {
+   "de": "Mega-Entwicklung",
+   "en": "Mega Evolution",
+   "es": "Megaevolución",
+   "es-mx": "Megaevolución",
+   "fr": "Méga-Évolution",
+   "it": "Megaevoluzione",
+   "pt": "Megaevolução"
+  }
+ },
+ "international/misc": {
+  "region": "international",
+  "serie": "misc",
+  "uuid": "873f4b41-f781-5b9e-995c-522117016be2",
+  "name": {
+   "en": "Miscellaneous",
+   "ja": "その他",
+   "fr": "Autre"
+  }
+ },
+ "international/neo": {
+  "region": "international",
+  "serie": "neo",
+  "uuid": "8a26cb6f-e444-5e54-bb62-025b1753ecb5",
+  "name": {
+   "en": "Neo",
+   "fr": "Neo",
+   "es": "Neo",
+   "it": "Neo",
+   "de": "Neo"
+  }
+ },
+ "international/pl": {
+  "region": "international",
+  "serie": "pl",
+  "uuid": "dc660749-419b-5df8-b910-6408f174c1cf",
+  "name": {
+   "en": "Platinum",
+   "fr": "Platine",
+   "es": "Platino",
+   "it": "Platino",
+   "de": "Platin"
+  }
+ },
+ "international/pop": {
+  "region": "international",
+  "serie": "pop",
+  "uuid": "2ba48208-a599-536c-8c79-dcfc0a7fb873",
+  "name": {
+   "en": "POP",
+   "fr": "POP",
+   "es": "POP",
+   "it": "POP"
+  }
+ },
+ "international/sm": {
+  "region": "international",
+  "serie": "sm",
+  "uuid": "27a5ea9d-13a9-561c-97df-185eda311ba9",
+  "name": {
+   "en": "Sun & Moon",
+   "fr": "Soleil et Lune",
+   "es": "Sol y Luna",
+   "it": "Sole e Luna",
+   "de": "Sonne & Mond",
+   "pt": "Sol e Lua"
+  }
+ },
+ "international/sv": {
+  "region": "international",
+  "serie": "sv",
+  "uuid": "e4b17863-3afb-5b0c-a8e4-d2d1e529c03e",
+  "name": {
+   "de": "Karmesin & Purpur",
+   "en": "Scarlet & Violet",
+   "es": "Escarlata y Púrpura",
+   "es-mx": "Escarlata y Púrpura",
+   "fr": "Écarlate et Violet",
+   "it": "Scarlatto e Violetto",
+   "pt": "Escarlate e Violeta"
+  }
+ },
+ "international/swsh": {
+  "region": "international",
+  "serie": "swsh",
+  "uuid": "3db39bce-83a5-5853-b945-8f08cab42d6e",
+  "name": {
+   "en": "Sword & Shield",
+   "fr": "Épée et Bouclier",
+   "es": "Espada y Escudo",
+   "it": "Spada e Scudo",
+   "de": "Schwert & Schild",
+   "pt": "Espada e Escudo"
+  }
+ },
+ "international/tcgp": {
+  "region": "international",
+  "serie": "tcgp",
+  "uuid": "1a1390da-1250-5afd-b7fe-b4e12f2125e9",
+  "name": {
+   "en": "Pokémon TCG Pocket",
+   "de": "Pokémon‑Sammelkartenspiel‑Pocket",
+   "es": "Juego de Cartas Coleccionables Pokémon Pocket",
+   "fr": "Jeu de Cartes à Collectionner Pokémon Pocket",
+   "it": "Gioco di Carte Collezionabili Pokémon Pocket",
+   "pt-br": "Pokémon Estampas Ilustradas Pocket",
+   "ko": "포켓몬 카드 게임",
+   "ja": "Pokémon Trading Card Game Pocket"
+  }
+ },
+ "international/tk": {
+  "region": "international",
+  "serie": "tk",
+  "uuid": "460e76f4-e344-51b5-9e83-89a6a84dfee4",
+  "name": {
+   "en": "Trainer kits",
+   "fr": "Kits du dresseur",
+   "es": "Kits de Entrenador",
+   "it": "Trainer Kit"
+  }
+ },
+ "international/xy": {
+  "region": "international",
+  "serie": "xy",
+  "uuid": "93eea2f6-65fa-5850-a4da-5c8851b67c6a",
+  "name": {
+   "en": "XY",
+   "fr": "XY",
+   "es": "XY",
+   "it": "XY",
+   "de": "XY",
+   "pt": "XY",
+   "ru": "XY"
+  }
+ },
+ "asia/ADV": {
+  "region": "asia",
+  "serie": "ADV",
+  "uuid": "880ee3ba-6421-5a48-ac51-2f2f247854df",
+  "name": {
+   "ja": "ADV"
+  }
+ },
+ "asia/BW": {
+  "region": "asia",
+  "serie": "BW",
+  "uuid": "43c1d72b-3961-5e43-b219-f72893be21b5",
+  "name": {}
+ },
+ "asia/DP": {
+  "region": "asia",
+  "serie": "DP",
+  "uuid": "fca5e8e4-7321-5164-abe2-69c74bfb5b86",
+  "name": {}
+ },
+ "asia/DPt": {
+  "region": "asia",
+  "serie": "DPt",
+  "uuid": "a527c76d-006f-5a5c-84e5-327e10b20d15",
+  "name": {}
+ },
+ "asia/L": {
+  "region": "asia",
+  "serie": "L",
+  "uuid": "fc1d9b3a-82cc-595f-b672-63ba106f8c74",
+  "name": {
+   "ja": "LEGEND"
+  }
+ },
+ "asia/M": {
+  "region": "asia",
+  "serie": "M",
+  "uuid": "5bf6f934-ff88-57bf-abcf-745004950f16",
+  "name": {
+   "ja": "ポケモンカードゲーム MEGA"
+  }
+ },
+ "asia/PCG": {
+  "region": "asia",
+  "serie": "PCG",
+  "uuid": "14f6fa47-96ac-53bb-98b3-414fcf877356",
+  "name": {
+   "ja": "PCG"
+  }
+ },
+ "asia/PMCG": {
+  "region": "asia",
+  "serie": "PMCG",
+  "uuid": "5b081945-1b0f-561d-8737-6bb9013fc0f6",
+  "name": {
+   "ja": "ポケットモンスターカードゲーム"
+  }
+ },
+ "asia/S": {
+  "region": "asia",
+  "serie": "S",
+  "uuid": "f5c29de2-b41d-55e8-aff0-2ab5890d22dd",
+  "name": {
+   "ja": "剣と盾",
+   "zh-cn": "剑&盾",
+   "zh-tw": "劍＆盾",
+   "id": "Pedang & Perisai",
+   "th": "ซอร์ด แอนด์ ชีลด์",
+   "ko": "검과 방패"
+  }
+ },
+ "asia/SM": {
+  "region": "asia",
+  "serie": "SM",
+  "uuid": "2583eaf6-a7d5-55f5-aed4-5338c24d27d2",
+  "name": {
+   "ja": "サン＆ムーン",
+   "zh-cn": "太阳&月亮",
+   "ko": "썬&문"
+  }
+ },
+ "asia/SV": {
+  "region": "asia",
+  "serie": "SV",
+  "uuid": "a938eb7e-ee30-5d64-8abe-e36878275e8c",
+  "name": {
+   "ja": "ポケモンカードゲーム スカーレット&バイオレット",
+   "zh-cn": "朱&紫",
+   "zh-tw": "朱&紫系列",
+   "th": "สการ์เล็ต&ไวโอเล็ต",
+   "id": "Scarlet & Violet",
+   "ko": "스칼렛・바이올렛"
+  }
+ },
+ "asia/VS": {
+  "region": "asia",
+  "serie": "VS",
+  "uuid": "b462213b-1c03-56a0-bf6a-ee4732b42970",
+  "name": {
+   "ja": "VS"
+  }
+ },
+ "asia/XY": {
+  "region": "asia",
+  "serie": "XY",
+  "uuid": "bbebec64-e19f-5d95-a7d2-a686c186967d",
+  "name": {
+   "ja": "XY"
+  }
+ },
+ "asia/XYb": {
+  "region": "asia",
+  "serie": "XYb",
+  "uuid": "6adc0c8d-b6c4-5303-b5dd-b599ff07a8f5",
+  "name": {
+   "ja": "XY BREAK"
+  }
+ },
+ "asia/e": {
+  "region": "asia",
+  "serie": "e",
+  "uuid": "55ca2fa7-9ea7-5f33-96af-badb08fa005c",
+  "name": {
+   "ja": "ポケモンカードe"
+  }
+ },
+ "asia/misc": {
+  "region": "asia",
+  "serie": "misc",
+  "uuid": "e38fa64b-e80c-57fd-9a88-8543ac44b4c5",
+  "name": {
+   "ja": "その他"
+  }
+ },
+ "asia/neo": {
+  "region": "asia",
+  "serie": "neo",
+  "uuid": "fe0354c1-6ce8-54ed-8e95-a75c33d121b8",
+  "name": {
+   "ja": "ポケモンカード★neo"
+  }
+ },
+ "asia/web": {
+  "region": "asia",
+  "serie": "web",
+  "uuid": "155de219-01ab-5457-a033-52463534d9c0",
+  "name": {
+   "ja": "web"
+  }
+ }
+}

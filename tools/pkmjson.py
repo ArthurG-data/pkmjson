@@ -22,6 +22,10 @@ PACK_CATEGORIES = ("booster_pack", "sleeved_booster_pack")
 
 
 SETS = ROOT / "sets" / "sets.json"
+SERIES = ROOT / "sets" / "series.json"
+SEALED = ROOT / "data" / "sealed"
+CARDS = ROOT / "data" / "cards"
+UUIDS = ROOT / "data" / "uuids"
 REVIEW = ROOT / "review"
 MAPPINGS = ROOT / "mappings"
 # An asia family whose set id, lowercased, is also an international set id starts with this, so the two trees'
@@ -85,6 +89,40 @@ def write_json(path: Path, data: object, indent: int = 2) -> None:
     net.write_atomic(path, dumps(data, indent))
 
 
+def printing_id(card_id: str, language: str, version: dict) -> str:
+    """`<card id>~<language>`, with `~<promo types>[+oversized]` for any version but the plain one."""
+    parts = [p["name"] for p in version.get("promoTypes", [])] + (["oversized"] if version.get("oversized") else [])
+    return f"{card_id}~{language}" + (f"~{'+'.join(parts)}" if parts else "")
+
+
+def printings(card: dict) -> list[dict]:
+    """The card's printings, one per language and version, each with what its version shares and what its language
+    holds of its own. An identifier the language sets to null is one the version has and the language lacks."""
+    out = []
+    for version in card["versions"]:
+        for lang, own in version["printings"].items():
+            identifiers = {**version.get("identifiers", {}), **own.get("identifiers", {})}
+            printing = {"id": printing_id(card["id"], lang, version), "uuid": own.get("uuid"), "language": lang,
+                        "versionKey": version.get("key", "")}
+            printing.update({k: version[k] for k in ("promoTypes", "oversized") if k in version})
+            printing["finishes"] = own["finishes"] if "finishes" in own else version["finishes"]
+            if identifiers := {k: v for k, v in identifiers.items() if v is not None}:
+                printing["identifiers"] = identifiers
+            out.append(printing)
+    return out
+
+
+def dumps_cards(body: dict) -> str:
+    """A data/cards file: its set, then one card per line, so a diff shows which cards changed."""
+    head = {k: v for k, v in body.items() if k != "cards"}
+    lines = [json.dumps(c, ensure_ascii=False, separators=(",", ":")) for c in body["cards"]]
+    return json.dumps(head, ensure_ascii=False)[:-1] + ', "cards": [\n' + ",\n".join(lines) + "\n]}\n"
+
+
+def write_cards(path: Path, body: dict) -> None:
+    net.write_atomic(path, dumps_cards(body))
+
+
 def read_json(path: Path) -> object:
     return json.loads(path.read_text(encoding="utf-8"))
 
@@ -100,13 +138,9 @@ def official_set_names(path: Path = SETS) -> dict[tuple[str, str, str], str]:
             if v.get("name") and "tcgdex.net" not in v.get("source", "")}
 
 
-# The UUID registry (tools/uuids.py) sits beside the families, and is not one.
-REGISTRY_NAME = "uuids.json"
-
-
 def load(data_dir: Path) -> list[Family]:
     """Every product family under data_dir, sorted by path."""
-    return [Family(p, read_json(p)) for p in sorted(data_dir.rglob("*.json")) if p != data_dir / REGISTRY_NAME]
+    return [Family(p, read_json(p)) for p in sorted(data_dir.rglob("*.json"))]
 
 
 def write_family(family: Family) -> None:
@@ -215,17 +249,13 @@ def _owner_errors(by_id: dict[str, Family], data_dir: Path) -> list[str]:
             for (site, pid), fids in sorted(owners.items()) if len(fids) > 1]
 
 
-def validate(families: Iterable[Family], data_dir: Path, sets: dict | None = None,
-             registry: dict | None = None) -> list[str]:
-    """Every problem found offline, as 'path: message'. Empty when the data is valid. `sets` is sets/sets.json
-    and `registry` data/uuids.json; each is read from data_dir's repository when not given, and its checks are
-    skipped when it does not exist."""
+def validate(families: Iterable[Family], data_dir: Path, sets: dict | None = None) -> list[str]:
+    """Every problem of the product families found offline, as 'path: message'. Empty when they are valid. With
+    `sets` (sets/sets.json), each family's set must be in it. The UUIDs are tools/uuids.py's to check."""
     families = list(families)
     errors = _schema_errors(families, data_dir)
     if errors:
         return errors
-    if sets is None and (path := data_dir.parent / "sets" / "sets.json").exists():
-        sets = read_json(path)
     by_id: dict[str, Family] = {}
     dups = []
     for f in families:
@@ -242,11 +272,6 @@ def validate(families: Iterable[Family], data_dir: Path, sets: dict | None = Non
         errors += _pool_errors(f.data, where)
     errors += _owner_errors(by_id, data_dir)
     errors += _cycles(by_id, data_dir)
-    if registry is None and (path := data_dir / REGISTRY_NAME).exists():
-        registry = read_json(path)
-    if registry is not None:
-        import uuids  # uuids builds on this module
-        errors += uuids.errors((f.data for f in families), registry)
     return errors
 
 
@@ -355,15 +380,16 @@ def _schema(name: str) -> dict:
     return read_json(ROOT / "schema" / name)
 
 
-def file_errors(sets_path: Path = SETS, mappings: Path = MAPPINGS, registry: Path | None = None) -> list[str]:
-    """sets/sets.json, the mappings and the UUID registry against their schemas."""
+def file_errors(sets_path: Path = SETS, mappings: Path = MAPPINGS, registry: Path | None = None,
+                series_path: Path = SERIES) -> list[str]:
+    """sets/sets.json, sets/series.json, the mappings and the UUID registry (data/uuids/) against their schemas."""
     errors = []
-    checks = [(sets_path, _schema("sets.schema.json"))]
+    checks = [(sets_path, _schema("sets.schema.json")), (series_path, _schema("series.schema.json"))]
     defs = _schema("mappings.schema.json")
-    for name in ("tcgplayer_groups", "cardmarket_sealed", "pack_pools"):
+    for name in ("tcgplayer_groups", "cardmarket_sealed", "pack_pools", "tcgdex_renames", "sources"):
         checks.append((mappings / f"{name}.json", {**defs, "$ref": f"#/$defs/{name}"}))
     if registry is not None:
-        checks.append((registry, _schema("uuids.schema.json")))
+        checks += [(path, _schema("uuids.schema.json")) for path in sorted(registry.glob("*.json"))]
     for path, schema in checks:
         if not path.exists():
             continue

@@ -7,7 +7,19 @@ import pytest
 
 import uuids
 from conftest import write_families
-from pkmjson import file_errors, flatten, is_plain_pack, load, official_set_names, set_prefix, validate, validate_cards
+from pkmjson import (
+    SEALED,
+    UUIDS,
+    file_errors,
+    flatten,
+    is_plain_pack,
+    load,
+    official_set_names,
+    printings,
+    set_prefix,
+    validate,
+    validate_cards,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -26,9 +38,8 @@ def _family(fid, *, region="international", set_="zz1", sealed=(), cards=(), lan
 _write = write_families
 
 
-def test_the_published_data_is_valid():
-    data = ROOT / "data"
-    assert validate(load(data), data) == []
+def test_the_published_products_are_valid():
+    assert validate(load(SEALED), SEALED, sets=json.loads((ROOT / "sets" / "sets.json").read_text())) == []
 
 
 def test_a_nested_product_needs_a_release_in_the_same_language(tmp_path):
@@ -153,17 +164,6 @@ def test_every_family_and_release_needs_a_uuid(tmp_path):
     assert any("'uuid' is a required property" in e for e in errors)
 
 
-def test_the_registry_beside_the_families_is_checked_and_is_not_a_family(tmp_path):
-    families = _write(tmp_path, _family("zz1-a"))
-    registry = uuids.empty()
-    uuids.assign([f.data for f in families], registry)
-    uuids.save_registry(registry, tmp_path / "uuids.json")
-    assert [f.data["id"] for f in load(tmp_path)] == ["zz1-a"]
-    assert validate(load(tmp_path), tmp_path) == []
-    uuids.save_registry(uuids.empty(), tmp_path / "uuids.json")
-    assert validate(load(tmp_path), tmp_path)
-
-
 def test_set_prefixes_and_plain_packs():
     assert set_prefix("asia", "SM1+") == "sm1plus"
     assert set_prefix("asia", "SM10", {"sm10", "sv08"}) == "asia-sm10"
@@ -185,22 +185,38 @@ def test_official_set_names_skip_a_language_with_only_a_logo(tmp_path):
 
 
 def test_the_committed_sets_mappings_and_registry_match_their_schemas():
-    assert file_errors(registry=ROOT / "data" / "uuids.json") == []
+    assert file_errors(registry=UUIDS) == []
 
 
 def test_the_readme_counts_are_the_datas():
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    families = [f.data for f in load(ROOT / "data")]
+    families = [f.data for f in load(SEALED)]
     releases = collections.Counter(r["language"] for f in families for r in f["releases"])
     regions = collections.Counter(f["region"] for f in families)
-    sets = json.loads((ROOT / "sets" / "sets.json").read_text(encoding="utf-8"))
-    stated = re.search(r"The data holds (\d+) product families in (\d+) language releases, in (\d+) sets\. (\d+) "
+    stated = re.search(r"The data also holds (\d+) product families in (\d+) language releases\. (\d+) "
                        r"families are international and\s+(\d+) are Japanese\.", readme)
     assert stated and tuple(map(int, stated.groups())) == (
-        len(families), sum(releases.values()), len(sets), regions["international"], regions["asia"])
+        len(families), sum(releases.values()), regions["international"], regions["asia"])
     names = {"English": "en", "French": "fr", "Japanese": "ja", "German": "de", "Italian": "it", "Spanish": "es"}
     by_language = dict((names[m.group(2)], int(m.group(1)))
                        for m in re.finditer(r"(\d+) (English|French|Japanese|German|Italian|Spanish)", readme))
     assert by_language == dict(releases)
     complete = re.search(r"(\d+) families list their whole contents", readme)
     assert int(complete.group(1)) == sum(f["contentsStatus"] == "complete" for f in families)
+
+
+def test_the_readme_counts_of_the_spine_are_the_datas():
+    import uuids
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    spine = uuids.Spine.load()
+    cards = [(b["region"], c) for b in spine.cards.values() for c in b["cards"]]
+    flat = [p for _, c in cards for p in printings(c)]
+    regions = collections.Counter(r for r, _ in cards)
+    stated = re.search(r"The data holds (\d+) sets in (\d+) series, and (\d+) cards: (\d+) international and (\d+) "
+                       r"Asian\. They are (\d+) oracles\s+and (\d+) printings\. (\d+) printings carry a TCGplayer "
+                       r"product and (\d+) a Cardmarket product\.", readme)
+    assert stated and tuple(map(int, stated.groups())) == (
+        len(spine.sets), len(spine.series), len(cards), regions["international"], regions["asia"],
+        len({c["oracleId"] for _, c in cards}), len(flat),
+        sum(bool((p.get("identifiers") or {}).get("tcgplayerProductIds")) for p in flat),
+        sum(bool((p.get("identifiers") or {}).get("cardmarketProductIds")) for p in flat))

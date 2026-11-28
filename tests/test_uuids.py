@@ -5,6 +5,7 @@ import uuid
 import pytest
 
 import uuids
+from pkmjson import Family
 
 
 def _family(fid, *products, languages=("en",), cardmarket=None):
@@ -110,13 +111,14 @@ def test_two_live_families_claiming_one_uuid_are_a_conflict():
 def test_errors_name_a_missing_a_wrong_and_a_shared_uuid():
     registry, families = uuids.empty(), [_family("zz1-a", 1), _family("zz1-b", 2)]
     uuids.assign(families, registry)
-    assert uuids.errors(families, registry) == []
+    spine = uuids.Spine(families=[Family(None, f) for f in families])
+    assert uuids.errors(spine, registry) == []
     families[1]["uuid"] = families[0]["uuid"]
     del families[0]["releases"][0]["uuid"]
-    errors = uuids.errors(families, registry)
+    errors = uuids.errors(spine, registry)
     assert any("productReleases zz1-a:en has no uuid" in e for e in errors)
     assert any("products zz1-b: uuid" in e for e in errors)
-    assert any(e.startswith(f"uuid {families[0]['uuid']} is on 2 records") for e in errors)
+    assert any(e.startswith(f"products: uuid {families[0]['uuid']} is on 2 records") for e in errors)
 
 
 def test_history_errors_catch_a_dropped_or_changed_uuid():
@@ -133,9 +135,8 @@ def test_history_errors_catch_a_dropped_or_changed_uuid():
 def test_the_registry_saved_is_sorted_and_reloads_the_same(tmp_path):
     registry = uuids.empty()
     _run(registry, _family("zz1-b", 2), _family("zz1-a", 1))
-    path = tmp_path / "uuids.json"
-    uuids.save_registry(registry, path)
-    text = path.read_text()
-    assert uuids.load_registry(path) == registry
-    uuids.save_registry(uuids.load_registry(path), path)
-    assert path.read_text() == text
+    uuids.save_registry(registry, tmp_path)
+    text = (tmp_path / "products.json").read_text()
+    assert uuids.load_registry(tmp_path) == registry
+    uuids.save_registry(uuids.load_registry(tmp_path), tmp_path)
+    assert (tmp_path / "products.json").read_text() == text

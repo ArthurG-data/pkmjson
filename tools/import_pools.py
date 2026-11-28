@@ -25,6 +25,7 @@ from pkmjson import (
     PACK_CATEGORIES,
     REVIEW,
     ROOT,
+    SEALED,
     TCGDEX_API,
     Family,
     load,
@@ -86,7 +87,7 @@ def check_mapping(mapping: dict, tcgdex: dict[str, set[str]], regions: dict[str,
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--data", default=ROOT / "data", type=Path)
+    parser.add_argument("--data", default=SEALED, type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
     parser.add_argument("--review", default=REVIEW, type=Path)
     parser.add_argument("--refresh", action="store_true", help="fetch every page again")

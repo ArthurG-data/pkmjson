@@ -24,6 +24,7 @@ from pkmjson import (
     PACK_CATEGORIES,
     REVIEW,
     ROOT,
+    SEALED,
     SETS,
     TCGDEX_API,
     fold,
@@ -218,7 +219,7 @@ def refresh_french_contents(catalog: Catalog) -> list:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--data", default=ROOT / "data", type=Path)
+    parser.add_argument("--data", default=SEALED, type=Path)
     parser.add_argument("--cache", default=ROOT / ".cache", type=Path)
     parser.add_argument("--review", default=REVIEW, type=Path)
     parser.add_argument("--sets", default=SETS, type=Path)
